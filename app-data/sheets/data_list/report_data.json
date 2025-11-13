@@ -1,0 +1,35 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "report_data",
+  "status": "released",
+  "data_list_name": "report",
+  "rows": [
+    {
+      "id": "onboarding",
+      "type": "in_person",
+      "name": "Onboarding",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Onboarding"
+        }
+      }
+    },
+    {
+      "id": "week_1",
+      "type": "virtual",
+      "name": "Day 3: Self-Talk",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Day 3: Self-Talk"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/test content.xlsx"
+}

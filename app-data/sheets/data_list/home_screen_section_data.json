@@ -1,0 +1,69 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "home_screen_section_data",
+  "status": "released",
+  "data_list_name": "home_screen_section",
+  "rows": [
+    {
+      "id": "programme",
+      "title": "Facilitator Guide",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Facilitator Guide"
+        }
+      }
+    },
+    {
+      "id": "sessions",
+      "title": "Chat Sessions",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Chat Sessions"
+        }
+      }
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Frequently Asked Questions"
+        }
+      }
+    },
+    {
+      "id": "safeguarding",
+      "title": "Safeguarding",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Safeguarding"
+        }
+      }
+    },
+    {
+      "id": "challenges",
+      "title": "Common Challenges",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Common Challenges"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/test content.xlsx"
+}

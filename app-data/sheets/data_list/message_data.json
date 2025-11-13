@@ -1,0 +1,358 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "message_data",
+  "status": "released",
+  "rows": [
+    {
+      "id": 1,
+      "foreign_key": "contact_for_reporting_abuse",
+      "title": "Quickly Share These Resources",
+      "text": "Fiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)"
+    },
+    {
+      "id": 2,
+      "foreign_key": "crisis_hotlines",
+      "title": "Quickly Share These Resources",
+      "text": "1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:\nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n2️⃣ Abuse of women, girls, and boys: \nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n3️⃣ Emotional distress and suicidal thoughts:\nNational System of Support, Psychological Counselling and Crisis Intervention by Telephone\n55 5259-8121 (Call)\nLínea de la Vida\n+800 911 2000 (Call)\nlalineadelavida@salud.gob.mx (Email)\n\n4️⃣ Cybersecurity incident\nPolicía Cibernética \n+5552425100 ext. 5086 (Call)\npolicia.cibernetica@ssc.cdmx.gob.mx (Email)"
+    },
+    {
+      "id": 3,
+      "foreign_key": "day_1_introduction",
+      "title": "Message 1: Introduction",
+      "text": "😃 Hi there! Welcome to our Crianza con Conciencia+ WhatsApp Group! \n\nToday, we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME], and my goal is to learn more about how to help my girl go to bed by 8 every night.⏰🌙 \n\nPlease share your name and your goal for Crianza con Conciencia+ using text or audio message.",
+      "guidance": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\n\nFor example, you can say, “Thanks for the response, [Insert Name]!” or “Great goal, [Insert Name]”! You can also use simple emojis like 👍or 🙂"
+    },
+    {
+      "id": 4,
+      "foreign_key": "day_1_introduction",
+      "title": "Message 2: Setting time to chat",
+      "text": "This week, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our Crianza con Conciencia+ journey. \n\n👋Please join to share how things are going. Every little step matters. Share what works when you practice, reflections about the topic, any challenges you experience, or just say hi! 😊\n\n⏰Does this time and day work for everyone?",
+      "guidance": "Add the time and day of the week before sending the message."
+    },
+    {
+      "id": 5,
+      "foreign_key": "day_1_introduction",
+      "title": "Message 3: Closing",
+      "text": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home practice, try to spend at least 5 minutes of one-on-one time with your girl, boy or teen each day. \n\nWe can share how it goes during our next chat session. \n\n👋See you later."
+    },
+    {
+      "id": 6,
+      "foreign_key": "day_3_check_in",
+      "title": "Message 1: Encouragement",
+      "text": "💚Hello everyone! \n\n😃It’s the third day of improving your relationship with your girl, boy, or teen! You're the real experts on your boys, girls, and teens and the key to positively changing their lives. 💙\n\n⏰Set a daily reminder to check ParentText for tips to help your girl, boy, or teen become more confident and cooperative."
+    },
+    {
+      "id": 7,
+      "foreign_key": "day_3_mh_stress_self_talk",
+      "title": "Message 1: Chat Reminder",
+      "text": "💚Hello everyone! Our next chat session will be later today at [INSERT TIME]. Chat soon!",
+      "guidance": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+    },
+    {
+      "id": 8,
+      "foreign_key": "day_3_mh_stress_self_talk",
+      "title": "Message 2: Welcome and Check-in",
+      "text": "Hello, everyone! 😃\nWelcome to our second chat session! \n\nToday, we are talking about feeling stressed. Feeling stressed is a normal part of being human, and parenting can add an extra layer of challenges. \n\nIt’s important to manage our stress. Otherwise, it can build up and affect our health and relationships!\n\nHow is everyone’s stress level today? \n\nUse a number from 1 to 10 to share your stress level:\n1 - No Stress \n2 to 5 - Some Stress \n6 to 9 - Feeling Stressed \n10 - Extremely Stressed \n\nFeel free to share your number with the group. We're all in this together!",
+      "guidance": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “Today, I'm at a 5 stress level, my teen has been sick for a few days but happy to be part of the chat today.”"
+    },
+    {
+      "id": 9,
+      "foreign_key": "day_3_mh_stress_self_talk",
+      "title": "Message 3: Understanding Self Talk",
+      "text": "Thank you all for sharing your honest responses! 🎉\n💡 Today, we're going to practise a skill to manage stress: self-talk.\n🎤 Self-talk is the way we talk to ourselves in our head or out loud during stressful situations. It’s the things we say to ourselves out loud and the thoughts in our minds.\nIt's easy to be unkind to ourselves, especially when we're tired or upset.\nCan anyone share a time when they said something negative to themselves?",
+      "guidance": "Allow parents to respond. You can reply to the parents with an emoji ⭐ or words of encouragement, like “That is a good example! I am sure a lot of us have felt that way”."
+    },
+    {
+      "id": 10,
+      "foreign_key": "day_3_mh_stress_self_talk",
+      "title": "Message 4: Positive Self-Talk",
+      "text": "Thanks for sharing that example! \nParenting can be challenging. But you can reduce your overall stress when you think about what you’re doing well and speak kindly to yourself. \n\n1️⃣ The first step for practising self-talk is to notice when a negative thought comes.\n2️⃣Then, ask yourself: How can I change this thought into something kind or caring? You can: \n😃 Look for small parenting accomplishments or efforts. \n✅ Consider what you’ve learned from the negative situation. \n📝Come up with a few ways to help you act differently next time. Remember, this is temporary, and you have the chance to be better in the future."
+    },
+    {
+      "id": 11,
+      "foreign_key": "day_3_mh_stress_self_talk",
+      "title": "Practice Activity: Re-wording Negative Self-Talk",
+      "text": "📝 Let's notice negative self-talk when it happens, and turn it around. For example, \n**Negative Self-Talk:** \"I was a bad parent today. I yelled at my teen for an honest mistake.\"\n**Positive Self-Talk:** \"Today was tough because I've been overwhelmed. I yelled at my teen, knowing it was an honest mistake. Next time, I'll pause before responding, ensuring I'm calm and in control.\"\n💡 See how the positive self-talk is more supportive? 🏠 Now, your turn! Share a time you talked negatively to yourself, and let’s find and turn it into positive self-talk. Try doing this three times by the week’s end and feel the difference! \nHow parents talk to themselves teaches their kids how to talk to themselves. Girls, boys,  and teens learn from watching their parents.",
+      "guidance": "Briefly read the participants’ responses and make sure they are not insulting themselves and generally follow the example above. Any instances of intent of self-harm or harm to girls and boys should be reported appropriately."
+    },
+    {
+      "id": 12,
+      "foreign_key": "day_5_goodbye",
+      "title": "Message 1: Goodbye",
+      "text": "It's been wonderful being part of this amazing parenting course with all of you! Although I am feeling a bit sad to say goodbye, I am also happy to see how much we have achieved in this programme.  \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your boys, girls, and teens.  *You can still complete your final Crianza con Conciencia+ lessons if you have not done so yet*. 🌱\n\nWe all have good days and bad days, and Crianza con Conciencia+ will help you and your girl, boy or teen to get through them together. Well done! \n\nThank you for being the first parents for trying out Crianza con Conciencia+, and we're grateful for your help in improving the course. More courses will be coming to ParentText soon, so stay tuned!"
+    },
+    {
+      "id": 13,
+      "foreign_key": "day_4_check_in",
+      "title": "Message 1: Encouragement",
+      "text": "💚Hello parents!\n\nIt’s Day 4! You’re part of an amazing group of parents working to improve your relationship with your girls, boys, and teens! Embrace the role of a caring and conscious parent. \nIf you ever need more help, you can ask questions in this group or type HELP to get information about resources to support you. \r\rYou’re doing great! 🌈💛"
+    },
+    {
+      "id": 14,
+      "foreign_key": "day_6_final_chat_sessions_5ux",
+      "title": "Message 1: Reminder",
+      "text": "Hello! Our last chat session will be later today at [INSERT TIME]. See you then! 👋",
+      "guidance": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+    },
+    {
+      "id": 15,
+      "foreign_key": "day_6_final_chat_sessions_5ux",
+      "title": "Message 2: Welcome",
+      "text": "👋Hi everyone, congratulations on completing the course on improving your relationship with your girl, boy or teen on Crianza con Conciencia+! \n✨ Take a moment to think back to the beginning of the programme. You should be so proud of yourself. How was your experience in Crianza con Conciencia+?",
+      "guidance": "Allow parents to share their experience during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉or ⭐."
+    },
+    {
+      "id": 16,
+      "foreign_key": "day_6_final_chat_sessions_5ux",
+      "title": "Message 3: Thank You",
+      "text": "Thank you for sharing your experiences. It is wonderful to hear from you about the programme. Remember that your parenting journey continues! 💚\n\nOn ParentText, we will be adding more courses soon. So stay tuned for exciting learning opportunities!"
+    },
+    {
+      "id": 17,
+      "foreign_key": "day_6_final_chat_sessions_5ux",
+      "title": "Message 4: Goodbye",
+      "text": "It's been wonderful being part of this amazing parent program with all of you! Saying goodbye makes me a bit sad. \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your boys, girls, and teens.  *You can still complete your final Crianza con Conciencia+ lessons if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of Crianza con Conciencia+ will help you and your girl, boy or teen to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!"
+    },
+    {
+      "id": 18,
+      "foreign_key": "faq_h_after_group_ended",
+      "text": "Hi!😃Thank you for your message. \n\nMy role with Crianza con Conciencia+ was limited. I unfortunately will not be further involved with the programme. \n\nIf your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the Course by typing {MENU} or typing {HELP} if you need assistance for an emergency."
+    },
+    {
+      "id": 19,
+      "foreign_key": "faq_h_after_group_ended",
+      "title": "Send this reminder message to the parent who broke the  ground rule",
+      "text": "Hello ⭐\n\n👀 Creating a positive environment in our WhatsApp group is important, and that relies on everyone following the ground rules.\n\n🌱 I believe in the strength of our community. \n\nHowever, if difficulties continue, I may have to consider removing you from the group. \n\nLet's work together to maintain a respectful and supportive atmosphere. \n\nSee you in the next chat session."
+    },
+    {
+      "id": 20,
+      "foreign_key": "faq_h_after_group_ended",
+      "title": "Send this message to the parent after removing them from the WhatsApp Group",
+      "text": "Hello ⭐\n\n👀 I have noticed despite reminders, the ground rules aren't being followed.\n\n💚You can continue learning from Crianza con Conciencia+, but unfortunately I have removed you from the WhatsApp group to maintain a positive environment for everyone.",
+      "guidance": "Notify your supervisor once you remove them. \n\rYou can block the parent if they continue to reach out to you."
+    },
+    {
+      "id": 21,
+      "foreign_key": "faq_h_after_group_ended",
+      "title": "Send this message to the group after removing the parent who broke the ground rule",
+      "text": "Hello Everyone ⭐,\n\n👀 We want our group to be positive for everyone, and that means following the rules.\n\n💚 Unfortunately, someone had to be removed because they weren't following the rules despite reminders.\n\nLet's keep things respectful and supportive.\r\rSee you in the next chat session!"
+    },
+    {
+      "id": 22,
+      "foreign_key": "faq_ground_rules",
+      "title": "Send this reminder message to the group",
+      "text": "Hello ⭐\n\n👀 I'd like to take a moment to remind everyone about the importance of our group's ground rules. \n\n💚They're here to ensure that all of us feel comfortable sharing and maintain a positive environment. \n\n🌱It's all about making this group a great place for everyone.\n\n❗Please keep in mind that if the ground rules aren't consistently followed, we might need to consider removing members from the WhatsApp group for the well-being of all.\n\nSee you in the next chat session."
+    },
+    {
+      "id": 23,
+      "foreign_key": "faq_misbehaviour",
+      "title": "Send This Message to the Parent",
+      "text": "Hi!😃Thank you for your message. \n\nMy role in this activity is limited to only sharing messages in the group. I unfortunately do not have the capacity to respond to each individual message.😔\n\n🔑 If you are comfortable posting your questions in the group, please feel free to do so during our chat sessions! 💡\n\nYou can also type MENU in ParentText to get more support about the courses."
+    },
+    {
+      "id": 24,
+      "foreign_key": "faq_small_group_active",
+      "title": "Reminder for Participation",
+      "text": "🔔 Quick Reminder:\n\nWe all benefit when everyone joins in! Your experiences are important. Share your thoughts, and let's keep this group lively and supportive for everyone. 🌷"
+    },
+    {
+      "id": 25,
+      "foreign_key": "faq_small_group_active",
+      "title": "Praising active parents",
+      "text": "Big shoutout to those actively participating! \n\n🌟 Your experiences matter. \n\nWe'd love to hear from you if you haven't shared yet. \n\nEvery parent is important! 💚"
+    },
+    {
+      "id": 26,
+      "foreign_key": "faq_small_group_active",
+      "title": "Setting expectations for the group",
+      "text": "Just a friendly reminder: This group is a safe space for sharing and learning. 💙\n\nWe encourage everyone to participate and make this a positive experience for all. 🌱\n\nLet's build a supportive community together! 🌷"
+    },
+    {
+      "id": 27,
+      "foreign_key": "faq_small_group_active",
+      "title": "Privately messaging the parent",
+      "text": "Hi there! 👋 \n\nWe've noticed you haven't shared much in the group. \n\nIs there anything specific you'd like to see or discuss? \n\nYour input is important to us!\n\nFeel free to share your thoughts. 😊"
+    },
+    {
+      "id": 28,
+      "foreign_key": "faq_small_group_active",
+      "title": "Parents not comfortable sharing",
+      "text": "If you are not yet comfortable sharing, you can respond with an emoji and a comment if you relate to someone else's experience!\r\rYour comfort is important to us, and we appreciate your participation in a way that feels right for you. 😊"
+    },
+    {
+      "id": 29,
+      "foreign_key": "faq_h_still_struggling",
+      "title": "Message of Support",
+      "text": "Hello 👋\n\nThank you for sharing your thoughts about the programme. I’m sorry that you’re facing challenges. Here are a couple of things you can try: \n\n1️⃣If there’s a lesson that you are finding difficult, remember you can always go back to it by typing MENU. Practice makes perfect! ✨\n\n2️⃣If you feel comfortable, please feel free to chat about the areas you’re finding tough with your peers in the WhatsApp Support Group. Your peers might have some helpful tips 👍\n\n3️⃣If you are facing a severe situation, please type HELP to access a list of resources. \n\nRemember, everyone’s learning journey is unique, and change takes time. But trust me, if you keep practising the skills you’ve learned, you’ll start to see progress. 🏅"
+    },
+    {
+      "id": 30,
+      "foreign_key": "faq_h_sad_to_end",
+      "title": "Message of Support",
+      "text": "Hello 👋\n\nThank you for sharing your feelings. \nIt’s okay to have fears or feel sad when something you’ve been a part of is ending. \n\nRemember, \n\n1️⃣Even though Crianza con Conciencia+ is ending, your journey can continue. You have gained some ⭐amazing ⭐parenting skills that you can carry with you. \n\n2️⃣The WhatsApp group can be a source of support well beyond the programme. Keep sharing your successes and struggles in the WhatsApp Group or with your peers. \n\n3️⃣If you ever want to go back to any lesson, you can type MENU. Practice makes perfect ✨\n\n4️⃣ You can type HELP to look for other resources that are available for you. \n\nYou did great throughout the Crianza con Conciencia+ journey!"
+    },
+    {
+      "id": 31,
+      "foreign_key": "faq_no_participation_general",
+      "title": "Directly ask a specific parent to share",
+      "text": "[Enter a Parent's Name], we'd love to hear about your week with Crianza con Conciencia+. Would you be interested in sharing how it went?",
+      "guidance": "Before hitting send, please make sure to tag a specific parent by typing @Parent’s Name"
+    },
+    {
+      "id": 32,
+      "foreign_key": "faq_no_participation_general",
+      "title": "Check if it is a good time for WhatsApp Chat",
+      "text": "Hello Parents, 👋\n\n⏱️I value your time and want to ensure our chat is convenient for everyone. \n\n⭐Does this time work well for our conversations? \n\n🔔Is there another time that works for you? \n\nYour input matters!"
+    },
+    {
+      "id": 33,
+      "foreign_key": "faq_h_self_harm",
+      "title": "Send this message",
+      "text": "Dear [INSERT NAME], \n\nThis space is here to support you. If you or someone else is in immediate danger, consider calling La Línea de la Vida at 800 911 2000 or SAPTEL at 55 5259 8121 for assistance.\r\rYou can also type HELP in ParentText to find more resources for support. \r\rYour safety and well-being is important to us, and we are here to help.",
+      "guidance": "Write the name of the parent before sending the message."
+    },
+    {
+      "id": 34,
+      "foreign_key": "faq_h_no_neg_to_pos",
+      "title": "Send this message",
+      "text": "If you are struggling to say kind or caring words to yourselves, try this: \n\r1️⃣ Imagine someone you love is going through a similar situation.\n2️⃣ Think about what they might need to hear to feel better.\n3️⃣ Use those same comforting words and say them to yourself.\n\nRemember, you're not alone, and treating yourself with kindness matters."
+    },
+    {
+      "id": 35,
+      "foreign_key": "one_on_one_challenges",
+      "title": "I didn’t have enough time to spend one-on-one time.",
+      "text": "Thank you for sharing. It can be hard to find time, especially when you have work, chores, and other responsibilities to do. 😔 You could try finding a chore to do together."
+    },
+    {
+      "id": 36,
+      "foreign_key": "one_on_one_challenges",
+      "title": "My girl, boy or teen did not want to spend time with me.",
+      "text": "Thank you for sharing. It feels sad when your boy, girl, or teen doesn't want to spend time with you. 😔 Try suggesting a fun activity to do together."
+    },
+    {
+      "id": 37,
+      "foreign_key": "one_on_one_challenges",
+      "title": "All my girl, boy or teen wanted to do was watch T.V. or play with a gadget.",
+      "text": "It can be tough when your teen, girl, or boy seems focused on watching TV or playing with a gadget all the time. 😟 \n\nTo connect with them and understand their interests, try asking them to show you something cool on the gadget. \n\nIt's a simple way to engage with their world and spend time together. 📺"
+    },
+    {
+      "id": 38,
+      "foreign_key": "one_on_one_challenges",
+      "title": "My boy, girl, or teen did not want one-on-one time to end.",
+      "text": "I understand it can be tough when your girl, boy, or teen does not want one-on-one time to end. 😣\r\rTo make things smoother, try being clear about how much time you have together and give a gentle warning when the time is about to end. ⏰"
+    },
+    {
+      "id": 39,
+      "foreign_key": "one_on_one_challenges",
+      "title": "My boy, girl, or teen wanted to do activities that I could not do.",
+      "text": "I can imagine it's challenging when your girl, boy, or teen wants to do activities that you find difficult. 😔\n\nA simple solution is to ask your boy, girl, or teen if you can join in by watching.  \n\nThis way, you're still involved and supportive, even if you can't participate directly. 🤝"
+    },
+    {
+      "id": 40,
+      "foreign_key": "praise_challenges",
+      "title": "I forgot to praise my boy, girl, or teen.",
+      "text": "💚It can be difficult to juggle all the different things we need to do. \n\n🌱Next time you spend one-on-one time, try and think of one thing you can praise them for. \n\n☀️You can even say, “Thank you for\nspending time with me!”"
+    },
+    {
+      "id": 41,
+      "foreign_key": "praise_challenges",
+      "title": "I felt embarrassed or weird when praising my boy, girl, or teen.",
+      "text": "⭐It’s normal to feel uneasy about doing new things.\n\n🌷This is especially true of praise when we are not used to hearing it ourselves. \n\n👀But it will get easier with practice, I promise!"
+    },
+    {
+      "id": 42,
+      "foreign_key": "praise_challenges",
+      "title": "I can’t think of anything to praise my girl, boy, or teen.",
+      "text": "🔔Start small! You don’t have to select anything big to praise. \n\n💡Find a simple behaviour that your girl, boy, or teen does that you are happy about and tell them. Even something that they already do. \n\n♥️ It will make a difference!"
+    },
+    {
+      "id": 43,
+      "foreign_key": "talk_feelings_challenges",
+      "title": "My girl, boy or teen did not want to share their emotions.",
+      "text": "💚I understand that sharing feelings is challenging when it’s new. \n\n🌱Be patient and keep providing them with the opportunity to start sharing. \n\n☀️Be a model for your boys, girls, and teens by sharing your own feelings."
+    },
+    {
+      "id": 44,
+      "foreign_key": "talk_feelings_challenges",
+      "title": "I felt uncomfortable talking about my own feelings",
+      "text": "⭐It's okay to feel uncomfortable talking about your own feelings. \n\n👀A simple way to start is by using 'I feel...' \n\n🌷For example, you could say, \"I feel happy when we spend time together.\" Starting small like this can make it easier."
+    },
+    {
+      "id": 45,
+      "foreign_key": "talk_feelings_challenges",
+      "title": "Others in the household don’t think it’s a good idea to talk about emotions.",
+      "text": "🔔You can try talking to them about why it might be a good idea. \n\n💡Encourage them to try it first. Sometimes, just giving it a try can help everyone understand each other better."
+    },
+    {
+      "id": 46,
+      "foreign_key": "talk_feelings_challenges",
+      "title": "Others in the household don’t think it’s a good idea to talk about negative emotions.",
+      "text": "🔔Maybe you can have a chat with them about why it could be a good idea. \n\n💡Encourage them to give it a try! Talking openly about feelings can help everyone understand each other better."
+    },
+    {
+      "id": 47,
+      "foreign_key": "talk_feelings_challenges",
+      "title": "I don’t know how to name some of the feelings I am experiencing.",
+      "text": "✨Naming feelings can be tough. \n\n🔄Try combining words you know, like happy or sad, and think about where you feel it in your body. \n\n🔴For example, if your chest feels tight, it might be stress. \n\n🔶It's okay not to have all the words – describe it the best you can."
+    },
+    {
+      "id": 48,
+      "foreign_key": "routine_challenges",
+      "title": "Parent should be the one setting the rule, not the girl, boy, or teen.",
+      "text": "When we establish rules together with our\nchildren, that helps the family to understand each other better.\n\n The rules will be more realistic and children will be more willing and able to follow the rules."
+    },
+    {
+      "id": 49,
+      "foreign_key": "routine_challenges",
+      "title": "We made the routine, but my boy, girl, or teen does not follow it.",
+      "text": "I get that it's challenging when your girl, boy, or teen isn't following the routine you set. 😔\n\nThink about your routine – is it fair and realistic? What can your girl, boy, or teen actually do? Adjust the routine if necessary. \n\nPraise your boy, girl, or teen when they do follow the routine."
+    },
+    {
+      "id": 50,
+      "foreign_key": "routine_challenges",
+      "title": "When we tried to set a routine, we got into an argument",
+      "text": "When did you set the routine? Was the girl, boy or teen calm? How did you approach it? If you or your girls, boys, or teens are hungry or tired, it is better to talk about the routines at a later point."
+    },
+    {
+      "id": 51,
+      "foreign_key": "routine_challenges",
+      "title": "We were not able to stick to the routine",
+      "text": "Make sure you have a routine that can be kept easily. For example, try having one meal together every week instead of every night."
+    },
+    {
+      "id": 52,
+      "foreign_key": "faq_h_prompts",
+      "text": "🎉Let us celebrate our successes! What was something positive you experienced when you tried one of the Crianza con Conciencia+ skills with your boy or girlchild?"
+    },
+    {
+      "id": 53,
+      "foreign_key": "faq_h_prompts",
+      "text": "🌱Trying out new skills can be hard at first. What was something *difficult* that you experienced when you tried a Crianza con Conciencia+ skill with your boy or girlchild at home?"
+    },
+    {
+      "id": 54,
+      "foreign_key": "faq_h_prompts",
+      "text": "💙You are welcome to use this WhatsApp space to share any questions or experiences you have on your Crianza con Conciencia+ journey. Remember, I may not always be able to respond, but this is our group – *together we can find all the answers we need*!"
+    },
+    {
+      "id": 55,
+      "foreign_key": "faq_h_no_volunteers",
+      "title": "Alternate Closing Message",
+      "text": "Thank you for sharing your thoughts 💙\n\nSince we don’t have any volunteers for group admin, I will be closing this WhatsApp Support Group at the end of the Programme. \n\nRemember, you can still continue your Crianza con Conciencia+ journey with your family!"
+    },
+    {
+      "id": 56,
+      "foreign_key": "group_admin_onboarding",
+      "title": "Send this message after your WhatsApp Call",
+      "text": "Hi! Thank you for volunteering to lead the group discussions. \n\n*While engaging with other parents in the group, keep the following in mind*: \n\n👋Greet parents when engaging with them.\n\n💛Respect what participants share and be aware of different ages, genders, values and circumstances. \n\n🏅Encourage parents to share and respond to each other - and praise them for it.\n\n🔔Remind parents of ground rules when needed.\n\n🔑Model the behaviour you want to see among the parents."
+    },
+    {
+      "id": 57,
+      "foreign_key": "group_admin_onboarding",
+      "title": "When should the group admin respond to messages?",
+      "text": "*When should you respond to messages?*\n\n⏰Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\n👍You can also respond to messages with a relevant emoji or short response when you can.",
+      "guidance": "Send this message to the group admin volunteers."
+    }
+  ],
+  "_xlsxPath": "data/test content.xlsx"
+}

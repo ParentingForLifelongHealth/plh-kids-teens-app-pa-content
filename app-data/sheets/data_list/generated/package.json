@@ -1,0 +1,91 @@
+{
+  "flow_name": "package",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "cdmx_dif",
+      "title": "Mexico City - DIF",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Mexico City - DIF"
+        }
+      },
+      "name": "cdmx_dif",
+      "text": "Mexico City - DIF"
+    },
+    {
+      "id": "cdmx_bs",
+      "title": "Mexico City - Bienestar",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Mexico City - Bienestar"
+        }
+      },
+      "name": "cdmx_bs",
+      "text": "Mexico City - Bienestar"
+    },
+    {
+      "id": "edomx_bs",
+      "title": "Estado de Mexico - Bienestar",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Estado de Mexico - Bienestar"
+        }
+      },
+      "name": "edomx_bs",
+      "text": "Estado de Mexico - Bienestar"
+    },
+    {
+      "id": "chih_dif",
+      "title": "Chihuahua - DIF",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Chihuahua - DIF"
+        }
+      },
+      "name": "chih_dif",
+      "text": "Chihuahua - DIF"
+    },
+    {
+      "id": "bc_dif",
+      "title": "Baja California - DIF",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Baja California - DIF"
+        }
+      },
+      "name": "bc_dif",
+      "text": "Baja California - DIF"
+    },
+    {
+      "id": "mich_dif",
+      "title": "Michoacán - DIF",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Michoacán - DIF"
+        }
+      },
+      "name": "mich_dif",
+      "text": "Michoacán - DIF"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "flow_type": "template",
+  "flow_name": "footer",
+  "status": "released",
+  "rows": [
+    {
+      "name": "button_list",
+      "value": [
+        "image: @data.app_section.data_collection.icon_asset | target_template: @data.app_section.data_collection.template",
+        "image: @data.app_section.home.icon_asset | target_template: @data.app_section.home.template",
+        "image: @data.app_section.profile.icon_asset | target_template: @data.app_section.profile.template"
+      ],
+      "type": "set_variable",
+      "_nested_name": "button_list",
+      "_dynamicFields": {
+        "value": {
+          "0": [
+            {
+              "fullExpression": "image: @data.app_section.data_collection.icon_asset | target_template: @data.app_section.data_collection.template",
+              "matchedExpression": "@data.app_section.data_collection.icon_asset",
+              "type": "data",
+              "fieldName": "app_section"
+            },
+            {
+              "fullExpression": "image: @data.app_section.data_collection.icon_asset | target_template: @data.app_section.data_collection.template",
+              "matchedExpression": "@data.app_section.data_collection.template",
+              "type": "data",
+              "fieldName": "app_section"
+            }
+          ],
+          "1": [
+            {
+              "fullExpression": "image: @data.app_section.home.icon_asset | target_template: @data.app_section.home.template",
+              "matchedExpression": "@data.app_section.home.icon_asset",
+              "type": "data",
+              "fieldName": "app_section"
+            },
+            {
+              "fullExpression": "image: @data.app_section.home.icon_asset | target_template: @data.app_section.home.template",
+              "matchedExpression": "@data.app_section.home.template",
+              "type": "data",
+              "fieldName": "app_section"
+            }
+          ],
+          "2": [
+            {
+              "fullExpression": "image: @data.app_section.profile.icon_asset | target_template: @data.app_section.profile.template",
+              "matchedExpression": "@data.app_section.profile.icon_asset",
+              "type": "data",
+              "fieldName": "app_section"
+            },
+            {
+              "fullExpression": "image: @data.app_section.profile.icon_asset | target_template: @data.app_section.profile.template",
+              "matchedExpression": "@data.app_section.profile.template",
+              "type": "data",
+              "fieldName": "app_section"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@data.app_section.data_collection.icon_asset": [
+          "value.0"
+        ],
+        "@data.app_section.data_collection.template": [
+          "value.0"
+        ],
+        "@data.app_section.home.icon_asset": [
+          "value.1"
+        ],
+        "@data.app_section.home.template": [
+          "value.1"
+        ],
+        "@data.app_section.profile.icon_asset": [
+          "value.2"
+        ],
+        "@data.app_section.profile.template": [
+          "value.2"
+        ]
+      }
+    },
+    {
+      "type": "navigation_bar",
+      "name": "navigation_bar",
+      "parameter_list": {
+        "button_list": "@local.button_list"
+      },
+      "_nested_name": "navigation_bar",
+      "_dynamicFields": {
+        "parameter_list": {
+          "button_list": [
+            {
+              "fullExpression": "@local.button_list",
+              "matchedExpression": "@local.button_list",
+              "type": "local",
+              "fieldName": "button_list"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.button_list": [
+          "parameter_list.button_list"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "templates/footer.xlsx",
+  "_overrides": {
+    "footer_mx": "@fields._deployment_name == \"plh_facilitator_mx\""
+  }
+}

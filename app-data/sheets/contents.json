@@ -1,0 +1,753 @@
+{
+  "asset_pack": {},
+  "data_list": {
+    "about_this_app": {
+      "flow_type": "data_list",
+      "flow_name": "about_this_app",
+      "data_list_name": "about_this_app",
+      "_xlsxPath": "data/deployment_data_mx.xlsx"
+    },
+    "language": {
+      "flow_type": "data_list",
+      "flow_name": "language",
+      "data_list_name": "language",
+      "flow_subtype": "app_config_language_list",
+      "_xlsxPath": "data/deployment_data_mx.xlsx"
+    },
+    "app_section_data": {
+      "flow_type": "data_list",
+      "flow_name": "app_section_data",
+      "data_list_name": "app_section",
+      "_xlsxPath": "data/navigation_data.xlsx"
+    },
+    "article_data": {
+      "flow_name": "article_data",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "package": {
+      "flow_name": "package",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "home_screen_section_data": {
+      "flow_type": "data_list",
+      "flow_name": "home_screen_section_data",
+      "data_list_name": "home_screen_section",
+      "_xlsxPath": "data/test content.xlsx"
+    },
+    "privacy_policy": {
+      "flow_type": "data_list",
+      "flow_name": "privacy_policy",
+      "data_list_name": "privacy_policy",
+      "flow_subtype": "legal_terms",
+      "_xlsxPath": "data/deployment_data_mx.xlsx"
+    },
+    "terms_and_conditions": {
+      "flow_type": "data_list",
+      "flow_name": "terms_and_conditions",
+      "data_list_name": "terms_and_conditions",
+      "flow_subtype": "legal_terms",
+      "_xlsxPath": "data/deployment_data_mx.xlsx"
+    },
+    "launch_actions": {
+      "flow_type": "data_list",
+      "flow_subtype": "lifecycle_actions",
+      "flow_name": "launch_actions",
+      "_xlsxPath": "templates/app_launch.xlsx"
+    },
+    "media_data": {
+      "flow_type": "data_list",
+      "flow_name": "media_data",
+      "data_list_name": "media",
+      "_xlsxPath": "data/test content.xlsx"
+    },
+    "message_data": {
+      "flow_type": "data_list",
+      "flow_name": "message_data",
+      "_xlsxPath": "data/test content.xlsx"
+    },
+    "number_data": {
+      "flow_type": "data_list",
+      "flow_name": "number_data",
+      "data_list_name": "number",
+      "_xlsxPath": "data/navigation_data.xlsx"
+    },
+    "organisation": {
+      "flow_type": "data_list",
+      "flow_name": "organisation",
+      "data_list_name": "organisation",
+      "_xlsxPath": "data/deployment_data_mx.xlsx"
+    },
+    "organisation_group": {
+      "flow_type": "data_list",
+      "flow_name": "organisation_group",
+      "data_list_name": "organisation_group",
+      "_xlsxPath": "data/deployment_data_mx.xlsx"
+    },
+    "pdf_data": {
+      "flow_type": "data_list",
+      "flow_name": "pdf_data",
+      "data_list_name": "pdf",
+      "_xlsxPath": "data/test content.xlsx"
+    },
+    "profile_section_data": {
+      "flow_type": "data_list",
+      "flow_name": "profile_section_data",
+      "data_list_name": "profile_section",
+      "_xlsxPath": "data/profile_data.xlsx"
+    },
+    "related_article_data": {
+      "flow_type": "data_list",
+      "flow_name": "related_article_data",
+      "_xlsxPath": "data/test content.xlsx"
+    },
+    "report_data": {
+      "flow_type": "data_list",
+      "flow_name": "report_data",
+      "data_list_name": "report",
+      "_xlsxPath": "data/test content.xlsx"
+    },
+    "report_onboarding_data": {
+      "flow_type": "data_list",
+      "flow_name": "report_onboarding_data",
+      "data_list_name": "report_onboarding",
+      "_xlsxPath": "data/test content.xlsx"
+    },
+    "resource_data": {
+      "flow_type": "data_list",
+      "flow_name": "resource_data",
+      "_xlsxPath": "data/test content.xlsx"
+    },
+    "section_data": {
+      "flow_type": "data_list",
+      "flow_name": "section_data",
+      "_xlsxPath": "data/test content.xlsx"
+    },
+    "state": {
+      "flow_type": "data_list",
+      "flow_name": "state",
+      "data_list_name": "state",
+      "_xlsxPath": "data/deployment_data_mx.xlsx"
+    },
+    "tag_data": {
+      "flow_type": "data_list",
+      "flow_name": "tag_data",
+      "data_list_name": "tag",
+      "_xlsxPath": "data/test content.xlsx"
+    }
+  },
+  "data_pipe": {
+    "article_filter": {
+      "flow_type": "data_pipe",
+      "flow_name": "article_filter",
+      "_xlsxPath": "data/content_data_pipes.xlsx"
+    },
+    "create_package": {
+      "flow_type": "data_pipe",
+      "flow_name": "create_package",
+      "_xlsxPath": "data/content_data_pipes.xlsx"
+    }
+  },
+  "generator": {
+    "article_generator": {
+      "flow_type": "generator",
+      "flow_name": "article_generator",
+      "parameter_list": {
+        "input_data_list": "article_data",
+        "output_flow_name": "article_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/article.xlsx"
+    },
+    "help_generator": {
+      "flow_type": "generator",
+      "flow_name": "help_generator",
+      "parameter_list": {
+        "input_data_list": "app_section_data",
+        "output_flow_name": "help_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/help.xlsx"
+    },
+    "help_profile_generator": {
+      "flow_type": "generator",
+      "flow_name": "help_profile_generator",
+      "parameter_list": {
+        "input_data_list": "profile_section_data",
+        "output_flow_name": "help_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/help.xlsx"
+    },
+    "media_generator": {
+      "flow_type": "generator",
+      "flow_name": "media_generator",
+      "parameter_list": {
+        "input_data_list": "media_data",
+        "output_flow_name": "media_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/media.xlsx"
+    },
+    "pdf_generator": {
+      "flow_type": "generator",
+      "flow_name": "pdf_generator",
+      "parameter_list": {
+        "input_data_list": "pdf_data",
+        "output_flow_name": "pdf_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/media.xlsx"
+    }
+  },
+  "global": {
+    "article_global": {
+      "flow_type": "global",
+      "flow_name": "article_global",
+      "_xlsxPath": "data/test content.xlsx"
+    },
+    "debug_global": {
+      "flow_type": "global",
+      "flow_name": "debug_global",
+      "_xlsxPath": "data/navigation_data.xlsx"
+    },
+    "deployment_global": {
+      "flow_type": "global",
+      "flow_name": "deployment_global",
+      "_xlsxPath": "data/deployment_data.xlsx"
+    },
+    "deployment_global_mx": {
+      "flow_type": "global",
+      "flow_name": "deployment_global_mx",
+      "override_target": "deployment_global",
+      "override_condition": "@fields._deployment_name == \"plh_facilitator_mx\"",
+      "_xlsxPath": "data/deployment_data_mx.xlsx"
+    },
+    "legal_terms": {
+      "flow_type": "global",
+      "flow_name": "legal_terms",
+      "flow_subtype": "legal_terms",
+      "_xlsxPath": "data/deployment_data.xlsx"
+    },
+    "navigation_global": {
+      "flow_type": "global",
+      "flow_name": "navigation_global",
+      "_xlsxPath": "data/navigation_data.xlsx"
+    },
+    "profile_global": {
+      "flow_type": "global",
+      "flow_name": "profile_global",
+      "_xlsxPath": "data/profile_data.xlsx"
+    },
+    "supervisor_name": {
+      "flow_type": "global",
+      "flow_name": "supervisor_name",
+      "_xlsxPath": "data/dynamic_global_mx.xlsx"
+    },
+    "supervisor_name_bs": {
+      "flow_type": "global",
+      "flow_name": "supervisor_name_bs",
+      "override_target": "supervisor_name",
+      "override_condition": "@fields.current_package == \"cdmx_bs\" || @fields.current_package == \"edomx_bs\"",
+      "_xlsxPath": "data/dynamic_global_mx.xlsx"
+    },
+    "supervisor_name_dif": {
+      "flow_type": "global",
+      "flow_name": "supervisor_name_dif",
+      "override_target": "supervisor_name",
+      "override_condition": "@fields.current_package == \"cdmx_dif\" || @fields.current_package == \"chih_dif\" || @fields.current_package == \"bc_dif\" || @fields.current_package == \"mich_dif\"",
+      "_xlsxPath": "data/dynamic_global_mx.xlsx"
+    }
+  },
+  "template": {
+    "add_coparent": {
+      "flow_type": "template",
+      "flow_name": "add_coparent",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
+    "app_about": {
+      "flow_type": "template",
+      "flow_name": "app_about",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
+    "app_menu": {
+      "flow_type": "template",
+      "flow_name": "app_menu",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
+    "app_update_complete": {
+      "flow_type": "template",
+      "flow_name": "app_update_complete",
+      "_xlsxPath": "templates/app_launch.xlsx"
+    },
+    "article": {
+      "flow_type": "template",
+      "flow_name": "article",
+      "_xlsxPath": "templates/article.xlsx"
+    },
+    "article_launch_history": {
+      "flow_type": "template",
+      "flow_name": "article_launch_history",
+      "_xlsxPath": "templates/article.xlsx"
+    },
+    "data_collection": {
+      "flow_type": "template",
+      "flow_name": "data_collection",
+      "_xlsxPath": "templates/data_collection.xlsx"
+    },
+    "delete_parent": {
+      "flow_type": "template",
+      "flow_name": "delete_parent",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
+    "delete_report": {
+      "flow_type": "template",
+      "flow_name": "delete_report",
+      "_xlsxPath": "templates/data_collection.xlsx"
+    },
+    "download_header": {
+      "flow_type": "template",
+      "flow_name": "download_header",
+      "_xlsxPath": "templates/media.xlsx"
+    },
+    "enter_dev_mode": {
+      "flow_type": "template",
+      "flow_name": "enter_dev_mode",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
+    "existing_report": {
+      "flow_type": "template",
+      "flow_name": "existing_report",
+      "_xlsxPath": "templates/data_collection.xlsx"
+    },
+    "exit_dev_mode": {
+      "flow_type": "template",
+      "flow_name": "exit_dev_mode",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
+    "feature_feedback_debug": {
+      "flow_type": "template",
+      "flow_name": "feature_feedback_debug",
+      "comments": "Default general feedback form",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
+    "feature_feedback_default": {
+      "flow_type": "template",
+      "flow_name": "feature_feedback_default",
+      "comments": "Default text-select feedback form",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
+    "feature_feedback_text_select": {
+      "flow_type": "template",
+      "flow_name": "feature_feedback_text_select",
+      "comments": "Used in /feedback debug page",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
+    "footer": {
+      "flow_type": "template",
+      "flow_name": "footer",
+      "_xlsxPath": "templates/footer.xlsx",
+      "_overrides": {
+        "footer_mx": "@fields._deployment_name == \"plh_facilitator_mx\""
+      }
+    },
+    "footer_mx": {
+      "flow_type": "template",
+      "flow_name": "footer_mx",
+      "override_target": "footer",
+      "override_condition": "@fields._deployment_name == \"plh_facilitator_mx\"",
+      "_xlsxPath": "templates/footer_mx.xlsx"
+    },
+    "article_after_disclosed_abuse": {
+      "flow_name": "article_after_disclosed_abuse",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_contact_for_reporting_abuse": {
+      "flow_name": "article_contact_for_reporting_abuse",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_crisis_hotlines": {
+      "flow_name": "article_crisis_hotlines",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_day_1_introduction": {
+      "flow_name": "article_day_1_introduction",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_day_3_check_in": {
+      "flow_name": "article_day_3_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_day_3_mh_stress_self_talk": {
+      "flow_name": "article_day_3_mh_stress_self_talk",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_day_4_check_in": {
+      "flow_name": "article_day_4_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_day_5_goodbye": {
+      "flow_name": "article_day_5_goodbye",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_day_6_final_chat_sessions_5ux": {
+      "flow_name": "article_day_6_final_chat_sessions_5ux",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_during_disclosed_abuse": {
+      "flow_name": "article_during_disclosed_abuse",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_faq_ground_rules": {
+      "flow_name": "article_faq_ground_rules",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_faq_h_after_group_ended": {
+      "flow_name": "article_faq_h_after_group_ended",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_faq_h_no_neg_to_pos": {
+      "flow_name": "article_faq_h_no_neg_to_pos",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_faq_h_no_volunteers": {
+      "flow_name": "article_faq_h_no_volunteers",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_faq_h_parents_insult": {
+      "flow_name": "article_faq_h_parents_insult",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_faq_h_prompts": {
+      "flow_name": "article_faq_h_prompts",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_faq_h_sad_to_end": {
+      "flow_name": "article_faq_h_sad_to_end",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_faq_h_self_harm": {
+      "flow_name": "article_faq_h_self_harm",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_faq_h_still_struggling": {
+      "flow_name": "article_faq_h_still_struggling",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_faq_misbehaviour": {
+      "flow_name": "article_faq_misbehaviour",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_faq_no_participation_general": {
+      "flow_name": "article_faq_no_participation_general",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_faq_small_group_active": {
+      "flow_name": "article_faq_small_group_active",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_faq_text_support": {
+      "flow_name": "article_faq_text_support",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_group_admin_onboarding": {
+      "flow_name": "article_group_admin_onboarding",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_how_to_chat_session": {
+      "flow_name": "article_how_to_chat_session",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_how_to_report": {
+      "flow_name": "article_how_to_report",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_how_to_report_abuse": {
+      "flow_name": "article_how_to_report_abuse",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_onboarding_cc": {
+      "flow_name": "article_onboarding_cc",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_one_on_one_challenges": {
+      "flow_name": "article_one_on_one_challenges",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_overview_cc": {
+      "flow_name": "article_overview_cc",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_praise_challenges": {
+      "flow_name": "article_praise_challenges",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_routine_challenges": {
+      "flow_name": "article_routine_challenges",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_feelings_challenges": {
+      "flow_name": "article_talk_feelings_challenges",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_what_is_safeguarding": {
+      "flow_name": "article_what_is_safeguarding",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "help_about": {
+      "flow_name": "help_about",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "help_data_collection": {
+      "flow_name": "help_data_collection",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "help_group": {
+      "flow_name": "help_group",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "help_groups": {
+      "flow_name": "help_groups",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "help_home": {
+      "flow_name": "help_home",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "help_id": {
+      "flow_name": "help_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "help_profile": {
+      "flow_name": "help_profile",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_manual": {
+      "flow_name": "pdf_manual",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "header": {
+      "flow_type": "template",
+      "flow_name": "header",
+      "_xlsxPath": "templates/navigation.xlsx"
+    },
+    "help_button": {
+      "flow_type": "template",
+      "flow_name": "help_button",
+      "_xlsxPath": "templates/help.xlsx"
+    },
+    "home_screen": {
+      "flow_type": "template",
+      "flow_name": "home_screen",
+      "_xlsxPath": "templates/navigation.xlsx"
+    },
+    "home_screen_card": {
+      "flow_type": "template",
+      "flow_name": "home_screen_card",
+      "_xlsxPath": "templates/navigation.xlsx"
+    },
+    "home_screen_carousel": {
+      "flow_type": "template",
+      "flow_name": "home_screen_carousel",
+      "_xlsxPath": "templates/navigation.xlsx"
+    },
+    "home_screen_grid": {
+      "flow_type": "template",
+      "flow_name": "home_screen_grid",
+      "_xlsxPath": "templates/navigation.xlsx"
+    },
+    "import_user_data": {
+      "flow_type": "template",
+      "flow_name": "import_user_data",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
+    "in_person_form": {
+      "flow_type": "template",
+      "flow_name": "in_person_form",
+      "_xlsxPath": "templates/data_collection.xlsx"
+    },
+    "in_person_unreported": {
+      "flow_type": "template",
+      "flow_name": "in_person_unreported",
+      "_xlsxPath": "templates/data_collection.xlsx"
+    },
+    "language_select": {
+      "flow_type": "template",
+      "flow_name": "language_select",
+      "_xlsxPath": "templates/app_launch.xlsx"
+    },
+    "accept_terms": {
+      "flow_type": "template",
+      "flow_subtype": "legal_terms",
+      "flow_name": "accept_terms",
+      "_xlsxPath": "templates/legal_terms.xlsx"
+    },
+    "accept_terms_warning": {
+      "flow_type": "template",
+      "flow_subtype": "legal_terms",
+      "flow_name": "accept_terms_warning",
+      "_xlsxPath": "templates/legal_terms.xlsx"
+    },
+    "app_menu_privacy_policy": {
+      "flow_type": "template",
+      "flow_subtype": "legal_terms",
+      "flow_name": "app_menu_privacy_policy",
+      "_xlsxPath": "templates/legal_terms.xlsx"
+    },
+    "app_menu_terms": {
+      "flow_type": "template",
+      "flow_subtype": "legal_terms",
+      "flow_name": "app_menu_terms",
+      "_xlsxPath": "templates/legal_terms.xlsx"
+    },
+    "media": {
+      "flow_type": "template",
+      "flow_name": "media",
+      "_xlsxPath": "templates/media.xlsx"
+    },
+    "message_box": {
+      "flow_type": "template",
+      "flow_name": "message_box",
+      "_xlsxPath": "templates/article.xlsx"
+    },
+    "messages": {
+      "flow_type": "template",
+      "flow_name": "messages",
+      "_xlsxPath": "templates/article.xlsx"
+    },
+    "nav_buttons": {
+      "flow_type": "template",
+      "flow_name": "nav_buttons",
+      "_xlsxPath": "templates/navigation.xlsx"
+    },
+    "odk_form": {
+      "flow_type": "template",
+      "flow_name": "odk_form",
+      "_xlsxPath": "templates/data_collection.xlsx"
+    },
+    "package_select": {
+      "flow_type": "template",
+      "flow_name": "package_select",
+      "_xlsxPath": "templates/app_launch.xlsx"
+    },
+    "parent_group": {
+      "flow_type": "template",
+      "flow_name": "parent_group",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
+    "parent_profile": {
+      "flow_type": "template",
+      "flow_name": "parent_profile",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
+    "pdf": {
+      "flow_type": "template",
+      "flow_name": "pdf",
+      "_xlsxPath": "templates/media.xlsx"
+    },
+    "profile": {
+      "flow_type": "template",
+      "flow_name": "profile",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
+    "profile_about": {
+      "flow_type": "template",
+      "flow_name": "profile_about",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
+    "profile_group": {
+      "flow_type": "template",
+      "flow_name": "profile_group",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
+    "profile_groups": {
+      "flow_type": "template",
+      "flow_name": "profile_groups",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
+    "profile_id": {
+      "flow_type": "template",
+      "flow_name": "profile_id",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
+    "related_articles": {
+      "flow_type": "template",
+      "flow_name": "related_articles",
+      "_xlsxPath": "templates/article.xlsx"
+    },
+    "resources": {
+      "flow_type": "template",
+      "flow_name": "resources",
+      "_xlsxPath": "templates/article.xlsx"
+    },
+    "section_header": {
+      "flow_type": "template",
+      "flow_name": "section_header",
+      "_xlsxPath": "templates/navigation.xlsx"
+    },
+    "sections": {
+      "flow_type": "template",
+      "flow_name": "sections",
+      "_xlsxPath": "templates/article.xlsx"
+    },
+    "virtual_form": {
+      "flow_type": "template",
+      "flow_name": "virtual_form",
+      "_xlsxPath": "templates/data_collection.xlsx"
+    },
+    "virtual_unreported": {
+      "flow_type": "template",
+      "flow_name": "virtual_unreported",
+      "_xlsxPath": "templates/data_collection.xlsx"
+    }
+  },
+  "tour": {}
+}

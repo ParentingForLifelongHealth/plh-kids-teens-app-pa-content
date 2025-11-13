@@ -1,0 +1,70 @@
+{
+  "flow_type": "template",
+  "flow_name": "header",
+  "status": "released",
+  "rows": [
+    {
+      "name": "icon_asset",
+      "type": "set_variable",
+      "_nested_name": "icon_asset"
+    },
+    {
+      "type": "display_group",
+      "name": "dg_header",
+      "rows": [
+        {
+          "type": "title",
+          "name": "title",
+          "style_list": [
+            "flex:3"
+          ],
+          "_nested_name": "dg_header.title"
+        },
+        {
+          "type": "image",
+          "name": "image",
+          "value": "@local.icon_asset",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "style": "rounded_corners"
+          },
+          "condition": "!!@local.icon_asset",
+          "style_list": [
+            "flex:2"
+          ],
+          "_nested_name": "dg_header.image",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.icon_asset",
+                "matchedExpression": "@local.icon_asset",
+                "type": "local",
+                "fieldName": "icon_asset"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!!@local.icon_asset",
+                "matchedExpression": "!@local.icon_asset",
+                "type": "local",
+                "fieldName": "icon_asset"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.icon_asset": [
+              "value"
+            ],
+            "!@local.icon_asset": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "dg_header"
+    }
+  ],
+  "_xlsxPath": "templates/navigation.xlsx"
+}

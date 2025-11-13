@@ -1,0 +1,110 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "section_data",
+  "status": "released",
+  "rows": [
+    {
+      "id": 1,
+      "foreign_key": "day_1_introduction",
+      "title": "Add Ground Rules to the WhatsApp Group Description",
+      "introduction": "Remember to add the ground rules to the WhatsApp Group Description. \r\r​​To add the ground rules to the Group Description, copy the following ground rules or use the ones agreed during the onboarding session: \r\r“To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing. Avoid topics unrelated to the content of the workshop, advertisements or sales. \n✅ Feel free to ask questions! \n✅ Respect privacy of personal pictures and videos that are sent to the chat group. \n✅ I AM only here as an observer. I will not respond to questions about your parenting habits in this group or personally. However, if there is a message that will benefit the entire group, then I will share a general message here.”\n\nOpen the WhatsApp group chat. \r\rTap the group name. \r\rTap the existing description, or tap Add Group Description. \nPaste the ground rules. \r\rTap Save."
+    },
+    {
+      "id": 2,
+      "foreign_key": "overview_cc",
+      "title": "What’s inside the Facilitator Guide?",
+      "introduction": "This guide is for YOU!! \nA comprehensive guide to help you deliver Crianza con Conciencia+ to families around you. \nSteps on how to introduce caregivers to the programme and support them\nSpecific information on the programme’s content."
+    },
+    {
+      "id": 3,
+      "foreign_key": "overview_cc",
+      "title": "What to remember?",
+      "introduction": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents."
+    },
+    {
+      "id": 4,
+      "foreign_key": "overview_cc",
+      "title": "Skills you need",
+      "introduction": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together."
+    },
+    {
+      "id": 5,
+      "foreign_key": "overview_cc",
+      "title": "⭐Remember",
+      "introduction": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above."
+    },
+    {
+      "id": 6,
+      "foreign_key": "how_to_chat_session",
+      "title": "Create a WhatsApp Group",
+      "introduction": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with the temporary group name, icon, and description). The name of each WhatsApp group has the same structure:\n“Crianza con Conciencia+”\nA name selected by the group \n\nWhen you create your temporary group name, you will use \"Crianza con Conciencia+” \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Crianza con Conciencia+__HappyFamilies”."
+    },
+    {
+      "id": 7,
+      "foreign_key": "how_to_chat_session",
+      "title": "Conduct Chat Session",
+      "introduction": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \n\nIdentify the ground rules for the WhatsApp Group.\n\n**Structure for the chat sessions**: \n\nDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice\n\nDay 3: WhatsApp Chat session on self-talk and stress\n\nDay 5: Checking in on parents’ experience and closing\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time."
+    },
+    {
+      "id": 8,
+      "foreign_key": "how_to_chat_session",
+      "title": "Share the messages in the chat session",
+      "introduction": "Look for the \"Chat Sessions\" section on the Formando Conciencia+ homepage\n\nFind the specific chat session you want to share and click on it.\n\nOnce you're on the content for that session, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nSelect \"WhatsApp\" as your sharing option in the menu that appears.\n\nChoose your Crianza con Conciencia+ Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your Crianza con Conciencia+ Support Group."
+    },
+    {
+      "id": 9,
+      "foreign_key": "how_to_chat_session",
+      "title": "Get Help with WhatsApp Support Group",
+      "introduction": "If you require help while moderating your WhatsApp Support Group, the chat sessions provide a list of FAQs and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Chat Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the chat session, kindly contact your supervisor for further guidance."
+    },
+    {
+      "id": 10,
+      "foreign_key": "how_to_report",
+      "title": "Set up your profile",
+      "introduction": "Select the profile icon from the bottom navigation bar\n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\nTap Save"
+    },
+    {
+      "id": 11,
+      "foreign_key": "how_to_report",
+      "title": "Add a Parent",
+      "introduction": "Select the profile icon from the bottom navigation bar. \n\nChoose “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on Crianza con Conciencia+. Copy the 6-digit number into the parent profile."
+    },
+    {
+      "id": 12,
+      "foreign_key": "how_to_report",
+      "title": "Add a Co-Parent",
+      "introduction": "If two parents from the same family are participating in the programme, together, you must link their accounts. \n\nOnce you have added the first parent profile, to add a second parent, select “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on Crianza con Conciencia+. Copy the 6-digit number into the parent profile. \n\nSelect “Add Co-Parent”\n\nSelect the co-parent from available parent user profiles. \n\nSelect “Save”\n\n*Both parent profiles will be updated to note the co-parent.*"
+    },
+    {
+      "id": 13,
+      "foreign_key": "how_to_report",
+      "title": "Report Attendance",
+      "introduction": "Select the pencil icon from the bottom navigation bar. \n\nSelect whether you are reporting on an in-person or WhatsApp session with your parents. \n\nChoose which session you are reporting on. \n\n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (in-person) or the number of messages you sent (WhatsApp Group)\n\n🔵Selecting the parents who participated in the session:\n\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \nFor the WhatsApp group, “participation” is defined as parents who have sent at least 1 message during the chat session. \n\nIf you do not see a parent’s name, then you need to add that parent to the App (see above)."
+    },
+    {
+      "id": 14,
+      "foreign_key": "how_to_report",
+      "title": "Edit an Attendance Report",
+      "introduction": "Only edit an attendance report if you have made a mistake.\n\nSelect the pencil icon from the bottom of the navigation bar. \n\nSelect whether you want to edit an in-person or WhatsApp session. \n\nSelect the session that you want to edit.\n\nYour previous selections will appear. You can now edit your selections and select “Save”"
+    },
+    {
+      "id": 15,
+      "foreign_key": "faq_h_parents_insult",
+      "title": "Using kinder language",
+      "introduction": "If a parent is being unkind to themselves, they might already realize it. To help, gently suggest a kinder language. For example\n\nParent: \"I’m an okay parent, even I often mess up.\"\n\nFacilitator: \"Thank you for sharing. Great job recognizing your strength. Let's re-word this unkind talk. How about:\n💚 'I’m an okay parent, even though I’m overwhelmed right now.'\n💛 'Even when I don’t have all the answers.'\n💙 'It's okay to make mistakes and learn from them.'\n\nYou can choose one of these or create a new one. Parents might not be used to positive self-talk so a little encouragement can go a long way!"
+    },
+    {
+      "id": 16,
+      "foreign_key": "faq_h_parents_insult",
+      "title": "Promoting Support",
+      "introduction": "Remind parents that this space is a supportive community. Encourage parents to share words of encouragement and positive things they say to themselves. This helps create a supportive environment for everyone."
+    },
+    {
+      "id": 17,
+      "foreign_key": "group_admin_onboarding",
+      "title": "What to cover in the WhatsApp Call?",
+      "introduction": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵Greet parents when engaging with them.\n🔵Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵Encourage parents to share and respond to each other - and praise them for it.\n🔵Remind parents of ground rules when needed.\n🔵Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the Crianza con Conciencia+ skills with your boy, girl, or teen?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a Crianza con Conciencia+ skill with your girl, boy, or teen at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group."
+    }
+  ],
+  "_xlsxPath": "data/test content.xlsx"
+}

@@ -1,0 +1,15 @@
+{
+  "flow_type": "template",
+  "flow_name": "home_screen",
+  "status": "released",
+  "rows": [
+    {
+      "type": "template",
+      "name": "home_screen",
+      "value": "home_screen_card",
+      "rows": [],
+      "_nested_name": "home_screen"
+    }
+  ],
+  "_xlsxPath": "templates/navigation.xlsx"
+}

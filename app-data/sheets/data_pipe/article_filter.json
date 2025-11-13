@@ -1,0 +1,16 @@
+{
+  "flow_type": "data_pipe",
+  "flow_name": "article_filter",
+  "status": "released",
+  "rows": [
+    {
+      "operation": "filter",
+      "input_source": "article_data",
+      "output_target": "article_data",
+      "args_list": [
+        "status != \"draft\""
+      ]
+    }
+  ],
+  "_xlsxPath": "data/content_data_pipes.xlsx"
+}

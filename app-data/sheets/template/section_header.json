@@ -1,0 +1,149 @@
+{
+  "flow_type": "template",
+  "flow_name": "section_header",
+  "status": "released",
+  "rows": [
+    {
+      "name": "section_id",
+      "value": "data_collection",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "section_id"
+    },
+    {
+      "name": "section_data",
+      "value": "app_section",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "section_data"
+    },
+    {
+      "name": "concat_app_section_id",
+      "value": "@local.section_data.@local.section_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "concat_app_section_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.section_data.@local.section_id",
+            "matchedExpression": "@local.section_data",
+            "type": "local",
+            "fieldName": "section_data"
+          },
+          {
+            "fullExpression": "@local.section_data.@local.section_id",
+            "matchedExpression": "@local.section_id",
+            "type": "local",
+            "fieldName": "section_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.section_data": [
+          "value"
+        ],
+        "@local.section_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "app_section_data",
+      "value": "@data.@local.concat_app_section_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "app_section_data",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.@local.concat_app_section_id",
+            "matchedExpression": "@local.concat_app_section_id",
+            "type": "local",
+            "fieldName": "concat_app_section_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.concat_app_section_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "name": "dg_header",
+      "rows": [
+        {
+          "type": "title",
+          "name": "title",
+          "value": "@local.app_section_data.title",
+          "_translations": {
+            "value": {}
+          },
+          "style_list": [
+            "flex:1"
+          ],
+          "_nested_name": "dg_header.title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.app_section_data.title",
+                "matchedExpression": "@local.app_section_data.title",
+                "type": "local",
+                "fieldName": "app_section_data"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.app_section_data.title": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "template",
+          "name": "help_button",
+          "value": "help_button",
+          "rows": [
+            {
+              "name": "help_template",
+              "value": "help_@local.section_id",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "dg_header.help_button.help_template",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "help_@local.section_id",
+                    "matchedExpression": "@local.section_id",
+                    "type": "local",
+                    "fieldName": "section_id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.section_id": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "dg_header.help_button"
+        }
+      ],
+      "_nested_name": "dg_header"
+    }
+  ],
+  "_xlsxPath": "templates/navigation.xlsx"
+}

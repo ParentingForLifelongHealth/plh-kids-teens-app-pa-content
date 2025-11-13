@@ -1,0 +1,176 @@
+{
+  "flow_type": "template",
+  "flow_name": "pdf",
+  "status": "released",
+  "rows": [
+    {
+      "name": "pdf_id",
+      "value": "pdf_1",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "pdf_id"
+    },
+    {
+      "name": "data",
+      "value": "pdf",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "data"
+    },
+    {
+      "name": "concat_pdf_id",
+      "value": "@local.data.@local.pdf_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "concat_pdf_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.data.@local.pdf_id",
+            "matchedExpression": "@local.data",
+            "type": "local",
+            "fieldName": "data"
+          },
+          {
+            "fullExpression": "@local.data.@local.pdf_id",
+            "matchedExpression": "@local.pdf_id",
+            "type": "local",
+            "fieldName": "pdf_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.data": [
+          "value"
+        ],
+        "@local.pdf_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "pdf_data",
+      "value": "@data.@local.concat_pdf_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "pdf_data",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.@local.concat_pdf_id",
+            "matchedExpression": "@local.concat_pdf_id",
+            "type": "local",
+            "fieldName": "concat_pdf_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.concat_pdf_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "name": "top",
+      "parameter_list": {
+        "style": "column"
+      },
+      "rows": [
+        {
+          "type": "template",
+          "name": "header",
+          "value": "download_header",
+          "rows": [
+            {
+              "name": "title",
+              "value": "@local.pdf_data.title",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "top.header.title",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.pdf_data.title",
+                    "matchedExpression": "@local.pdf_data.title",
+                    "type": "local",
+                    "fieldName": "pdf_data"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.pdf_data.title": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "asset",
+              "value": "@local.pdf_data.pdf_asset",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "top.header.asset",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.pdf_data.pdf_asset",
+                    "matchedExpression": "@local.pdf_data.pdf_asset",
+                    "type": "local",
+                    "fieldName": "pdf_data"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.pdf_data.pdf_asset": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "top.header"
+        }
+      ],
+      "_nested_name": "top"
+    },
+    {
+      "type": "pdf",
+      "name": "pdf",
+      "value": "@local.pdf_data.pdf_asset",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "starting_page": "1"
+      },
+      "_nested_name": "pdf",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.pdf_data.pdf_asset",
+            "matchedExpression": "@local.pdf_data.pdf_asset",
+            "type": "local",
+            "fieldName": "pdf_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.pdf_data.pdf_asset": [
+          "value"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "templates/media.xlsx"
+}

@@ -1,0 +1,29 @@
+{
+  "flow_type": "generator",
+  "flow_name": "pdf_generator",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "pdf_data",
+    "output_flow_name": "pdf_@gen.id",
+    "output_flow_type": "template",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "type": "template",
+      "name": "pdf",
+      "value": "pdf",
+      "rows": [
+        {
+          "name": "data",
+          "value": "pdf"
+        },
+        {
+          "name": "pdf_id",
+          "value": "@gen.id"
+        }
+      ]
+    }
+  ],
+  "_xlsxPath": "templates/media.xlsx"
+}

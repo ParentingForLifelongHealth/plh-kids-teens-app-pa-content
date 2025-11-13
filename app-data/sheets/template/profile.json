@@ -1,0 +1,261 @@
+{
+  "flow_type": "template",
+  "flow_name": "profile",
+  "status": "released",
+  "rows": [
+    {
+      "type": "template",
+      "name": "section_header",
+      "value": "section_header",
+      "rows": [
+        {
+          "name": "section_id",
+          "value": "profile",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "section_header.section_id"
+        },
+        {
+          "name": "section_data",
+          "value": "app_section",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "section_header.section_data"
+        }
+      ],
+      "_nested_name": "section_header"
+    },
+    {
+      "type": "button",
+      "name": "button_language",
+      "value": "@global.language",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "language_select"
+          ],
+          "_raw": "click | go_to: language_select",
+          "_cleaned": "click | go_to: language_select"
+        }
+      ],
+      "condition": "@global.has_multiple_languages",
+      "parameter_list": {
+        "style": "card"
+      },
+      "_nested_name": "button_language",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.language",
+            "matchedExpression": "@global.language",
+            "type": "global",
+            "fieldName": "language"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@global.has_multiple_languages",
+            "matchedExpression": "@global.has_multiple_languages",
+            "type": "global",
+            "fieldName": "has_multiple_languages"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.language": [
+          "value"
+        ],
+        "@global.has_multiple_languages": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "items",
+      "value": "@data.profile_section",
+      "rows": [
+        {
+          "type": "button",
+          "name": "button_@item.id",
+          "value": "@item.title",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "profile_@item.id"
+              ],
+              "_raw": "click | go_to: profile_@item.id",
+              "_cleaned": "click | go_to: profile_@item.id"
+            }
+          ],
+          "condition": "@item.show",
+          "parameter_list": {
+            "style": "card"
+          },
+          "_nested_name": "items.button_@item.id",
+          "_dynamicFields": {
+            "name": [
+              {
+                "fullExpression": "button_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "value": [
+              {
+                "fullExpression": "@item.title",
+                "matchedExpression": "@item.title",
+                "type": "item",
+                "fieldName": "title"
+              }
+            ],
+            "action_list": {
+              "0": {
+                "args": {
+                  "0": [
+                    {
+                      "fullExpression": "profile_@item.id",
+                      "matchedExpression": "@item.id",
+                      "type": "item",
+                      "fieldName": "id"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | go_to: profile_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | go_to: profile_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              }
+            },
+            "condition": [
+              {
+                "fullExpression": "@item.show",
+                "matchedExpression": "@item.show",
+                "type": "item",
+                "fieldName": "show"
+              }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "items.button_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "name",
+              "action_list.0.args.0",
+              "action_list.0._raw",
+              "action_list.0._cleaned",
+              "_nested_name"
+            ],
+            "@item.title": [
+              "value"
+            ],
+            "@item.show": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "name": "items",
+      "_nested_name": "items",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.profile_section",
+            "matchedExpression": "@data.profile_section",
+            "type": "data",
+            "fieldName": "profile_section"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.profile_section": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button_package",
+      "value": "@global.your_package",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "package_select"
+          ],
+          "_raw": "click | go_to: package_select",
+          "_cleaned": "click | go_to: package_select"
+        }
+      ],
+      "condition": "@global.has_multiple_content_packages",
+      "parameter_list": {
+        "style": "card"
+      },
+      "_nested_name": "button_package",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.your_package",
+            "matchedExpression": "@global.your_package",
+            "type": "global",
+            "fieldName": "your_package"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@global.has_multiple_content_packages",
+            "matchedExpression": "@global.has_multiple_content_packages",
+            "type": "global",
+            "fieldName": "has_multiple_content_packages"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.your_package": [
+          "value"
+        ],
+        "@global.has_multiple_content_packages": [
+          "condition"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "templates/profile.xlsx"
+}

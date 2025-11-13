@@ -1,0 +1,371 @@
+{
+  "flow_type": "template",
+  "flow_name": "data_collection",
+  "status": "released",
+  "rows": [
+    {
+      "type": "update_action_list",
+      "name": "custom_actions_1",
+      "action_list": [
+        {
+          "trigger": "nav_resume",
+          "action_id": "emit",
+          "args": [
+            "force_reload"
+          ],
+          "_raw": "nav_resume | emit: force_reload",
+          "_cleaned": "nav_resume | emit: force_reload"
+        }
+      ],
+      "exclude_from_translation": true,
+      "_nested_name": "custom_actions_1"
+    },
+    {
+      "type": "template",
+      "name": "section_header",
+      "value": "section_header",
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "name": "section_id",
+          "value": "data_collection",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "section_header.section_id"
+        },
+        {
+          "name": "section_data",
+          "value": "app_section",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "section_header.section_data"
+        }
+      ],
+      "_nested_name": "section_header"
+    },
+    {
+      "type": "text",
+      "name": "question_text",
+      "value": "What type of session are you submitting a report for?",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "question_text"
+    },
+    {
+      "type": "display_group",
+      "name": "dg_type",
+      "rows": [
+        {
+          "type": "button",
+          "name": "button_in_person",
+          "value": "In-Person",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "pop_up",
+              "args": [
+                "in_person_unreported"
+              ],
+              "_raw": "click | pop_up: in_person_unreported",
+              "_cleaned": "click | pop_up: in_person_unreported"
+            }
+          ],
+          "parameter_list": {
+            "style": "card"
+          },
+          "style_list": [
+            "flex: 1"
+          ],
+          "_nested_name": "dg_type.button_in_person"
+        },
+        {
+          "type": "button",
+          "name": "button_virtual",
+          "value": "@global.virtual_session_platform",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "pop_up",
+              "args": [
+                "virtual_unreported"
+              ],
+              "_raw": "click | pop_up: virtual_unreported",
+              "_cleaned": "click | pop_up: virtual_unreported"
+            }
+          ],
+          "parameter_list": {
+            "style": "card"
+          },
+          "condition": "@fields._deployment_name != \"plh_facilitator_my\" || @fields.current_package == \"kemas_group_b\" || @fields.current_package == \"kemas_group_d\" || @fields.current_package == \"masw\"",
+          "style_list": [
+            "flex: 1"
+          ],
+          "exclude_from_translation": true,
+          "_nested_name": "dg_type.button_virtual",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.virtual_session_platform",
+                "matchedExpression": "@global.virtual_session_platform",
+                "type": "global",
+                "fieldName": "virtual_session_platform"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "@fields._deployment_name != \"plh_facilitator_my\" || @fields.current_package == \"kemas_group_b\" || @fields.current_package == \"kemas_group_d\" || @fields.current_package == \"masw\"",
+                "matchedExpression": "@fields._deployment_name",
+                "type": "fields",
+                "fieldName": "_deployment_name"
+              },
+              {
+                "fullExpression": "@fields._deployment_name != \"plh_facilitator_my\" || @fields.current_package == \"kemas_group_b\" || @fields.current_package == \"kemas_group_d\" || @fields.current_package == \"masw\"",
+                "matchedExpression": "@fields.current_package",
+                "type": "fields",
+                "fieldName": "current_package"
+              },
+              {
+                "fullExpression": "@fields._deployment_name != \"plh_facilitator_my\" || @fields.current_package == \"kemas_group_b\" || @fields.current_package == \"kemas_group_d\" || @fields.current_package == \"masw\"",
+                "matchedExpression": "@fields.current_package",
+                "type": "fields",
+                "fieldName": "current_package"
+              },
+              {
+                "fullExpression": "@fields._deployment_name != \"plh_facilitator_my\" || @fields.current_package == \"kemas_group_b\" || @fields.current_package == \"kemas_group_d\" || @fields.current_package == \"masw\"",
+                "matchedExpression": "@fields.current_package",
+                "type": "fields",
+                "fieldName": "current_package"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.virtual_session_platform": [
+              "value"
+            ],
+            "@fields._deployment_name": [
+              "condition"
+            ],
+            "@fields.current_package": [
+              "condition",
+              "condition",
+              "condition"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "dg_type"
+    },
+    {
+      "name": "attendance_data_json",
+      "value": "@calc(JSON.parse(@fields.attendance_data))",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "attendance_data_json",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(JSON.parse(@fields.attendance_data))",
+            "matchedExpression": "@fields.attendance_data",
+            "type": "fields",
+            "fieldName": "attendance_data"
+          },
+          {
+            "fullExpression": "@calc(JSON.parse(@fields.attendance_data))",
+            "matchedExpression": "@calc(JSON.parse(@fields.attendance_data))",
+            "type": "calc",
+            "fieldName": "JSON.parse(@fields.attendance_data)"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.attendance_data": [
+          "value"
+        ],
+        "@calc(JSON.parse(@fields.attendance_data))": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "previous_report_id_array",
+      "value": "@calc(Object.keys(@local.attendance_data_json))",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "previous_report_id_array",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(Object.keys(@local.attendance_data_json))",
+            "matchedExpression": "@local.attendance_data_json",
+            "type": "local",
+            "fieldName": "attendance_data_json"
+          },
+          {
+            "fullExpression": "@calc(Object.keys(@local.attendance_data_json))",
+            "matchedExpression": "@calc(Object.keys(@local.attendance_data_json))",
+            "type": "calc",
+            "fieldName": "Object.keys(@local.attendance_data_json)"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.attendance_data_json": [
+          "value"
+        ],
+        "@calc(Object.keys(@local.attendance_data_json))": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "previous_reports_exist",
+      "value": "@calc(@local.previous_report_id_array.length != 0)",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "previous_reports_exist",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(@local.previous_report_id_array.length != 0)",
+            "matchedExpression": "@local.previous_report_id_array.length",
+            "type": "local",
+            "fieldName": "previous_report_id_array"
+          },
+          {
+            "fullExpression": "@calc(@local.previous_report_id_array.length != 0)",
+            "matchedExpression": "@calc(@local.previous_report_id_array.length != 0)",
+            "type": "calc",
+            "fieldName": "@local.previous_report_id_array.length != 0"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.previous_report_id_array.length": [
+          "value"
+        ],
+        "@calc(@local.previous_report_id_array.length != 0)": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "name": "dg_previous",
+      "parameter_list": {
+        "style": "column"
+      },
+      "condition": "@local.previous_reports_exist",
+      "rows": [
+        {
+          "type": "text",
+          "name": "text_previous",
+          "value": "Previous reports",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "style": "emphasised"
+          },
+          "_nested_name": "dg_previous.text_previous"
+        },
+        {
+          "type": "items",
+          "value": "@local.attendance_data_json",
+          "exclude_from_translation": true,
+          "rows": [
+            {
+              "type": "template",
+              "name": "existing_report",
+              "value": "existing_report",
+              "exclude_from_translation": true,
+              "rows": [
+                {
+                  "name": "report_id",
+                  "value": "@item.report_id",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "exclude_from_translation": true,
+                  "type": "set_variable",
+                  "_nested_name": "dg_previous.items.existing_report.report_id",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.report_id",
+                        "matchedExpression": "@item.report_id",
+                        "type": "item",
+                        "fieldName": "report_id"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.report_id": [
+                      "value"
+                    ]
+                  }
+                }
+              ],
+              "_nested_name": "dg_previous.items.existing_report"
+            }
+          ],
+          "name": "items",
+          "_nested_name": "dg_previous.items",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.attendance_data_json",
+                "matchedExpression": "@local.attendance_data_json",
+                "type": "local",
+                "fieldName": "attendance_data_json"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.attendance_data_json": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "dg_previous",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.previous_reports_exist",
+            "matchedExpression": "@local.previous_reports_exist",
+            "type": "local",
+            "fieldName": "previous_reports_exist"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.previous_reports_exist": [
+          "condition"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "templates/data_collection.xlsx"
+}

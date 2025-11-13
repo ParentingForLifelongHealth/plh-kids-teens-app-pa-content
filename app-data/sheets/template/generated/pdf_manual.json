@@ -1,0 +1,33 @@
+{
+  "flow_name": "pdf_manual",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "template",
+      "name": "pdf",
+      "value": "pdf",
+      "rows": [
+        {
+          "name": "data",
+          "value": "pdf",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "pdf.data"
+        },
+        {
+          "name": "pdf_id",
+          "value": "manual",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "pdf.pdf_id"
+        }
+      ],
+      "_nested_name": "pdf"
+    }
+  ]
+}

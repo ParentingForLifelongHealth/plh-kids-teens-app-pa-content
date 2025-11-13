@@ -1,0 +1,178 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "related_article_data",
+  "status": "released",
+  "rows": [
+    {
+      "id": 1,
+      "foreign_key": "what_is_safeguarding",
+      "related_article": "during_disclosed_abuse"
+    },
+    {
+      "id": 2,
+      "foreign_key": "what_is_safeguarding",
+      "related_article": "after_disclosed_abuse"
+    },
+    {
+      "id": 3,
+      "foreign_key": "what_is_safeguarding",
+      "related_article": "how_to_report_abuse"
+    },
+    {
+      "id": 4,
+      "foreign_key": "during_disclosed_abuse",
+      "related_article": "after_disclosed_abuse"
+    },
+    {
+      "id": 5,
+      "foreign_key": "during_disclosed_abuse",
+      "related_article": "how_to_report_abuse"
+    },
+    {
+      "id": 6,
+      "foreign_key": "during_disclosed_abuse",
+      "related_article": "contact_for_reporting_abuse"
+    },
+    {
+      "id": 7,
+      "foreign_key": "after_disclosed_abuse",
+      "related_article": "how_to_report_abuse"
+    },
+    {
+      "id": 8,
+      "foreign_key": "after_disclosed_abuse",
+      "related_article": "contact_for_reporting_abuse"
+    },
+    {
+      "id": 9,
+      "foreign_key": "after_disclosed_abuse",
+      "related_article": "crisis_hotlines"
+    },
+    {
+      "id": 10,
+      "foreign_key": "how_to_report_abuse",
+      "related_article": "contact_for_reporting_abuse"
+    },
+    {
+      "id": 11,
+      "foreign_key": "how_to_report_abuse",
+      "related_article": "crisis_hotlines"
+    },
+    {
+      "id": 12,
+      "foreign_key": "how_to_report_abuse",
+      "related_article": "after_disclosed_abuse"
+    },
+    {
+      "id": 13,
+      "foreign_key": "contact_for_reporting_abuse",
+      "related_article": "how_to_report_abuse"
+    },
+    {
+      "id": 14,
+      "foreign_key": "contact_for_reporting_abuse",
+      "related_article": "crisis_hotlines"
+    },
+    {
+      "id": 15,
+      "foreign_key": "crisis_hotlines",
+      "related_article": "how_to_report_abuse"
+    },
+    {
+      "id": 16,
+      "foreign_key": "crisis_hotlines",
+      "related_article": "contact_for_reporting_abuse"
+    },
+    {
+      "id": 17,
+      "foreign_key": "day_1_introduction",
+      "related_article": "faq_text_support"
+    },
+    {
+      "id": 18,
+      "foreign_key": "day_1_introduction",
+      "related_article": "faq_ground_rules"
+    },
+    {
+      "id": 19,
+      "foreign_key": "day_1_introduction",
+      "related_article": "faq_misbehaviour"
+    },
+    {
+      "id": 20,
+      "foreign_key": "day_3_mh_stress_self_talk",
+      "related_article": "faq_h_parents_insult"
+    },
+    {
+      "id": 21,
+      "foreign_key": "day_3_mh_stress_self_talk",
+      "related_article": "faq_h_self_harm"
+    },
+    {
+      "id": 22,
+      "foreign_key": "day_3_mh_stress_self_talk",
+      "related_article": "faq_h_no_neg_to_pos"
+    },
+    {
+      "id": 23,
+      "foreign_key": "day_5_goodbye",
+      "related_article": "faq_h_still_struggling"
+    },
+    {
+      "id": 24,
+      "foreign_key": "day_5_goodbye",
+      "related_article": "faq_h_sad_to_end"
+    },
+    {
+      "id": 25,
+      "foreign_key": "day_6_final_chat_sessions_5ux",
+      "related_article": "faq_h_after_group_ended"
+    },
+    {
+      "id": 26,
+      "foreign_key": "day_6_final_chat_sessions_5ux",
+      "related_article": "faq_h_still_struggling"
+    },
+    {
+      "id": 27,
+      "foreign_key": "day_6_final_chat_sessions_5ux",
+      "related_article": "faq_h_sad_to_end"
+    },
+    {
+      "id": 28,
+      "foreign_key": "overview_cc",
+      "related_article": "onboarding_cc"
+    },
+    {
+      "id": 29,
+      "foreign_key": "overview_cc",
+      "related_article": "how_to_chat_session"
+    },
+    {
+      "id": 30,
+      "foreign_key": "overview_cc",
+      "related_article": "how_to_report"
+    },
+    {
+      "id": 31,
+      "foreign_key": "how_to_chat_session",
+      "related_article": "what_is_safeguarding"
+    },
+    {
+      "id": 32,
+      "foreign_key": "how_to_report",
+      "related_article": "how_to_chat_session"
+    },
+    {
+      "id": 33,
+      "foreign_key": "group_admin_onboarding",
+      "related_article": "faq_h_after_group_ended"
+    },
+    {
+      "id": 34,
+      "foreign_key": "group_admin_onboarding",
+      "related_article": "faq_h_prompts"
+    }
+  ],
+  "_xlsxPath": "data/test content.xlsx"
+}

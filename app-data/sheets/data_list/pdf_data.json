@@ -1,0 +1,22 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "pdf_data",
+  "status": "released",
+  "data_list_name": "pdf",
+  "rows": [
+    {
+      "id": "manual",
+      "pdf_asset": "pdf/manual.pdf",
+      "title": "Facilitator Manual",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Facilitator Manual"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/test content.xlsx"
+}

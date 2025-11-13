@@ -1,0 +1,22 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "resource_data",
+  "status": "released",
+  "rows": [
+    {
+      "id": 1,
+      "foreign_key": "overview_cc",
+      "title": "Manual",
+      "type": "pdf",
+      "asset": "manual"
+    },
+    {
+      "id": 2,
+      "foreign_key": "onboarding_cc",
+      "title": "Manual",
+      "type": "pdf",
+      "asset": "manual"
+    }
+  ],
+  "_xlsxPath": "data/test content.xlsx"
+}

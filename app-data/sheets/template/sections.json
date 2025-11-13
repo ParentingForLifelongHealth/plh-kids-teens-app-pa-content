@@ -1,0 +1,111 @@
+{
+  "flow_type": "template",
+  "flow_name": "sections",
+  "status": "released",
+  "rows": [
+    {
+      "name": "filter_id",
+      "type": "set_variable",
+      "_nested_name": "filter_id"
+    },
+    {
+      "type": "accordion",
+      "name": "sections",
+      "rows": [
+        {
+          "type": "items",
+          "value": "@data.section_data",
+          "rows": [
+            {
+              "type": "accordion_section",
+              "value": "@item.title",
+              "condition": "@item.foreign_key == @local.filter_id",
+              "rows": [
+                {
+                  "type": "text",
+                  "value": "@item.introduction",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "name": "text",
+                  "_nested_name": "sections.items.accordion_section.text",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.introduction",
+                        "matchedExpression": "@item.introduction",
+                        "type": "item",
+                        "fieldName": "introduction"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.introduction": [
+                      "value"
+                    ]
+                  }
+                }
+              ],
+              "name": "accordion_section",
+              "_nested_name": "sections.items.accordion_section",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.title",
+                    "matchedExpression": "@item.title",
+                    "type": "item",
+                    "fieldName": "title"
+                  }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "@item.foreign_key == @local.filter_id",
+                    "matchedExpression": "@item.foreign_key",
+                    "type": "item",
+                    "fieldName": "foreign_key"
+                  },
+                  {
+                    "fullExpression": "@item.foreign_key == @local.filter_id",
+                    "matchedExpression": "@local.filter_id",
+                    "type": "local",
+                    "fieldName": "filter_id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.title": [
+                  "value"
+                ],
+                "@item.foreign_key": [
+                  "condition"
+                ],
+                "@local.filter_id": [
+                  "condition"
+                ]
+              }
+            }
+          ],
+          "name": "items",
+          "_nested_name": "sections.items",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@data.section_data",
+                "matchedExpression": "@data.section_data",
+                "type": "data",
+                "fieldName": "section_data"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@data.section_data": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "sections"
+    }
+  ],
+  "_xlsxPath": "templates/article.xlsx"
+}

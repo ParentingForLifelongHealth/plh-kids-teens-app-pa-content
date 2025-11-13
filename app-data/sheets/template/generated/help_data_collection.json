@@ -1,0 +1,31 @@
+{
+  "flow_name": "help_data_collection",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "text",
+      "name": "text",
+      "value": "Whether meeting with your parents over @global.share_medium through a chat session or in-person, you'll want to report attendance using this form.",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "Whether meeting with your parents over @global.share_medium through a chat session or in-person, you'll want to report attendance using this form.",
+            "matchedExpression": "@global.share_medium",
+            "type": "global",
+            "fieldName": "share_medium"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.share_medium": [
+          "value"
+        ]
+      }
+    }
+  ]
+}

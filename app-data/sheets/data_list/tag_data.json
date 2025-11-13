@@ -1,0 +1,81 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "tag_data",
+  "status": "released",
+  "data_list_name": "tag",
+  "rows": [
+    {
+      "id": "cdmx_dif",
+      "title": "Mexico City - DIF",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Mexico City - DIF"
+        }
+      }
+    },
+    {
+      "id": "cdmx_bs",
+      "title": "Mexico City - Bienestar",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Mexico City - Bienestar"
+        }
+      }
+    },
+    {
+      "id": "edomx_bs",
+      "title": "Estado de Mexico - Bienestar",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Estado de Mexico - Bienestar"
+        }
+      }
+    },
+    {
+      "id": "chih_dif",
+      "title": "Chihuahua - DIF",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Chihuahua - DIF"
+        }
+      }
+    },
+    {
+      "id": "bc_dif",
+      "title": "Baja California - DIF",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Baja California - DIF"
+        }
+      }
+    },
+    {
+      "id": "mich_dif",
+      "title": "Michoacán - DIF",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Michoacán - DIF"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/test content.xlsx"
+}
