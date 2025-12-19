@@ -1,0 +1,324 @@
+{
+  "flow_name": "i_give_praise_t_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transript": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_1",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Take a moment to check in with yourself."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Wonderful, I am so happy things are going well."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Take a moment to check in with yourself.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
+      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
+      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Buen trabajo por el esfuerzo que hiciste para aprender a mejorar la relación con {tu adolescente}. ¡Eso demuestra que te importa de verdad! 💙\n\n😃¿Cómo te hizo sentir el mensaje anterior?\n\n🌷 Todas y todos nos sentimos mejor cuando elogian nuestros esfuerzos.\n\nElogiar el buen comportamiento de {tu adolescente} hará que quiera comportarse así más seguido. También creará una relación positiva y cercana entre ustedes.\n\n⭐Empieza reconociendo los logros y esfuerzos de {tu adolescente} cuando estén en su tiempo juntos y conectados."
+        },
+        "quiz_1_question": {
+          "eng": "Hagamos un ejercicio: La forma en que elogies a tu niño, niña o adolescente no importa, de cualquier manera funciona."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n✨ La forma en que elogies es importante. El reconocimiento funciona si es inmediato y específico.  \n🌱 Puedes empezar reconociendo y elogiando cosas pequeñas, como que arregle su cuarto."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 ¡Tienes razón!\n✨ La forma en que elogies es importante. El reconocimiento funciona si es inmediato y específico.  \n🌱 Puedes empezar reconociendo y elogiando cosas pequeñas, como que arregle su cuarto."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n✨ La forma en que elogies es importante. El reconocimiento funciona si es inmediato y específico.  \n🌱 Puedes empezar reconociendo y elogiando cosas pequeñas, como que arregle su cuarto.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "🎉 ¡Tienes razón!\n✨ La forma en que elogies es importante. El reconocimiento funciona si es inmediato y específico.  \n🌱 Puedes empezar reconociendo y elogiando cosas pequeñas, como que arregle su cuarto.",
+      "quiz_1_question": "Hagamos un ejercicio: La forma en que elogies a tu niño, niña o adolescente no importa, de cualquier manera funciona.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_option_2_text": "Falso",
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "text_1_facilitator": "Buen trabajo por el esfuerzo que hiciste para aprender a mejorar la relación con {tu adolescente}. ¡Eso demuestra que te importa de verdad! 💙\n\n😃¿Cómo te hizo sentir el mensaje anterior?\n\n🌷 Todas y todos nos sentimos mejor cuando elogian nuestros esfuerzos.\n\nElogiar el buen comportamiento de {tu adolescente} hará que quiera comportarse así más seguido. También creará una relación positiva y cercana entre ustedes.\n\n⭐Empieza reconociendo los logros y esfuerzos de {tu adolescente} cuando estén en su tiempo juntos y conectados.",
+      "completed": false
+    },
+    {
+      "id": "comic_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Aquí tienes una historieta sobre cómo puedes elogiar a tu adolescente durante su tiempo juntos y conectados."
+        },
+        "text_2": {
+          "eng": "{F3_MADRE} y su hija {F3_HIJA_12} dedican su tiempo juntos y conectados con las tareas de la escuela."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "text_1_facilitator": "Aquí tienes una historieta sobre cómo puedes elogiar a tu adolescente durante su tiempo juntos y conectados.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "image_asset": "https://drive.google.com/file/d/1Jhq9sJQu7xVQ4y3tg6u9_aFKK47zZyBB/view?usp=drive_link",
+      "text_2": "{F3_MADRE} y su hija {F3_HIJA_12} dedican su tiempo juntos y conectados con las tareas de la escuela.",
+      "completed": false
+    },
+    {
+      "id": "comic_2",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Bien hecho, {F3_HIJA_12}! Creo que por fin lo lograste. No te había contado, pero las matemáticas siempre fueron difíciles para mí."
+        },
+        "character_2_text": {
+          "eng": "¿En serio? Creí que solo me pasaba a mí."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "image_asset": "https://drive.google.com/file/d/1WyKBToh8ziw7OJLsBF2EuAXbeav5PeJy/view?usp=drive_link",
+      "character_1_id": "F3_MADRE",
+      "character_2_id": "F3_HIJA_12",
+      "character_1_text": "¡Bien hecho, {F3_HIJA_12}! Creo que por fin lo lograste. No te había contado, pero las matemáticas siempre fueron difíciles para mí.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "¿En serio? Creí que solo me pasaba a mí.",
+      "completed": false
+    },
+    {
+      "id": "comic_3",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Después de terminar la tarea:"
+        },
+        "character_1_text": {
+          "eng": "No fue nada fácil. ¡Yo también aprendí algo! Gracias por dejarme ayudarte con tu tarea, {F3_HIJA_12}. Estás avanzando mucho."
+        },
+        "character_2_text": {
+          "eng": "Gracias, mamá. De verdad agradezco que te hayas tomado este tiempo para ayudarme."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "image_asset": "https://drive.google.com/file/d/1BW5ie91rZsOnEWAJKM-BIkkH8tHkp2eu/view?usp=drive_link",
+      "text_2": "Después de terminar la tarea:",
+      "_translations": {
+        "text_2": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_1_id": "F3_MADRE",
+      "character_2_id": "F3_HIJA_12",
+      "character_1_text": "No fue nada fácil. ¡Yo también aprendí algo! Gracias por dejarme ayudarte con tu tarea, {F3_HIJA_12}. Estás avanzando mucho.",
+      "character_2_text": "Gracias, mamá. De verdad agradezco que te hayas tomado este tiempo para ayudarme.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "⭐ Elogiar el esfuerzo y el buen comportamiento de {tu adolescente}, hará que quiera seguir portándose bien.\nDa clic en reproducir para aprender las 4️⃣ estrategias para dar reconocimiento a {tu adolescente}:\n1️⃣ OBSERVAR\n2️⃣ COMUNICAR\n3️⃣ REPETIR\n4️⃣ MANTENERLO POSITIVO"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "text_1_facilitator": "⭐ Elogiar el esfuerzo y el buen comportamiento de {tu adolescente}, hará que quiera seguir portándose bien.\nDa clic en reproducir para aprender las 4️⃣ estrategias para dar reconocimiento a {tu adolescente}:\n1️⃣ OBSERVAR\n2️⃣ COMUNICAR\n3️⃣ REPETIR\n4️⃣ MANTENERLO POSITIVO",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "¡Cuando le prestas atención a los comportamientos buenos, es más probable que tu adolescente repita esos comportamientos y se sienta bien consigo mismo!\n\nRecuerda las 4 estrategias de crianza para dar reconocimiento a {tu adolescente}:"
+        },
+        "section_1_title": {
+          "eng": "OBSERVAR"
+        },
+        "section_1_text": {
+          "eng": "👀 Busca cosas buenas o prácticas que hace {tu adolescente}.\n\n⏸ Haz una pausa y esfuérzate por elogiar las cosas positivas que hace."
+        },
+        "section_2_title": {
+          "eng": "COMUNICAR"
+        },
+        "section_2_text": {
+          "eng": "🏆 Elogia cuando veas o te enteres que hace algo bueno. \n\n✅ Dile específicamente qué hizo bien. \n\n🎉 ¡Exprésalo y dilo de corazón! \n\n🔄 Así será más probable que lo vuelva a hacer."
+        },
+        "section_3_title": {
+          "eng": "REPETIR"
+        },
+        "section_3_text": {
+          "eng": "🌷 Identifica algo bueno que puedas elogiarle a {tu adolescente} todos los días, como cuando da los buenos días, ayuda o apoya a otros, o tira el papel en el cesto."
+        },
+        "section_4_title": {
+          "eng": "MANTENERLO POSITIVO"
+        },
+        "section_4_text": {
+          "eng": "💡 Enfoca tu atención en lo que tu adolescente esté haciendo adecuadamente. \n\n🙂 Acompaña tu elogio con una gran sonrisa, palabras amables o un abrazo. Esto le demuestra a tu adolescente tu amor y aprecio por lo que hace. \n\n☀️ Presta atención a lo que tu niña, niño o adolescente hace bien, le hará saber que te fijas en lo que hace y que te importa."
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "text_1_facilitator": "¡Cuando le prestas atención a los comportamientos buenos, es más probable que tu adolescente repita esos comportamientos y se sienta bien consigo mismo!\n\nRecuerda las 4 estrategias de crianza para dar reconocimiento a {tu adolescente}:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
+      },
+      "section_1_icon_asset": "https://drive.google.com/file/d/1JYdcbkVuoMB64KZFOtWUd01yErpe19ac/view?usp=drive_link",
+      "section_2_icon_asset": "https://drive.google.com/file/d/1GGu-Iy1PmdyDtB2h_Q23fxyUsR0FqGhn/view?usp=drive_link",
+      "section_3_icon_asset": "https://drive.google.com/file/d/1H0X72PVEhhmWbrzS5AMDtRQq37xnGWY_/view?usp=drive_link",
+      "section_4_icon_asset": "https://drive.google.com/file/d/1b7ywkfyRt8DgqJrocfNefIOeE8oOW6bB/view?usp=drive_link",
+      "section_1_title": "OBSERVAR",
+      "section_1_text": "👀 Busca cosas buenas o prácticas que hace {tu adolescente}.\n\n⏸ Haz una pausa y esfuérzate por elogiar las cosas positivas que hace.",
+      "section_2_title": "COMUNICAR",
+      "section_2_text": "🏆 Elogia cuando veas o te enteres que hace algo bueno. \n\n✅ Dile específicamente qué hizo bien. \n\n🎉 ¡Exprésalo y dilo de corazón! \n\n🔄 Así será más probable que lo vuelva a hacer.",
+      "section_3_title": "REPETIR",
+      "section_3_text": "🌷 Identifica algo bueno que puedas elogiarle a {tu adolescente} todos los días, como cuando da los buenos días, ayuda o apoya a otros, o tira el papel en el cesto.",
+      "section_4_title": "MANTENERLO POSITIVO",
+      "section_4_text": "💡 Enfoca tu atención en lo que tu adolescente esté haciendo adecuadamente. \n\n🙂 Acompaña tu elogio con una gran sonrisa, palabras amables o un abrazo. Esto le demuestra a tu adolescente tu amor y aprecio por lo que hace. \n\n☀️ Presta atención a lo que tu niña, niño o adolescente hace bien, le hará saber que te fijas en lo que hace y que te importa.",
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Para hoy, tu actividad en casa es elogiar a {tu adolescente} durante su tiempo juntos y conectados. Intenta valorar y apreciar a tu adolescente durante estos minutos."
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes hacerlo hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Increíble! 🎉 Intenta elogiar a tu adolescente al menos una vez durante su tiempo juntos y conectados.  \nTambién puedes elogiar a {tu adolescente} en otros momentos del día. Fíjate cómo responde a lo que le dices."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡De acuerdo! A veces las cosas toman tiempo.💚\nPuedes volver a revisar esta lección en el menú principal en cualquier momento. Al final del día, piensa en todas las cosas positivas que pasaron; así será más fácil identificarlas. ☀️ \nPoco a poco, elogiar se irá haciendo más fácil."
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "¡Increíble! 🎉 Intenta elogiar a tu adolescente al menos una vez durante su tiempo juntos y conectados.  \nTambién puedes elogiar a {tu adolescente} en otros momentos del día. Fíjate cómo responde a lo que le dices.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "¡De acuerdo! A veces las cosas toman tiempo.💚\nPuedes volver a revisar esta lección en el menú principal en cualquier momento. Al final del día, piensa en todas las cosas positivas que pasaron; así será más fácil identificarlas. ☀️ \nPoco a poco, elogiar se irá haciendo más fácil.",
+      "quiz_1_question": "¿Puedes hacerlo hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "text_1_facilitator": "Para hoy, tu actividad en casa es elogiar a {tu adolescente} durante su tiempo juntos y conectados. Intenta valorar y apreciar a tu adolescente durante estos minutos.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

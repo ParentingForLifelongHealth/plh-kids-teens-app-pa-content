@@ -1,0 +1,1954 @@
+{
+  "android/icon-background.png": {
+    "md5Checksum": "8711f369969c25216e0013c4010e0907",
+    "size_kb": 21.4
+  },
+  "android/icon-foreground.png": {
+    "md5Checksum": "8fa0416dee7554964c6c543c87c800c3",
+    "size_kb": 58.3
+  },
+  "android/icon.png": {
+    "md5Checksum": "b43a9fbad47678f0da72a710e3cebbde",
+    "size_kb": 70.3
+  },
+  "android/splash.png": {
+    "md5Checksum": "dc4bee304ad1241ec865898775b3e586",
+    "size_kb": 239
+  },
+  "audio/care_audio_1.mp3": {
+    "md5Checksum": "88e6da9cff143cb7f1a2238b9756c62c",
+    "size_kb": 527.5
+  },
+  "audio/care_audio_2.mp3": {
+    "md5Checksum": "629bd89e0c85b0273249cc37c83b93cb",
+    "size_kb": 1166.3
+  },
+  "audio/celebrate_audio_1.mp3": {
+    "md5Checksum": "e117f1c42e911d67103d348f1da6c733",
+    "size_kb": 497.1
+  },
+  "audio/connect_audio_1.mp3": {
+    "md5Checksum": "914a60c81eff3b75236f87d3cc50aa0c",
+    "size_kb": 891.7
+  },
+  "audio/connect_audio_2.mp3": {
+    "md5Checksum": "42d0e8fa299f5557fb311d5722c9bbe1",
+    "size_kb": 981.4
+  },
+  "audio/consequences_audio_1.mp3": {
+    "md5Checksum": "da966e25d73ece64a0185bbabea4ff55",
+    "size_kb": 800.2
+  },
+  "audio/consequences_audio_2.mp3": {
+    "md5Checksum": "2eee64893d5391060a899f3b8b1cba9c",
+    "size_kb": 1206.6
+  },
+  "audio/feelings_audio_1.mp3": {
+    "md5Checksum": "d84e95e3a4fc7d31a06679b66ddc83e2",
+    "size_kb": 336
+  },
+  "audio/feelings_audio_2.mp3": {
+    "md5Checksum": "dedc55e55a8afbae4868fed76695133a",
+    "size_kb": 635.8
+  },
+  "audio/instructions_audio_1.mp3": {
+    "md5Checksum": "5a5683d533ea002a759babce524c68b5",
+    "size_kb": 613.7
+  },
+  "audio/instructions_audio_2.mp3": {
+    "md5Checksum": "b26e8d93b7f12a64b5ef57a710075b9e",
+    "size_kb": 784.2
+  },
+  "audio/learn_audio_1.mp3": {
+    "md5Checksum": "6b4099d05a18ee52d87c5807f4ac8e2f",
+    "size_kb": 563.1
+  },
+  "audio/learn_audio_2.mp3": {
+    "md5Checksum": "2b55c16546f204769edd6e55b48bf033",
+    "size_kb": 254.5
+  },
+  "audio/praise_audio_1.mp3": {
+    "md5Checksum": "1538cf77eb8892d25c4a13638b554f6c",
+    "size_kb": 344
+  },
+  "audio/praise_audio_2.mp3": {
+    "md5Checksum": "daa1a94f320a65f047e646b825e77899",
+    "size_kb": 1042.6
+  },
+  "audio/rules_audio_1.mp3": {
+    "md5Checksum": "fc3fdfff3c54fbff8e54da7c7bb86b9a",
+    "size_kb": 427.6
+  },
+  "audio/rules_audio_2.mp3": {
+    "md5Checksum": "50855b061c28a61a2f790cf129fbb041",
+    "size_kb": 742.7
+  },
+  "audio/solve_audio_1.mp3": {
+    "md5Checksum": "3d28559d507a379e203b63b7dcbef436",
+    "size_kb": 609
+  },
+  "audio/solve_audio_2.mp3": {
+    "md5Checksum": "308831f3c5dff8b0f334d2385e2444cb",
+    "size_kb": 468.1
+  },
+  "contents.json": {
+    "md5Checksum": "70534ea19421d0dd943cddb77e971bcc",
+    "size_kb": 16.8
+  },
+  "images/character_icons/F1_HIJA_13.svg": {
+    "md5Checksum": "6c9321bc417ec85dab6329ee10a125d6",
+    "size_kb": 1896.6
+  },
+  "images/character_icons/F1_HIJA_16.svg": {
+    "md5Checksum": "23de5c06835000e72561aa7c8bb61ceb",
+    "size_kb": 1866.5
+  },
+  "images/character_icons/F1_HIJA_6.svg": {
+    "md5Checksum": "e248403f05da24ad7d0fa85372247946",
+    "size_kb": 1866.6
+  },
+  "images/character_icons/F1_HIJO_17.svg": {
+    "md5Checksum": "0cd5ad9b47a4e8469bdbddad4ea31029",
+    "size_kb": 1866.6
+  },
+  "images/character_icons/F1_HIJO_5.svg": {
+    "md5Checksum": "d29d88b1ce9c83cf7384eab0c22868e7",
+    "size_kb": 1866.6
+  },
+  "images/character_icons/F1_MADRE.svg": {
+    "md5Checksum": "58253fb1e27d0b1f4a6957d8b4140ccd",
+    "size_kb": 1866.5
+  },
+  "images/character_icons/F1_PADRE.svg": {
+    "md5Checksum": "d705421969cef1e0e74f553dc15b4303",
+    "size_kb": 1866.5
+  },
+  "images/character_icons/F2_ABUELA.svg": {
+    "md5Checksum": "2ef5379852bf498625d7a776e2d7c9da",
+    "size_kb": 1409
+  },
+  "images/character_icons/F2_ABUELO.svg": {
+    "md5Checksum": "53f1266be1672b012945652b01e50878",
+    "size_kb": 1409
+  },
+  "images/character_icons/F2_HIJA_17.svg": {
+    "md5Checksum": "f00ff5be65b941c8ef3f25ca28fa8b46",
+    "size_kb": 1409
+  },
+  "images/character_icons/F2_HIJA_3.svg": {
+    "md5Checksum": "52b91415ca0cb8813ed31d5d717dad9c",
+    "size_kb": 1409
+  },
+  "images/character_icons/F2_HIJO_15.svg": {
+    "md5Checksum": "acc8a58bd11ac222baef2162f3fb08d3",
+    "size_kb": 1409
+  },
+  "images/character_icons/F2_HIJO_8.svg": {
+    "md5Checksum": "e04526c990fcd2919b736fbe4dd7959b",
+    "size_kb": 1409
+  },
+  "images/character_icons/F3_HIJA_12.svg": {
+    "md5Checksum": "79b9fee27d64bab59bedc50a2679ceaa",
+    "size_kb": 1047.1
+  },
+  "images/character_icons/F3_HIJA_7.svg": {
+    "md5Checksum": "a727b14bd2609090e682e0d27218f9e3",
+    "size_kb": 1046.7
+  },
+  "images/character_icons/F3_HIJO_4.svg": {
+    "md5Checksum": "8bee4f2e7d7b55467fdc75d6330b1e3b",
+    "size_kb": 1046.7
+  },
+  "images/character_icons/F3_MADRE.svg": {
+    "md5Checksum": "f920509e3803bd8901acf4a03eb8333f",
+    "size_kb": 1046.7
+  },
+  "images/character_icons/F3_PADRE.svg": {
+    "md5Checksum": "a44ba8dba26f06139bdf317e9e81838b",
+    "size_kb": 1046.7
+  },
+  "images/childdevelopment.svg": {
+    "md5Checksum": "977ba51e3fe8221361b16e98d3c2f03f",
+    "size_kb": 20.3
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/calm_yc/calm_yc_1.svg": {
+    "md5Checksum": "a7bd26ac52791b9231df8b854a49e209",
+    "size_kb": 45.5
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/calm_yc/calm_yc_2.svg": {
+    "md5Checksum": "489ab5e879db37c132efece8de2ab0d8",
+    "size_kb": 8
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/calm_yc/calm_yc_4.svg": {
+    "md5Checksum": "632e45795bec42cc4c8b4c0fb8fe3b91",
+    "size_kb": 45.1
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/calm_yc/calm_yc_5.svg": {
+    "md5Checksum": "7c2f68a21ac57102fefdad9b268f3339",
+    "size_kb": 37.8
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/feelings_yc/feelings_yc_1.svg": {
+    "md5Checksum": "3c2ddc79528b8280ab02e1e280028cb2",
+    "size_kb": 28
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/feelings_yc/feelings_yc_2.svg": {
+    "md5Checksum": "e3c7ff40c317cdb4ca62c538e257c3a0",
+    "size_kb": 46.8
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/feelings_yc/feelings_yc_3.svg": {
+    "md5Checksum": "5ae5824f524dc4cdec76cb56d89db9d6",
+    "size_kb": 48.3
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/feelings_yc/feelings_yc_4.svg": {
+    "md5Checksum": "c6ddea2ca56e0adef2b3912bb8270bfc",
+    "size_kb": 46.4
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/give_praise_yc/give_praise_yc_1.svg": {
+    "md5Checksum": "7614b6cad6ad02e790c40aa26acc11f3",
+    "size_kb": 29.7
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/give_praise_yc/give_praise_yc_2.svg": {
+    "md5Checksum": "22b8143f4e7872461e5c48f3a355d33a",
+    "size_kb": 30
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/give_praise_yc/give_praise_yc_3.svg": {
+    "md5Checksum": "cfc879cbf5b3261d7322680c8f2b0d2f",
+    "size_kb": 30.1
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/give_praise_yc/give_praise_yc_4.svg": {
+    "md5Checksum": "d8fa677a748990653b053fdba484467a",
+    "size_kb": 29.4
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/one_on_one_yc/one_on_one_yc_1.svg": {
+    "md5Checksum": "3b9567c2b50059177753fa52c0f71e29",
+    "size_kb": 32.8
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/one_on_one_yc/one_on_one_yc_2.svg": {
+    "md5Checksum": "53c5da48681d27961794994ce9d19790",
+    "size_kb": 33.4
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/one_on_one_yc/one_on_one_yc_3.svg": {
+    "md5Checksum": "1b811e169f96b46e81de6b1a0d931a2f",
+    "size_kb": 33.2
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/one_on_one_yc/one_on_one_yc_4.svg": {
+    "md5Checksum": "fe1d5b142eaada21cecb1f777f5129fd",
+    "size_kb": 33.3
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/routines_yc/routines_yc_1.svg": {
+    "md5Checksum": "a99b38d2120fa05306cba9e5fa184f65",
+    "size_kb": 29
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/routines_yc/routines_yc_2.svg": {
+    "md5Checksum": "ba83b2c018beb5dced7c2645ecd20b06",
+    "size_kb": 30.8
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/routines_yc/routines_yc_3.svg": {
+    "md5Checksum": "77206f1675cfba373e943939c501c0e6",
+    "size_kb": 48.7
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/routines_yc/routines_yc_4.svg": {
+    "md5Checksum": "5c4159a908a19a4b3d2ae4686a1f91bf",
+    "size_kb": 33.7
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/routines_yc/routines_yc_5.svg": {
+    "md5Checksum": "93d74a9a405b02b26717f1b0e9234e3a",
+    "size_kb": 45.4
+  },
+  "images/comic/1. Mejorar la relación con mi niña o niño/routines_yc/routines_yc_6.svg": {
+    "md5Checksum": "c60db1f8772b9bd8a491b9ab77ba7af1",
+    "size_kb": 36
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/fun_learning_teen/fun_learning_teen_1.svg": {
+    "md5Checksum": "f00cc5f4de6e8e817d7cf3c79ba2ee0b",
+    "size_kb": 54
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/fun_learning_teen/fun_learning_teen_2.svg": {
+    "md5Checksum": "887495cae5556ef8e2cdc8406f6bacd9",
+    "size_kb": 17.8
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/fun_learning_teen/fun_learning_teen_3.svg": {
+    "md5Checksum": "e5ed32b2277204710a0fb25d3dcaae2b",
+    "size_kb": 58.8
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/fun_learning_teen/fun_learning_teen_4.svg": {
+    "md5Checksum": "3f577358d94949b1e90f5c517dbcb9cb",
+    "size_kb": 36.2
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/help_teen_learn_teen/help_teen_learn_teen_1.svg": {
+    "md5Checksum": "b39759efd3839052d4577f2330559f40",
+    "size_kb": 33
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/help_teen_learn_teen/help_teen_learn_teen_2.svg": {
+    "md5Checksum": "1c0cfbdf5d69d19572844732f2526ccd",
+    "size_kb": 24.8
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/help_teen_learn_teen/help_teen_learn_teen_3.svg": {
+    "md5Checksum": "525a19c6d7ffab36778362b91b1bd89a",
+    "size_kb": 25.3
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/help_teen_learn_teen/help_teen_learn_teen_4.svg": {
+    "md5Checksum": "55bab2751516926e637ae5af2b18cf61",
+    "size_kb": 29.2
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/learning_mistakes_teen/learning_mistakes_teen_1.svg": {
+    "md5Checksum": "2d354da2ebcf6eaeda3a8da4a6667e30",
+    "size_kb": 35.7
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/learning_mistakes_teen/learning_mistakes_teen_2.svg": {
+    "md5Checksum": "f401779e0b5a549f07293f804e9d375b",
+    "size_kb": 36.4
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/learning_mistakes_teen/learning_mistakes_teen_3.svg": {
+    "md5Checksum": "67f560d53b8987988f41f6fffd3f33d0",
+    "size_kb": 34.1
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/learning_mistakes_teen/learning_mistakes_teen_4.svg": {
+    "md5Checksum": "fa9090eafef7ca201e6160a0b6a60e96",
+    "size_kb": 35.5
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/learning_with_people_teen/learning_with_people_teen_1.svg": {
+    "md5Checksum": "4c5672bc557533ab6a7352f052ae8700",
+    "size_kb": 30.8
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/learning_with_people_teen/learning_with_people_teen_2.svg": {
+    "md5Checksum": "b2505857a8d28922792f5772314d1bc5",
+    "size_kb": 29.9
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/learning_with_people_teen/learning_with_people_teen_3.svg": {
+    "md5Checksum": "8492edc7c954b80cb0849590e6cc09c6",
+    "size_kb": 32.5
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/learning_with_people_teen/learning_with_people_teen_4.svg": {
+    "md5Checksum": "ea1a736280b352d38752428d4caa777f",
+    "size_kb": 30.7
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/make_plan_teen/make_plan_teen_1.svg": {
+    "md5Checksum": "381381def2424bf97f914fcace6431fe",
+    "size_kb": 29.2
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/make_plan_teen/make_plan_teen_2.svg": {
+    "md5Checksum": "4618820dc5177efde7dc65b6537ded4c",
+    "size_kb": 14.7
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/make_plan_teen/make_plan_teen_3.svg": {
+    "md5Checksum": "9036ae9e189eb359b2a97c1380285f6e",
+    "size_kb": 16
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/make_plan_teen/make_plan_teen_4.svg": {
+    "md5Checksum": "3cc7c585513bd84b794a3606db8ba8bd",
+    "size_kb": 28.3
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/make_plan_teen/make_plan_teen_5.svg": {
+    "md5Checksum": "ac137e57a1c4910312358656d82b4834",
+    "size_kb": 28.2
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/make_plan_teen/make_plan_teen_6.svg": {
+    "md5Checksum": "c316beeef1aae4ab49f438b1566dff35",
+    "size_kb": 28.6
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/manage_stress_teen/manage_stress_teen_1.svg": {
+    "md5Checksum": "dd73ff42cc7ed0c43f53fcd034e865bf",
+    "size_kb": 31.8
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/manage_stress_teen/manage_stress_teen_2.svg": {
+    "md5Checksum": "1615435dac0d95b51c260eb132e763cb",
+    "size_kb": 13
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/manage_stress_teen/manage_stress_teen_3.svg": {
+    "md5Checksum": "88e0234254213f951dceeaa7dbf36961",
+    "size_kb": 30.8
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/manage_stress_teen/manage_stress_teen_4.svg": {
+    "md5Checksum": "bb3f2b88f0467f22df80baa6f6953554",
+    "size_kb": 32.3
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/positive_learning_teen/positive_learning_teen_1.svg": {
+    "md5Checksum": "302bf44795c64af93bb8cbe54feef469",
+    "size_kb": 26.2
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/positive_learning_teen/positive_learning_teen_2.svg": {
+    "md5Checksum": "13dbc983798ce1ee9a10452b6749d471",
+    "size_kb": 27.8
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/positive_learning_teen/positive_learning_teen_3.svg": {
+    "md5Checksum": "695f5b9ef376cb290a79e128c94a7386",
+    "size_kb": 23.4
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/positive_learning_teen/positive_learning_teen_4.svg": {
+    "md5Checksum": "c6f638726f2f742023f5af0f2c4f4ba6",
+    "size_kb": 21.3
+  },
+  "images/comic/10. Apoyar a mi adolescente en su aprendizaje/positive_learning_teen/positive_learning_teen_5.svg": {
+    "md5Checksum": "b70d3d24888f0d9d293105734aac0344",
+    "size_kb": 21.3
+  },
+  "images/comic/11. Entender el desarrollo de mi niña o niño/learn_experience_yc/learn_experience_yc_1.svg": {
+    "md5Checksum": "b56f01b02ed34ff1028c73edabf1d107",
+    "size_kb": 33.5
+  },
+  "images/comic/11. Entender el desarrollo de mi niña o niño/learn_experience_yc/learn_experience_yc_2.svg": {
+    "md5Checksum": "f313b02712ac92e2845a0335322c8c07",
+    "size_kb": 35.7
+  },
+  "images/comic/11. Entender el desarrollo de mi niña o niño/learn_experience_yc/learn_experience_yc_3.svg": {
+    "md5Checksum": "24df6482d95a83b6f77a4bc12a554b2f",
+    "size_kb": 34.4
+  },
+  "images/comic/11. Entender el desarrollo de mi niña o niño/learn_experience_yc/learn_experience_yc_4.svg": {
+    "md5Checksum": "a58316a0ddc131ed01c69ed149acfc5e",
+    "size_kb": 28.4
+  },
+  "images/comic/11. Entender el desarrollo de mi niña o niño/learn_experience_yc/learn_experience_yc_5.svg": {
+    "md5Checksum": "ff1e69c25a2886d3d3ec1ec63ec63137",
+    "size_kb": 26.6
+  },
+  "images/comic/11. Entender el desarrollo de mi niña o niño/play_yc/play_yc_1.svg": {
+    "md5Checksum": "cc7f2b9c6381c0b0af745bb5657177e3",
+    "size_kb": 39.5
+  },
+  "images/comic/11. Entender el desarrollo de mi niña o niño/play_yc/play_yc_2.svg": {
+    "md5Checksum": "e85ee3f04b773d36cd750cee24d86a3c",
+    "size_kb": 38.7
+  },
+  "images/comic/11. Entender el desarrollo de mi niña o niño/play_yc/play_yc_3.svg": {
+    "md5Checksum": "c6e39796eee582bc73c44bff92176cd1",
+    "size_kb": 25.9
+  },
+  "images/comic/11. Entender el desarrollo de mi niña o niño/play_yc/play_yc_4.svg": {
+    "md5Checksum": "daab920dc19390ad5074cad5652df344",
+    "size_kb": 25.7
+  },
+  "images/comic/11. Entender el desarrollo de mi niña o niño/toddler_change_yc/toddler_change_yc_1.svg": {
+    "md5Checksum": "f87934bbcba0cda489539e299f19635e",
+    "size_kb": 24.3
+  },
+  "images/comic/11. Entender el desarrollo de mi niña o niño/toddler_change_yc/toddler_change_yc_2.svg": {
+    "md5Checksum": "ce05fe629e9574d0e7f67f543f890907",
+    "size_kb": 41.6
+  },
+  "images/comic/11. Entender el desarrollo de mi niña o niño/toddler_change_yc/toddler_change_yc_3.svg": {
+    "md5Checksum": "8333f5856220f2e945735a1ee5fb3408",
+    "size_kb": 42.2
+  },
+  "images/comic/11. Entender el desarrollo de mi niña o niño/toddler_change_yc/toddler_change_yc_4.svg": {
+    "md5Checksum": "890e80f01984e8191044c86171d08fff",
+    "size_kb": 43.1
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/calm_teen/calm_teen_1.svg": {
+    "md5Checksum": "6104d96e483770cb4809e28f7a8f1036",
+    "size_kb": 41.9
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/calm_teen/calm_teen_2.svg": {
+    "md5Checksum": "5ffa80b9e71a79391e8541333825701c",
+    "size_kb": 7
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/calm_teen/calm_teen_4.svg": {
+    "md5Checksum": "0a3f6a5cfe52ace90bceb7fe9bb7130f",
+    "size_kb": 41.1
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/calm_teen/calm_teen_5.svg": {
+    "md5Checksum": "f8cf2a4f3c8a91a3a8a16bc441eed2d9",
+    "size_kb": 37.3
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/feelings_teen/feelings_teen_1.svg": {
+    "md5Checksum": "cef44997307b237a800330e82f55ba76",
+    "size_kb": 61
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/feelings_teen/feelings_teen_2.svg": {
+    "md5Checksum": "fa1064815fcae8bcd4d51023f3ab2a29",
+    "size_kb": 32.1
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/feelings_teen/feelings_teen_3.svg": {
+    "md5Checksum": "484f9700dfebd5e880b77771d9698125",
+    "size_kb": 30.9
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/feelings_teen/feelings_teen_4.svg": {
+    "md5Checksum": "7cae08d854d74e1e41b1666f9dc8da62",
+    "size_kb": 32
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/give_praise_teen/give_praise_teen_1.svg": {
+    "md5Checksum": "8acbe470d9284b33acaf0a6d8c0cb4e3",
+    "size_kb": 13.9
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/give_praise_teen/give_praise_teen_2.svg": {
+    "md5Checksum": "50b698b03ef4bb2036f14ab7c3eeff03",
+    "size_kb": 14.7
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/give_praise_teen/give_praise_teen_3.svg": {
+    "md5Checksum": "3ebc1bb4308a26fc037a05bb9753d0d3",
+    "size_kb": 14.4
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/one_on_one_teen/one_on_one_teen_1.svg": {
+    "md5Checksum": "582f970593ff9c54821fa004d84a651c",
+    "size_kb": 34.2
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/one_on_one_teen/one_on_one_teen_2.svg": {
+    "md5Checksum": "3c98d31959aa937d6b0fd6c06104c43a",
+    "size_kb": 23
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/one_on_one_teen/one_on_one_teen_3.svg": {
+    "md5Checksum": "5a353374cdaa829a1ece15dedbd68998",
+    "size_kb": 28.5
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/one_on_one_teen/one_on_one_teen_4.svg": {
+    "md5Checksum": "6da46f633b862e48ae36aee559b9b58c",
+    "size_kb": 27.2
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/one_on_one_teen/one_on_one_teen_5.svg": {
+    "md5Checksum": "29f3bfd324041fb951931ad1c8171ece",
+    "size_kb": 54.3
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/routines_teen/routines_teen_1.svg": {
+    "md5Checksum": "801bcf2708cc20d766607781a90dd84e",
+    "size_kb": 15.7
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/routines_teen/routines_teen_2.svg": {
+    "md5Checksum": "c1a56f127f4ff58785df612eff4a18c7",
+    "size_kb": 16.9
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/routines_teen/routines_teen_3.svg": {
+    "md5Checksum": "d80844fed24b7b4dadd4837062fae9d5",
+    "size_kb": 19
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/routines_teen/routines_teen_4.svg": {
+    "md5Checksum": "3151b04036c2d7c704f8152d2751cc56",
+    "size_kb": 18.4
+  },
+  "images/comic/2. Mejorar la relación con mi adolescente/routines_teen/routines_teen_5.svg": {
+    "md5Checksum": "011abca76dfee712868e887f7c1e791f",
+    "size_kb": 17.4
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_conflicts_m/ipv_conflicts_1.svg": {
+    "md5Checksum": "83790a32f9a23aa27c470a07f3b9fb25",
+    "size_kb": 23.7
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_conflicts_m/ipv_conflicts_2.svg": {
+    "md5Checksum": "91e58ede03641a378810a659ba1de67f",
+    "size_kb": 32.4
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_conflicts_m/ipv_conflicts_3.svg": {
+    "md5Checksum": "ea21973b5e1f3749716335e29fcba0b0",
+    "size_kb": 26.1
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_conflicts_m/ipv_conflicts_4.svg": {
+    "md5Checksum": "532cffb9c1c108ce7101d9ad25e77272",
+    "size_kb": 17.2
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_equals_m/ipv_equals_1.svg": {
+    "md5Checksum": "266bb443ce2d85eaef2e6dea43899db8",
+    "size_kb": 31.5
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_equals_m/ipv_equals_2.svg": {
+    "md5Checksum": "493a71bab4a91606a4b1c6361ae76726",
+    "size_kb": 31.2
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_equals_m/ipv_equals_3.svg": {
+    "md5Checksum": "262e5672b4ccbcecaceca32af35d4d43",
+    "size_kb": 31.1
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_equals_m/ipv_equals_4.svg": {
+    "md5Checksum": "4d6aed4fbda20be459213c1dc1b6a384",
+    "size_kb": 26.1
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_listen_m/ipv_listen_1.svg": {
+    "md5Checksum": "2a6f7bdfde119081b95c597aef43757b",
+    "size_kb": 29.7
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_listen_m/ipv_listen_2.svg": {
+    "md5Checksum": "ea40f95cb02d41748f44e2ee299fed92",
+    "size_kb": 30.1
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_listen_m/ipv_listen_3.svg": {
+    "md5Checksum": "e772a246d77e6743f805896df5fd1f5b",
+    "size_kb": 28.7
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_listen_m/ipv_listen_4.svg": {
+    "md5Checksum": "634c535daddc48198a59b0deb6b02d0c",
+    "size_kb": 28.6
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_sharing_m/ipv_sharing_1.svg": {
+    "md5Checksum": "5310e6375c5c1faf81d6c0f128ce8105",
+    "size_kb": 47.4
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_sharing_m/ipv_sharing_2.svg": {
+    "md5Checksum": "6b4db96a3a52ced5b737e21d0f00dac4",
+    "size_kb": 71.6
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_sharing_m/ipv_sharing_3.svg": {
+    "md5Checksum": "82328a391d8e5ef7d05b3be011e8110a",
+    "size_kb": 50.4
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_sharing_m/ipv_sharing_4.svg": {
+    "md5Checksum": "e4d88539bfe19e768b1b6ee3916f4cb8",
+    "size_kb": 49.1
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_sharing_m/ipv_sharing_5.svg": {
+    "md5Checksum": "1044fc3a610ce46131c45e77c3da622e",
+    "size_kb": 61.1
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_supportive_m/ipv_supportive_1.svg": {
+    "md5Checksum": "4dc0947862f868e0770a1bee395bbb3b",
+    "size_kb": 25.8
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_supportive_m/ipv_supportive_2.svg": {
+    "md5Checksum": "97c14ab7c0afa569d2fa4c8bb8764bbd",
+    "size_kb": 36.5
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_supportive_m/ipv_supportive_3.svg": {
+    "md5Checksum": "837c43506d4faf7495a9c97ef2ffd77c",
+    "size_kb": 37.9
+  },
+  "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_supportive_m/ipv_supportive_4.svg": {
+    "md5Checksum": "273068649d2d74f2a5a3be4242b2bc83",
+    "size_kb": 37.3
+  },
+  "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/anxiety_teen/anxiety_teen_1.svg": {
+    "md5Checksum": "8d3b8ef4f9a275417ec986ab2f4aeba3",
+    "size_kb": 89.6
+  },
+  "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/anxiety_teen/anxiety_teen_2.svg": {
+    "md5Checksum": "73ab0b330b9308872b2dfa06fdce2bda",
+    "size_kb": 32.2
+  },
+  "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/anxiety_teen/anxiety_teen_3.svg": {
+    "md5Checksum": "03e9affa076433a8c40c92bcfa8c2555",
+    "size_kb": 27.3
+  },
+  "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/anxiety_teen/anxiety_teen_4.svg": {
+    "md5Checksum": "9b6363526460282320ed7b038353f269",
+    "size_kb": 26.5
+  },
+  "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/anxiety_teen/anxiety_teen_5.svg": {
+    "md5Checksum": "ce688f9be60eb4d4b9eb0c385e6656d1",
+    "size_kb": 26.2
+  },
+  "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/sadness_teen/sadness_teen_1.svg": {
+    "md5Checksum": "2cf1d6ed923f8d9f5ece923198ddc296",
+    "size_kb": 30.7
+  },
+  "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/sadness_teen/sadness_teen_2.svg": {
+    "md5Checksum": "a69c344e4254bc5a436beb2fbaf76476",
+    "size_kb": 30.4
+  },
+  "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/sadness_teen/sadness_teen_3.svg": {
+    "md5Checksum": "f864e23611a85d2bcf5b64d6ed43eb5b",
+    "size_kb": 33.5
+  },
+  "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/sadness_teen/sadness_teen_4.svg": {
+    "md5Checksum": "5ff1920f7bfef2297c75a3632c864fbf",
+    "size_kb": 28.1
+  },
+  "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/sadness_teen/sadness_teen_5.svg": {
+    "md5Checksum": "1cdd3375487831b341ded4ffb428a79c",
+    "size_kb": 22.3
+  },
+  "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/sadness_teen/sadness_teen_6.svg": {
+    "md5Checksum": "77fa19555d5d2a73d83f282c490c7efa",
+    "size_kb": 21.6
+  },
+  "images/comic/5. Seguridad de mi niña o niño/com_safety_2to4_yc/com_safety_2to4_yc_1.svg": {
+    "md5Checksum": "1d22944bdd12eb829bac97e73b617f0a",
+    "size_kb": 34.1
+  },
+  "images/comic/5. Seguridad de mi niña o niño/com_safety_2to4_yc/com_safety_2to4_yc_2.svg": {
+    "md5Checksum": "10d5f2c3dbdd07546dfe9f30ec40dec2",
+    "size_kb": 36.4
+  },
+  "images/comic/5. Seguridad de mi niña o niño/com_safety_2to4_yc/com_safety_2to4_yc_3.svg": {
+    "md5Checksum": "8a8075393262b6175080a03be818bc9a",
+    "size_kb": 28.4
+  },
+  "images/comic/5. Seguridad de mi niña o niño/com_safety_2to4_yc/com_safety_2to4_yc_4.svg": {
+    "md5Checksum": "c7938cbc038a5542250ffc89b947b190",
+    "size_kb": 33.6
+  },
+  "images/comic/5. Seguridad de mi niña o niño/com_safety_5to9_yc/com_safety_5to9_yc_1.svg": {
+    "md5Checksum": "55be95fb42101bed4c1f11d12995e920",
+    "size_kb": 39.4
+  },
+  "images/comic/5. Seguridad de mi niña o niño/com_safety_5to9_yc/com_safety_5to9_yc_2.svg": {
+    "md5Checksum": "e362947450875e108661b4490957176e",
+    "size_kb": 43.7
+  },
+  "images/comic/5. Seguridad de mi niña o niño/com_safety_5to9_yc/com_safety_5to9_yc_3.svg": {
+    "md5Checksum": "ee148667dc9e93916a88431e38c2ff62",
+    "size_kb": 40.6
+  },
+  "images/comic/5. Seguridad de mi niña o niño/com_safety_5to9_yc/com_safety_5to9_yc_4.svg": {
+    "md5Checksum": "ea1c65077736f96a5f798037f3192d12",
+    "size_kb": 20.8
+  },
+  "images/comic/5. Seguridad de mi niña o niño/com_safety_5to9_yc/com_safety_5to9_yc_5.svg": {
+    "md5Checksum": "507e5d96cb01f67f10dac93c70a3137e",
+    "size_kb": 19.7
+  },
+  "images/comic/5. Seguridad de mi niña o niño/crises_2to6_yc/crises_2to6_yc_1.svg": {
+    "md5Checksum": "0188538b1591c782b682710cc82cea38",
+    "size_kb": 36.2
+  },
+  "images/comic/5. Seguridad de mi niña o niño/crises_2to6_yc/crises_2to6_yc_2.svg": {
+    "md5Checksum": "e6c258883f9a84a61536a0c8ed0031fd",
+    "size_kb": 37.5
+  },
+  "images/comic/5. Seguridad de mi niña o niño/crises_2to6_yc/crises_2to6_yc_3.svg": {
+    "md5Checksum": "44bc5d16fdce34f8f45f72066229420f",
+    "size_kb": 37.2
+  },
+  "images/comic/5. Seguridad de mi niña o niño/crises_2to6_yc/crises_2to6_yc_4.svg": {
+    "md5Checksum": "f7947947a62d5eac260c83a1fc50b6c2",
+    "size_kb": 36.3
+  },
+  "images/comic/5. Seguridad de mi niña o niño/crises_7to9_yc/crises_7to9_yc_1.svg": {
+    "md5Checksum": "7457452967669230510f0db8784ccb91",
+    "size_kb": 27.5
+  },
+  "images/comic/5. Seguridad de mi niña o niño/crises_7to9_yc/crises_7to9_yc_2.svg": {
+    "md5Checksum": "6463be53a99e188d48eb9162ec0bbec7",
+    "size_kb": 19
+  },
+  "images/comic/5. Seguridad de mi niña o niño/crises_7to9_yc/crises_7to9_yc_3.svg": {
+    "md5Checksum": "3c1f134da1140c2b92cc0ba68aeb675b",
+    "size_kb": 21.4
+  },
+  "images/comic/5. Seguridad de mi niña o niño/crises_7to9_yc/crises_7to9_yc_4.svg": {
+    "md5Checksum": "3b72dc23980d2f955547365cb46f549e",
+    "size_kb": 20.8
+  },
+  "images/comic/5. Seguridad de mi niña o niño/crises_7to9_yc/crises_7to9_yc_5.svg": {
+    "md5Checksum": "5470746d2eddef68a9f1aefa7909421e",
+    "size_kb": 11.8
+  },
+  "images/comic/5. Seguridad de mi niña o niño/crises_7to9_yc/crises_7to9_yc_6.svg": {
+    "md5Checksum": "54a3cdc9318257bb83e286c1a0d54337",
+    "size_kb": 25.5
+  },
+  "images/comic/5. Seguridad de mi niña o niño/online_safety_yc/online_safety_yc_1.svg": {
+    "md5Checksum": "0af969d522a3fde2a2b525e7255725a7",
+    "size_kb": 25.4
+  },
+  "images/comic/5. Seguridad de mi niña o niño/online_safety_yc/online_safety_yc_2.svg": {
+    "md5Checksum": "6179707ca9f165cf4dab8b89c4322192",
+    "size_kb": 25.9
+  },
+  "images/comic/5. Seguridad de mi niña o niño/online_safety_yc/online_safety_yc_3.svg": {
+    "md5Checksum": "b92f8c7ee00bb4e8c309f493c7b0b4c7",
+    "size_kb": 26
+  },
+  "images/comic/5. Seguridad de mi niña o niño/online_safety_yc/online_safety_yc_4.svg": {
+    "md5Checksum": "affb2b41dc193cf0680c84b75fc3600d",
+    "size_kb": 27.2
+  },
+  "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_f/safe_touch_2to5_yc_f_1.svg": {
+    "md5Checksum": "01f77b31f5a59b7519232f2370aeab6c",
+    "size_kb": 47.3
+  },
+  "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_f/safe_touch_2to5_yc_f_2.svg": {
+    "md5Checksum": "b949f267c90173d39c05afd6aeeb741f",
+    "size_kb": 43.5
+  },
+  "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_f/safe_touch_2to5_yc_f_3.svg": {
+    "md5Checksum": "a785f7050bef0f891fa22b725a3266a2",
+    "size_kb": 44.1
+  },
+  "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_f/safe_touch_2to5_yc_f_4.svg": {
+    "md5Checksum": "c5bd8b260417efb313205c56a5e6ccdc",
+    "size_kb": 45.6
+  },
+  "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_f/safe_touch_2to5_yc_f_5.svg": {
+    "md5Checksum": "25a64c895d86f056a98f903190917b3b",
+    "size_kb": 37
+  },
+  "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_m/safe_touch_2to5_yc_m_1.svg": {
+    "md5Checksum": "97b0d65e50c80ccc3500969d513c2030",
+    "size_kb": 127.9
+  },
+  "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_m/safe_touch_2to5_yc_m_2.svg": {
+    "md5Checksum": "a88394a6ef7abb4ac3d1c0f0650285ec",
+    "size_kb": 119.6
+  },
+  "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_m/safe_touch_2to5_yc_m_3.svg": {
+    "md5Checksum": "a15cf579cf4d9b5d788dad56cb0f3dd4",
+    "size_kb": 119.6
+  },
+  "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_m/safe_touch_2to5_yc_m_4.svg": {
+    "md5Checksum": "7693e8facf8e374ed7769b1cf549d823",
+    "size_kb": 121.3
+  },
+  "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_m/safe_touch_2to5_yc_m_5.svg": {
+    "md5Checksum": "1c625db7593b430c2e7afa7b0bde63ea",
+    "size_kb": 121.1
+  },
+  "images/comic/5. Seguridad de mi niña o niño/safe_touch_6to9_yc/safe_touch_6to9_yc_1.svg": {
+    "md5Checksum": "e06ac32238fe5affc445c101d48f2dd1",
+    "size_kb": 36.9
+  },
+  "images/comic/5. Seguridad de mi niña o niño/safe_touch_6to9_yc/safe_touch_6to9_yc_2.svg": {
+    "md5Checksum": "f7211a6d7bdb94b751c43e9ee3c9b65a",
+    "size_kb": 34.7
+  },
+  "images/comic/5. Seguridad de mi niña o niño/safe_touch_6to9_yc/safe_touch_6to9_yc_3.svg": {
+    "md5Checksum": "e6de70c021c8d4a9cd66590135cd56c2",
+    "size_kb": 16.5
+  },
+  "images/comic/6. Seguridad de mi adolescente/community_safety_teen/community_safety_teen_1.svg": {
+    "md5Checksum": "2b3ad7bea2ee5b75e7653ad3f3866151",
+    "size_kb": 32.5
+  },
+  "images/comic/6. Seguridad de mi adolescente/community_safety_teen/community_safety_teen_2.svg": {
+    "md5Checksum": "8424f8ec8c5ddb0fa4adfe9a1f18fb05",
+    "size_kb": 67.3
+  },
+  "images/comic/6. Seguridad de mi adolescente/community_safety_teen/community_safety_teen_3.svg": {
+    "md5Checksum": "00d635cf3e1affd1461ba8b092a37ab8",
+    "size_kb": 66.5
+  },
+  "images/comic/6. Seguridad de mi adolescente/community_safety_teen/community_safety_teen_4.svg": {
+    "md5Checksum": "d4c3e47bfa8d26de92b59efda417715d",
+    "size_kb": 59.8
+  },
+  "images/comic/6. Seguridad de mi adolescente/community_safety_teen/community_safety_teen_5.svg": {
+    "md5Checksum": "41ad96f8da6fe6c037acea0c4df81eca",
+    "size_kb": 58.8
+  },
+  "images/comic/6. Seguridad de mi adolescente/community_safety_teen/community_safety_teen_6.svg": {
+    "md5Checksum": "4e8458ebceffbd99c75234112b52a9e1",
+    "size_kb": 32
+  },
+  "images/comic/6. Seguridad de mi adolescente/crises_teen_f/crises_teen_f_1.svg": {
+    "md5Checksum": "9fc9e9830e914fd0ee5df1a7c336582a",
+    "size_kb": 27.4
+  },
+  "images/comic/6. Seguridad de mi adolescente/crises_teen_f/crises_teen_f_2.svg": {
+    "md5Checksum": "89948a944700049af6ef0fa4d758abcd",
+    "size_kb": 17.6
+  },
+  "images/comic/6. Seguridad de mi adolescente/crises_teen_f/crises_teen_f_3.svg": {
+    "md5Checksum": "34ee7744bf9d7a8a616ebe050a96e336",
+    "size_kb": 23.1
+  },
+  "images/comic/6. Seguridad de mi adolescente/crises_teen_f/crises_teen_f_4.svg": {
+    "md5Checksum": "90ac021c566b44cea5ef02d39adc1260",
+    "size_kb": 24
+  },
+  "images/comic/6. Seguridad de mi adolescente/crises_teen_f/crises_teen_f_5.svg": {
+    "md5Checksum": "99b7c0fd4d0ed5d25ee628f926b6717c",
+    "size_kb": 23.8
+  },
+  "images/comic/6. Seguridad de mi adolescente/crises_teen_f/crises_teen_f_6.svg": {
+    "md5Checksum": "e25a0d76fa2b4ca60de368f25fd618a9",
+    "size_kb": 22.1
+  },
+  "images/comic/6. Seguridad de mi adolescente/crises_teen_m/crises_teen_1.svg": {
+    "md5Checksum": "619b70f4228f76563ad881839bee7e97",
+    "size_kb": 20.9
+  },
+  "images/comic/6. Seguridad de mi adolescente/crises_teen_m/crises_teen_2.svg": {
+    "md5Checksum": "c2ce42e202e7195485c3f06820781c54",
+    "size_kb": 16.5
+  },
+  "images/comic/6. Seguridad de mi adolescente/crises_teen_m/crises_teen_3.svg": {
+    "md5Checksum": "f7463b3fe9ab142e6c8c92d0a52a8d61",
+    "size_kb": 13.9
+  },
+  "images/comic/6. Seguridad de mi adolescente/crises_teen_m/crises_teen_4.svg": {
+    "md5Checksum": "e5b7aabad8081e139ca506e2cfecd6fc",
+    "size_kb": 14.2
+  },
+  "images/comic/6. Seguridad de mi adolescente/crises_teen_m/crises_teen_5.svg": {
+    "md5Checksum": "d0d5b0788354556d2fecb80c04974527",
+    "size_kb": 14.1
+  },
+  "images/comic/6. Seguridad de mi adolescente/crises_teen_m/crises_teen_6.svg": {
+    "md5Checksum": "463b4af13907c92b02abe767503f0023",
+    "size_kb": 12.1
+  },
+  "images/comic/6. Seguridad de mi adolescente/online_safety_teen/online_safety_teen_1.svg": {
+    "md5Checksum": "e630d2495d95dd36fa939acc816f8484",
+    "size_kb": 42.9
+  },
+  "images/comic/6. Seguridad de mi adolescente/online_safety_teen/online_safety_teen_2.svg": {
+    "md5Checksum": "b1ead125d044c8cfc0200c97e250f41e",
+    "size_kb": 29.9
+  },
+  "images/comic/6. Seguridad de mi adolescente/online_safety_teen/online_safety_teen_3.svg": {
+    "md5Checksum": "a1fcc917ac99931c54f40ab4696201f0",
+    "size_kb": 29.2
+  },
+  "images/comic/6. Seguridad de mi adolescente/online_safety_teen/online_safety_teen_4.svg": {
+    "md5Checksum": "f3eec439af8dd1695a3f089f61343b20",
+    "size_kb": 37.9
+  },
+  "images/comic/6. Seguridad de mi adolescente/online_safety_teen/online_safety_teen_5.svg": {
+    "md5Checksum": "ebd0f2938c98ed19214412a31c05a21c",
+    "size_kb": 16.2
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/consequences_yc/consequences_yc_1.svg": {
+    "md5Checksum": "f1254d20d3d67cce75a19bee9a42e81a",
+    "size_kb": 98
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/consequences_yc/consequences_yc_2.svg": {
+    "md5Checksum": "1efc4dbbe2a0232c27ac17f6e7182747",
+    "size_kb": 98.4
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/consequences_yc/consequences_yc_3.svg": {
+    "md5Checksum": "6d2aff14b20c2e6ee605de155a8389c2",
+    "size_kb": 98.9
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/consequences_yc/consequences_yc_4.svg": {
+    "md5Checksum": "14dd9c80ee4291ac0e6bef4f6a56de9d",
+    "size_kb": 96.7
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/consequences_yc/teach_consequences_yc_5.svg": {
+    "md5Checksum": "2997ef5e65f77346968c48f84a3933c4",
+    "size_kb": 15.1
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/create_family_rules_yc/create_family_rules_yc_1.svg": {
+    "md5Checksum": "d205aae7124fafa6ceb71929fc064233",
+    "size_kb": 23.4
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/create_family_rules_yc/create_family_rules_yc_2.svg": {
+    "md5Checksum": "7a59b887b5921289848ee32a6822fcd5",
+    "size_kb": 23.2
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/create_family_rules_yc/create_family_rules_yc_3.svg": {
+    "md5Checksum": "56a7e3967c717eaed1e05f93cb98fbb1",
+    "size_kb": 30.4
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/create_family_rules_yc/create_family_rules_yc_4.svg": {
+    "md5Checksum": "1cd5a71251cf7bcd07104179af021f8a",
+    "size_kb": 41.8
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/ignore_yc/ignore_yc_1.svg": {
+    "md5Checksum": "f424b6e1f77a6e32cf9e93ba3727e990",
+    "size_kb": 59.9
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/ignore_yc/ignore_yc_2.svg": {
+    "md5Checksum": "f2db6d9060b7ce43e8406764a531f5a5",
+    "size_kb": 60.2
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/ignore_yc/ignore_yc_3.svg": {
+    "md5Checksum": "9e47f9f2ee9ba168c3679fc893a26d69",
+    "size_kb": 61.6
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/ignore_yc/ignore_yc_4.svg": {
+    "md5Checksum": "2135dd44feefb9d3c4247dfb032924ba",
+    "size_kb": 36.7
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/ignore_yc/ignore_yc_5.svg": {
+    "md5Checksum": "bb61c250eb2a3f3ce8252ce438f05b15",
+    "size_kb": 50.1
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/keeping_it_positive_yc/keeping_it_positive_yc_1.svg": {
+    "md5Checksum": "a2ea7a112375744c777520947c29b54f",
+    "size_kb": 45.9
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/keeping_it_positive_yc/keeping_it_positive_yc_2.svg": {
+    "md5Checksum": "f527b2e9e7ced4abf5c875a077190d23",
+    "size_kb": 40.9
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/keeping_it_positive_yc/keeping_it_positive_yc_3.svg": {
+    "md5Checksum": "b18e8b198a4b76102afe4f6fe6ee2d11",
+    "size_kb": 43.8
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/keeping_it_positive_yc/keeping_it_positive_yc_4.svg": {
+    "md5Checksum": "f2b2a972f6247aafd161298cf58b8572",
+    "size_kb": 21.6
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/managing_anger_yc/managing_anger_yc_1.svg": {
+    "md5Checksum": "9c0f0f066426cc8d6d3a90e533f4b0d9",
+    "size_kb": 115.8
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/managing_anger_yc/managing_anger_yc_2.svg": {
+    "md5Checksum": "6c29f40cd22702ba57b2180a8a1b28a1",
+    "size_kb": 26.8
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/managing_anger_yc/managing_anger_yc_3.svg": {
+    "md5Checksum": "0540af26e4dfec0d7454550a3a9b05f6",
+    "size_kb": 38.2
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/managing_anger_yc/managing_anger_yc_4.svg": {
+    "md5Checksum": "fa26bfabed26f8f58bc6886d6f5d37a5",
+    "size_kb": 22.4
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/managing_anger_yc/managing_anger_yc_5.svg": {
+    "md5Checksum": "f29e0aebfafaa72857cede91f2b64d2d",
+    "size_kb": 24.9
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/managing_anger_yc/managing_anger_yc_6.svg": {
+    "md5Checksum": "53b08ec2400b7a442d34365618774b46",
+    "size_kb": 37.2
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/solve_problems_yc/solve_problems_yc_1.svg": {
+    "md5Checksum": "fee5d297348fbe202e368ddae07e39c2",
+    "size_kb": 41
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/solve_problems_yc/solve_problems_yc_2.svg": {
+    "md5Checksum": "3d7b497030b6dbd7fc944958757bbd55",
+    "size_kb": 40.7
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/solve_problems_yc/solve_problems_yc_3.svg": {
+    "md5Checksum": "b301130a6f8148909a4de5b09fe5056b",
+    "size_kb": 41.9
+  },
+  "images/comic/7. Guiar el buen comportamiento de mi niña o niño/solve_problems_yc/solve_problems_yc_4.svg": {
+    "md5Checksum": "9bb3d48acac2a71293144995da29df66",
+    "size_kb": 41.2
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/consequences_teen/consequences_teen_1.svg": {
+    "md5Checksum": "bfe0771facfe9cabba37f5dd30aac107",
+    "size_kb": 56.6
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/consequences_teen/consequences_teen_2.svg": {
+    "md5Checksum": "a9b09508c7330a3d9663eda4f1ce2307",
+    "size_kb": 57.4
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/consequences_teen/consequences_teen_3.svg": {
+    "md5Checksum": "98db38d5f2f32e665880e4822f18ffe4",
+    "size_kb": 55.7
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/consequences_teen/consequences_teen_4.svg": {
+    "md5Checksum": "4f51e436e05f307b0b59d934a276592e",
+    "size_kb": 55.2
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/consequences_teen/consequences_teen_5.svg": {
+    "md5Checksum": "d871356b031a196eddfa31add8a8f0ac",
+    "size_kb": 54.7
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/keeping_it_positive_teen/keeping_it_positive_teen_1.svg": {
+    "md5Checksum": "0cc4fe9b752412012130c01d1d599dfb",
+    "size_kb": 62
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/keeping_it_positive_teen/keeping_it_positive_teen_2.svg": {
+    "md5Checksum": "efc5ddd5753cf7ca88feb600e76aa5d0",
+    "size_kb": 55.9
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/keeping_it_positive_teen/keeping_it_positive_teen_3.svg": {
+    "md5Checksum": "176d71b134781532bd8c8a0d3341bd76",
+    "size_kb": 60.2
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/keeping_it_positive_teen/keeping_it_positive_teen_4.svg": {
+    "md5Checksum": "e8d307fdea358dda087bbe43c97e0da5",
+    "size_kb": 20.3
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/keeping_it_positive_teen/keeping_it_positive_teen_5.svg": {
+    "md5Checksum": "4041e072f08a4cf29bc56d53241c2922",
+    "size_kb": 62.1
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/managing_anger_teen/managing_anger_teen_1.svg": {
+    "md5Checksum": "dc1cbb777d60d4f31eb03864c2988c94",
+    "size_kb": 108.8
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/managing_anger_teen/managing_anger_teen_2.svg": {
+    "md5Checksum": "222da9c2edf1a81dbd35978e95016591",
+    "size_kb": 21.9
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/managing_anger_teen/managing_anger_teen_3.svg": {
+    "md5Checksum": "05b124989f1003552f4623ecb879abf8",
+    "size_kb": 30.2
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/managing_anger_teen/managing_anger_teen_4.svg": {
+    "md5Checksum": "a47d0c85bce6bbd218130db301b7430a",
+    "size_kb": 16
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/managing_anger_teen/managing_anger_teen_5.svg": {
+    "md5Checksum": "5e51db502edadf0279876b1fde32d161",
+    "size_kb": 16.6
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/managing_anger_teen/managing_anger_teen_6.svg": {
+    "md5Checksum": "81f37423e94e78d5b07fab0f0dd4b484",
+    "size_kb": 30.8
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/rules_teen/rules_teen_1.svg": {
+    "md5Checksum": "411ba286547a24beda51a9565cd4625f",
+    "size_kb": 26.9
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/rules_teen/rules_teen_2.svg": {
+    "md5Checksum": "bf182a859685c3fa53596a07bd514277",
+    "size_kb": 42.9
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/rules_teen/rules_teen_3.svg": {
+    "md5Checksum": "151c3a92b0e23757850c678b40c25ff9",
+    "size_kb": 42.3
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/rules_teen/rules_teen_4.svg": {
+    "md5Checksum": "bd5d2338488c43366335b387985ccce5",
+    "size_kb": 41.2
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/rules_teen/rules_teen_5.svg": {
+    "md5Checksum": "c04ef4f77a0b04ac5f075ff67e4dd6c2",
+    "size_kb": 42
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/rules_teen/rules_teen_6.svg": {
+    "md5Checksum": "0314c05edb2be58834d15d7ff7e6cfbe",
+    "size_kb": 11.9
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/solve_problems_teen/solve_problems_teen_1.svg": {
+    "md5Checksum": "780afa495eefa0cdb4b01b9adc294713",
+    "size_kb": 25.3
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/solve_problems_teen/solve_problems_teen_2.svg": {
+    "md5Checksum": "3b7a62a1939cf5c75046260cbfd964bf",
+    "size_kb": 25
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/solve_problems_teen/solve_problems_teen_3.svg": {
+    "md5Checksum": "45e72b0083bc773ff6cb40fb21fa3bc1",
+    "size_kb": 26.4
+  },
+  "images/comic/8. Guiar el buen comportamiento de mi adolescente/solve_problems_teen/solve_problems_teen_4.svg": {
+    "md5Checksum": "5b15e158d194b1f099c1c0e919403de0",
+    "size_kb": 25.1
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/fun_learning_7to9_yc/fun_learning_7to9_yc_1.svg": {
+    "md5Checksum": "03208030fcff27a47e5918d0c278404e",
+    "size_kb": 55.4
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/fun_learning_7to9_yc/fun_learning_7to9_yc_2.svg": {
+    "md5Checksum": "e41e6432999430ec5937cf69c6f56213",
+    "size_kb": 16.9
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/fun_learning_7to9_yc/fun_learning_7to9_yc_3.svg": {
+    "md5Checksum": "5bd6af448ce3fa811b268bdde62a60b7",
+    "size_kb": 59.9
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/fun_learning_7to9_yc/fun_learning_7to9_yc_4.svg": {
+    "md5Checksum": "928121a5594ac9e7b59a5d9abf43687f",
+    "size_kb": 36.3
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/help_child_learn_7to9_yc/help_child_learn_7to9_yc_1.svg": {
+    "md5Checksum": "6104eb3d40146008260f7e3363ab5e50",
+    "size_kb": 31.7
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/help_child_learn_7to9_yc/help_child_learn_7to9_yc_2.svg": {
+    "md5Checksum": "36ca0934b87967811f7730a87dcd7d05",
+    "size_kb": 32.8
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/help_child_learn_7to9_yc/help_child_learn_7to9_yc_3.svg": {
+    "md5Checksum": "0b7a8b4272835410a6b578fd71c813b2",
+    "size_kb": 26.7
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/help_child_learn_7to9_yc/help_child_learn_7to9_yc_4.svg": {
+    "md5Checksum": "741c269283e3ede8ac4e746bb7d857fb",
+    "size_kb": 27.9
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/language_yc/language_yc_1.svg": {
+    "md5Checksum": "1c2e27b6a7161de0419ceba02c9993a6",
+    "size_kb": 31
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/language_yc/language_yc_2.svg": {
+    "md5Checksum": "69cfef113cfe53099c7405ecfe040849",
+    "size_kb": 32.8
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/language_yc/language_yc_3.svg": {
+    "md5Checksum": "a62a387b5bca7800443bc964dacdf812",
+    "size_kb": 31.8
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/language_yc/language_yc_4.svg": {
+    "md5Checksum": "f8c21af59054f183c9b2477c4f4259da",
+    "size_kb": 35.4
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/learning_mistakes_7to9_yc/learning_mistakes_7to9_yc_1.svg": {
+    "md5Checksum": "665b27800fbc115088bb0ad18fdb5f24",
+    "size_kb": 36.2
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/learning_mistakes_7to9_yc/learning_mistakes_7to9_yc_2.svg": {
+    "md5Checksum": "02a9f266c0e93ddbdd779f2118528f8c",
+    "size_kb": 36.1
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/learning_mistakes_7to9_yc/learning_mistakes_7to9_yc_3.svg": {
+    "md5Checksum": "e234c4298d9bf1b1f25dfd73e3d6d55c",
+    "size_kb": 34.4
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/learning_mistakes_7to9_yc/learning_mistakes_7to9_yc_4.svg": {
+    "md5Checksum": "e48a22e8e63422fd1bbfc6d65a522919",
+    "size_kb": 36
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/make_plan_yc/make_plan_yc_1.svg": {
+    "md5Checksum": "381381def2424bf97f914fcace6431fe",
+    "size_kb": 29.2
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/make_plan_yc/make_plan_yc_2.svg": {
+    "md5Checksum": "4618820dc5177efde7dc65b6537ded4c",
+    "size_kb": 14.7
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/make_plan_yc/make_plan_yc_3.svg": {
+    "md5Checksum": "9036ae9e189eb359b2a97c1380285f6e",
+    "size_kb": 16
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/make_plan_yc/make_plan_yc_4.svg": {
+    "md5Checksum": "3cc7c585513bd84b794a3606db8ba8bd",
+    "size_kb": 28.3
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/make_plan_yc/make_plan_yc_5.svg": {
+    "md5Checksum": "ac137e57a1c4910312358656d82b4834",
+    "size_kb": 28.2
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/make_plan_yc/make_plan_yc_6.svg": {
+    "md5Checksum": "c316beeef1aae4ab49f438b1566dff35",
+    "size_kb": 28.6
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/manage_stress_yc/manage_stress_yc_1.svg": {
+    "md5Checksum": "754b200cc6fd672b26d296143f371899",
+    "size_kb": 47.8
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/manage_stress_yc/manage_stress_yc_2.svg": {
+    "md5Checksum": "9465d5c34a1d6c60e1b71aa717d4d46e",
+    "size_kb": 26.9
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/manage_stress_yc/manage_stress_yc_3.svg": {
+    "md5Checksum": "aca88b8606aafc2e39e4da81a0b4db00",
+    "size_kb": 44.6
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/manage_stress_yc/manage_stress_yc_4.svg": {
+    "md5Checksum": "a47e1d054c3a2aaadf93bce8c4491dc0",
+    "size_kb": 43.6
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/manage_stress_yc/manage_stress_yc_5.svg": {
+    "md5Checksum": "dd0981050eede0e9556eb28ed72e5b6c",
+    "size_kb": 43.7
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/manage_stress_yc/manage_stress_yc_6.svg": {
+    "md5Checksum": "c938d7ab54a05a29109fdfc7bc618e95",
+    "size_kb": 45.5
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/maths2_4to6_yc/maths2_4to6_yc_1.svg": {
+    "md5Checksum": "e7921692b20719795be8b49f3d4c7d5d",
+    "size_kb": 100.2
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/maths2_4to6_yc/maths2_4to6_yc_2.svg": {
+    "md5Checksum": "dd02ca7ac1bcfaefdf4f736bccf32b3a",
+    "size_kb": 101.1
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/maths2_4to6_yc/maths2_4to6_yc_3.svg": {
+    "md5Checksum": "1aa4cbdf7f5ad785aca0bd6675514367",
+    "size_kb": 100.1
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/maths2_4to6_yc/maths2_4to6_yc_4.svg": {
+    "md5Checksum": "b79fedac44f0d524fd8ace55d11df5fc",
+    "size_kb": 97.8
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/positive_learning_7to9_yc/positive_learning_7to9_yc_1.svg": {
+    "md5Checksum": "3633c58a91acb582b81323b678b6eb64",
+    "size_kb": 23.3
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/positive_learning_7to9_yc/positive_learning_7to9_yc_2.svg": {
+    "md5Checksum": "3e7483addded2d7d3fc3ddc4df2e9307",
+    "size_kb": 24.4
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/positive_learning_7to9_yc/positive_learning_7to9_yc_3.svg": {
+    "md5Checksum": "84a3fa30b65953be370f3af72ad657df",
+    "size_kb": 28.1
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/positive_learning_7to9_yc/positive_learning_7to9_yc_4.svg": {
+    "md5Checksum": "c327d7d305c4c20202c2673e3a250e1a",
+    "size_kb": 27.2
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/positive_learning_7to9_yc/positive_learning_7to9_yc_5.svg": {
+    "md5Checksum": "df6de62df350ffc739629ddecbe6fef2",
+    "size_kb": 27.2
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading1_4to6_yc/reading1_4to6_yc_1.svg": {
+    "md5Checksum": "cb54cc6c87c5def2b81199810298ccc4",
+    "size_kb": 36.4
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading1_4to6_yc/reading1_4to6_yc_2.svg": {
+    "md5Checksum": "2667220c9bbf26995edb9b5bbcb9eb25",
+    "size_kb": 38
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading1_4to6_yc/reading1_4to6_yc_3.svg": {
+    "md5Checksum": "c0a4cbcf59981b908ba58427aba7f05b",
+    "size_kb": 37.9
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading1_4to6_yc/reading1_4to6_yc_4.svg": {
+    "md5Checksum": "33d6a5905c70cc90ca035f931d391c5b",
+    "size_kb": 38
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading_2to3_yc/reading_2to3_yc_1.svg": {
+    "md5Checksum": "7bcdf247f3f37b6ed7fd789fa285d717",
+    "size_kb": 37.7
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading_2to3_yc/reading_2to3_yc_2.svg": {
+    "md5Checksum": "4055f06310957faabefb9423ec9c360c",
+    "size_kb": 46.1
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading_2to3_yc/reading_2to3_yc_3.svg": {
+    "md5Checksum": "a69f6480cf488993f9f0269c8d8c7035",
+    "size_kb": 39.3
+  },
+  "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading_2to3_yc/reading_2to3_yc_4.svg": {
+    "md5Checksum": "fb4fd41d29dd16d43e27f1e9893ca6e3",
+    "size_kb": 37.9
+  },
+  "images/comics/child_development_yc_1.svg": {
+    "md5Checksum": "2c5c6f3fd73b8522c714c043daae33d8",
+    "size_kb": 124.5
+  },
+  "images/comics/child_development_yc_2.svg": {
+    "md5Checksum": "ce4ff14179e1efa12f631287b8b2d617",
+    "size_kb": 123.7
+  },
+  "images/comics/child_development_yc_3.svg": {
+    "md5Checksum": "62475bb6dc9fb630eed697670522bb9e",
+    "size_kb": 128.1
+  },
+  "images/comics/child_development_yc_4.svg": {
+    "md5Checksum": "850564ca917a4d2c6c94cf8ea331dd2e",
+    "size_kb": 123
+  },
+  "images/comics/consequences_yc_1.svg": {
+    "md5Checksum": "32006854e9132beb2b8927b6defddbf8",
+    "size_kb": 117.6
+  },
+  "images/comics/consequences_yc_2.svg": {
+    "md5Checksum": "c9ae4ba984e54b6ac60287201d7e25f3",
+    "size_kb": 150.5
+  },
+  "images/comics/consequences_yc_3.svg": {
+    "md5Checksum": "d7bceb54965a3020e076c9cad389b9fd",
+    "size_kb": 156.7
+  },
+  "images/comics/consequences_yc_4.svg": {
+    "md5Checksum": "692fdb7b572de6f270db848b90c0d9a8",
+    "size_kb": 146.5
+  },
+  "images/comics/consequences_yc_5.svg": {
+    "md5Checksum": "5e075b0a2bbbe50dddbe6e2b5fd0c797",
+    "size_kb": 64.7
+  },
+  "images/comics/feelings_yc_1.svg": {
+    "md5Checksum": "b4fd681c5331eebd088c0a61f310a642",
+    "size_kb": 106.8
+  },
+  "images/comics/feelings_yc_2.svg": {
+    "md5Checksum": "d24b9ce5cf242d5f7f9b9d8591cba40d",
+    "size_kb": 175.7
+  },
+  "images/comics/feelings_yc_3.svg": {
+    "md5Checksum": "91199264946968590a6dfae4a99bdd27",
+    "size_kb": 183.1
+  },
+  "images/comics/feelings_yc_4.svg": {
+    "md5Checksum": "ab9541f488a59680fd51a31c22d91b1b",
+    "size_kb": 159
+  },
+  "images/comics/instructions_yc_1.svg": {
+    "md5Checksum": "691de2c8692e384a564eb4d822de9191",
+    "size_kb": 146.4
+  },
+  "images/comics/instructions_yc_2.svg": {
+    "md5Checksum": "efc2c71e629ba2bdda60bf45e383843c",
+    "size_kb": 154.5
+  },
+  "images/comics/instructions_yc_3.svg": {
+    "md5Checksum": "3be4fbb58b46553603b98e3f8e7e83fd",
+    "size_kb": 155.2
+  },
+  "images/comics/instructions_yc_4.svg": {
+    "md5Checksum": "92bff60b011f16cff9ea36887c9fbc3c",
+    "size_kb": 60.3
+  },
+  "images/comics/instructions_yc_5.svg": {
+    "md5Checksum": "4ab2493315f54696d7d8f12899810c1d",
+    "size_kb": 124.9
+  },
+  "images/comics/instructions_yc_6.svg": {
+    "md5Checksum": "1d05af3f0f3d8116cdf8e602e70e5fc3",
+    "size_kb": 122.1
+  },
+  "images/comics/instructions_yc_7.svg": {
+    "md5Checksum": "738adff2c224c04e5137f5f0fb53aad3",
+    "size_kb": 125.9
+  },
+  "images/comics/learn_experience_yc_1.svg": {
+    "md5Checksum": "51d95faf07fa2e5af14928e330fa9299",
+    "size_kb": 77.7
+  },
+  "images/comics/learn_experience_yc_2.svg": {
+    "md5Checksum": "ee37e6b2da1501e47c9760347a9e5bf2",
+    "size_kb": 82.7
+  },
+  "images/comics/learn_experience_yc_3.svg": {
+    "md5Checksum": "5a1e5fe468fba777aedcb9e7070feefb",
+    "size_kb": 81.8
+  },
+  "images/comics/learn_experience_yc_4.svg": {
+    "md5Checksum": "78d25da86910596d8c615472d67cb759",
+    "size_kb": 82.5
+  },
+  "images/comics/learn_experience_yc_5.svg": {
+    "md5Checksum": "abe3469c072c141f2b273ba9bb8b0aca",
+    "size_kb": 71.1
+  },
+  "images/comics/one_on_one_yc_1.svg": {
+    "md5Checksum": "3cf6f9e17aa13ee78ae3277e24c5c63c",
+    "size_kb": 61
+  },
+  "images/comics/one_on_one_yc_2.svg": {
+    "md5Checksum": "fc93d2bb3dcf1c2638da8244bbfd5b90",
+    "size_kb": 65.5
+  },
+  "images/comics/one_on_one_yc_3.svg": {
+    "md5Checksum": "916471cbcf3063d0d89201c2c41c071c",
+    "size_kb": 65.5
+  },
+  "images/comics/one_on_one_yc_4.svg": {
+    "md5Checksum": "f74b87457cf453930b2088ffafdc5f29",
+    "size_kb": 67
+  },
+  "images/comics/play_yc_1.svg": {
+    "md5Checksum": "fc8a5ec771296f6def962f12e0e5dff6",
+    "size_kb": 286.4
+  },
+  "images/comics/play_yc_2.svg": {
+    "md5Checksum": "a387647c356cab1e1bf8d7dde587e51b",
+    "size_kb": 283.3
+  },
+  "images/comics/play_yc_3.svg": {
+    "md5Checksum": "5c9ec940e4c05364bb6a63c6875f0d2e",
+    "size_kb": 80.8
+  },
+  "images/comics/play_yc_4.svg": {
+    "md5Checksum": "50d61cd16992e0a769da403ba6dd7523",
+    "size_kb": 98.5
+  },
+  "images/comics/praise_yc_1.svg": {
+    "md5Checksum": "e8d7d0a8e4e19afe4ec353c67fb9bdc6",
+    "size_kb": 98.7
+  },
+  "images/comics/praise_yc_2.svg": {
+    "md5Checksum": "3e587f456fd6b823fc1c81156bf792b7",
+    "size_kb": 100.5
+  },
+  "images/comics/praise_yc_3.svg": {
+    "md5Checksum": "8a540513f787736f0f580efd0f81d4de",
+    "size_kb": 96.5
+  },
+  "images/comics/praise_yc_4.svg": {
+    "md5Checksum": "532c8c95e297bda3511bf3e1df4c004e",
+    "size_kb": 105
+  },
+  "images/comics/problem_solving_yc_1.svg": {
+    "md5Checksum": "d380b7f9bcb7acf9a0dfb1dc02c8039c",
+    "size_kb": 42.1
+  },
+  "images/comics/problem_solving_yc_2.svg": {
+    "md5Checksum": "d0d73db58e19c8c554940636ae0fd195",
+    "size_kb": 48.3
+  },
+  "images/comics/problem_solving_yc_3.svg": {
+    "md5Checksum": "6b71e0364182270c63cfe72c4f5339c9",
+    "size_kb": 47
+  },
+  "images/comics/problem_solving_yc_4.svg": {
+    "md5Checksum": "9ddaef550ad04f186dfca2313d8abd81",
+    "size_kb": 42.1
+  },
+  "images/comics/routines_yc_1.svg": {
+    "md5Checksum": "7603762c4d535c6c8a0fd33285b5b447",
+    "size_kb": 55.9
+  },
+  "images/comics/routines_yc_10.svg": {
+    "md5Checksum": "fdbee7a3ea0503611ae38338af6e65b8",
+    "size_kb": 111.8
+  },
+  "images/comics/routines_yc_2.svg": {
+    "md5Checksum": "9fba72fed0592c5bbb289f2d993c492f",
+    "size_kb": 62.4
+  },
+  "images/comics/routines_yc_3.svg": {
+    "md5Checksum": "2c21bf865feed4a1a2940fbc97fd726a",
+    "size_kb": 60.7
+  },
+  "images/comics/routines_yc_4.svg": {
+    "md5Checksum": "d894409ae5cc6d0bdfe6840b9c90564d",
+    "size_kb": 74.3
+  },
+  "images/comics/routines_yc_5.svg": {
+    "md5Checksum": "38ab0b695bc55b11766b1ee30d8a2a98",
+    "size_kb": 49.9
+  },
+  "images/comics/routines_yc_6.svg": {
+    "md5Checksum": "d350bb3340abc437580e59c98825828d",
+    "size_kb": 47.2
+  },
+  "images/comics/routines_yc_7.svg": {
+    "md5Checksum": "7ec8004a9b318f61aafcaf3556e88a86",
+    "size_kb": 140.7
+  },
+  "images/comics/routines_yc_8.svg": {
+    "md5Checksum": "68fea3f1e095b46c99f1699e0688e01c",
+    "size_kb": 96.8
+  },
+  "images/comics/routines_yc_9.svg": {
+    "md5Checksum": "2a8a7ae21d07e8fbcf93104423ae5b2b",
+    "size_kb": 116.9
+  },
+  "images/comics/self_care_yc_1.svg": {
+    "md5Checksum": "4f187f906396df26f3e2e7196d8641aa",
+    "size_kb": 100.6
+  },
+  "images/comics/self_care_yc_2.svg": {
+    "md5Checksum": "3fa2ea10adb40b203b68783bf02ae905",
+    "size_kb": 65.9
+  },
+  "images/comics/self_care_yc_3.svg": {
+    "md5Checksum": "457dca6d7d55470ab5a8312bad208662",
+    "size_kb": 145.9
+  },
+  "images/comics/self_care_yc_4.svg": {
+    "md5Checksum": "a3eb8623544ee5d0cab19761e9d6daa4",
+    "size_kb": 61.5
+  },
+  "images/comics/teach_consequences_yc_3.jpg": {
+    "md5Checksum": "a049febe5380a8e52a0763725a0084bb",
+    "size_kb": 3174
+  },
+  "images/consequences.jpg": {
+    "md5Checksum": "b6f9a9bd8d55ff28a2171bb4f29058d0",
+    "size_kb": 115.1
+  },
+  "images/facilitators_face.svg": {
+    "md5Checksum": "a1d15018aa8bf2d97cf1714fdeb948d2",
+    "size_kb": 39.3
+  },
+  "images/flags/gb.svg": {
+    "md5Checksum": "d3ddd6025a06a78535b0d432d14905bf",
+    "size_kb": 0.5
+  },
+  "images/flags/kw.svg": {
+    "md5Checksum": "2e0484c010807a0dca638bca095f76f5",
+    "size_kb": 0.5
+  },
+  "images/flags/tz.svg": {
+    "md5Checksum": "4cba6f3545595d585cf1c89394955c71",
+    "size_kb": 0.5
+  },
+  "images/homescreen/check_in/traditional_rondavel_closed.svg": {
+    "md5Checksum": "7f3b4f9ea35b08cc8d07a7a29e73ed78",
+    "size_kb": 23.9
+  },
+  "images/homescreen/check_in/traditional_rondavel_open.svg": {
+    "md5Checksum": "aa3e4dcd9c6c7857af8ced034c0331f6",
+    "size_kb": 28.8
+  },
+  "images/icons/balance_blue.png": {
+    "md5Checksum": "1c98d6a4ecc168045d7e1571953593b2",
+    "size_kb": 4.7
+  },
+  "images/icons/book_outline_blue.svg": {
+    "md5Checksum": "1b287c85e36a3375196a2a6ee7a0bca3",
+    "size_kb": 0.7
+  },
+  "images/icons/book_outline_white.svg": {
+    "md5Checksum": "12c477faa57812b7a16bc6a0d0424c06",
+    "size_kb": 0.7
+  },
+  "images/icons/brain_blue.png": {
+    "md5Checksum": "efeb76494b51228450e4d123d0e7c1af",
+    "size_kb": 5.2
+  },
+  "images/icons/clock_blue.png": {
+    "md5Checksum": "5b02b07f32d48f1bddd4b2387a0fd861",
+    "size_kb": 4.5
+  },
+  "images/icons/diamond.png": {
+    "md5Checksum": "976348fa8d22b37d279bb485b94c542d",
+    "size_kb": 1.8
+  },
+  "images/icons/diamond_active.png": {
+    "md5Checksum": "0e53c1cb5fd3059f4ef244017d1cc961",
+    "size_kb": 1.7
+  },
+  "images/icons/diamond_blue.png": {
+    "md5Checksum": "81cc20f73cdce633bf0427bf88b50827",
+    "size_kb": 4.7
+  },
+  "images/icons/document.svg": {
+    "md5Checksum": "da7bbdc1985249219cfb178f5d1ea514",
+    "size_kb": 7.3
+  },
+  "images/icons/expand_circle_right.png": {
+    "md5Checksum": "668d46c68a50b5862ae016cc05b8fa42",
+    "size_kb": 0.9
+  },
+  "images/icons/expand_circle_right.svg": {
+    "md5Checksum": "a72d1868e1782c052aa829835234ac0d",
+    "size_kb": 0.5
+  },
+  "images/icons/expand_circle_right_blue.svg": {
+    "md5Checksum": "f32d18c3819524f1e5c2d65d2b35721c",
+    "size_kb": 2.1
+  },
+  "images/icons/eye_blue.png": {
+    "md5Checksum": "266c565a207e1ebe67ac421cac3a0922",
+    "size_kb": 4.2
+  },
+  "images/icons/faces/angry.svg": {
+    "md5Checksum": "fbed8e862bed4c3a20cc76fddaa29f6f",
+    "size_kb": 1.1
+  },
+  "images/icons/faces/confused.svg": {
+    "md5Checksum": "1b6c3e959c1a2fb7b60a0204f3f51252",
+    "size_kb": 1.8
+  },
+  "images/icons/faces/happier.svg": {
+    "md5Checksum": "0950af49455cc3a0f45fdb58a7729f69",
+    "size_kb": 0.6
+  },
+  "images/icons/faces/happiest.svg": {
+    "md5Checksum": "daca7cda1c325c104815722f2cfc47e6",
+    "size_kb": 1.3
+  },
+  "images/icons/faces/happy.svg": {
+    "md5Checksum": "286df85cf5a71405938907c42a200e67",
+    "size_kb": 0.6
+  },
+  "images/icons/faces/happy_face_new.svg": {
+    "md5Checksum": "f9e913914cb1f406f1aab3665240f0a8",
+    "size_kb": 1.4
+  },
+  "images/icons/faces/neutral.svg": {
+    "md5Checksum": "8f4bc93561fb7114ea8802a04a220fb8",
+    "size_kb": 0.5
+  },
+  "images/icons/faces/ok_face_new.svg": {
+    "md5Checksum": "007a3aaa58f1c01005e9535ebf8d60dc",
+    "size_kb": 0.5
+  },
+  "images/icons/faces/sad.svg": {
+    "md5Checksum": "1020fc8785a8f8aeeadfa74de88c73d3",
+    "size_kb": 0.6
+  },
+  "images/icons/faces/sad_face_new.svg": {
+    "md5Checksum": "c5647f9bebf9c8bfc4080b1eb458a2be",
+    "size_kb": 1.5
+  },
+  "images/icons/faces/sadder.svg": {
+    "md5Checksum": "44f0f4aee98a30f31d445b169922f940",
+    "size_kb": 1.1
+  },
+  "images/icons/faces/saddest.svg": {
+    "md5Checksum": "e83831930f99740e1b6556c4aab41a1b",
+    "size_kb": 2
+  },
+  "images/icons/faces/scared.svg": {
+    "md5Checksum": "0d9e5d9d570750a6e0e5afff188ccf3a",
+    "size_kb": 2.1
+  },
+  "images/icons/faces/tired.svg": {
+    "md5Checksum": "978273858b64560b36bcd41d09ca3fb5",
+    "size_kb": 2.4
+  },
+  "images/icons/feather.svg": {
+    "md5Checksum": "cf69cc2e8ba1f0aa7d15366c4d8df711",
+    "size_kb": 3.5
+  },
+  "images/icons/football_blue.png": {
+    "md5Checksum": "54b732c820a451491d4f721907654849",
+    "size_kb": 5.1
+  },
+  "images/icons/heart.png": {
+    "md5Checksum": "1b13b88d9ec15adcdcc3c9ddd328e7c7",
+    "size_kb": 1.3
+  },
+  "images/icons/heart.svg": {
+    "md5Checksum": "3837dbad3c5c5b8158a5370064283c20",
+    "size_kb": 0.6
+  },
+  "images/icons/heart_filled.png": {
+    "md5Checksum": "40fe3a7a5cb53d31fbcb7ecd35a48f91",
+    "size_kb": 1.4
+  },
+  "images/icons/heart_filled.svg": {
+    "md5Checksum": "88d5bd5d99c20bd6ecfe5790f285fc0c",
+    "size_kb": 1.4
+  },
+  "images/icons/heart_filled_active.png": {
+    "md5Checksum": "c094b3b3466523507d24588cf85de936",
+    "size_kb": 1.5
+  },
+  "images/icons/heart_filled_blue.png": {
+    "md5Checksum": "18866326a48c59aacb21fe785b55f2ae",
+    "size_kb": 4.9
+  },
+  "images/icons/heart_filled_red.png": {
+    "md5Checksum": "17607eb5fd42929420bcff99c3e7e3ff",
+    "size_kb": 1.4
+  },
+  "images/icons/home.svg": {
+    "md5Checksum": "9c992c891ce900160c3738088c497f8b",
+    "size_kb": 0.4
+  },
+  "images/icons/home_active.svg": {
+    "md5Checksum": "8704993d38482b0eb3ab261e9f18f8cf",
+    "size_kb": 0.4
+  },
+  "images/icons/in_progress.svg": {
+    "md5Checksum": "6105962bc0edd981675d874dc8a51035",
+    "size_kb": 1.1
+  },
+  "images/icons/in_progress_white.svg": {
+    "md5Checksum": "f7bdd991a067c30d0cb140d5b77745bb",
+    "size_kb": 1.1
+  },
+  "images/icons/key.svg": {
+    "md5Checksum": "8027fa87b3cb79a6e9e524f13c9e5b26",
+    "size_kb": 5.5
+  },
+  "images/icons/lightbulb_blue.png": {
+    "md5Checksum": "6e7ca1898d5485db490b4023e13339a3",
+    "size_kb": 3.6
+  },
+  "images/icons/local_library.svg": {
+    "md5Checksum": "47c32e1a451ce2e6d55661977724cb1d",
+    "size_kb": 1.6
+  },
+  "images/icons/local_library_active.svg": {
+    "md5Checksum": "32cacaa501602e12c42cbf6f9a908efd",
+    "size_kb": 1.6
+  },
+  "images/icons/lock.svg": {
+    "md5Checksum": "0626195897db0154bcbd0f9942868f60",
+    "size_kb": 0.5
+  },
+  "images/icons/locked.png": {
+    "md5Checksum": "bd17d7cf65bc1102601156d378fe867c",
+    "size_kb": 0.7
+  },
+  "images/icons/magnify_glass.svg": {
+    "md5Checksum": "632b4994884de81721e0ec7d8de41fa4",
+    "size_kb": 1.9
+  },
+  "images/icons/magnifying_glass.svg": {
+    "md5Checksum": "4aa37ded543f172aa02486aaf484c4f9",
+    "size_kb": 0.9
+  },
+  "images/icons/notification_bell.png": {
+    "md5Checksum": "fbf9c1facc6a1a99fe5140433b163903",
+    "size_kb": 0.9
+  },
+  "images/icons/parent_child.svg": {
+    "md5Checksum": "99747503b2023a185d20be8e5c7d8076",
+    "size_kb": 2
+  },
+  "images/icons/parent_child_heart.svg": {
+    "md5Checksum": "2e43755d56b1a5b1a50234cf331d5760",
+    "size_kb": 3
+  },
+  "images/icons/pause.svg": {
+    "md5Checksum": "b9a01b9c0b6ed86d47ff094f22d23c73",
+    "size_kb": 0.7
+  },
+  "images/icons/pause_white.svg": {
+    "md5Checksum": "f6989826fb94a865281b035fa155689d",
+    "size_kb": 0.7
+  },
+  "images/icons/pencil.svg": {
+    "md5Checksum": "60929813ea7aa88fc13c23abef2063a4",
+    "size_kb": 1.1
+  },
+  "images/icons/picture_book.svg": {
+    "md5Checksum": "398b07248ce7b5b59ef471466d089af4",
+    "size_kb": 1.8
+  },
+  "images/icons/play.svg": {
+    "md5Checksum": "5393d2113acd3a4b7d5f03795067a678",
+    "size_kb": 0.5
+  },
+  "images/icons/play_white.svg": {
+    "md5Checksum": "6508bf39f8cb3c3ab0f30b96994a6cbc",
+    "size_kb": 0.5
+  },
+  "images/icons/profile_card.svg": {
+    "md5Checksum": "1ebe1597828d18a8a3a331a050d1bfd6",
+    "size_kb": 7.4
+  },
+  "images/icons/question_blue.png": {
+    "md5Checksum": "58ea5fdf1296861df3b86e9e69ca80ac",
+    "size_kb": 3.4
+  },
+  "images/icons/question_mark_blue.svg": {
+    "md5Checksum": "49e1d1e478068a24949d87d09c9ba07b",
+    "size_kb": 0.8
+  },
+  "images/icons/settings.svg": {
+    "md5Checksum": "e4c57dd6bcaab75533160616f4ca1d39",
+    "size_kb": 2.4
+  },
+  "images/icons/settings_active.svg": {
+    "md5Checksum": "bf8d2472083667e3d651224f283da233",
+    "size_kb": 2.4
+  },
+  "images/icons/single_speech_blue.png": {
+    "md5Checksum": "87f2ce452f41009826491a6d8f430d3c",
+    "size_kb": 3.3
+  },
+  "images/icons/smile_eyes_down.svg": {
+    "md5Checksum": "3e00c1fa0db9fabcfe65d6846e833c6e",
+    "size_kb": 0.9
+  },
+  "images/icons/smile_eyes_up.svg": {
+    "md5Checksum": "0fc25de0fd953eb65f9cb4a519aee45f",
+    "size_kb": 1
+  },
+  "images/icons/spark.png": {
+    "md5Checksum": "617d164a93f957d1ca7de0871eadbe1e",
+    "size_kb": 1.6
+  },
+  "images/icons/speech_bubble_blue.png": {
+    "md5Checksum": "5f74986da01d53a810b5022e43eb2e94",
+    "size_kb": 4.2
+  },
+  "images/icons/star_filled_blue.png": {
+    "md5Checksum": "9215aa8f24e37f7fe87beebe41015f26",
+    "size_kb": 5.1
+  },
+  "images/icons/star_outline_blue.svg": {
+    "md5Checksum": "db0b8e4ba99b48681840fc6ec93144c1",
+    "size_kb": 1
+  },
+  "images/icons/star_outline_white.svg": {
+    "md5Checksum": "0f9f695561b9bd2c21944bb6dd47d704",
+    "size_kb": 1
+  },
+  "images/icons/tablet_blue.png": {
+    "md5Checksum": "6f051cbc90e44a11530648b0b57593a9",
+    "size_kb": 2.8
+  },
+  "images/icons/thought_bubble.svg": {
+    "md5Checksum": "3eeffff41e1fe5f0dc3608deee6818c0",
+    "size_kb": 2.1
+  },
+  "images/icons/tick.svg": {
+    "md5Checksum": "b4e6f1e9ba6e5bcdd2e404bc432ba745",
+    "size_kb": 0.3
+  },
+  "images/icons/tick_white.svg": {
+    "md5Checksum": "81136e04436759812dc3f6e90c61de11",
+    "size_kb": 0.3
+  },
+  "images/icons/trophy.png": {
+    "md5Checksum": "d26a0b95afa1f5a653d7656d5ebb85bd",
+    "size_kb": 1.6
+  },
+  "images/icons/trophy_active.png": {
+    "md5Checksum": "ac1ed3d8771b45eb4cad2708280f5b18",
+    "size_kb": 1.7
+  },
+  "images/icons/trophy_blue.png": {
+    "md5Checksum": "4e4dd7a753e51cba837ba2775554e9d5",
+    "size_kb": 5.1
+  },
+  "images/icons/trophy_footer.svg": {
+    "md5Checksum": "44e3f4b92df2f1ba89681adffda313dd",
+    "size_kb": 3.9
+  },
+  "images/icons/trophy_footer_active.svg": {
+    "md5Checksum": "17cbaea000b1c5078ab2513d432bb84f",
+    "size_kb": 3.9
+  },
+  "images/icons/verified.svg": {
+    "md5Checksum": "41f21e68727d9367ab32bd05f3aa30e3",
+    "size_kb": 0.5
+  },
+  "images/icons/world.svg": {
+    "md5Checksum": "8063b977998a73ce347c65c8a5ae2ded",
+    "size_kb": 6.2
+  },
+  "images/instructions.svg": {
+    "md5Checksum": "5f01ae5906b1999f33246d3c81321f5c",
+    "size_kb": 23.2
+  },
+  "images/kw_facilitator_rd.jpg": {
+    "md5Checksum": "67d9921fc5ddf4d8adc5f33cca7e38ee",
+    "size_kb": 35.2
+  },
+  "images/kw_facilitator_rd.png": {
+    "md5Checksum": "4494e2e1cb5bcd48a07b1fed2eae07b8",
+    "size_kb": 87.3
+  },
+  "images/kw_facilitator_sq.jpg": {
+    "md5Checksum": "7a7d5f375de90332fc7fc8db1b81d611",
+    "size_kb": 30
+  },
+  "images/logos/IDEMS.png": {
+    "md5Checksum": "dd7be17e1082bfc5fb5800ac17754d0c",
+    "size_kb": 84.6
+  },
+  "images/logos/PLH.png": {
+    "md5Checksum": "6ca42a4ea6df3c39ea9d19024ab5f9b2",
+    "size_kb": 26.6
+  },
+  "images/logos/favicon.png": {
+    "md5Checksum": "2265c040569691441d445a1696bd5035",
+    "size_kb": 6.3
+  },
+  "images/logos/kuwait.png": {
+    "md5Checksum": "b1dcf13898cef04ccbc62ef4b73a9710",
+    "size_kb": 248
+  },
+  "images/logos/plh.jpeg": {
+    "md5Checksum": "b3a2f016979cf079bd53d7e4a83c194a",
+    "size_kb": 9.4
+  },
+  "images/logos/plh_white.png": {
+    "md5Checksum": "e73f142f2fd4c4d5d66cc438699a032c",
+    "size_kb": 12.8
+  },
+  "images/one_on_one_challenges.svg": {
+    "md5Checksum": "ee0f30adf77121b1b9f320888a0c3ad5",
+    "size_kb": 13.1
+  },
+  "images/praise.svg": {
+    "md5Checksum": "7cec0bce2a62fb6665cdcda4589ef0af",
+    "size_kb": 11.3
+  },
+  "images/problemsolving.svg": {
+    "md5Checksum": "9ec84d3021b439dfaf15ed3bfbc459c4",
+    "size_kb": 19.6
+  },
+  "images/rulesroutines.jpg": {
+    "md5Checksum": "25bb72aed0a93d7f07be680e843f3dd2",
+    "size_kb": 102.2
+  },
+  "images/selfcare.jpg": {
+    "md5Checksum": "c0cbc7d305625bc7baec4d642392e24c",
+    "size_kb": 96.6
+  },
+  "images/talk_feelings_challenges.svg": {
+    "md5Checksum": "694bc272bb2cc36de45efd3e3b259918",
+    "size_kb": 19.3
+  },
+  "lottie/bulging_circles.json": {
+    "md5Checksum": "e4a21bd55b999a816ee59d5b244c145b",
+    "size_kb": 11.8
+  },
+  "lottie/bulging_circles.txt": {
+    "md5Checksum": "3f9872e93f54ea15816c877db86a76ff",
+    "size_kb": 0.2
+  },
+  "lottie/cascading_stars.json": {
+    "md5Checksum": "131145b165cd19613a9e277a514eec2f",
+    "size_kb": 140.5
+  },
+  "video/modules/connect/join_child.mp4": {
+    "md5Checksum": "9c53e2a61bb80acda41b3734f8246df8",
+    "size_kb": 10726.2
+  },
+  "video/modules/connect/shared_reading.mp4": {
+    "md5Checksum": "238541c3566e61ebf6f88079f9beb4d5",
+    "size_kb": 36376.3
+  },
+  "videos/pause/body_scan.mp4": {
+    "md5Checksum": "1984a742ab98962da9608a291254f99d",
+    "size_kb": 10418.6
+  },
+  "videos/pause/breath_body_awareness.mp4": {
+    "md5Checksum": "852fcd6b35f85c2211a0512fdbba2f67",
+    "size_kb": 27250
+  },
+  "videos/pause/loving_kindness_meditation.mp4": {
+    "md5Checksum": "bd969b0d7fe138cbeee2d8d1d7b03f23",
+    "size_kb": 16605.2
+  }
+}

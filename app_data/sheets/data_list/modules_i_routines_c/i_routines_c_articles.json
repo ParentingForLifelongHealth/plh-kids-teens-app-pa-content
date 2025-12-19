@@ -1,0 +1,201 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "i_routines_c_articles",
+  "data_list_name": "i_routines_c_articles",
+  "status": "released",
+  "flow_subtype": "modules_i_routines_c",
+  "module": "i_routines_c",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Esta lección trata sobre crear rutinas para pasar tiempo juntos y conectados con {tu niño}. 🔄",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Esta lección trata sobre crear rutinas para pasar tiempo juntos y conectados con {tu niño}. 🔄"
+        },
+        "text_2": {
+          "eng": "Para seguir construyendo una relación positiva con {tu niño}, debemos incorporar el tiempo juntos y conectados en nuestro día a día.  \n\nCrear rutinas diarias con {tu niño} también le ayudará a tener más seguridad y a cooperar contigo. 🔑\n\nAyúdale a organizar sus tiempos para que pueda descansar, comer, ayudar en la casa, cumplir con la escuela y dormir. ⏰"
+        }
+      },
+      "text_2": "Para seguir construyendo una relación positiva con {tu niño}, debemos incorporar el tiempo juntos y conectados en nuestro día a día.  \n\nCrear rutinas diarias con {tu niño} también le ayudará a tener más seguridad y a cooperar contigo. 🔑\n\nAyúdale a organizar sus tiempos para que pueda descansar, comer, ayudar en la casa, cumplir con la escuela y dormir. ⏰"
+    },
+    {
+      "id": "comic_1",
+      "category_id": "explore",
+      "character_1_id": "F2_ABUELA",
+      "character_2_id": "F2_HIJA_3",
+      "nested": false,
+      "text_1_facilitator": "{F2_ABUELA} incluye un tiempo juntos y conectados con su nieta, {F2_HIJA_3}, como parte de su rutina para irse a dormir. ¡Veamos cómo lo hacen juntas!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "{F2_ABUELA} incluye un tiempo juntos y conectados con su nieta, {F2_HIJA_3}, como parte de su rutina para irse a dormir. ¡Veamos cómo lo hacen juntas!"
+        },
+        "character_1_text": {
+          "eng": "{F2_ABUELA}: Me da mucho gusto verte tranquila jugando con tus bloques, {F2_HIJA_3}. Cuando regrese, será hora de prepararnos para ir a dormir. Cuando estés lista para irte a la cama, me encantará pasar tiempo contigo."
+        },
+        "character_2_text": {
+          "eng": "¡Súper!"
+        }
+      },
+      "character_1_text": "{F2_ABUELA}: Me da mucho gusto verte tranquila jugando con tus bloques, {F2_HIJA_3}. Cuando regrese, será hora de prepararnos para ir a dormir. Cuando estés lista para irte a la cama, me encantará pasar tiempo contigo.",
+      "character_2_text": "¡Súper!"
+    },
+    {
+      "id": "comic_2",
+      "category_id": "explore",
+      "character_1_id": "F2_ABUELA",
+      "nested": false,
+      "character_1_text": "Es hora de prepararnos para dormir. ¡Al agua patos! A bañarse para que duermas a gusto.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Es hora de prepararnos para dormir. ¡Al agua patos! A bañarse para que duermas a gusto."
+        }
+      }
+    },
+    {
+      "id": "comic_3",
+      "category_id": "explore",
+      "character_1_id": "F2_ABUELA",
+      "nested": false,
+      "character_1_text": "Observé que te lavaste solita el cabello, te tardaste menos tiempo y no desperdiciaste agua. ¡Así se hace, Yani!. Ahora, a ponerse la pijama.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Observé que te lavaste solita el cabello, te tardaste menos tiempo y no desperdiciaste agua. ¡Así se hace, Yani!. Ahora, a ponerse la pijama."
+        }
+      }
+    },
+    {
+      "id": "comic_4",
+      "category_id": "explore",
+      "character_1_id": "F2_ABUELA",
+      "nested": false,
+      "character_1_text": "¡Bien hecho por ponerte los pantalones sin ayuda, {F2_HIJA_3}! Ahora lávate los dientes. ¡Asegúrate de cepillarte los de la parte posterior de la boca!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Bien hecho por ponerte los pantalones sin ayuda, {F2_HIJA_3}! Ahora lávate los dientes. ¡Asegúrate de cepillarte los de la parte posterior de la boca!"
+        }
+      }
+    },
+    {
+      "id": "comic_5",
+      "category_id": "explore",
+      "character_1_id": "F2_ABUELA",
+      "character_2_id": "F2_HIJA_3",
+      "nested": false,
+      "character_1_text": "Te has portado muy bien mientras te preparabas para ir a la cama. Ahora me encantará poder pasar un tiempo contigo. ¿Qué te gustaría hacer?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Te has portado muy bien mientras te preparabas para ir a la cama. Ahora me encantará poder pasar un tiempo contigo. ¿Qué te gustaría hacer?"
+        },
+        "character_2_text": {
+          "eng": "¡Sí! ¿Me puedes leer mi cuento favorito?"
+        }
+      },
+      "character_2_text": "¡Sí! ¿Me puedes leer mi cuento favorito?"
+    },
+    {
+      "id": "comic_6",
+      "category_id": "explore",
+      "character_1_id": "F2_ABUELA",
+      "nested": false,
+      "character_1_text": "\"Y colorín colorado, este cuento se ha acabado…\" ¿Qué te gustó más de la historia? ¡Cuéntame!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "\"Y colorín colorado, este cuento se ha acabado…\" ¿Qué te gustó más de la historia? ¡Cuéntame!"
+        }
+      }
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link",
+      "nested": false,
+      "text_1_facilitator": "Da clic en Reproducir ▶️ para aprender las 3️⃣ estrategias para crear una rutina diaria de tiempo juntos y conectados con {tu niño}\n\n1️⃣ SER UN EQUIPO\n2️⃣ SER CONSTANTES\n3️⃣ ELOGIAR, ELOGIAR, ELOGIAR",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da clic en Reproducir ▶️ para aprender las 3️⃣ estrategias para crear una rutina diaria de tiempo juntos y conectados con {tu niño}\n\n1️⃣ SER UN EQUIPO\n2️⃣ SER CONSTANTES\n3️⃣ ELOGIAR, ELOGIAR, ELOGIAR"
+        }
+      }
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nHaz que el tiempo juntos y conectados con {tu niño} se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\nHaz que el tiempo juntos y conectados con {tu niño} se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝"
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes hacerlo hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Muy bien! 🎉 Esto ayudará a mostrar interés en lo que hace {tu niño} y mejorará la relación entre ustedes."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡De acuerdo! Empezar algo nuevo lleva su tiempo. Tal vez puedes empezar con algo sencillo, como pasar un momento especial en alguna actividad que tú y {tu niño} ya hagan en el día. ⚽\n\nPor ejemplo, salir a cenar o a pasear. Pídele ideas a {tu niño} sobre las rutinas con las que podrían empezar y seleccionen una. ¡Puede que te sorprenda! ⏰🍚🚲"
+        }
+      },
+      "quiz_1_question": "¿Puedes hacerlo hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "¡Muy bien! 🎉 Esto ayudará a mostrar interés en lo que hace {tu niño} y mejorará la relación entre ustedes.",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "¡De acuerdo! Empezar algo nuevo lleva su tiempo. Tal vez puedes empezar con algo sencillo, como pasar un momento especial en alguna actividad que tú y {tu niño} ya hagan en el día. ⚽\n\nPor ejemplo, salir a cenar o a pasear. Pídele ideas a {tu niño} sobre las rutinas con las que podrían empezar y seleccionen una. ¡Puede que te sorprenda! ⏰🍚🚲"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "PA modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

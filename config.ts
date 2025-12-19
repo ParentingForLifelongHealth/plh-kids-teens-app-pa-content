@@ -1,37 +1,67 @@
-import { generateDeploymentConfig } from "scripts";
-const config = generateDeploymentConfig("appbuilder_sample");
+import { extendDeploymentConfig, loadEncryptedConfig } from "scripts";
 
-config.google_drive.sheets_folder_ids =  ["10UYZE0yEh36z9suTdXbT-Fb6NzRqLkqr", "1OnK992PdrSlGJyjqE-EIV3P19Rd1z2sl"];
-config.google_drive.assets_folder_ids = ["1SvFOEroXpiaox0d91t2p96_jOJ6Re5oK", "1iIo3YJsyVRL8NRDG4L9xGs_8SK7q8h-g"];
+const config = extendDeploymentConfig({ name: "plh_kids_teens_pa", parent: "plh_kids" });
 
 config.git = {
-  content_repo: "https://github.com/IDEMSInternational/app-sample-content.git",
-  content_tag_latest: "0.0.2",
+  content_repo: "https://github.com/ParentingForLifelongHealth/plh-kids-teens-app-pa-content.git",
+  content_tag_latest: "1.0.1",
 };
 
+config.google_drive.sheets_folders = [
+  { id: "19wSspWYMbRc75een-kS0q0aq24--75u8", name: "library_app_menu" },
+  { id: "1UXVz71HniwdtklFnGUEBzzj8ZHI9oQVo", name: "library_field_values" },
+  { id: "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU", name: "kids_global" },
+  { id: "1GnKk8luhnYcWobeeEfbR23ZSoZakcNF9", name: "kids_teens_global" },
+  { id: "1XBq4iGIZHEwzwPk3xbHDAm9WCesjR7kR", name: "library PLH onboarding" },
+  { id: "1XducDjaLaYZCaYXLKrSwl0N-2LPi9Ls-", name: "kids_teens_pa" },
+];
+
+config.google_drive.assets_folders = [
+  {id: "1Bd5jF92SY4ehEf-IdLA7cWBYK-nQgO_w", name: "kids_teens_pa"},
+];
+
 config.android = {
-  app_id:'international.idems.app_sample',
-  app_name:'SAMPLE APP',
+  app_id:'international.idems.plh_kids_teens_pa',
+  app_name:'Panama',
   splash_asset_path: "./app_data/assets/android/splash.png",
   icon_asset_path: "./app_data/assets/android/icon.png",
   icon_asset_foreground_path: "./app_data/assets/android/icon-foreground.png",
   icon_asset_background_path: "./app_data/assets/android/icon-background.png",
+  zoom_enabled: true
 };
 
 config.ios = {
-  app_id: 'international.idems.app-sample',
-  app_name: 'SAMPLE APP',
+  app_id:"international.idems.plh-kids-teens-pa",
+  app_name:"Panama",
+  zoom_enabled: true
+};
+
+config.firebase = {
+  config: loadEncryptedConfig('firebase.json'),
 }
 
-config.web.favicon_asset = "images/logos/bird_on_light.svg";
-config.api.db_name = "app_sample"
+config.auth = {
+  provider: 'firebase',
+}
+
+// Hacky fix to point extended deployment to translations within its own repo
+config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";
+
+
+config.api.db_name = "plh_kids_teens_pa";
+config.app_data.output_path = "./app_data";
 
 config.app_config.APP_LANGUAGES.default = "gb_en";
-config.app_config.APP_SIDEMENU_DEFAULTS.title = "SAMPLE APP";
-config.app_config.APP_HEADER_DEFAULTS.title = "SAMPLE APP";
-config.app_config.NOTIFICATION_DEFAULTS.title = "SAMPLE APP";
-config.app_config.NOTIFICATION_DEFAULTS.text = "SAMPLE APP";
+config.app_config.APP_SIDEMENU_DEFAULTS.title = "PanamaApp";
+config.app_config.APP_HEADER_DEFAULTS.title = "PanamaApp";
+config.app_config.APP_HEADER_DEFAULTS.hidden = true;
+config.app_config.APP_FOOTER_DEFAULTS.template = "footer";
+config.app_config.APP_FOOTER_DEFAULTS.background = "none";
+config.app_config.NOTIFICATION_DEFAULTS.title = "New message from PanamaApp";
+config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from PanamaApp";
+config.app_config.APP_THEMES.available = ["plh_kids_teens_za"];
+config.app_config.APP_THEMES.defaultThemeName = "plh_kids_teens_za";
+config.error_logging = { dsn: "https://17df9395def549e7835dfac8225d53e1@app.glitchtip.com/14124" };
 
-config.error_logging = { dsn: "https://7be381bf4ab14ca5b7b937e417397fcf@app.glitchtip.com/6314"};
 
 export default config;

@@ -1,0 +1,212 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "i_one_on_one_c_articles",
+  "data_list_name": "i_one_on_one_c_articles",
+  "status": "released",
+  "flow_subtype": "modules_i_one_on_one_c",
+  "module": "i_one_on_one_c",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "text_1_facilitator": "La lección de hoy trata sobre cómo pasar tiempo juntos y conectados con {tu niño}😃",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "La lección de hoy trata sobre cómo pasar tiempo juntos y conectados con {tu niño}😃"
+        },
+        "text_2": {
+          "eng": "¡Pasar tiempo juntos y conectados con {tu niño} es una forma increíble de construir una buena relación! Esto mostrará que te interesas por lo que hace. 💙\n\nTambién fomentará la confianza y el respeto, y ayudará a {tu niño} a aprender cosas nuevas. ✨"
+        },
+        "quiz_1_question": {
+          "eng": "Cuando paso tiempo juntos y conectados con mi niña o niño, necesito tener un plan y saber qué haremos juntos."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n🧸 No tienes que planear una actividad. ¡Tu niña o niño puede guiarte en el camino! Déjale escoger siempre y cuando sea seguro. Esto aumentará su confianza y hará más probable que disfrute pasar tiempo contigo."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Faltso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 ¡Tienes razón!\n\n🧸 No tienes que planear una actividad. ¡Tu niña o niño puede guiarte en el camino! Déjale escoger siempre y cuando sea seguro. Esto aumentará su confianza y hará más probable que disfrute pasar tiempo contigo."
+        }
+      },
+      "text_2": "¡Pasar tiempo juntos y conectados con {tu niño} es una forma increíble de construir una buena relación! Esto mostrará que te interesas por lo que hace. 💙\n\nTambién fomentará la confianza y el respeto, y ayudará a {tu niño} a aprender cosas nuevas. ✨",
+      "quiz_1_question": "Cuando paso tiempo juntos y conectados con mi niña o niño, necesito tener un plan y saber qué haremos juntos.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🧸 No tienes que planear una actividad. ¡Tu niña o niño puede guiarte en el camino! Déjale escoger siempre y cuando sea seguro. Esto aumentará su confianza y hará más probable que disfrute pasar tiempo contigo.",
+      "quiz_1_option_2_text": "Faltso",
+      "quiz_1_feedback_2": "🎉 ¡Tienes razón!\n\n🧸 No tienes que planear una actividad. ¡Tu niña o niño puede guiarte en el camino! Déjale escoger siempre y cuando sea seguro. Esto aumentará su confianza y hará más probable que disfrute pasar tiempo contigo."
+    },
+    {
+      "id": "comic_1",
+      "category_id": "explore",
+      "character_1_id": "F1_MADRE",
+      "character_2_id": "F1_HIJO_5",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "text_1_facilitator": "{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:"
+        },
+        "character_1_text": {
+          "eng": "Quiero pasar tiempo juntos y conectados,{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:"
+        },
+        "character_2_text": {
+          "eng": "¡Quiero jugar a disfrazarnos!"
+        }
+      },
+      "character_1_text": "Quiero pasar tiempo juntos y conectados,{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
+      "character_2_text": "¡Quiero jugar a disfrazarnos!"
+    },
+    {
+      "id": "comic_2",
+      "category_id": "explore",
+      "image_asset": "/image/comic/",
+      "character_1_id": "F1_MADRE",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "character_1_text": "¡Me encanta la idea, {F1_HIJO_5}! Veo que estás sacando la bolsa con triángulos.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Me encanta la idea, {F1_HIJO_5}! Veo que estás sacando la bolsa con triángulos."
+        }
+      }
+    },
+    {
+      "id": "comic_3",
+      "category_id": "explore",
+      "image_asset": "/image/comic/",
+      "character_1_id": "F1_HIJO_5",
+      "character_2_id": "F1_MADRE",
+      "character_3_id": "F1_HIJO_5",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "character_1_text": "Mamá, es para ti.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Mamá, es para ti."
+        },
+        "character_2_text": {
+          "eng": "Gracias, ¡me encanta!"
+        },
+        "character_3_text": {
+          "eng": "¡Póntela, mamá!"
+        }
+      },
+      "character_2_text": "Gracias, ¡me encanta!",
+      "character_3_text": "¡Póntela, mamá!"
+    },
+    {
+      "id": "comic_4",
+      "category_id": "explore",
+      "image_asset": "/image/comic/",
+      "character_1_id": "F1_MADRE",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "character_1_text": "¡Veo que cada vez te esfuerzas más por vestirte sin ayuda!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Veo que cada vez te esfuerzas más por vestirte sin ayuda!"
+        }
+      }
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "Review",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender las 3️⃣ estrategias de crianza para pasar \"Tiempo juntos y conectados\" con {tu niño}\n\n1️⃣ PRACTICAR – Intenta hacerlo todos los días\n2️⃣ JUGAR – Deja que escoja la actividad\n3️⃣ PERMANECER – Enfócate en tu niña o niño",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da clic en reproducir ▶️ para aprender las 3️⃣ estrategias de crianza para pasar \"Tiempo juntos y conectados\" con {tu niño}\n\n1️⃣ PRACTICAR – Intenta hacerlo todos los días\n2️⃣ JUGAR – Deja que escoja la actividad\n3️⃣ PERMANECER – Enfócate en tu niña o niño"
+        }
+      }
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nIntenta pasar por lo menos 15 minutos de tiempo juntos y conectados todos los días. ¡Hará una gran diferencia!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\nIntenta pasar por lo menos 15 minutos de tiempo juntos y conectados todos los días. ¡Hará una gran diferencia!"
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes hacerlo hoy? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Si"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Muy bien! Usa las estrategias que aprendiste hoy y ¡diviértete!, ya que es una forma estupenda de establecer una relación positiva. 💙"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana."
+        }
+      },
+      "quiz_1_question": "¿Puedes hacerlo hoy? ⏰",
+      "quiz_1_option_1_text": "Si",
+      "quiz_1_feedback_1": "¡Muy bien! Usa las estrategias que aprendiste hoy y ¡diviértete!, ya que es una forma estupenda de establecer una relación positiva. 💙",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana."
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "PA modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

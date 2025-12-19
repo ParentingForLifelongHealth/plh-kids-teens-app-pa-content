@@ -1,0 +1,284 @@
+{
+  "flow_name": "i_give_praise_c_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transript": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_1",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Take a moment to check in with yourself."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Wonderful, I am so happy things are going well."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Take a moment to check in with yourself.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
+      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
+      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "✨Buen trabajo por el esfuerzo que hiciste para aprender a mejorar la relación con {tu niño}. ¡Eso demuestra que realmente te importa! 💙\n;\n😃¿Cómo te hizo sentir el mensaje anterior?\n\n🌷 Todas y todos nos sentimos mejor cuando reconocen nuestros esfuerzos."
+        },
+        "text_2": {
+          "eng": "🏅Elogiar el buen comportamiento de {tu niño} hará que quiera comportarse así más seguido.\n\n⭐ También creará una relación positiva y cercana entre tú y {tu niño}.\n\nEmpieza por elogiar los logros y esfuerzos de {tu niño} cuando estén en su tiempo juntos y conectados."
+        },
+        "quiz_1_question": {
+          "eng": "¡Hagamos un ejercicio! La forma en que elogies a {tu niño} no importa porque cualquier manera de hacerlo es efectiva."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n✨ La forma en que elogies es importante. El reconocimiento funciona si es inmediato y específico.  \n\n🌱 Puedes empezar reconociendo y elogiando cosas pequeñas, como que recoja sus juguetes luego de terminar de jugar."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 ¡Tienes razón!\n\n✨ La forma en que elogies es importante. El reconocimiento funciona si es inmediato y específico.  \n\n🌱 Puedes empezar reconociendo y elogiando cosas pequeñas, como que recoja sus juguetes luego de terminar de jugar."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n✨ La forma en que elogies es importante. El reconocimiento funciona si es inmediato y específico.  \n\n🌱 Puedes empezar reconociendo y elogiando cosas pequeñas, como que recoja sus juguetes luego de terminar de jugar.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "quiz_1_feedback_2": "🎉 ¡Tienes razón!\n\n✨ La forma en que elogies es importante. El reconocimiento funciona si es inmediato y específico.  \n\n🌱 Puedes empezar reconociendo y elogiando cosas pequeñas, como que recoja sus juguetes luego de terminar de jugar.",
+      "quiz_1_question": "¡Hagamos un ejercicio! La forma en que elogies a {tu niño} no importa porque cualquier manera de hacerlo es efectiva.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_option_2_text": "Falso",
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "text_1_facilitator": "✨Buen trabajo por el esfuerzo que hiciste para aprender a mejorar la relación con {tu niño}. ¡Eso demuestra que realmente te importa! 💙\n;\n😃¿Cómo te hizo sentir el mensaje anterior?\n\n🌷 Todas y todos nos sentimos mejor cuando reconocen nuestros esfuerzos.",
+      "text_2": "🏅Elogiar el buen comportamiento de {tu niño} hará que quiera comportarse así más seguido.\n\n⭐ También creará una relación positiva y cercana entre tú y {tu niño}.\n\nEmpieza por elogiar los logros y esfuerzos de {tu niño} cuando estén en su tiempo juntos y conectados.",
+      "completed": false
+    },
+    {
+      "id": "comic_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Vamos con {F3_MADRE} y su hijo {F3_HIJO_4} para ver cómo reconoce lo que hace durante su tiempo juntos y conectados."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "text_1_facilitator": "Vamos con {F3_MADRE} y su hijo {F3_HIJO_4} para ver cómo reconoce lo que hace durante su tiempo juntos y conectados.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "comic_2",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "{F3_MADRE}: Encontraste un calcetín de rayas y otro de puntos. Vamos a buscar los calcetines que combinen con cada uno."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "character_1_id": "F3_MADRE",
+      "character_1_text": "{F3_MADRE}: Encontraste un calcetín de rayas y otro de puntos. Vamos a buscar los calcetines que combinen con cada uno.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "comic_3",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "{F3_MADRE}: ¡Otro calcetín! Este es blanco. No es fácil encontrar un par que combine. Puede ser frustrante."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "character_1_id": "F3_MADRE",
+      "character_1_text": "{F3_MADRE}: ¡Otro calcetín! Este es blanco. No es fácil encontrar un par que combine. Puede ser frustrante.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "comic_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "{F3_MADRE}: Estás siendo muy paciente y buscando con mucha atención"
+        },
+        "character_2_text": {
+          "eng": "{F3_HIJO_4}. ¡Muy bien!"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "character_1_id": "F3_MADRE",
+      "character_1_text": "{F3_MADRE}: Estás siendo muy paciente y buscando con mucha atención",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_id": "{F3_HIJO_4}",
+      "character_2_text": "{F3_HIJO_4}. ¡Muy bien!",
+      "completed": false
+    },
+    {
+      "id": "comic_5",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "{F3_MADRE}: ¡Encontraste los calcetines que combinan con su par! ¡Hiciste un gran esfuerzo intentando {F3_HIJO_4}!"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "character_1_id": "F3_MADRE",
+      "character_1_text": "{F3_MADRE}: ¡Encontraste los calcetines que combinan con su par! ¡Hiciste un gran esfuerzo intentando {F3_HIJO_4}!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "⭐ Las niñas y los niños que reciben reconocimiento por sus esfuerzos, logros y comportamientos positivos querrán seguir portándose de esa forma y sabrán que son capaces de hacer muchas cosas.\n\nDa clic en reproducir ▶️ para aprender las 4️⃣ estrategias para dar reconocimiento a lo que hace {tu niño}.\n\n1️⃣ OBSERVAR\n2️⃣ COMUNICAR\n3️⃣ REPETIR\n4️⃣ MANTENERLO POSITIVO"
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "text_1_facilitator": "⭐ Las niñas y los niños que reciben reconocimiento por sus esfuerzos, logros y comportamientos positivos querrán seguir portándose de esa forma y sabrán que son capaces de hacer muchas cosas.\n\nDa clic en reproducir ▶️ para aprender las 4️⃣ estrategias para dar reconocimiento a lo que hace {tu niño}.\n\n1️⃣ OBSERVAR\n2️⃣ COMUNICAR\n3️⃣ REPETIR\n4️⃣ MANTENERLO POSITIVO",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\nPara hoy, tu actividad para casa es elogiar a {tu niño} durante su tiempo juntos y conectados. Intenta reconocer y elogiar a {tu niño} durante esos minutos."
+        },
+        "quiz_1_question": {
+          "eng": "¿Tienes tiempo de hacerlo hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Increíble! 🎉 Intenta elogiar a {tu niño} al menos una vez durante su tiempo juntos y conectados. También puedes elogiar a {tu niño} en otros momentos del día. Fíjate cómo responde a lo que le dices."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "💚 ¡De acuerdo! A veces las cosas toman tiempo. Puedes volver a revisar esta lección en el menú principal en cualquier momento. Al final del día, piensa en todas las cosas positivas que pasaron así será más sencillo poderlas identificar. ☀️ \nPoco a poco, elogiar se irá haciendo más fácil."
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "¡Increíble! 🎉 Intenta elogiar a {tu niño} al menos una vez durante su tiempo juntos y conectados. También puedes elogiar a {tu niño} en otros momentos del día. Fíjate cómo responde a lo que le dices.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "💚 ¡De acuerdo! A veces las cosas toman tiempo. Puedes volver a revisar esta lección en el menú principal en cualquier momento. Al final del día, piensa en todas las cosas positivas que pasaron así será más sencillo poderlas identificar. ☀️ \nPoco a poco, elogiar se irá haciendo más fácil.",
+      "quiz_1_question": "¿Tienes tiempo de hacerlo hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nPara hoy, tu actividad para casa es elogiar a {tu niño} durante su tiempo juntos y conectados. Intenta reconocer y elogiar a {tu niño} durante esos minutos.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

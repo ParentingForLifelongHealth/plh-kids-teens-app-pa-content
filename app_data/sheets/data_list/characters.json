@@ -1,0 +1,191 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "characters",
+  "data_list_name": "characters",
+  "status": "released",
+  "rows": [
+    {
+      "id": "facilitator_female",
+      "name": "Ángela",
+      "role": "facilitator"
+    },
+    {
+      "id": "facilitator_male",
+      "name": "Carlos",
+      "role": "facilitator"
+    },
+    {
+      "id": "f1_madre",
+      "caps_id": "F1_MADRE",
+      "name": "Librada",
+      "role": "caregiver",
+      "image_asset": "https://drive.google.com/file/d/10YyQ1Qp2xTjy1ZSjKGVMHzObaymnbkYJ/view?usp=drive_link"
+    },
+    {
+      "id": "f1_padre",
+      "caps_id": "F1_PADRE",
+      "name": "Mario",
+      "role": "caregiver",
+      "image_asset": "https://drive.google.com/file/d/1EZEx4YvIgeZ-QOO2A1nqPM-VMPyf9irs/view?usp=drive_link"
+    },
+    {
+      "id": "f1_hijo_5",
+      "caps_id": "F1_HIJO_5",
+      "name": "Juan",
+      "role": "child",
+      "image_asset": "https://drive.google.com/file/d/1JNvHJswS2qXl5KonYyIfbWmd-juEOdBx/view?usp=drive_link"
+    },
+    {
+      "id": "f1_hija_6",
+      "caps_id": "f1_HIJA_6",
+      "name": "Rita",
+      "role": "child",
+      "image_asset": "https://drive.google.com/file/d/150kHoMwd1QbEO2QIfJYeHD0xtQf2vtvZ/view?usp=drive_link"
+    },
+    {
+      "id": "f1_hija_16",
+      "caps_id": "F1_HIJA_16",
+      "name": "Dilsia",
+      "role": "child",
+      "image_asset": "https://drive.google.com/file/d/15JWsvPuNKDXfuxDLye7-ONLl_f0h-tbt/view?usp=drive_link"
+    },
+    {
+      "id": "f1_hija_13",
+      "caps_id": "F1_HIJA_13",
+      "name": "Jazmin",
+      "role": "child",
+      "image_asset": "https://drive.google.com/file/d/1y9GKDI12Vo74rNdxHuWaB7Hz5a1ch0rW/view?usp=drive_link"
+    },
+    {
+      "id": "f1_hijo_17",
+      "caps_id": "F1_HIJO_17",
+      "name": "Camilo",
+      "role": "child",
+      "image_asset": "https://drive.google.com/file/d/1fknNIiOjfAZ_QOuKcNEJFjlhvQj_SfPK/view?usp=drive_link"
+    },
+    {
+      "id": "f2_abuela",
+      "caps_id": "F2_ABUELA",
+      "name": "Abuela María",
+      "role": "caregiver",
+      "image_asset": "https://drive.google.com/file/d/1_snTWXrb_a_jUR0aGGsY942LCUeiPo1N/view?usp=drive_link"
+    },
+    {
+      "id": "f2_abuelo",
+      "caps_id": "F2_ABUELO",
+      "name": "Abuelo Francisco",
+      "role": "caregiver",
+      "image_asset": "https://drive.google.com/file/d/1Yg2ms8Pc41Yqd9x-sNAL7c_WgPohIKli/view?usp=drive_link"
+    },
+    {
+      "id": "f2_hija_17",
+      "caps_id": "F2_HIJA_17",
+      "name": "Pati",
+      "role": "child",
+      "image_asset": "https://drive.google.com/file/d/1V5IuRVbvqKHFMT7jbwlocb-NyBrTA-PF/view?usp=drive_link"
+    },
+    {
+      "id": "f2_hija_3",
+      "caps_id": "F2_HIJA_3",
+      "name": "Yani",
+      "role": "child",
+      "image_asset": "https://drive.google.com/file/d/1LCUy-Rp-zJFTp45HZzTSiU1IZYnlKTeE/view?usp=drive_link"
+    },
+    {
+      "id": "f2_hijo_8",
+      "caps_id": "F2_HIJO_8",
+      "name": "Dani",
+      "role": "child",
+      "image_asset": "https://drive.google.com/file/d/1ae3StDjYdUdaeKXg0S3LoOJ3SE_uAoGs/view?usp=drive_link"
+    },
+    {
+      "id": "f2_hijo_15",
+      "caps_id": "F2_HIJO_15",
+      "name": "Isaac",
+      "role": "child",
+      "image_asset": "https://drive.google.com/file/d/1STPKsqqn4K1rSMWqztBZ2F0OMgt9F7eo/view?usp=drive_link"
+    },
+    {
+      "id": "f3_madre",
+      "caps_id": "F3_MADRE",
+      "name": "Mariela",
+      "role": "caregiver",
+      "image_asset": "https://drive.google.com/file/d/1MdLY4lI2nluYjVe4VjqF_Ovpqr8wIqTW/view?usp=drive_link"
+    },
+    {
+      "id": "f3_padre",
+      "caps_id": "F3_PADRE",
+      "name": "Beto",
+      "role": "caregiver",
+      "image_asset": "https://drive.google.com/file/d/15hStPEC6TyzHTlAWBxgnHqKPye0G1IEH/view?usp=drive_link"
+    },
+    {
+      "id": "f3_hija_7",
+      "caps_id": "F3_HIJA_7",
+      "name": "Nayelis",
+      "role": "child",
+      "image_asset": "https://drive.google.com/file/d/139hB6QMitGcAGCWWi8sdBjQrPWzi_oba/view?usp=drive_link"
+    },
+    {
+      "id": "f3_hijo_4",
+      "caps_id": "F3_HIJO_4",
+      "name": "Brayan",
+      "role": "child",
+      "image_asset": "https://drive.google.com/file/d/1hYudisDu4On40yJNmFjj3RkwBlxkStOy/view?usp=drive_link"
+    },
+    {
+      "id": "f3_hija_12",
+      "caps_id": "F3_HIJA_12",
+      "name": "Rosa",
+      "role": "child",
+      "image_asset": "https://drive.google.com/file/d/1d-6P8RvrH_f98l01olVQLTjC5gtV3FQY/view?usp=drive_link"
+    },
+    {
+      "id": "hombre_en_coche",
+      "caps_id": "HOMBRE_EN_COCHE",
+      "name": "Hombre en coche",
+      "role": "other"
+    },
+    {
+      "id": "amiga_mujer_1",
+      "caps_id": "AMIGA_MUJER_1",
+      "name": "Leydi",
+      "role": "child",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "amiga_mujer_2",
+      "caps_id": "AMIGA_MUJER_2",
+      "name": "Valeria",
+      "role": "child",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "boyfriend_1",
+      "caps_id": "BOYFRIEND_1"
+    },
+    {
+      "id": "man_threat",
+      "caps_id": "MAN_THREAT"
+    },
+    {
+      "id": "girlfriend_1",
+      "caps_id": "GIRLFRIEND_1",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "teacher_1",
+      "caps_id": "TEACHER_1",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "friend_female_3",
+      "caps_id": "FRIEND_FEMALE_3"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "PA characters.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1ET7nPCMKruA9sQLARNdFr3ZxDrnfEVBsigsjEIw4LfQ"
+  }
+}

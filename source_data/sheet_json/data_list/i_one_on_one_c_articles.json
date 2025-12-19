@@ -1,0 +1,77 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "i_one_on_one_c_articles",
+  "data_list_name": "i_one_on_one_c_articles",
+  "status": "released",
+  "flow_subtype": "modules_i_one_on_one_c",
+  "module": "i_one_on_one_c",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E"
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "La lección de hoy trata sobre cómo pasar tiempo juntos y conectados con {tu niño}😃",
+      "text_2::eng": "¡Pasar tiempo juntos y conectados con {tu niño} es una forma increíble de construir una buena relación! Esto mostrará que te interesas por lo que hace. 💙\n\nTambién fomentará la confianza y el respeto, y ayudará a {tu niño} a aprender cosas nuevas. ✨",
+      "quiz_1_question::eng": "Cuando paso tiempo juntos y conectados con mi niña o niño, necesito tener un plan y saber qué haremos juntos.",
+      "quiz_1_option_1_text::eng": "Verdadero",
+      "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n🧸 No tienes que planear una actividad. ¡Tu niña o niño puede guiarte en el camino! Déjale escoger siempre y cuando sea seguro. Esto aumentará su confianza y hará más probable que disfrute pasar tiempo contigo.",
+      "quiz_1_option_2_text::eng": "Faltso",
+      "quiz_1_feedback_2::eng": "🎉 ¡Tienes razón!\n\n🧸 No tienes que planear una actividad. ¡Tu niña o niño puede guiarte en el camino! Déjale escoger siempre y cuando sea seguro. Esto aumentará su confianza y hará más probable que disfrute pasar tiempo contigo."
+    },
+    {
+      "id": "comic_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
+      "character_1_id": "F1_MADRE",
+      "character_1_text::eng": "Quiero pasar tiempo juntos y conectados,{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
+      "character_2_id": "F1_HIJO_5",
+      "character_2_text::eng": "¡Quiero jugar a disfrazarnos!"
+    },
+    {
+      "id": "comic_2",
+      "category_id": "explore",
+      "image_asset": "/image/comic/",
+      "character_1_id": "F1_MADRE",
+      "character_1_text::eng": "¡Me encanta la idea, {F1_HIJO_5}! Veo que estás sacando la bolsa con triángulos."
+    },
+    {
+      "id": "comic_3",
+      "category_id": "explore",
+      "image_asset": "/image/comic/",
+      "character_1_id": "F1_HIJO_5",
+      "character_1_text::eng": "Mamá, es para ti.",
+      "character_2_id": "F1_MADRE",
+      "character_2_text::eng": "Gracias, ¡me encanta!",
+      "character_3_id": "F1_HIJO_5",
+      "character_3_text::eng": "¡Póntela, mamá!"
+    },
+    {
+      "id": "comic_4",
+      "category_id": "explore",
+      "image_asset": "/image/comic/",
+      "character_1_id": "F1_MADRE",
+      "character_1_text::eng": "¡Veo que cada vez te esfuerzas más por vestirte sin ayuda!"
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "Review",
+      "text_1_facilitator::eng": "Da clic en reproducir ▶️ para aprender las 3️⃣ estrategias de crianza para pasar \"Tiempo juntos y conectados\" con {tu niño}\n\n1️⃣ PRACTICAR – Intenta hacerlo todos los días\n2️⃣ JUGAR – Deja que escoja la actividad\n3️⃣ PERMANECER – Enfócate en tu niña o niño",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nIntenta pasar por lo menos 15 minutos de tiempo juntos y conectados todos los días. ¡Hará una gran diferencia!",
+      "quiz_1_question::eng": "¿Puedes hacerlo hoy? ⏰",
+      "quiz_1_option_1_text::eng": "Si",
+      "quiz_1_feedback_1::eng": "¡Muy bien! Usa las estrategias que aprendiste hoy y ¡diviértete!, ya que es una forma estupenda de establecer una relación positiva. 💙 ",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "hp_check_in",
+  "status": "released",
+  "data_list_name": "hp_check_in",
+  "flow_subtype": "hp_review",
+  "rows": [
+    {
+      "id": "oneononetime_t",
+      "happy_image_asset": "images/faces/happy.svg",
+      "ok_image_asset": "images/faces/neutral.svg",
+      "sad_image_asset": "images/faces/sad.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
+      "notification_text": "How did one-on-one time go?",
+      "_translations": {
+        "notification_text": {},
+        "text_goal": {},
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
+        "activity_title": {},
+        "question_done": {},
+        "reply_no": {},
+        "question_how": {},
+        "outro_text": {}
+      },
+      "_translatedFields": {
+        "notification_text": {
+          "eng": "How did one-on-one time go?"
+        },
+        "text_goal": {
+          "eng": "Your goal was to spend one-on-one time with your teen."
+        },
+        "reply_happy": {
+          "eng": "That’s wonderful! Well done for spending time together. It lays the foundation for a great relationship with your teen!"
+        },
+        "reply_ok": {
+          "eng": "Sometimes it will be easy and fun to spend time with your teens and sometimes it will be more challenging. Spending time together will definitely improve your relationship!"
+        },
+        "reply_sad": {
+          "eng": "Sorry to hear that it was difficult for you to spend time with your teen. We all have challenges sometimes. Just be patient with yourself and your teen – things will get better. Well done for trying!"
+        },
+        "activity_title": {
+          "eng": "Let’s check in on your home activity!"
+        },
+        "question_done": {
+          "eng": "Did you have a chance to try this?"
+        },
+        "reply_no": {
+          "eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can."
+        },
+        "question_how": {
+          "eng": "How did it go?"
+        },
+        "outro_text": {
+          "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+        }
+      },
+      "text_goal": "Your goal was to spend one-on-one time with your teen.",
+      "reply_happy": "That’s wonderful! Well done for spending time together. It lays the foundation for a great relationship with your teen!",
+      "reply_ok": "Sometimes it will be easy and fun to spend time with your teens and sometimes it will be more challenging. Spending time together will definitely improve your relationship!",
+      "reply_sad": "Sorry to hear that it was difficult for you to spend time with your teen. We all have challenges sometimes. Just be patient with yourself and your teen – things will get better. Well done for trying!",
+      "activity_title": "Let’s check in on your home activity!",
+      "question_done": "Did you have a chance to try this?",
+      "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
+      "question_how": "How did it go?",
+      "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA hp_review.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/18oXt6Ro-fbi3llFg4E5jxJsQzcdMNlhPW2kQ_jNrBgA"
+  }
+}

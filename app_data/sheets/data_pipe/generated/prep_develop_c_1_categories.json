@@ -1,0 +1,19 @@
+{
+  "flow_name": "prep_develop_c_1_categories",
+  "flow_subtype": "generated",
+  "flow_type": "data_pipe",
+  "rows": [
+    {
+      "operation": "append_columns",
+      "input_source": "common_categories",
+      "output_target": "develop_c_1_category_tasks"
+    }
+  ],
+  "_output_flows": [
+    {
+      "flow_name": "develop_c_1_category_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    }
+  ]
+}

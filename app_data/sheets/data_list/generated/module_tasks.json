@@ -1,0 +1,1443 @@
+{
+  "flow_name": "module_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "i_one_on_one_c",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Pasar Tiempo Juntos y Conectados",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Pasar Tiempo Juntos y Conectados"
+        }
+      },
+      "completed": false,
+      "task_child": "i_one_on_one_c_article_tasks"
+    },
+    {
+      "id": "i_give_praise_c",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Dar Reconocimiento",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Dar Reconocimiento"
+        }
+      },
+      "completed": false,
+      "task_child": "i_give_praise_c_article_tasks"
+    },
+    {
+      "id": "i_routines_c",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Crear Rutinas",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Crear Rutinas"
+        }
+      },
+      "completed": false,
+      "task_child": "i_routines_c_article_tasks"
+    },
+    {
+      "id": "i_feelings_c",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Identificar Emociones",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Identificar Emociones"
+        }
+      },
+      "completed": false,
+      "task_child": "i_feelings_c_article_tasks"
+    },
+    {
+      "id": "i_calm_c",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Mantener La Calma Cuando Hay Estrés",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Mantener La Calma Cuando Hay Estrés"
+        }
+      },
+      "completed": false,
+      "task_child": "i_calm_c_article_tasks"
+    },
+    {
+      "id": "i_one_on_one_t",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Pasar Tiempo Juntos y Conectados",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Pasar Tiempo Juntos y Conectados"
+        }
+      },
+      "number": 2,
+      "bottom_aligned_image_asset": "images/homescreen/listview/self_care.svg",
+      "image_asset": "images/homescreen/self_care.svg",
+      "completed": false,
+      "task_child": "i_one_on_one_t_article_tasks"
+    },
+    {
+      "id": "i_give_praise_t",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Dar Reconocimiento",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Dar Reconocimiento"
+        }
+      },
+      "completed": false,
+      "task_child": "i_give_praise_t_article_tasks"
+    },
+    {
+      "id": "i_routines_t",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Crear Rutinas",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Crear Rutinas"
+        }
+      },
+      "completed": false,
+      "task_child": "i_routines_t_article_tasks"
+    },
+    {
+      "id": "i_feelings_t",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Identificar Emociones",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Identificar Emociones"
+        }
+      },
+      "completed": false,
+      "task_child": "i_feelings_t_article_tasks"
+    },
+    {
+      "id": "i_calm_t",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Mantener La Calma Cuando Hay Estrés",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Mantener La Calma Cuando Hay Estrés"
+        }
+      },
+      "completed": false,
+      "task_child": "i_calm_t_article_tasks"
+    },
+    {
+      "id": "ipv_1",
+      "tag_list": [
+        "both"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Escuchar y Conversar Efectivamente",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Escuchar y Conversar Efectivamente"
+        }
+      },
+      "completed": false,
+      "task_child": "ipv_1_article_tasks"
+    },
+    {
+      "id": "ipv_2",
+      "tag_list": [
+        "both"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Tomar Decisiones en Equipo",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Tomar Decisiones en Equipo"
+        }
+      },
+      "completed": false,
+      "task_child": "ipv_2_article_tasks"
+    },
+    {
+      "id": "ipv_3",
+      "tag_list": [
+        "both"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Ser una Figura de Apoyo en la Crianza y con la Pareja",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Ser una Figura de Apoyo en la Crianza y con la Pareja"
+        }
+      },
+      "completed": false,
+      "task_child": "ipv_3_article_tasks"
+    },
+    {
+      "id": "ipv_4",
+      "tag_list": [
+        "both"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Papel de los Padres en la Crianza Compartida",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Papel de los Padres en la Crianza Compartida"
+        }
+      },
+      "completed": false,
+      "task_child": "ipv_4_article_tasks"
+    },
+    {
+      "id": "ipv_5",
+      "tag_list": [
+        "both"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Resolver Conflictos Pacíficamente",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Resolver Conflictos Pacíficamente"
+        }
+      },
+      "completed": false,
+      "task_child": "ipv_5_article_tasks"
+    },
+    {
+      "id": "keep_safe_c_1",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Enseñar sobre autocuidado y prevención del abuso a mi niño (2 a 5)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Enseñar sobre autocuidado y prevención del abuso a mi niño (2 a 5)"
+        }
+      },
+      "completed": false,
+      "task_child": "keep_safe_c_1_article_tasks"
+    },
+    {
+      "id": "keep_safe_c_2",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Enseñar sobre autocuidado y prevención del abuso a mi niña (2 a 5)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Enseñar sobre autocuidado y prevención del abuso a mi niña (2 a 5)"
+        }
+      },
+      "completed": false,
+      "task_child": "keep_safe_c_2_article_tasks"
+    },
+    {
+      "id": "keep_safe_c_3",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Enseñar sobre autocuidado y prevención del abuso a mi niña o niño (6 a 9)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Enseñar sobre autocuidado y prevención del abuso a mi niña o niño (6 a 9)"
+        }
+      },
+      "completed": false,
+      "task_child": "keep_safe_c_3_article_tasks"
+    },
+    {
+      "id": "keep_safe_c_4",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Crear un Plan de Seguridad con Mi Niña o Niño (2 a 4)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Crear un Plan de Seguridad con Mi Niña o Niño (2 a 4)"
+        }
+      },
+      "completed": false,
+      "task_child": "keep_safe_c_4_article_tasks"
+    },
+    {
+      "id": "keep_safe_c_5",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Crear un Plan de Seguridad con Mi Niña o Niño (5 a 9)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Crear un Plan de Seguridad con Mi Niña o Niño (5 a 9)"
+        }
+      },
+      "completed": false,
+      "task_child": "keep_safe_c_5_article_tasks"
+    },
+    {
+      "id": "keep_safe_c_6",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Saber Responder Ante Alguna Crisis (2 a 6)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Saber Responder Ante Alguna Crisis (2 a 6)"
+        }
+      },
+      "completed": false,
+      "task_child": "keep_safe_c_6_article_tasks"
+    },
+    {
+      "id": "keep_safe_c_7",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Saber Responder Ante Alguna Crisis (7 a 9)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Saber Responder Ante Alguna Crisis (7 a 9)"
+        }
+      },
+      "completed": false,
+      "task_child": "keep_safe_c_7_article_tasks"
+    },
+    {
+      "id": "keep_safe_c_8",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Usar con Responsabilidad y Seguridad los Dispositivos y Espacios Virtuales",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Usar con Responsabilidad y Seguridad los Dispositivos y Espacios Virtuales"
+        }
+      },
+      "completed": false,
+      "task_child": "keep_safe_c_8_article_tasks"
+    },
+    {
+      "id": "keep_safe_c_9",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Desarrollar Confianza y Hábitos Seguros para el Uso de Internet y Redes Sociales",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Desarrollar Confianza y Hábitos Seguros para el Uso de Internet y Redes Sociales"
+        }
+      },
+      "completed": false,
+      "task_child": "keep_safe_c_9_article_tasks"
+    },
+    {
+      "id": "ks_c_safey_t",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Crear un Plan de Seguridad para Mi Adolescente",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Crear un Plan de Seguridad para Mi Adolescente"
+        }
+      },
+      "completed": false,
+      "task_child": "ks_c_safey_t_article_tasks"
+    },
+    {
+      "id": "ks_s_violence_t",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Prevenir la Violencia Sexual",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prevenir la Violencia Sexual"
+        }
+      },
+      "completed": false,
+      "task_child": "ks_s_violence_t_article_tasks"
+    },
+    {
+      "id": "ks_crises_f_t",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Saber Responder Ante Alguna Crisis (fem)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Saber Responder Ante Alguna Crisis (fem)"
+        }
+      },
+      "completed": false,
+      "task_child": "ks_crises_f_t_article_tasks"
+    },
+    {
+      "id": "ks_crises_m_t",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Saber Responder Ante Alguna Crisis (mas)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Saber Responder Ante Alguna Crisis (mas)"
+        }
+      },
+      "completed": false,
+      "task_child": "ks_crises_m_t_article_tasks"
+    },
+    {
+      "id": "ks_online_safety_t",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Usar con Responsabilidad y Seguridad los Dispositivos y Espacios Virtuales",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Usar con Responsabilidad y Seguridad los Dispositivos y Espacios Virtuales"
+        }
+      },
+      "completed": false,
+      "task_child": "ks_online_safety_t_article_tasks"
+    },
+    {
+      "id": "ks_online_habits_t",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Desarrollar Confianza y Hábitos Seguros para el Uso de Internet y Redes Sociales",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Desarrollar Confianza y Hábitos Seguros para el Uso de Internet y Redes Sociales"
+        }
+      },
+      "completed": false,
+      "task_child": "ks_online_habits_t_article_tasks"
+    },
+    {
+      "id": "Manage_behaviour_c_1",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Estrategias para Regular la Ira",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Estrategias para Regular la Ira"
+        }
+      },
+      "completed": false,
+      "task_child": "Manage_behaviour_c_1_article_tasks"
+    },
+    {
+      "id": "Manage_behaviour_c_2",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Enseñar Colaboración: Enfócarse en lo Positivo",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Enseñar Colaboración: Enfócarse en lo Positivo"
+        }
+      },
+      "completed": false,
+      "task_child": "Manage_behaviour_c_2_article_tasks"
+    },
+    {
+      "id": "Manage_behaviour_c_3",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Acordar Reglas En Familia",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Acordar Reglas En Familia"
+        }
+      },
+      "completed": false,
+      "task_child": "Manage_behaviour_c_3_article_tasks"
+    },
+    {
+      "id": "Manage_behaviour_c_4",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Estrategias para Reducir Problemas de Comportamiento.",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Estrategias para Reducir Problemas de Comportamiento."
+        }
+      },
+      "completed": false,
+      "task_child": "Manage_behaviour_c_4_article_tasks"
+    },
+    {
+      "id": "Manage_behaviour_c_5",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Estrategias para Reducir Problemas de Comportamiento: Consecuencias Justas.",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Estrategias para Reducir Problemas de Comportamiento: Consecuencias Justas."
+        }
+      },
+      "completed": false,
+      "task_child": "Manage_behaviour_c_5_article_tasks"
+    },
+    {
+      "id": "Manage_behaviour_c_6",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Resolver Problemas con Mi Niña o Niño",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Resolver Problemas con Mi Niña o Niño"
+        }
+      },
+      "completed": false,
+      "task_child": "Manage_behaviour_c_6_article_tasks"
+    },
+    {
+      "id": "Manage_behaviour_c_7",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Conocer el Papel de las Personas en la Familia: Todas y Todos Importamos",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Conocer el Papel de las Personas en la Familia: Todas y Todos Importamos"
+        }
+      },
+      "completed": false,
+      "task_child": "Manage_behaviour_c_7_article_tasks"
+    },
+    {
+      "id": "Manage_behaviour_t_1",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Estrategias para Regular la Ira",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Estrategias para Regular la Ira"
+        }
+      },
+      "completed": false,
+      "task_child": "Manage_behaviour_t_1_article_tasks"
+    },
+    {
+      "id": "Manage_behaviour_t_2",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Enseñar Colaboración: Enfócarse en lo Positivo",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Enseñar Colaboración: Enfócarse en lo Positivo"
+        }
+      },
+      "completed": false,
+      "task_child": "Manage_behaviour_t_2_article_tasks"
+    },
+    {
+      "id": "Manage_behaviour_t_3",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Acordar Reglas En Familia",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Acordar Reglas En Familia"
+        }
+      },
+      "completed": false,
+      "task_child": "Manage_behaviour_t_3_article_tasks"
+    },
+    {
+      "id": "Manage_behaviour_t_4",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Estrategias para Reducir Problemas de Comportamiento: Consecuencias Justas.",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Estrategias para Reducir Problemas de Comportamiento: Consecuencias Justas."
+        }
+      },
+      "completed": false,
+      "task_child": "Manage_behaviour_t_4_article_tasks"
+    },
+    {
+      "id": "Manage_behaviour_t_5",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Resolver Problemas con Mi Adolescente",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Resolver Problemas con Mi Adolescente"
+        }
+      },
+      "completed": false,
+      "task_child": "Manage_behaviour_t_5_article_tasks"
+    },
+    {
+      "id": "Manage_behaviour_t_6",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Conocer el Papel de las Personas en la Familia: Todas y Todos Importamos",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Conocer el Papel de las Personas en la Familia: Todas y Todos Importamos"
+        }
+      },
+      "completed": false,
+      "task_child": "Manage_behaviour_t_6_article_tasks"
+    },
+    {
+      "id": "School_c_1",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Estimular el Lenguaje de Mi Niña o Niño",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Estimular el Lenguaje de Mi Niña o Niño"
+        }
+      },
+      "completed": false,
+      "task_child": "School_c_1_article_tasks"
+    },
+    {
+      "id": "School_c_2",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Disfrutar y Favorecer la Lectura (2 a 3)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Disfrutar y Favorecer la Lectura (2 a 3)"
+        }
+      },
+      "completed": false,
+      "task_child": "School_c_2_article_tasks"
+    },
+    {
+      "id": "School_c_3",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Disfrutar y Favorecer la Lectura: Parte 1 (4 a 6)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Disfrutar y Favorecer la Lectura: Parte 1 (4 a 6)"
+        }
+      },
+      "completed": false,
+      "task_child": "School_c_3_article_tasks"
+    },
+    {
+      "id": "School_c_4",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Disfrutar y Favorecer la Lectura: Parte 2 (4 a 6)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Disfrutar y Favorecer la Lectura: Parte 2 (4 a 6)"
+        }
+      },
+      "completed": false,
+      "task_child": "School_c_4_article_tasks"
+    },
+    {
+      "id": "School_c_5",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Enseñar Matemáticas Divertidas y Sencillas (2 a 3)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Enseñar Matemáticas Divertidas y Sencillas (2 a 3)"
+        }
+      },
+      "completed": false,
+      "task_child": "School_c_5_article_tasks"
+    },
+    {
+      "id": "School_c_6",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Enseñar Matemáticas Divertidas y Sencillas: Parte 1 (4 a 6)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Enseñar Matemáticas Divertidas y Sencillas: Parte 1 (4 a 6)"
+        }
+      },
+      "completed": false,
+      "task_child": "School_c_6_article_tasks"
+    },
+    {
+      "id": "School_c_7",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Enseñar Matemáticas Divertidas y Sencillas: Parte 2 (4 a 6)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Enseñar Matemáticas Divertidas y Sencillas: Parte 2 (4 a 6)"
+        }
+      },
+      "completed": false,
+      "task_child": "School_c_7_article_tasks"
+    },
+    {
+      "id": "School_c_8",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Involucrarse en las Actividades Escolares (3 a 9)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Involucrarse en las Actividades Escolares (3 a 9)"
+        }
+      },
+      "completed": false,
+      "task_child": "School_c_8_article_tasks"
+    },
+    {
+      "id": "School_c_9",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Hacer Divertido el Aprendizaje",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Hacer Divertido el Aprendizaje"
+        }
+      },
+      "completed": false,
+      "task_child": "School_c_9_article_tasks"
+    },
+    {
+      "id": "School_c_10",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Apoyar el Aprendizaje de Mi Niña o Niño",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Apoyar el Aprendizaje de Mi Niña o Niño"
+        }
+      },
+      "completed": false,
+      "task_child": "School_c_10_article_tasks"
+    },
+    {
+      "id": "School_c_11",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Crear un Ambiente Positivo para el Aprendizaje de Mi Niña o Niño",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Crear un Ambiente Positivo para el Aprendizaje de Mi Niña o Niño"
+        }
+      },
+      "completed": false,
+      "task_child": "School_c_11_article_tasks"
+    },
+    {
+      "id": "School_c_12",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Aprender de la Experiencia",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Aprender de la Experiencia"
+        }
+      },
+      "completed": false,
+      "task_child": "School_c_12_article_tasks"
+    },
+    {
+      "id": "School_t_13",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Hacer Divertido el Aprendizaje",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Hacer Divertido el Aprendizaje"
+        }
+      },
+      "completed": false,
+      "task_child": "School_t_13_article_tasks"
+    },
+    {
+      "id": "School_t_14",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Apoyar el Aprendizaje de Mi Adolescente",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Apoyar el Aprendizaje de Mi Adolescente"
+        }
+      },
+      "completed": false,
+      "task_child": "School_t_14_article_tasks"
+    },
+    {
+      "id": "School_t_15",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Crear un Ambiente Positivo y de Aprendizaje para Mi Adolescente",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Crear un Ambiente Positivo y de Aprendizaje para Mi Adolescente"
+        }
+      },
+      "completed": false,
+      "task_child": "School_t_15_article_tasks"
+    },
+    {
+      "id": "School_t_16",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Aprender de la Experiencia",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Aprender de la Experiencia"
+        }
+      },
+      "completed": false,
+      "task_child": "School_t_16_article_tasks"
+    },
+    {
+      "id": "School_t_17",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Aprender a Trabajar en Equipo",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Aprender a Trabajar en Equipo"
+        }
+      },
+      "completed": false,
+      "task_child": "School_t_17_article_tasks"
+    },
+    {
+      "id": "develop_c_1",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Regular el estrés para ti como madre, padre o persona cuidadora Parte 1",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Regular el estrés para ti como madre, padre o persona cuidadora Parte 1"
+        }
+      },
+      "completed": false,
+      "task_child": "develop_c_1_article_tasks"
+    },
+    {
+      "id": "develop_c_2",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Regular el estrés para ti como madre, padre o persona cuidadora Parte 2",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Regular el estrés para ti como madre, padre o persona cuidadora Parte 2"
+        }
+      },
+      "completed": false,
+      "task_child": "develop_c_2_article_tasks"
+    },
+    {
+      "id": "develop_c_3",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "El Poder del Juego",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "El Poder del Juego"
+        }
+      },
+      "completed": false,
+      "task_child": "develop_c_3_article_tasks"
+    },
+    {
+      "id": "develop_c_4",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Estrategias para Aprender de la Experiencia",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Estrategias para Aprender de la Experiencia"
+        }
+      },
+      "completed": false,
+      "task_child": "develop_c_4_article_tasks"
+    },
+    {
+      "id": "develop_c_5",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Conocer los Cambios de Mi Niña o Niño (2 a 3)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Conocer los Cambios de Mi Niña o Niño (2 a 3)"
+        }
+      },
+      "completed": false,
+      "task_child": "develop_c_5_article_tasks"
+    },
+    {
+      "id": "develop_c_6",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Conocer los Cambios de Mi Niña o Niño (4 a 6)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Conocer los Cambios de Mi Niña o Niño (4 a 6)"
+        }
+      },
+      "completed": false,
+      "task_child": "develop_c_6_article_tasks"
+    },
+    {
+      "id": "develop_c_7",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Conocer los Cambios de Mi Niña o Niño (7 a 9)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Conocer los Cambios de Mi Niña o Niño (7 a 9)"
+        }
+      },
+      "completed": false,
+      "task_child": "develop_c_7_article_tasks"
+    },
+    {
+      "id": "understand_t_1",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Regular el estrés para ti como madre, padre o persona cuidadora Parte 1",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Regular el estrés para ti como madre, padre o persona cuidadora Parte 1"
+        }
+      },
+      "completed": false,
+      "task_child": "understand_t_1_article_tasks"
+    },
+    {
+      "id": "understand_t_2",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Regular el estrés para ti como madre, padre o persona cuidadora Parte 2",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Regular el estrés para ti como madre, padre o persona cuidadora Parte 2"
+        }
+      },
+      "completed": false,
+      "task_child": "understand_t_2_article_tasks"
+    },
+    {
+      "id": "understand_t_3",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Fomentar la Confianza de Mi Adolescente",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Fomentar la Confianza de Mi Adolescente"
+        }
+      },
+      "completed": false,
+      "task_child": "understand_t_3_article_tasks"
+    },
+    {
+      "id": "understand_t_4",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Cultivar la Motivación de Construir un Futuro en mi Adolescente",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Cultivar la Motivación de Construir un Futuro en mi Adolescente"
+        }
+      },
+      "completed": false,
+      "task_child": "understand_t_4_article_tasks"
+    },
+    {
+      "id": "understand_t_5",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Ayudar a Mi Adolescente a Enfrentar el Estrés",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Ayudar a Mi Adolescente a Enfrentar el Estrés"
+        }
+      },
+      "completed": false,
+      "task_child": "understand_t_5_article_tasks"
+    },
+    {
+      "id": "understand_t_6",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Tristeza y Depresión: Diferencias y Cómo Actuar",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Tristeza y Depresión: Diferencias y Cómo Actuar"
+        }
+      },
+      "completed": false,
+      "task_child": "understand_t_6_article_tasks"
+    },
+    {
+      "id": "understand_t_7",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Ansiedad: Qué Es y Cómo Actuar",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Ansiedad: Qué Es y Cómo Actuar"
+        }
+      },
+      "completed": false,
+      "task_child": "understand_t_7_article_tasks"
+    },
+    {
+      "id": "understand_t_8",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Conocer las Señales de Alarma para Detectar Situaciones de Riesgo",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Conocer las Señales de Alarma para Detectar Situaciones de Riesgo"
+        }
+      },
+      "completed": false,
+      "task_child": "understand_t_8_article_tasks"
+    }
+  ],
+  "_metadata": {
+    "number": {
+      "type": "number"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

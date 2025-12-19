@@ -1,0 +1,411 @@
+{
+  "flow_name": "i_feelings_t_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transript": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_1",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Take a moment to check in with yourself."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Wonderful, I am so happy things are going well."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Take a moment to check in with yourself.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
+      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
+      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Identificar nuestras propias emociones nos ayuda a tomar decisiones claras y a mejorar la forma en que interactuamos con nuestros niños, niñas o adolescentes y con nosotros mismos. \n\n⭐Identificar emociones y conversar sobre ellas con {tu adolescente}, le ayudará a aprender a expresarlas y a manejarlas.\n\n👌Aprenderá que está bien experimentar cualquier emoción o sentimiento, incluso los incómodos o desagradables. \n\n🌷Puedes ayudar al escucharle, ponerte en su lugar y aceptar sus emociones.  \n\n🤗Esto también le ayudará a reconocer los sentimientos de las y los demás."
+        },
+        "text_2": {
+          "eng": "¡Hagamos un ejercicio!"
+        },
+        "quiz_1_question": {
+          "eng": "Conversar de las emociones agradables es igual de importante que conversar de las emociones incómodas."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "🎉 Eso es correcto. \n\n6️⃣Existen 6 emociones básicas: alegría, tristeza, enojo, asco, sorpresa y miedo. \n\n✅Es importante que hablemos con nuestras niñas, niños y adolescentes sobre TODAS ellas."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "👀¡Ups! ¡Buen intento! \n\n6️⃣Existen 6 emociones básicas: alegría, tristeza, enojo, asco, sorpresa y miedo. \n\n✅Es importante que hablemos con nuestras niñas, niños y adolescentes sobre TODAS ellas."
+        },
+        "quiz_2_question": {
+          "eng": "Los niños y los hombres no deben conversar sobre cómo se sienten cuando están tristes o con miedo."
+        },
+        "quiz_2_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento! \n\n⭐ Es importante que niños, niñas, hombres y mujeres por igual aprendan a compartir sus sentimientos.  \n\n💙 Las niñas, niños y adolescentes deben aprender que es válido sentirse tristes o asustados y que pueden pedir ayuda cuando la necesiten, sin importar la edad y el género"
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "🎉 ¡Tienes razón! \n\n⭐ Es importante que niños, niñas, hombres y mujeres por igual aprendan a compartir sus sentimientos.  \n\n💙 Las niñas, niños y adolescentes deben aprender que es válido sentirse tristes o asustados y que pueden pedir ayuda cuando la necesiten, sin importar la edad y el género."
+        },
+        "quiz_3_question": {
+          "eng": "Como madres, padres o personas cuidadoras también podemos compartir nuestros sentimientos con nuestras niñas, niños o adolescentes."
+        },
+        "quiz_3_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_3_feedback_1": {
+          "eng": "🎉 ¡Correcto! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les modela cómo pueden hacerlo."
+        },
+        "quiz_3_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_3_feedback_2": {
+          "eng": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "🎉 Eso es correcto. \n\n6️⃣Existen 6 emociones básicas: alegría, tristeza, enojo, asco, sorpresa y miedo. \n\n✅Es importante que hablemos con nuestras niñas, niños y adolescentes sobre TODAS ellas.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_3_question": {},
+        "quiz_3_option_1_text": {},
+        "quiz_3_feedback_1": {},
+        "quiz_3_option_2_text": {},
+        "quiz_3_feedback_2": {}
+      },
+      "quiz_1_feedback_2": "👀¡Ups! ¡Buen intento! \n\n6️⃣Existen 6 emociones básicas: alegría, tristeza, enojo, asco, sorpresa y miedo. \n\n✅Es importante que hablemos con nuestras niñas, niños y adolescentes sobre TODAS ellas.",
+      "quiz_1_question": "Conversar de las emociones agradables es igual de importante que conversar de las emociones incómodas.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_option_2_text": "Falso",
+      "text_1_facilitator": "Identificar nuestras propias emociones nos ayuda a tomar decisiones claras y a mejorar la forma en que interactuamos con nuestros niños, niñas o adolescentes y con nosotros mismos. \n\n⭐Identificar emociones y conversar sobre ellas con {tu adolescente}, le ayudará a aprender a expresarlas y a manejarlas.\n\n👌Aprenderá que está bien experimentar cualquier emoción o sentimiento, incluso los incómodos o desagradables. \n\n🌷Puedes ayudar al escucharle, ponerte en su lugar y aceptar sus emociones.  \n\n🤗Esto también le ayudará a reconocer los sentimientos de las y los demás.",
+      "text_2": "¡Hagamos un ejercicio!",
+      "quiz_2_question": "Los niños y los hombres no deben conversar sobre cómo se sienten cuando están tristes o con miedo.",
+      "quiz_2_option_1_text": "Verdadero",
+      "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento! \n\n⭐ Es importante que niños, niñas, hombres y mujeres por igual aprendan a compartir sus sentimientos.  \n\n💙 Las niñas, niños y adolescentes deben aprender que es válido sentirse tristes o asustados y que pueden pedir ayuda cuando la necesiten, sin importar la edad y el género",
+      "quiz_2_option_2_text": "Falso",
+      "quiz_2_feedback_2": "🎉 ¡Tienes razón! \n\n⭐ Es importante que niños, niñas, hombres y mujeres por igual aprendan a compartir sus sentimientos.  \n\n💙 Las niñas, niños y adolescentes deben aprender que es válido sentirse tristes o asustados y que pueden pedir ayuda cuando la necesiten, sin importar la edad y el género.",
+      "quiz_3_question": "Como madres, padres o personas cuidadoras también podemos compartir nuestros sentimientos con nuestras niñas, niños o adolescentes.",
+      "quiz_3_option_1_text": "Verdadero",
+      "quiz_3_feedback_1": "🎉 ¡Correcto! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les modela cómo pueden hacerlo.",
+      "quiz_3_option_2_text": "Falso",
+      "quiz_3_feedback_2": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo.",
+      "completed": false
+    },
+    {
+      "id": "comic_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Aquí tienes una historieta sobre cómo puedes hablar con tu adolescente sobre las emociones durante su tiempo juntos y conectados."
+        },
+        "text_2": {
+          "eng": "{F1_PADRE} y su hija {F1_HIJA_16} salieron a caminar para pasar un tiempo juntos y conectados. {F1_HIJA_16} parece estar molesta por algo."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Aquí tienes una historieta sobre cómo puedes hablar con tu adolescente sobre las emociones durante su tiempo juntos y conectados.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "text_2": "{F1_PADRE} y su hija {F1_HIJA_16} salieron a caminar para pasar un tiempo juntos y conectados. {F1_HIJA_16} parece estar molesta por algo.",
+      "image_asset": "https://drive.google.com/file/d/16BWs-oT-QbudSF5Aed0h-Lm9Plbhi6qT/view?usp=drive_link",
+      "completed": false
+    },
+    {
+      "id": "comic_2",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "{F1_HIJA_16}, he notado que hoy tienes menos energía y pareces triste. ¿Quieres hablarlo?"
+        },
+        "character_2_text": {
+          "eng": "Ay, Papá. Lo que pasa es que fracasé el examen de matemáticas y me pone triste y me frustra porque estudié mucho."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "https://drive.google.com/file/d/1a0lZ3ZSJSUrbr8OC2Jf3xiV3xTmpDFwG/view?usp=drive_link",
+      "character_1_id": "F1_PADRE",
+      "character_2_id": "F1_HIJA_16",
+      "character_1_text": "{F1_HIJA_16}, he notado que hoy tienes menos energía y pareces triste. ¿Quieres hablarlo?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "Ay, Papá. Lo que pasa es que fracasé el examen de matemáticas y me pone triste y me frustra porque estudié mucho.",
+      "completed": false
+    },
+    {
+      "id": "comic_3",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "{F1_PADRE} respira profundo para no reaccionar desde el enojo."
+        },
+        "character_1_text": {
+          "eng": "Eso sí que es frustrante, hija. Sé lo mucho que estudiaste. Tal vez podamos idear un nuevo plan para ayudarte en matemáticas. ¿Qué te parece si le pedimos ayuda extra a tu profe? ¿Quieres que yo le hable o quieres hacerlo tú?"
+        },
+        "character_2_text": {
+          "eng": "Gracias, papá. ¡Yo puedo hacerlo! Creo que podría ser una buena idea."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_2": "{F1_PADRE} respira profundo para no reaccionar desde el enojo.",
+      "_translations": {
+        "text_2": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "image_asset": "https://drive.google.com/file/d/11x0saQYHYCNWZXNz_W44vygYmfqf35SD/view?usp=drive_link",
+      "character_1_id": "F1_PADRE",
+      "character_2_id": "F1_HIJA_17",
+      "character_1_text": "Eso sí que es frustrante, hija. Sé lo mucho que estudiaste. Tal vez podamos idear un nuevo plan para ayudarte en matemáticas. ¿Qué te parece si le pedimos ayuda extra a tu profe? ¿Quieres que yo le hable o quieres hacerlo tú?",
+      "character_2_text": "Gracias, papá. ¡Yo puedo hacerlo! Creo que podría ser una buena idea.",
+      "completed": false
+    },
+    {
+      "id": "comic_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Sabes, puede que ahora te sientas triste y frustrada por no obtener una calificación más alta en matemáticas, pero nunca he conocido a nadie que estudie tanto como tú, {F1_HIJA_16}."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "https://drive.google.com/file/d/1th_s-9w_KRaN3fwb0yVlQgXgCJSNDrAf/view?usp=drive_link",
+      "character_1_id": "F1_PADRE",
+      "character_1_text": "Sabes, puede que ahora te sientas triste y frustrada por no obtener una calificación más alta en matemáticas, pero nunca he conocido a nadie que estudie tanto como tú, {F1_HIJA_16}.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da clic en reproducir ▶️ para aprender las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:\n1️⃣ APRENDER\n2️⃣ IDENTIFICAR\n3️⃣ ABRIR TU MENTE\n4️⃣ HABLAR\n5️⃣ COMPARTIR\n6️⃣ MOSTRAR INTERÉS"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:\n1️⃣ APRENDER\n2️⃣ IDENTIFICAR\n3️⃣ ABRIR TU MENTE\n4️⃣ HABLAR\n5️⃣ COMPARTIR\n6️⃣ MOSTRAR INTERÉS",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Recuerda las 6️⃣ estrategias para ayudar a {tu adolescente} a aprender a manejar sus emociones:"
+        },
+        "section_1_title": {
+          "eng": "APRENDER"
+        },
+        "section_1_text": {
+          "eng": "💡 Aprende sobre las distintas emociones. Hay 6 emociones básicas y cada una nos manda un mensaje específico:   \n- 😃Alegría: Sigue haciendo las cosas que te hacen sentir bien.   \n- 😔Tristeza: Algo importante en tu vida necesita atención. \n- 🔴 Enojo: Defiéndete y pon límites. \n- 😣Asco: Aléjate de lo que no te gusta. \n- 👀Sorpresa: Detente y pon atención por un momento. \n- 🚩Miedo: Protégete del peligro.\n\n🎨 A medida que las niñas, niños o adolescentes crecen, aprenden a identificar muchas otras emociones, como entusiasmo, frustración, orgullo, soledad, tranquilidad, culpa o confusión."
+        },
+        "section_2_title": {
+          "eng": "IDENTIFICAR"
+        },
+        "section_2_text": {
+          "eng": "👀 Empieza a observar estas 6 emociones en ti y en {tu adolescente}.\n\n😃😒😔😣Nota cómo se siente cada emoción en tu cuerpo.   \n😃También puedes tratar de identificar otras emociones agradables, como la sensación de paz, felicidad o calma. \n💙¡Aprender a identificar les permite a las y los adolescentes apreciar un momento bonito o a alejarse de lo que hace daño!"
+        },
+        "section_3_title": {
+          "eng": "ABRIR TU MENTE"
+        },
+        "section_3_text": {
+          "eng": "Abre tu mente, observa 👀, y escucha 👂 a {tu adolescente} cuando comparte cómo se siente.\n\n💛Acepta cómo te sientes tú y cómo se siente tu adolescente. Recuerda, sus cuerpos les están mandando mensajes a través de lo que sienten; por eso los sentimientos y las emociones son tan importantes."
+        },
+        "section_4_title": {
+          "eng": "HABLA"
+        },
+        "section_4_text": {
+          "eng": "💡 Enfoca tu atención en lo que tu adolescente esté haciendo adecuadamente. \n\n😒 Es normal tener dificultades para hablar y expresar sentimientos y emociones.\n📝 Recuerda que también es normal experimentar las emociones de distintas maneras.\n⭐ Cuando notas que {tu adolescente} esté sintiendo una emoción, coméntale, de manera calmada, lo que tú estás observando.  Por ejemplo: “He notado que me viras los ojos cada vez que te hablo de cómo vas en la escuela, ¿Te molesta que te hable de la escuela durante la cena?\"\n\nTambién puedes ayudar a {tu adolescente} a aprender diferentes emociones usando expresiones faciales y movimientos con tus manos o tu cuerpo. Conviértelo en un juego."
+        },
+        "section_5_title": {
+          "eng": "COMPARTIR"
+        },
+        "section_5_text": {
+          "eng": "😃 Comparte tus propias emociones con {tu adolescente}.\n\nPor ejemplo, yo me sentiría igual si no pudiera salir cuando yo quisiera.\n\n 🎈Esto da un buen ejemplo y le muestra a {tu adolescente} que está bien compartir sus emociones."
+        },
+        "section_6_title": {
+          "eng": "INTERESARTE"
+        },
+        "section_6_text": {
+          "eng": "🌷 Usa el apoyo físico y verbal para que {tu adolescente} sienta aceptación y cariño.\n\n⭐Puedes saltar con {tu adolescente} para sacudir el enojo o pueden respirar profundo para calmarse. Estas son algunas formas de afrontar las emociones.  \n\n💚Recuérdale a tu niña, niño o adolescente que siempre estarás a su lado y que puede conversar contigo en cualquier momento."
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "Recuerda las 6️⃣ estrategias para ayudar a {tu adolescente} a aprender a manejar sus emociones:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {},
+        "section_5_title": {},
+        "section_5_text": {},
+        "section_6_title": {},
+        "section_6_text": {}
+      },
+      "section_1_icon_asset": "https://drive.google.com/file/d/1yuMaNGzZNRXTUkoIoYGxcyps__hKv0KX/view?usp=drive_link",
+      "section_2_icon_asset": "https://drive.google.com/file/d/1JYdcbkVuoMB64KZFOtWUd01yErpe19ac/view?usp=drive_link",
+      "section_3_icon_asset": "https://drive.google.com/file/d/1JAFH1-oC7uiHzP21YsvFalbBq5iMcbVW/view?usp=drive_link",
+      "section_4_icon_asset": "https://drive.google.com/file/d/1GGu-Iy1PmdyDtB2h_Q23fxyUsR0FqGhn/view?usp=drive_link",
+      "section_5_icon_asset": "https://drive.google.com/file/d/1hfWPX9i6ZpYVChhK8_6AafGeqSNCgYOg/view?usp=drive_link",
+      "section_6_icon_asset": "https://drive.google.com/file/d/1b7ywkfyRt8DgqJrocfNefIOeE8oOW6bB/view?usp=drive_link",
+      "section_1_title": "APRENDER",
+      "section_1_text": "💡 Aprende sobre las distintas emociones. Hay 6 emociones básicas y cada una nos manda un mensaje específico:   \n- 😃Alegría: Sigue haciendo las cosas que te hacen sentir bien.   \n- 😔Tristeza: Algo importante en tu vida necesita atención. \n- 🔴 Enojo: Defiéndete y pon límites. \n- 😣Asco: Aléjate de lo que no te gusta. \n- 👀Sorpresa: Detente y pon atención por un momento. \n- 🚩Miedo: Protégete del peligro.\n\n🎨 A medida que las niñas, niños o adolescentes crecen, aprenden a identificar muchas otras emociones, como entusiasmo, frustración, orgullo, soledad, tranquilidad, culpa o confusión.",
+      "section_2_title": "IDENTIFICAR",
+      "section_2_text": "👀 Empieza a observar estas 6 emociones en ti y en {tu adolescente}.\n\n😃😒😔😣Nota cómo se siente cada emoción en tu cuerpo.   \n😃También puedes tratar de identificar otras emociones agradables, como la sensación de paz, felicidad o calma. \n💙¡Aprender a identificar les permite a las y los adolescentes apreciar un momento bonito o a alejarse de lo que hace daño!",
+      "section_3_title": "ABRIR TU MENTE",
+      "section_3_text": "Abre tu mente, observa 👀, y escucha 👂 a {tu adolescente} cuando comparte cómo se siente.\n\n💛Acepta cómo te sientes tú y cómo se siente tu adolescente. Recuerda, sus cuerpos les están mandando mensajes a través de lo que sienten; por eso los sentimientos y las emociones son tan importantes.",
+      "section_4_title": "HABLA",
+      "section_4_text": "💡 Enfoca tu atención en lo que tu adolescente esté haciendo adecuadamente. \n\n😒 Es normal tener dificultades para hablar y expresar sentimientos y emociones.\n📝 Recuerda que también es normal experimentar las emociones de distintas maneras.\n⭐ Cuando notas que {tu adolescente} esté sintiendo una emoción, coméntale, de manera calmada, lo que tú estás observando.  Por ejemplo: “He notado que me viras los ojos cada vez que te hablo de cómo vas en la escuela, ¿Te molesta que te hable de la escuela durante la cena?\"\n\nTambién puedes ayudar a {tu adolescente} a aprender diferentes emociones usando expresiones faciales y movimientos con tus manos o tu cuerpo. Conviértelo en un juego.",
+      "section_5_title": "COMPARTIR",
+      "section_5_text": "😃 Comparte tus propias emociones con {tu adolescente}.\n\nPor ejemplo, yo me sentiría igual si no pudiera salir cuando yo quisiera.\n\n 🎈Esto da un buen ejemplo y le muestra a {tu adolescente} que está bien compartir sus emociones.",
+      "section_6_title": "INTERESARTE",
+      "section_6_text": "🌷 Usa el apoyo físico y verbal para que {tu adolescente} sienta aceptación y cariño.\n\n⭐Puedes saltar con {tu adolescente} para sacudir el enojo o pueden respirar profundo para calmarse. Estas son algunas formas de afrontar las emociones.  \n\n💚Recuérdale a tu niña, niño o adolescente que siempre estarás a su lado y que puede conversar contigo en cualquier momento.",
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Durante el tiempo juntos y conectados, practica identificar las emociones de {tu adolescente}. Conversen describiendo sus propias emociones y cuáles emociones identifican en las demás personas."
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes hacerlo hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Buen trabajo! ⭐\n\nEsto hará una gran diferencia a la hora de ayudar a {tu adolescente} a aprender los 6 pasos para hablar sobre las emociones."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Está bien. Intenta encontrar tiempo durante esta semana."
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "¡Buen trabajo! ⭐\n\nEsto hará una gran diferencia a la hora de ayudar a {tu adolescente} a aprender los 6 pasos para hablar sobre las emociones.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "Está bien. Intenta encontrar tiempo durante esta semana.",
+      "quiz_1_question": "¿Puedes hacerlo hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "Durante el tiempo juntos y conectados, practica identificar las emociones de {tu adolescente}. Conversen describiendo sus propias emociones y cuáles emociones identifican en las demás personas.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

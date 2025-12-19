@@ -1,0 +1,45 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "common_categories",
+  "data_list_name": "common_categories",
+  "status": "released",
+  "flow_subtype": "modules",
+  "rows": [
+    {
+      "id": "relax",
+      "title::eng": "Relax",
+      "icon_asset": "images/icons/smile_eyes_down.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1FFkho-7gOPLNo29UNuV2z-bGpJ5_2Q8jGSKcC1Mou38"
+    },
+    {
+      "id": "check_in",
+      "title::eng": "Check-in",
+      "icon_asset": "images/icons/smile_eyes_up.svg"
+    },
+    {
+      "id": "intro",
+      "title::eng": "Today's Topic",
+      "icon_asset": "images/icons/picture_book.svg"
+    },
+    {
+      "id": "explore",
+      "title::eng": "Explore",
+      "icon_asset": "images/icons/magnifying_glass.svg"
+    },
+    {
+      "id": "practical_tips",
+      "title::eng": "Review",
+      "icon_asset": "images/icons/thought_bubble.svg"
+    },
+    {
+      "id": "practise",
+      "title::eng": "Practise",
+      "icon_asset": "images/icons/pencil.svg"
+    },
+    {
+      "id": "notice",
+      "title::eng": "Content Notice",
+      "icon_asset": "images/icons/pause.svg"
+    }
+  ]
+}
