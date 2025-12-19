@@ -414,6 +414,16 @@
   },
   {
     "flow_type": "data_list",
+    "flow_subtype": "onboarding",
+    "flow_name": "onboarding_splash_slides",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "data/PA onboarding.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1r5zNT0MXsfMYSXrhYSLw1xGesza4qjQB-EJ2PMmTBlc"
+    }
+  },
+  {
+    "flow_type": "data_list",
     "flow_subtype": "modules_oneononetime_t",
     "flow_name": "oneononetime_t_articles",
     "_source": {
@@ -1056,6 +1066,16 @@
       "name": "library PLH onboarding",
       "path": "PLH onboarding.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1LUIu_aqkzYjyUq0ecQEmWJa62CEvQ4E2L4Fkz_94ydw"
+    }
+  },
+  {
+    "flow_type": "global",
+    "flow_subtype": "onboarding",
+    "flow_name": "onboarding_global_pa",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "data/PA onboarding.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1r5zNT0MXsfMYSXrhYSLw1xGesza4qjQB-EJ2PMmTBlc"
     }
   },
   {

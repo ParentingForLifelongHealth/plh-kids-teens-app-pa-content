@@ -1,0 +1,60 @@
+{
+  "flow_type": "data_list",
+  "flow_subtype": "onboarding",
+  "flow_name": "onboarding_splash_slides",
+  "status": "released",
+  "rows": [
+    {
+      "id": "slide_1",
+      "image_asset": "images/onboarding/frustrated.svg",
+      "duration_sec": 4,
+      "text": "Raising children isn't easy",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Raising children isn't easy"
+        }
+      }
+    },
+    {
+      "id": "slide_2",
+      "image_asset": "images/onboarding/loving_parent.svg",
+      "duration_sec": 4,
+      "text": "You are the best parent your child could have",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "You are the best parent your child could have"
+        }
+      }
+    },
+    {
+      "id": "slide_3",
+      "image_asset": "images/onboarding/join_parents.svg",
+      "duration_sec": 4,
+      "text": "Join over 200 million parents who have used our resources",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Join over 200 million parents who have used our resources"
+        }
+      }
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA onboarding.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1r5zNT0MXsfMYSXrhYSLw1xGesza4qjQB-EJ2PMmTBlc"
+  },
+  "_metadata": {
+    "duration_sec": {
+      "type": "number"
+    }
+  }
+}
