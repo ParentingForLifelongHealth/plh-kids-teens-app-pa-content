@@ -1336,6 +1336,21 @@
         }
       }
     },
+    "onboarding_splash_slides": {
+      "flow_type": "data_list",
+      "flow_subtype": "onboarding",
+      "flow_name": "onboarding_splash_slides",
+      "_source": {
+        "name": "kids_teens_pa",
+        "path": "data/PA onboarding.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1r5zNT0MXsfMYSXrhYSLw1xGesza4qjQB-EJ2PMmTBlc"
+      },
+      "_metadata": {
+        "duration_sec": {
+          "type": "number"
+        }
+      }
+    },
     "onboarding_settings_pages": {
       "flow_type": "data_list",
       "flow_name": "onboarding_settings_pages",
@@ -1352,15 +1367,6 @@
         "completed_count": {
           "type": "number"
         }
-      }
-    },
-    "onboarding_splash_slides": {
-      "flow_type": "data_list",
-      "flow_name": "onboarding_splash_slides",
-      "_source": {
-        "name": "library PLH onboarding",
-        "path": "PLH onboarding.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1LUIu_aqkzYjyUq0ecQEmWJa62CEvQ4E2L4Fkz_94ydw"
       }
     },
     "organisation": {
@@ -9252,6 +9258,16 @@
         "name": "library PLH onboarding",
         "path": "PLH onboarding.xlsx",
         "url": "https://docs.google.com/spreadsheets/d/1LUIu_aqkzYjyUq0ecQEmWJa62CEvQ4E2L4Fkz_94ydw"
+      }
+    },
+    "onboarding_global_pa": {
+      "flow_type": "global",
+      "flow_subtype": "onboarding",
+      "flow_name": "onboarding_global_pa",
+      "_source": {
+        "name": "kids_teens_pa",
+        "path": "data/PA onboarding.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1r5zNT0MXsfMYSXrhYSLw1xGesza4qjQB-EJ2PMmTBlc"
       }
     },
     "user_data_global": {

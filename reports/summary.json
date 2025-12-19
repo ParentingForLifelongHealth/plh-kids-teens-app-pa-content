@@ -2575,6 +2575,11 @@
         "missing": true
       },
       {
+        "path": "images/backgrounds/bottom_banner.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
         "path": "images/backgrounds/kites.svg",
         "count": 1,
         "missing": true
@@ -2657,6 +2662,26 @@
       {
         "path": "images/logos/plh_logomark.png",
         "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/logos/sino_white.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/onboarding/frustrated.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/onboarding/join_parents.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/onboarding/loving_parent.svg",
+        "count": 1,
         "missing": true
       },
       {
@@ -3505,6 +3530,11 @@
         "missing": true
       },
       {
+        "path": "lottie/checkmark.json",
+        "count": 1,
+        "missing": true
+      },
+      {
         "path": "lottie/gift_box.json",
         "count": 1,
         "missing": true
@@ -3845,7 +3875,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 10
+        "total": 9
       },
       {
         "type": "data_list",
@@ -4049,6 +4079,11 @@
       },
       {
         "type": "data_list",
+        "subtype": "onboarding",
+        "total": 1
+      },
+      {
+        "type": "data_list",
         "subtype": "relax",
         "total": 1
       },
@@ -4080,7 +4115,7 @@
       {
         "type": "global",
         "subtype": "onboarding",
-        "total": 1
+        "total": 2
       },
       {
         "type": "template",

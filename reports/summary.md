@@ -647,6 +647,7 @@ Assets that have references within sheets but do not appear in app-data
 | images/activities/unseen_guesses.svg | 2 |
 | images/activities/walk.svg | 2 |
 | images/activities/yes_no_maybe.svg | 2 |
+| images/backgrounds/bottom_banner.svg | 1 |
 | images/backgrounds/kites.svg | 1 |
 | images/backgrounds/library_top_right.png | 3 |
 | images/backgrounds/map_view_bg.jpg | 1 |
@@ -664,6 +665,10 @@ Assets that have references within sheets but do not appear in app-data
 | images/logos/Oxford.png | 1 |
 | images/logos/app_logo.png | 1 |
 | images/logos/plh_logomark.png | 2 |
+| images/logos/sino_white.svg | 1 |
+| images/onboarding/frustrated.svg | 1 |
+| images/onboarding/join_parents.svg | 1 |
+| images/onboarding/loving_parent.svg | 1 |
 | images/teen_modules/celebrate/celebrate_cup.svg | 1 |
 | images/teen_modules/celebrate/celebrate_t_1.svg | 1 |
 | images/teen_modules/celebrate/celebrate_t_2.svg | 1 |
@@ -833,6 +838,7 @@ Assets that have references within sheets but do not appear in app-data
 | images/teen_modules/svp/svp_pushy_friend_t.svg | 1 |
 | images/teen_modules/svp/svp_rejected_ride_t.svg | 1 |
 | images/teen_modules/svp/svp_usevoice_t.svg | 1 |
+| lottie/checkmark.json | 1 |
 | lottie/gift_box.json | 1 |
 | lottie/relax/blue_dots.json | 5 |
 | lottie/relax/heart.json | 5 |
@@ -915,7 +921,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 10 |
+| data_list |  | 9 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
 | data_list | check_in | 1 |
@@ -956,13 +962,14 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | modules_srh_t | 1 |
 | data_list | modules_stayingsafe_t | 1 |
 | data_list | modules_stress_t | 1 |
+| data_list | onboarding | 1 |
 | data_list | relax | 1 |
 | data_pipe |  | 4 |
 | data_pipe | generated | 91 |
 | generator |  | 44 |
 | global |  | 5 |
 | global | legal_terms | 1 |
-| global | onboarding | 1 |
+| global | onboarding | 2 |
 | template |  | 88 |
 | template | generated | 1018 |
 | template | legal_terms | 4 |
