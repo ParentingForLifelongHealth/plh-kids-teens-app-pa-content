@@ -114,9 +114,6 @@
           "eng": "Pasar Tiempo Juntos y Conectados"
         }
       },
-      "number": 2,
-      "bottom_aligned_image_asset": "images/homescreen/listview/self_care.svg",
-      "image_asset": "images/homescreen/self_care.svg",
       "completed": false,
       "task_child": "i_one_on_one_t_article_tasks"
     },
@@ -1433,9 +1430,6 @@
     }
   ],
   "_metadata": {
-    "number": {
-      "type": "number"
-    },
     "completed": {
       "type": "boolean"
     }

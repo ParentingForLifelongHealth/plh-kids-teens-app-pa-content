@@ -35,6 +35,7 @@
           "_translations": {
             "value": {}
           },
+          "condition": false,
           "exclude_from_translation": true,
           "_nested_name": "loop_inner.first_uncompleted_article_id",
           "_dynamicFields": {
