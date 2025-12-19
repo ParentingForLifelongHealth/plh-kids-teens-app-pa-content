@@ -2,7 +2,7 @@
 This repo contains data used in the Panama version of the PLH Kids and Teens app.
 
 ## App Preview
-UAT: 
+UAT: plh-kids-teens-pa-uat
 
-Released: 
+Released: plh-kids-teens-pa
 
