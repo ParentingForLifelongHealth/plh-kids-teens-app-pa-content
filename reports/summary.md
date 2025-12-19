@@ -9,14 +9,14 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 78 |
-| combo_box | 7 |
+| button | 81 |
+| combo_box | 9 |
 | data_items | 201 |
 | debug_toggle | 1 |
 | display_grid | 3 |
-| display_group | 79 |
+| display_group | 82 |
 | google_sign_in_button | 2 |
-| image | 15 |
+| image | 16 |
 | items | 10 |
 | lottie_animation | 4 |
 | nested_properties | 455 |
@@ -27,19 +27,19 @@
 | plh_module_list_item | 3 |
 | progress_path | 1 |
 | qr_code | 1 |
-| radio_button_grid | 8 |
-| round_button | 8 |
+| radio_button_grid | 9 |
+| round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 3404 |
+| set_variable | 3438 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 1183 |
-| text | 123 |
+| text | 131 |
 | text_area | 2 |
-| text_box | 5 |
-| text_bubble | 2 |
+| text_box | 12 |
+| text_bubble | 7 |
 | title | 41 |
 | toggle_bar | 6 |
 | update_action_list | 2 |
@@ -54,13 +54,13 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 913 |
+| emit: completed | 916 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 910 |
+| emit: uncompleted | 912 |
 | feedback | 13 |
 | go_to | 13 |
 | module_landing_i_calm_c | 1 |
@@ -79,7 +79,7 @@
 | reset_app | 4 |
 | reset_data | 3 |
 | set_data | 98 |
-| set_field | 106 |
+| set_field | 111 |
 | set_item | 95 |
 | set_local | 39 |
 | task | 2 |
@@ -963,7 +963,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 1 |
-| template |  | 85 |
+| template |  | 88 |
 | template | generated | 1018 |
 | template | legal_terms | 4 |
 </details>
