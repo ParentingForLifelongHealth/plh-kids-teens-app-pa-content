@@ -10,6 +10,26 @@
   },
   {
     "flow_type": "data_list",
+    "flow_subtype": "activities",
+    "flow_name": "activities",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "data/PA activities.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1x3_i4XuuSNMI8dv5uLMnIC3nKRMRZ5oZpfI3BL_ku1k"
+    }
+  },
+  {
+    "flow_type": "data_list",
+    "flow_subtype": "activities",
+    "flow_name": "activity_groups",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "data/PA activities.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1x3_i4XuuSNMI8dv5uLMnIC3nKRMRZ5oZpfI3BL_ku1k"
+    }
+  },
+  {
+    "flow_type": "data_list",
     "flow_subtype": "modules_celebrate_t",
     "flow_name": "celebrate_t_articles",
     "_source": {

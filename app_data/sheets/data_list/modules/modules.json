@@ -95,9 +95,6 @@
       "tag_list": [
         "teen"
       ],
-      "number": 2,
-      "bottom_aligned_image_asset": "images/homescreen/listview/self_care.svg",
-      "image_asset": "images/homescreen/self_care.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_1",
       "title": "Pasar Tiempo Juntos y Conectados",
@@ -1288,10 +1285,5 @@
     "name": "kids_teens_pa",
     "path": "PA modules.xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
-  },
-  "_metadata": {
-    "number": {
-      "type": "number"
-    }
   }
 }

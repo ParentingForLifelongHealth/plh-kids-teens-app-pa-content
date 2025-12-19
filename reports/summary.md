@@ -31,11 +31,11 @@
 | round_button | 8 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 3352 |
+| set_variable | 3404 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 1131 |
+| template | 1183 |
 | text | 123 |
 | text_area | 2 |
 | text_box | 5 |
@@ -54,13 +54,13 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 861 |
+| emit: completed | 913 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 858 |
+| emit: uncompleted | 910 |
 | feedback | 13 |
 | go_to | 13 |
 | module_landing_i_calm_c | 1 |
@@ -608,6 +608,45 @@ Assets that have references within sheets but do not appear in app-data
 | audio/teen/topic_intros/stress_intro_t.mp3 | 1 |
 | audio/teen/topic_intros/svp_intro_t.mp3 | 1 |
 | audio/teen/topic_intros/workshops_reflection_t.mp3 | 1 |
+| images/activities/act_animal.svg | 2 |
+| images/activities/act_emotions.svg | 4 |
+| images/activities/artist.svg | 2 |
+| images/activities/blanket_forts.svg | 2 |
+| images/activities/books.svg | 2 |
+| images/activities/can_you_catch_it.svg | 2 |
+| images/activities/charades.svg | 2 |
+| images/activities/checkin_chat.svg | 2 |
+| images/activities/circle_dance.svg | 4 |
+| images/activities/clean.svg | 2 |
+| images/activities/cook_traditional.svg | 2 |
+| images/activities/cooking_with_maths.svg | 2 |
+| images/activities/dance.svg | 8 |
+| images/activities/dream_travel.svg | 2 |
+| images/activities/emotion_cards.svg | 2 |
+| images/activities/famous_party.svg | 2 |
+| images/activities/friendly_chat.svg | 4 |
+| images/activities/garden.svg | 2 |
+| images/activities/guess_emotion.svg | 2 |
+| images/activities/make_story_child.svg | 2 |
+| images/activities/mystery_bag.svg | 2 |
+| images/activities/play_with_clothes.svg | 2 |
+| images/activities/reflect_positive.svg | 2 |
+| images/activities/role_play.svg | 4 |
+| images/activities/rolling_ball_fun.svg | 2 |
+| images/activities/secret_handshake.svg | 2 |
+| images/activities/shadow_play.svg | 2 |
+| images/activities/short_term_goal.svg | 4 |
+| images/activities/song.svg | 8 |
+| images/activities/spy_colours.svg | 4 |
+| images/activities/take_a_pause.svg | 2 |
+| images/activities/talk_6.svg | 4 |
+| images/activities/tell_stories.svg | 2 |
+| images/activities/thinking_games.svg | 2 |
+| images/activities/traffic_lights.svg | 2 |
+| images/activities/two_truths.svg | 2 |
+| images/activities/unseen_guesses.svg | 2 |
+| images/activities/walk.svg | 2 |
+| images/activities/yes_no_maybe.svg | 2 |
 | images/backgrounds/kites.svg | 1 |
 | images/backgrounds/library_top_right.png | 3 |
 | images/backgrounds/map_view_bg.jpg | 1 |
@@ -622,8 +661,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/faces/sad.svg | 8 |
 | images/faces/scared.svg | 2 |
 | images/faces/tired.svg | 2 |
-| images/homescreen/listview/self_care.svg | 2 |
-| images/homescreen/self_care.svg | 2 |
 | images/logos/Oxford.png | 1 |
 | images/logos/app_logo.png | 1 |
 | images/logos/plh_logomark.png | 2 |
@@ -879,9 +916,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | type | subtype | total |
 | --- | --- | --- |
 | data_list |  | 10 |
+| data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
 | data_list | check_in | 1 |
-| data_list | generated | 94 |
+| data_list | generated | 95 |
 | data_list | hp_review | 2 |
 | data_list | legal_terms | 2 |
 | data_list | lifecycle_actions | 1 |
@@ -919,13 +957,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | modules_stayingsafe_t | 1 |
 | data_list | modules_stress_t | 1 |
 | data_list | relax | 1 |
-| data_pipe |  | 3 |
+| data_pipe |  | 4 |
 | data_pipe | generated | 91 |
-| generator |  | 43 |
+| generator |  | 44 |
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 1 |
 | template |  | 85 |
-| template | generated | 966 |
+| template | generated | 1018 |
 | template | legal_terms | 4 |
 </details>

@@ -115,7 +115,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3352
+        "count": 3404
       },
       {
         "type": "simple_checkbox",
@@ -131,7 +131,7 @@
       },
       {
         "type": "template",
-        "count": 1131
+        "count": 1183
       },
       {
         "type": "text",
@@ -183,7 +183,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 861
+        "count": 913
       },
       {
         "type": "emit: force_reload",
@@ -207,7 +207,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 858
+        "count": 910
       },
       {
         "type": "feedback",
@@ -2380,6 +2380,201 @@
         "missing": true
       },
       {
+        "path": "images/activities/act_animal.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/act_emotions.svg",
+        "count": 4,
+        "missing": true
+      },
+      {
+        "path": "images/activities/artist.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/blanket_forts.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/books.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/can_you_catch_it.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/charades.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/checkin_chat.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/circle_dance.svg",
+        "count": 4,
+        "missing": true
+      },
+      {
+        "path": "images/activities/clean.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/cook_traditional.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/cooking_with_maths.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/dance.svg",
+        "count": 8,
+        "missing": true
+      },
+      {
+        "path": "images/activities/dream_travel.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/emotion_cards.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/famous_party.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/friendly_chat.svg",
+        "count": 4,
+        "missing": true
+      },
+      {
+        "path": "images/activities/garden.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/guess_emotion.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/make_story_child.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/mystery_bag.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/play_with_clothes.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/reflect_positive.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/role_play.svg",
+        "count": 4,
+        "missing": true
+      },
+      {
+        "path": "images/activities/rolling_ball_fun.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/secret_handshake.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/shadow_play.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/short_term_goal.svg",
+        "count": 4,
+        "missing": true
+      },
+      {
+        "path": "images/activities/song.svg",
+        "count": 8,
+        "missing": true
+      },
+      {
+        "path": "images/activities/spy_colours.svg",
+        "count": 4,
+        "missing": true
+      },
+      {
+        "path": "images/activities/take_a_pause.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/talk_6.svg",
+        "count": 4,
+        "missing": true
+      },
+      {
+        "path": "images/activities/tell_stories.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/thinking_games.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/traffic_lights.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/two_truths.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/unseen_guesses.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/walk.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/yes_no_maybe.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
         "path": "images/backgrounds/kites.svg",
         "count": 1,
         "missing": true
@@ -2446,16 +2641,6 @@
       },
       {
         "path": "images/faces/tired.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/listview/self_care.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/self_care.svg",
         "count": 2,
         "missing": true
       },
@@ -3664,6 +3849,11 @@
       },
       {
         "type": "data_list",
+        "subtype": "activities",
+        "total": 2
+      },
+      {
+        "type": "data_list",
         "subtype": "app_config_language_list",
         "total": 1
       },
@@ -3675,7 +3865,7 @@
       {
         "type": "data_list",
         "subtype": "generated",
-        "total": 94
+        "total": 95
       },
       {
         "type": "data_list",
@@ -3865,7 +4055,7 @@
       {
         "type": "data_pipe",
         "subtype": null,
-        "total": 3
+        "total": 4
       },
       {
         "type": "data_pipe",
@@ -3875,7 +4065,7 @@
       {
         "type": "generator",
         "subtype": null,
-        "total": 43
+        "total": 44
       },
       {
         "type": "global",
@@ -3900,7 +4090,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 966
+        "total": 1018
       },
       {
         "type": "template",

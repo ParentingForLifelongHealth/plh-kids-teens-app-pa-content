@@ -23,6 +23,7 @@
       "type": "text",
       "name": "first_uncompleted_article_id",
       "value": "@item.id",
+      "condition": false,
       "exclude_from_translation": true
     },
     {
