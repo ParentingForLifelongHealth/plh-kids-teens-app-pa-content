@@ -1,0 +1,40 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "hp_challenges",
+  "status": "released",
+  "data_list_name": "hp_challenges",
+  "flow_subtype": "hp_review",
+  "rows": [
+    {
+      "id": "@default",
+      "question_text::eng": "What challenges did you experience? ",
+      "top_text::eng": "Challenges other parents experience:",
+      "challenge_1_tag_list": "yes; no",
+      "challenge_2_tag_list": "yes; no",
+      "challenge_3_tag_list": "yes; no",
+      "challenge_4_tag_list": "yes; no",
+      "challenge_5_tag_list": "yes; no",
+      "challenge_6_tag_list": "yes; no",
+      "challenge_7_tag_list": "yes; no",
+      "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak"
+    },
+    {
+      "id": "learn_t",
+      "challenge_1_tag_list": "no",
+      "text_challenge_1::eng": "I did not have enough time",
+      "reply_challenge_1::eng": "That’s okay — it can be hard to find time. Try starting with something small, like helping them with one task or asking about their day. Every bit helps.",
+      "text_challenge_2::eng": "My teen wasn't interested in the activity",
+      "reply_challenge_2::eng": "It can be tough when teens seem not interested. Try letting them choose the activity next time — it might help them feel more involved.\n",
+      "text_challenge_3::eng": "I felt unsure what kind of activity would help with learning",
+      "reply_challenge_3::eng": "That’s okay. It doesn’t have to be school-related — even cooking or watching a video together can be a chance to learn and connect.\n",
+      "challenge_4_tag_list": "yes",
+      "text_challenge_4::eng": "We did something together, but I don’t think it helped",
+      "reply_challenge_4::eng": "It’s normal to wonder if it’s working. Just spending time together builds connection and supports learning — even if it doesn’t seem obvious right away.",
+      "text_challenge_5::eng": "I tried, but my teen was too busy",
+      "reply_challenge_5::eng": "Teens often have full schedules. Try asking when they’re free, or offer to join something they’re already doing — even briefly.\n",
+      "challenge_6_tag_list": "yes",
+      "text_challenge_6::eng": "My teen chose a competitive activity. I won and s/he got angry",
+      "reply_challenge_6::eng": "Competitive activities can be tough if your teen doesn’t like losing.\n\nOnce they’ve calmed down, talk about what it means to win or lose kindly.\n\nTry suggesting activities where you work together instead of compete.\n\nNeed ideas for activities? Tap the ‘Play’ button at the bottom of the App."
+    }
+  ]
+}

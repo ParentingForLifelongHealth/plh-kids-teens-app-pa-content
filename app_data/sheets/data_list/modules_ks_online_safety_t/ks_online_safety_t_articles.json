@@ -1,0 +1,277 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "ks_online_safety_t_articles",
+  "data_list_name": "ks_online_safety_t_articles",
+  "status": "released",
+  "flow_subtype": "modules_ks_online_safety_t",
+  "module": "ks_online_safety_t",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Los adolescentes pasan mucho tiempo en internet⏰ \n\nEstar conectados les ayuda a mantenerse positivos y a aprender más 🔑 pero también hay algunos riesgos y peligros.🚩\n\nHay mucho que compartir sobre cómo asegurar que tu adolescente esté a salvo mientras navega en internet 📱, por lo que conversaremos sobre esto a lo largo de 2️⃣dos lecciones.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Los adolescentes pasan mucho tiempo en internet⏰ \n\nEstar conectados les ayuda a mantenerse positivos y a aprender más 🔑 pero también hay algunos riesgos y peligros.🚩\n\nHay mucho que compartir sobre cómo asegurar que tu adolescente esté a salvo mientras navega en internet 📱, por lo que conversaremos sobre esto a lo largo de 2️⃣dos lecciones."
+        },
+        "text_2": {
+          "eng": "¡Empecemos con un ejercicio!"
+        },
+        "quiz_1_question": {
+          "eng": "Las madres, los padres y las personas cuidadoras deben establecer límites de tiempo de uso diario de internet para sus adolescentes."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "🎉 ¡Correcto!\n\n⏰ Establecer límites de tiempo puede ayudar a equilibrar las actividades que hacen en línea con otras que también son importantes, como la tarea, ayudar en los deberes de la casa y las actividades físicas."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n⏰ Establecer límites de tiempo puede ayudar a equilibrar las actividades que hacen en línea con otras que también son importantes, como la tarea, ayudar en los deberes de la casa y las actividades físicas."
+        },
+        "quiz_2_question": {
+          "eng": "Es seguro que las niñas y los niños más pequeños tengan sus cuentas en las redes sociales sin supervisión."
+        },
+        "quiz_2_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n🔑 Las plataformas para redes sociales tienen restricciones de edad por algo. \n\n👀 Las niñas y los niños más pequeños no deben tener cuentas en las redes sociales sin la orientación y supervisión de una persona adulta, ya que pueden encontrarse con contenidos o interacciones inapropiados."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "✨ ¡Correcto!\n\n🔑 Las plataformas para redes sociales tienen restricciones de edad por algo. \n\n👀 Las niñas y los niños más pequeños no deben tener cuentas en las redes sociales sin la orientación y supervisión de una persona adulta, ya que pueden encontrarse con contenidos o interacciones inapropiados."
+        }
+      },
+      "text_2": "¡Empecemos con un ejercicio!",
+      "quiz_1_question": "Las madres, los padres y las personas cuidadoras deben establecer límites de tiempo de uso diario de internet para sus adolescentes.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_feedback_1": "🎉 ¡Correcto!\n\n⏰ Establecer límites de tiempo puede ayudar a equilibrar las actividades que hacen en línea con otras que también son importantes, como la tarea, ayudar en los deberes de la casa y las actividades físicas.",
+      "quiz_1_option_2_text": "Falso",
+      "quiz_1_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\n⏰ Establecer límites de tiempo puede ayudar a equilibrar las actividades que hacen en línea con otras que también son importantes, como la tarea, ayudar en los deberes de la casa y las actividades físicas.",
+      "quiz_2_question": "Es seguro que las niñas y los niños más pequeños tengan sus cuentas en las redes sociales sin supervisión.",
+      "quiz_2_option_1_text": "Verdadero",
+      "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🔑 Las plataformas para redes sociales tienen restricciones de edad por algo. \n\n👀 Las niñas y los niños más pequeños no deben tener cuentas en las redes sociales sin la orientación y supervisión de una persona adulta, ya que pueden encontrarse con contenidos o interacciones inapropiados.",
+      "quiz_2_option_2_text": "Falso",
+      "quiz_2_feedback_2": "✨ ¡Correcto!\n\n🔑 Las plataformas para redes sociales tienen restricciones de edad por algo. \n\n👀 Las niñas y los niños más pequeños no deben tener cuentas en las redes sociales sin la orientación y supervisión de una persona adulta, ya que pueden encontrarse con contenidos o interacciones inapropiados."
+    },
+    {
+      "id": "comic_1",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1MUKy2zrWxeVl1jG7vrtrQN7vkMrHOXn6/view?usp=drive_link",
+      "character_1_id": "F1_MADRE",
+      "character_2_id": "F1_HIJO_17",
+      "nested": false,
+      "text_1_facilitator": "Aquí tienes un ejemplo de cómo asegurar que tu adolescente navegue por internet con seguridad.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Aquí tienes un ejemplo de cómo asegurar que tu adolescente navegue por internet con seguridad."
+        },
+        "character_1_text": {
+          "eng": "{F1_HIJO_17}, ¿ya hiciste la tarea?"
+        },
+        "character_2_text": {
+          "eng": "Un momento, estoy terminando este video de Tik Tok."
+        }
+      },
+      "character_1_text": "{F1_HIJO_17}, ¿ya hiciste la tarea?",
+      "character_2_text": "Un momento, estoy terminando este video de Tik Tok."
+    },
+    {
+      "id": "comic_2",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1MBnKOjaLIWYCoF4vp5ESa6cu0oqvjTCO/view?usp=drive_link",
+      "character_1_id": "F1_MADRE",
+      "character_2_id": "F1_HIJO_17",
+      "nested": false,
+      "character_1_text": "¡Bailas muy bien! Cuéntame, ¿por qué te gusta tanto?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Bailas muy bien! Cuéntame, ¿por qué te gusta tanto?"
+        },
+        "character_2_text": {
+          "eng": "Es que todas mis amistades lo usan. Ya tengo más de 600 me gusta y 120 seguidores."
+        }
+      },
+      "character_2_text": "Es que todas mis amistades lo usan. Ya tengo más de 600 me gusta y 120 seguidores."
+    },
+    {
+      "id": "comic_3",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1lBuD86lE_5VbPUOEGTWChzXG_7QqNNgu/view?usp=drive_link",
+      "character_1_id": "F1_MADRE",
+      "nested": false,
+      "character_1_text": "Estoy orgullosa de lo bien que bailas, Camilo. Hablemos un poco sobre la seguridad en Tik Tok. Aunque es divertido compartir con tus amistades, debemos tener cuidado. Algunas personas mayores pueden intentar hablar con adolescentes en las redes. A veces, pueden ser personas mayores peligrosas y querer agredir a niñas, niños pequeños y adolescentes. A estas personas se les llama pedófilos.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Estoy orgullosa de lo bien que bailas, Camilo. Hablemos un poco sobre la seguridad en Tik Tok. Aunque es divertido compartir con tus amistades, debemos tener cuidado. Algunas personas mayores pueden intentar hablar con adolescentes en las redes. A veces, pueden ser personas mayores peligrosas y querer agredir a niñas, niños pequeños y adolescentes. A estas personas se les llama pedófilos."
+        }
+      }
+    },
+    {
+      "id": "comic_4",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1VQ0Qc4BsQr0_RcmTYoXkmoUzgwOdQKWK/view?usp=drive_link",
+      "character_1_id": "F1_MADRE",
+      "nested": false,
+      "character_1_text": "Vamos a buscar juntos cómo podemos hacer que esto sea divertido para ti, pero que también sea seguro. ¡Mira!, puedes hacer que tu cuenta sea privada y controlar quién te sigue. Así puedes aceptar a gente que conoces pero no a personas desconocidas. ¿Podemos hacer una regla en donde tengas permitido usar Tik Tok pero con una cuenta privada? ¡Confío en que sepas a quién aceptar y a quién no!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Vamos a buscar juntos cómo podemos hacer que esto sea divertido para ti, pero que también sea seguro. ¡Mira!, puedes hacer que tu cuenta sea privada y controlar quién te sigue. Así puedes aceptar a gente que conoces pero no a personas desconocidas. ¿Podemos hacer una regla en donde tengas permitido usar Tik Tok pero con una cuenta privada? ¡Confío en que sepas a quién aceptar y a quién no!"
+        }
+      }
+    },
+    {
+      "id": "comic_5",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1gDLOk75m-aCnAWNirbye3vKXSJ2JgGIK/view?usp=drive_link",
+      "character_1_id": "F1_MADRE",
+      "nested": false,
+      "character_1_text": "Estoy orgullosa de que me hayas enseñado tu cuenta y de que hayas tomado medidas para estar seguro al usar el internet.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Estoy orgullosa de que me hayas enseñado tu cuenta y de que hayas tomado medidas para estar seguro al usar el internet."
+        }
+      }
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link",
+      "nested": false,
+      "text_1_facilitator": "Mantener la seguridad de {tu adolescente} al navegar por internet es un paso importante para ayudarle a formar parte del mundo digital. 📱\n\nVamos a aprender 4️⃣ estrategias para mantener la seguridad de {tu adolescente} al navegar por internet:\n1️⃣ APRENDER\n2️⃣ PROTEGER\n3️⃣ CONSTRUIR HÁBITOS SEGUROS\n4️⃣ CONSTRUIR CONFIANZA\n\nAquí tienes un vídeo sobre APRENDER y PROTEGER ✨. En la próxima lección aprenderemos sobre CONSTRUIR HÁBITOS SEGUROS y CONSTRUIR CONFIANZA.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Mantener la seguridad de {tu adolescente} al navegar por internet es un paso importante para ayudarle a formar parte del mundo digital. 📱\n\nVamos a aprender 4️⃣ estrategias para mantener la seguridad de {tu adolescente} al navegar por internet:\n1️⃣ APRENDER\n2️⃣ PROTEGER\n3️⃣ CONSTRUIR HÁBITOS SEGUROS\n4️⃣ CONSTRUIR CONFIANZA\n\nAquí tienes un vídeo sobre APRENDER y PROTEGER ✨. En la próxima lección aprenderemos sobre CONSTRUIR HÁBITOS SEGUROS y CONSTRUIR CONFIANZA."
+        }
+      }
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "https://drive.google.com/file/d/1yuMaNGzZNRXTUkoIoYGxcyps__hKv0KX/view?usp=drive_link",
+      "section_2_icon_asset": "https://drive.google.com/file/d/1JYdcbkVuoMB64KZFOtWUd01yErpe19ac/view?usp=drive_link",
+      "nested": false,
+      "text_1_facilitator": "Recuerda las primeras 2️⃣ de  4️⃣ estrategias para mantener la seguridad de {tu adolescente} al navegar por internet:\n1️⃣ APRENDER\n2️⃣ PROTEGER",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Recuerda las primeras 2️⃣ de  4️⃣ estrategias para mantener la seguridad de {tu adolescente} al navegar por internet:\n1️⃣ APRENDER\n2️⃣ PROTEGER"
+        },
+        "section_1_title": {
+          "eng": "APRENDER"
+        },
+        "section_1_text": {
+          "eng": "Sobre los diferentes peligros de navegar en internet:\n\n🚩 CONTENIDO: {Tu adolescente} podría encontrarse con contenido dañino, como violencia, discursos que inciten al odio, pornografía o información errónea. Esto también podría incluir información que promueva el odio hacia las mujeres, a las personas con discapacidad o a personas con otras creencias o valores, contrarios a los que quieres enseñarle a tu adolescente.\n\n🚩 CONTACTO: Los adultos pueden hacerse pasar por adolescentes y pedir fotos sexuales o quedar de verse con tu adolescente a través de una plataforma virtual.\n\n🚩 CONDUCTA: A veces, algunos adolescentes o personas desconocidas pueden decir o hacer cosas hirientes en internet."
+        },
+        "section_2_title": {
+          "eng": "PROTEGER"
+        },
+        "section_2_text": {
+          "eng": "Mantén a tu adolescente a salvo al navegar por internet:\n\n✅ Conversa con  tu niña, niño o adolescente sobre qué aplicaciones y sitios web utiliza con frecuencia y cuales no utiliza tan frecuentemente. Dialoguen sobre los riesgos en la actualidad. \n✅ Ayúdale a  tu niña, niño o adolescente  a aprender a crear contraseñas seguras para proteger sus dispositivos.  \n✅ Dile a  tu niña, niño o adolescente  que su información personal se debe mantener en privado, incluidas las fotos o vídeos de ellos mismos. ¡Lo que se sube al internet se queda en internet y puede ser utilizado para fines inapropiados!"
+        }
+      },
+      "section_1_title": "APRENDER",
+      "section_1_text": "Sobre los diferentes peligros de navegar en internet:\n\n🚩 CONTENIDO: {Tu adolescente} podría encontrarse con contenido dañino, como violencia, discursos que inciten al odio, pornografía o información errónea. Esto también podría incluir información que promueva el odio hacia las mujeres, a las personas con discapacidad o a personas con otras creencias o valores, contrarios a los que quieres enseñarle a tu adolescente.\n\n🚩 CONTACTO: Los adultos pueden hacerse pasar por adolescentes y pedir fotos sexuales o quedar de verse con tu adolescente a través de una plataforma virtual.\n\n🚩 CONDUCTA: A veces, algunos adolescentes o personas desconocidas pueden decir o hacer cosas hirientes en internet.",
+      "section_2_title": "PROTEGER",
+      "section_2_text": "Mantén a tu adolescente a salvo al navegar por internet:\n\n✅ Conversa con  tu niña, niño o adolescente sobre qué aplicaciones y sitios web utiliza con frecuencia y cuales no utiliza tan frecuentemente. Dialoguen sobre los riesgos en la actualidad. \n✅ Ayúdale a  tu niña, niño o adolescente  a aprender a crear contraseñas seguras para proteger sus dispositivos.  \n✅ Dile a  tu niña, niño o adolescente  que su información personal se debe mantener en privado, incluidas las fotos o vídeos de ellos mismos. ¡Lo que se sube al internet se queda en internet y puede ser utilizado para fines inapropiados!"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "Pregúntale a {tu adolescente} qué hace para mantener su seguridad al usar el internet. 👂 Puede que descubras que ya piensa en la ciberseguridad. \n💡Felicítalo por cualquier esfuerzo que ya esté haciendo.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Pregúntale a {tu adolescente} qué hace para mantener su seguridad al usar el internet. 👂 Puede que descubras que ya piensa en la ciberseguridad. \n💡Felicítalo por cualquier esfuerzo que ya esté haciendo."
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes hacerlo hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Estupendo! Ayudarle a {tu adolescente} a mantener su seguridad al navegar por internet es importante para que pueda aprender y pueda conectar con los demás.\n\n¡Qué bueno que te estás involucrando, así tu adolescente estará a salvo! 🔑"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Entendemos. Aparta un poco de tiempo esta semana para hacer esta actividad con {tu adolescente}. ⏰ \n\nEs importante hablar con nuestros adolescentes sobre cómo procurar su seguridad al navegar por internet para que puedan moverse en el mundo digital con el fin de aprender más y conectar con los demás. ¡Tú puedes hacerlo! ⭐"
+        }
+      },
+      "quiz_1_question": "¿Puedes hacerlo hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "¡Estupendo! Ayudarle a {tu adolescente} a mantener su seguridad al navegar por internet es importante para que pueda aprender y pueda conectar con los demás.\n\n¡Qué bueno que te estás involucrando, así tu adolescente estará a salvo! 🔑",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "Entendemos. Aparta un poco de tiempo esta semana para hacer esta actividad con {tu adolescente}. ⏰ \n\nEs importante hablar con nuestros adolescentes sobre cómo procurar su seguridad al navegar por internet para que puedan moverse en el mundo digital con el fin de aprender más y conectar con los demás. ¡Tú puedes hacerlo! ⭐"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "PA modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

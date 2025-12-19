@@ -1,0 +1,400 @@
+{
+  "flow_type": "generator",
+  "flow_name": "gen_prep_categories",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "modules",
+    "output_flow_name": "prep_{@gen.id}_categories",
+    "output_flow_type": "data_pipe",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "operation": "append_columns",
+      "input_source": "common_categories",
+      "output_target": "{@gen.id}_category_tasks"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_global",
+    "path": "PLH modules_data_pipes.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/19AalUbQp0r3QwEz82OPw-aq80SFtROYZBkhQ3Xp8rNs"
+  },
+  "_output_flows": [
+    {
+      "flow_name": "prep_i_one_on_one_c_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_i_give_praise_c_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_i_routines_c_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_i_feelings_c_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_i_calm_c_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_i_one_on_one_t_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_i_give_praise_t_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_i_routines_t_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_i_feelings_t_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_i_calm_t_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_ipv_1_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_ipv_2_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_ipv_3_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_ipv_4_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_ipv_5_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_keep_safe_c_1_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_keep_safe_c_2_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_keep_safe_c_3_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_keep_safe_c_4_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_keep_safe_c_5_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_keep_safe_c_6_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_keep_safe_c_7_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_keep_safe_c_8_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_keep_safe_c_9_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_ks_c_safey_t_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_ks_s_violence_t_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_ks_crises_f_t_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_ks_crises_m_t_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_ks_online_safety_t_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_ks_online_habits_t_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_Manage_behaviour_c_1_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_Manage_behaviour_c_2_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_Manage_behaviour_c_3_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_Manage_behaviour_c_4_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_Manage_behaviour_c_5_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_Manage_behaviour_c_6_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_Manage_behaviour_c_7_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_Manage_behaviour_t_1_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_Manage_behaviour_t_2_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_Manage_behaviour_t_3_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_Manage_behaviour_t_4_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_Manage_behaviour_t_5_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_Manage_behaviour_t_6_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_School_c_1_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_School_c_2_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_School_c_3_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_School_c_4_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_School_c_5_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_School_c_6_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_School_c_7_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_School_c_8_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_School_c_9_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_School_c_10_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_School_c_11_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_School_c_12_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_School_t_13_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_School_t_14_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_School_t_15_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_School_t_16_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_School_t_17_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_develop_c_1_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_develop_c_2_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_develop_c_3_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_develop_c_4_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_develop_c_5_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_develop_c_6_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_develop_c_7_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_understand_t_1_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_understand_t_2_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_understand_t_3_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_understand_t_4_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_understand_t_5_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_understand_t_6_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_understand_t_7_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_understand_t_8_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    }
+  ]
+}

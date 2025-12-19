@@ -1,0 +1,182 @@
+{
+  "flow_type": "template",
+  "flow_name": "footer",
+  "status": "released",
+  "rows": [
+    {
+      "name": "home",
+      "value": "@global.home",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "home",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.home",
+            "matchedExpression": "@global.home",
+            "type": "global",
+            "fieldName": "home"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.home": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "settings",
+      "value": "@global.settings",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "settings",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.settings",
+            "matchedExpression": "@global.settings",
+            "type": "global",
+            "fieldName": "settings"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.settings": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "library",
+      "value": "@global.library",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "library",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.library",
+            "matchedExpression": "@global.library",
+            "type": "global",
+            "fieldName": "library"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.library": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "button_list",
+      "value": [
+        {
+          "name": "home_button",
+          "label": "@local.home",
+          "icon": "images/icons/home.svg",
+          "active_icon": "images/icons/home_active.svg",
+          "target_template": "home_screen"
+        },
+        {
+          "name": "library_button",
+          "label": "@local.library",
+          "icon": "images/icons/local_library.svg",
+          "active_icon": "images/icons/local_library_active.svg",
+          "target_template": "activity_library"
+        },
+        {
+          "name": "settings_button",
+          "label": "@local.settings",
+          "icon": "images/icons/settings.svg",
+          "active_icon": "images/icons/settings_active.svg",
+          "target_template": "settings"
+        }
+      ],
+      "type": "set_variable",
+      "_nested_name": "button_list",
+      "_dynamicFields": {
+        "value": {
+          "0": {
+            "label": [
+              {
+                "fullExpression": "@local.home",
+                "matchedExpression": "@local.home",
+                "type": "local",
+                "fieldName": "home"
+              }
+            ]
+          },
+          "1": {
+            "label": [
+              {
+                "fullExpression": "@local.library",
+                "matchedExpression": "@local.library",
+                "type": "local",
+                "fieldName": "library"
+              }
+            ]
+          },
+          "2": {
+            "label": [
+              {
+                "fullExpression": "@local.settings",
+                "matchedExpression": "@local.settings",
+                "type": "local",
+                "fieldName": "settings"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.home": [
+          "value.0.label"
+        ],
+        "@local.library": [
+          "value.1.label"
+        ],
+        "@local.settings": [
+          "value.2.label"
+        ]
+      }
+    },
+    {
+      "type": "plh_bottom_nav",
+      "parameter_list": {
+        "button_list": "@local.button_list"
+      },
+      "name": "plh_bottom_nav_6",
+      "_nested_name": "plh_bottom_nav_6",
+      "_dynamicFields": {
+        "parameter_list": {
+          "button_list": [
+            {
+              "fullExpression": "@local.button_list",
+              "matchedExpression": "@local.button_list",
+              "type": "local",
+              "fieldName": "button_list"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.button_list": [
+          "parameter_list.button_list"
+        ]
+      }
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_global",
+    "path": "PLH app_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1jWVWtpRFixLG5K_m2vQIKnhqTMAIq6_F0pSdApBQ1jc"
+  }
+}

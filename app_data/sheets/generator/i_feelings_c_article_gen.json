@@ -1,0 +1,90 @@
+{
+  "flow_type": "generator",
+  "flow_name": "i_feelings_c_article_gen",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "i_feelings_c_articles",
+    "output_flow_name": "article_i_feelings_c_@gen.id",
+    "output_flow_type": "template",
+    "output_flow_subtype": "generated"
+  },
+  "module_id": "i_feelings_c",
+  "rows": [
+    {
+      "type": "template",
+      "name": "article",
+      "value": "article",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "article_id",
+          "value": "@gen.id"
+        },
+        {
+          "name": "module_id",
+          "value": "i_feelings_c",
+          "exclude_from_translation": true
+        }
+      ]
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "PA article template generators.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/176AwCx-wWqkxNVZBRMV2gjjY5K3U3C8sK9JjTepzMwU"
+  },
+  "_output_flows": [
+    {
+      "flow_name": "article_i_feelings_c_intro_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_feelings_c_comic_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_feelings_c_comic_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_feelings_c_comic_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_feelings_c_comic_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_feelings_c_practical_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_feelings_c_practise_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
+}

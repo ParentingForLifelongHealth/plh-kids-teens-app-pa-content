@@ -1,0 +1,299 @@
+{
+  "flow_name": "ks_s_violence_t_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transript": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_1",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Take a moment to check in with yourself."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Wonderful, I am so happy things are going well."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Take a moment to check in with yourself.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
+      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
+      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Esta lección trata sobre cómo mantener a nuestras y nuestros adolescentes a salvo de la violencia sexual, por lo que es importante que la revises junto con  {tu adolescente} una vez que la hayas podido repasar previamente. \n\nNo está mal preocuparte por la posibilidad de que tu adolescente sufra violencia sexual. Mantener a nuestros adolescentes a salvo es más fácil cuando las madres, los padres, las personas cuidadoras y los mismos adolescentes saben qué hacer en situaciones de peligro.\n\n❗Si te molesta o sientes incomodidad, respira profundo o habla con alguien de confianza antes de continuar.\n\n💡 Recuerda que, si necesitas orientación sobre un tema de crianza o situación con tu niña, niño o adolescente, puedes hacer click en la palabra AYUDA para recibir una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo."
+        },
+        "text_2": {
+          "eng": "Echemos un vistazo a estos escenarios hipotéticos. ¿Qué señales de alerta ves?"
+        },
+        "quiz_1_question": {
+          "eng": "Ejercicio 1: Acoso verbal en la calle\nJoven: \"¡Ey, guapa, por qué caminas tan rápido! ¿No quieres venir a enseñarnos a mi amigo y a mí lo que hay debajo de esa falda?\"  \n\n⚠️ ¿Qué señales de alerta ves?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "El joven le hace un cumplido a la adolescente"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\nEl joven hizo un comentario sin que se lo pidieran y fue de tipo sexual e inapropiado. Tiene que entender que la adolescente no lo ve como un cumplido o simple piropo, más bien lo encuentra estresante.  \n\nEn esta situación, el amigo del joven debería levantar la voz y decirle que su comportamiento es inadecuado. Tanto las chicas como los chicos encuentran estresante e incómodo el sufrir de acoso en lugares públicos como las calles"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "El joven le demuestra mucha atención a la adolescente"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\nEl joven hizo un comentario sin que se lo pidieran y fue de tipo sexual e inapropiado. Tiene que entender que la adolescente no lo ve como un cumplido o simple piropo, más bien lo encuentra estresante.  \n\nEn esta situación, el amigo del joven debería levantar la voz y decirle que su comportamiento es inadecuado. Tanto las chicas como los chicos encuentran estresante e incómodo el sufrir de acoso en lugares públicos como las calles"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "El joven hace comentarios sexuales inapropiados sin que se le pregunte nada"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "🎉 Es correcto. El joven hizo un comentario sin que se lo pidieran y fue de tipo sexual e inapropiado. Tiene que entender que la adolescente no lo ve como un cumplido o simple piropo, sino que más bien lo encuentra estresante.  \n\nEn esta situación, el amigo del joven debería levantar la voz y decirle que su comportamiento es inadecuado. Tanto las chicas como los chicos encuentran estresante e incómodo el sufrir de acoso en lugares públicos como las calles."
+        },
+        "quiz_2_question": {
+          "eng": "Ejercicio 2. Abuso de poder\nTutor: \"{F2_HIJA_17}, si quieres mejorar tus calificaciones este año encontrémonos el fin de semana.\"\n{F2_HIJA_17}: \"Mi amiga al igual que yo necesita ayuda. ¿Puedo invitarla también?\"\nTutor: \"No, este será nuestro secreto. No querrás que la gente piense que doy tutorías gratis a todo el mundo, ¿verdad? Esta sería una tutoría especial para ti\"\n\n⚠️¿Cuáles son las señales de alerta que ves?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "El tutor abusa de su poder y presiona a la adolescente"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "Así es. \n\n🚩 El tutor está abusando de su poder y sabe que lo que hace está mal. Probablemente ya lo ha hecho antes y lo volverá a hacer, así que {F2_HIJA_17} debe contárselo a una persona adulta de confianza."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "El tutor intenta ayudar a la adolescente con las tareas escolares"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\nLa respuesta es: \"El docente abusa de su poder y está presionando a la adolescente.\"\n\n🚩 El tutor está abusando de su poder y sabe que lo que hace está mal. Probablemente ya lo ha hecho antes y lo volverá a hacer, así que {F2_HIJA_17} debe contárselo a una persona adulta de confianza."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "La adolescente pide incluir a una amiga o a un amigo"
+        },
+        "quiz_2_feedback_3": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\nLa respuesta es: \"El docente abusa de su poder y está presionando a la adolescente.\"\n\n🚩 El tutor está abusando de su poder y sabe que lo que hace está mal. Probablemente ya lo ha hecho antes y lo volverá a hacer, así que {F2_HIJA_17} debe contárselo a una persona adulta de confianza."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\nEl joven hizo un comentario sin que se lo pidieran y fue de tipo sexual e inapropiado. Tiene que entender que la adolescente no lo ve como un cumplido o simple piropo, más bien lo encuentra estresante.  \n\nEn esta situación, el amigo del joven debería levantar la voz y decirle que su comportamiento es inadecuado. Tanto las chicas como los chicos encuentran estresante e incómodo el sufrir de acoso en lugares públicos como las calles",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {}
+      },
+      "quiz_1_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\nEl joven hizo un comentario sin que se lo pidieran y fue de tipo sexual e inapropiado. Tiene que entender que la adolescente no lo ve como un cumplido o simple piropo, más bien lo encuentra estresante.  \n\nEn esta situación, el amigo del joven debería levantar la voz y decirle que su comportamiento es inadecuado. Tanto las chicas como los chicos encuentran estresante e incómodo el sufrir de acoso en lugares públicos como las calles",
+      "quiz_1_feedback_3": "🎉 Es correcto. El joven hizo un comentario sin que se lo pidieran y fue de tipo sexual e inapropiado. Tiene que entender que la adolescente no lo ve como un cumplido o simple piropo, sino que más bien lo encuentra estresante.  \n\nEn esta situación, el amigo del joven debería levantar la voz y decirle que su comportamiento es inadecuado. Tanto las chicas como los chicos encuentran estresante e incómodo el sufrir de acoso en lugares públicos como las calles.",
+      "quiz_1_question": "Ejercicio 1: Acoso verbal en la calle\nJoven: \"¡Ey, guapa, por qué caminas tan rápido! ¿No quieres venir a enseñarnos a mi amigo y a mí lo que hay debajo de esa falda?\"  \n\n⚠️ ¿Qué señales de alerta ves?",
+      "quiz_1_option_1_text": "El joven le hace un cumplido a la adolescente",
+      "quiz_1_option_2_text": "El joven le demuestra mucha atención a la adolescente",
+      "quiz_1_option_3_text": "El joven hace comentarios sexuales inapropiados sin que se le pregunte nada",
+      "text_1_facilitator": "Esta lección trata sobre cómo mantener a nuestras y nuestros adolescentes a salvo de la violencia sexual, por lo que es importante que la revises junto con  {tu adolescente} una vez que la hayas podido repasar previamente. \n\nNo está mal preocuparte por la posibilidad de que tu adolescente sufra violencia sexual. Mantener a nuestros adolescentes a salvo es más fácil cuando las madres, los padres, las personas cuidadoras y los mismos adolescentes saben qué hacer en situaciones de peligro.\n\n❗Si te molesta o sientes incomodidad, respira profundo o habla con alguien de confianza antes de continuar.\n\n💡 Recuerda que, si necesitas orientación sobre un tema de crianza o situación con tu niña, niño o adolescente, puedes hacer click en la palabra AYUDA para recibir una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo.",
+      "text_2": "Echemos un vistazo a estos escenarios hipotéticos. ¿Qué señales de alerta ves?",
+      "quiz_2_question": "Ejercicio 2. Abuso de poder\nTutor: \"{F2_HIJA_17}, si quieres mejorar tus calificaciones este año encontrémonos el fin de semana.\"\n{F2_HIJA_17}: \"Mi amiga al igual que yo necesita ayuda. ¿Puedo invitarla también?\"\nTutor: \"No, este será nuestro secreto. No querrás que la gente piense que doy tutorías gratis a todo el mundo, ¿verdad? Esta sería una tutoría especial para ti\"\n\n⚠️¿Cuáles son las señales de alerta que ves?",
+      "quiz_2_option_1_text": "El tutor abusa de su poder y presiona a la adolescente",
+      "quiz_2_feedback_1": "Así es. \n\n🚩 El tutor está abusando de su poder y sabe que lo que hace está mal. Probablemente ya lo ha hecho antes y lo volverá a hacer, así que {F2_HIJA_17} debe contárselo a una persona adulta de confianza.",
+      "quiz_2_option_2_text": "El tutor intenta ayudar a la adolescente con las tareas escolares",
+      "quiz_2_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\nLa respuesta es: \"El docente abusa de su poder y está presionando a la adolescente.\"\n\n🚩 El tutor está abusando de su poder y sabe que lo que hace está mal. Probablemente ya lo ha hecho antes y lo volverá a hacer, así que {F2_HIJA_17} debe contárselo a una persona adulta de confianza.",
+      "quiz_2_option_3_text": "La adolescente pide incluir a una amiga o a un amigo",
+      "quiz_2_feedback_3": "👀 ¡Ups! ¡Buen intento!\n\nLa respuesta es: \"El docente abusa de su poder y está presionando a la adolescente.\"\n\n🚩 El tutor está abusando de su poder y sabe que lo que hace está mal. Probablemente ya lo ha hecho antes y lo volverá a hacer, así que {F2_HIJA_17} debe contárselo a una persona adulta de confianza.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "💚 En una situación de peligro, puede que no sepamos qué hacer y nos quedemos paralizados o respondamos con enojo; esto es normal.\n\nPresiona reoproducir ▶️ para aprender las herramientas que pueden ayudarte a mantener tu seguridad y la de tu adolescente:\n1️⃣SABER\n2️⃣ OBSERVAR\n3️⃣COMUNICAR"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "💚 En una situación de peligro, puede que no sepamos qué hacer y nos quedemos paralizados o respondamos con enojo; esto es normal.\n\nPresiona reoproducir ▶️ para aprender las herramientas que pueden ayudarte a mantener tu seguridad y la de tu adolescente:\n1️⃣SABER\n2️⃣ OBSERVAR\n3️⃣COMUNICAR",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Recuerda las 3️⃣ estrategias que te ayudarán a mantener a tu adolescente a salvo de la violencia sexual."
+        },
+        "section_1_title": {
+          "eng": "SABER"
+        },
+        "section_1_text": {
+          "eng": "🚩 Debes SABER la diferencia entre las relaciones sanas y las que no lo son (insultos, golpes, humillaciones, restar importancia al adolescente, ignorarlo sin razón por días).\n\n🙅💚 Si tu adolescente es agredido, debe de saber que nunca es su culpa.  \n\n⭐ Tu adolescente debe de tener claro que puede decir y hacer lo que sea necesario para mantenerse a salvo y escapar, que no se preocupe por lo que puedan pensar las demás personas. Tu adolescente es una persona valiosa que merece defenderse y ser defendida. Deben de sentir que son fuertes y valientes."
+        },
+        "section_2_title": {
+          "eng": "OBSERVAR"
+        },
+        "section_2_text": {
+          "eng": "✅ Cuando alguien dice o hace algo que incomoda a {tu adolescente}, ¡no está bien! Todas y todos tenemos derecho a estar en un ambiente seguro, sobre todo en la casa, la escuela y en nuestra comunidad.\n\n👆🏼 Dile a {tu adolescente} que siga su intuición. Cuando {tu adolescente} sienta una agresión, ya sea con palabras o acciones, su objetivo es alejarse."
+        },
+        "section_3_title": {
+          "eng": "COMUNICAR"
+        },
+        "section_3_text": {
+          "eng": "💡 Dile a {tu adolescente} que su voz tiene el poder de detener las amenazas y las agresiones. Que grite \"¡No!\", pida ayuda, comunique las consecuencias, nombre el comportamiento, genere una situación que llame la atención, finja que sigue la corriente para ganar tiempo o que busque tranquilizar la situación.\n\n⭐ Dile a {tu adolescente} que se dirija con claridad, seguridad y sin rodeos.\n\n👀 Puede comunicarse usando su voz, el lenguaje corporal y manteniendo contacto visual mientras habla.\n\n✅ Dile a {tu adolescente} que siempre puede contarte a ti o a una persona adulta en quien confíe lo ocurrido para que puedan apoyarle.\n\nRecuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con tu niña, niño o adolescente, puedes hacer click en la palabra AYUDA para recibir una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo."
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "Recuerda las 3️⃣ estrategias que te ayudarán a mantener a tu adolescente a salvo de la violencia sexual.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {}
+      },
+      "section_1_icon_asset": "https://drive.google.com/file/d/1yuMaNGzZNRXTUkoIoYGxcyps__hKv0KX/view?usp=drive_link",
+      "section_2_icon_asset": "https://drive.google.com/file/d/1JYdcbkVuoMB64KZFOtWUd01yErpe19ac/view?usp=drive_link",
+      "section_3_icon_asset": "https://drive.google.com/file/d/1GGu-Iy1PmdyDtB2h_Q23fxyUsR0FqGhn/view?usp=drive_link",
+      "section_1_title": "SABER",
+      "section_1_text": "🚩 Debes SABER la diferencia entre las relaciones sanas y las que no lo son (insultos, golpes, humillaciones, restar importancia al adolescente, ignorarlo sin razón por días).\n\n🙅💚 Si tu adolescente es agredido, debe de saber que nunca es su culpa.  \n\n⭐ Tu adolescente debe de tener claro que puede decir y hacer lo que sea necesario para mantenerse a salvo y escapar, que no se preocupe por lo que puedan pensar las demás personas. Tu adolescente es una persona valiosa que merece defenderse y ser defendida. Deben de sentir que son fuertes y valientes.",
+      "section_2_title": "OBSERVAR",
+      "section_2_text": "✅ Cuando alguien dice o hace algo que incomoda a {tu adolescente}, ¡no está bien! Todas y todos tenemos derecho a estar en un ambiente seguro, sobre todo en la casa, la escuela y en nuestra comunidad.\n\n👆🏼 Dile a {tu adolescente} que siga su intuición. Cuando {tu adolescente} sienta una agresión, ya sea con palabras o acciones, su objetivo es alejarse.",
+      "section_3_title": "COMUNICAR",
+      "section_3_text": "💡 Dile a {tu adolescente} que su voz tiene el poder de detener las amenazas y las agresiones. Que grite \"¡No!\", pida ayuda, comunique las consecuencias, nombre el comportamiento, genere una situación que llame la atención, finja que sigue la corriente para ganar tiempo o que busque tranquilizar la situación.\n\n⭐ Dile a {tu adolescente} que se dirija con claridad, seguridad y sin rodeos.\n\n👀 Puede comunicarse usando su voz, el lenguaje corporal y manteniendo contacto visual mientras habla.\n\n✅ Dile a {tu adolescente} que siempre puede contarte a ti o a una persona adulta en quien confíe lo ocurrido para que puedan apoyarle.\n\nRecuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con tu niña, niño o adolescente, puedes hacer click en la palabra AYUDA para recibir una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo.",
+      "completed": false
+    },
+    {
+      "id": "practical_tips_2",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Si alguien le llega a hacer daño a {tu adolescente}, recuerda que nunca es su culpa. Pídele ayuda a alguien en quien confíes, y asegúrate de que {tu adolescente} sepa que puede contarte cualquier cosa para que puedan encontrar una solución en conjunto.\n\n📱 Recuerda que puedes escribir \"AYUDA\" para recibir recursos que te pueden acompañar durante el proceso y ofrecerte apoyo."
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "Si alguien le llega a hacer daño a {tu adolescente}, recuerda que nunca es su culpa. Pídele ayuda a alguien en quien confíes, y asegúrate de que {tu adolescente} sepa que puede contarte cualquier cosa para que puedan encontrar una solución en conjunto.\n\n📱 Recuerda que puedes escribir \"AYUDA\" para recibir recursos que te pueden acompañar durante el proceso y ofrecerte apoyo.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Ayuda a {tu adolescente} a saber qué hacer revisando los ejercicios anteriores de esta lección durante su tiempo juntos y conectados."
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes hacerlo hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "💙 ¡Muy bien! Esto ayudará a que tú y tu adolescente sepan cómo prevenir la violencia sexual."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "⏰ ¡Entendemos! Intenta apartar una hora en los próximos días para tener esta conversación con tu adolescente."
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "💙 ¡Muy bien! Esto ayudará a que tú y tu adolescente sepan cómo prevenir la violencia sexual.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "⏰ ¡Entendemos! Intenta apartar una hora en los próximos días para tener esta conversación con tu adolescente.",
+      "quiz_1_question": "¿Puedes hacerlo hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "Ayuda a {tu adolescente} a saber qué hacer revisando los ejercicios anteriores de esta lección durante su tiempo juntos y conectados.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

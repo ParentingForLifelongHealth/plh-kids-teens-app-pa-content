@@ -1,0 +1,22 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "onboarding_settings_pages",
+  "status": "released",
+  "data_list_name": "onboarding_settings_pages",
+  "rows": [
+    {
+      "id": "page_1",
+      "completed": false
+    }
+  ],
+  "_source": {
+    "name": "library PLH onboarding",
+    "path": "PLH onboarding.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1LUIu_aqkzYjyUq0ecQEmWJa62CEvQ4E2L4Fkz_94ydw"
+  },
+  "_metadata": {
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

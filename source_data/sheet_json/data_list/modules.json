@@ -1,0 +1,537 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "modules",
+  "data_list_name": "modules",
+  "status": "released",
+  "flow_subtype": "modules",
+  "rows": [
+    {
+      "id": "i_one_on_one_c",
+      "tag_list": "child",
+      "title::eng": "Pasar Tiempo Juntos y Conectados",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "i_give_praise_c",
+      "tag_list": "child",
+      "title::eng": "Dar Reconocimiento",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "i_routines_c",
+      "tag_list": "child",
+      "title::eng": "Crear Rutinas",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "i_feelings_c",
+      "tag_list": "child",
+      "title::eng": "Identificar Emociones",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "i_calm_c",
+      "tag_list": "child",
+      "title::eng": "Mantener La Calma Cuando Hay Estrés",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "i_one_on_one_t",
+      "tag_list": "teen",
+      "number": 2,
+      "title::eng": "Pasar Tiempo Juntos y Conectados",
+      "bottom_aligned_image_asset": "images/homescreen/listview/self_care.svg",
+      "image_asset": "images/homescreen/self_care.svg",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "i_give_praise_t",
+      "tag_list": "teen",
+      "title::eng": "Dar Reconocimiento",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "i_routines_t",
+      "tag_list": "teen",
+      "title::eng": "Crear Rutinas",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "i_feelings_t",
+      "tag_list": "teen",
+      "title::eng": "Identificar Emociones",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "i_calm_t",
+      "tag_list": "teen",
+      "title::eng": "Mantener La Calma Cuando Hay Estrés",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "ipv_1",
+      "tag_list": "both",
+      "title::eng": "Escuchar y Conversar Efectivamente",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "ipv_2",
+      "tag_list": "both",
+      "title::eng": "Tomar Decisiones en Equipo",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "ipv_3",
+      "tag_list": "both",
+      "title::eng": "Ser una Figura de Apoyo en la Crianza y con la Pareja",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "ipv_4",
+      "tag_list": "both",
+      "title::eng": "Papel de los Padres en la Crianza Compartida",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "ipv_5",
+      "tag_list": "both",
+      "title::eng": "Resolver Conflictos Pacíficamente",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "keep_safe_c_1",
+      "tag_list": "child",
+      "title::eng": "Enseñar sobre autocuidado y prevención del abuso a mi niño (2 a 5)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "keep_safe_c_2",
+      "tag_list": "child",
+      "title::eng": "Enseñar sobre autocuidado y prevención del abuso a mi niña (2 a 5)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "keep_safe_c_3",
+      "tag_list": "child",
+      "title::eng": "Enseñar sobre autocuidado y prevención del abuso a mi niña o niño (6 a 9)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "keep_safe_c_4",
+      "tag_list": "child",
+      "title::eng": "Crear un Plan de Seguridad con Mi Niña o Niño (2 a 4)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "keep_safe_c_5",
+      "tag_list": "child",
+      "title::eng": "Crear un Plan de Seguridad con Mi Niña o Niño (5 a 9)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "keep_safe_c_6",
+      "tag_list": "child",
+      "title::eng": "Saber Responder Ante Alguna Crisis (2 a 6)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "keep_safe_c_7",
+      "tag_list": "child",
+      "title::eng": "Saber Responder Ante Alguna Crisis (7 a 9)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "keep_safe_c_8",
+      "tag_list": "child",
+      "title::eng": "Usar con Responsabilidad y Seguridad los Dispositivos y Espacios Virtuales",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "keep_safe_c_9",
+      "tag_list": "child",
+      "title::eng": "Desarrollar Confianza y Hábitos Seguros para el Uso de Internet y Redes Sociales",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "ks_c_safey_t",
+      "tag_list": "teen",
+      "title::eng": "Crear un Plan de Seguridad para Mi Adolescente",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "ks_s_violence_t",
+      "tag_list": "teen",
+      "title::eng": "Prevenir la Violencia Sexual",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "ks_crises_f_t",
+      "tag_list": "teen",
+      "title::eng": "Saber Responder Ante Alguna Crisis (fem)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "ks_crises_m_t",
+      "tag_list": "teen",
+      "title::eng": "Saber Responder Ante Alguna Crisis (mas)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "ks_online_safety_t",
+      "tag_list": "teen",
+      "title::eng": "Usar con Responsabilidad y Seguridad los Dispositivos y Espacios Virtuales",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "ks_online_habits_t",
+      "tag_list": "teen",
+      "title::eng": "Desarrollar Confianza y Hábitos Seguros para el Uso de Internet y Redes Sociales",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "Manage_behaviour_c_1",
+      "tag_list": "child",
+      "title::eng": "Estrategias para Regular la Ira",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "Manage_behaviour_c_2",
+      "tag_list": "child",
+      "title::eng": "Enseñar Colaboración: Enfócarse en lo Positivo",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "Manage_behaviour_c_3",
+      "tag_list": "child",
+      "title::eng": "Acordar Reglas En Familia",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "Manage_behaviour_c_4",
+      "tag_list": "child",
+      "title::eng": "Estrategias para Reducir Problemas de Comportamiento.",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "Manage_behaviour_c_5",
+      "tag_list": "child",
+      "title::eng": "Estrategias para Reducir Problemas de Comportamiento: Consecuencias Justas.",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "Manage_behaviour_c_6",
+      "tag_list": "child",
+      "title::eng": "Resolver Problemas con Mi Niña o Niño",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "Manage_behaviour_c_7",
+      "tag_list": "child",
+      "title::eng": "Conocer el Papel de las Personas en la Familia: Todas y Todos Importamos",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "Manage_behaviour_t_1",
+      "tag_list": "teen",
+      "title::eng": "Estrategias para Regular la Ira",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "Manage_behaviour_t_2",
+      "tag_list": "teen",
+      "title::eng": "Enseñar Colaboración: Enfócarse en lo Positivo",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "Manage_behaviour_t_3",
+      "tag_list": "teen",
+      "title::eng": "Acordar Reglas En Familia",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "Manage_behaviour_t_4",
+      "tag_list": "teen",
+      "title::eng": "Estrategias para Reducir Problemas de Comportamiento: Consecuencias Justas.",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "Manage_behaviour_t_5",
+      "tag_list": "teen",
+      "title::eng": "Resolver Problemas con Mi Adolescente",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "Manage_behaviour_t_6",
+      "tag_list": "teen",
+      "title::eng": "Conocer el Papel de las Personas en la Familia: Todas y Todos Importamos",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "School_c_1",
+      "tag_list": "child",
+      "title::eng": "Estimular el Lenguaje de Mi Niña o Niño",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "School_c_2",
+      "tag_list": "child",
+      "title::eng": "Disfrutar y Favorecer la Lectura (2 a 3)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "School_c_3",
+      "tag_list": "child",
+      "title::eng": "Disfrutar y Favorecer la Lectura: Parte 1 (4 a 6)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "School_c_4",
+      "tag_list": "child",
+      "title::eng": "Disfrutar y Favorecer la Lectura: Parte 2 (4 a 6)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "School_c_5",
+      "tag_list": "child",
+      "title::eng": "Enseñar Matemáticas Divertidas y Sencillas (2 a 3)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "School_c_6",
+      "tag_list": "child",
+      "title::eng": "Enseñar Matemáticas Divertidas y Sencillas: Parte 1 (4 a 6)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "School_c_7",
+      "tag_list": "child",
+      "title::eng": "Enseñar Matemáticas Divertidas y Sencillas: Parte 2 (4 a 6)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "School_c_8",
+      "tag_list": "child",
+      "title::eng": "Involucrarse en las Actividades Escolares (3 a 9)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "School_c_9",
+      "tag_list": "child",
+      "title::eng": "Hacer Divertido el Aprendizaje",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "School_c_10",
+      "tag_list": "child",
+      "title::eng": "Apoyar el Aprendizaje de Mi Niña o Niño",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "School_c_11",
+      "tag_list": "child",
+      "title::eng": "Crear un Ambiente Positivo para el Aprendizaje de Mi Niña o Niño",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "School_c_12",
+      "tag_list": "child",
+      "title::eng": "Aprender de la Experiencia",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "School_t_13",
+      "tag_list": "teen",
+      "title::eng": "Hacer Divertido el Aprendizaje",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "School_t_14",
+      "tag_list": "teen",
+      "title::eng": "Apoyar el Aprendizaje de Mi Adolescente",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "School_t_15",
+      "tag_list": "teen",
+      "title::eng": "Crear un Ambiente Positivo y de Aprendizaje para Mi Adolescente",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "School_t_16",
+      "tag_list": "teen",
+      "title::eng": "Aprender de la Experiencia",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "School_t_17",
+      "tag_list": "teen",
+      "title::eng": "Aprender a Trabajar en Equipo",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "develop_c_1",
+      "tag_list": "child",
+      "title::eng": "Regular el estrés para ti como madre, padre o persona cuidadora Parte 1",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "develop_c_2",
+      "tag_list": "child",
+      "title::eng": "Regular el estrés para ti como madre, padre o persona cuidadora Parte 2",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "develop_c_3",
+      "tag_list": "child",
+      "title::eng": "El Poder del Juego",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "develop_c_4",
+      "tag_list": "child",
+      "title::eng": "Estrategias para Aprender de la Experiencia",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "develop_c_5",
+      "tag_list": "child",
+      "title::eng": "Conocer los Cambios de Mi Niña o Niño (2 a 3)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "develop_c_6",
+      "tag_list": "child",
+      "title::eng": "Conocer los Cambios de Mi Niña o Niño (4 a 6)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "develop_c_7",
+      "tag_list": "child",
+      "title::eng": "Conocer los Cambios de Mi Niña o Niño (7 a 9)",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "understand_t_1",
+      "tag_list": "teen",
+      "title::eng": "Regular el estrés para ti como madre, padre o persona cuidadora Parte 1",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "understand_t_2",
+      "tag_list": "teen",
+      "title::eng": "Regular el estrés para ti como madre, padre o persona cuidadora Parte 2",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "understand_t_3",
+      "tag_list": "teen",
+      "title::eng": "Fomentar la Confianza de Mi Adolescente",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "understand_t_4",
+      "tag_list": "teen",
+      "title::eng": "Cultivar la Motivación de Construir un Futuro en mi Adolescente",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "understand_t_5",
+      "tag_list": "teen",
+      "title::eng": "Ayudar a Mi Adolescente a Enfrentar el Estrés",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "understand_t_6",
+      "tag_list": "teen",
+      "title::eng": "Tristeza y Depresión: Diferencias y Cómo Actuar",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "understand_t_7",
+      "tag_list": "teen",
+      "title::eng": "Ansiedad: Qué Es y Cómo Actuar",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    },
+    {
+      "id": "understand_t_8",
+      "tag_list": "teen",
+      "title::eng": "Conocer las Señales de Alarma para Detectar Situaciones de Riesgo",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1"
+    }
+  ]
+}

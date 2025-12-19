@@ -1,0 +1,44 @@
+{
+  "flow_type": "template",
+  "flow_name": "library",
+  "status": "released",
+  "rows": [
+    {
+      "type": "begin_display_group",
+      "name": "heading"
+    },
+    {
+      "type": "title",
+      "name": "title",
+      "value": "@global.library",
+      "parameter_list": "style: tiny;"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_items",
+      "value": "@data.library"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_@item.id",
+      "condition": "@item.show",
+      "parameter_list": "style:column"
+    },
+    {
+      "type": "button",
+      "name": "button_@item.id",
+      "value": "@item.title",
+      "action_list": "click | go_to: @item.template",
+      "exclude_from_translation": true,
+      "parameter_list": "style: card"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_items"
+    }
+  ]
+}

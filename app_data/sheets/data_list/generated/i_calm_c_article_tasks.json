@@ -1,0 +1,329 @@
+{
+  "flow_name": "i_calm_c_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transript": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_1",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Take a moment to check in with yourself."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Wonderful, I am so happy things are going well."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Take a moment to check in with yourself.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
+      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
+      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Esta lección trata sobre cómo podemos mantener la calma cuando hay estrés y regular nuestro enojo cuando enfrentamos situaciones frustrantes con nuestras niñas y niños. 💚"
+        },
+        "text_2": {
+          "eng": "🌷 Conforme empieces a observar tus sentimientos y emociones, podrías notar alguno de ellos, como enojo, frustración o tristeza.  \n\nEs verdad que amamos a nuestras niñas, niños y adolescentes, y también es cierto que el estrés de cuidarles y otros eventos del día a día pueden llevarnos a sentir enojo. ¡Esto es parte de la vida!  \n\n💡 Es importante que intentemos mantener la calma cuando hay estrés para poder regular nuestro enojo y evitar lastimar o herir a las y los demás."
+        },
+        "quiz_1_question": {
+          "eng": "¡Hagamos un ejercicio! Cuando me enojo con mi niña o mi niño, debo demostrar cómo me siento para que deje de portarse mal."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀¡Ups! ¡Buen intento!\n\n💛 Puede ser muy difícil cuando tu niña o niño se porta mal. Intenta regular tu estrés y tu enojo antes de hacer cualquier cosa.  \n\n🌱 Respirar profundo te ayudará. Reaccionar cuando sientes enojo puede hacer que digas o hagas cosas de las que te puedes arrepentir después."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 ¡Buen trabajo!\n\n💛 Puede ser muy difícil cuando tu niña o niño se porta mal. Intenta regular tu estrés y tu enojo antes de hacer cualquier cosa.  \n\n🌱 Respirar profundo te ayudará. Reaccionar cuando sientes enojo puede hacer que digas o hagas cosas de las que te puedes arrepentir después."
+        },
+        "quiz_2_question": {
+          "eng": "Los niños y los hombres no deben conversar sobre cómo se sienten cuando están tristes o con miedo."
+        },
+        "quiz_2_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento! \n\n⭐ Es importante que niños, niñas, hombres y mujeres por igual aprendan a compartir sus sentimientos.  \n\n💙 Las niñas, niños y adolescentes deben aprender que es válido sentirse tristes o asustados y que pueden pedir ayuda cuando la necesiten, sin importar la edad y el género"
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "🎉 ¡Tienes razón! \n\n⭐ Es importante que niños, niñas, hombres y mujeres por igual aprendan a compartir sus sentimientos.  \n\n💙 Las niñas, niños y adolescentes deben aprender que es válido sentirse tristes o asustados y que pueden pedir ayuda cuando la necesiten, sin importar la edad y el género."
+        },
+        "quiz_3_question": {
+          "eng": "Como madres, padres o personas cuidadoras también podemos compartir nuestros sentimientos con nuestras niñas, niños o adolescentes."
+        },
+        "quiz_3_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_3_feedback_1": {
+          "eng": "🎉 ¡Correcto! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les modela cómo pueden hacerlo."
+        },
+        "quiz_3_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_3_feedback_2": {
+          "eng": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "👀¡Ups! ¡Buen intento!\n\n💛 Puede ser muy difícil cuando tu niña o niño se porta mal. Intenta regular tu estrés y tu enojo antes de hacer cualquier cosa.  \n\n🌱 Respirar profundo te ayudará. Reaccionar cuando sientes enojo puede hacer que digas o hagas cosas de las que te puedes arrepentir después.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_3_question": {},
+        "quiz_3_option_1_text": {},
+        "quiz_3_feedback_1": {},
+        "quiz_3_option_2_text": {},
+        "quiz_3_feedback_2": {}
+      },
+      "quiz_1_feedback_2": "🎉 ¡Buen trabajo!\n\n💛 Puede ser muy difícil cuando tu niña o niño se porta mal. Intenta regular tu estrés y tu enojo antes de hacer cualquier cosa.  \n\n🌱 Respirar profundo te ayudará. Reaccionar cuando sientes enojo puede hacer que digas o hagas cosas de las que te puedes arrepentir después.",
+      "quiz_1_question": "¡Hagamos un ejercicio! Cuando me enojo con mi niña o mi niño, debo demostrar cómo me siento para que deje de portarse mal.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_option_2_text": "Falso",
+      "text_1_facilitator": "Esta lección trata sobre cómo podemos mantener la calma cuando hay estrés y regular nuestro enojo cuando enfrentamos situaciones frustrantes con nuestras niñas y niños. 💚",
+      "text_2": "🌷 Conforme empieces a observar tus sentimientos y emociones, podrías notar alguno de ellos, como enojo, frustración o tristeza.  \n\nEs verdad que amamos a nuestras niñas, niños y adolescentes, y también es cierto que el estrés de cuidarles y otros eventos del día a día pueden llevarnos a sentir enojo. ¡Esto es parte de la vida!  \n\n💡 Es importante que intentemos mantener la calma cuando hay estrés para poder regular nuestro enojo y evitar lastimar o herir a las y los demás.",
+      "quiz_2_question": "Los niños y los hombres no deben conversar sobre cómo se sienten cuando están tristes o con miedo.",
+      "quiz_2_option_1_text": "Verdadero",
+      "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento! \n\n⭐ Es importante que niños, niñas, hombres y mujeres por igual aprendan a compartir sus sentimientos.  \n\n💙 Las niñas, niños y adolescentes deben aprender que es válido sentirse tristes o asustados y que pueden pedir ayuda cuando la necesiten, sin importar la edad y el género",
+      "quiz_2_option_2_text": "Falso",
+      "quiz_2_feedback_2": "🎉 ¡Tienes razón! \n\n⭐ Es importante que niños, niñas, hombres y mujeres por igual aprendan a compartir sus sentimientos.  \n\n💙 Las niñas, niños y adolescentes deben aprender que es válido sentirse tristes o asustados y que pueden pedir ayuda cuando la necesiten, sin importar la edad y el género.",
+      "quiz_3_question": "Como madres, padres o personas cuidadoras también podemos compartir nuestros sentimientos con nuestras niñas, niños o adolescentes.",
+      "quiz_3_option_1_text": "Verdadero",
+      "quiz_3_feedback_1": "🎉 ¡Correcto! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les modela cómo pueden hacerlo.",
+      "quiz_3_option_2_text": "Falso",
+      "quiz_3_feedback_2": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo.",
+      "completed": false
+    },
+    {
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "{F2_ABUELO} está a punto de pasar tiempo juntos y conectados con {F2_HIJO_8}, pero al llegar ve que la sala está hecha un desastre. Se da cuenta de que esta situación lo hace sentir enojado."
+        },
+        "character_1_text": {
+          "eng": "El {F2_ABUELO} está pensando: Me estoy sintiendo muy enojado. Estoy cansado y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a mi nieto {F2_HIJO_8}."
+        }
+      },
+      "nested": false,
+      "text_1_facilitator": "{F2_ABUELO} está a punto de pasar tiempo juntos y conectados con {F2_HIJO_8}, pero al llegar ve que la sala está hecha un desastre. Se da cuenta de que esta situación lo hace sentir enojado.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
+      },
+      "character_1_id": "F2_ABUELO",
+      "character_1_text": "El {F2_ABUELO} está pensando: Me estoy sintiendo muy enojado. Estoy cansado y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a mi nieto {F2_HIJO_8}.",
+      "completed": false
+    },
+    {
+      "id": "comic_2",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "El {F2_ABUELO} está pensando: Haré una pausa y pondré mi canción favorita."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "character_1_id": "F2_ABUELO",
+      "character_1_text": "El {F2_ABUELO} está pensando: Haré una pausa y pondré mi canción favorita.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "comic_3",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Un momento después."
+        },
+        "character_1_text": {
+          "eng": "El {F2_ABUELO} está pensando: Me siento más tranquilo. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_2": "Un momento después.",
+      "_translations": {
+        "text_2": {},
+        "character_1_text": {}
+      },
+      "character_1_id": "F2_ABUELO",
+      "character_1_text": "El {F2_ABUELO} está pensando: Me siento más tranquilo. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto.",
+      "completed": false
+    },
+    {
+      "id": "comic_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "{F2_HIJO_8}, ¡que buen trabajo estas haciendo con tu tarea! Puede que te sientas cansado. Descansemos 5 minutos y después de eso, podemos hacer un juego para ver quién puede recoger más rápido los juguetes."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "character_1_id": "F2_ABUELO",
+      "character_1_text": "{F2_HIJO_8}, ¡que buen trabajo estas haciendo con tu tarea! Puede que te sientas cansado. Descansemos 5 minutos y después de eso, podemos hacer un juego para ver quién puede recoger más rápido los juguetes.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "comic_5",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Gracias por poner de tu parte para mantener la casa limpia, {F2_HIJO_8}! Estoy muy orgulloso de tu esfuerzo. Es nuestro tiempo juntos y conectados. ¿Qué te gustaría hacer?"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "character_1_id": "F2_ABUELO",
+      "character_1_text": "¡Gracias por poner de tu parte para mantener la casa limpia, {F2_HIJO_8}! Estoy muy orgulloso de tu esfuerzo. Es nuestro tiempo juntos y conectados. ¿Qué te gustaría hacer?",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da clic en reproducir ▶️ para aprender las4️⃣ estrategias para saber cómo mantener la calma cuando tu niña o niño se porte mal. ☀️\n\n1️⃣ MANTENER LA CALMA\n2️⃣ ACTÚA RÁPIDO\n3️⃣ SER CLARO\n4️⃣ SER POSITIVO"
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender las4️⃣ estrategias para saber cómo mantener la calma cuando tu niña o niño se porte mal. ☀️\n\n1️⃣ MANTENER LA CALMA\n2️⃣ ACTÚA RÁPIDO\n3️⃣ SER CLARO\n4️⃣ SER POSITIVO",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con {tu niño}. Comparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos. ➡️"
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes compartir estas estrategias hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Increíble! ✨ Durante los próximos días, intenta mantener la calma cuando hay estrés y redirigir el comportamiento negativo de tu niña o niño hacia uno positivo antes de que empeore. Por ejemplo, si prevés que tu niño o niña va a tener un berrinche en el supermercado, redirígelo pidiéndole que ayude a buscar algún vegetal reconociendo que es bueno haciendo esa tarea."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡De acuerdo! 📝 Puedes empezar por practicar el \"Tomar una pausa\" incluso cuando te sientas bien. Esto te ayudará a estar más preparado para cuando te sientas estresado."
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "¡Increíble! ✨ Durante los próximos días, intenta mantener la calma cuando hay estrés y redirigir el comportamiento negativo de tu niña o niño hacia uno positivo antes de que empeore. Por ejemplo, si prevés que tu niño o niña va a tener un berrinche en el supermercado, redirígelo pidiéndole que ayude a buscar algún vegetal reconociendo que es bueno haciendo esa tarea.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "¡De acuerdo! 📝 Puedes empezar por practicar el \"Tomar una pausa\" incluso cuando te sientas bien. Esto te ayudará a estar más preparado para cuando te sientas estresado.",
+      "quiz_1_question": "¿Puedes compartir estas estrategias hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con {tu niño}. Comparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos. ➡️",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

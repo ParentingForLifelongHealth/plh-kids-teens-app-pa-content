@@ -1,0 +1,460 @@
+{
+  "flow_type": "generator",
+  "flow_name": "check_in_article_generator",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "modules",
+    "output_flow_name": "article_{@gen.id}_@gen.check_in_id",
+    "output_flow_type": "template",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "type": "template",
+      "name": "article",
+      "value": "article",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "name": "data",
+          "value": "check_in",
+          "exclude_from_translation": true
+        },
+        {
+          "name": "article_id",
+          "value": "@gen.check_in_id",
+          "exclude_from_translation": true
+        },
+        {
+          "name": "perform_category_header_computations",
+          "value": false
+        },
+        {
+          "type": "nested_properties",
+          "name": "header",
+          "rows": [
+            {
+              "name": "title",
+              "value": "Check-in"
+            },
+            {
+              "name": "icon_asset",
+              "value": "images/icons/smile_eyes_up.svg"
+            }
+          ]
+        },
+        {
+          "type": "nested_properties",
+          "name": "question_1",
+          "rows": [
+            {
+              "name": "radio_button_grid_width",
+              "value": "100%",
+              "exclude_from_translation": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_global",
+    "path": "PLH articles template generators.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1Zq6UzQ4qUIsCt_tg1TKDndZjOHmidmW5h1dyTpnoPTE"
+  },
+  "_output_flows": [
+    {
+      "flow_name": "article_i_one_on_one_c_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_give_praise_c_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_routines_c_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_feelings_c_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_calm_c_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_one_on_one_t_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_give_praise_t_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_routines_t_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_feelings_t_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_calm_t_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_ipv_1_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_ipv_2_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_ipv_3_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_ipv_4_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_ipv_5_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_keep_safe_c_1_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_keep_safe_c_2_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_keep_safe_c_3_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_keep_safe_c_4_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_keep_safe_c_5_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_keep_safe_c_6_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_keep_safe_c_7_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_keep_safe_c_8_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_keep_safe_c_9_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_ks_c_safey_t_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_ks_s_violence_t_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_ks_crises_f_t_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_ks_crises_m_t_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_ks_online_safety_t_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_ks_online_habits_t_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_Manage_behaviour_c_1_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_Manage_behaviour_c_2_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_Manage_behaviour_c_3_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_Manage_behaviour_c_4_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_Manage_behaviour_c_5_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_Manage_behaviour_c_6_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_Manage_behaviour_c_7_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_Manage_behaviour_t_1_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_Manage_behaviour_t_2_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_Manage_behaviour_t_3_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_Manage_behaviour_t_4_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_Manage_behaviour_t_5_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_Manage_behaviour_t_6_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_School_c_1_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_School_c_2_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_School_c_3_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_School_c_4_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_School_c_5_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_School_c_6_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_School_c_7_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_School_c_8_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_School_c_9_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_School_c_10_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_School_c_11_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_School_c_12_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_School_t_13_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_School_t_14_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_School_t_15_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_School_t_16_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_School_t_17_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_develop_c_1_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_develop_c_2_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_develop_c_3_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_develop_c_4_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_develop_c_5_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_develop_c_6_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_develop_c_7_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_understand_t_1_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_understand_t_2_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_understand_t_3_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_understand_t_4_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_understand_t_5_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_understand_t_6_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_understand_t_7_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_understand_t_8_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
+}

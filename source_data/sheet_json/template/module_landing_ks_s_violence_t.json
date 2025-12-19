@@ -1,0 +1,107 @@
+{
+  "flow_type": "template",
+  "flow_name": "module_landing_ks_s_violence_t",
+  "status": "released",
+  "parameter_list": {
+    "app_config": {
+      "LAYOUT": {
+        "page_padding": "0 0"
+      }
+    }
+  },
+  "comment": "ks_s_violence_t",
+  "comment_2": 30,
+  "rows": [
+    {
+      "type": "begin_template",
+      "name": "module_landing",
+      "value": "module_landing",
+      "action_list": "completed | emit: completed; \nuncompleted | emit: uncompleted"
+    },
+    {
+      "name": "module_id",
+      "value": "ks_s_violence_t",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_template"
+    },
+    {
+      "action_list": "module_landing_i_one_on_one_c",
+      "parameter_list": "draft",
+      "condition": "app_config.LAYOUT.page_padding: 0 0;",
+      "exclude_from_translation": "i_one_on_one_c",
+      "__EMPTY": "i_one_on_one_c"
+    },
+    {
+      "action_list": "module_landing_i_give_praise_c",
+      "parameter_list": "draft",
+      "condition": "app_config.LAYOUT.page_padding: 0 0;",
+      "exclude_from_translation": "i_give_praise_c",
+      "__EMPTY": "i_give_praise_c"
+    },
+    {
+      "action_list": "module_landing_i_routines_c",
+      "parameter_list": "draft",
+      "condition": "app_config.LAYOUT.page_padding: 0 0;",
+      "exclude_from_translation": "i_routines_c",
+      "__EMPTY": "i_routines_c"
+    },
+    {
+      "action_list": "module_landing_i_feelings_c",
+      "parameter_list": "draft",
+      "condition": "app_config.LAYOUT.page_padding: 0 0;",
+      "exclude_from_translation": "i_feelings_c",
+      "__EMPTY": "i_feelings_c"
+    },
+    {
+      "action_list": "module_landing_i_calm_c",
+      "parameter_list": "draft",
+      "condition": "app_config.LAYOUT.page_padding: 0 0;",
+      "exclude_from_translation": "i_calm_c",
+      "__EMPTY": "i_calm_c"
+    },
+    {
+      "action_list": "module_landing_i_one_on_one_t",
+      "parameter_list": "draft",
+      "condition": "app_config.LAYOUT.page_padding: 0 0;",
+      "exclude_from_translation": "i_one_on_one_t",
+      "__EMPTY": "i_one_on_one_t"
+    },
+    {
+      "action_list": "module_landing_i_give_praise_t",
+      "parameter_list": "draft",
+      "condition": "app_config.LAYOUT.page_padding: 0 0;",
+      "exclude_from_translation": "i_give_praise_t",
+      "__EMPTY": "i_give_praise_t"
+    },
+    {
+      "action_list": "module_landing_i_routines_t",
+      "parameter_list": "draft",
+      "condition": "app_config.LAYOUT.page_padding: 0 0;",
+      "exclude_from_translation": "i_routines_t",
+      "__EMPTY": "i_routines_t"
+    },
+    {
+      "action_list": "module_landing_i_feelings_t",
+      "parameter_list": "draft",
+      "condition": "app_config.LAYOUT.page_padding: 0 0;",
+      "exclude_from_translation": "i_feelings_t",
+      "__EMPTY": "i_feelings_t"
+    },
+    {
+      "action_list": "module_landing_i_calm_t",
+      "parameter_list": "draft",
+      "condition": "app_config.LAYOUT.page_padding: 0 0;",
+      "exclude_from_translation": "i_calm_t",
+      "__EMPTY": "i_calm_t"
+    },
+    {
+      "action_list": "module_landing_ks_c_safey_t",
+      "parameter_list": "draft",
+      "condition": "app_config.LAYOUT.page_padding: 0 0;",
+      "exclude_from_translation": "ks_c_safey_t",
+      "__EMPTY": "ks_c_safey_t"
+    }
+  ]
+}

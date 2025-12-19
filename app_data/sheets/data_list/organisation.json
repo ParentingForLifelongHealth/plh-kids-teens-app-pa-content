@@ -1,0 +1,31 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "organisation",
+  "status": "released",
+  "data_list_name": "organisation",
+  "rows": [
+    {
+      "id": "organisation_1",
+      "name": "PLH",
+      "image_asset": "images/logos/PLH.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_2",
+      "name": "IDEMS",
+      "image_asset": "images/logos/IDEMS.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_3",
+      "name": "University of Oxford",
+      "image_asset": "images/logos/Oxford.png",
+      "group": "partners"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/deployment_data_pa.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1a_PDtnQiKKzNSBNJcVh_TFk0kB7YbtWE22mh87mqMdI"
+  }
+}

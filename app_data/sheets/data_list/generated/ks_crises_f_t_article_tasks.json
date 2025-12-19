@@ -1,0 +1,381 @@
+{
+  "flow_name": "ks_crises_f_t_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transript": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_1",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Take a moment to check in with yourself."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Wonderful, I am so happy things are going well."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Take a moment to check in with yourself.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
+      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
+      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Esta lección trata sobre cómo responder a las situaciones de crisis con tu adolescente😔😣.\n\nCuando nuestros adolescentes nos comparten algo que es muy difícil de hablar o les genera mucha molestia, debemos recordar que tenemos que mantener la calma, escuchar y ser abiertos para que se sientan apoyadas y apoyados💛\n\n❗En esta lección hablaremos acerca del abuso sexual. Es normal sentir incomodidad o molestia cuando se habla de esto.\n\n💡Recuerda respirar profundo. Si lo necesitas, también puedes hablar con alguien de confianza para que te escuche y te apoye."
+        },
+        "text_2": {
+          "eng": "¡Empecemos con un ejercicio!"
+        },
+        "quiz_1_question": {
+          "eng": "Cuando mi adolescente tiene alguna preocupación, debo esperar a que venga a mí. No quiero presionarle más al preguntarle qué es lo que le preocupa."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n😣 Cuando las y los adolescentes están en crisis, pueden tener miedo de contárselo a las demás personas por muchas razones. Puede preocuparles que las demás personas les juzguen o se enojen. También puede que sientan vergüenza.\n\n💚 Puedes preguntarle a tu adolescente, con mucha calma, por qué parecen estar molestas o molestos. 👀\n\n👂Afírmale que estás ahí para ayudar y que es seguro compartir su crisis contigo."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "✨ ¡Estás en lo correcto!\n\n😣 Cuando las y los adolescentes están en crisis, pueden tener miedo de contárselo a las demás personas por muchas razones. Puede preocuparles que las demás personas les juzguen o se enojen. También puede que sientan vergüenza.\n\n💚 Puedes preguntarle a tu adolescente, con mucha calma, por qué parecen estar molestas o molestos. 👀\n\n👂 Afírmale que estás ahí para ayudar y que es seguro compartir su crisis contigo."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n😣 Cuando las y los adolescentes están en crisis, pueden tener miedo de contárselo a las demás personas por muchas razones. Puede preocuparles que las demás personas les juzguen o se enojen. También puede que sientan vergüenza.\n\n💚 Puedes preguntarle a tu adolescente, con mucha calma, por qué parecen estar molestas o molestos. 👀\n\n👂Afírmale que estás ahí para ayudar y que es seguro compartir su crisis contigo.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "quiz_1_feedback_2": "✨ ¡Estás en lo correcto!\n\n😣 Cuando las y los adolescentes están en crisis, pueden tener miedo de contárselo a las demás personas por muchas razones. Puede preocuparles que las demás personas les juzguen o se enojen. También puede que sientan vergüenza.\n\n💚 Puedes preguntarle a tu adolescente, con mucha calma, por qué parecen estar molestas o molestos. 👀\n\n👂 Afírmale que estás ahí para ayudar y que es seguro compartir su crisis contigo.",
+      "quiz_1_question": "Cuando mi adolescente tiene alguna preocupación, debo esperar a que venga a mí. No quiero presionarle más al preguntarle qué es lo que le preocupa.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_option_2_text": "Falso",
+      "text_1_facilitator": "Esta lección trata sobre cómo responder a las situaciones de crisis con tu adolescente😔😣.\n\nCuando nuestros adolescentes nos comparten algo que es muy difícil de hablar o les genera mucha molestia, debemos recordar que tenemos que mantener la calma, escuchar y ser abiertos para que se sientan apoyadas y apoyados💛\n\n❗En esta lección hablaremos acerca del abuso sexual. Es normal sentir incomodidad o molestia cuando se habla de esto.\n\n💡Recuerda respirar profundo. Si lo necesitas, también puedes hablar con alguien de confianza para que te escuche y te apoye.",
+      "text_2": "¡Empecemos con un ejercicio!",
+      "completed": false
+    },
+    {
+      "id": "comic_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Aquí tienes un ejemplo de cómo apoyar a tu adolescente, incluso cuando algo realmente malo ha pasado."
+        },
+        "character_1_text": {
+          "eng": "Te ves muy molesta, mi vida. ¿Quieres contarme qué pasó?"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Aquí tienes un ejemplo de cómo apoyar a tu adolescente, incluso cuando algo realmente malo ha pasado.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
+      },
+      "image_asset": "https://drive.google.com/file/d/1lgT7608tPycjvov1shD4XfPXInU3fa8T/view?usp=drive_link",
+      "character_1_id": "F2_ABUELA",
+      "character_1_text": "Te ves muy molesta, mi vida. ¿Quieres contarme qué pasó?",
+      "completed": false
+    },
+    {
+      "id": "comic_2",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Es mi tío, él… él… él me tocó."
+        },
+        "character_2_text": {
+          "eng": "(Pensando) Respira profundo... ¿Qué necesita {F2_HIJA_17} ahorita? Necesita que esté tranquila y que la escuche.\n\nVen y siéntate conmigo. Tómate tu tiempo, te escucho."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "https://drive.google.com/file/d/1nGZaHlJtDMcmGmtR9ZnSkGHH9UvB6rl3/view?usp=drive_link",
+      "character_1_id": "F2_HIJA_17",
+      "character_1_text": "Es mi tío, él… él… él me tocó.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_id": "F2_ABUELA",
+      "character_2_text": "(Pensando) Respira profundo... ¿Qué necesita {F2_HIJA_17} ahorita? Necesita que esté tranquila y que la escuche.\n\nVen y siéntate conmigo. Tómate tu tiempo, te escucho.",
+      "completed": false
+    },
+    {
+      "id": "comic_3",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Es verdad, él… él… ¡Me obligó a hacerlo! ¡Me obligó a tener relaciones sexuales con él! Yo no quería, te lo juro, y hasta le dije que NO, pero él me dijo que me metería en problemas."
+        },
+        "character_2_text": {
+          "eng": "Te creo, mi vida. Es muy valiente que me cuentes. Gracias por compartir esto conmigo. No estás en problemas. No es tu culpa."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "https://drive.google.com/file/d/1UW3i5Xhypk8wgJ4MAqON0eevDazwqf3R/view?usp=drive_link",
+      "character_1_id": "F2_HIJA_17",
+      "character_1_text": "Es verdad, él… él… ¡Me obligó a hacerlo! ¡Me obligó a tener relaciones sexuales con él! Yo no quería, te lo juro, y hasta le dije que NO, pero él me dijo que me metería en problemas.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_id": "F2_ABUELA",
+      "character_2_text": "Te creo, mi vida. Es muy valiente que me cuentes. Gracias por compartir esto conmigo. No estás en problemas. No es tu culpa.",
+      "completed": false
+    },
+    {
+      "id": "comic_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Ayer, cuando te fuiste a ver a tu amiga, él vino aquí y fue cuando eso pasó."
+        },
+        "character_2_text": {
+          "eng": "Ya veo, estoy aquí para apoyarte, mi vida. Esto es algo importante y encontraremos la forma de conseguir la ayuda que necesitamos. Vamos a la clínica. Ellos sabrán qué hacer para ayudarte."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "https://drive.google.com/file/d/1BLuDjWZZRuHjnJ7QBaCjNQj21_Opfkh3/view?usp=drive_link",
+      "character_1_id": "F2_HIJA_17",
+      "character_1_text": "Ayer, cuando te fuiste a ver a tu amiga, él vino aquí y fue cuando eso pasó.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_id": "F2_ABUELA",
+      "character_2_text": "Ya veo, estoy aquí para apoyarte, mi vida. Esto es algo importante y encontraremos la forma de conseguir la ayuda que necesitamos. Vamos a la clínica. Ellos sabrán qué hacer para ayudarte.",
+      "completed": false
+    },
+    {
+      "id": "comic_5",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Sí… Me parece bien… ¿Pero vendrás conmigo?"
+        },
+        "character_2_text": {
+          "eng": "Claro que sí. Y, ¿{F2_HIJA_17}? Recuerda que no es tu culpa. Te quiero. Es una situación muy complicada pero saldremos adelante."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "https://drive.google.com/file/d/16Zx7ZfG94oBb0JgETE9aBzlqfQfyopWZ/view?usp=drive_link",
+      "character_1_id": "F2_HIJA_17",
+      "character_1_text": "Sí… Me parece bien… ¿Pero vendrás conmigo?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_id": "F2_ABUELA",
+      "character_2_text": "Claro que sí. Y, ¿{F2_HIJA_17}? Recuerda que no es tu culpa. Te quiero. Es una situación muy complicada pero saldremos adelante.",
+      "completed": false
+    },
+    {
+      "id": "comic_6",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Gracias, abuela."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "https://drive.google.com/file/d/1gzlwzyIRobd6uljw6zt5dIiMdwyHqm2w/view?usp=drive_link",
+      "character_1_id": "F2_HIJA_17",
+      "character_1_text": "Gracias, abuela.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da clic en reproducir ▶️ para aprender algunas estrategias que puedes hacer para apoyar a tu adolescente cuando comparta algo difícil contigo:\n\n1️⃣ RESPIRAR\n2️⃣ ESCUCHAR\n3️⃣ RESPONDER\n4️⃣ CONSOLAR"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender algunas estrategias que puedes hacer para apoyar a tu adolescente cuando comparta algo difícil contigo:\n\n1️⃣ RESPIRAR\n2️⃣ ESCUCHAR\n3️⃣ RESPONDER\n4️⃣ CONSOLAR",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Recuerda las 4️⃣ estrategias que puedes seguir para apoyar a tu adolescente en caso de que sufra algún evento de abuso sexual. Estas estrategias también pueden ser útiles si {tu adolescente} te comparte otros casos de crisis contigo, como sufrir acoso escolar o un asalto:"
+        },
+        "section_1_title": {
+          "eng": "RESPIRAR"
+        },
+        "section_1_text": {
+          "eng": "Toma una pausa.\n\n🌱 Respira profundo para poder responder tranquilamente.\n\n💛 Pregúntate: \"¿Qué es lo que mi adolescente necesita en este momento?\""
+        },
+        "section_2_title": {
+          "eng": "ESCUCHAR"
+        },
+        "section_2_text": {
+          "eng": "Pregúntale a tu adolescente qué está pasando.\n\n👂 Deja que comparta todo lo que necesite contigo. Evita las críticas.\n\n👀 Date cuenta de lo que siente y dile lo que observas para que se sienta escuchada o escuchado.\n\n💙 Dile que estás de su lado y que le amas."
+        },
+        "section_3_title": {
+          "eng": "RESPONDER"
+        },
+        "section_3_text": {
+          "eng": "¿Qué podría ser de ayuda para lo que está pasando?\n\n🔶 Puede que tengas que ayudar a {tu adolescente} a poder expresar sus emociones o ayudarles a que piensen o hagan otras cosas mientras se reponen.\n\n⭐ Puede que necesites conversar sobre las medidas que tú o tu  niña, niño o adolescente  podrían tomar para ayudar con lo que ha ocurrido (seguridad, protección, educación). \n\n⏸ Más adelante, y solo si es necesario, puedes enseñarle a tu adolescente  sobre las consecuencias. En este momento, tu adolescente  necesita que estés a su lado con mucho amor. \n\n✅ Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con tu niña, niño o adolescente, puedes hacer clic en la palabra AYUDA para recibir una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo."
+        },
+        "section_4_title": {
+          "eng": "CONSOLAR"
+        },
+        "section_4_text": {
+          "eng": "Estar ahí para {tu adolescente}.\n\n🌷 Puede ser algo difícil ver que está en un estado de confusión o se siente triste, pero hay muchas cosas que puedes hacer para apoyarle.\n\n💚 Cuando pasan por cosas difíciles, necesitasentir aceptación y consuelo.\n\n🎈Recuérdale, todas las veces que sean necesarias, que le amas y que juntos encontrarán soluciones. Dale las gracias por compartirlo contigo."
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "Recuerda las 4️⃣ estrategias que puedes seguir para apoyar a tu adolescente en caso de que sufra algún evento de abuso sexual. Estas estrategias también pueden ser útiles si {tu adolescente} te comparte otros casos de crisis contigo, como sufrir acoso escolar o un asalto:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
+      },
+      "section_1_icon_asset": "https://drive.google.com/file/d/19m7O3_jqHUfyLx4PRG1NnnwzXiYlAhwS/view?usp=drive_link",
+      "section_2_icon_asset": "https://drive.google.com/file/d/1LszHYmtJlkCzd6jD9TCRlQmsc03sFoyb/view?usp=drive_link",
+      "section_3_icon_asset": "https://drive.google.com/file/d/1hfWPX9i6ZpYVChhK8_6AafGeqSNCgYOg/view?usp=drive_link",
+      "section_4_icon_asset": "https://drive.google.com/file/d/1b7ywkfyRt8DgqJrocfNefIOeE8oOW6bB/view?usp=drive_link",
+      "section_1_title": "RESPIRAR",
+      "section_1_text": "Toma una pausa.\n\n🌱 Respira profundo para poder responder tranquilamente.\n\n💛 Pregúntate: \"¿Qué es lo que mi adolescente necesita en este momento?\"",
+      "section_2_title": "ESCUCHAR",
+      "section_2_text": "Pregúntale a tu adolescente qué está pasando.\n\n👂 Deja que comparta todo lo que necesite contigo. Evita las críticas.\n\n👀 Date cuenta de lo que siente y dile lo que observas para que se sienta escuchada o escuchado.\n\n💙 Dile que estás de su lado y que le amas.",
+      "section_3_title": "RESPONDER",
+      "section_3_text": "¿Qué podría ser de ayuda para lo que está pasando?\n\n🔶 Puede que tengas que ayudar a {tu adolescente} a poder expresar sus emociones o ayudarles a que piensen o hagan otras cosas mientras se reponen.\n\n⭐ Puede que necesites conversar sobre las medidas que tú o tu  niña, niño o adolescente  podrían tomar para ayudar con lo que ha ocurrido (seguridad, protección, educación). \n\n⏸ Más adelante, y solo si es necesario, puedes enseñarle a tu adolescente  sobre las consecuencias. En este momento, tu adolescente  necesita que estés a su lado con mucho amor. \n\n✅ Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con tu niña, niño o adolescente, puedes hacer clic en la palabra AYUDA para recibir una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo.",
+      "section_4_title": "CONSOLAR",
+      "section_4_text": "Estar ahí para {tu adolescente}.\n\n🌷 Puede ser algo difícil ver que está en un estado de confusión o se siente triste, pero hay muchas cosas que puedes hacer para apoyarle.\n\n💚 Cuando pasan por cosas difíciles, necesitasentir aceptación y consuelo.\n\n🎈Recuérdale, todas las veces que sean necesarias, que le amas y que juntos encontrarán soluciones. Dale las gracias por compartirlo contigo.",
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "1️⃣ Encuentra un momento tranquilo para hablar con {tu adolescente} sobre las posibles crisis que puedan ocurrir.\n2️⃣ Discutan posibles acciones que pueden llevar a cabo en caso de que ocurra alguna crisis. Dile que siempre estarás ahí para ayudarle y para mantener su seguridad.\n3️⃣ Vuelvan a revisar la actividad de mapeo para identificar otras fuentes de apoyo en la comunidad.\n4️⃣ Agradécele a {tu adolescente} por tomarse el tiempo de hablar contigo sobre esto."
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes hacerlo hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "💙 ¡Increíble! Esto ayudará a que tú y tu adolescente estén preparados para afrontar situaciones difíciles y evitarlas desde un principio."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "⏰ ¡Entendemos! Planea apartar una hora en los próximos días para tener esta plática con tu adolescente. Esto ayudará a que tú y tu adolescente estén preparados para afrontar situaciones difíciles y a evitarlas desde un principio."
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "💙 ¡Increíble! Esto ayudará a que tú y tu adolescente estén preparados para afrontar situaciones difíciles y evitarlas desde un principio.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "⏰ ¡Entendemos! Planea apartar una hora en los próximos días para tener esta plática con tu adolescente. Esto ayudará a que tú y tu adolescente estén preparados para afrontar situaciones difíciles y a evitarlas desde un principio.",
+      "quiz_1_question": "¿Puedes hacerlo hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "1️⃣ Encuentra un momento tranquilo para hablar con {tu adolescente} sobre las posibles crisis que puedan ocurrir.\n2️⃣ Discutan posibles acciones que pueden llevar a cabo en caso de que ocurra alguna crisis. Dile que siempre estarás ahí para ayudarle y para mantener su seguridad.\n3️⃣ Vuelvan a revisar la actividad de mapeo para identificar otras fuentes de apoyo en la comunidad.\n4️⃣ Agradécele a {tu adolescente} por tomarse el tiempo de hablar contigo sobre esto.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

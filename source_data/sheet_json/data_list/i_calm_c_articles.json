@@ -1,0 +1,82 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "i_calm_c_articles",
+  "data_list_name": "i_calm_c_articles",
+  "status": "released",
+  "flow_subtype": "modules_i_calm_c",
+  "module": "i_calm_c",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Esta lección trata sobre cómo podemos mantener la calma cuando hay estrés y regular nuestro enojo cuando enfrentamos situaciones frustrantes con nuestras niñas y niños. 💚",
+      "text_2::eng": "🌷 Conforme empieces a observar tus sentimientos y emociones, podrías notar alguno de ellos, como enojo, frustración o tristeza.  \n\nEs verdad que amamos a nuestras niñas, niños y adolescentes, y también es cierto que el estrés de cuidarles y otros eventos del día a día pueden llevarnos a sentir enojo. ¡Esto es parte de la vida!  \n\n💡 Es importante que intentemos mantener la calma cuando hay estrés para poder regular nuestro enojo y evitar lastimar o herir a las y los demás.",
+      "quiz_1_question::eng": "¡Hagamos un ejercicio! Cuando me enojo con mi niña o mi niño, debo demostrar cómo me siento para que deje de portarse mal.",
+      "quiz_1_option_1_text::eng": "Verdadero",
+      "quiz_1_feedback_1::eng": "👀¡Ups! ¡Buen intento!\n\n💛 Puede ser muy difícil cuando tu niña o niño se porta mal. Intenta regular tu estrés y tu enojo antes de hacer cualquier cosa.  \n\n🌱 Respirar profundo te ayudará. Reaccionar cuando sientes enojo puede hacer que digas o hagas cosas de las que te puedes arrepentir después.",
+      "quiz_1_option_2_text::eng": "Falso",
+      "quiz_1_feedback_2::eng": "🎉 ¡Buen trabajo!\n\n💛 Puede ser muy difícil cuando tu niña o niño se porta mal. Intenta regular tu estrés y tu enojo antes de hacer cualquier cosa.  \n\n🌱 Respirar profundo te ayudará. Reaccionar cuando sientes enojo puede hacer que digas o hagas cosas de las que te puedes arrepentir después.",
+      "quiz_2_question::eng": "Los niños y los hombres no deben conversar sobre cómo se sienten cuando están tristes o con miedo.",
+      "quiz_2_option_1_text::eng": "Verdadero",
+      "quiz_2_feedback_1::eng": "👀 ¡Ups! ¡Buen intento! \n\n⭐ Es importante que niños, niñas, hombres y mujeres por igual aprendan a compartir sus sentimientos.  \n\n💙 Las niñas, niños y adolescentes deben aprender que es válido sentirse tristes o asustados y que pueden pedir ayuda cuando la necesiten, sin importar la edad y el género",
+      "quiz_2_option_2_text::eng": "Falso",
+      "quiz_2_feedback_2::eng": "🎉 ¡Tienes razón! \n\n⭐ Es importante que niños, niñas, hombres y mujeres por igual aprendan a compartir sus sentimientos.  \n\n💙 Las niñas, niños y adolescentes deben aprender que es válido sentirse tristes o asustados y que pueden pedir ayuda cuando la necesiten, sin importar la edad y el género.",
+      "quiz_3_question::eng": "Como madres, padres o personas cuidadoras también podemos compartir nuestros sentimientos con nuestras niñas, niños o adolescentes.",
+      "quiz_3_option_1_text::eng": "Verdadero",
+      "quiz_3_feedback_1::eng": "🎉 ¡Correcto! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les modela cómo pueden hacerlo.",
+      "quiz_3_option_2_text::eng": "Falso",
+      "quiz_3_feedback_2::eng": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
+    },
+    {
+      "text_1_facilitator::eng": "{F2_ABUELO} está a punto de pasar tiempo juntos y conectados con {F2_HIJO_8}, pero al llegar ve que la sala está hecha un desastre. Se da cuenta de que esta situación lo hace sentir enojado.",
+      "character_1_id": "F2_ABUELO",
+      "character_1_text::eng": "El {F2_ABUELO} está pensando: Me estoy sintiendo muy enojado. Estoy cansado y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a mi nieto {F2_HIJO_8}."
+    },
+    {
+      "id": "comic_2",
+      "category_id": "explore",
+      "character_1_id": "F2_ABUELO",
+      "character_1_text::eng": "El {F2_ABUELO} está pensando: Haré una pausa y pondré mi canción favorita."
+    },
+    {
+      "id": "comic_3",
+      "category_id": "explore",
+      "text_2::eng": "Un momento después.",
+      "character_1_id": "F2_ABUELO",
+      "character_1_text::eng": "El {F2_ABUELO} está pensando: Me siento más tranquilo. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto."
+    },
+    {
+      "id": "comic_4",
+      "category_id": "explore",
+      "character_1_id": "F2_ABUELO",
+      "character_1_text::eng": "{F2_HIJO_8}, ¡que buen trabajo estas haciendo con tu tarea! Puede que te sientas cansado. Descansemos 5 minutos y después de eso, podemos hacer un juego para ver quién puede recoger más rápido los juguetes."
+    },
+    {
+      "id": "comic_5",
+      "category_id": "explore",
+      "character_1_id": "F2_ABUELO",
+      "character_1_text::eng": "¡Gracias por poner de tu parte para mantener la casa limpia, {F2_HIJO_8}! Estoy muy orgulloso de tu esfuerzo. Es nuestro tiempo juntos y conectados. ¿Qué te gustaría hacer?"
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "Da clic en reproducir ▶️ para aprender las4️⃣ estrategias para saber cómo mantener la calma cuando tu niña o niño se porte mal. ☀️\n\n1️⃣ MANTENER LA CALMA\n2️⃣ ACTÚA RÁPIDO\n3️⃣ SER CLARO\n4️⃣ SER POSITIVO",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con {tu niño}. Comparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos. ➡️",
+      "quiz_1_question::eng": "¿Puedes compartir estas estrategias hoy?",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "¡Increíble! ✨ Durante los próximos días, intenta mantener la calma cuando hay estrés y redirigir el comportamiento negativo de tu niña o niño hacia uno positivo antes de que empeore. Por ejemplo, si prevés que tu niño o niña va a tener un berrinche en el supermercado, redirígelo pidiéndole que ayude a buscar algún vegetal reconociendo que es bueno haciendo esa tarea.",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "¡De acuerdo! 📝 Puedes empezar por practicar el \"Tomar una pausa\" incluso cuando te sientas bien. Esto te ayudará a estar más preparado para cuando te sientas estresado. "
+    }
+  ]
+}

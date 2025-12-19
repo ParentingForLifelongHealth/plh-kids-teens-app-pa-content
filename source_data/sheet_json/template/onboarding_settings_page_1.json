@@ -1,0 +1,55 @@
+{
+  "flow_type": "template",
+  "flow_name": "onboarding_settings_page_1",
+  "status": "released",
+  "rows": [
+    {
+      "type": "text",
+      "name": "question_user_type",
+      "value": "@global.question_user_type",
+      "parameter_list": "style: emphasised;"
+    },
+    {
+      "type": "combo_box",
+      "name": "user_type_select",
+      "parameter_list": "answer_list: @data.user_type;\nplaceholder: @global.placeholder_user_type;\nvariant: dropdown;",
+      "condition": "!!@fields.user_type",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "combo_box",
+      "name": "user_type_select",
+      "value": "@fields.user_type",
+      "parameter_list": "answer_list: @data.user_type;\nplaceholder: @global.placeholder_user_type;\nvariant: dropdown;",
+      "condition": "!@fields.user_type"
+    },
+    {
+      "name": "completed_enabled",
+      "value": "!!@local.user_type_select && !!@local.user_name_input && !!@local.user_gender_select",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_footer",
+      "parameter_list": "sticky: bottom;",
+      "style_list": "padding: 12px 24px;"
+    },
+    {
+      "type": "round_button",
+      "name": "button_back",
+      "action_list": "click | emit: uncompleted",
+      "parameter_list": "icon_src: arrow-back;\nvariant: no-background;"
+    },
+    {
+      "type": "button",
+      "name": "button_completed",
+      "value": "@global.continue",
+      "action_list": "click | set_field: user_type: @local.user_type_select;\nclick | set_field: user_name: @local.user_name_input;\nclick | set_field: user_gender: @local.user_gender_select;\nclick | emit: completed;",
+      "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
+      "style_list": "flex: 1"
+    },
+    {
+      "type": "end_display_group"
+    }
+  ]
+}
