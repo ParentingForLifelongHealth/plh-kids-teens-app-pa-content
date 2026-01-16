@@ -1,0 +1,80 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "ipv_listen_m_articles",
+  "data_list_name": "ipv_listen_m_articles",
+  "status": "released",
+  "flow_subtype": "modules_ipv_listen_m",
+  "module": "ipv_listen_m",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Esta lección trata sobre cómo tú como cuidador y los familiares con quienes compartes la crianza pueden escucharse y conversar de manera positiva. 💙 ",
+      "text_2::eng": "Escuchar y conversar con las personas que nos rodean es clave para tener un hogar pacífico y tranquilo, evitar que los problemas se hagan más grandes y prevenir que surjan discusiones por no decir las cosas a tiempo. 👂",
+      "quiz_1_question::eng": "¡Hagamos un ejercicio! Ejercicio 1. Escuchar y conversar efectivamente con tu pareja o familiares puede ayudar a prevenir conflictos.",
+      "quiz_1_option_1_text::eng": "Verdadero",
+      "quiz_1_feedback_1::eng": "🎉 ¡Estás en lo correcto!\n\n¡Compartir cómo nos sentimos y hablar sobre las dificultades a las que nos enfrentamos fortalece la relación familiar!\n\n*_Cuando hablas con tu pareja o familiares y les escuchas con atención, ¡se promueve el apoyo mutuo y ayudas a reducir los conflictos!_*",
+      "quiz_1_option_2_text::eng": "Falso",
+      "quiz_1_feedback_2::eng": "👀 ¡Ups! ¡Buen intento!\n\n¡Compartir cómo nos sentimos y hablar sobre las dificultades a las que nos enfrentamos fortalece la relación familiar!\n\n*_Cuando hablas con tu pareja o familiares y les escuchas con atención, ¡se promueve el apoyo mutuo y ayudas a reducir los conflictos!_*",
+      "quiz_3_question::eng": "Como madres, padres o personas cuidadoras también podemos compartir nuestros sentimientos con nuestras niñas, niños o adolescentes.",
+      "quiz_3_option_1_text::eng": "Verdadero",
+      "quiz_3_feedback_1::eng": "🎉 ¡Correcto! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les modela cómo pueden hacerlo.",
+      "quiz_3_option_2_text::eng": "Falso",
+      "quiz_3_feedback_2::eng": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "Aquí tienes una historieta que muestra cómo las parejas o familiares pueden escucharse, apoyarse y hablarse con cariño:",
+      "image_asset": "images/character_icons/ipv_listen_1",
+      "character_1_id": "F1_PADRE",
+      "character_1_text::eng": "¿Estás bien, {F1_MADRE}? Te ves cansada.",
+      "character_2_id": "F1_MADRE",
+      "character_2_text::eng": "Anoche no dormí bien y hoy me siento muy cansada."
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/character_icons/ipv_listen_2",
+      "character_1_id": "F1_PADRE",
+      "character_1_text::eng": "Lamento oír eso, {F1_MADRE}. ¿Hay algo que pueda hacer para ayudarte?",
+      "character_2_id": "F1_MADRE",
+      "character_2_text::eng": "Voy a intentar dormirme más temprano esta noche."
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/character_icons/ipv_listen_3",
+      "character_1_id": "F1_PADRE",
+      "character_1_text::eng": "En la noche, después de cenar, yo me puedo encargar de acostar a los niños para que puedas descansar un poco más."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/character_icons/ipv_listen_4",
+      "character_1_id": "F1_MADRE",
+      "character_1_text::eng": "Sería maravilloso. Muchas gracias, {F1_PADRE}."
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "Da clic en reproducir ▶️ para aprender algunas estrategias para que tu pareja o familiar y tú puedan escucharse y hablarse de manera comprensiva y cariñosa:\n\n1️⃣ **ESCUCHAR A TU PAREJA O FAMILIAR**\n2️⃣ **COMPARTIR CÓMO TE SIENTES**\n3️⃣ **SER AMABLE CONTIGO Y CON TU PAREJA O FAMILIARES**\n4️⃣ **ESCOGER UN MOMENTO EN EL QUE SIENTAS COMODIDAD**",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "**_Actividad para casa_**⭐ \n\nIntenta apartar un poco de tiempo para conversar con tu pareja o familiar sobre tus sentimientos y de las dificultades a las que te enfrentas. ¡También puedes compartirle cosas positivas! \n\nPor ejemplo, tómate un tiempo durante la cena para contarles cómo te fue en el día.",
+      "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy?",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "¡Bien por ti! Hablar de las dificultades y de nuestras emociones puede ser difícil. ¡Lo estás haciendo muy bien! 🎉",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "Hablar de nuestros sentimientos y de las dificultades a las que nos enfrentamos puede ayudar a las personas a comprendernos y apoyarnos de una mejor manera.\n\nLas emociones y las dificultades forman parte de la vida, y aprender a manejarlas puede ayudar a que la vida sea menos estresante.\n\n☕ Recuerda que puedes volver a consultar este contenido en el Menú Principal."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "young_change_c_articles",
+  "data_list_name": "young_change_c_articles",
+  "status": "released",
+  "flow_subtype": "modules_young_change_c",
+  "module": "young_change_c",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "La lección de hoy trata sobre cómo favorecer el desarrollo saludable de {tu niño} a medida que crece y va cambiando. ✨",
+      "text_2::eng": "Las niñas y los niños tienen capacidades diferentes en las distintas etapas de su desarrollo. 🌱\n\nEs importante conocer las habilidades de {tu niño} en esta etapa de su desarrollo. ⚽\n\nEsto te ayudará a planificar sus actividades para que se ajusten a lo que puede hacer y también te ayuda a tener objetivos realistas. ✨",
+      "quiz_1_question::eng": "¡Hagamos un ejercicio! Ejercicio 1.\n\nTodas las niñas y los niños se desarrollan a la misma velocidad.",
+      "quiz_1_option_1_text::eng": "Verdadero",
+      "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n✨ Cada niña y cada niño son únicos y se desarrollarán a su propio ritmo.\nAlgunas niñas y niños pueden desarrollarse más rápido que otros en ciertas áreas, mientras que a otros les puede tomar más tiempo.\n\n💚 Es importante que las madres, los padres y las personas cuidadoras sean pacientes y actuén con comprensión, reconociendo que cada niña y cada niño tiene su propio camino individual de desarrollo.\n\n🚩 Si tienes alguna preocupación sobre el desarrollo de {tu niño}, debes consultar a un profesional para obtener apoyo y asesoramiento.",
+      "quiz_1_option_2_text::eng": "Falso",
+      "quiz_1_feedback_2::eng": "\"🎉 ¡Buen trabajo!\n\n✨ Cada niña y cada niño son únicos y se desarrollarán a su propio ritmo.\nAlgunas niñas y niños pueden desarrollarse más rápido que otros en ciertas áreas, mientras que a otros les puede tomar más tiempo.\n\n💚 Es importante que las madres, los padres y las personas cuidadoras sean pacientes y actuén con comprensión, reconociendo que cada niña y cada niño tiene su propio camino individual de desarrollo.\n\n🚩 Si tienes alguna preocupación sobre el desarrollo de {tu niño}, debes consultar a un profesional para obtener apoyo y asesoramiento.",
+      "quiz_2_question::eng": "¡Hagamos otra! \n\nEjercicio 2. Verdadero o falso: Está bien dejar que {tu niño} siga intentando hacer algo unas cuantas veces aunque no lo haga correctamente.",
+      "quiz_2_option_1_text::eng": "Verdadero",
+      "quiz_2_feedback_1::eng": "✨ ¡Estás en lo correcto!\n\n🚲 {Tu niño} quiere aprender y debemos darle nuestro apoyo para que lo siga intentando aún cuando se equivoque.\n\n⭐ ¡Reconócele por persistir! {Tu niño} sentirá el apoyo. El esfuerzo es más importante que dominar una habilidad.",
+      "quiz_2_option_2_text::eng": "Falso",
+      "quiz_2_feedback_2::eng": "👀 ¡Ups! ¡Buen intento!\n\n🚲 {Tu niño} quiere aprender y debemos darle nuestro apoyo para que lo siga intentando aún cuando se equivoque.\n\n⭐ ¡Reconócele por persistir! {Tu niño} sentirá el apoyo. El esfuerzo es más importante que dominar una habilidad."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "Explore",
+      "text_1_facilitator::eng": "{F1_HIJA_6} intenta ponerse los zapatos.",
+      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/young_child_change_yc_1",
+      "character_1_id": "F1_PADRE",
+      "character_1_text::eng": "Noto que no te has puesto los zapatos, aquí estoy si necesitas ayuda.",
+      "character_2_id": "F1_HIJA_6",
+      "character_2_text::eng": "¡No, yo quiero intentarlo!",
+      "character_3_id": "F1_PADRE",
+      "character_3_text::eng": "¡De acuerdo {F1_HIJA_6}!"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "Explore",
+      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/young_child_change_yc_2",
+      "character_1_id": "F1_HIJA_6",
+      "character_1_text::eng": "¡No puedo!",
+      "character_2_id": "F1_PADRE",
+      "character_2_text::eng": "¡Sí, tú puedes! ¿Qué tal si yo te ayudo con un pie y tú lo haces con el otro?"
+    },
+    {
+      "id": "explore_3",
+      "category_id": "Explore",
+      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/young_child_change_yc_3",
+      "character_1_id": "F1_HIJA_6",
+      "character_1_text::eng": "Bueno.",
+      "character_2_id": "F1_PADRE",
+      "character_2_text::eng": "Sujeta el zapato con las dos manos. Ahora, mete el pie izquierdo en el zapato. ¡Ya casi! Mueve los dedos de los pies y asegúrate de que el talón está metido hasta el fondo. ¡Buen trabajo! Ahora, prueba con el zapato derecho."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "Explore",
+      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/young_child_change_yc_4",
+      "character_1_id": "F1_HIJA_6",
+      "character_1_text::eng": "¡Lo logré!",
+      "character_2_id": "F1_PADRE",
+      "character_2_text::eng": "¡Muy bien, {F1_HIJA_6}! ¡Cada día haces más cosas!"
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "\"Da Clic en Reproducir ▶️ para aprender algunas estrategias que puedes seguir para favorecer el desarrollo saludable de {tu niño}:\n\n1️⃣ **APRENDER JUGANDO**\n2️⃣ **APOYAR LA CURIOSIDAD**\"",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "A esta edad, a las niñas y a los niños les encanta jugar y aprender mediante actividades. 🚲\n\nAl hacer estas actividades aprenden valores sociales. Tendrán muchas preguntas sobre su entorno. ✨\n\nRecuerda estas 2️⃣ estrategias para favorecer el desarrollo saludable de {tu niño} a esta edad."
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de {tu niño}. Para empezar, escribe {CRECER}.",
+      "quiz_1_question::eng": "¿Puedes completar la evaluación hoy? ⭐",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de {tu niño}. Para empezar, escribe {CRECER}.",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "💙 Entendemos. Intenta completar esta actividad durante la semana o en otro día de la semana. Puedes escribir {CRECER} en cualquier momento para comenzar la evaluación de desarrollo."
+    }
+  ]
+}

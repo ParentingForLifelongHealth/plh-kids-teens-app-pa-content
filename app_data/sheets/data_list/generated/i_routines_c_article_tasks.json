@@ -10,7 +10,7 @@
       "media_asset": "audio/relax/relax_1.mp3",
       "media_type": "audio",
       "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transript": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "title": "Quick pause",
       "_translations": {
         "title": {}
@@ -25,31 +25,31 @@
       "completed": false
     },
     {
-      "id": "check_in_1",
+      "id": "check_in_6",
       "_translatedFields": {
         "text_1": {
-          "eng": "Take a moment to check in with yourself."
+          "eng": "Cuidarte es fundamental. Cuando reconoces cómo te sientes, puedes identificar lo que necesitas."
         },
         "quiz_1_feedback_1": {
-          "eng": "Wonderful, I am so happy things are going well."
+          "eng": "¡Que alegría! Me da mucho gusto saber que las cosas van bien. Sigue así."
         },
         "quiz_1_feedback_2": {
-          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+          "eng": "Todas las personas tenemos días buenos y días malos. El hecho de que estés aquí muestra tu compromiso y valentía."
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+          "eng": "Lamento que las cosas estén siendo difíciles. Es completamente normal pasar por momentos así. Recuerda que no estás sola/o."
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "¿Cómo te sientes el día de hoy?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Feliz"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Bien"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Triste"
         }
       },
       "category_id": "check_in",
@@ -57,7 +57,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Take a moment to check in with yourself.",
+      "text_1": "Cuidarte es fundamental. Cuando reconoces cómo te sientes, puedes identificar lo que necesitas.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -68,13 +68,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
-      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
-      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "¡Que alegría! Me da mucho gusto saber que las cosas van bien. Sigue así.",
+      "quiz_1_feedback_2": "Todas las personas tenemos días buenos y días malos. El hecho de que estés aquí muestra tu compromiso y valentía.",
+      "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles. Es completamente normal pasar por momentos así. Recuerda que no estás sola/o.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
       "completed": false
     },
     {
@@ -98,7 +98,7 @@
       "completed": false
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "{F2_ABUELA} incluye un tiempo juntos y conectados con su nieta, {F2_HIJA_3}, como parte de su rutina para irse a dormir. ¡Veamos cómo lo hacen juntas!"
@@ -118,6 +118,7 @@
         "character_1_text": {},
         "character_2_text": {}
       },
+      "image_asset": "https://drive.google.com/file/d/15tcvu5tiHjszVDVTJHq7xB9LFgt3-Uqo/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
       "character_2_id": "F2_HIJA_3",
       "character_1_text": "{F2_ABUELA}: Me da mucho gusto verte tranquila jugando con tus bloques, {F2_HIJA_3}. Cuando regrese, será hora de prepararnos para ir a dormir. Cuando estés lista para irte a la cama, me encantará pasar tiempo contigo.",
@@ -125,7 +126,7 @@
       "completed": false
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Es hora de prepararnos para dormir. ¡Al agua patos! A bañarse para que duermas a gusto."
@@ -133,6 +134,7 @@
       },
       "category_id": "explore",
       "nested": false,
+      "image_asset": "https://drive.google.com/file/d/1IK68KkRBut3LE8HpGH4SR213ctzDOSGR/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
       "character_1_text": "Es hora de prepararnos para dormir. ¡Al agua patos! A bañarse para que duermas a gusto.",
       "_translations": {
@@ -141,7 +143,7 @@
       "completed": false
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Observé que te lavaste solita el cabello, te tardaste menos tiempo y no desperdiciaste agua. ¡Así se hace, Yani!. Ahora, a ponerse la pijama."
@@ -149,6 +151,7 @@
       },
       "category_id": "explore",
       "nested": false,
+      "image_asset": "https://drive.google.com/file/d/1JhsJ0Bt4yNoszR6t4M4nqdSplpmY5QP_/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
       "character_1_text": "Observé que te lavaste solita el cabello, te tardaste menos tiempo y no desperdiciaste agua. ¡Así se hace, Yani!. Ahora, a ponerse la pijama.",
       "_translations": {
@@ -157,7 +160,7 @@
       "completed": false
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "_translatedFields": {
         "character_1_text": {
           "eng": "¡Bien hecho por ponerte los pantalones sin ayuda, {F2_HIJA_3}! Ahora lávate los dientes. ¡Asegúrate de cepillarte los de la parte posterior de la boca!"
@@ -165,6 +168,7 @@
       },
       "category_id": "explore",
       "nested": false,
+      "image_asset": "https://drive.google.com/file/d/1ahb7WeEULL7a4VYcrr0CL84qXJxNRYMk/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
       "character_1_text": "¡Bien hecho por ponerte los pantalones sin ayuda, {F2_HIJA_3}! Ahora lávate los dientes. ¡Asegúrate de cepillarte los de la parte posterior de la boca!",
       "_translations": {
@@ -173,7 +177,7 @@
       "completed": false
     },
     {
-      "id": "comic_5",
+      "id": "explore_5",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Te has portado muy bien mientras te preparabas para ir a la cama. Ahora me encantará poder pasar un tiempo contigo. ¿Qué te gustaría hacer?"
@@ -184,6 +188,7 @@
       },
       "category_id": "explore",
       "nested": false,
+      "image_asset": "https://drive.google.com/file/d/1YtDmSJxp_inyzJtvsFm6W7maXesivj_f/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
       "character_2_id": "F2_HIJA_3",
       "character_1_text": "Te has portado muy bien mientras te preparabas para ir a la cama. Ahora me encantará poder pasar un tiempo contigo. ¿Qué te gustaría hacer?",
@@ -195,7 +200,7 @@
       "completed": false
     },
     {
-      "id": "comic_6",
+      "id": "explore_6",
       "_translatedFields": {
         "character_1_text": {
           "eng": "\"Y colorín colorado, este cuento se ha acabado…\" ¿Qué te gustó más de la historia? ¡Cuéntame!"
@@ -203,6 +208,7 @@
       },
       "category_id": "explore",
       "nested": false,
+      "image_asset": "https://drive.google.com/file/d/1pxvfLaoCMkSnOJ4nRiB0ucJvhDfe-ZAJ/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
       "character_1_text": "\"Y colorín colorado, este cuento se ha acabado…\" ¿Qué te gustó más de la historia? ¡Cuéntame!",
       "_translations": {

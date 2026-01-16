@@ -1,0 +1,85 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "ipv_equals_m_articles",
+  "data_list_name": "ipv_equals_m_articles",
+  "status": "released",
+  "flow_subtype": "modules_ipv_equals_m",
+  "module": "ipv_equals_m",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "⭐ La familia y las amistades pueden decirte cómo piensan que debe actuar una pareja o una figura parental. Sin embargo, tanto las mujeres como los hombres, se benefician cuando platican entre sí y toman decisiones en conjunto. Por ejemplo, la próxima vez que tengas que tomar una decisión, involucra a tu pareja o familiar con quien compartes la crianza y pregúntale qué piensa.",
+      "text_2::eng": "Al tomar decisiones en conjunto, refuerzan su relación de pareja o de familia. \n\nEsto también tiene un gran impacto en cómo te sientes y puede ayudar a que tu niña, niño o adolescente perciba tu amor y protección con mayor claridad. \n\nAsí les enseñarás también a compartir sus pensamientos y escuchar a las demás personas. 😃 ",
+      "quiz_1_question::eng": "¡Hagamos un ejercicio! Ejercicio 1. Las decisiones importantes que afectan a toda la familia o a la relación de pareja, deben de ser tomadas por una sola persona.",
+      "quiz_1_option_1_text::eng": "Verdadero",
+      "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n🔑 La comunicación y tomar decisiones importantes junto con tu pareja o familiar es una parte importante de tener una relación sana. Involucra a todos en la decisión para tener todos los puntos de vista. ",
+      "quiz_1_option_2_text::eng": "Falso",
+      "quiz_1_feedback_2::eng": "🎉 ¡Tienes razón!\n\n🔑 La comunicación y tomar decisiones importantes junto con tu pareja o familiar es una parte importante de tener una relación sana. Involucra a todos en la decisión para tener todos los puntos de vista. ",
+      "quiz_3_question::eng": "Como madres, padres o personas cuidadoras también podemos compartir nuestros sentimientos con nuestras niñas, niños o adolescentes.",
+      "quiz_3_option_1_text::eng": "Verdadero",
+      "quiz_3_feedback_1::eng": "🎉 ¡Correcto! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les modela cómo pueden hacerlo.",
+      "quiz_3_option_2_text::eng": "Falso",
+      "quiz_3_feedback_2::eng": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "Aquí tienes una historieta que muestra cómo las parejas o familiares pueden compartir sus opiniones de manera equitativa y tomar decisiones como equipo.",
+      "image_asset": "images/character_icons/ipv_equals_1",
+      "character_1_id": "F1_PADRE",
+      "character_1_text::eng": "{F1_MADRE}, te ves preocupada. ¿Qué pasa?",
+      "character_2_id": "F1_MADRE",
+      "character_2_text::eng": "Acabo de ver en la cocina y no tendremos qué comer el fin de semana, estoy preocupada. ¿qué haremos?"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/character_icons/ipv_equals_2",
+      "character_1_id": "F1_PADRE",
+      "character_1_text::eng": "Oh no, creo que puedo vender unas cosas en el mercado y así tendremos dinero para comprar comida.",
+      "character_2_id": "F1_MADRE",
+      "character_2_text::eng": "Yo estaba pensando lo mismo. Tal vez pueda ayudarte."
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/character_icons/ipv_equals_3",
+      "character_1_id": "F1_PADRE",
+      "character_1_text::eng": "Sí, gracias por siempre ayudarme. Juntos podemos solucionarlo mejor.",
+      "character_2_id": "F1_MADRE",
+      "character_2_text::eng": "De nada, para esto estamos."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "(Una hora más tarde…)",
+      "image_asset": "images/character_icons/ipv_equals_4",
+      "character_1_id": "F1_PADRE",
+      "character_1_text::eng": "Bueno, no será fácil la venta en el mercado pero sí podremos vender algunas cosas y conseguir dinero suficiente para la comida. Ahora me siento más tranquilo.",
+      "character_2_id": "F1_MADRE",
+      "character_2_text::eng": "Yo también. Me siento mucho mejor ahora que ya lo hablamos."
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "\"Da clic en reproducir ▶️ para conocer algunas estrategias para tomar decisiones en equipo:\n\n1️⃣ **COMPARTIR LA TOMA DE DECISIONES**\n2️⃣ **INVOLUCRAR A TU PAREJA**\n3️⃣ **ESTAR EN SINCRONÍA HACE LA DIFERENCIA**\n4️⃣ **PRACTICAR AYUDA A MEJORAR**\"",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nTu actividad para casa consiste en involucrar a tu pareja o familiar en una decisión que deban tomar hoy.  \n\nPor ejemplo, puedes preguntar \"¿Qué te gustaría cenar hoy?\"  ",
+      "quiz_1_question::eng": "¿Crees que pueden hacerlo?  ⏰ ",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "🎉 ¡Bien hecho! ¡La comunicación y el trabajo en equipo con tu pareja o familiar hacen la diferencia!",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "Puede llevar un poco de tiempo acostumbrarse a tomar decisiones como equipo. Dense ese tiempo para adaptarse.\n\nRecuerda que comunicarte con tu pareja o familiar e involucrarle en la toma de decisiones ayudará a que le sea más fácil hacerlo contigo también.\n\n⭐ Siempre puedes volver a consultar esta sesión en el Menú Principal."
+    }
+  ]
+}

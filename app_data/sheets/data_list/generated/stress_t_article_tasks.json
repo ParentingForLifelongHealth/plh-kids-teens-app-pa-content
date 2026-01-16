@@ -1,0 +1,211 @@
+{
+  "flow_name": "stress_t_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_8",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "El autocuidado es una herramienta clave en la crianza. Comienza por reconocer cómo te sientes."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Que bien! Y que valioso que estés usando esta aplicación, esto muestra tu compromiso con la crianza. Recuerda reconocerte por todo lo que estás haciendo."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Cada día tiene altas y bajas. Reconócete por estar aquí y seguir intentándolo: estás avanzando."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Lamento que las cosas estén siendo difíciles en este momento. Toma una respiración profunda y recuerda que eres valiosa/o."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "El autocuidado es una herramienta clave en la crianza. Comienza por reconocer cómo te sientes.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "¡Que bien! Y que valioso que estés usando esta aplicación, esto muestra tu compromiso con la crianza. Recuerda reconocerte por todo lo que estás haciendo.",
+      "quiz_1_feedback_2": "Cada día tiene altas y bajas. Reconócete por estar aquí y seguir intentándolo: estás avanzando.",
+      "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles en este momento. Toma una respiración profunda y recuerda que eres valiosa/o.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Esta lección trata sobre cómo ayudar a nuestros adolescentes con el estrés."
+        },
+        "text_2": {
+          "eng": "Muchas cosas pueden ser estresantes para tu adolescente: una ruptura amorosa, el estrés en casa, el acoso escolar o \"bullying\" y los exámenes. Todas estas situaciones, son retos importantes para cualquier adolescente y, como respuesta, pueden sentir ansiedad, alejarse de las personas e incluso sentirse mal físicamente. Algunas veces pueden responder con violencia, autolesionándose o consumiendo drogas o alcohol para afrontar la situación.\n\nEl cerebro de las y los adolescentes aún está en desarrollo y necesitan herramientas para aprender a afrontar el estrés. Tú puedes ayudar a {tu adolescente} a manejar su estrés, apoyándole durante la situación."
+        },
+        "quiz_1_question": {
+          "eng": "¡Es hora de un ejercicio breve!\n\nEjercicio 1: ¿Cuál de los siguientes NO es un síntoma de estrés?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "1. Problemas para dormir"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\nLas y los adolescentes que sufren de estrés experimentan muchos síntomas, pero la alegría no es uno de ellos."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "2.Arranques de ira"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\nLas y los adolescentes que sufren de estrés experimentan muchos síntomas, pero la alegría no es uno de ellos."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "3.Energía Baja"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\nLas y los adolescentes que sufren de estrés experimentan muchos síntomas, pero la alegría no es uno de ellos."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "4.Juguetón"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "🎉 ¡Buen trabajo!\nLas y los adolescentes que sufren estrés experimentan muchos síntomas, pero la alegría no es uno de ellos."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\nLas y los adolescentes que sufren de estrés experimentan muchos síntomas, pero la alegría no es uno de ellos.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {}
+      },
+      "quiz_1_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\nLas y los adolescentes que sufren de estrés experimentan muchos síntomas, pero la alegría no es uno de ellos.",
+      "quiz_1_feedback_3": "👀 ¡Ups! ¡Buen intento!\n\nLas y los adolescentes que sufren de estrés experimentan muchos síntomas, pero la alegría no es uno de ellos.",
+      "quiz_1_question": "¡Es hora de un ejercicio breve!\n\nEjercicio 1: ¿Cuál de los siguientes NO es un síntoma de estrés?",
+      "quiz_1_option_1_text": "1. Problemas para dormir",
+      "quiz_1_option_2_text": "2.Arranques de ira",
+      "quiz_1_option_3_text": "3.Energía Baja",
+      "text_1_facilitator": "Esta lección trata sobre cómo ayudar a nuestros adolescentes con el estrés.",
+      "text_2": "Muchas cosas pueden ser estresantes para tu adolescente: una ruptura amorosa, el estrés en casa, el acoso escolar o \"bullying\" y los exámenes. Todas estas situaciones, son retos importantes para cualquier adolescente y, como respuesta, pueden sentir ansiedad, alejarse de las personas e incluso sentirse mal físicamente. Algunas veces pueden responder con violencia, autolesionándose o consumiendo drogas o alcohol para afrontar la situación.\n\nEl cerebro de las y los adolescentes aún está en desarrollo y necesitan herramientas para aprender a afrontar el estrés. Tú puedes ayudar a {tu adolescente} a manejar su estrés, apoyándole durante la situación.",
+      "quiz_1_option_4_text": "4.Juguetón",
+      "quiz_1_feedback_4": "🎉 ¡Buen trabajo!\nLas y los adolescentes que sufren estrés experimentan muchos síntomas, pero la alegría no es uno de ellos.",
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da clic en reproducir ▶️ para aprender cómo ayudar a tu adolescentes cuando sienta estrés:\n\n1️⃣ **IDENTIFICAR**\n2️⃣ **CONVERSAR**\n3️⃣ **ESTAR PRESENTE**\n4️⃣ **CONSOLAR**"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender cómo ayudar a tu adolescentes cuando sienta estrés:\n\n1️⃣ **IDENTIFICAR**\n2️⃣ **CONVERSAR**\n3️⃣ **ESTAR PRESENTE**\n4️⃣ **CONSOLAR**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐  \n\n*_Habla con tu adolescente y hagan una lista de las cosas que le producen estrés._* Dialoguen qué podrían hacer para evitar o afrontar estas situaciones que le generan estrés. Pregúntale cómo puedes ayudarle en esos casos."
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes hacerlo con tu adolescente hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Estupendo! 💚 *_Apoyar a tu adolescente cuando está en una situación estresante_* le ayuda a transitar la sensación de una mejor manera y también a sentir más confianza, seguridad y protección de tu parte. Bien hecho, ¡sigue así! 🏆"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "▶️ ¡No pasa nada! Puedes intentarlo mañana o en otro momento de esta semana. 💚 *_Apoyar a tu adolescente cuando está en una situación estresante_* le ayuda a transitar la sensación de una mejor manera y también a sentir más confianza, seguridad y protección de tu parte.🏆"
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "¡Estupendo! 💚 *_Apoyar a tu adolescente cuando está en una situación estresante_* le ayuda a transitar la sensación de una mejor manera y también a sentir más confianza, seguridad y protección de tu parte. Bien hecho, ¡sigue así! 🏆",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "▶️ ¡No pasa nada! Puedes intentarlo mañana o en otro momento de esta semana. 💚 *_Apoyar a tu adolescente cuando está en una situación estresante_* le ayuda a transitar la sensación de una mejor manera y también a sentir más confianza, seguridad y protección de tu parte.🏆",
+      "quiz_1_question": "¿Puedes hacerlo con tu adolescente hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "*_Actividad para casa_*⭐  \n\n*_Habla con tu adolescente y hagan una lista de las cosas que le producen estrés._* Dialoguen qué podrían hacer para evitar o afrontar estas situaciones que le generan estrés. Pregúntale cómo puedes ayudarle en esos casos.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

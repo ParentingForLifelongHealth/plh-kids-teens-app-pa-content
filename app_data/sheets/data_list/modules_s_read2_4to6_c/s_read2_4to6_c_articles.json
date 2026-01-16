@@ -1,0 +1,177 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "s_read2_4to6_c_articles",
+  "data_list_name": "s_read2_4to6_c_articles",
+  "status": "released",
+  "flow_subtype": "modules_s_read2_4to6_c",
+  "module": "s_read2_4to6_c",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "En esta lección vamos a aprender más sobre cómo ayudar a {tu niño} para que mejore en la lectura a través de los juegos de palabras y la escritura. 📝\n\nAprender a leer empieza con la noción del lenguaje, las letras y los sonidos. 🎵\n\nEntender los sonidos de las palabras y empezar a escribir las letras ayudará a {tu niño} a aprender a leer. 📖⭐",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "En esta lección vamos a aprender más sobre cómo ayudar a {tu niño} para que mejore en la lectura a través de los juegos de palabras y la escritura. 📝\n\nAprender a leer empieza con la noción del lenguaje, las letras y los sonidos. 🎵\n\nEntender los sonidos de las palabras y empezar a escribir las letras ayudará a {tu niño} a aprender a leer. 📖⭐"
+        },
+        "text_2": {
+          "eng": "¡Hagamos un ejercicio!📝"
+        },
+        "quiz_1_question": {
+          "eng": "Deberías comenzar a leer libros con {tu niño} solamente cuando ya haya empezado a aprender a leer en la escuela."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n⭐ Madres, padres y personas cuidadoras deberían leer con sus niñas o niños desde una edad temprana. De hecho, ¡puedes empezar desde que nacen!\n\n🏆 Leer con {tu niño} es una forma estupenda de prepararle para el aprovechamiento escolar y de establecer una relación llena de afecto y cariño."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 Estás en lo correcto.\n\n⭐ Madres, padres y personas cuidadoras deberían leer con sus niñas o niños desde una edad temprana. De hecho, ¡puedes empezar desde que nacen!\n\n🏆 Leer con {tu niño} es una forma estupenda de prepararle para el aprovechamiento escolar y de establecer una relación llena de afecto y cariño."
+        }
+      },
+      "text_2": "¡Hagamos un ejercicio!📝",
+      "quiz_1_question": "Deberías comenzar a leer libros con {tu niño} solamente cuando ya haya empezado a aprender a leer en la escuela.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n⭐ Madres, padres y personas cuidadoras deberían leer con sus niñas o niños desde una edad temprana. De hecho, ¡puedes empezar desde que nacen!\n\n🏆 Leer con {tu niño} es una forma estupenda de prepararle para el aprovechamiento escolar y de establecer una relación llena de afecto y cariño.",
+      "quiz_1_option_2_text": "Falso",
+      "quiz_1_feedback_2": "🎉 Estás en lo correcto.\n\n⭐ Madres, padres y personas cuidadoras deberían leer con sus niñas o niños desde una edad temprana. De hecho, ¡puedes empezar desde que nacen!\n\n🏆 Leer con {tu niño} es una forma estupenda de prepararle para el aprovechamiento escolar y de establecer una relación llena de afecto y cariño."
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link",
+      "nested": false,
+      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender ️cuatro estrategias más para ayudar a {tu niño} a aprender a leer:\n\n1️⃣USAR LIBROS PARA APRENDER\n2️⃣IDENTIFICAR LETRAS\n3️⃣JUGAR JUEGOS DE PALABRAS\n4️⃣EMPEZAR A ESCRIBIR",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da clic en reproducir ▶️ para aprender ️cuatro estrategias más para ayudar a {tu niño} a aprender a leer:\n\n1️⃣USAR LIBROS PARA APRENDER\n2️⃣IDENTIFICAR LETRAS\n3️⃣JUGAR JUEGOS DE PALABRAS\n4️⃣EMPEZAR A ESCRIBIR"
+        }
+      }
+    },
+    {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "https://drive.google.com/file/d/1hfWPX9i6ZpYVChhK8_6AafGeqSNCgYOg/view?usp=drive_link",
+      "section_2_icon_asset": "https://drive.google.com/file/d/1JYdcbkVuoMB64KZFOtWUd01yErpe19ac/view?usp=drive_link",
+      "section_3_icon_asset": "https://drive.google.com/file/d/1H0X72PVEhhmWbrzS5AMDtRQq37xnGWY_/view?usp=drive_link",
+      "section_4_icon_asset": "pencil.svg",
+      "nested": false,
+      "text_1_facilitator": "Recuerda estas 4️⃣ estrategias más paraayudar a {tu niño} a desarrollar habilidades lectoras:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Recuerda estas 4️⃣ estrategias más paraayudar a {tu niño} a desarrollar habilidades lectoras:"
+        },
+        "section_1_title": {
+          "eng": "USAR LIBROS PARA APRENDER"
+        },
+        "section_1_text": {
+          "eng": "💡 Los libros sin palabras ayudan con la imaginación, las ideas y el aprendizaje de palabras nuevas. En conjunto, nombren y describan lo que hay en los dibujos.\n\n⭐ Los libros con palabras ayudan a tener una noción de las letras, los sonidos y cómo se ven distintas palabras.\n\n🎵 Enfócate en palabras o frases cortas que rimen, se repitan y empiecen por la misma letra o terminen con el mismo sonido, como \"piña para la niña\", \"el león comelón\", o \"el zorro pide socorro\".\n\n➡️ ¡Señala cada palabra y dila en voz alta para ayudar a {tu niño} a reconocer algunas letras y sonidos!"
+        },
+        "section_2_title": {
+          "eng": "IDENTIFICAR LETRAS"
+        },
+        "section_2_text": {
+          "eng": "👀 Busca letras por todas partes, como en carteles y paquetes.\n\n💡 Señálale las letras a {tu niño} y nómbralas.\n\n👂 ¡Pídele que encuentre letras y que también las nombre! Acuérdate de elogiar cuando lo haga bien."
+        },
+        "section_3_title": {
+          "eng": "JUGAR JUEGOS DE PALABRAS"
+        },
+        "section_3_text": {
+          "eng": "🎵 Canta y haz rimas con {tu niño} para ayudarle a aprender los distintos sonidos que forman a las palabras.\n\n👋 Divide los nombres o las palabras en sílabas. Aplaude con {tu niño} mientras dices cada sílaba: ¡empieza con solo 2!\n\n🔄 Cambia algunos sonidos o letras de las palabras para formar palabras nuevas, como \"casa, pasa, masa\". Luego, repite los sonidos que se cambiaron: \"c\", \"p\", \"m\"\n\n👀 Ayúdale a {tu niño} a identificar los \"sonidos iniciales\", los \"sonidos medios\" y los \"sonidos finales\", y las letras que los forman.\n\n✅ Una vez que {tu niño} entienda las letras y los sonidos en distintos lugares de las palabras, ¡ayúdale a unir las partes de una palabra para formar la palabra completa!"
+        },
+        "section_4_title": {
+          "eng": "EMPEZAR A ESCRIBIR"
+        },
+        "section_4_text": {
+          "eng": "🧸🌷 Anima a tu niña o niño a dibujar. Puede empezar dibujando cosas que le gusten, como animales o flores.\n\n▶️ Ayúdale a identificar su mano dominante preguntándole: \"¿Con qué mano prefieres dibujar?\" Si su respuesta es que usa las dos manos, permítele dibujar con ambas.\n\n🎨 A continuación, enséñale a dibujar figuras que parezcan letras: 🔵🔶\n\n👋 Ayúdale a practicar el trazado de letras en el aire y sobre una superficie usando sus dedos.\n\n😃 Después, ayúdale a escribir letras sencillas con crayones. ¡Empieza practicando con la primera letra de su nombre!\n\n🔄 Practica y ve agregando letras hasta que pueda escribir su nombre completo. Después, ¡aprendan más letras usando diferentes palabras!"
+        }
+      },
+      "section_1_title": "USAR LIBROS PARA APRENDER",
+      "section_1_text": "💡 Los libros sin palabras ayudan con la imaginación, las ideas y el aprendizaje de palabras nuevas. En conjunto, nombren y describan lo que hay en los dibujos.\n\n⭐ Los libros con palabras ayudan a tener una noción de las letras, los sonidos y cómo se ven distintas palabras.\n\n🎵 Enfócate en palabras o frases cortas que rimen, se repitan y empiecen por la misma letra o terminen con el mismo sonido, como \"piña para la niña\", \"el león comelón\", o \"el zorro pide socorro\".\n\n➡️ ¡Señala cada palabra y dila en voz alta para ayudar a {tu niño} a reconocer algunas letras y sonidos!",
+      "section_2_title": "IDENTIFICAR LETRAS",
+      "section_2_text": "👀 Busca letras por todas partes, como en carteles y paquetes.\n\n💡 Señálale las letras a {tu niño} y nómbralas.\n\n👂 ¡Pídele que encuentre letras y que también las nombre! Acuérdate de elogiar cuando lo haga bien.",
+      "section_3_title": "JUGAR JUEGOS DE PALABRAS",
+      "section_3_text": "🎵 Canta y haz rimas con {tu niño} para ayudarle a aprender los distintos sonidos que forman a las palabras.\n\n👋 Divide los nombres o las palabras en sílabas. Aplaude con {tu niño} mientras dices cada sílaba: ¡empieza con solo 2!\n\n🔄 Cambia algunos sonidos o letras de las palabras para formar palabras nuevas, como \"casa, pasa, masa\". Luego, repite los sonidos que se cambiaron: \"c\", \"p\", \"m\"\n\n👀 Ayúdale a {tu niño} a identificar los \"sonidos iniciales\", los \"sonidos medios\" y los \"sonidos finales\", y las letras que los forman.\n\n✅ Una vez que {tu niño} entienda las letras y los sonidos en distintos lugares de las palabras, ¡ayúdale a unir las partes de una palabra para formar la palabra completa!",
+      "section_4_title": "EMPEZAR A ESCRIBIR",
+      "section_4_text": "🧸🌷 Anima a tu niña o niño a dibujar. Puede empezar dibujando cosas que le gusten, como animales o flores.\n\n▶️ Ayúdale a identificar su mano dominante preguntándole: \"¿Con qué mano prefieres dibujar?\" Si su respuesta es que usa las dos manos, permítele dibujar con ambas.\n\n🎨 A continuación, enséñale a dibujar figuras que parezcan letras: 🔵🔶\n\n👋 Ayúdale a practicar el trazado de letras en el aire y sobre una superficie usando sus dedos.\n\n😃 Después, ayúdale a escribir letras sencillas con crayones. ¡Empieza practicando con la primera letra de su nombre!\n\n🔄 Practica y ve agregando letras hasta que pueda escribir su nombre completo. Después, ¡aprendan más letras usando diferentes palabras!"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "Durante su tiempo juntos y conectados, ayuda a {tu niño} a dibujar o escribir para practica ✍️",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Durante su tiempo juntos y conectados, ayuda a {tu niño} a dibujar o escribir para practica ✍️"
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes hacerlo hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "✨ 📖 ¡Excelente! ¡Dibujar y escribir con {tu niño} es una forma estupenda de ayudarle a aprender!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "✨💡 Está bien. No siempre es posible tomarnos un tiempo para hacer esto con {tu niño}. Intenta apartar un poco de tiempo para escribir con {tu niño} todos los días: ¡esto le ayudará en su aprendizaje!"
+        }
+      },
+      "quiz_1_question": "¿Puedes hacerlo hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "✨ 📖 ¡Excelente! ¡Dibujar y escribir con {tu niño} es una forma estupenda de ayudarle a aprender!",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "✨💡 Está bien. No siempre es posible tomarnos un tiempo para hacer esto con {tu niño}. Intenta apartar un poco de tiempo para escribir con {tu niño} todos los días: ¡esto le ayudará en su aprendizaje!"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA modules - Play (46-60).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1mWNhZqCfGOub-6mE1pRygNQ2hZV7C8CUW8L3ifKAVGQ"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

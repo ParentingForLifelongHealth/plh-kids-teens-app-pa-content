@@ -1,0 +1,80 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "Make_plan_c_articles",
+  "data_list_name": "Make_plan_c_articles",
+  "status": "released",
+  "flow_subtype": "modules_Make_plan_c",
+  "module": "Make_plan_c",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Es común que las madres, padres y personas cuidadoras sientan estrés o que no pueden con más cuando tienen tanto que hacer todos los días.\n\nEn esta lección, seguirás aprendiendo formas de regular el estrés al hacer un plan por adelantado.",
+      "text_2::eng": "Crear un plan para cuando estés en una situación que te genera estrés puede ayudarte a planificar y gestionar las situaciones estresantes cuando se produzcan."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "Explore",
+      "text_1_facilitator::eng": "{F1_PADRE} se siente estresado por todas las cosas que tiene que hacer. Veamos cómo {F1_PADRE} crea un plan:",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/make_plan_c_1",
+      "character_1_id": "F1_PADRE",
+      "character_1_text::eng": "(Pensando): ¡Tengo demasiadas cosas que hacer! {F1_HIJO_5} está enfermo y {F1_HIJA_13} necesita ayuda en su proyecto para la escuela. ¡¿Cómo le voy a hacer?!"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "Explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/make_plan_c_2",
+      "character_1_id": "F1_PADRE",
+      "character_1_text::eng": "(pensando): Primero haré una pausa y voy a respirar profundo."
+    },
+    {
+      "id": "explore_3",
+      "category_id": "Explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/make_plan_c_3",
+      "character_1_id": "F1_PADRE",
+      "character_1_text::eng": "Bien, voy a escribir todo lo que tengo que hacer. Tengo que comprar la medicina de {F1_HIJO_5}. Tengo que pagar los recibos y las cuentas que llegaron. También me falta limpiar la casa y ayudar a {F1_HIJA_13} con su proyecto. Además, le tengo que avisar a la maestra de {F1_HIJO_5} que mañana no irá a clases."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "Explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/make_plan_c_4",
+      "character_1_id": "F1_PADRE",
+      "character_1_text::eng": "Mmm... es demasiado lo que me falta por hacer. ¿Qué es lo más importante de todo esto? Ayudar a mi niña y a mi niño es lo más importante. Los recibos no vencen hasta finales de esta semana y puedo limpiar otro día."
+    },
+    {
+      "id": "explore_5",
+      "category_id": "Explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/make_plan_c_5",
+      "character_1_id": "F1_PADRE",
+      "character_1_text::eng": "Fuera de esto, tengo que asegurarme de que {F1_HIJO_5} reciba la atención que necesita, así que eso es lo primero que haré. Una vez que termine, buscaré a {F1_HIJA_13} para ver en qué la puedo ayudar."
+    },
+    {
+      "id": "explore_6",
+      "category_id": "Explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/make_plan_c_6",
+      "character_1_id": "F1_PADRE",
+      "character_1_text::eng": "Limpiaré lo que pueda de la cocina en 10 minutos para estar relajado mientras hago la comida, pero dejaré lo que no alcance a  limpiar para otro día. ¡Anotaré lo de los pagos para hacerlos mañana por la tarde para que no se me olvide! Un paso a la vez, ¡yo puedo!"
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "Da Clic aquí ▶️ para aprender 5️⃣ estrategias que te ayudarán a elaborar un plan cuando estés en situaciones que te generen estrés porque tienes demasiadas cosas que hacer:\n\n1️⃣ **ESCRIBIR O DIBUJAR**\n2️⃣ **DECIDIR**\n3️⃣ **PRIORIZAR Y CLASIFICAR**\n4️⃣ **DIVIDIR**\n5️⃣ **TOMARLO UN PASO A LA VEZ**",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\n! Usa estas estrategias para crear un plan que te ayude a hacer todas las cosas que tienes que hacer hoy o en la semana.",
+      "quiz_1_question::eng": "¿Puedes hacerlo hoy?",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "¡Excelente! 💙\n\n*_Puedes ayudar a controlar tu estrés al hacer una lista de todas las cosas que tienes que hacer, identificando lo que es más importante y lo que puede esperar, y dividiéndolo en pasos más pequeños y fáciles de lograr._*\n\nRecuerda tomar una pausa o pedir apoyo siempre que lo necesites. Escribe {PAUSAR} siempre que quieras tomar una pausa guiada.",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "¡Está bien, no pasa nada! Puedes intentarlo mañana."
+    }
+  ]
+}

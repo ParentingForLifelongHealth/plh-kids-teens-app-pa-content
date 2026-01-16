@@ -22,7 +22,7 @@
       "quiz_1_feedback_2::eng": "✨ ¡Estás en lo correcto!\n\n😣 Cuando las y los adolescentes están en crisis, pueden tener miedo de contárselo a las demás personas por muchas razones. Puede preocuparles que las demás personas les juzguen o se enojen. También puede que sientan vergüenza.\n\n💚 Puedes preguntarle a tu adolescente, con mucha calma, por qué parecen estar molestas o molestos. 👀\n\n👂 Afírmale que estás ahí para ayudar y que es seguro compartir su crisis contigo."
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "category_id": "explore",
       "text_1_facilitator::eng": "Aquí tienes un ejemplo de cómo apoyar a tu adolescente, incluso cuando algo realmente malo ha pasado.",
       "image_asset": "https://drive.google.com/file/d/1lgT7608tPycjvov1shD4XfPXInU3fa8T/view?usp=drive_link",
@@ -30,7 +30,7 @@
       "character_1_text::eng": "Te ves muy molesta, mi vida. ¿Quieres contarme qué pasó?"
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/1nGZaHlJtDMcmGmtR9ZnSkGHH9UvB6rl3/view?usp=drive_link",
       "character_1_id": "F2_HIJA_17",
@@ -39,7 +39,7 @@
       "character_2_text::eng": "(Pensando) Respira profundo... ¿Qué necesita {F2_HIJA_17} ahorita? Necesita que esté tranquila y que la escuche.\n\nVen y siéntate conmigo. Tómate tu tiempo, te escucho."
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/1UW3i5Xhypk8wgJ4MAqON0eevDazwqf3R/view?usp=drive_link",
       "character_1_id": "F2_HIJA_17",
@@ -48,7 +48,7 @@
       "character_2_text::eng": "Te creo, mi vida. Es muy valiente que me cuentes. Gracias por compartir esto conmigo. No estás en problemas. No es tu culpa."
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/1BLuDjWZZRuHjnJ7QBaCjNQj21_Opfkh3/view?usp=drive_link",
       "character_1_id": "F2_HIJA_17",
@@ -57,7 +57,7 @@
       "character_2_text::eng": "Ya veo, estoy aquí para apoyarte, mi vida. Esto es algo importante y encontraremos la forma de conseguir la ayuda que necesitamos. Vamos a la clínica. Ellos sabrán qué hacer para ayudarte."
     },
     {
-      "id": "comic_5",
+      "id": "explore_5",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/16Zx7ZfG94oBb0JgETE9aBzlqfQfyopWZ/view?usp=drive_link",
       "character_1_id": "F2_HIJA_17",
@@ -66,21 +66,21 @@
       "character_2_text::eng": "Claro que sí. Y, ¿{F2_HIJA_17}? Recuerda que no es tu culpa. Te quiero. Es una situación muy complicada pero saldremos adelante."
     },
     {
-      "id": "comic_6",
+      "id": "explore_6",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/1gzlwzyIRobd6uljw6zt5dIiMdwyHqm2w/view?usp=drive_link",
       "character_1_id": "F2_HIJA_17",
       "character_1_text::eng": "Gracias, abuela."
     },
     {
-      "id": "explore_1",
-      "category_id": "explore",
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "Da clic en reproducir ▶️ para aprender algunas estrategias que puedes hacer para apoyar a tu adolescente cuando comparta algo difícil contigo:\n\n1️⃣ RESPIRAR\n2️⃣ ESCUCHAR\n3️⃣ RESPONDER\n4️⃣ CONSOLAR",
       "media_type": "video",
       "youtube_gb_en": "youtube link"
     },
     {
-      "id": "practical_tips_1",
+      "id": "practical_tips_2",
       "category_id": "practical_tips",
       "text_1_facilitator::eng": "Recuerda las 4️⃣ estrategias que puedes seguir para apoyar a tu adolescente en caso de que sufra algún evento de abuso sexual. Estas estrategias también pueden ser útiles si {tu adolescente} te comparte otros casos de crisis contigo, como sufrir acoso escolar o un asalto:",
       "section_1_title::eng": "RESPIRAR",

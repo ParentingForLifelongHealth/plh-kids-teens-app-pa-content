@@ -1,0 +1,180 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "ks_online_hab_t_articles",
+  "data_list_name": "ks_online_hab_t_articles",
+  "status": "released",
+  "flow_subtype": "modules_ks_online_hab_t",
+  "module": "ks_online_hab_t",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "La lección anterior te enseñó formas de proteger a tu adolescente al navegar en internet con dos estrategias: 1️⃣ APRENDER y 2️⃣ PROTEGER. 🔑\n\nEn esta lección continuaremos el aprendizaje sobre cómo mantener la seguridad de nuestros adolescentes al navegar por internet con 3️⃣ CONSTRUIR HÁBITOS SEGUROS y 4️⃣ CONSTRUIR CONFIANZA✨\n\n💡 A menudo, las y los adolescentes entienden más de la vida en Internet que nosotras y nosotros, pero eso no significa que sepan cómo mantener su seguridad, ya que son muy jóvenes y necesitan orientación.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "La lección anterior te enseñó formas de proteger a tu adolescente al navegar en internet con dos estrategias: 1️⃣ APRENDER y 2️⃣ PROTEGER. 🔑\n\nEn esta lección continuaremos el aprendizaje sobre cómo mantener la seguridad de nuestros adolescentes al navegar por internet con 3️⃣ CONSTRUIR HÁBITOS SEGUROS y 4️⃣ CONSTRUIR CONFIANZA✨\n\n💡 A menudo, las y los adolescentes entienden más de la vida en Internet que nosotras y nosotros, pero eso no significa que sepan cómo mantener su seguridad, ya que son muy jóvenes y necesitan orientación."
+        },
+        "text_2": {
+          "eng": "Empecemos con un ejercicio para poner a prueba tus conocimientos sobre seguridad al navegar por Internet."
+        },
+        "quiz_1_question": {
+          "eng": "1. Si le mando una foto a alguien, solo será visible para ella o él."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n📱 Incluso en una aplicación donde las imágenes son temporales,  la otra persona puede tomar captura de tu pantalla,  guardar tu imagen y compartirla. También puede tomar otro celular y tomarle foto o vídeo.\n\n🚩 Las fotos siempre se almacenan en internet y los hackers pueden acceder a ellas.  \n\n❗Recuerda, ¡lo que se sube al internet se queda en el internet y puede ser utilizado para fines inapropiados!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 Estás en lo correcto.\n\n📱 Incluso en una aplicación donde las imágenes son temporales,  la otra persona puede tomar captura de tu pantalla,  guardar tu imagen y compartirla. También puede tomar otro celular y tomarle foto o vídeo.\n\n🚩 Las fotos siempre se almacenan en internet y los hackers pueden acceder a ellas.  \n\n❗Recuerda, ¡lo que se sube al internet se queda en el internet y puede ser utilizado para fines inapropiados!"
+        },
+        "quiz_2_question": {
+          "eng": "2. Mi contraseña es segura porque tendrías que saber la dirección de mi casa para adivinarla."
+        },
+        "quiz_2_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n❗ La cuenta de correo electrónico o de teléfono de tus familiares podrían ser pirateadas o hackeadas.  \n\n👀 Siempre revisa dos veces un enlace antes de hacer clic en él para asegurarte de que estás visitando un sitio web de confianza.  \n\n🔑 Si no conoces la dirección web, no hagas clic en ella."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "✨ Estás en lo correcto.\n\n❗ La cuenta de correo electrónico o de teléfono de tus familiares podrían ser pirateadas o hackeadas.  \n\n👀 Siempre revisa dos veces un enlace antes de hacer clic en él para asegurarte de que estás visitando un sitio web de confianza.  \n\n🔑 Si no conoces la dirección web, no hagas clic en ella."
+        }
+      },
+      "text_2": "Empecemos con un ejercicio para poner a prueba tus conocimientos sobre seguridad al navegar por Internet.",
+      "quiz_1_question": "1. Si le mando una foto a alguien, solo será visible para ella o él.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n📱 Incluso en una aplicación donde las imágenes son temporales,  la otra persona puede tomar captura de tu pantalla,  guardar tu imagen y compartirla. También puede tomar otro celular y tomarle foto o vídeo.\n\n🚩 Las fotos siempre se almacenan en internet y los hackers pueden acceder a ellas.  \n\n❗Recuerda, ¡lo que se sube al internet se queda en el internet y puede ser utilizado para fines inapropiados!",
+      "quiz_1_option_2_text": "Falso",
+      "quiz_1_feedback_2": "🎉 Estás en lo correcto.\n\n📱 Incluso en una aplicación donde las imágenes son temporales,  la otra persona puede tomar captura de tu pantalla,  guardar tu imagen y compartirla. También puede tomar otro celular y tomarle foto o vídeo.\n\n🚩 Las fotos siempre se almacenan en internet y los hackers pueden acceder a ellas.  \n\n❗Recuerda, ¡lo que se sube al internet se queda en el internet y puede ser utilizado para fines inapropiados!",
+      "quiz_2_question": "2. Mi contraseña es segura porque tendrías que saber la dirección de mi casa para adivinarla.",
+      "quiz_2_option_1_text": "Verdadero",
+      "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n❗ La cuenta de correo electrónico o de teléfono de tus familiares podrían ser pirateadas o hackeadas.  \n\n👀 Siempre revisa dos veces un enlace antes de hacer clic en él para asegurarte de que estás visitando un sitio web de confianza.  \n\n🔑 Si no conoces la dirección web, no hagas clic en ella.",
+      "quiz_2_option_2_text": "Falso",
+      "quiz_2_feedback_2": "✨ Estás en lo correcto.\n\n❗ La cuenta de correo electrónico o de teléfono de tus familiares podrían ser pirateadas o hackeadas.  \n\n👀 Siempre revisa dos veces un enlace antes de hacer clic en él para asegurarte de que estás visitando un sitio web de confianza.  \n\n🔑 Si no conoces la dirección web, no hagas clic en ella."
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link",
+      "nested": false,
+      "text_1_facilitator": "Mantener la seguridad de {tu adolescente} al navegar por internet es un paso importante para ayudarle a formar parte del mundo digital. 📱\n\nYa has aprendido dos estrategias para procurar la seguridad de tu adolescente en internet durante la lección anterior: 1️⃣ APRENDER y 2️⃣ PROTEGER.\n\nDa clic en reproducir ▶️ para aprender a:\n3️⃣ CONSTRUIR HÁBITOS SEGUROS\n4️⃣ CONSTRUIR CONFIANZA",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Mantener la seguridad de {tu adolescente} al navegar por internet es un paso importante para ayudarle a formar parte del mundo digital. 📱\n\nYa has aprendido dos estrategias para procurar la seguridad de tu adolescente en internet durante la lección anterior: 1️⃣ APRENDER y 2️⃣ PROTEGER.\n\nDa clic en reproducir ▶️ para aprender a:\n3️⃣ CONSTRUIR HÁBITOS SEGUROS\n4️⃣ CONSTRUIR CONFIANZA"
+        }
+      }
+    },
+    {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "https://drive.google.com/file/d/1yuMaNGzZNRXTUkoIoYGxcyps__hKv0KX/view?usp=drive_link",
+      "section_2_icon_asset": "https://drive.google.com/file/d/1JYdcbkVuoMB64KZFOtWUd01yErpe19ac/view?usp=drive_link",
+      "nested": false,
+      "text_1_facilitator": "Recuerda las 4️⃣ estrategias para mantener la seguridad de {tu adolescente} al navegar por internet.\n\nLas dos revisadas en la lección anterior: \n1️⃣ APRENDER\n2️⃣ PROTEGER\n\nY las dos que revisamos en esta lección:\n3️⃣ CONSTRUIR HÁBITOS SEGUROS\n4️⃣ CONSTRUIR CONFIANZA",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Recuerda las 4️⃣ estrategias para mantener la seguridad de {tu adolescente} al navegar por internet.\n\nLas dos revisadas en la lección anterior: \n1️⃣ APRENDER\n2️⃣ PROTEGER\n\nY las dos que revisamos en esta lección:\n3️⃣ CONSTRUIR HÁBITOS SEGUROS\n4️⃣ CONSTRUIR CONFIANZA"
+        },
+        "section_1_title": {
+          "eng": "CONSTRUIR HÁBITOS SEGUROS"
+        },
+        "section_1_text": {
+          "eng": "Establece hábitos para mantener la seguridad de navegación en internet en casa:\n\n❌📱 Establece momentos libres de celulares, como durante las comidas, la tarea o a la hora de dormir.\n\n❗ Controla el tiempo que {tu adolescente} pasa en su celular.\n\n⭐ Solo deja que {tu adolescente} chatee con personas que ya conozca. Nunca deben compartir información personal en una  grupo de chat ni con personas desconocidas.\n\n👀 Antes de llenar formularios que soliciten información personal, comprueba que la dirección web comienza por https://. Los sitios web que empiezan por http:// pueden ser riesgosos.\n\n📝 Ayúdale a crear contraseñas seguras para sus cuentas. Deben ser largas e incluir letras mayúsculas y minúsculas, números y símbolos. Pero no deben incluir información personal obvia como su nombre o fecha de cumpleaños.\n\n❗ Dile a tu adolescente que no haga clic en  links/enlaces que le pidan que descargue o pague por algo."
+        },
+        "section_2_title": {
+          "eng": "CONSTRUIR CONFIANZA"
+        },
+        "section_2_text": {
+          "eng": "🌷 Juntos, revisen los sitios web, las redes sociales, los juegos y las aplicaciones que usa {tu adolescente}.\n\n👂 Hazle preguntas: ¡te ayudará a conocer mejor sus intereses!\n\n💙 Si encuentras algo preocupante, háblalo con él o ella. Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con tu adolescente, puedes hacer clic en la palabra AYUDA para recibir una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo.\n\n✅ Coméntale a {tu adolescente} que si llega a sentir miedo, inseguridad, peligro o molestia por algo en internet, siempre debe contártelo a ti o a otra persona adulta."
+        }
+      },
+      "section_1_title": "CONSTRUIR HÁBITOS SEGUROS",
+      "section_1_text": "Establece hábitos para mantener la seguridad de navegación en internet en casa:\n\n❌📱 Establece momentos libres de celulares, como durante las comidas, la tarea o a la hora de dormir.\n\n❗ Controla el tiempo que {tu adolescente} pasa en su celular.\n\n⭐ Solo deja que {tu adolescente} chatee con personas que ya conozca. Nunca deben compartir información personal en una  grupo de chat ni con personas desconocidas.\n\n👀 Antes de llenar formularios que soliciten información personal, comprueba que la dirección web comienza por https://. Los sitios web que empiezan por http:// pueden ser riesgosos.\n\n📝 Ayúdale a crear contraseñas seguras para sus cuentas. Deben ser largas e incluir letras mayúsculas y minúsculas, números y símbolos. Pero no deben incluir información personal obvia como su nombre o fecha de cumpleaños.\n\n❗ Dile a tu adolescente que no haga clic en  links/enlaces que le pidan que descargue o pague por algo.",
+      "section_2_title": "CONSTRUIR CONFIANZA",
+      "section_2_text": "🌷 Juntos, revisen los sitios web, las redes sociales, los juegos y las aplicaciones que usa {tu adolescente}.\n\n👂 Hazle preguntas: ¡te ayudará a conocer mejor sus intereses!\n\n💙 Si encuentras algo preocupante, háblalo con él o ella. Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con tu adolescente, puedes hacer clic en la palabra AYUDA para recibir una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo.\n\n✅ Coméntale a {tu adolescente} que si llega a sentir miedo, inseguridad, peligro o molestia por algo en internet, siempre debe contártelo a ti o a otra persona adulta."
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "Sigue estos pasos para mantener a tu adolescente a salvo al navegar el internet:\n📝 Anota o dibuja los íconos de las aplicaciones y sitios web que tu adolescente usa.\n🏅 ¡Elogia a tu adolescente por lo bien que navega por la web!\n🔴 Hablen sobre qué sitios o aplicaciones pueden ser inseguros o peligrosos y por qué.\n📱 Platiquen sobre cómo {tu adolescente} y sus amigas y amigos pueden navegar la web de forma más segura.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Sigue estos pasos para mantener a tu adolescente a salvo al navegar el internet:\n📝 Anota o dibuja los íconos de las aplicaciones y sitios web que tu adolescente usa.\n🏅 ¡Elogia a tu adolescente por lo bien que navega por la web!\n🔴 Hablen sobre qué sitios o aplicaciones pueden ser inseguros o peligrosos y por qué.\n📱 Platiquen sobre cómo {tu adolescente} y sus amigas y amigos pueden navegar la web de forma más segura."
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes hacerlo hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Estupendo! Ayudarle a tu adolescente a mantener su seguridad al navegar por internet es importante para que pueda aprender y pueda conectar con los demás. ¡Qué bueno que te estás involucrando, así tu adolescente estará a salvo! 🔑"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Entendemos. Aparta un poco de tiempo esta semana para hacer esta actividad con tu adolescente. ⏰ \n\nEs importante hablar con nuestros adolescentes sobre cómo procurar su seguridad al navegar por internet para que puedan moverse en el mundo digital con el fin de aprender más y conectar con los demás. ¡Tú puedes hacerlo! ⭐"
+        }
+      },
+      "quiz_1_question": "¿Puedes hacerlo hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "¡Estupendo! Ayudarle a tu adolescente a mantener su seguridad al navegar por internet es importante para que pueda aprender y pueda conectar con los demás. ¡Qué bueno que te estás involucrando, así tu adolescente estará a salvo! 🔑",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "Entendemos. Aparta un poco de tiempo esta semana para hacer esta actividad con tu adolescente. ⏰ \n\nEs importante hablar con nuestros adolescentes sobre cómo procurar su seguridad al navegar por internet para que puedan moverse en el mundo digital con el fin de aprender más y conectar con los demás. ¡Tú puedes hacerlo! ⭐"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA modules - problem (31 - 45).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1q27LnkUFTJQqEbqkgh1hgN4sDQkfasSo29b5SAP4ktg"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

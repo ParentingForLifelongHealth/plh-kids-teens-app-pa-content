@@ -1,0 +1,88 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "online_safety_yc_articles",
+  "data_list_name": "online_safety_yc_articles",
+  "status": "released",
+  "flow_subtype": "modules_online_safety_yc",
+  "module": "online_safety_yc",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Esta lección trata sobre cómo asegurar que {tu niño} esté a salvo mientras navega en internet y usa nuestros dispositivos electrónicos📱\n\nHay mucho que compartir. Conversaremos sobre la navegación segura en internet a lo largo de dos lecciones.2️⃣",
+      "text_2::eng": "Las niñas y los niños pasan mucho tiempo en internet.⏰  Estar conectados les ayuda a mantenerse positivos y a aprender más 🔑 pero también hay algunos riesgos y peligros.🚩",
+      "quiz_1_question::eng": "¡Hagamos un ejercicio! Las madres, los padres y las personas cuidadoras deben establecer límites de tiempo de uso diario de internet para sus niñas y niños.",
+      "quiz_1_option_1_text::eng": "Verdadero",
+      "quiz_1_feedback_1::eng": "🎉 ¡Correcto!\n\n⏰ Establecer límites de tiempo puede ayudar a equilibrar las actividades que hacen en línea con otras que también son importantes, como la tarea, ayudar en los deberes de la casa y las actividades físicas.",
+      "quiz_1_option_2_text::eng": "Falso",
+      "quiz_1_feedback_2::eng": "👀 ¡Ups! ¡Buen intento!\n\n⏰ Establecer límites de tiempo puede ayudar a equilibrar las actividades que hacen en línea con otras que también son importantes, como la tarea, ayudar en los deberes de la casa y las actividades físicas.",
+      "quiz_2_question::eng": "¡Uno más!  \n\nEs seguro que las niñas y los niños más pequeños tengan sus cuentas en las redes sociales sin supervisión",
+      "quiz_2_option_1_text::eng": "Verdadero",
+      "quiz_2_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n🔑 Las plataformas para redes sociales tienen restricciones de edad por algo. \n\n👀 Las niñas y los niños más pequeños no deben tener cuentas en las redes sociales sin la orientación y supervisión de una persona adulta, ya que pueden encontrarse con contenidos o interacciones inapropiados. ",
+      "quiz_2_option_2_text::eng": "Falso",
+      "quiz_2_feedback_2::eng": "✨ ¡Correcto!\n\n🔑 Las plataformas para redes sociales tienen restricciones de edad por algo. \n\n👀 Las niñas y los niños más pequeños no deben tener cuentas en las redes sociales sin la orientación y supervisión de una persona adulta, ya que pueden encontrarse con contenidos o interacciones inapropiados. "
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "{F2_HIJO_8} quiere jugar con el celular. Su abuelo, {F2_ABUELO}, aprovecha esta oportunidad para enseñarle a {F2_HIJO_8} cómo navegar de manera segura en internet:",
+      "image_asset": "https://drive.google.com/file/d/1nzS9AMyVh0ESssuJ6GOiD7pRAFGA3KVU/view?usp=drive_link",
+      "character_1_id": "F2_HIJO_8",
+      "character_1_text::eng": "¿Puedo usar el teléfono para jugar?",
+      "character_2_id": "F2_ABUELO",
+      "character_2_text::eng": "¡Claro!... pero primero aprendamos a usar los dispositivos electrónicos de manera segura. En primer lugar, la regla de la casa es que solo puedes utilizarlos por 30 minutos al día. Es lo que dura un episodio de tu caricatura favorita. Pondré un temporizador que se activará cuando te queden 5 minutos."
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1D_gi6KeuPihe_gRwvOtbY2rQQO6x3kt3/view?usp=drive_link",
+      "character_1_id": "F2_ABUELO",
+      "character_1_text::eng": "Siempre pídeme permiso a mí o a tu abuelita antes de usar cualquier dispositivo o descargar cualquier aplicación. Además, solo debes usar juegos o ver vídeos que hayamos aprobado, ¿de acuerdo?",
+      "character_2_id": "F2_HIJO_8",
+      "character_2_text::eng": "¡Está bien abuelo!",
+      "character_3_id": "F2_ABUELO",
+      "character_3_text::eng": "¡Eres muy bueno para escuchar!"
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1z_dyMU0T5X-DFWlxsF_WVU_KEPXqGM1D/view?usp=drive_link",
+      "character_1_id": "F2_HIJO_8",
+      "character_1_text::eng": "Abuelito, ¿puedo crear mi propia cuenta para fotos y videos? Pati tiene su propia cuenta.",
+      "character_2_id": "F2_ABUELO",
+      "character_2_text::eng": "Esperaremos a que seas un poco mayor, {F2_HIJO_8}. Las redes sociales son para niños más grandes. Si quieres, lo que podemos hacer es elegir juntos algunas fotos y publicarlas en mi cuenta.",
+      "character_3_id": "F2_HIJO_8",
+      "character_3_text::eng": "Bueno."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1MXWbuL7aQqO9ujyIY5nkLnBSpH2DqNkg/view?usp=drive_link",
+      "character_1_id": "F2_ABUELO",
+      "character_1_text::eng": "Gracias por entenderlo. Y recuerda, nunca hagas clic en una ventana o en una imagen que te aparezca de la nada. Además, si alguna vez algo te molesta, avísanos de inmediato. ¡Estamos aquí para mantenerte a salvo! Vamos a jugar 5 minutos para practicar lo que acordamos.",
+      "character_2_id": "F2_HIJO_8",
+      "character_2_text::eng": "¡Sí, abuelito! Gracias."
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "Mantener la seguridad de {tu niño} al navegar por internet es un paso importante para ayudarle a formar parte del mundo digital. 📱\n\nVamos a aprender 4️⃣ estrategias para mantener la seguridad de {tu niño} al navegar por internet:\n1️⃣ **APRENDER**\n2️⃣ **PROTEGER**\n3️⃣ **CONSTRUIR HÁBITOS SEGUROS**\n4️⃣ **CONSTRUIR CONFIANZA**\n\nDa Clic en Reproducir ▶️ para aprender sobre las dos primeras: APRENDER y PROTEGER.\n\n✨ En la próxima lección aprenderemos sobre CONSTRUIR HÁBITOS SEGUROS y CONSTRUIR CONFIANZA.",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nPregúntale a {tu niño} qué hace para mantener su seguridad al usar el internet. 👂 Puede que descubras que ya piensa en la ciberseguridad. 💡\n\nFelicítale por cualquier esfuerzo que ya esté haciendo.",
+      "quiz_1_question::eng": "¿Puedes conversar con {tu niño} hoy? 🔔",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "¡Estupendo! Ayudarle a {tu niño} a mantener su seguridad al navegar por internet es importante para que pueda aprender y pueda mantener un contacto seguro con los demás. ¡Qué bueno que te estás involucrando, así tus niñas y niños estarán más seguros! 🔑",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "Está bien. Aparta un poco de tiempo esta semana para hacer esta actividad con {tu niño}. ⏰ Es importante conversar con nuestras niñas y niños sobre cómo mantener su seguridad al navegar por Internet para que puedan conectarse con los demás y aprender más del mundo digital. ¡Tú puedes hacerlo! ⭐"
+    }
+  ]
+}

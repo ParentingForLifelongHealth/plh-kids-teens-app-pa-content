@@ -22,25 +22,25 @@
       "quiz_1_feedback_2::eng": "🎉 ¡Tienes razón!\n✨ La forma en que elogies es importante. El reconocimiento funciona si es inmediato y específico.  \n🌱 Puedes empezar reconociendo y elogiando cosas pequeñas, como que arregle su cuarto.  "
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "category_id": "explore",
       "text_1_facilitator::eng": "Aquí tienes una historieta sobre cómo puedes elogiar a tu adolescente durante su tiempo juntos y conectados.",
-      "image_asset": "https://drive.google.com/file/d/1Jhq9sJQu7xVQ4y3tg6u9_aFKK47zZyBB/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/give_praise_teen_1.svg",
       "text_2::eng": "{F3_MADRE} y su hija {F3_HIJA_12} dedican su tiempo juntos y conectados con las tareas de la escuela."
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1WyKBToh8ziw7OJLsBF2EuAXbeav5PeJy/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/give_praise_teen_2.svg",
       "character_1_id": "F3_MADRE",
       "character_1_text::eng": "¡Bien hecho, {F3_HIJA_12}! Creo que por fin lo lograste. No te había contado, pero las matemáticas siempre fueron difíciles para mí.",
       "character_2_id": "F3_HIJA_12",
       "character_2_text::eng": "¿En serio? Creí que solo me pasaba a mí."
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1BW5ie91rZsOnEWAJKM-BIkkH8tHkp2eu/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/give_praise_teen_3.svg",
       "text_2::eng": "Después de terminar la tarea:",
       "character_1_id": "F3_MADRE",
       "character_1_text::eng": "No fue nada fácil. ¡Yo también aprendí algo! Gracias por dejarme ayudarte con tu tarea, {F3_HIJA_12}. Estás avanzando mucho.",
@@ -48,14 +48,14 @@
       "character_2_text::eng": "Gracias, mamá. De verdad agradezco que te hayas tomado este tiempo para ayudarme."
     },
     {
-      "id": "explore_1",
-      "category_id": "explore",
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "⭐ Elogiar el esfuerzo y el buen comportamiento de {tu adolescente}, hará que quiera seguir portándose bien.\nDa clic en reproducir para aprender las 4️⃣ estrategias para dar reconocimiento a {tu adolescente}:\n1️⃣ OBSERVAR\n2️⃣ COMUNICAR\n3️⃣ REPETIR\n4️⃣ MANTENERLO POSITIVO",
       "media_type": "video",
       "youtube_gb_en": "youtube link"
     },
     {
-      "id": "practical_tips_1",
+      "id": "practical_tips_2",
       "category_id": "practical_tips",
       "text_1_facilitator::eng": "¡Cuando le prestas atención a los comportamientos buenos, es más probable que tu adolescente repita esos comportamientos y se sienta bien consigo mismo!\n\nRecuerda las 4 estrategias de crianza para dar reconocimiento a {tu adolescente}:",
       "section_1_title::eng": "OBSERVAR",

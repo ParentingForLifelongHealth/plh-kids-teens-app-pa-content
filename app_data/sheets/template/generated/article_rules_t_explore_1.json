@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_rules_t_explore_1",
+  "flow_name": "article_Rules_t_explore_1",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -37,7 +37,7 @@
         },
         {
           "name": "module_id",
-          "value": "rules_t",
+          "value": "Rules_t",
           "_translations": {
             "value": {}
           },

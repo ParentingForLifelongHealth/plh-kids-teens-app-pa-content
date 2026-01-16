@@ -1,0 +1,225 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "ipv_supportive_m_articles",
+  "data_list_name": "ipv_supportive_m_articles",
+  "status": "released",
+  "flow_subtype": "modules_ipv_supportive_m",
+  "module": "ipv_supportive_m",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Esta sesión trata sobre como ser una figura de apoyo en la crianza y con la pareja o la familia  💚",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_3_question": {},
+        "quiz_3_option_1_text": {},
+        "quiz_3_feedback_1": {},
+        "quiz_3_option_2_text": {},
+        "quiz_3_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Esta sesión trata sobre como ser una figura de apoyo en la crianza y con la pareja o la familia  💚"
+        },
+        "text_2": {
+          "eng": "Cuando todos, ya sean los padres, las madres o las personas cuidadoras, se involucran en la crianza de sus niñas, niños y adolescentes, la familia completa sale beneficiada. 😃"
+        },
+        "quiz_1_question": {
+          "eng": "¡Hagamos un ejercicio! Ejercicio 1. La crianza es responsabilidad de la mujer y no del hombre.💚"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\nLa crianza no es un rol únicamente para la mujer: ¡los hombres también desempeñan un papel importante!\n\nCuando las madres, los padres y las personas cuidadoras hacen equipo y se comprometen en la crianza de sus niñas, niños y adolescentes, ¡toda la familia sale beneficiada! 🌷"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 ¡Tienes razón!\n\nLa crianza no es un rol únicamente para la mujer: ¡los hombres también desempeñan un papel importante. \n\nCuando las madres, los padres y las personas cuidadoras hacen equipo y se comprometen en la crianza de sus niñas, niños y adolescentes, ¡toda la familia sale beneficiada! 🌷"
+        },
+        "quiz_3_question": {
+          "eng": "Como madres, padres o personas cuidadoras también podemos compartir nuestros sentimientos con nuestras niñas, niños o adolescentes."
+        },
+        "quiz_3_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_3_feedback_1": {
+          "eng": "🎉 ¡Correcto! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les modela cómo pueden hacerlo."
+        },
+        "quiz_3_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_3_feedback_2": {
+          "eng": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
+        }
+      },
+      "text_2": "Cuando todos, ya sean los padres, las madres o las personas cuidadoras, se involucran en la crianza de sus niñas, niños y adolescentes, la familia completa sale beneficiada. 😃",
+      "quiz_1_question": "¡Hagamos un ejercicio! Ejercicio 1. La crianza es responsabilidad de la mujer y no del hombre.💚",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\nLa crianza no es un rol únicamente para la mujer: ¡los hombres también desempeñan un papel importante!\n\nCuando las madres, los padres y las personas cuidadoras hacen equipo y se comprometen en la crianza de sus niñas, niños y adolescentes, ¡toda la familia sale beneficiada! 🌷",
+      "quiz_1_option_2_text": "Falso",
+      "quiz_1_feedback_2": "🎉 ¡Tienes razón!\n\nLa crianza no es un rol únicamente para la mujer: ¡los hombres también desempeñan un papel importante. \n\nCuando las madres, los padres y las personas cuidadoras hacen equipo y se comprometen en la crianza de sus niñas, niños y adolescentes, ¡toda la familia sale beneficiada! 🌷",
+      "quiz_3_question": "Como madres, padres o personas cuidadoras también podemos compartir nuestros sentimientos con nuestras niñas, niños o adolescentes.",
+      "quiz_3_option_1_text": "Verdadero",
+      "quiz_3_feedback_1": "🎉 ¡Correcto! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les modela cómo pueden hacerlo.",
+      "quiz_3_option_2_text": "Falso",
+      "quiz_3_feedback_2": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "image_asset": "images/character_icons/ipv_supportive_1",
+      "character_1_id": "F1_PADRE",
+      "nested": false,
+      "text_1_facilitator": "Aquí tienes una historieta que muestra cómo puedes mostrarle apoyo a tu pareja o familiar y ser una madre, un padre o una persona cuidadora que se involucra en la crianza:\n\nYa casi es la hora de acostarse y papá está supervisando que {F1_HIJA_6} termine su tarea. Mamá acaba de llegar del trabajo.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Aquí tienes una historieta que muestra cómo puedes mostrarle apoyo a tu pareja o familiar y ser una madre, un padre o una persona cuidadora que se involucra en la crianza:\n\nYa casi es la hora de acostarse y papá está supervisando que {F1_HIJA_6} termine su tarea. Mamá acaba de llegar del trabajo."
+        },
+        "character_1_text": {
+          "eng": "¡Buen trabajo, {F1_HIJA_6}! ¡Estás leyendo con mucha fluidez!"
+        }
+      },
+      "character_1_text": "¡Buen trabajo, {F1_HIJA_6}! ¡Estás leyendo con mucha fluidez!"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/character_icons/ipv_supportive_2",
+      "character_1_id": "F1_PADRE",
+      "character_2_id": "F1_MADRE",
+      "nested": false,
+      "character_1_text": "Hola, {F1_MADRE}. Justo estaba haciendo la tarea con {F1_HIJA_6}. ¿Cómo te fue hoy?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Hola, {F1_MADRE}. Justo estaba haciendo la tarea con {F1_HIJA_6}. ¿Cómo te fue hoy?"
+        },
+        "character_2_text": {
+          "eng": "Tuve un día muy pesado, me duelen mis piecitos y todavía tenemos que prepararles la comida a los niños."
+        }
+      },
+      "character_2_text": "Tuve un día muy pesado, me duelen mis piecitos y todavía tenemos que prepararles la comida a los niños."
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/character_icons/ipv_supportive_3",
+      "character_1_id": "F1_PADRE",
+      "nested": false,
+      "character_1_text": "Deberías descansar. Yo puedo encargarme de la comida y estar al pendiente de {F1_HIJA_6} en lo que termina su tarea.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Deberías descansar. Yo puedo encargarme de la comida y estar al pendiente de {F1_HIJA_6} en lo que termina su tarea."
+        }
+      }
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/character_icons/ipv_supportive_4",
+      "character_1_id": "F1_MADRE",
+      "character_2_id": "F1_PADRE",
+      "nested": false,
+      "character_1_text": "¡Eso sería maravilloso, {F1_PADRE}! Gracias por trabajar conmigo y ser un gran equipo.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Eso sería maravilloso, {F1_PADRE}! Gracias por trabajar conmigo y ser un gran equipo."
+        },
+        "character_2_text": {
+          "eng": "¡Claro! Estamos juntos en esto."
+        }
+      },
+      "character_2_text": "¡Claro! Estamos juntos en esto."
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link",
+      "nested": false,
+      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender algunas estrategias para ser una figura de apoyo en la crianza y con tu pareja o familiar.\n\n1️⃣ *PONER ATENCIÓN*\n2️⃣ *TRABAJAR COMO EQUIPO*\n3️⃣ *SER UN INTEGRANTE ACTIVO*\n4️⃣ *PEDIR APOYO*",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da clic en reproducir ▶️ para aprender algunas estrategias para ser una figura de apoyo en la crianza y con tu pareja o familiar.\n\n1️⃣ *PONER ATENCIÓN*\n2️⃣ *TRABAJAR COMO EQUIPO*\n3️⃣ *SER UN INTEGRANTE ACTIVO*\n4️⃣ *PEDIR APOYO*"
+        }
+      }
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "<span><b><i>*_Actividad para casa_*⭐ </b></i></span><span><br/><br/>Trata de darte cuenta de los momentos en los que tu pareja o familiar con quien compartes la crianza necesita apoyo. Pregúntale qué necesita y escúchale. <br/><br/>Por ejemplo, cuando tu niña, niño o adolescente se está preparando para ir a la escuela, pregúntale si necesitan tu ayuda para algo. </span>",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "<span><b><i>*_Actividad para casa_*⭐ </b></i></span><span><br/><br/>Trata de darte cuenta de los momentos en los que tu pareja o familiar con quien compartes la crianza necesita apoyo. Pregúntale qué necesita y escúchale. <br/><br/>Por ejemplo, cuando tu niña, niño o adolescente se está preparando para ir a la escuela, pregúntale si necesitan tu ayuda para algo. </span>"
+        },
+        "quiz_1_question": {
+          "eng": "¿Tienes tiempo para hacerlo hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Fantástico! 🎉"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "A veces, puede ser difícil hacer esto cuando estamos muy ocupados con nuestras propias vidas, pero pasar incluso un ratito a solas con tu pareja o familiar puede hacer una gran diferencia.\n\n⭐ Recuerda que puedes volver a consultar esta sesión en el Menú Principal."
+        }
+      },
+      "quiz_1_question": "¿Tienes tiempo para hacerlo hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "¡Fantástico! 🎉",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "A veces, puede ser difícil hacer esto cuando estamos muy ocupados con nuestras propias vidas, pero pasar incluso un ratito a solas con tu pareja o familiar puede hacer una gran diferencia.\n\n⭐ Recuerda que puedes volver a consultar esta sesión en el Menú Principal."
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA modules - i (1-15).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

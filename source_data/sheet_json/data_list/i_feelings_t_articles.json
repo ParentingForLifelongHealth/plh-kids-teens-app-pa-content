@@ -32,14 +32,14 @@
       "quiz_3_feedback_2::eng": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "category_id": "explore",
       "text_1_facilitator::eng": "Aquí tienes una historieta sobre cómo puedes hablar con tu adolescente sobre las emociones durante su tiempo juntos y conectados.",
       "image_asset": "https://drive.google.com/file/d/16BWs-oT-QbudSF5Aed0h-Lm9Plbhi6qT/view?usp=drive_link",
       "text_2::eng": "{F1_PADRE} y su hija {F1_HIJA_16} salieron a caminar para pasar un tiempo juntos y conectados. {F1_HIJA_16} parece estar molesta por algo."
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/1a0lZ3ZSJSUrbr8OC2Jf3xiV3xTmpDFwG/view?usp=drive_link",
       "character_1_id": "F1_PADRE",
@@ -48,7 +48,7 @@
       "character_2_text::eng": "Ay, Papá. Lo que pasa es que fracasé el examen de matemáticas y me pone triste y me frustra porque estudié mucho."
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/11x0saQYHYCNWZXNz_W44vygYmfqf35SD/view?usp=drive_link",
       "text_2::eng": "{F1_PADRE} respira profundo para no reaccionar desde el enojo.",
@@ -58,21 +58,21 @@
       "character_2_text::eng": "Gracias, papá. ¡Yo puedo hacerlo! Creo que podría ser una buena idea."
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/1th_s-9w_KRaN3fwb0yVlQgXgCJSNDrAf/view?usp=drive_link",
       "character_1_id": "F1_PADRE",
       "character_1_text::eng": "Sabes, puede que ahora te sientas triste y frustrada por no obtener una calificación más alta en matemáticas, pero nunca he conocido a nadie que estudie tanto como tú, {F1_HIJA_16}."
     },
     {
-      "id": "explore_1",
-      "category_id": "explore",
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "Da clic en reproducir ▶️ para aprender las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:\n1️⃣ APRENDER\n2️⃣ IDENTIFICAR\n3️⃣ ABRIR TU MENTE\n4️⃣ HABLAR\n5️⃣ COMPARTIR\n6️⃣ MOSTRAR INTERÉS",
       "media_type": "video",
       "youtube_gb_en": "youtube link"
     },
     {
-      "id": "practical_tips_1",
+      "id": "practical_tips_2",
       "category_id": "practical_tips",
       "text_1_facilitator::eng": "Recuerda las 6️⃣ estrategias para ayudar a {tu adolescente} a aprender a manejar sus emociones:",
       "section_1_title::eng": "APRENDER",

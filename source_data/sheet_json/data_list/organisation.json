@@ -18,8 +18,14 @@
     },
     {
       "id": "organisation_3",
-      "name": "University of Oxford",
-      "image_asset": "images/logos/Oxford.png",
+      "name": "UNICEF",
+      "image_asset": "images/logos/UNICEF.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_4",
+      "name": "Ministerio de Desarrollo Social",
+      "image_asset": "images/logos/MIDES.png",
       "group": "partners"
     }
   ]

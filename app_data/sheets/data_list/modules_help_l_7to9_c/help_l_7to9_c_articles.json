@@ -1,0 +1,181 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "help_l_7to9_c_articles",
+  "data_list_name": "help_l_7to9_c_articles",
+  "status": "released",
+  "flow_subtype": "modules_help_l_7to9_c",
+  "module": "help_l_7to9_c",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Tú desempeñas un papel importante en el aprendizaje de {tu niño} y en cómo le da sentido a la vida.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Tú desempeñas un papel importante en el aprendizaje de {tu niño} y en cómo le da sentido a la vida."
+        },
+        "text_2": {
+          "eng": "Esta lección trata sobre cómo ayudar a {tu niño} a aprender a través del establecimiento de metas y objetivos. 😃"
+        }
+      },
+      "text_2": "Esta lección trata sobre cómo ayudar a {tu niño} a aprender a través del establecimiento de metas y objetivos. 😃"
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/help_child_learn_7to9_yc_1",
+      "character_1_id": "F2_ABUELO",
+      "character_2_id": "F2_HIJO_8",
+      "nested": false,
+      "text_1_facilitator": "Aquí tienes una historieta que trata sobre el establecimiento de metas y objetivos:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Aquí tienes una historieta que trata sobre el establecimiento de metas y objetivos:"
+        },
+        "character_1_text": {
+          "eng": "{F2_HIJO_8}, ya vas a empezar un nuevo año en la escuela y estoy muy emocionado por ti. ¿Cuáles son tus metas para este año?"
+        },
+        "character_2_text": {
+          "eng": "¡Quiero ser el mejor leyendo y contando historias!"
+        }
+      },
+      "character_1_text": "{F2_HIJO_8}, ya vas a empezar un nuevo año en la escuela y estoy muy emocionado por ti. ¿Cuáles son tus metas para este año?",
+      "character_2_text": "¡Quiero ser el mejor leyendo y contando historias!"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/help_child_learn_7to9_yc_2",
+      "character_1_id": "F2_ABUELO",
+      "character_2_id": "F2_HIJO_8",
+      "nested": false,
+      "character_1_text": "Tu meta es buenísima, {F2_HIJO_8}. ¿Qué crees que tendrás que hacer para llegar a ella?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Tu meta es buenísima, {F2_HIJO_8}. ¿Qué crees que tendrás que hacer para llegar a ella?"
+        },
+        "character_2_text": {
+          "eng": "Mmm... ¡Quizá tenga que leer mínimo 15 minutos todos los días de este año!"
+        }
+      },
+      "character_2_text": "Mmm... ¡Quizá tenga que leer mínimo 15 minutos todos los días de este año!"
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/help_child_learn_7to9_yc_3",
+      "character_1_id": "F2_ABUELO",
+      "character_2_id": "F2_HIJO_8",
+      "nested": false,
+      "character_1_text": "¡Muy buena idea! ¡Podríamos hacerlo a la hora de dormir! ¿Y qué otra cosa puedes hacer para mejorar tus habilidades para contar historias?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Muy buena idea! ¡Podríamos hacerlo a la hora de dormir! ¿Y qué otra cosa puedes hacer para mejorar tus habilidades para contar historias?"
+        },
+        "character_2_text": {
+          "eng": "Bueno, tal vez podríamos inventar historias juntos, y tú podrías ayudarme con las palabras que no conozca, ¿sí?"
+        }
+      },
+      "character_2_text": "Bueno, tal vez podríamos inventar historias juntos, y tú podrías ayudarme con las palabras que no conozca, ¿sí?"
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/help_child_learn_7to9_yc_4",
+      "character_1_id": "F2_ABUELO",
+      "nested": false,
+      "character_1_text": "¡Haré lo mejor que pueda! Si trabajas duro y mantienes tu rutina de lectura todos los días, ¡Estoy seguro de que podrás lograr tu objetivo!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Haré lo mejor que pueda! Si trabajas duro y mantienes tu rutina de lectura todos los días, ¡Estoy seguro de que podrás lograr tu objetivo!"
+        }
+      }
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link",
+      "nested": false,
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para ver cómo ayudar a {tu niño} a aprender a través del establecimiento de metas y objetivos:\n\n1️⃣ **ESTABLECER METAS**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **CONECTAR**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en Reproducir ▶️ para ver cómo ayudar a {tu niño} a aprender a través del establecimiento de metas y objetivos:\n\n1️⃣ **ESTABLECER METAS**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **CONECTAR**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**"
+        }
+      }
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "¡Actividad para casa! ⭐ \n\nDedícale 5 minutos a {tu niño} para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "¡Actividad para casa! ⭐ \n\nDedícale 5 minutos a {tu niño} para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana."
+        },
+        "quiz_1_question": {
+          "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Excelente! Usa las estrategias que has aprendido hoy y ¡diviértete! Sentir alegría y felicidad durante el aprendizaje con {tu niño} es una forma estupenda de motivarle para seguir aprendiendo. 💙"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana y ayudarle a estudiar o completar su trabajo escolar. ☀️"
+        }
+      },
+      "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "¡Excelente! Usa las estrategias que has aprendido hoy y ¡diviértete! Sentir alegría y felicidad durante el aprendizaje con {tu niño} es una forma estupenda de motivarle para seguir aprendiendo. 💙",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana y ayudarle a estudiar o completar su trabajo escolar. ☀️"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA modules - Play (46-60).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1mWNhZqCfGOub-6mE1pRygNQ2hZV7C8CUW8L3ifKAVGQ"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

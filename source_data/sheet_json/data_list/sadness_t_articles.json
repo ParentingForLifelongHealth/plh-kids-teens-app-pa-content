@@ -1,0 +1,112 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "sadness_t_articles",
+  "data_list_name": "sadness_t_articles",
+  "status": "released",
+  "flow_subtype": "modules_sadness_t",
+  "module": "sadness_t",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "En la lección de hoy, hablaremos sobre cómo diferenciar la tristeza de la depresión. 😔",
+      "text_2::eng": "🏁 Todas y todos nos sentimos tristes en nuestras vidas cuando somos infelices o cuando no estamos satisfechos con lo que somos o con lo que nos rodea.\n\n🚩 Junto con la tristeza, también podemos llegar a sentir desesperanza, decepción y como que hemos perdido algo.\n\n😔 La depresión va más allá de la tristeza. Dura más, pueden ser días o semanas, y conlleva sentimientos de culpa o baja autoestima.\n\n👀 Aprender a regular la tristeza y detectar los signos de depresión puede ayudarte a ti y a {tu adolescente} a mantener el control y a prevenir problemas más graves.",
+      "quiz_1_question::eng": "📝 ¡Hagamos un ejercicio!\n\n¿Verdadero o falso? {Tu adolescente} debe de ser feliz siempre.",
+      "quiz_1_option_1_text::eng": "Verdadero",
+      "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n💚 Es normal que {tu adolescente} experimente una serie de emociones, incluida la tristeza. La tristeza nos ayuda a saber cuándo algo va mal o que podemos necesitar ayuda.\n\n💙 Anima a {tu adolescente} a expresar sus sentimientos abiertamente, y apoyale en los momentos difíciles.\n\n💛 Si la tristeza empieza a entorpecer la vida cotidiana, podría ser un signo de depresión.",
+      "quiz_1_option_2_text::eng": "Falso",
+      "quiz_1_feedback_2::eng": "✨ ¡Tienes razón!\n\n💚 Es normal que {tu adolescente} experimente una serie de emociones, incluida la tristeza. La tristeza nos ayuda a saber cuándo algo va mal o que podemos necesitar ayuda.\n\n💙 Anima a {tu adolescente} a expresar sus sentimientos abiertamente, y apoyale en los momentos difíciles.\n\n💛 Si la tristeza empieza a entorpecer la vida cotidiana, podría ser un signo de depresión.",
+      "quiz_2_question::eng": "Ejercicio 2. \n\n¿Cuáles de los siguientes son signos de alerta para la depresión que podrías identificar en {tu adolescente}?",
+      "quiz_2_option_1_text::eng": "No tiene ganas de hacer cosas que normalmente le gustan.",
+      "quiz_2_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n✅ Todos los anteriores pueden ser signos de depresión, sobre todo si ocurren a la vez.\n\n🌙 Las y los adolescentes suelen necesitar entre 8 y 9 horas de sueño porque están creciendo. Presta atención a sus patrones de sueño, ya que dormir demasiado o muy poco podría indicar un problema.\n\n😣 Cuando las personas se sienten deprimidas, a menudo se sienten desesperanzadas, inútiles o culpables. Esto hace que las y los adolescentes se distancien de sus amistades o familiares. También es posible que no disfruten de las cosas que suelen hacer.\n\n🌱 Recuerda que el apoyo y la comprensión son fundamentales para ayudar a tu adolescente a pasar por estos momentos difíciles.",
+      "quiz_2_option_2_text::eng": "Prefiere pasar tiempo a solas o dormir más tiempo de lo normal.",
+      "quiz_2_feedback_2::eng": "👀 ¡Ups! ¡Buen intento!\n\n✅ Todos los anteriores pueden ser signos de depresión, sobre todo si ocurren a la vez.\n\n🌙 Las y los adolescentes suelen necesitar entre 8 y 9 horas de sueño porque están creciendo. Presta atención a sus patrones de sueño, ya que dormir demasiado o muy poco podría indicar un problema.\n\n😣 Cuando las personas se sienten deprimidas, a menudo se sienten desesperanzadas, inútiles o culpables. Esto hace que las y los adolescentes se distancien de sus amistades o familiares. También es posible que no disfruten de las cosas que suelen hacer.\n\n🌱 Recuerda que el apoyo y la comprensión son fundamentales para ayudar a tu adolescente a pasar por estos momentos difíciles.",
+      "quiz_2_option_3_text::eng": "Parece distanciarse de sus amistades o de familiares.",
+      "quiz_2_feedback_3::eng": "👀 ¡Ups! ¡Buen intento!\n\n✅ Todos los anteriores pueden ser signos de depresión, sobre todo si ocurren a la vez.\n\n🌙 Las y los adolescentes suelen necesitar entre 8 y 9 horas de sueño porque están creciendo. Presta atención a sus patrones de sueño, ya que dormir demasiado o muy poco podría indicar un problema.\n\n😣 Cuando las personas se sienten deprimidas, a menudo se sienten desesperanzadas, inútiles o culpables. Esto hace que las y los adolescentes se distancien de sus amistades o familiares. También es posible que no disfruten de las cosas que suelen hacer.\n\n🌱 Recuerda que el apoyo y la comprensión son fundamentales para ayudar a tu adolescente a pasar por estos momentos difíciles.",
+      "quiz_2_option_4_text::eng": "Todas las anteriores.",
+      "quiz_2_feedback_4::eng": "✨ ¡Tienes razón!\n\n✅ Todos los anteriores pueden ser signos de depresión, sobre todo si ocurren a la vez.\n\n🌙 Las y los adolescentes suelen necesitar entre 8 y 9 horas de sueño porque están creciendo. Presta atención a sus patrones de sueño, ya que dormir demasiado o muy poco podría indicar un problema.\n\n😣 Cuando las personas se sienten deprimidas, a menudo se sienten desesperanzadas, inútiles o culpables. Esto hace que las y los adolescentes se distancien de sus amistades o familiares. También es posible que no disfruten de las cosas que suelen hacer.\n\n🌱 Recuerda que el apoyo y la comprensión son fundamentales para ayudar a tu adolescente a pasar por estos momentos difíciles.",
+      "quiz_3_question::eng": "Hagamos un último ejercicio.\n\nEjercicio 3. ¿Verdadero o falso? \n\nComo madre, padre o persona cuidadora, debo de ser fuerte y no verme triste delante de mi niña, niño o adolescente.",
+      "quiz_3_option_1_text::eng": "Verdadero",
+      "quiz_3_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n \n👀 Ocultar los sentimientos de tristeza no hará que desaparezcan y, a veces, solo empeorará el problema.\n\n🌷 Aunque intentes ocultar tus sentimientos, {tu adolescente} puede llegar a darse cuenta de que te sientes triste o de que algo no está bien contigo.\n\n☀️ ¡Recuerda que {tu adolescente} también aprende al observarte a ti! Al compartir abiertamente tus sentimientos agradables, y los desagradables también, le das el ejemplo a {tu adolescente} para que haga lo mismo.",
+      "quiz_3_option_2_text::eng": "Falso",
+      "quiz_3_option_2_image_asset": "🎉 ¡Es correcto!\n\n👀 Ocultar los sentimientos de tristeza no hará que desaparezcan y, a veces, solo empeorará el problema.\n\n🌷 Aunque intentes ocultar tus sentimientos, {tu adolescente} puede llegar a darse cuenta de que te sientes triste o de que algo no está bien contigo.\n\n☀️ ¡Recuerda que {tu adolescente} también aprende al observarte a ti! Al compartir abiertamente tus sentimientos agradables, y los desagradables también, le das el ejemplo a {tu adolescente} para que haga lo mismo."
+    },
+    {
+      "id": "Explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "Aquí tienes una historieta sobre cómo regular la tristeza:",
+      "image_asset": "images/3.Cuidar_del_bienestar_de_mi_adolescente_y_del_mio/sadness_teen_1",
+      "character_1_id": "F2_ABUELO",
+      "character_1_text::eng": "¿Cómo te sientes?",
+      "character_2_id": "F2_HIJA_17",
+      "character_2_text::eng": "No sé…Hoy no tengo ganas de hacer nada. No tengo energía..."
+    },
+    {
+      "id": "Explore_2",
+      "category_id": "explore",
+      "image_asset": "images/3.Cuidar_del_bienestar_de_mi_adolescente_y_del_mio/sadness_teen_2",
+      "character_1_id": "F2_ABUELO",
+      "character_1_text::eng": " ¿Pasó algo?",
+      "character_2_id": "F2_HIJA_17",
+      "character_2_text::eng": "La verdad es que no. No sé. Simplemente no tengo energía para nada."
+    },
+    {
+      "id": "Explore_3",
+      "category_id": "explore",
+      "image_asset": "images/3.Cuidar_del_bienestar_de_mi_adolescente_y_del_mio/sadness_teen_3",
+      "character_1_id": "F2_ABUELO",
+      "character_1_text::eng": "Parece que estás pasando por un momento difícil. ¿Qué es algo que normalmente disfrutas hacer?",
+      "character_2_id": "F2_HIJA_17",
+      "character_2_text::eng": "Me gustaba pasar tiempo con mis amistades."
+    },
+    {
+      "id": "Explore_4",
+      "category_id": "explore",
+      "image_asset": "images/3.Cuidar_del_bienestar_de_mi_adolescente_y_del_mio/sadness_teen_4",
+      "character_1_id": "F2_ABUELO",
+      "character_1_text::eng": "Mmm…hace tiempo que no sales con tus amistades. Sabes, ayer vi a Marifer en el mercado. Me estuvo preguntando por ti. ¿Te gustaría hablarle para salir y pasar un rato con ella?",
+      "character_2_id": "F2_HIJA_17",
+      "character_2_text::eng": "Mmm... bueno, está bien."
+    },
+    {
+      "id": "Explore_5",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "Después de que {F2_HIJA_17} regresa de pasar tiempo con Marifer.",
+      "image_asset": "images/3.Cuidar_del_bienestar_de_mi_adolescente_y_del_mio/sadness_teen_5",
+      "character_1_id": "F2_ABUELO",
+      "character_1_text::eng": "¿Cómo les fue?",
+      "character_2_id": "F2_HIJA_17",
+      "character_2_text::eng": "Me dio gusto ver a Marifer. Al principio, no me sentía muy bien, pero me fui sintiendo un poco mejor después de un rato."
+    },
+    {
+      "id": "Explore_6",
+      "category_id": "explore",
+      "image_asset": "images/3.Cuidar_del_bienestar_de_mi_adolescente_y_del_mio/sadness_teen_6",
+      "character_1_id": "F2_ABUELO",
+      "character_1_text::eng": "Me alegra saber que te la pasaste bien y que te sientes mejor, {F2_HIJA_17}. Sabes, yo también me siento así a veces. No pasa nada por sentirnos tristes. Recuerda que estoy aquí para ti siempre que necesites hablar.",
+      "character_2_id": "F2_HIJA_17",
+      "character_2_text::eng": "Gracias, abuelo."
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "Da clic en reproducir ▶️ para aprender 3️⃣ estrategias que te ayudarán a ti y a {tu adolescente} a regular la tristeza y a detectar los signos de alerta relacionados con la depresión:\n\n1️⃣ **HABLAR Y ESCUCHAR**\n2️⃣ **HACER COSAS QUE TE GUSTEN**\n3️⃣ ** BUSCAR APOYO**",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nIntenta pasar más tiempo juntos y conectados con {tu adolescente} esta semana haciendo algo que les gustaría hacer entre ustedes dos. Puedes aprovechar esta oportunidad para hablar con {tu adolescente} y ver cómo le está yendo y cómo se siente.",
+      "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "¡Maravilloso!\n\n💙 Puede llevar tiempo que {tu adolescente} sienta comodidad al compartir sus sentimientos. Sé paciente, mantén la mente abierta y escucha de verdad a tu adolescente.\n\nSi {tu adolescente} dice que se siente triste, prueba los consejos de la lección de hoy.",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "¡Está bien, no pasa nada! Puedes intentarlo mañana.\n\n💙 Puede llevar tiempo que {tu adolescente} sienta comodidad al compartir sus sentimientos. Sé paciente, mantén la mente abierta y escucha de verdad a tu adolescente.\n\nSi {tu adolescente} dice que se siente triste, prueba los consejos de la lección de hoy."
+    }
+  ]
+}

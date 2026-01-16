@@ -23,25 +23,26 @@
       "quiz_1_feedback_2::eng": "🎉 ¡Tienes razón!\n\n🧸 No tienes que planear una actividad. ¡Tu niña o niño puede guiarte en el camino! Déjale escoger siempre y cuando sea seguro. Esto aumentará su confianza y hará más probable que disfrute pasar tiempo contigo."
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "category_id": "explore",
       "text_1_facilitator::eng": "{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_1",
       "character_1_id": "F1_MADRE",
       "character_1_text::eng": "Quiero pasar tiempo juntos y conectados,{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
       "character_2_id": "F1_HIJO_5",
       "character_2_text::eng": "¡Quiero jugar a disfrazarnos!"
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "/image/comic/",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_2",
       "character_1_id": "F1_MADRE",
       "character_1_text::eng": "¡Me encanta la idea, {F1_HIJO_5}! Veo que estás sacando la bolsa con triángulos."
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "/image/comic/",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_3",
       "character_1_id": "F1_HIJO_5",
       "character_1_text::eng": "Mamá, es para ti.",
       "character_2_id": "F1_MADRE",
@@ -50,9 +51,9 @@
       "character_3_text::eng": "¡Póntela, mamá!"
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "/image/comic/",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_4",
       "character_1_id": "F1_MADRE",
       "character_1_text::eng": "¡Veo que cada vez te esfuerzas más por vestirte sin ayuda!"
     },

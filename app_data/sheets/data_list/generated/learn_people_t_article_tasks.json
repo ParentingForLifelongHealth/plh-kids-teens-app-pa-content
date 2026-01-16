@@ -1,0 +1,251 @@
+{
+  "flow_name": "learn_people_t_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_3",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "¡Tú importas! Tómate un momento para conectar contigo."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Que gusto saber que te sientes bien. ¡Eres una gran persona cuidadora!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Lamento que no esté siendo un buen día. Estás haciendo un gran trabajo intentando solucionarlo. Recuerda que nadie tiene todas las respuestas, y que estás haciendo lo mejor que puedes."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Siento que hoy no esté siendo un buen día. Estás haciendo un gran trabajo al seguir intentándolo, incluso cuando estás cansada/o. Eso es verdadera valentía y compromiso."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "¡Tú importas! Tómate un momento para conectar contigo.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Que gusto saber que te sientes bien. ¡Eres una gran persona cuidadora!",
+      "quiz_1_feedback_2": "Lamento que no esté siendo un buen día. Estás haciendo un gran trabajo intentando solucionarlo. Recuerda que nadie tiene todas las respuestas, y que estás haciendo lo mejor que puedes.",
+      "quiz_1_feedback_3": "Siento que hoy no esté siendo un buen día. Estás haciendo un gran trabajo al seguir intentándolo, incluso cuando estás cansada/o. Eso es verdadera valentía y compromiso.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Esta lección trata sobre cómo ayudar a tu adolescente a aprender a trabajar con otras personas. 🔄"
+        },
+        "text_2": {
+          "eng": "Para poder obtener resultados positivos en casa, en la escuela y en el trabajo, tu adolescente tendrá que aprender a trabajar con otras personas. 🔑"
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Esta lección trata sobre cómo ayudar a tu adolescente a aprender a trabajar con otras personas. 🔄",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "text_2": "Para poder obtener resultados positivos en casa, en la escuela y en el trabajo, tu adolescente tendrá que aprender a trabajar con otras personas. 🔑",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Aquí tienes una historieta sobre cómo ayudar a tu adolescente a aprender a trabajar con otras personas:"
+        },
+        "character_1_text": {
+          "eng": "A mi nieta, {F2_HIJA_17}, le ha estado costando un poco de trabajo la clase de Historia. ¿Tienes alguna recomendación?"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Aquí tienes una historieta sobre cómo ayudar a tu adolescente a aprender a trabajar con otras personas:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
+      },
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning_with_people_teen_1",
+      "character_1_id": "F2_ABUELO",
+      "character_1_text": "A mi nieta, {F2_HIJA_17}, le ha estado costando un poco de trabajo la clase de Historia. ¿Tienes alguna recomendación?",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Claro que sí, ¿qué tal si organizas un grupo de estudio para tu nieta y sus amigas y amigos en donde puedan leer, revisar y discutir los temas de las clases?"
+        },
+        "character_2_text": {
+          "eng": "¡Eso suena muy bien! Excelente idea."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning_with_people_teen_2",
+      "character_1_id": "PROFESOR_1",
+      "character_1_text": "Claro que sí, ¿qué tal si organizas un grupo de estudio para tu nieta y sus amigas y amigos en donde puedan leer, revisar y discutir los temas de las clases?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_id": "F2_ABUELO",
+      "character_2_text": "¡Eso suena muy bien! Excelente idea.",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¿Alguien entendió el capítulo 3? Necesito ayuda para encontrarle sentido."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning_with_people_teen_3",
+      "character_1_id": "F2_HIJA_17",
+      "character_1_text": "¿Alguien entendió el capítulo 3? Necesito ayuda para encontrarle sentido.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Muchas gracias por sugerirme el grupo de estudio, abue. Los trabajos que nos piden y nuestras tareas son más divertidas y fáciles de entender cuando las hago con mis amigas y amigos."
+        },
+        "character_2_text": {
+          "eng": "Me da gusto que te esté funcionando. Hasta yo, que soy una persona adulta, ¡sigo aprendiendo mucho de otras personas! Justo la semana pasada, tu abuela me enseñó a hacer este delicioso arroz con pollo que estoy preparando para la comida."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning_with_people_teen_4",
+      "character_1_id": "F2_HIJA_17",
+      "character_1_text": "Muchas gracias por sugerirme el grupo de estudio, abue. Los trabajos que nos piden y nuestras tareas son más divertidas y fáciles de entender cuando las hago con mis amigas y amigos.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_id": "F2_ABUELO",
+      "character_2_text": "Me da gusto que te esté funcionando. Hasta yo, que soy una persona adulta, ¡sigo aprendiendo mucho de otras personas! Justo la semana pasada, tu abuela me enseñó a hacer este delicioso arroz con pollo que estoy preparando para la comida.",
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en Reproducir ▶️ para aprender sobre cómo ayudar a tu adolescente a trabajar con otras personas.\n\n1️⃣ **SER SOCIAL**\n2️⃣ **TRABAJAR EN EQUIPO**"
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender sobre cómo ayudar a tu adolescente a trabajar con otras personas.\n\n1️⃣ **SER SOCIAL**\n2️⃣ **TRABAJAR EN EQUIPO**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐  \n\nConversa con tu adolescente e identifiquen quién podría ser su compañera o compañero de estudio para la próxima semana."
+        },
+        "quiz_1_question": {
+          "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Genial! Usa las estrategias que has aprendido hoy, ¡y diviértete! Experimentar alegría y felicidad durante el aprendizaje con tu adolescente es una forma estupenda de motivarle para seguir aprendiendo. 💙"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana."
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "¡Genial! Usa las estrategias que has aprendido hoy, ¡y diviértete! Experimentar alegría y felicidad durante el aprendizaje con tu adolescente es una forma estupenda de motivarle para seguir aprendiendo. 💙",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana.",
+      "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "*_Actividad para casa_*⭐  \n\nConversa con tu adolescente e identifiquen quién podría ser su compañera o compañero de estudio para la próxima semana.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

@@ -1,13 +1,13 @@
 {
   "flow_type": "generator",
-  "flow_name": "rules_t_article_gen",
+  "flow_name": "Rules_t_article_gen",
   "status": "released",
   "parameter_list": {
-    "input_data_list": "rules_t_articles",
-    "output_flow_name": "article_rules_t_@gen.id",
+    "input_data_list": "Rules_t_articles",
+    "output_flow_name": "article_Rules_t_@gen.id",
     "output_flow_type": "template"
   },
-  "module_id": "rules_t",
+  "module_id": "Rules_t",
   "rows": [
     {
       "type": "begin_template",
@@ -21,7 +21,7 @@
     },
     {
       "name": "module_id",
-      "value": "rules_t",
+      "value": "Rules_t",
       "exclude_from_translation": true
     },
     {

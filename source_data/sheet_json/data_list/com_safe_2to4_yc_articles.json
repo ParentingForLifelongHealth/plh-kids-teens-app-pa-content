@@ -1,0 +1,85 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "com_safe_2to4_yc_articles",
+  "data_list_name": "com_safe_2to4_yc_articles",
+  "status": "released",
+  "flow_subtype": "modules_com_safe_2to4_yc",
+  "module": "com_safe_2to4_yc",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Esta lección trata sobre aprender a mantener a {tu niño} a salvo en tu comunidad y crear un \"Plan de seguridad\" para ello.",
+      "text_2::eng": "¡No eres la única persona pasando por esto! Madres, padres y personas cuidadoras de todo el mundo se preocupan por la seguridad de sus niñas y niños. 🔔",
+      "quiz_1_question::eng": "¡Hagamos un ejercicio! Pongamos a prueba tus conocimientos sobre la seguridad de las niñas y los niños.\n\n¿Cuál de estos espacios sería un lugar en donde las niñas y los niños podrían estar cien por ciento seguros?",
+      "quiz_1_option_1_text::eng": "La casa",
+      "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
+      "quiz_1_option_2_text::eng": "La casa de una amiga o amigo",
+      "quiz_1_feedback_2::eng": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
+      "quiz_1_option_3_text::eng": "La escuela",
+      "quiz_1_feedback_3::eng": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
+      "quiz_1_option_4_text::eng": "Un Centro Religioso",
+      "quiz_1_feedback_4::eng": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
+      "quiz_1_option_5_text::eng": "Una clínica",
+      "quiz_1_feedback_5::eng": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
+      "quiz_1_option_6_text::eng": "El parque",
+      "quiz_1_feedback_6::eng": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
+      "quiz_1_option_7_text::eng": "El coche",
+      "quiz_1_feedback_7::eng": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
+      "quiz_1_option_8_text::eng": "Ninguna de las anteriores",
+      "quiz_1_feedback_8::eng": "🎉 ¡Tienes razón!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "Veamos a {F2_HIJA_3} y a su abuelo, {F2_ABUELO}, que están jugando juntos afuera:",
+      "image_asset": "https://drive.google.com/file/d/1JtV_w2pRkODPux7GQlUPDz4-gsaHFawB/view?usp=drive_link",
+      "character_1_id": "F2_HIJA_3",
+      "character_1_text::eng": "Mira abuelo, ¡qué lejos puedo patear mi pelota!"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1-8hRH8Vm_UNYMFpt9gaf72HIxRhUU8LR/view?usp=drive_link",
+      "character_1_id": "F2_HIJA_3",
+      "character_1_text::eng": "¡Oh, no! ¡mi pelota!"
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1xw-nJIxe3o6tYuo_BE2LmVoD49zSMBRu/view?usp=drive_link",
+      "character_1_id": "F2_ABUELO",
+      "character_1_text::eng": "Recuerda lo que platicamos, {F2_HIJA_3}. ¿Qué debemos hacer si la pelota se va a la calle?",
+      "character_2_id": "F2_HIJA_3",
+      "character_2_text::eng": "Debemos quedarnos donde estamos y pedirle ayuda a una persona adulta."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1mmleoBAl0Ev-qp5d7JopDFlSOPFhisoO/view?usp=drive_link",
+      "character_1_id": "F2_ABUELO",
+      "character_1_text::eng": "¡Eso! Estoy muy orgulloso de tu esfuerzo para poner atención. ¡Chócalas! Las calles son para los carros y las bicicletas, y es más seguro que una persona adulta te traiga la pelota."
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "\"Para mantener a {tu niño} a salvo, háblale sobre qué lugares son seguros y cuáles no lo son, y enséñale a tener cuidado cuando se encuentre con gente que no conoce.\n\nDa Clic en Reproducir ▶️ para aprender los 4️⃣ pasos para garantizar la seguridad de {tu niño} en su comunidad:\n\nPaso 1️⃣: **DIBUJAR**\nPaso 2️⃣: **IDENTIFICAR**\nPaso 3️⃣: **CONVERSAR**\nPaso 4️⃣: **PRACTICAR**\"",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n \n📝 El día de hoy, conversa con {tu niño} sobre qué lugares son seguros y cuáles no son seguros para las niñas y los niños de tu comunidad. \n\n✨ Busca un tiempo para que tu niña o niño también comparta sus pensamientos. Puede pensar que es inseguro un lugar que tú creías seguro. Permítele explicar sus razones.  \n\nPracticar el uso de palabras claves cuando se encuentra en peligro para pedir ayuda ejemplo. “Auxilio”, “Mamá”, “Fuego”.",
+      "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "💙 ¡Estupendo! Estás ayudando a {tu niño} a ser consciente de su entorno para poder mantenerse a salvo.",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "¡Está bien! Si hoy no tienes tiempo, aparta un rato mañana para conversar con {tu niño} sobre lugares seguros e inseguros o peligrosos. ¡Tú puedes! 🌷"
+    }
+  ]
+}

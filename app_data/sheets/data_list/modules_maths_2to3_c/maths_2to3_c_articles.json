@@ -1,0 +1,207 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "maths_2to3_c_articles",
+  "data_list_name": "maths_2to3_c_articles",
+  "status": "released",
+  "flow_subtype": "modules_maths_2to3_c",
+  "module": "maths_2to3_c",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Esta lección trata sobre cómo puedes empezar a enseñarle a {tu niño} los números y las matemáticas. 1️⃣2️⃣3️⃣",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {},
+        "quiz_1_option_5_text": {},
+        "quiz_1_feedback_5": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Esta lección trata sobre cómo puedes empezar a enseñarle a {tu niño} los números y las matemáticas. 1️⃣2️⃣3️⃣"
+        },
+        "text_2": {
+          "eng": "⭐ Aprender sobre números, figuras geométricas y grupos ayudará a {tu niño} a entender las matemáticas básicas.\n\n🎓 Esto le preparará para tener aprovechamiento en la escuela y en la vida."
+        },
+        "quiz_1_question": {
+          "eng": "📝 Hagamos un ejercicio. Ejercicio 1 \n\n¿Dónde aprenden matemáticas las niñas y los niños?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "En la escuela"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n🌷  Las niñas y los niños no solo aprenden matemáticas en la escuela.\n\n💙 Pueden aprender matemáticas de muchas maneras, ¡y tú puedes ayudarles!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Con sus amistades"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n🌷  Las niñas y los niños no solo aprenden matemáticas en la escuela.\n\n💙 Pueden aprender matemáticas de muchas maneras, ¡y tú puedes ayudarles!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "En casa"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n🌷  Las niñas y los niños no solo aprenden matemáticas en la escuela.\n\n💙 Pueden aprender matemáticas de muchas maneras, ¡y tú puedes ayudarles!"
+        },
+        "quiz_1_option_4_text": {
+          "eng": "En programas de televisión educativos"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n🌷  Las niñas y los niños no solo aprenden matemáticas en la escuela.\n\n💙 Pueden aprender matemáticas de muchas maneras, ¡y tú puedes ayudarles!"
+        },
+        "quiz_1_option_5_text": {
+          "eng": "Todas las anteriores"
+        },
+        "quiz_1_feedback_5": {
+          "eng": "⭐ ¡Así es!\n\n🌷  Las niñas y los niños no solo aprenden matemáticas en la escuela.\n\n💙 Pueden aprender matemáticas de muchas maneras, ¡y tú puedes ayudarles!"
+        }
+      },
+      "text_2": "⭐ Aprender sobre números, figuras geométricas y grupos ayudará a {tu niño} a entender las matemáticas básicas.\n\n🎓 Esto le preparará para tener aprovechamiento en la escuela y en la vida.",
+      "quiz_1_question": "📝 Hagamos un ejercicio. Ejercicio 1 \n\n¿Dónde aprenden matemáticas las niñas y los niños?",
+      "quiz_1_option_1_text": "En la escuela",
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🌷  Las niñas y los niños no solo aprenden matemáticas en la escuela.\n\n💙 Pueden aprender matemáticas de muchas maneras, ¡y tú puedes ayudarles!",
+      "quiz_1_option_2_text": "Con sus amistades",
+      "quiz_1_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\n🌷  Las niñas y los niños no solo aprenden matemáticas en la escuela.\n\n💙 Pueden aprender matemáticas de muchas maneras, ¡y tú puedes ayudarles!",
+      "quiz_1_option_3_text": "En casa",
+      "quiz_1_feedback_3": "👀 ¡Ups! ¡Buen intento!\n\n🌷  Las niñas y los niños no solo aprenden matemáticas en la escuela.\n\n💙 Pueden aprender matemáticas de muchas maneras, ¡y tú puedes ayudarles!",
+      "quiz_1_option_4_text": "En programas de televisión educativos",
+      "quiz_1_feedback_4": "👀 ¡Ups! ¡Buen intento!\n\n🌷  Las niñas y los niños no solo aprenden matemáticas en la escuela.\n\n💙 Pueden aprender matemáticas de muchas maneras, ¡y tú puedes ayudarles!",
+      "quiz_1_option_5_text": "Todas las anteriores",
+      "quiz_1_feedback_5": "⭐ ¡Así es!\n\n🌷  Las niñas y los niños no solo aprenden matemáticas en la escuela.\n\n💙 Pueden aprender matemáticas de muchas maneras, ¡y tú puedes ayudarles!"
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link",
+      "nested": false,
+      "text_1_facilitator": "Da clic en Reproducir ▶️ para aprender tres estrategias que pueden ayudar a {tu niño} a desarrollar habilidades matemáticas: Contar, Buscar Números y Aprender con Figuras Geométricas.\n\nRecuerda: ¡las matemáticas, los números, las cantidades y las figuras están en todas partes! 🔶🌷🔵\n\nPuedes usar lo que te rodea y tus rutinas diarias para Conversarle de matemáticas a {tu niño}. ⏰ Esto le preparará para tener aprovechamiento escolar. ⭐",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da clic en Reproducir ▶️ para aprender tres estrategias que pueden ayudar a {tu niño} a desarrollar habilidades matemáticas: Contar, Buscar Números y Aprender con Figuras Geométricas.\n\nRecuerda: ¡las matemáticas, los números, las cantidades y las figuras están en todas partes! 🔶🌷🔵\n\nPuedes usar lo que te rodea y tus rutinas diarias para Conversarle de matemáticas a {tu niño}. ⏰ Esto le preparará para tener aprovechamiento escolar. ⭐"
+        }
+      }
+    },
+    {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "https://drive.google.com/file/d/1hfWPX9i6ZpYVChhK8_6AafGeqSNCgYOg/view?usp=drive_link",
+      "section_2_icon_asset": "https://drive.google.com/file/d/1JYdcbkVuoMB64KZFOtWUd01yErpe19ac/view?usp=drive_link",
+      "section_3_icon_asset": "https://drive.google.com/file/d/1H0X72PVEhhmWbrzS5AMDtRQq37xnGWY_/view?usp=drive_link",
+      "section_4_icon_asset": "pencil.svg",
+      "nested": false,
+      "text_1_facilitator": "Recuerda: ¡las matemáticas, los números, las cantidades y las figuras están en todas partes! 🔶🌷🔵 *_Puedes usar lo que te rodea y tus rutinas diarias para Conversarle de matemáticas a {tu niño}._* ⏰ Esto le preparará para tener aprovechamiento escolar. ⭐",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Recuerda: ¡las matemáticas, los números, las cantidades y las figuras están en todas partes! 🔶🌷🔵 *_Puedes usar lo que te rodea y tus rutinas diarias para Conversarle de matemáticas a {tu niño}._* ⏰ Esto le preparará para tener aprovechamiento escolar. ⭐"
+        },
+        "section_1_title": {
+          "eng": "USAR LIBROS PARA APRENDER"
+        },
+        "section_1_text": {
+          "eng": "💡 Los libros sin palabras ayudan con la imaginación, las ideas y el aprendizaje de palabras nuevas. En conjunto, nombren y describan lo que hay en los dibujos.\n\n⭐ Los libros con palabras ayudan a tener una noción de las letras, los sonidos y cómo se ven distintas palabras.\n\n🎵 Enfócate en palabras o frases cortas que rimen, se repitan y empiecen por la misma letra o terminen con el mismo sonido, como \"piña para la niña\", \"el león comelón\", o \"el zorro pide socorro\".\n\n➡️ ¡Señala cada palabra y dila en voz alta para ayudar a {tu niño} a reconocer algunas letras y sonidos!"
+        },
+        "section_2_title": {
+          "eng": "IDENTIFICAR LETRAS"
+        },
+        "section_2_text": {
+          "eng": "👀 Busca letras por todas partes, como en carteles y paquetes.\n\n💡 Señálale las letras a {tu niño} y nómbralas.\n\n👂 ¡Pídele que encuentre letras y que también las nombre! Acuérdate de elogiar cuando lo haga bien."
+        },
+        "section_3_title": {
+          "eng": "JUGAR JUEGOS DE PALABRAS"
+        },
+        "section_3_text": {
+          "eng": "🎵 Canta y haz rimas con {tu niño} para ayudarle a aprender los distintos sonidos que forman a las palabras.\n\n👋 Divide los nombres o las palabras en sílabas. Aplaude con {tu niño} mientras dices cada sílaba: ¡empieza con solo 2!\n\n🔄 Cambia algunos sonidos o letras de las palabras para formar palabras nuevas, como \"casa, pasa, masa\". Luego, repite los sonidos que se cambiaron: \"c\", \"p\", \"m\"\n\n👀 Ayúdale a {tu niño} a identificar los \"sonidos iniciales\", los \"sonidos medios\" y los \"sonidos finales\", y las letras que los forman.\n\n✅ Una vez que {tu niño} entienda las letras y los sonidos en distintos lugares de las palabras, ¡ayúdale a unir las partes de una palabra para formar la palabra completa!"
+        },
+        "section_4_title": {
+          "eng": "EMPEZAR A ESCRIBIR"
+        },
+        "section_4_text": {
+          "eng": "🧸🌷 Anima a tu niña o niño a dibujar. Puede empezar dibujando cosas que le gusten, como animales o flores.\n\n▶️ Ayúdale a identificar su mano dominante preguntándole: \"¿Con qué mano prefieres dibujar?\" Si su respuesta es que usa las dos manos, permítele dibujar con ambas.\n\n🎨 A continuación, enséñale a dibujar figuras que parezcan letras: 🔵🔶\n\n👋 Ayúdale a practicar el trazado de letras en el aire y sobre una superficie usando sus dedos.\n\n😃 Después, ayúdale a escribir letras sencillas con crayones. ¡Empieza practicando con la primera letra de su nombre!\n\n🔄 Practica y ve agregando letras hasta que pueda escribir su nombre completo. Después, ¡aprendan más letras usando diferentes palabras!"
+        }
+      },
+      "section_1_title": "USAR LIBROS PARA APRENDER",
+      "section_1_text": "💡 Los libros sin palabras ayudan con la imaginación, las ideas y el aprendizaje de palabras nuevas. En conjunto, nombren y describan lo que hay en los dibujos.\n\n⭐ Los libros con palabras ayudan a tener una noción de las letras, los sonidos y cómo se ven distintas palabras.\n\n🎵 Enfócate en palabras o frases cortas que rimen, se repitan y empiecen por la misma letra o terminen con el mismo sonido, como \"piña para la niña\", \"el león comelón\", o \"el zorro pide socorro\".\n\n➡️ ¡Señala cada palabra y dila en voz alta para ayudar a {tu niño} a reconocer algunas letras y sonidos!",
+      "section_2_title": "IDENTIFICAR LETRAS",
+      "section_2_text": "👀 Busca letras por todas partes, como en carteles y paquetes.\n\n💡 Señálale las letras a {tu niño} y nómbralas.\n\n👂 ¡Pídele que encuentre letras y que también las nombre! Acuérdate de elogiar cuando lo haga bien.",
+      "section_3_title": "JUGAR JUEGOS DE PALABRAS",
+      "section_3_text": "🎵 Canta y haz rimas con {tu niño} para ayudarle a aprender los distintos sonidos que forman a las palabras.\n\n👋 Divide los nombres o las palabras en sílabas. Aplaude con {tu niño} mientras dices cada sílaba: ¡empieza con solo 2!\n\n🔄 Cambia algunos sonidos o letras de las palabras para formar palabras nuevas, como \"casa, pasa, masa\". Luego, repite los sonidos que se cambiaron: \"c\", \"p\", \"m\"\n\n👀 Ayúdale a {tu niño} a identificar los \"sonidos iniciales\", los \"sonidos medios\" y los \"sonidos finales\", y las letras que los forman.\n\n✅ Una vez que {tu niño} entienda las letras y los sonidos en distintos lugares de las palabras, ¡ayúdale a unir las partes de una palabra para formar la palabra completa!",
+      "section_4_title": "EMPEZAR A ESCRIBIR",
+      "section_4_text": "🧸🌷 Anima a tu niña o niño a dibujar. Puede empezar dibujando cosas que le gusten, como animales o flores.\n\n▶️ Ayúdale a identificar su mano dominante preguntándole: \"¿Con qué mano prefieres dibujar?\" Si su respuesta es que usa las dos manos, permítele dibujar con ambas.\n\n🎨 A continuación, enséñale a dibujar figuras que parezcan letras: 🔵🔶\n\n👋 Ayúdale a practicar el trazado de letras en el aire y sobre una superficie usando sus dedos.\n\n😃 Después, ayúdale a escribir letras sencillas con crayones. ¡Empieza practicando con la primera letra de su nombre!\n\n🔄 Practica y ve agregando letras hasta que pueda escribir su nombre completo. Después, ¡aprendan más letras usando diferentes palabras!"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "*_¡Actividad para casa!_* ⭐ \n\nIntenta involucrar a {tu niño} en una actividad en donde tenga que usar números. Por ejemplo, contar la cantidad de ingredientes cuando estés cocinando.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_¡Actividad para casa!_* ⭐ \n\nIntenta involucrar a {tu niño} en una actividad en donde tenga que usar números. Por ejemplo, contar la cantidad de ingredientes cuando estés cocinando."
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes hacerlo hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Excelente! 💙 ¡Contar cosas con {tu niño} le dará una noción de lo que son los números!\n\n💙¡Involucrar a {tu niño} en actividades como esta y conversar sobre números y las cantidades de las cosas, le ayudará en su aprendizaje! 1️⃣2️⃣3️⃣"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡Entendemos! Si hoy no tienes tiempo, intenta pasar tiempo contando cosas con {tu niño} el día de mañana. ¡Esto le ayudará a {tu niño} en su aprendizaje!"
+        }
+      },
+      "quiz_1_question": "¿Puedes hacerlo hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "¡Excelente! 💙 ¡Contar cosas con {tu niño} le dará una noción de lo que son los números!\n\n💙¡Involucrar a {tu niño} en actividades como esta y conversar sobre números y las cantidades de las cosas, le ayudará en su aprendizaje! 1️⃣2️⃣3️⃣",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "¡Entendemos! Si hoy no tienes tiempo, intenta pasar tiempo contando cosas con {tu niño} el día de mañana. ¡Esto le ayudará a {tu niño} en su aprendizaje!"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA modules - Play (46-60).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1mWNhZqCfGOub-6mE1pRygNQ2hZV7C8CUW8L3ifKAVGQ"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

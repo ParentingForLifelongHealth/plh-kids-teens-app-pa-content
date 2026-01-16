@@ -1,0 +1,63 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "hope_future_t_articles",
+  "data_list_name": "hope_future_t_articles",
+  "status": "released",
+  "flow_subtype": "modules_hope_future_t",
+  "module": "hope_future_t",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "La lección de hoy trata sobre cómo cultivar la motivación de tu adolescente para construir su futuro.",
+      "text_2::eng": "🌷 A medida que las y los adolescentes crecen, es normal que se empiecen a preocupar o abrumar por lo que viene. \n\n⏰ Como madre, padre o persona cuidadora, puedes ayudar a {tu adolescente} a manejar estas emociones desagradables y a pensar en ideas que le entusiasmen sobre su futuro.\n\n☀️ Tener motivación significa que serán capaces de establecer objetivos, tomar decisiones que les ayuden a lograrlos y realmente creer que pueden alcanzarlos, incluso cuando las cosas se compliquen.",
+      "quiz_1_question::eng": "📝 Empecemos con un ejercicio para saber más sobre cómo generar ideas y mantener la motivación por el futuro:\n\nEjercicio 1: ¿Cuál es la ventaja de qué {tu adolescente} tenga ideas y motivación sobre lo que le gustaría lograr en el futuro? ",
+      "quiz_1_option_1_text::eng": "1. Sentirá inseguridad y preocupación por lo que pueda ocurrir después.",
+      "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n💙 Tener ideas y motivación sobre el futuro puede hacer que {tu adolescente} se sienta mejor con su proceso. Puede ayudarle a sentir confianza al momento de establecer sus metas y trabajar para conseguirlas. También puede hacer que tenga menos miedo de pensar en lo que ocurrirá.  \n\n💛 Si {tu adolescente} no siente motivación sobre su futuro, puede ser que sienta inseguridad y preocupación sobre lo que ocurrirá después, o que se sienta un poco perdido.",
+      "quiz_1_option_2_text::eng": "2. Podrá establecer metas y trabajar para lograrlas.",
+      "quiz_1_feedback_2::eng": "🎉 ¡Buen trabajo!\n\n💙 Tener ideas y motivación sobre el futuro puede hacer que {tu adolescente} se sienta mejor con su proceso. Puede ayudarle a sentir confianza al momento de establecer sus metas y trabajar para conseguirlas. También puede hacer que tenga menos miedo de pensar en lo que ocurrirá.  \n\n💛 Si {tu adolescente} no siente motivación sobre su futuro, puede ser que sienta inseguridad y preocupación sobre lo que ocurrirá después, o que se sienta un poco perdido.",
+      "quiz_1_option_3_text::eng": "3. Evitará pensar en su futuro.",
+      "quiz_1_feedback_3::eng": "👀 ¡Ups! ¡Buen intento!\n\n💙 Tener ideas y motivación sobre el futuro puede hacer que {tu adolescente} se sienta mejor con su proceso. Puede ayudarle a sentir confianza al momento de establecer sus metas y trabajar para conseguirlas. También puede hacer que tenga menos miedo de pensar en lo que ocurrirá.  \n\n💛 Si {tu adolescente} no siente motivación sobre su futuro, puede ser que sienta inseguridad y preocupación sobre lo que ocurrirá después, o que se sienta un poco perdido.",
+      "quiz_2_question::eng": "Ejercicio 2: ¿Qué significa tener fortaleza emocional? ",
+      "quiz_2_option_1_text::eng": "1. Buscar la positividad todo el tiempo, pase lo que pase.",
+      "quiz_2_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n⭐ Tener fortaleza emocional significa que te sientes capaz de superar los retos que vendrán más adelante. Esto mantiene tu motivación y te ayuda a recuperarte rápidamente de cualquier contratiempo. \n\n🎁 Cuando tienes motivación, eres capaz de creer que tus habilidades y fortalezas como persona pueden hacer que pasen cosas buenas y que puedes enfrentar cualquier dificultad que se te presente.  \n\n🌈 Pero recuerda, que no siempre vas a estar motivado. Está bien experimentar diferentes emociones, no solo felicidad. Date tiempo para experimentar todas las emociones, ya que todas son necesarias.",
+      "quiz_2_option_2_text::eng": "2. Sentirse capaz de superar las dificultades en el futuro.",
+      "quiz_2_feedback_2::eng": "🎉 ¡Buen trabajo!\n\n⭐ Tener fortaleza emocional significa que te sientes capaz de superar los retos que vendrán más adelante. Esto mantiene tu motivación y te ayuda a recuperarte rápidamente de cualquier contratiempo. \n\n🎁 Cuando tienes motivación, eres capaz de creer que tus habilidades y fortalezas como persona pueden hacer que pasen cosas buenas y que puedes enfrentar cualquier dificultad que se te presente.  \n\n🌈 Pero recuerda, que no siempre vas a estar motivado. Está bien experimentar diferentes emociones, no solo felicidad. Date tiempo para experimentar todas las emociones, ya que todas son necesarias.",
+      "quiz_2_option_3_text::eng": "3. Pensar que las cosas mejorarán, pase lo que pase. ",
+      "quiz_2_feedback_3::eng": "👀 ¡Ups! ¡Buen intento!\n\n⭐ Tener fortaleza emocional significa que te sientes capaz de superar los retos que vendrán más adelante. Esto mantiene tu motivación y te ayuda a recuperarte rápidamente de cualquier contratiempo. \n\n🎁 Cuando tienes motivación, eres capaz de creer que tus habilidades y fortalezas como persona pueden hacer que pasen cosas buenas y que puedes enfrentar cualquier dificultad que se te presente.  \n\n🌈 Pero recuerda, que no siempre vas a estar motivado. Está bien experimentar diferentes emociones, no solo felicidad. Date tiempo para experimentar todas las emociones, ya que todas son necesarias.",
+      "quiz_3_question::eng": "Ejercicio 3: ¿Qué puede hacer tu adolescente para mantener las ideas y la motivación sobre su futuro cuando las cosas se ponen difíciles? ",
+      "quiz_3_option_1_text::eng": "1. Rendirse.",
+      "quiz_3_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n🏆Las personas con mucha esperanza a menudo pueden seguir siendo resilientes cuando se enfrentan a retos, porque creen que pueden encontrar soluciones, incluso cuando las cosas son muy retadoras.\n\n🏅Cuando {tu adolescente} no tiene esperanzas en el futuro, es probable que se rinda o evite las cosas difíciles en el futuro. Esto les dificulta crecer y tener éxito a largo plazo.",
+      "quiz_3_option_2_text::eng": "2. Creer que puede encontrar una solución al reto al que se enfrenta.",
+      "quiz_3_feedback_2::eng": "🎉 ¡Buen trabajo!\n\n🏆Las personas con mucha esperanza a menudo pueden seguir siendo resilientes cuando se enfrentan a retos, porque creen que pueden encontrar soluciones, incluso cuando las cosas son muy retadoras.\n\n🏅Cuando {tu adolescente} no tiene esperanzas en el futuro, es probable que se rinda o evite las cosas difíciles en el futuro. Esto les dificulta crecer y tener éxito a largo plazo.",
+      "quiz_3_option_3_text::eng": "3. Evitar hacer cosas difíciles en el futuro. ",
+      "quiz_3_feedback_3::eng": "👀 ¡Ups! ¡Buen intento!\n\n🏆Las personas con mucha esperanza a menudo pueden seguir siendo resilientes cuando se enfrentan a retos, porque creen que pueden encontrar soluciones, incluso cuando las cosas son muy retadoras.\n\n🏅Cuando {tu adolescente} no tiene esperanzas en el futuro, es probable que se rinda o evite las cosas difíciles en el futuro. Esto les dificulta crecer y tener éxito a largo plazo."
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "Da clic en reproducir ▶️ para aprender 4️⃣ estrategias para ayudar a {tu adolescente} a generar ideas y mantener la motivación de construir su futuro y enfrentarse a las dificultades:\n\n1️⃣ **ACEPTAR LOS RETOS**\n2️⃣ **APRENDER DE LOS ERRORES**\n3️⃣ **PRACTICAR, PRACTICAR, PRACTICAR**\n4️⃣ **MANTENTER EL APOYO**",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practical_tips_2",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "Cuando {tu adolescente} aprenda a enfrentar los retos de una mejor manera, como consecuencia, empezará a generar ideas y mantener la motivación para poder lograr sus objetivos y sus metas."
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\n🌷 Conversa con {tu adolescente} sobre alguna meta que le entusiasme. Puede ser aprender una habilidad nueva o prepararse para su futuro .  \n\n➡️ Colabora con {tu adolescente} para idear tres pasos cortos que podría ir dando para empezar a avanzar hacia su meta.  \n\n👂Anímale a compartir sus pensamientos e ideas, y apóyale mientras elabora su plan.  \n\n🏁Usa las estrategias que aprendiste hoy para saber cómo manejar los retos a los que tu adolescente se podría enfrentar en el futuro.",
+      "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰ ",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "⭐ ¡Eso es estupendo! Dedicar tiempo a conectar con {tu adolescente} es muy valioso para ayudarles a tener ideas y motivación sobre su futuro.\n\n⏰ *_Recuerda ser paciente, mantener una mente abierta y un discurso honesto con {tu adolescente}._*\n\nSi {tu adolescente} se encuentra con algún reto en el camino, puedes aplicar las estrategias que aprendiste hoy para ayudarle a sobrellevar esos obstáculos contigo.",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "▶️ ¡No pasa nada! Puedes intentarlo mañana o en otro momento de la semana.\n\n¡Dedicar tiempo a conectar con {tu adolescente} y apoyarle para que tenga ideas y motivación sobre su futuro es algo muy valioso!\n\n⏰ *_Recuerda ser paciente, mantener una mente abierta y un discurso honesto con {tu adolescente}_*\n\nSi {tu adolescente} se encuentra con algún reto en el camino, puedes aplicar las estrategias que aprendiste hoy para ayudarle a sobrellevar esos obstáculos contigo."
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "flow_name": "keep_positive_c_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_11",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "¡Tomarte un momento para TI hace una gran diferencia para todas y todos!"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Que bien que hoy esté siendo un buen día! ¿Puedes pensar en algo que ha salido bien hoy? Recuerda reconocerte por ello."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Cada día tiene cosas buenas y malas. Reconócete por todo lo que has hecho hasta ahora: eres increíble."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Lamento que hoy estés sintiendo emociones difíciles. Buen trabajo por reconocerlas y por intentar ser amable contigo. Estás dando un gran ejemplo a tu familia."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "¡Tomarte un momento para TI hace una gran diferencia para todas y todos!",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "¡Que bien que hoy esté siendo un buen día! ¿Puedes pensar en algo que ha salido bien hoy? Recuerda reconocerte por ello.",
+      "quiz_1_feedback_2": "Cada día tiene cosas buenas y malas. Reconócete por todo lo que has hecho hasta ahora: eres increíble.",
+      "quiz_1_feedback_3": "Lamento que hoy estés sintiendo emociones difíciles. Buen trabajo por reconocerlas y por intentar ser amable contigo. Estás dando un gran ejemplo a tu familia.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "La lección de hoy trata sobre cómo ayudar a tu niña o niño a seguir instrucciones. 😃"
+        },
+        "text_2": {
+          "eng": "Generalmente, las niñas, niños y adolescentes siguen las instrucciones la mitad de las veces. ⏰ Es natural que, a veces, las niñas, los niños y los adolescentes exploren los límites: forma parte de su crecimiento.  \n\nDar instrucciones efectivas y claras puede hacer que el ambiente sean más tranquilo y pacífico en casa. 🌱"
+        },
+        "quiz_1_question": {
+          "eng": "¡Hagamos un ejercicio!\n\nEjercicio 1. \n\nNo importa si das una instrucción de manera positiva o negativa."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n💙 Las niñas y los niños son más propensos a seguir instrucciones cuando se les dice lo que tienen que hacer en lugar de decir lo que no tienen que hacer. \n\nLas instrucciones negativas como \"¡No hagas eso!\" pueden hacer que las niñas y los niños se sientan confundidos (al igual que nosotros). 😣"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 ¡Buen trabajo!\n\n💙 Las niñas y los niños son más propensos a seguir instrucciones cuando se les dice lo que tienen que hacer en lugar de decir lo que no tienen que hacer. \n\nLas instrucciones negativas como \"¡No hagas eso!\" pueden hacer que las niñas y los niños se sientan confundidos (al igual que nosotros). 😣"
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n💙 Las niñas y los niños son más propensos a seguir instrucciones cuando se les dice lo que tienen que hacer en lugar de decir lo que no tienen que hacer. \n\nLas instrucciones negativas como \"¡No hagas eso!\" pueden hacer que las niñas y los niños se sientan confundidos (al igual que nosotros). 😣",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "quiz_1_feedback_2": "🎉 ¡Buen trabajo!\n\n💙 Las niñas y los niños son más propensos a seguir instrucciones cuando se les dice lo que tienen que hacer en lugar de decir lo que no tienen que hacer. \n\nLas instrucciones negativas como \"¡No hagas eso!\" pueden hacer que las niñas y los niños se sientan confundidos (al igual que nosotros). 😣",
+      "quiz_1_question": "¡Hagamos un ejercicio!\n\nEjercicio 1. \n\nNo importa si das una instrucción de manera positiva o negativa.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_option_2_text": "Falso",
+      "text_1_facilitator": "La lección de hoy trata sobre cómo ayudar a tu niña o niño a seguir instrucciones. 😃",
+      "text_2": "Generalmente, las niñas, niños y adolescentes siguen las instrucciones la mitad de las veces. ⏰ Es natural que, a veces, las niñas, los niños y los adolescentes exploren los límites: forma parte de su crecimiento.  \n\nDar instrucciones efectivas y claras puede hacer que el ambiente sean más tranquilo y pacífico en casa. 🌱",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "{F3_HIJA_7} está jugando en el piso con el celular."
+        },
+        "character_1_text": {
+          "eng": "Me alegra verte jugar tranquilamente con el celular mientras recojo la mesa después de cenar, {F3_HIJA_7}. En 3 minutos será la hora de acostarse y será momento de regresarme el teléfono."
+        },
+        "character_2_text": {
+          "eng": "Está bien, mamá."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "{F3_HIJA_7} está jugando en el piso con el celular.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "image_asset": "images/character_icons/keeping_it_possitive_c_1",
+      "character_1_id": "F3_MADRE",
+      "character_2_id": "F3_HIJA_7",
+      "character_1_text": "Me alegra verte jugar tranquilamente con el celular mientras recojo la mesa después de cenar, {F3_HIJA_7}. En 3 minutos será la hora de acostarse y será momento de regresarme el teléfono.",
+      "character_2_text": "Está bien, mamá.",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Después de 3 minutos."
+        },
+        "character_1_text": {
+          "eng": "Se acabaron los 3 minutos, {F3_HIJA_7}. Por favor, dame el celular."
+        },
+        "character_2_text": {
+          "eng": "Está bien, mamá."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Después de 3 minutos.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "image_asset": "images/character_icons/keeping_it_possitive_c_2",
+      "character_1_id": "F3_MADRE",
+      "character_2_id": "F3_HIJA_7",
+      "character_1_text": "Se acabaron los 3 minutos, {F3_HIJA_7}. Por favor, dame el celular.",
+      "character_2_text": "Está bien, mamá.",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Muchas gracias por darme el celular en cuanto te lo pedí, {F3_HIJA_7}. Ahora tendremos tiempo de leer un cuento más."
+        },
+        "character_2_text": {
+          "eng": "¡Weeee!"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/character_icons/keeping_it_possitive_c_3",
+      "character_1_id": "F3_MADRE",
+      "character_1_text": "Muchas gracias por darme el celular en cuanto te lo pedí, {F3_HIJA_7}. Ahora tendremos tiempo de leer un cuento más.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "¡Weeee!",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Había una vez…"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/character_icons/keeping_it_possitive_c_4",
+      "character_1_id": "F3_MADRE",
+      "character_1_text": "Había una vez…",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en Reproducir ▶️ para aprender 3️⃣ estrategias sobre cómo ayudar a {tu niño} a seguir instrucciones con mayor frecuencia:\n\n1️⃣ **ESPECIFICAR LO QUE QUIERES**\n2️⃣ **SER REALISTA**\n3️⃣ **USAR PALABRAS AFIRMATIVAS**"
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender 3️⃣ estrategias sobre cómo ayudar a {tu niño} a seguir instrucciones con mayor frecuencia:\n\n1️⃣ **ESPECIFICAR LO QUE QUIERES**\n2️⃣ **SER REALISTA**\n3️⃣ **USAR PALABRAS AFIRMATIVAS**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a {tu niño}."
+        },
+        "quiz_1_question": {
+          "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "🎉 ¡Qué bien! Acuérdate de elogiar a {tu niño} siempre que siga tus instrucciones. ¡Tú puedes!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "💚¡Está bien! Aprender algo nuevo requiere tiempo, paciencia y práctica. Puedes empezar pensando en una instrucción que le des muy seguido a {tu niño}. ¡Practícalo primero con la persona con la que compartes la crianza o a solas en voz alta! 🔄"
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "🎉 ¡Qué bien! Acuérdate de elogiar a {tu niño} siempre que siga tus instrucciones. ¡Tú puedes!",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "💚¡Está bien! Aprender algo nuevo requiere tiempo, paciencia y práctica. Puedes empezar pensando en una instrucción que le des muy seguido a {tu niño}. ¡Practícalo primero con la persona con la que compartes la crianza o a solas en voz alta! 🔄",
+      "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a {tu niño}.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

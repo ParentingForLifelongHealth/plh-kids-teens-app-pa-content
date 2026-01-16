@@ -51,7 +51,7 @@
       "quiz_1_feedback_2": "✨ ¡Estás en lo correcto!\n\n😣 Cuando las y los adolescentes están en crisis, pueden tener miedo de contárselo a las demás personas por muchas razones. Puede preocuparles que las demás personas les juzguen o se enojen. También puede que sientan vergüenza.\n\n💚 Puedes preguntarle a tu adolescente, con mucha calma, por qué parecen estar molestas o molestos. 👀\n\n👂 Afírmale que estás ahí para ayudar y que es seguro compartir su crisis contigo."
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/1g0Tk8cgEPIG26jmuGFVpJrcr38Fon4cH/view?usp=drive_link",
       "character_1_id": "F2_ABUELO",
@@ -72,7 +72,7 @@
       "character_1_text": "{F2_HIJO_15}, te ves muy molesto, nieto mío. ¿Quieres contarme qué pasó?"
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/1BHl1v76hZaBiuhByQlGb9JnbCcgKe2Xh/view?usp=drive_link",
       "character_1_id": "F2_HIJO_15",
@@ -94,7 +94,7 @@
       "character_2_text": "(Pensando) Respira profundo... ¿Qué necesita {F2_HIJO_15} ahorita? Necesita que esté tranquilo y que lo escuche.\n\nVen y siéntate conmigo. Tómate tu tiempo, te escucho."
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/1UEM0y-JO9MpepgH1gx_MX0nCGpfdCtUV/view?usp=drive_link",
       "character_1_id": "F2_HIJO_15",
@@ -116,7 +116,7 @@
       "character_2_text": "Te creo, {F2_HIJO_15}. Es muy valiente que me cuentes. Gracias por compartir esto conmigo. No estás en problemas. No es tu culpa."
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/115Tu14xSyEwaSZb-osuzzxolH1im0426/view?usp=drive_link",
       "character_1_id": "F2_HIJO_15",
@@ -138,7 +138,7 @@
       "character_2_text": "Ya veo, estoy aquí para apoyarte, nieto. Esto es algo importante y encontraremos la forma de conseguir la ayuda que necesitamos. Vamos a la clínica. Ellos sabrán qué hacer para ayudarte."
     },
     {
-      "id": "comic_5",
+      "id": "explore_5",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/1BdVHEi_-UNbUjsCky2TdgeWSU0rPn3lN/view?usp=drive_link",
       "character_1_id": "F2_HIJO_15",
@@ -160,7 +160,7 @@
       "character_2_text": "Claro que sí. Y, ¿{F2_HIJO_15}? Recuerda que no es tu culpa. Te quiero. Es una situación muy complicada pero saldremos adelante."
     },
     {
-      "id": "comic_6",
+      "id": "explore_6",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/1e64thY0NfPrqIPN6FiRI1Ylz6Q7uiZok/view?usp=drive_link",
       "character_1_id": "F2_HIJO_15",
@@ -176,8 +176,8 @@
       }
     },
     {
-      "id": "explore_1",
-      "category_id": "explore",
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
       "media_type": "video",
       "youtube_gb_en": "youtube link",
       "nested": false,
@@ -192,7 +192,7 @@
       }
     },
     {
-      "id": "practical_tips_1",
+      "id": "practical_tips_2",
       "category_id": "practical_tips",
       "section_1_icon_asset": "https://drive.google.com/file/d/19m7O3_jqHUfyLx4PRG1NnnwzXiYlAhwS/view?usp=drive_link",
       "section_2_icon_asset": "https://drive.google.com/file/d/1LszHYmtJlkCzd6jD9TCRlQmsc03sFoyb/view?usp=drive_link",
@@ -291,8 +291,8 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
+    "path": "data/PA modules - problem (31 - 45).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1q27LnkUFTJQqEbqkgh1hgN4sDQkfasSo29b5SAP4ktg"
   },
   "_metadata": {
     "nested": {

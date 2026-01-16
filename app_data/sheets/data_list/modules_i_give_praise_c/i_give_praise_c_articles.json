@@ -52,7 +52,7 @@
       "quiz_1_feedback_2": "🎉 ¡Tienes razón!\n\n✨ La forma en que elogies es importante. El reconocimiento funciona si es inmediato y específico.  \n\n🌱 Puedes empezar reconociendo y elogiando cosas pequeñas, como que recoja sus juguetes luego de terminar de jugar."
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "category_id": "explore",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
@@ -67,8 +67,9 @@
       }
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1AXVhTNk_LDyzjkrixUgqwChuEA7GCOkV/view?usp=drive_link",
       "character_1_id": "F3_MADRE",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
@@ -83,8 +84,9 @@
       }
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/18NaSEtubcCUIgne1SC0zjakbghSUWZTf/view?usp=drive_link",
       "character_1_id": "F3_MADRE",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
@@ -99,8 +101,9 @@
       }
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/12eB8MNfXGnRnINJPiK90XflKuGmHOAXn/view?usp=drive_link",
       "character_1_id": "F3_MADRE",
       "character_2_id": "{F3_HIJO_4}",
       "nested": false,
@@ -121,8 +124,9 @@
       "character_2_text": "{F3_HIJO_4}. ¡Muy bien!"
     },
     {
-      "id": "comic_5",
+      "id": "explore_5",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/17y8jjZA4Y8WBE7-HUwB0Z7W3HzNXr1VF/view?usp=drive_link",
       "character_1_id": "F3_MADRE",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
@@ -196,7 +200,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules.xlsx",
+    "path": "data/PA modules - i (1-15).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
   },
   "_metadata": {

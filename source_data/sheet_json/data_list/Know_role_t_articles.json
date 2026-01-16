@@ -1,0 +1,47 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "Know_role_t_articles",
+  "data_list_name": "Know_role_t_articles",
+  "status": "released",
+  "flow_subtype": "modules_Know_role_t",
+  "module": "Know_role_t",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Tanto las personas cuidadoras como las niñas, niños o adolescentes tienen un rol que desempeñar en el hogar. 📝\n\nEl rol de {tu adolescente} es aprender, de las personas que le cuidan, qué puede hacer y qué no debe hacer. Puede empezar a hacer actividades en la casa que sean adecuadas para su edad. ⭐\n;\nComo persona cuidadora, tu rol es cuidar de {tu adolescente}, mantenerle a salvo y enseñarle cómo comportarse en el mundo. 🌱\n\n*_Tu papel más importante es ayudarle a {tu adolescente} a sentir tu amor y tu apoyo, ¡pase lo que pase!_* 💙",
+      "text_2::eng": "Si {tu adolescente} siente amor y apoyo en casa, ¡es más probable que haga las actividades del hogar con alegría y que, eventualmente, se convierta en una persona adulta sana! 😃💚",
+      "quiz_1_question::eng": "Hagamos un ejercicio:\n\nResponde: ¿Verdadero o falso?\n\nSi cometo un error o hago algo que moleste a mi adolescente, debo fingir que no ha pasado nada, sonreírle y hacer una actividad positiva con ella o él.",
+      "quiz_1_option_1_text::eng": "Verdadero",
+      "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n💛 *_Admitir nuestros errores y disculparnos les enseña a respetar a los demás y que a veces está bien equivocarse._*\n\n❗Ignorar un error cuando afecta a tu adolescente le enseña que no necesita responsabilizarse de sus actos.",
+      "quiz_1_option_2_text::eng": "Falso",
+      "quiz_1_feedback_2::eng": "🎉 ¡Correcto!\n\n💛 *_Admitir nuestros errores y disculparnos les enseña a respetar a los demás y que a veces está bien equivocarse._*\n\n❗Ignorar un error cuando afecta a tu adolescente le enseña que no necesita responsabilizarse de sus actos.",
+      "quiz_2_question::eng": "Una más. Responde ¿Verdadero o Falso?\n\nNo está bien que {tu adolescente} se enoje contigo.",
+      "quiz_2_option_1_text::eng": "Verdadero",
+      "quiz_2_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n{tu adolescente} va a experimentar muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi {tu adolescente} está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu adolescente a darse cuenta de sus emociones de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo.",
+      "quiz_2_option_2_text::eng": "Falso",
+      "quiz_2_feedback_2::eng": "🎉 ¡Buen trabajo!\n\n{tu adolescente} va a experimentar muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi {tu adolescente} está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu adolescente a darse cuenta de sus emociones de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo."
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "\"Da Clic en Reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como persona cuidadora de tu adolescente y a enseñarle también el suyo:\n\n1️⃣ **CONOCER TU ROL**\n2️⃣ **ENSEÑAR**\n3️⃣ **ENSEÑAR CON EL EJEMPLO**\n4️⃣ **NOTAR**\"",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nHabla con {tu adolescente} sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es una persona valiosa en el hogar.",
+      "quiz_1_question::eng": "💛 ¿Tienes tiempo para hacerlo hoy?",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "¡Estupendo! 💙 Esto ayudará a {tu adolescente} a sentir tu apoyo y cariño, ¡lo que puede impactar en un mejor comportamiento de su parte.",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "¡Está bien! Si hoy no tienes tiempo, aparta un espacio para mañana. Hablar con {tu adolescente} sobre algo que le gusta le puede hacer sentir tu apoyo y cariño, ¡lo que puede impactar en un mejor comportamiento de su parte!"
+    }
+  ]
+}

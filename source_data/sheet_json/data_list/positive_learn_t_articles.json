@@ -1,0 +1,75 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "positive_learn_t_articles",
+  "data_list_name": "positive_learn_t_articles",
+  "status": "released",
+  "flow_subtype": "modules_positive_learn_t",
+  "module": "positive_learn_t",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Esta lección trata sobre cómo crear un espacio de aprendizaje positivo para  {tu adolescente}.",
+      "text_2::eng": "{Tu adolescente} aprenderá mucho mejor cuando se encuentre en un espacio que apoye y fomente su aprendizaje. 😃"
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "Aquí tienes una historieta sobre crear un espacio positivo de aprendizaje para tu adolescente:",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_teen_1",
+      "character_1_id": "F1_HIJO_17",
+      "character_1_text::eng": "Mamá, ¡ya llegué!",
+      "character_2_id": "F1_MADRE",
+      "character_2_text::eng": "Bienvenido a casa, hijo. ¿Tuviste un buen día en la escuela?"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_teen_2",
+      "character_1_id": "F1_HIJO_17",
+      "character_1_text::eng": "Sí, ¡ahora tengo que hacer la tarea!"
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_teen_3",
+      "character_1_id": "F1_MADRE",
+      "character_1_text::eng": "Perfecto, te dejé un espacio para que puedas concentrarte y estar tranquilo mientras preparo la comida."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_teen_4",
+      "character_1_id": "F1_HIJO_17",
+      "character_1_text::eng": "¡Gracias, mamá! Ya que termine, iré a ver a mi amigo.",
+      "character_2_id": "F1_MADRE",
+      "character_2_text::eng": "De acuerdo, solo acuérdate de regresar a la casa para la hora de la cena."
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_teen_5"
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "Da Clic en Reproducir ▶️ para ver cómo a apoyar a tu adolescente creando un espacio de aprendizaje positivo:\n\n1️⃣ **PROCURAR SILENCIO**\n2️⃣ **CREAR RUTINAS**\n3️⃣ **APOYAR**",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_¡Actividad para casa!_*⭐  \n\n*_Conversa con tu adolescente para encontrar un lugar de estudio adecuado en tu casa._* ",
+      "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰ ",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "¡Muy bien! Utiliza las estrategias que has aprendido hoy para impulsar a tu adolescente hacia el aprovechamiento académico. 💙",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana."
+    }
+  ]
+}

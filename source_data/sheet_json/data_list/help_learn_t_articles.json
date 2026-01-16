@@ -1,0 +1,72 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "help_learn_t_articles",
+  "data_list_name": "help_learn_t_articles",
+  "status": "released",
+  "flow_subtype": "modules_help_learn_t",
+  "module": "help_learn_t",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Esta lección trata sobre cómo ayudar a {tu adolescente} a aprender a través del establecimiento de metas y objetivos. 😃",
+      "text_2::eng": "Como madre, padre o persona cuidadora, desempeñas un papel importante en cómo {tu adolescente} aprende y le da sentido a su vida."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "Aquí tienes una historieta que trata sobre el establecimiento de metas y objetivos:",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/help_teen_learn_1",
+      "character_1_id": "F1_PADRE",
+      "character_1_text::eng": "{F1_HIJA_16}, ya vas a empezar un nuevo año en la escuela y estoy muy emocionado por ti. ¿Cuáles son tus metas para este año?",
+      "character_2_id": "F1_HIJA_16",
+      "character_2_text::eng": "¡Quiero mejorar en matemáticas!"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/help_teen_learn_2",
+      "character_1_id": "F1_PADRE",
+      "character_1_text::eng": "Qué buena meta, {F1_HIJA_16}. ¿Qué crees que tendrás que hacer para conseguirlo?",
+      "character_2_id": "F1_HIJA_16",
+      "character_2_text::eng": "Mmm… ¡Qué tal si saco un 4.5 en mi primer examen de matemáticas!"
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/help_teen_learn_3",
+      "character_1_id": "F1_PADRE",
+      "character_1_text::eng": "¡Me gusta! ¿Y cómo conseguirás ese 4.5 en tu primer examen de matemáticas?",
+      "character_2_id": "F1_HIJA_16",
+      "character_2_text::eng": "A ver… ¿Qué tal si aparto un poco de tiempo todos los días para estudiar matemáticas? Y, si me trabo con algo, tal vez puedas ayudarme, ¿sí?"
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/help_teen_learn_4",
+      "character_1_id": "F1_PADRE",
+      "character_1_text::eng": "¡Haré lo mejor que pueda! Si trabajas duro y mantienes tu rutina de estudio todos los días, ¡Estoy seguro de que podrás lograr tu objetivo!"
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "Da Clic en Reproducir ▶️ para ver cómo ayudar a {tu adolescente} a aprender a través del establecimiento de metas y objetivos:\n\n1️⃣ **ESTABLECER METAS**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **CONECTAR**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_¡Actividad para casa!_*⭐ \n\nDedícale 5 minutos a tu adolescente para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana.",
+      "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰ ",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "¡Excelente! Usa las estrategias que has aprendido hoy, ¡y diviértete! Sentir alegría y felicidad durante el aprendizaje con {tu adolescente} es una forma estupenda de motivarle para seguir aprendiendo. 💙",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana y ayudarle a estudiar o completar su trabajo escolar. ☀️"
+    }
+  ]
+}

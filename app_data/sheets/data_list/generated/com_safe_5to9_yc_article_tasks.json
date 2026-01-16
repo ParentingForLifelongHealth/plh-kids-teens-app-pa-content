@@ -1,0 +1,371 @@
+{
+  "flow_name": "com_safe_5to9_yc_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_5",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Cuidarte es importante. ¡Y cómo te sientes, también lo es!"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Genial! Es bueno saber que hoy te sientes bien."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "A veces las cosas van muy bien, a veces no tanto, y otras veces, simplemente no sabemos qué pensar… y eso está bien. Recuerda que no estás sola/o."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Lamento que las cosas estén siendo difíciles en este momento. Mereces cosas buenas, y @global.app_name está aquí para acompañarte en cada paso."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Cuidarte es importante. ¡Y cómo te sientes, también lo es!",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "¡Genial! Es bueno saber que hoy te sientes bien.",
+      "quiz_1_feedback_2": "A veces las cosas van muy bien, a veces no tanto, y otras veces, simplemente no sabemos qué pensar… y eso está bien. Recuerda que no estás sola/o.",
+      "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles en este momento. Mereces cosas buenas, y @global.app_name está aquí para acompañarte en cada paso.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Esta lección trata sobre aprender a mantener a {tu niño} a salvo en tu comunidad y crear un \"Plan de seguridad\" para ello."
+        },
+        "text_2": {
+          "eng": "¡No eres la única persona pasando por esto! Madres, padres y personas cuidadoras de todo el mundo se preocupan por la seguridad de sus niñas y niños. 🔔"
+        },
+        "quiz_1_question": {
+          "eng": "¡Hagamos un ejercicio! Pongamos a prueba tus conocimientos sobre la seguridad de las niñas y los niños. \n\n¿Cuál de estos espacios sería un lugar en donde las niñas y los niños podrían estar cien por ciento seguros?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "La casa"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "La casa de una amiga o amigo"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "La escuela"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Un Centro Religioso"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén."
+        },
+        "quiz_1_option_5_text": {
+          "eng": "Una clínica"
+        },
+        "quiz_1_feedback_5": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén."
+        },
+        "quiz_1_option_6_text": {
+          "eng": "El parque"
+        },
+        "quiz_1_feedback_6": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén."
+        },
+        "quiz_1_option_7_text": {
+          "eng": "El coche"
+        },
+        "quiz_1_feedback_7": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén."
+        },
+        "quiz_1_option_8_text": {
+          "eng": "Ninguna de las anteriores"
+        },
+        "quiz_1_feedback_8": {
+          "eng": "🎉 ¡Tienes razón!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {},
+        "quiz_1_option_5_text": {},
+        "quiz_1_feedback_5": {},
+        "quiz_1_option_6_text": {},
+        "quiz_1_feedback_6": {},
+        "quiz_1_option_7_text": {},
+        "quiz_1_feedback_7": {},
+        "quiz_1_option_8_text": {},
+        "quiz_1_feedback_8": {}
+      },
+      "quiz_1_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
+      "quiz_1_feedback_3": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
+      "quiz_1_question": "¡Hagamos un ejercicio! Pongamos a prueba tus conocimientos sobre la seguridad de las niñas y los niños. \n\n¿Cuál de estos espacios sería un lugar en donde las niñas y los niños podrían estar cien por ciento seguros?",
+      "quiz_1_option_1_text": "La casa",
+      "quiz_1_option_2_text": "La casa de una amiga o amigo",
+      "quiz_1_option_3_text": "La escuela",
+      "text_1_facilitator": "Esta lección trata sobre aprender a mantener a {tu niño} a salvo en tu comunidad y crear un \"Plan de seguridad\" para ello.",
+      "text_2": "¡No eres la única persona pasando por esto! Madres, padres y personas cuidadoras de todo el mundo se preocupan por la seguridad de sus niñas y niños. 🔔",
+      "quiz_1_option_4_text": "Un Centro Religioso",
+      "quiz_1_feedback_4": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
+      "quiz_1_option_5_text": "Una clínica",
+      "quiz_1_feedback_5": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
+      "quiz_1_option_6_text": "El parque",
+      "quiz_1_feedback_6": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
+      "quiz_1_option_7_text": "El coche",
+      "quiz_1_feedback_7": "👀 ¡Ups! ¡Buen intento!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
+      "quiz_1_option_8_text": "Ninguna de las anteriores",
+      "quiz_1_feedback_8": "🎉 ¡Tienes razón!\n\n😔 {Tu niño} podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Veamos cómo están {F3_HIJA_7} y su madre, {F3_MADRE}, después de que  {F3_HIJA_7} estuvo en una situación incómoda:"
+        },
+        "character_1_text": {
+          "eng": "¡Estaba jugando afuera y pasó algo!"
+        },
+        "character_2_text": {
+          "eng": "¡¿Qué pasó, {F3_HIJA_7}?! Respira y dímelo."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Veamos cómo están {F3_HIJA_7} y su madre, {F3_MADRE}, después de que  {F3_HIJA_7} estuvo en una situación incómoda:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "image_asset": "https://drive.google.com/file/d/1ggiLrnHQg5FA1uBljTvgHbil0g7iJwre/view?usp=drive_link",
+      "character_1_id": "F3_HIJA_7",
+      "character_2_id": "F3_MADRE",
+      "character_1_text": "¡Estaba jugando afuera y pasó algo!",
+      "character_2_text": "¡¿Qué pasó, {F3_HIJA_7}?! Respira y dímelo.",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Hola niña. Tienes una sonrisa muy bonita y tu pelo rizado es precioso. ¿Cómo te llamas?"
+        },
+        "character_2_text": {
+          "eng": "Me llamo {F3_HIJA_7}."
+        },
+        "character_3_text": {
+          "eng": "{F3_HIJA_7}, qué bonito nombre."
+        },
+        "character_4_text": {
+          "eng": "Gracias."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "https://drive.google.com/file/d/12aCI1GcWgkBaVQFD5-XqQt8PFTASq3Fj/view?usp=drive_link",
+      "character_1_id": "HOMBRE_EN_COCHE",
+      "character_2_id": "F3_HIJA_7",
+      "character_1_text": "Hola niña. Tienes una sonrisa muy bonita y tu pelo rizado es precioso. ¿Cómo te llamas?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {},
+        "character_4_text": {}
+      },
+      "character_2_text": "Me llamo {F3_HIJA_7}.",
+      "character_3_id": "HOMBRE_EN_COCHE",
+      "character_4_id": "F3_HIJA_7",
+      "character_3_text": "{F3_HIJA_7}, qué bonito nombre.",
+      "character_4_text": "Gracias.",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "{F3_HIJA_7}, tengo dulces y juguetes para ti en mi carro. Si entras, podrás comértelos y jugar con todos los juguetes que tú quieras, te lo prometo…"
+        },
+        "character_2_text": {
+          "eng": "No, gracias."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "https://drive.google.com/file/d/1sye_gF1K_8Gs8n3NopayRUTmglvRbqlb/view?usp=drive_link",
+      "character_1_id": "HOMBRE_EN_COCHE",
+      "character_2_id": "F3_HIJA_7",
+      "character_1_text": "{F3_HIJA_7}, tengo dulces y juguetes para ti en mi carro. Si entras, podrás comértelos y jugar con todos los juguetes que tú quieras, te lo prometo…",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "No, gracias.",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡¡Mamiiiiii!!"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "https://drive.google.com/file/d/1VjV2sYC-zJ3I3oDV1-HMuhKCSgpcSywx/view?usp=drive_link",
+      "character_1_id": "F3_HIJA_7",
+      "character_1_text": "¡¡Mamiiiiii!!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "{F3_HIJA_7}, ¡fue muy inteligente de tu parte correr hacia dentro y no subirte al carro de una persona desconocida! Recordaste las reglas que acordamos al crear nuestro “Plan de Seguridad”. Era una situación peligrosa y fuiste muy valiente. Gracias por decírmelo. Lo denunciaré para que no vuelva a pasar y que otras niñas y niños estén a salvo también."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "https://drive.google.com/file/d/1kRrDIcDgtlFL1-KKNeixbByqtTnSw89t/view?usp=drive_link",
+      "character_1_id": "F3_MADRE",
+      "character_1_text": "{F3_HIJA_7}, ¡fue muy inteligente de tu parte correr hacia dentro y no subirte al carro de una persona desconocida! Recordaste las reglas que acordamos al crear nuestro “Plan de Seguridad”. Era una situación peligrosa y fuiste muy valiente. Gracias por decírmelo. Lo denunciaré para que no vuelva a pasar y que otras niñas y niños estén a salvo también.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "\"Para mantener a {tu niño} a salvo, háblale sobre qué lugares son seguros y cuáles no lo son, y enséñale a tener cuidado cuando se encuentre con gente que no conoce.\n\nDa Clic en Reproducir ▶️ para aprender los 4️⃣ pasos para garantizar la seguridad de {tu niño} en su comunidad:\n\nPaso 1️⃣: **DIBUJAR**\nPaso 2️⃣: **IDENTIFICAR**\nPaso 3️⃣: **CONVERSAR**\nPaso 4️⃣: **PRACTICAR**\""
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "\"Para mantener a {tu niño} a salvo, háblale sobre qué lugares son seguros y cuáles no lo son, y enséñale a tener cuidado cuando se encuentre con gente que no conoce.\n\nDa Clic en Reproducir ▶️ para aprender los 4️⃣ pasos para garantizar la seguridad de {tu niño} en su comunidad:\n\nPaso 1️⃣: **DIBUJAR**\nPaso 2️⃣: **IDENTIFICAR**\nPaso 3️⃣: **CONVERSAR**\nPaso 4️⃣: **PRACTICAR**\"",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n \n📝 El día de hoy, conversa con {tu niño} sobre qué lugares son seguros y cuáles no son seguros para las niñas y los niños de tu comunidad. \n\n✨ Busca un tiempo para que tu niña o niño también comparta sus pensamientos. Puede pensar que es inseguro un lugar que tú creías seguro. Permítele explicar sus razones.  \n\nPracticar el uso de palabras claves cuando se encuentra en peligro para pedir ayuda ejemplo. “Auxilio”, “Mamá”, “Fuego”."
+        },
+        "quiz_1_question": {
+          "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Estupendo! 💙 Estás ayudando a {tu niño} a ser consciente de su entorno para poder mantenerse a salvo."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡Está bien! Si hoy no tienes tiempo, aparta un rato mañana para conversar con {tu niño} sobre lugares seguros e inseguros o peligrosos. ¡Tú puedes! 🌷"
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "¡Estupendo! 💙 Estás ayudando a {tu niño} a ser consciente de su entorno para poder mantenerse a salvo.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "¡Está bien! Si hoy no tienes tiempo, aparta un rato mañana para conversar con {tu niño} sobre lugares seguros e inseguros o peligrosos. ¡Tú puedes! 🌷",
+      "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n \n📝 El día de hoy, conversa con {tu niño} sobre qué lugares son seguros y cuáles no son seguros para las niñas y los niños de tu comunidad. \n\n✨ Busca un tiempo para que tu niña o niño también comparta sus pensamientos. Puede pensar que es inseguro un lugar que tú creías seguro. Permítele explicar sus razones.  \n\nPracticar el uso de palabras claves cuando se encuentra en peligro para pedir ayuda ejemplo. “Auxilio”, “Mamá”, “Fuego”.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

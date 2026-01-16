@@ -47,9 +47,9 @@
       "quiz_1_feedback_2": "🎉 ¡Tienes razón!\n✨ La forma en que elogies es importante. El reconocimiento funciona si es inmediato y específico.  \n🌱 Puedes empezar reconociendo y elogiando cosas pequeñas, como que arregle su cuarto."
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1Jhq9sJQu7xVQ4y3tg6u9_aFKK47zZyBB/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/give_praise_teen_1.svg",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "text_1_facilitator": "Aquí tienes una historieta sobre cómo puedes elogiar a tu adolescente durante su tiempo juntos y conectados.",
@@ -68,9 +68,9 @@
       "text_2": "{F3_MADRE} y su hija {F3_HIJA_12} dedican su tiempo juntos y conectados con las tareas de la escuela."
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1WyKBToh8ziw7OJLsBF2EuAXbeav5PeJy/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/give_praise_teen_2.svg",
       "character_1_id": "F3_MADRE",
       "character_2_id": "F3_HIJA_12",
       "nested": false,
@@ -91,9 +91,9 @@
       "character_2_text": "¿En serio? Creí que solo me pasaba a mí."
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1BW5ie91rZsOnEWAJKM-BIkkH8tHkp2eu/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/give_praise_teen_3.svg",
       "character_1_id": "F3_MADRE",
       "character_2_id": "F3_HIJA_12",
       "nested": false,
@@ -119,8 +119,8 @@
       "character_2_text": "Gracias, mamá. De verdad agradezco que te hayas tomado este tiempo para ayudarme."
     },
     {
-      "id": "explore_1",
-      "category_id": "explore",
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
       "media_type": "video",
       "youtube_gb_en": "youtube link",
       "nested": false,
@@ -136,7 +136,7 @@
       }
     },
     {
-      "id": "practical_tips_1",
+      "id": "practical_tips_2",
       "category_id": "practical_tips",
       "section_1_icon_asset": "https://drive.google.com/file/d/1JYdcbkVuoMB64KZFOtWUd01yErpe19ac/view?usp=drive_link",
       "section_2_icon_asset": "https://drive.google.com/file/d/1GGu-Iy1PmdyDtB2h_Q23fxyUsR0FqGhn/view?usp=drive_link",
@@ -237,7 +237,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules.xlsx",
+    "path": "data/PA modules - i (1-15).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
   },
   "_metadata": {

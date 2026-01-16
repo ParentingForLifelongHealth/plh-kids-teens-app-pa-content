@@ -1,0 +1,270 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "maths2_4to6_c_articles",
+  "data_list_name": "maths2_4to6_c_articles",
+  "status": "released",
+  "flow_subtype": "modules_maths2_4to6_c",
+  "module": "maths2_4to6_c",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Hoy continuaremos con la lección para ayudar a {tu niño} a prepararse para las matemáticas. ✨\n\nEn esta parte, nos enfocaremos en actividades un poco más retadoras que puedes hacer con {tu niño} para cuando sientas que ya tiene el dominio y la confianza para intentarlas. 💡",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Hoy continuaremos con la lección para ayudar a {tu niño} a prepararse para las matemáticas. ✨\n\nEn esta parte, nos enfocaremos en actividades un poco más retadoras que puedes hacer con {tu niño} para cuando sientas que ya tiene el dominio y la confianza para intentarlas. 💡"
+        },
+        "text_2": {
+          "eng": "Aprender a comparar, sumar y restar ayudará a {tu niño} a entender más sobre las matemáticas. Esto será un apoyo continuo en el aprendizaje de habilidades numéricas. 🔟/🔟 ⭐"
+        },
+        "quiz_1_question": {
+          "eng": "📝 Hagamos un ejercicio. Ejercicio 1 \n\nSumar y Restar son cosas que las niñas y los niños deben aprender en la escuela."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n🎉 Las niñas y los niños pueden aprender a sumar y restar haciendo actividades cotidianas y mientras juegan.\n\n💡 Entre más pronto empiecen, más fácil será cuando vayan a la escuela."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "✨ ¡Estás en lo correcto!\n\n🎉  Las niñas y los niños pueden aprender a sumar y restar haciendo actividades cotidianas y mientras juegan.\n\n💡 Entre más pronto empiecen, más fácil será cuando vayan a la escuela."
+        }
+      },
+      "text_2": "Aprender a comparar, sumar y restar ayudará a {tu niño} a entender más sobre las matemáticas. Esto será un apoyo continuo en el aprendizaje de habilidades numéricas. 🔟/🔟 ⭐",
+      "quiz_1_question": "📝 Hagamos un ejercicio. Ejercicio 1 \n\nSumar y Restar son cosas que las niñas y los niños deben aprender en la escuela.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🎉 Las niñas y los niños pueden aprender a sumar y restar haciendo actividades cotidianas y mientras juegan.\n\n💡 Entre más pronto empiecen, más fácil será cuando vayan a la escuela.",
+      "quiz_1_option_2_text": "Falso",
+      "quiz_1_feedback_2": "✨ ¡Estás en lo correcto!\n\n🎉  Las niñas y los niños pueden aprender a sumar y restar haciendo actividades cotidianas y mientras juegan.\n\n💡 Entre más pronto empiecen, más fácil será cuando vayan a la escuela."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/maths2_4to6_yc_1",
+      "character_1_id": "F3_MADRE",
+      "character_2_id": "F3_HIJO_4",
+      "character_3_id": "F3_MADRE",
+      "nested": false,
+      "text_1_facilitator": "Veamos cómo {F3_MADRE} practica los números con su hijo, {F3_HIJO_4}, en la cocina:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Veamos cómo {F3_MADRE} practica los números con su hijo, {F3_HIJO_4}, en la cocina:"
+        },
+        "character_1_text": {
+          "eng": "Gracias por cocinar conmigo. ¡Me ayudas mucho! ¿Qué tienes ahí?"
+        },
+        "character_2_text": {
+          "eng": "¡Papas!"
+        },
+        "character_3_text": {
+          "eng": "¡Así es! ¡papas! ¿Cuántas papas tienes?"
+        }
+      },
+      "character_1_text": "Gracias por cocinar conmigo. ¡Me ayudas mucho! ¿Qué tienes ahí?",
+      "character_2_text": "¡Papas!",
+      "character_3_text": "¡Así es! ¡papas! ¿Cuántas papas tienes?"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/maths2_4to6_yc_2",
+      "character_1_id": "F3_HIJO_4",
+      "character_2_id": "F3_MADRE",
+      "nested": false,
+      "character_1_text": "¡Cinco!",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Cinco!"
+        },
+        "character_2_text": {
+          "eng": "¡Eso! Uno, dos, tres, cuatro… ¡cinco! ¡Cinco papas!"
+        }
+      },
+      "character_2_text": "¡Eso! Uno, dos, tres, cuatro… ¡cinco! ¡Cinco papas!"
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/maths2_4to6_yc_3",
+      "character_1_id": "F3_MADRE",
+      "nested": false,
+      "character_1_text": "¿Me puedes dar dos papas, por favor?\n¡Así es! ¡Uno… dos…!\n¿Cuántos papas quedan?",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¿Me puedes dar dos papas, por favor?\n¡Así es! ¡Uno… dos…!\n¿Cuántos papas quedan?"
+        }
+      }
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/maths2_4to6_yc_4",
+      "character_1_id": "F3_MADRE",
+      "character_2_id": "F3_HIJO_4",
+      "nested": false,
+      "character_1_text": "¿Se te hace muy difícil? No te preocupes, ¡vamos a contar juntos! Veamos… teníamos cinco, y tú me diste dos. Ahora quedan una… dos… ¡tres! ¡Quedan tres papas!",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¿Se te hace muy difícil? No te preocupes, ¡vamos a contar juntos! Veamos… teníamos cinco, y tú me diste dos. Ahora quedan una… dos… ¡tres! ¡Quedan tres papas!"
+        },
+        "character_2_text": {
+          "eng": "¡Quedan tres papas!"
+        }
+      },
+      "character_2_text": "¡Quedan tres papas!"
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link",
+      "nested": false,
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender cuatro estrategias sobre cómo animar a {tu niño} a practicar sus habilidades matemáticas:\n\n1️⃣ **CLASIFICAR Y ORGANIZAR**\n2️⃣ **PONER Y QUITAR**\n3️⃣ **HACER UN NÚMERO DE DISTINTAS MANERAS**\n4️⃣ **ANIMAR Y DIVERTIRSE**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en Reproducir ▶️ para aprender cuatro estrategias sobre cómo animar a {tu niño} a practicar sus habilidades matemáticas:\n\n1️⃣ **CLASIFICAR Y ORGANIZAR**\n2️⃣ **PONER Y QUITAR**\n3️⃣ **HACER UN NÚMERO DE DISTINTAS MANERAS**\n4️⃣ **ANIMAR Y DIVERTIRSE**"
+        }
+      }
+    },
+    {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "https://drive.google.com/file/d/1hfWPX9i6ZpYVChhK8_6AafGeqSNCgYOg/view?usp=drive_link",
+      "section_2_icon_asset": "https://drive.google.com/file/d/1JYdcbkVuoMB64KZFOtWUd01yErpe19ac/view?usp=drive_link",
+      "section_3_icon_asset": "https://drive.google.com/file/d/1H0X72PVEhhmWbrzS5AMDtRQq37xnGWY_/view?usp=drive_link",
+      "section_4_icon_asset": "pencil.svg",
+      "nested": false,
+      "text_1_facilitator": "Una vez que {tu niño} tenga una mejor noción de los números y los grupos de cosas, podrá empezar a desarrollar más habilidades matemáticas.⭐\n\n¡Recuerda ir poco a poco y divertirte al hacer las cosas que {tu niño} está a punto de lograr! 😃",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Una vez que {tu niño} tenga una mejor noción de los números y los grupos de cosas, podrá empezar a desarrollar más habilidades matemáticas.⭐\n\n¡Recuerda ir poco a poco y divertirte al hacer las cosas que {tu niño} está a punto de lograr! 😃"
+        },
+        "section_1_title": {
+          "eng": "USAR LIBROS PARA APRENDER"
+        },
+        "section_1_text": {
+          "eng": "💡 Los libros sin palabras ayudan con la imaginación, las ideas y el aprendizaje de palabras nuevas. En conjunto, nombren y describan lo que hay en los dibujos.\n\n⭐ Los libros con palabras ayudan a tener una noción de las letras, los sonidos y cómo se ven distintas palabras.\n\n🎵 Enfócate en palabras o frases cortas que rimen, se repitan y empiecen por la misma letra o terminen con el mismo sonido, como \"piña para la niña\", \"el león comelón\", o \"el zorro pide socorro\".\n\n➡️ ¡Señala cada palabra y dila en voz alta para ayudar a {tu niño} a reconocer algunas letras y sonidos!"
+        },
+        "section_2_title": {
+          "eng": "IDENTIFICAR LETRAS"
+        },
+        "section_2_text": {
+          "eng": "👀 Busca letras por todas partes, como en carteles y paquetes.\n\n💡 Señálale las letras a {tu niño} y nómbralas.\n\n👂 ¡Pídele que encuentre letras y que también las nombre! Acuérdate de elogiar cuando lo haga bien."
+        },
+        "section_3_title": {
+          "eng": "JUGAR JUEGOS DE PALABRAS"
+        },
+        "section_3_text": {
+          "eng": "🎵 Canta y haz rimas con {tu niño} para ayudarle a aprender los distintos sonidos que forman a las palabras.\n\n👋 Divide los nombres o las palabras en sílabas. Aplaude con {tu niño} mientras dices cada sílaba: ¡empieza con solo 2!\n\n🔄 Cambia algunos sonidos o letras de las palabras para formar palabras nuevas, como \"casa, pasa, masa\". Luego, repite los sonidos que se cambiaron: \"c\", \"p\", \"m\"\n\n👀 Ayúdale a {tu niño} a identificar los \"sonidos iniciales\", los \"sonidos medios\" y los \"sonidos finales\", y las letras que los forman.\n\n✅ Una vez que {tu niño} entienda las letras y los sonidos en distintos lugares de las palabras, ¡ayúdale a unir las partes de una palabra para formar la palabra completa!"
+        },
+        "section_4_title": {
+          "eng": "EMPEZAR A ESCRIBIR"
+        },
+        "section_4_text": {
+          "eng": "🧸🌷 Anima a tu niña o niño a dibujar. Puede empezar dibujando cosas que le gusten, como animales o flores.\n\n▶️ Ayúdale a identificar su mano dominante preguntándole: \"¿Con qué mano prefieres dibujar?\" Si su respuesta es que usa las dos manos, permítele dibujar con ambas.\n\n🎨 A continuación, enséñale a dibujar figuras que parezcan letras: 🔵🔶\n\n👋 Ayúdale a practicar el trazado de letras en el aire y sobre una superficie usando sus dedos.\n\n😃 Después, ayúdale a escribir letras sencillas con crayones. ¡Empieza practicando con la primera letra de su nombre!\n\n🔄 Practica y ve agregando letras hasta que pueda escribir su nombre completo. Después, ¡aprendan más letras usando diferentes palabras!"
+        }
+      },
+      "section_1_title": "USAR LIBROS PARA APRENDER",
+      "section_1_text": "💡 Los libros sin palabras ayudan con la imaginación, las ideas y el aprendizaje de palabras nuevas. En conjunto, nombren y describan lo que hay en los dibujos.\n\n⭐ Los libros con palabras ayudan a tener una noción de las letras, los sonidos y cómo se ven distintas palabras.\n\n🎵 Enfócate en palabras o frases cortas que rimen, se repitan y empiecen por la misma letra o terminen con el mismo sonido, como \"piña para la niña\", \"el león comelón\", o \"el zorro pide socorro\".\n\n➡️ ¡Señala cada palabra y dila en voz alta para ayudar a {tu niño} a reconocer algunas letras y sonidos!",
+      "section_2_title": "IDENTIFICAR LETRAS",
+      "section_2_text": "👀 Busca letras por todas partes, como en carteles y paquetes.\n\n💡 Señálale las letras a {tu niño} y nómbralas.\n\n👂 ¡Pídele que encuentre letras y que también las nombre! Acuérdate de elogiar cuando lo haga bien.",
+      "section_3_title": "JUGAR JUEGOS DE PALABRAS",
+      "section_3_text": "🎵 Canta y haz rimas con {tu niño} para ayudarle a aprender los distintos sonidos que forman a las palabras.\n\n👋 Divide los nombres o las palabras en sílabas. Aplaude con {tu niño} mientras dices cada sílaba: ¡empieza con solo 2!\n\n🔄 Cambia algunos sonidos o letras de las palabras para formar palabras nuevas, como \"casa, pasa, masa\". Luego, repite los sonidos que se cambiaron: \"c\", \"p\", \"m\"\n\n👀 Ayúdale a {tu niño} a identificar los \"sonidos iniciales\", los \"sonidos medios\" y los \"sonidos finales\", y las letras que los forman.\n\n✅ Una vez que {tu niño} entienda las letras y los sonidos en distintos lugares de las palabras, ¡ayúdale a unir las partes de una palabra para formar la palabra completa!",
+      "section_4_title": "EMPEZAR A ESCRIBIR",
+      "section_4_text": "🧸🌷 Anima a tu niña o niño a dibujar. Puede empezar dibujando cosas que le gusten, como animales o flores.\n\n▶️ Ayúdale a identificar su mano dominante preguntándole: \"¿Con qué mano prefieres dibujar?\" Si su respuesta es que usa las dos manos, permítele dibujar con ambas.\n\n🎨 A continuación, enséñale a dibujar figuras que parezcan letras: 🔵🔶\n\n👋 Ayúdale a practicar el trazado de letras en el aire y sobre una superficie usando sus dedos.\n\n😃 Después, ayúdale a escribir letras sencillas con crayones. ¡Empieza practicando con la primera letra de su nombre!\n\n🔄 Practica y ve agregando letras hasta que pueda escribir su nombre completo. Después, ¡aprendan más letras usando diferentes palabras!"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "*_¡Actividad para casa!_* ⭐ \n\n⭐ ¿Puedes hacer una actividad de sumar y restar con {tu niño}? Pueden hacerlo mientras cocinas, camino a la escuela o en el bus, o con otros objetos también, ¡como con piedras mientras juegan afuera! \n\n¡Estas actividades ayudarán a {tu niño} a aprender!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_¡Actividad para casa!_* ⭐ \n\n⭐ ¿Puedes hacer una actividad de sumar y restar con {tu niño}? Pueden hacerlo mientras cocinas, camino a la escuela o en el bus, o con otros objetos también, ¡como con piedras mientras juegan afuera! \n\n¡Estas actividades ayudarán a {tu niño} a aprender!"
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes hacerlo hoy? ⭐"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Qué bueno! 💙 ¡Estas actividades ayudarán a {tu niño} a aprender!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "⭐ ¡Entendemos! Si hoy no tienes tiempo, intenta hacer algunas actividades de sumar y restar con {tu niño} el día de mañana."
+        }
+      },
+      "quiz_1_question": "¿Puedes hacerlo hoy? ⭐",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "¡Qué bueno! 💙 ¡Estas actividades ayudarán a {tu niño} a aprender!",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "⭐ ¡Entendemos! Si hoy no tienes tiempo, intenta hacer algunas actividades de sumar y restar con {tu niño} el día de mañana."
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA modules - Play (46-60).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1mWNhZqCfGOub-6mE1pRygNQ2hZV7C8CUW8L3ifKAVGQ"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

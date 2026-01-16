@@ -1,0 +1,258 @@
+{
+  "flow_name": "pos_learn_7to9_c_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_13",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Toma primero un momento para ti."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Que gusto saber que hoy te sientes con ánimo positivo. Haces una gran diferencia para tu familia."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "La vida tiene momentos buenos y momentos difíciles, y está bien. Vas por buen camino."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Es normal tener días difíciles en la crianza. Respira profundo y recuerda que no estás sola/o."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Toma primero un momento para ti.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Que gusto saber que hoy te sientes con ánimo positivo. Haces una gran diferencia para tu familia.",
+      "quiz_1_feedback_2": "La vida tiene momentos buenos y momentos difíciles, y está bien. Vas por buen camino.",
+      "quiz_1_feedback_3": "Es normal tener días difíciles en la crianza. Respira profundo y recuerda que no estás sola/o.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Esta lección trata sobre cómo crear un ambiente positivo para el aprendizaje de {tu niño}."
+        },
+        "text_2": {
+          "eng": "{Tu niño} aprenderá mucho mejor estando en un ambiente que apoye y fomente su aprendizaje. 😃"
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Esta lección trata sobre cómo crear un ambiente positivo para el aprendizaje de {tu niño}.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "text_2": "{Tu niño} aprenderá mucho mejor estando en un ambiente que apoye y fomente su aprendizaje. 😃",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Aquí tienes una historieta sobre crear ambientes positivos para {tu niño}:"
+        },
+        "character_1_text": {
+          "eng": "Papá, ¡ya llegué!"
+        },
+        "character_2_text": {
+          "eng": "Bienvenida a casa, {F3_HIJA_7}. ¿Tuviste un buen día en la escuela?"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Aquí tienes una historieta sobre crear ambientes positivos para {tu niño}:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_7to9_yc_1",
+      "character_1_id": "F3_HIJA_7",
+      "character_2_id": "F3_TÍO",
+      "character_1_text": "Papá, ¡ya llegué!",
+      "character_2_text": "Bienvenida a casa, {F3_HIJA_7}. ¿Tuviste un buen día en la escuela?",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Sí, pero la maestra nos dejó mucho trabajo!"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_7to9_yc_2",
+      "character_1_id": "F3_HIJA_7",
+      "character_1_text": "¡Sí, pero la maestra nos dejó mucho trabajo!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Eso suena frustrante, pero estoy seguro de que puedes hacerlo. Te despejé un espacio en la cocina para que puedas concentrarte y tener un poco de tranquilidad mientras preparo la comida."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_7to9_yc_3",
+      "character_1_id": "F3_TÍO",
+      "character_1_text": "Eso suena frustrante, pero estoy seguro de que puedes hacerlo. Te despejé un espacio en la cocina para que puedas concentrarte y tener un poco de tranquilidad mientras preparo la comida.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Gracias, papá. ¿Ya que termine, puedo ir a jugar a casa de María?"
+        },
+        "character_2_text": {
+          "eng": "¡Sí, claro! Puedes jugar con ella en lo que está lista la comida. Le diré a su mamá."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_7to9_yc_4",
+      "character_1_id": "F3_HIJA_7",
+      "character_2_id": "F3_TÍO",
+      "character_1_text": "Gracias, papá. ¿Ya que termine, puedo ir a jugar a casa de María?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "¡Sí, claro! Puedes jugar con ella en lo que está lista la comida. Le diré a su mamá.",
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_7to9_yc_5",
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en Reproducir ▶️ para ver cómo a apoyar a {tu niño} a crear un ambiente positivo para su aprendizaje:\n\n1️⃣ **PROCURAR SILENCIO**\n2️⃣ **CREAR RUTINAS**\n3️⃣ **APOYAR**"
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para ver cómo a apoyar a {tu niño} a crear un ambiente positivo para su aprendizaje:\n\n1️⃣ **PROCURAR SILENCIO**\n2️⃣ **CREAR RUTINAS**\n3️⃣ **APOYAR**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐  \n\nPlatica con {tu niño} para encontrar un lugar de estudio adecuado en tu casa."
+        },
+        "quiz_1_question": {
+          "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Muy bien! Utiliza las estrategias que has aprendido hoy para impulsar a {tu niño} hacia un mejor aprovechamiento académico. 💙"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana."
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "¡Muy bien! Utiliza las estrategias que has aprendido hoy para impulsar a {tu niño} hacia un mejor aprovechamiento académico. 💙",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana.",
+      "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "*_Actividad para casa_*⭐  \n\nPlatica con {tu niño} para encontrar un lugar de estudio adecuado en tu casa.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

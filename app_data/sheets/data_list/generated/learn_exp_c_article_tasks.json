@@ -1,0 +1,304 @@
+{
+  "flow_name": "learn_exp_c_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_15",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "No hay una forma correcta o incorrecta de sentirse. Sea como sea que te sientas, está bien."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Muy bien por reconocer cómo te sientes. Que gusto saber que hoy te encuentras bien."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Todas las personas tenemos días buenos y días difíciles. Recuerda: eres la mejor madre, padre o persona cuidadora para tu adolescente, y mereces reconocimiento."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "A veces es difícil manejar todo lo que pasa en nuestra vida. Recuerda: eres más fuerte de lo que imaginas."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "No hay una forma correcta o incorrecta de sentirse. Sea como sea que te sientas, está bien.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Muy bien por reconocer cómo te sientes. Que gusto saber que hoy te encuentras bien.",
+      "quiz_1_feedback_2": "Todas las personas tenemos días buenos y días difíciles. Recuerda: eres la mejor madre, padre o persona cuidadora para tu adolescente, y mereces reconocimiento.",
+      "quiz_1_feedback_3": "A veces es difícil manejar todo lo que pasa en nuestra vida. Recuerda: eres más fuerte de lo que imaginas.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "La lección de habilidades de crianza para el día de hoy trata sobre cómo ayudar a {tu niño} a aprender de sus errores. 💚"
+        },
+        "text_2": {
+          "eng": "Aprender de nuestros errores puede ayudarnos a evitarlos en el futuro. 🌷\n\nTambién nos ayuda a ser personas más comprensivas y menos duras con nosotras mismas cuando las cosas no salen bien. 😃"
+        },
+        "quiz_1_question": {
+          "eng": "¡Hagamos un ejercicio! Ejercicio 1.\n\nSi mi niña o niño comprende su error y pide perdón, significa que puedo sacar a relucir otros errores que haya cometido para que aprenda."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n✨ {Tu niño} probablemente se sienta muy mal por haber cometido un error.\nFelicítale por haberse disculpado y demuéstrale que te da mucho orgullo que lo haya hecho. 💙\n\n😔 Si {tu niño} no siente tu apoyo, puede que tenga la tentación de ocultarte sus errores por miedo."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🌷 ¡Muy bien!\n\n✨ {Tu niño} probablemente se sienta muy mal por haber cometido un error.\nFelicítalo por haberse disculpado y demuéstrale que te da mucho orgullo que se haya dado cuenta y que haya pedido perdón. 💙\n\n😔 Si {tu niño} no siente tu apoyo, puede que tenga la tentación de ocultarte sus errores por miedo."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n✨ {Tu niño} probablemente se sienta muy mal por haber cometido un error.\nFelicítale por haberse disculpado y demuéstrale que te da mucho orgullo que lo haya hecho. 💙\n\n😔 Si {tu niño} no siente tu apoyo, puede que tenga la tentación de ocultarte sus errores por miedo.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "quiz_1_feedback_2": "🌷 ¡Muy bien!\n\n✨ {Tu niño} probablemente se sienta muy mal por haber cometido un error.\nFelicítalo por haberse disculpado y demuéstrale que te da mucho orgullo que se haya dado cuenta y que haya pedido perdón. 💙\n\n😔 Si {tu niño} no siente tu apoyo, puede que tenga la tentación de ocultarte sus errores por miedo.",
+      "quiz_1_question": "¡Hagamos un ejercicio! Ejercicio 1.\n\nSi mi niña o niño comprende su error y pide perdón, significa que puedo sacar a relucir otros errores que haya cometido para que aprenda.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_option_2_text": "Falso",
+      "text_1_facilitator": "La lección de habilidades de crianza para el día de hoy trata sobre cómo ayudar a {tu niño} a aprender de sus errores. 💚",
+      "text_2": "Aprender de nuestros errores puede ayudarnos a evitarlos en el futuro. 🌷\n\nTambién nos ayuda a ser personas más comprensivas y menos duras con nosotras mismas cuando las cosas no salen bien. 😃",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "{F2_HIJO_8} está demasiado activo dentro de la casa el día de hoy. Veamos cómo reacciona su abuelo, {F2_ABUELO}:"
+        },
+        "character_1_text": {
+          "eng": "{F2_HIJO_8}, ¡fíjate bien por dónde vas! Vas a romper algo."
+        },
+        "character_2_text": {
+          "eng": "¡No va a pasar nada!"
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "text_1_facilitator": "{F2_HIJO_8} está demasiado activo dentro de la casa el día de hoy. Veamos cómo reacciona su abuelo, {F2_ABUELO}:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/learn_experience_yc_1",
+      "character_1_id": "F2_ABUELO",
+      "character_2_id": "F2_HIJO_8",
+      "character_1_text": "{F2_HIJO_8}, ¡fíjate bien por dónde vas! Vas a romper algo.",
+      "character_2_text": "¡No va a pasar nada!",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "{F2_HIJO_8} choca contra una mesa y rompe un florero. {F2_ABUELO} lo ve y se preocupa."
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "text_1_facilitator": "{F2_HIJO_8} choca contra una mesa y rompe un florero. {F2_ABUELO} lo ve y se preocupa.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/learn_experience_yc_2",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¿Te lastimaste?"
+        },
+        "character_2_text": {
+          "eng": "No, abuelo. Perdón por romper el florero…No lo vi."
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/learn_experience_yc_3",
+      "character_1_id": "F2_ABUELO",
+      "character_2_id": "F2_HIJO_8",
+      "character_1_text": "¿Te lastimaste?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "No, abuelo. Perdón por romper el florero…No lo vi.",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Gracias por darte cuenta de tu error y por disculparte. ¿Sabes cómo podrías haber evitado que esto pasara?"
+        },
+        "character_2_text": {
+          "eng": "Sí, debí hacerte caso. Seguí corriendo aunque me dijiste que no lo hiciera."
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/learn_experience_yc_4",
+      "character_1_id": "F2_ABUELO",
+      "character_2_id": "F2_HIJO_8",
+      "character_1_text": "Gracias por darte cuenta de tu error y por disculparte. ¿Sabes cómo podrías haber evitado que esto pasara?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "Sí, debí hacerte caso. Seguí corriendo aunque me dijiste que no lo hiciera.",
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Está bien, {F2_HIJO_8}. Estoy orgulloso de que seas capaz de aprender de tus errores. Vamos a buscar una escoba y un trapo para recoger esto. Igual y se puede arreglar el florero con un poco de pegamento."
+        },
+        "character_2_text": {
+          "eng": "Bueno…"
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/learn_experience_yc_5",
+      "character_1_id": "F2_ABUELO",
+      "character_2_id": "F2_HIJO_8",
+      "character_1_text": "Está bien, {F2_HIJO_8}. Estoy orgulloso de que seas capaz de aprender de tus errores. Vamos a buscar una escoba y un trapo para recoger esto. Igual y se puede arreglar el florero con un poco de pegamento.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "Bueno…",
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da clic en Reproducir ▶️ para aprender ️algunas estrategias que puedes seguir para ayudar a {tu niño} a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**"
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "Da clic en Reproducir ▶️ para aprender ️algunas estrategias que puedes seguir para ayudar a {tu niño} a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\n*_Comparte una historia con {tu niño} sobre un momento en el que aprendiste de un error. Puede ser algo de cuando tú eras menor u otra lección de vida que hayas tenido._*"
+        },
+        "quiz_1_question": {
+          "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Maravilloso!\n💙 Usa estas estrategias que aprendiste hoy para ayudar a {tu niño} a fortalecer sus habilidades mentales y emocionales."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Si hoy no puedes, aparta un tiempo para mañana u otro día de la semana."
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "¡Maravilloso!\n💙 Usa estas estrategias que aprendiste hoy para ayudar a {tu niño} a fortalecer sus habilidades mentales y emocionales.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "Si hoy no puedes, aparta un tiempo para mañana u otro día de la semana.",
+      "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\n*_Comparte una historia con {tu niño} sobre un momento en el que aprendiste de un error. Puede ser algo de cuando tú eras menor u otra lección de vida que hayas tenido._*",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

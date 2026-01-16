@@ -1,0 +1,210 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "safe_6to9_yc_articles",
+  "data_list_name": "safe_6to9_yc_articles",
+  "status": "released",
+  "flow_subtype": "modules_safe_6to9_yc",
+  "module": "safe_6to9_yc",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "La lección de hoy trata de enseñarle a {tu niño} sobre el contacto físico ✅ seguro y el ❌ inseguro.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "La lección de hoy trata de enseñarle a {tu niño} sobre el contacto físico ✅ seguro y el ❌ inseguro."
+        },
+        "text_2": {
+          "eng": "💡 Es normal sentir incomodidad al conversar sobre abuso sexual con las niñas y los niños.\n\n❗ Pero hay algunas cosas sencillas que pueden ayudarles a entender cuándo *no* está bien que les toquen, y qué deben hacer si alguna vez pasa algo.\n\n🔑 Le hace saber que puede controlar quién toca su cuerpo y de qué manera lo hace.\n\n🌷 ¡Esto les prepara para mantenerse a salvo durante toda su vida!"
+        },
+        "quiz_1_question": {
+          "eng": "¡Hagamos un ejercicio corto! \n\nSi {tu niño} te dice que siente incomodidad cuando alguien toca alguna parte de su cuerpo, tú debes:"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Decirle que no debería conversar sobre esas partes del cuerpo"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n💚 Agradecerle por ser tan valiente y por contártelo para que sienta tu protección y la facilidad de conversar contigo en caso de que algo vuelve a ocurrir.\n\n💡 Esto le enseña que su seguridad es lo más importante y que siempre puede contar contigo.\n\n❗ Confrontar a la persona que lo hizo, en la mayoría de las ocasiones, lo empeora, por lo que es mejor ayudar a {tu niño} a alejarse de esa persona y denunciarla con la policía, en una clínica o en una institución de apoyo."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Agradecerle por su valentía al compartirlo contigo y denuncia a la persona, si es necesario"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 ¡Buen trabajo!\n\n💚 Agradecerle por ser tan valiente y por contártelo para que sienta tu protección y la facilidad de conversar contigo en caso de que algo vuelve a ocurrir.\n\n💡 Esto le enseña que su seguridad es lo más importante y que siempre puede contar contigo.\n\n❗ Confrontar a la persona que lo hizo, en la mayoría de las ocasiones, lo empeora, por lo que es mejor ayudar a {tu niño} a alejarse de esa persona y denunciarla con la policía, en una clínica o en una institución de confianza."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Decirle que no mientan sobre esas cosas"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n💚 Agradecerle por ser tan valiente y por contártelo para que sienta tu protección y la facilidad de conversar contigo en caso de que algo vuelve a ocurrir.\n\n💡 Esto le enseña que su seguridad es lo más importante y que siempre puede contar contigo.\n\n❗ Confrontar a la persona que lo hizo, en la mayoría de las ocasiones, lo empeora, por lo que es mejor ayudar a {tu niño} a alejarse de esa persona y denunciarla con la policía, en una clínica o en una institución de apoyo."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Ir y gritarle a la persona que lo hizo"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n💚 Agradecerle por ser tan valiente y por contártelo para que sienta tu protección y la facilidad de conversar contigo en caso de que algo vuelve a ocurrir.\n\n💡 Esto le enseña que su seguridad es lo más importante y que siempre puede contar contigo.\n\n❗ Confrontar a la persona que lo hizo, en la mayoría de las ocasiones, lo empeora, por lo que es mejor ayudar a {tu niño} a alejarse de esa persona y denunciarla con la policía, en una clínica o en una institución de apoyo."
+        }
+      },
+      "text_2": "💡 Es normal sentir incomodidad al conversar sobre abuso sexual con las niñas y los niños.\n\n❗ Pero hay algunas cosas sencillas que pueden ayudarles a entender cuándo *no* está bien que les toquen, y qué deben hacer si alguna vez pasa algo.\n\n🔑 Le hace saber que puede controlar quién toca su cuerpo y de qué manera lo hace.\n\n🌷 ¡Esto les prepara para mantenerse a salvo durante toda su vida!",
+      "quiz_1_question": "¡Hagamos un ejercicio corto! \n\nSi {tu niño} te dice que siente incomodidad cuando alguien toca alguna parte de su cuerpo, tú debes:",
+      "quiz_1_option_1_text": "Decirle que no debería conversar sobre esas partes del cuerpo",
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n💚 Agradecerle por ser tan valiente y por contártelo para que sienta tu protección y la facilidad de conversar contigo en caso de que algo vuelve a ocurrir.\n\n💡 Esto le enseña que su seguridad es lo más importante y que siempre puede contar contigo.\n\n❗ Confrontar a la persona que lo hizo, en la mayoría de las ocasiones, lo empeora, por lo que es mejor ayudar a {tu niño} a alejarse de esa persona y denunciarla con la policía, en una clínica o en una institución de apoyo.",
+      "quiz_1_option_2_text": "Agradecerle por su valentía al compartirlo contigo y denuncia a la persona, si es necesario",
+      "quiz_1_feedback_2": "🎉 ¡Buen trabajo!\n\n💚 Agradecerle por ser tan valiente y por contártelo para que sienta tu protección y la facilidad de conversar contigo en caso de que algo vuelve a ocurrir.\n\n💡 Esto le enseña que su seguridad es lo más importante y que siempre puede contar contigo.\n\n❗ Confrontar a la persona que lo hizo, en la mayoría de las ocasiones, lo empeora, por lo que es mejor ayudar a {tu niño} a alejarse de esa persona y denunciarla con la policía, en una clínica o en una institución de confianza.",
+      "quiz_1_option_3_text": "Decirle que no mientan sobre esas cosas",
+      "quiz_1_feedback_3": "👀 ¡Ups! ¡Buen intento!\n\n💚 Agradecerle por ser tan valiente y por contártelo para que sienta tu protección y la facilidad de conversar contigo en caso de que algo vuelve a ocurrir.\n\n💡 Esto le enseña que su seguridad es lo más importante y que siempre puede contar contigo.\n\n❗ Confrontar a la persona que lo hizo, en la mayoría de las ocasiones, lo empeora, por lo que es mejor ayudar a {tu niño} a alejarse de esa persona y denunciarla con la policía, en una clínica o en una institución de apoyo.",
+      "quiz_1_option_4_text": "Ir y gritarle a la persona que lo hizo",
+      "quiz_1_feedback_4": "👀 ¡Ups! ¡Buen intento!\n\n💚 Agradecerle por ser tan valiente y por contártelo para que sienta tu protección y la facilidad de conversar contigo en caso de que algo vuelve a ocurrir.\n\n💡 Esto le enseña que su seguridad es lo más importante y que siempre puede contar contigo.\n\n❗ Confrontar a la persona que lo hizo, en la mayoría de las ocasiones, lo empeora, por lo que es mejor ayudar a {tu niño} a alejarse de esa persona y denunciarla con la policía, en una clínica o en una institución de apoyo."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1Q68bfjL2Hpniem9_FDAEZgwTFEgK6b4F/view?usp=drive_link",
+      "character_1_id": "{F3_HIJA_7}",
+      "character_2_id": "{F3_MADRE}",
+      "nested": false,
+      "text_1_facilitator": "Aquí tienes una historia sobre una vez que {F3_HIJA_7} se sintió insegura cuando alguien la tocaba.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Aquí tienes una historia sobre una vez que {F3_HIJA_7} se sintió insegura cuando alguien la tocaba."
+        },
+        "character_1_text": {
+          "eng": "(Con lágrimas en los ojos) Mamá, el tío Ariel, que nos visitó la semana pasada, ¡da abrazos muy largos! No me gustan."
+        },
+        "character_2_text": {
+          "eng": "Ay mi vida, {F3_HIJA_7}, gracias por decírmelo. Eso no está bien."
+        }
+      },
+      "character_1_text": "(Con lágrimas en los ojos) Mamá, el tío Ariel, que nos visitó la semana pasada, ¡da abrazos muy largos! No me gustan.",
+      "character_2_text": "Ay mi vida, {F3_HIJA_7}, gracias por decírmelo. Eso no está bien."
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1PzHGapG2lATv9M85Y2QA2HqHE9nvmvRz/view?usp=drive_link",
+      "character_1_id": "{F3_MADRE}",
+      "character_2_id": "{F3_HIJA_7}",
+      "nested": false,
+      "character_1_text": "Si alguna vez vuelve a intentar darte un abrazo, puedes decirle: \"No, mejor dame la mano\", y luego ven a decírmelo. ¿Lo practicamos?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Si alguna vez vuelve a intentar darte un abrazo, puedes decirle: \"No, mejor dame la mano\", y luego ven a decírmelo. ¿Lo practicamos?"
+        },
+        "character_2_text": {
+          "eng": "(Responde practicando) No, mejor dame la mano, por favor."
+        }
+      },
+      "character_2_text": "(Responde practicando) No, mejor dame la mano, por favor."
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1A-vDXDnGthNHofwmJtkrSSaSRhfLX8Os/view?usp=drive_link",
+      "character_1_id": "{F3_MADRE}",
+      "character_2_id": "{F3_HIJA_7}",
+      "nested": false,
+      "character_1_text": "Bien hecho, {F3_HIJA_7}. Te amo y me da gusto que me hayas contado esto. Si el tío vuelve a hacerte sentir incómoda, debes decírmelo inmediatamente. Siempre debes sentirte segura y cómoda con la gente que te rodea.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Bien hecho, {F3_HIJA_7}. Te amo y me da gusto que me hayas contado esto. Si el tío vuelve a hacerte sentir incómoda, debes decírmelo inmediatamente. Siempre debes sentirte segura y cómoda con la gente que te rodea."
+        },
+        "character_2_text": {
+          "eng": "Gracias, mamá. Qué bueno que puedo contarte estas cosas."
+        }
+      },
+      "character_2_text": "Gracias, mamá. Qué bueno que puedo contarte estas cosas."
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link",
+      "nested": false,
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender 5️⃣ estrategias que te ayudarán a enseñarle a {tu niño} sobre el contacto físico seguro y qué debe hacer si se siente en peligro cuando alguien le toca. 💛\n\n1️⃣ **USAR LA HONESTIDAD**\n2️⃣ **DECIR \"NO\", ¡ESTÁ BIEN!**\n3️⃣ **ALEJARSE**\n4️⃣ **CONTARLE A UNA PERSONA ADULTA**\n5️⃣ **RESPONDER**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en Reproducir ▶️ para aprender 5️⃣ estrategias que te ayudarán a enseñarle a {tu niño} sobre el contacto físico seguro y qué debe hacer si se siente en peligro cuando alguien le toca. 💛\n\n1️⃣ **USAR LA HONESTIDAD**\n2️⃣ **DECIR \"NO\", ¡ESTÁ BIEN!**\n3️⃣ **ALEJARSE**\n4️⃣ **CONTARLE A UNA PERSONA ADULTA**\n5️⃣ **RESPONDER**"
+        }
+      }
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\n🚩 Platica con {tu niño} sobre el contacto físico seguro e inseguro. Ayúdale a practicar diciendo: \"¡No, no hagas eso!\" o \"¡No! ¡Detente!\" y recuérdale que es importante que le diga a una persona adulta si algo pasa.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\n🚩 Platica con {tu niño} sobre el contacto físico seguro e inseguro. Ayúdale a practicar diciendo: \"¡No, no hagas eso!\" o \"¡No! ¡Detente!\" y recuérdale que es importante que le diga a una persona adulta si algo pasa."
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes Conversar esto con {tu niño} hoy? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "💙 ¡Qué bien! Esto le ayudará a protegerse si alguna vez siente inseguridad o incomodidad cuando alguien le toca. ¡Lo estás haciendo muy bien!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡Está bien! Si hoy no tienes tiempo, aparta un espacio para mañana. Conversar de esto con {tu niño} le ayudará a protegerse si alguna vez siente inseguridad o incomodidad cuando alguien le toca.\n💙 ¡Lo estás haciendo muy bien!"
+        }
+      },
+      "quiz_1_question": "¿Puedes Conversar esto con {tu niño} hoy? ⏰",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "💙 ¡Qué bien! Esto le ayudará a protegerse si alguna vez siente inseguridad o incomodidad cuando alguien le toca. ¡Lo estás haciendo muy bien!",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "¡Está bien! Si hoy no tienes tiempo, aparta un espacio para mañana. Conversar de esto con {tu niño} le ayudará a protegerse si alguna vez siente inseguridad o incomodidad cuando alguien le toca.\n💙 ¡Lo estás haciendo muy bien!"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA modules - safe (16 - 30).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1M8u_5MgV3LHies5Zuvj_LtaYt9KqTRb4YJuwfyxMcs8"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

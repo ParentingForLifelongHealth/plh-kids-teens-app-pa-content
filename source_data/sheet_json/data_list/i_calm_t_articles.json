@@ -32,7 +32,7 @@
       "quiz_3_feedback_2::eng": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "category_id": "explore",
       "text_1_facilitator::eng": "Aquí tienes una historieta sobre cómo puedes mantener la calma y regular tu enojo al enfrentar situaciones frustrantes.",
       "image_asset": "https://drive.google.com/file/d/19IEdC3J4HDyW-7-xxMDPdUYEU4f-o3FO/view?usp=drive_link",
@@ -41,42 +41,42 @@
       "character_1_text::eng": "(Pensando) Me estoy sintiendo muy enojada. Estoy cansada y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a {F2_HIJO_15}"
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/160le3WU55Ac1I3qEINu3ZtlXj30-rjJO/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
       "character_1_text::eng": "(Pensando) Tomaré una pausa y pondré mi canción favorita."
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "category_id": "explore",
       "text_2::eng": "Un momento después.",
       "character_1_id": "F2_ABUELA",
       "character_1_text::eng": "(Pensando) Me siento más tranquila. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi niño."
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/132mbvg2Qz1TM4zgcdL3BoQsfzVjEKj_n/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
       "character_1_text::eng": "{F2_HIJO_15}, qué buen trabajo estás haciendo con tu tarea. Puede que ya te sientas cansado. Vamos a descansar 5 minutos y, después de eso, podemos recoger este tiradero juntos."
     },
     {
-      "id": "comic_5",
+      "id": "explore_5",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/1eiyI9aBW8xjsYfkrdNyg-8M9gBsvki3o/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
       "character_1_text::eng": "¡Gracias por hacer tu parte para que la casa esté limpia, {F2_HIJO_15}! Estoy muy orgullosa de tu esfuerzo. Es hora de nuestro tiempo juntos y conectados. ¿Qué quieres hacer?"
     },
     {
-      "id": "explore_1",
-      "category_id": "explore",
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "Aquí tienes un video con 4️⃣ estrategias para mantener la calma cuando enfrentes problemas con tu adolescente:\n1️⃣ MANTENER LA CALMA\n2️⃣ ACTÚA RÁPIDO\n3️⃣ SER CLARO\n4️⃣ SER POSITIVO",
       "media_type": "video",
       "youtube_gb_en": "youtube link"
     },
     {
-      "id": "practical_tips_1",
+      "id": "practical_tips_2",
       "category_id": "practical_tips",
       "text_1_facilitator::eng": "Recuerda las 4️⃣ estrategias para mantener la calma cuando hay estrés:",
       "section_1_title::eng": "MANTENER LA CALMA",

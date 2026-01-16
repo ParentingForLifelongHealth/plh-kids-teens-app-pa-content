@@ -1,0 +1,238 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "crises_7to9_yc_articles",
+  "data_list_name": "crises_7to9_yc_articles",
+  "status": "released",
+  "flow_subtype": "modules_crises_7to9_yc",
+  "module": "crises_7to9_yc",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "❗ Esta lección trata sobre aprender a responder cuando enfrentamos alguna crisis con nuestras niñas y nuestros niños.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "❗ Esta lección trata sobre aprender a responder cuando enfrentamos alguna crisis con nuestras niñas y nuestros niños."
+        },
+        "text_2": {
+          "eng": "😔😣 Cuando nuestras niñas y nuestros niños nos comparten algo que es muy difícil de conversar o les genera mucha molestia, debemos recordar que tenemos que mantener la calma, escuchar y mantener una postura abierta para que se sientan apoyadas y apoyados. 💛"
+        },
+        "quiz_1_question": {
+          "eng": "¡Hagamos un ejercicio! Cuando mi niña o niño tiene alguna preocupación, debo esperar a que venga a mí. No quiero presionarle más al preguntarle qué es lo que le preocupa."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n😣 Cuando las niñas y los niños están en crisis, pueden tener miedo de contárselo a las demás personas por muchas razones. Puede preocuparles que las demás personas les juzguen o se enojen. También puede que sientan vergüenza.\n\n💚 Puedes preguntarle a tu niña o niño, con mucha calma, por qué parecen estar molestas o molestos. 👀\n\n👂 *_Afírmale que estás ahí para ayudar y que es seguro compartir su crisis contigo._*"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "✨ ¡Estás en lo correcto!\n\n😣 Cuando las niñas y los niños están en crisis, pueden tener miedo de contárselo a las demás personas por muchas razones. Puede preocuparles que las demás personas les juzguen o se enojen. También puede que sientan vergüenza.\n\n💚 Puedes preguntarle a tu niña o niño, con mucha calma, por qué parecen estar molestas o molestos. 👀\n\n👂 *_Afírmale que estás ahí para ayudar y que es seguro compartir su crisis contigo._*"
+        }
+      },
+      "text_2": "😔😣 Cuando nuestras niñas y nuestros niños nos comparten algo que es muy difícil de conversar o les genera mucha molestia, debemos recordar que tenemos que mantener la calma, escuchar y mantener una postura abierta para que se sientan apoyadas y apoyados. 💛",
+      "quiz_1_question": "¡Hagamos un ejercicio! Cuando mi niña o niño tiene alguna preocupación, debo esperar a que venga a mí. No quiero presionarle más al preguntarle qué es lo que le preocupa.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n😣 Cuando las niñas y los niños están en crisis, pueden tener miedo de contárselo a las demás personas por muchas razones. Puede preocuparles que las demás personas les juzguen o se enojen. También puede que sientan vergüenza.\n\n💚 Puedes preguntarle a tu niña o niño, con mucha calma, por qué parecen estar molestas o molestos. 👀\n\n👂 *_Afírmale que estás ahí para ayudar y que es seguro compartir su crisis contigo._*",
+      "quiz_1_option_2_text": "Falso",
+      "quiz_1_feedback_2": "✨ ¡Estás en lo correcto!\n\n😣 Cuando las niñas y los niños están en crisis, pueden tener miedo de contárselo a las demás personas por muchas razones. Puede preocuparles que las demás personas les juzguen o se enojen. También puede que sientan vergüenza.\n\n💚 Puedes preguntarle a tu niña o niño, con mucha calma, por qué parecen estar molestas o molestos. 👀\n\n👂 *_Afírmale que estás ahí para ayudar y que es seguro compartir su crisis contigo._*"
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1GeCo7zQFHB0D8mbggnSCnL9HwzbGYiYU/view?usp=drive_link",
+      "character_1_id": "F3_MADRE",
+      "nested": false,
+      "text_1_facilitator": "{F3_HIJA_7} está en problemas. Veamos cómo responde su mamá, {F3_MADRE}:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "{F3_HIJA_7} está en problemas. Veamos cómo responde su mamá, {F3_MADRE}:"
+        },
+        "character_1_text": {
+          "eng": "Te ves muy molesta, mi vida. ¿Quieres contarme qué pasó?"
+        }
+      },
+      "character_1_text": "Te ves muy molesta, mi vida. ¿Quieres contarme qué pasó?"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1h9aO-KT_J67atUZGwlte26Oi_GmoCbiX/view?usp=drive_link",
+      "character_1_id": "F3_HIJA_7",
+      "character_2_id": "F3_MADRE",
+      "nested": false,
+      "character_1_text": "Es mi tío, él… él… él me tocó.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Es mi tío, él… él… él me tocó."
+        },
+        "character_2_text": {
+          "eng": "(pensando): Respira profundo... ¿Qué es lo que mi niña necesita? Necesita que esté tranquila y que la escuche. Le voy a decir que se siente conmigo y se tome su tiempo. Yo la escucharé."
+        }
+      },
+      "character_2_text": "(pensando): Respira profundo... ¿Qué es lo que mi niña necesita? Necesita que esté tranquila y que la escuche. Le voy a decir que se siente conmigo y se tome su tiempo. Yo la escucharé."
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1-nFo4b2qhwM797d7fShrdYtAyvhQEHtm/view?usp=drive_link",
+      "character_1_id": "F3_HIJA_7",
+      "character_2_id": "F3_MADRE",
+      "nested": false,
+      "character_1_text": "Es verdad, él… él… me hizo sentir muy incómoda… ¡tocó mi cuerpo y me dijo que me metería en problemas si se lo contaba a alguien! Yo no quería hacer nada con él, hasta le dije que NO, pero me dijo que me metería en problemas.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Es verdad, él… él… me hizo sentir muy incómoda… ¡tocó mi cuerpo y me dijo que me metería en problemas si se lo contaba a alguien! Yo no quería hacer nada con él, hasta le dije que NO, pero me dijo que me metería en problemas."
+        },
+        "character_2_text": {
+          "eng": "Mi vida, eres muy valiente por compartir esto conmigo. Veo que tienes miedo. Es entendible que te sientas así. No estás en problemas. Nada de esto es tu culpa y gracias por contármelo."
+        }
+      },
+      "character_2_text": "Mi vida, eres muy valiente por compartir esto conmigo. Veo que tienes miedo. Es entendible que te sientas así. No estás en problemas. Nada de esto es tu culpa y gracias por contármelo."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1hVtLsbPGzlOFXJuEe6BUaaM-LIFmW8lh/view?usp=drive_link",
+      "character_1_id": "F3_HIJA_7",
+      "character_2_id": "F3_MADRE",
+      "nested": false,
+      "character_1_text": "Ayer, cuando te fuiste a ver a tu amiga, él vino aquí y fue cuando eso pasó.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Ayer, cuando te fuiste a ver a tu amiga, él vino aquí y fue cuando eso pasó."
+        },
+        "character_2_text": {
+          "eng": "Entiendo y te creo, {F3_HIJA_7}. Hiciste bien en decírmelo. Lo que pasó no está bien y yo estoy aquí para ayudarte y apoyarte. Vamos a tener que conversar con alguien que va a ayudar a mantenerte a salvo. ¿Te parece bien, {F3_HIJA_7}? Estaré contigo en todo momento."
+        }
+      },
+      "character_2_text": "Entiendo y te creo, {F3_HIJA_7}. Hiciste bien en decírmelo. Lo que pasó no está bien y yo estoy aquí para ayudarte y apoyarte. Vamos a tener que conversar con alguien que va a ayudar a mantenerte a salvo. ¿Te parece bien, {F3_HIJA_7}? Estaré contigo en todo momento."
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1NQaxx27NCNZRSw9wwllqTW1eWMfAaiCm/view?usp=drive_link",
+      "character_1_id": "F3_HIJA_7",
+      "nested": false,
+      "character_1_text": "Sí… Está bien… ¿A dónde iremos?",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Sí… Está bien… ¿A dónde iremos?"
+        }
+      }
+    },
+    {
+      "id": "explore_6",
+      "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1iMwqwQ5qEbH_Bt9hAA7gj-CW4Kru0vqN/view?usp=drive_link",
+      "character_1_id": "F3_MADRE",
+      "nested": false,
+      "character_1_text": "Vamos a ir a la clínica. Y, {F3_HIJA_7}, recuerda que esto no es tu culpa. Te amo y vamos a salir adelante.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Vamos a ir a la clínica. Y, {F3_HIJA_7}, recuerda que esto no es tu culpa. Te amo y vamos a salir adelante."
+        }
+      }
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link",
+      "nested": false,
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender las 4️⃣ estrategias que puedes hacer para apoyar a tu niña o niño cuando comparta algo difícil contigo.\n\n1️⃣ **RESPIRAR**\n2️⃣ **ESCUCHAR**\n3️⃣ **RESPONDER**\n4️⃣ **CONSOLAR**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en Reproducir ▶️ para aprender las 4️⃣ estrategias que puedes hacer para apoyar a tu niña o niño cuando comparta algo difícil contigo.\n\n1️⃣ **RESPIRAR**\n2️⃣ **ESCUCHAR**\n3️⃣ **RESPONDER**\n4️⃣ **CONSOLAR**"
+        }
+      }
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nBusca un momento de tranquilidad para revisar el mapa de la comunidad que creaste con tu niña o niño en la actividad pasada. Platiquen sobre los posibles riesgos y de lo que podrían hacer para evitarlos. Comenta con {tu niño} lo que pueden hacer en caso de que se encuentren en una situación de riesgo. 💡",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\nBusca un momento de tranquilidad para revisar el mapa de la comunidad que creaste con tu niña o niño en la actividad pasada. Platiquen sobre los posibles riesgos y de lo que podrían hacer para evitarlos. Comenta con {tu niño} lo que pueden hacer en caso de que se encuentren en una situación de riesgo. 💡"
+        },
+        "quiz_1_question": {
+          "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "💙 ¡Increíble! Esto ayudará a que tú y {tu niño} se preparen para afrontar situaciones difíciles y evitarlas desde un principio."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "⏰ ¡Está bien! Planea apartar una hora en los próximos días para tener esta plática con {tu niño}. Esto ayudará a que tú y {tu niño} estén preparados para afrontar situaciones difíciles y a evitarlas desde un principio."
+        }
+      },
+      "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "💙 ¡Increíble! Esto ayudará a que tú y {tu niño} se preparen para afrontar situaciones difíciles y evitarlas desde un principio.",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "⏰ ¡Está bien! Planea apartar una hora en los próximos días para tener esta plática con {tu niño}. Esto ayudará a que tú y {tu niño} estén preparados para afrontar situaciones difíciles y a evitarlas desde un principio."
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA modules - safe (16 - 30).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1M8u_5MgV3LHies5Zuvj_LtaYt9KqTRb4YJuwfyxMcs8"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

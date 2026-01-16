@@ -101,7 +101,7 @@
       "quiz_3_feedback_2": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/16BWs-oT-QbudSF5Aed0h-Lm9Plbhi6qT/view?usp=drive_link",
       "nested": false,
@@ -121,7 +121,7 @@
       "text_2": "{F1_PADRE} y su hija {F1_HIJA_16} salieron a caminar para pasar un tiempo juntos y conectados. {F1_HIJA_16} parece estar molesta por algo."
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/1a0lZ3ZSJSUrbr8OC2Jf3xiV3xTmpDFwG/view?usp=drive_link",
       "character_1_id": "F1_PADRE",
@@ -143,7 +143,7 @@
       "character_2_text": "Ay, Papá. Lo que pasa es que fracasé el examen de matemáticas y me pone triste y me frustra porque estudié mucho."
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/11x0saQYHYCNWZXNz_W44vygYmfqf35SD/view?usp=drive_link",
       "character_1_id": "F1_PADRE",
@@ -170,7 +170,7 @@
       "character_2_text": "Gracias, papá. ¡Yo puedo hacerlo! Creo que podría ser una buena idea."
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/1th_s-9w_KRaN3fwb0yVlQgXgCJSNDrAf/view?usp=drive_link",
       "character_1_id": "F1_PADRE",
@@ -186,8 +186,8 @@
       }
     },
     {
-      "id": "explore_1",
-      "category_id": "explore",
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
       "media_type": "video",
       "youtube_gb_en": "youtube link",
       "nested": false,
@@ -202,7 +202,7 @@
       }
     },
     {
-      "id": "practical_tips_1",
+      "id": "practical_tips_2",
       "category_id": "practical_tips",
       "section_1_icon_asset": "https://drive.google.com/file/d/1yuMaNGzZNRXTUkoIoYGxcyps__hKv0KX/view?usp=drive_link",
       "section_2_icon_asset": "https://drive.google.com/file/d/1JYdcbkVuoMB64KZFOtWUd01yErpe19ac/view?usp=drive_link",
@@ -323,7 +323,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules.xlsx",
+    "path": "data/PA modules - i (1-15).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
   },
   "_metadata": {

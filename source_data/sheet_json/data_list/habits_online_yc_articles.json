@@ -1,0 +1,47 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "habits_online_yc_articles",
+  "data_list_name": "habits_online_yc_articles",
+  "status": "released",
+  "flow_subtype": "modules_habits_online_yc",
+  "module": "habits_online_yc",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Esta lección es una continuación a nuestro aprendizaje sobre cómo mantener la seguridad de nuestras niñas y nuestros niños al navegar por internet y usar nuestros dispositivos electrónicos📱\n\nLa lección anterior te enseñó estrategias para proteger a {tu niño} al navegar en internet con 1️⃣ APRENDER y 2️⃣ PROTEGER. 🔑\n\nAquí aprenderemos a 3️⃣ CONSTRUIR HÁBITOS SEGUROS y 4️⃣ CONSTRUIR CONFIANZA. ✨",
+      "text_2::eng": "💡 A menudo, las niñas y los niños entienden más de la vida en Internet que nosotras y nosotros, pero eso no significa que sepan cómo mantener su seguridad, ya que son muy jóvenes y necesitan orientación.\n",
+      "quiz_1_question::eng": "⭐Ejercicio 1. Pongamos a prueba tus conocimientos sobre la seguridad al navegar por el internet. Si le mando una foto a alguien, solo será visible para ella o él.",
+      "quiz_1_option_1_text::eng": "Verdadero",
+      "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n📱 Incluso en una aplicación  donde las imágenes son temporales,  la otra persona puede tomar captura de tu pantalla,  guardar tu imagen y compartirla. También podría tomar otro celular y tomarle foto o vídeo.\n🚩 Las fotos siempre se almacenan en internet y los hackers pueden acceder a ellas.  \n❗ Recuerda, ¡lo que se sube al internet se queda en el internet y puede ser utilizado para fines inapropiados!",
+      "quiz_1_option_2_text::eng": "Falso",
+      "quiz_1_feedback_2::eng": "🎉 Estás en lo correcto.\n\n📱 Incluso en una aplicación  donde las imágenes son temporales,  la otra persona puede tomar captura de tu pantalla,  guardar tu imagen y compartirla. También podría tomar otro celular y tomarle foto o vídeo.\n🚩 Las fotos siempre se almacenan en internet y los hackers pueden acceder a ellas.  \n❗ Recuerda, ¡lo que se sube al internet se queda en el internet y puede ser utilizado para fines inapropiados!",
+      "quiz_2_question::eng": "Ejercicio 2. Mi contraseña es segura porque tendrías que saber la dirección de mi casa para adivinarla.",
+      "quiz_2_option_1_text::eng": "Verdadero",
+      "quiz_2_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n❗ La cuenta de correo electrónico o de teléfono de tus familiares podrían ser pirateadas o hackeadas.  \n\n👀 Siempre revisa dos veces un enlace antes de hacer clic en él para asegurarte de que estás visitando un sitio web de confianza.  \n\n🔑 Si no reconoces la dirección web, no hagas clic en ella.",
+      "quiz_2_option_2_text::eng": "Falso",
+      "quiz_2_feedback_2::eng": "✨ Estás en lo correcto.\n\n❗ La cuenta de correo electrónico o de teléfono de tus familiares podrían ser pirateadas o hackeadas.  \n\n👀 Siempre revisa dos veces un enlace antes de hacer clic en él para asegurarte de que estás visitando un sitio web de confianza.  \n\n🔑 Si no reconoces la dirección web, no hagas clic en ella. "
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "Procurar la seguridad de {tu niño} al navegar por internet es un paso importante para ayudarle a formar parte del mundo digital. 📱\n\nEn la lección anterior conociste las estrategias 1️⃣ APRENDER y 2️⃣ PROTEGER a tu niña o niño en internet.\n\nDa Clic en Reproducir ▶️  para ver un 2º video y aprender a: \n3️⃣ CONSTRUIR HÁBITOS SEGUROS\n4️⃣ CONSTRUIR CONFIANZA.",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nEstos son algunos pasos que puedes dar hoy mismo para mantener la seguridad de {tu niño} al pasar tiempo por internet:\n\n📝 Conversa con {tu niño} sobre cómo usar el internet y los dispositivos electrónicos de manera segura.\n\n🔴 Hablen sobre qué sitios o aplicaciones utiliza con mayor o menor frecuencia.  \n\n😃 ¡Elogia a tu niña o niño por lo bien que navega por la web de manera segura! ",
+      "quiz_1_question::eng": "¿Puedes hacer esta actividad con {tu niño} hoy? 🔔",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "¡Estupendo! Ayudarle a {tu niño} a mantener su seguridad al pasar tiempo por internet es importante para que pueda aprender y pueda mantener un contacto seguro con los demás. ¡Qué bueno que te estás involucrando, así tus niñas y niños estarán más seguros! 🔑",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "Está bien. Aparta un poco de tiempo esta semana para hacer esta actividad con tu niña o niño. ⏰ Es importante conversar con nuestras niñas y niños sobre cómo mantener su seguridad al navegar por Internet para que puedan conectarse con los demás y aprender más del mundo digital. ¡Tú puedes hacerlo! ⭐"
+    }
+  ]
+}

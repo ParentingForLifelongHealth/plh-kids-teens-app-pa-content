@@ -32,33 +32,37 @@
       "quiz_3_feedback_2::eng": "👀¡Ups! ¡Buen intento!\n\n🌱 Compartir nuestras emociones, con amabilidad y calma, les da a las niñas, niños o adolescentes un ejemplo de cómo pueden hacerlo. Como cuidadores es válido sentirse estresados y compartirlo sanamente puede ayudarles a entendernos."
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "category_id": "explore",
       "text_1_facilitator::eng": "Veamos cómo {F3_MADRE} ayuda a su niña a persistir en una actividad difícil durante el tiempo juntos y conectados.",
+      "image_asset": "https://drive.google.com/file/d/1xG2cQWm1nZ10zqhEORePjv5wfMbjeq-A/view?usp=drive_link",
       "character_1_id": "{F3_MADRE}",
       "character_1_text::eng": "{F3_HIJA_7}, Quiero pasar tiempo contigo. ¿Qué quieres hacer?",
       "character_2_id": "{F3_HIJA_7}",
       "character_2_text::eng": "{F3_HIJA_7}: ¡Vamos a jugar afuera con la pelota!"
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/180zLdOyh1VFlOXoy8P5BRNn55XBWlaCo/view?usp=drive_link",
       "character_1_id": "{F3_HIJA_7}",
       "character_1_text::eng": "¡No soy buena con la pelota!.",
       "character_2_id": "{F3_MADRE}",
       "character_2_text::eng": "Veo que tienes tus manos apretadas y estás levantando la voz. Parece que estás molesta, {F3_HIJA_7}. Sé que puede ser algo frustrante, tomemos una pausa y  cuándo estés lista para continuar avísame."
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1SEhvAmT7yWI0Z5R2fJhSgJF7UNNS3Osv/view?usp=drive_link",
       "character_1_id": "{F3_MADRE}",
       "character_1_text::eng": "¡Ya van cinco veces que la atrapas, {F3_HIJA_7}! ¡Debes de estar orgullosa de haber llegado a cinco!",
       "character_2_id": "{F3_HIJA_7}",
       "character_2_text::eng": "¡Vamos por 10!"
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/17eEDp6x1XL7LzcsVmIrsReyOxiajVEpu/view?usp=drive_link",
       "character_1_id": "{F3_MADRE}",
       "character_1_text::eng": "Me hace muy feliz poder pasar este tiempo especial contigo, {F3_HIJA_7}."
     },

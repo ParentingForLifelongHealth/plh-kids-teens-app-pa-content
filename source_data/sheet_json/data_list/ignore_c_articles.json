@@ -1,0 +1,91 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "ignore_c_articles",
+  "data_list_name": "ignore_c_articles",
+  "status": "released",
+  "flow_subtype": "modules_ignore_c",
+  "module": "ignore_c",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Esta lección  trata sobre qué hacer cuando las niñas y los niños buscan atención con comportamientos exagerados . 🚩",
+      "text_2::eng": "*_Las niñas y los niños necesitan atención positiva desde muy temprana edad._* 💛\n\nEs una forma estupenda de ayudarles a sentirse bien consigo mismos. ¡Hace más probable que hagan lo que se les pide! 🔄",
+      "quiz_1_question::eng": "¡Hagamos un ejercicio!\n\nEjercicio 1. \n\nDebes darle a {tu niño} lo que quiera cuando se queje por algo o haga algún berrinche.",
+      "quiz_1_option_1_text::eng": "Verdadero",
+      "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\nCeder ante las exigencias, quejas o berrinches de {tu niño}, solo empeorará la situación.\n\n{tu niño} aprenderá que se puede salir con la suya cuando se comporta de esa manera.\n\nEn lugar de eso, *_intenta averiguar qué es lo que {tu niño} necesita y dale todo el apoyo emocional positivo necesario, sin ceder a sus demandas si no son razonables._* Si tú mantienes la calma, {tu niño} también la mantendrá.",
+      "quiz_1_option_2_text::eng": "Falso",
+      "quiz_1_feedback_2::eng": "⭐ ¡Estás en lo correcto!\n\nCeder ante las exigencias, quejas o berrinches de {tu niño}, solo empeorará la situación.\n\n{tu niño} aprenderá que se puede salir con la suya cuando se comporta de esa manera.\n\nEn lugar de eso, *_intenta averiguar qué es lo que {tu niño} necesita y dale todo el apoyo emocional positivo necesario, sin ceder a sus demandas si no son razonables._* Si tú mantienes la calma, {tu niño} también la mantendrá.",
+      "quiz_2_question::eng": "¡Hagamos un ejercicio más!\n\nEjercicio 2: Debes ignorar a tu niña o niño para que deje de quejarse y amenazarle con pegarle si sigue así.",
+      "quiz_2_option_1_text::eng": "Verdadero",
+      "quiz_2_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\nDecirle a tu niña o niño que pare o amenazarle puede empeorar aún más las cosas. Los golpes solo le enseñarán a tu niña o niño que la violencia es una solución aceptable para los problemas. Además, es algo que va en contra de la ley.\n\nEn lugar de pelearte con {tu niño}, explícale tranquilamente el por qué y luego intenta redirigir a {tu niño} hacia otra cosa.\n\nSi {tu niño} continúa el comportamiento o pierde el control, mantén la calma y quédate con tu niña o niño sin discutir con ella o él. Puede que sea muy difícil, pero al final tu niña o niño se calmará también. En ese momento, ya podrás atender a sus necesidades.\n\n*_Es importante tener en cuenta que los berrinches pueden ser una conducta normal en niños y niñas ya que se encuentran en una edad donde apenas están aprendiendo a regular sus emociones adecuadamente._*",
+      "quiz_2_option_2_text::eng": "Falso",
+      "quiz_2_feedback_2::eng": "⭐ ¡Estás en lo correcto!\n\nDecirle a tu niña o niño que pare o amenazarle puede empeorar aún más las cosas. Los golpes solo le enseñarán a tu niña o niño que la violencia es una solución aceptable para los problemas. Además, es algo que va en contra de la ley.\n\nEn lugar de pelearte con {tu niño}, explícale tranquilamente el por qué y luego intenta redirigir a {tu niño} hacia otra cosa.\n\nSi {tu niño} continúa el comportamiento o pierde el control, mantén la calma y quédate con tu niña o niño sin discutir con ella o él. Puede que sea muy difícil, pero al final tu niña o niño se calmará también. En ese momento, ya podrás atender a sus necesidades.\n\n*_Es importante tener en cuenta que los berrinches pueden ser una conducta normal en niños y niñas ya que se encuentran en una edad donde apenas están aprendiendo a regular sus emociones adecuadamente._*"
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "La hora de la cena no está saliendo como {F3_HIJO_4} quiere. Veamos cómo su madre, {F3_MADRE}, maneja su comportamiento:",
+      "image_asset": "images/5._Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/ignore_demanding_yc_1",
+      "character_1_id": "F3_HIJO_4",
+      "character_1_text::eng": "Quiero otro jugo.",
+      "character_2_id": "F3_MADRE",
+      "character_2_text::eng": "Entiendo, está delicioso, y la regla de la casa es que solo puedes tomar un vaso de jugo durante la cena. Oh... pero mira {F3_HIJO_4}, ¿y si nos traes las cucharas para el arroz con leche?"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/5._Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/ignore_demanding_yc_2",
+      "character_1_id": "F3_HIJO_4",
+      "character_1_text::eng": "¡Pero yo QUIERO! ¡Dame!",
+      "character_2_id": "F3_MADRE",
+      "character_2_text::eng": "Veo tu frustración {F3_HIJO_4}. Vamos a respirar como si sopláramos las velas de un pastel.\n\n{F3_HIJA_7}, estás cenando muy bien."
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/5._Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/ignore_demanding_yc_3",
+      "character_1_id": "F3_HIJO_4",
+      "character_1_text::eng": "¡Buaaaaaa! ¡Buaaaaaa! ¡BUAAAAAA!",
+      "character_2_id": "F3_MADRE",
+      "character_2_text::eng": "{F3_HIJA_7}, ¿puedes agarrar el pudín de la barra de la cocina?"
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/5._Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/ignore_demanding_yc_4",
+      "character_1_id": "F3_HIJO_4",
+      "character_1_text::eng": "¡Buaaaaaa! ¡Buaaaaaa! ¡BUAAAAAA!",
+      "character_2_id": "F3_MADRE",
+      "character_2_text::eng": "(Pensando) Respira hondo. Puedo hacerlo…"
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "image_asset": "images/5._Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/ignore_demanding_yc_5",
+      "character_1_id": "F3_MADRE",
+      "character_1_text::eng": "Me da gusto verte sentado tranquilamente, {F3_HIJO_4}. Toma, cómete este delicioso arroz con leche."
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "▶️ Da Clic en Reproducir para aprender los 5️⃣ cinco pasos que debes de seguir cuando tu niña o niño se queje o haga un berrinche:\n\n1️⃣ **REDIRIGIR**\n2️⃣ **MANTENER LA CALMA**\n3️⃣ **OBSERVAR**\n4️⃣ **CUIDAR**\n5️⃣ **SER CONSTANTES**",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_¡Actividad para casa!_* ⭐ \n\nBusca una cosa positiva que {tu niño} haga el día de hoy y elógiale por ello. Si {tu niño} se empieza a quejar por algo o a hacer berrinche, intenta usar las estrategias de esta lección para redirigir, mantener la calma, observar y cuidar. Puede que al principio no sea facil, ¡pero síguele, tú puedes hacerlo!",
+      "quiz_1_question::eng": "¿Puedes encontrar algo por lo que puedas elogiar a {tu niño} hoy? ⏰",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "¡Genial! 💙 elogiar a nuestras niñas y niños significa que es más probable que repitan este comportamiento positivo. Mantener la calma cuando tu niña o niño está haciendo berrinche puede ser difícil, pero si tienes paciencia y le das tiempo, realmente funciona.",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "¡Está bien! 💙 Mantener la calma cuando tu niña o niño está haciendo berrinche puede ser difícil. ¡elogiar a nuestras niñas y niños por su comportamiento positivo hace más probable que lo repitan! Siempre puedes volver a revisar lo que aprendiste hoy en el Menu Princial para construir y fortalecer tu confianza. ¡Tú puedes!"
+    }
+  ]
+}

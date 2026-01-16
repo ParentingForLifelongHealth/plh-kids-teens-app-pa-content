@@ -23,33 +23,37 @@
       "quiz_1_feedback_2::eng": "🎉 ¡Tienes razón!\n\n✨ La forma en que elogies es importante. El reconocimiento funciona si es inmediato y específico.  \n\n🌱 Puedes empezar reconociendo y elogiando cosas pequeñas, como que recoja sus juguetes luego de terminar de jugar. "
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "category_id": "explore",
       "text_1_facilitator::eng": "Vamos con {F3_MADRE} y su hijo {F3_HIJO_4} para ver cómo reconoce lo que hace durante su tiempo juntos y conectados."
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1AXVhTNk_LDyzjkrixUgqwChuEA7GCOkV/view?usp=drive_link",
       "character_1_id": "F3_MADRE",
       "character_1_text::eng": "{F3_MADRE}: Encontraste un calcetín de rayas y otro de puntos. Vamos a buscar los calcetines que combinen con cada uno."
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/18NaSEtubcCUIgne1SC0zjakbghSUWZTf/view?usp=drive_link",
       "character_1_id": "F3_MADRE",
       "character_1_text::eng": "{F3_MADRE}: ¡Otro calcetín! Este es blanco. No es fácil encontrar un par que combine. Puede ser frustrante."
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/12eB8MNfXGnRnINJPiK90XflKuGmHOAXn/view?usp=drive_link",
       "character_1_id": "F3_MADRE",
       "character_1_text::eng": "{F3_MADRE}: Estás siendo muy paciente y buscando con mucha atención",
       "character_2_id": "{F3_HIJO_4}",
       "character_2_text::eng": "{F3_HIJO_4}. ¡Muy bien!"
     },
     {
-      "id": "comic_5",
+      "id": "explore_5",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/17y8jjZA4Y8WBE7-HUwB0Z7W3HzNXr1VF/view?usp=drive_link",
       "character_1_id": "F3_MADRE",
       "character_1_text::eng": "{F3_MADRE}: ¡Encontraste los calcetines que combinan con su par! ¡Hiciste un gran esfuerzo intentando {F3_HIJO_4}!"
     },

@@ -10,7 +10,7 @@
       "media_asset": "audio/relax/relax_1.mp3",
       "media_type": "audio",
       "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transript": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "title": "Quick pause",
       "_translations": {
         "title": {}
@@ -28,28 +28,28 @@
       "id": "check_in_1",
       "_translatedFields": {
         "text_1": {
-          "eng": "Take a moment to check in with yourself."
+          "eng": "Toma un momento para conectar contigo."
         },
         "quiz_1_feedback_1": {
-          "eng": "Wonderful, I am so happy things are going well."
+          "eng": "¡Maravilloso! Me da mucho gusto saber que las cosas van bien."
         },
         "quiz_1_feedback_2": {
-          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+          "eng": "Habrá días retadores, y está bien. Vas por buen camino."
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+          "eng": "Lamento que las cosas estén siendo difíciles ahora. Es completamente normal tener momentos complicados. Recuerda que no estás sola/o."
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "¿Cómo te sientes el día de hoy?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Feliz"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Bien"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Triste"
         }
       },
       "category_id": "check_in",
@@ -57,7 +57,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Take a moment to check in with yourself.",
+      "text_1": "Toma un momento para conectar contigo.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -68,13 +68,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
-      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
-      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "¡Maravilloso! Me da mucho gusto saber que las cosas van bien.",
+      "quiz_1_feedback_2": "Habrá días retadores, y está bien. Vas por buen camino.",
+      "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles ahora. Es completamente normal tener momentos complicados. Recuerda que no estás sola/o.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
       "completed": false
     },
     {
@@ -124,7 +124,7 @@
       "completed": false
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:"
@@ -145,6 +145,7 @@
         "character_1_text": {},
         "character_2_text": {}
       },
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_1",
       "character_1_id": "F1_MADRE",
       "character_2_id": "F1_HIJO_5",
       "character_1_text": "Quiero pasar tiempo juntos y conectados,{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
@@ -152,7 +153,7 @@
       "completed": false
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "_translatedFields": {
         "character_1_text": {
           "eng": "¡Me encanta la idea, {F1_HIJO_5}! Veo que estás sacando la bolsa con triángulos."
@@ -161,16 +162,16 @@
       "category_id": "explore",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_2",
       "character_1_id": "F1_MADRE",
       "character_1_text": "¡Me encanta la idea, {F1_HIJO_5}! Veo que estás sacando la bolsa con triángulos.",
       "_translations": {
         "character_1_text": {}
       },
-      "image_asset": "/image/comic/",
       "completed": false
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Mamá, es para ti."
@@ -185,6 +186,7 @@
       "category_id": "explore",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_3",
       "character_1_id": "F1_HIJO_5",
       "character_2_id": "F1_MADRE",
       "character_1_text": "Mamá, es para ti.",
@@ -194,13 +196,12 @@
         "character_3_text": {}
       },
       "character_2_text": "Gracias, ¡me encanta!",
-      "image_asset": "/image/comic/",
       "character_3_id": "F1_HIJO_5",
       "character_3_text": "¡Póntela, mamá!",
       "completed": false
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "_translatedFields": {
         "character_1_text": {
           "eng": "¡Veo que cada vez te esfuerzas más por vestirte sin ayuda!"
@@ -209,12 +210,12 @@
       "category_id": "explore",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_4",
       "character_1_id": "F1_MADRE",
       "character_1_text": "¡Veo que cada vez te esfuerzas más por vestirte sin ayuda!",
       "_translations": {
         "character_1_text": {}
       },
-      "image_asset": "/image/comic/",
       "completed": false
     },
     {

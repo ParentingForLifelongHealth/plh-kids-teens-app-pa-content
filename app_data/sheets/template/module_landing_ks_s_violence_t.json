@@ -11,11 +11,15 @@
   },
   "comment": "ks_s_violence_t",
   "comment_2": 30,
+  "comment_3": 15,
   "rows": [
     {
-      "type": "template",
+      "module_landing_ks_s_violence_t": "begin_template",
       "name": "module_landing",
       "value": "module_landing",
+      "_translations": {
+        "value": {}
+      },
       "action_list": [
         {
           "trigger": "completed",
@@ -34,222 +38,29 @@
           "_raw": "uncompleted | emit: uncompleted"
         }
       ],
-      "rows": [
-        {
-          "name": "module_id",
-          "value": "ks_s_violence_t",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "module_landing.module_id"
-        }
-      ],
+      "type": "set_variable",
       "_nested_name": "module_landing"
     },
     {
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "module_landing_i_one_on_one_c",
-          "args": [],
-          "_raw": "module_landing_i_one_on_one_c"
-        }
-      ],
-      "parameter_list": {
-        "draft": "true"
+      "name": "module_id",
+      "value": "ks_s_violence_t",
+      "_translations": {
+        "value": {}
       },
-      "condition": "app_config.LAYOUT.page_padding: 0 0;",
-      "exclude_from_translation": "i_one_on_one_c",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "module_id"
+    },
+    {
+      "module_landing_ks_s_violence_t": "end_template",
       "type": "set_variable",
       "name": "set_variable_4",
       "_nested_name": "set_variable_4"
-    },
-    {
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "module_landing_i_give_praise_c",
-          "args": [],
-          "_raw": "module_landing_i_give_praise_c"
-        }
-      ],
-      "parameter_list": {
-        "draft": "true"
-      },
-      "condition": "app_config.LAYOUT.page_padding: 0 0;",
-      "exclude_from_translation": "i_give_praise_c",
-      "type": "set_variable",
-      "name": "set_variable_5",
-      "_nested_name": "set_variable_5"
-    },
-    {
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "module_landing_i_routines_c",
-          "args": [],
-          "_raw": "module_landing_i_routines_c"
-        }
-      ],
-      "parameter_list": {
-        "draft": "true"
-      },
-      "condition": "app_config.LAYOUT.page_padding: 0 0;",
-      "exclude_from_translation": "i_routines_c",
-      "type": "set_variable",
-      "name": "set_variable_6",
-      "_nested_name": "set_variable_6"
-    },
-    {
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "module_landing_i_feelings_c",
-          "args": [],
-          "_raw": "module_landing_i_feelings_c"
-        }
-      ],
-      "parameter_list": {
-        "draft": "true"
-      },
-      "condition": "app_config.LAYOUT.page_padding: 0 0;",
-      "exclude_from_translation": "i_feelings_c",
-      "type": "set_variable",
-      "name": "set_variable_7",
-      "_nested_name": "set_variable_7"
-    },
-    {
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "module_landing_i_calm_c",
-          "args": [],
-          "_raw": "module_landing_i_calm_c"
-        }
-      ],
-      "parameter_list": {
-        "draft": "true"
-      },
-      "condition": "app_config.LAYOUT.page_padding: 0 0;",
-      "exclude_from_translation": "i_calm_c",
-      "type": "set_variable",
-      "name": "set_variable_8",
-      "_nested_name": "set_variable_8"
-    },
-    {
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "module_landing_i_one_on_one_t",
-          "args": [],
-          "_raw": "module_landing_i_one_on_one_t"
-        }
-      ],
-      "parameter_list": {
-        "draft": "true"
-      },
-      "condition": "app_config.LAYOUT.page_padding: 0 0;",
-      "exclude_from_translation": "i_one_on_one_t",
-      "type": "set_variable",
-      "name": "set_variable_9",
-      "_nested_name": "set_variable_9"
-    },
-    {
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "module_landing_i_give_praise_t",
-          "args": [],
-          "_raw": "module_landing_i_give_praise_t"
-        }
-      ],
-      "parameter_list": {
-        "draft": "true"
-      },
-      "condition": "app_config.LAYOUT.page_padding: 0 0;",
-      "exclude_from_translation": "i_give_praise_t",
-      "type": "set_variable",
-      "name": "set_variable_10",
-      "_nested_name": "set_variable_10"
-    },
-    {
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "module_landing_i_routines_t",
-          "args": [],
-          "_raw": "module_landing_i_routines_t"
-        }
-      ],
-      "parameter_list": {
-        "draft": "true"
-      },
-      "condition": "app_config.LAYOUT.page_padding: 0 0;",
-      "exclude_from_translation": "i_routines_t",
-      "type": "set_variable",
-      "name": "set_variable_11",
-      "_nested_name": "set_variable_11"
-    },
-    {
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "module_landing_i_feelings_t",
-          "args": [],
-          "_raw": "module_landing_i_feelings_t"
-        }
-      ],
-      "parameter_list": {
-        "draft": "true"
-      },
-      "condition": "app_config.LAYOUT.page_padding: 0 0;",
-      "exclude_from_translation": "i_feelings_t",
-      "type": "set_variable",
-      "name": "set_variable_12",
-      "_nested_name": "set_variable_12"
-    },
-    {
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "module_landing_i_calm_t",
-          "args": [],
-          "_raw": "module_landing_i_calm_t"
-        }
-      ],
-      "parameter_list": {
-        "draft": "true"
-      },
-      "condition": "app_config.LAYOUT.page_padding: 0 0;",
-      "exclude_from_translation": "i_calm_t",
-      "type": "set_variable",
-      "name": "set_variable_13",
-      "_nested_name": "set_variable_13"
-    },
-    {
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "module_landing_ks_c_safey_t",
-          "args": [],
-          "_raw": "module_landing_ks_c_safey_t"
-        }
-      ],
-      "parameter_list": {
-        "draft": "true"
-      },
-      "condition": "app_config.LAYOUT.page_padding: 0 0;",
-      "exclude_from_translation": "ks_c_safey_t",
-      "type": "set_variable",
-      "name": "set_variable_14",
-      "_nested_name": "set_variable_14"
     }
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "templates/PA module_landing templates.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1NNJuOKDwQZKLyOaSdNvfVRrwLMgb8-0zabj6wEHqLZs"
+    "path": "templates/PA module_landing templates (31-45).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/192pmUmGkYGMtMVlCTh5hqn0CdfWY9gIL3UuWzLekeAY"
   }
 }

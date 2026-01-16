@@ -52,8 +52,9 @@
       "quiz_1_feedback_2": "🎉 ¡Tienes razón!\n\n🧸 No tienes que planear una actividad. ¡Tu niña o niño puede guiarte en el camino! Déjale escoger siempre y cuando sea seguro. Esto aumentará su confianza y hará más probable que disfrute pasar tiempo contigo."
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "category_id": "explore",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_1",
       "character_1_id": "F1_MADRE",
       "character_2_id": "F1_HIJO_5",
       "nested": false,
@@ -79,9 +80,9 @@
       "character_2_text": "¡Quiero jugar a disfrazarnos!"
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "/image/comic/",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_2",
       "character_1_id": "F1_MADRE",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
@@ -96,9 +97,9 @@
       }
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "/image/comic/",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_3",
       "character_1_id": "F1_HIJO_5",
       "character_2_id": "F1_MADRE",
       "character_3_id": "F1_HIJO_5",
@@ -125,9 +126,9 @@
       "character_3_text": "¡Póntela, mamá!"
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "/image/comic/",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_4",
       "character_1_id": "F1_MADRE",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
@@ -201,7 +202,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules.xlsx",
+    "path": "data/PA modules - i (1-15).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
   },
   "_metadata": {

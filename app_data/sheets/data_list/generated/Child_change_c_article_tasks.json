@@ -1,0 +1,333 @@
+{
+  "flow_name": "Child_change_c_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_2",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Toma un momento para TI. Cuidarte empieza por notar cómo te sientes."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Genial! Que bien saber que estás en un buen momento."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Las cosas no siempre son fáciles, pero así es como podemos crecer y aprender cada día."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "La vida puede ser dura. Sea lo que sea que estés sintiendo, puedes sentirte orgullosa/o de ti y de estar aquí."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Toma un momento para TI. Cuidarte empieza por notar cómo te sientes.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "¡Genial! Que bien saber que estás en un buen momento.",
+      "quiz_1_feedback_2": "Las cosas no siempre son fáciles, pero así es como podemos crecer y aprender cada día.",
+      "quiz_1_feedback_3": "La vida puede ser dura. Sea lo que sea que estés sintiendo, puedes sentirte orgullosa/o de ti y de estar aquí.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "La lección de hoy trata sobre cómo favorecer el desarrollo saludable de {tu niño} a medida que crece y va cambiando. ✨"
+        },
+        "text_2": {
+          "eng": "🌱 Las niñas y los niños tienen diferentes habilidades en las distintas etapas de su desarrollo.\n\n⚽ Es importante conocer las habilidades de {tu niño} en esta etapa de su desarrollo.\n\n✨ Esto te ayudará a planificar sus actividades para que se ajusten a lo que puede hacer y también te ayuda a tener objetivos realistas para ellas y ellos."
+        },
+        "quiz_1_question": {
+          "eng": "¡Hagamos un ejercicio! Ejercicio 1.\n\nTodas las niñas y los niños se desarrollan a la misma velocidad."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n✨ Cada niña y cada niño son únicos y se desarrollarán a su propio ritmo.\nAlgunas niñas y niños pueden desarrollarse más rápido que otros en ciertas áreas, mientras que a otros les puede tomar más tiempo.\n\n💚 *_Es importante que las madres, los padres y las personas cuidadoras sean pacientes y actuén con comprensión, reconociendo que cada niña y cada niño tiene su propio camino individual de desarrollo._*\n\nRecuerda que cada persona crece a su propio ritmo. Es importante que las niñas y los niños no comparen su crecimiento con el de otras niñas y niños, aunque tengan la misma edad.\n\n🚩 Si tienes alguna preocupación sobre el desarrollo de {tu niño}, debes consultar a un profesional para obtener apoyo y asesoramiento."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 ¡Buen trabajo!\n\n✨ Cada niña y cada niño son únicos y se desarrollarán a su propio ritmo.\nAlgunas niñas y niños pueden desarrollarse más rápido que otros en ciertas áreas, mientras que a otros les puede tomar más tiempo.\n\n💚 *_Es importante que las madres, los padres y las personas cuidadoras sean pacientes y actuén con comprensión, reconociendo que cada niña y cada niño tiene su propio camino individual de desarrollo._*\n\nRecuerda que cada persona crece a su propio ritmo. Es importante que las niñas y los niños no comparen su crecimiento con el de otras niñas y niños, aunque tengan la misma edad.\n\n🚩 Si tienes alguna preocupación sobre el desarrollo de {tu niño}, debes consultar a un profesional para obtener apoyo y asesoramiento."
+        },
+        "quiz_2_question": {
+          "eng": "¡Hagamos otro ejercicio! \n\nEjercicio 2. ¿Cómo puedes responderle a {tu niño} si de repente expresa interés en cambiar su forma de vestir o de peinarse?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "Rechaza todas sus peticiones y di que no es necesario."
+        },
+        "quiz_2_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n💚 Al preguntarle de manera cálida a {tu niño} sobre sus intereses, sentirá seguridad y comodidad para compartir de las influencias que le rodean.\n\n🌷 Puedes darle tus opiniones sobre sus intereses pero hazlo con gentileza."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Con mucho cariño, pregúntale más sobre qué influyó en su interés por el cambio y por qué."
+        },
+        "quiz_2_feedback_2": {
+          "eng": "🎉 ¡Es correcto!\n\n💚 Al preguntarle de manera cálida a {tu niño} sobre sus intereses, sentirá seguridad y comodidad para compartir de las influencias que le rodean.\n\n🌷 Puedes darle tus opiniones sobre sus intereses pero hazlo con gentileza."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "Ignóralos y espera que no hayan querido decir eso."
+        },
+        "quiz_2_feedback_3": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n💚 Al preguntarle de manera cálida a {tu niño} sobre sus intereses, sentirá seguridad y comodidad para compartir de las influencias que le rodean.\n\n🌷 Puedes darle tus opiniones sobre sus intereses pero hazlo con gentileza."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n✨ Cada niña y cada niño son únicos y se desarrollarán a su propio ritmo.\nAlgunas niñas y niños pueden desarrollarse más rápido que otros en ciertas áreas, mientras que a otros les puede tomar más tiempo.\n\n💚 *_Es importante que las madres, los padres y las personas cuidadoras sean pacientes y actuén con comprensión, reconociendo que cada niña y cada niño tiene su propio camino individual de desarrollo._*\n\nRecuerda que cada persona crece a su propio ritmo. Es importante que las niñas y los niños no comparen su crecimiento con el de otras niñas y niños, aunque tengan la misma edad.\n\n🚩 Si tienes alguna preocupación sobre el desarrollo de {tu niño}, debes consultar a un profesional para obtener apoyo y asesoramiento.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {}
+      },
+      "quiz_1_feedback_2": "🎉 ¡Buen trabajo!\n\n✨ Cada niña y cada niño son únicos y se desarrollarán a su propio ritmo.\nAlgunas niñas y niños pueden desarrollarse más rápido que otros en ciertas áreas, mientras que a otros les puede tomar más tiempo.\n\n💚 *_Es importante que las madres, los padres y las personas cuidadoras sean pacientes y actuén con comprensión, reconociendo que cada niña y cada niño tiene su propio camino individual de desarrollo._*\n\nRecuerda que cada persona crece a su propio ritmo. Es importante que las niñas y los niños no comparen su crecimiento con el de otras niñas y niños, aunque tengan la misma edad.\n\n🚩 Si tienes alguna preocupación sobre el desarrollo de {tu niño}, debes consultar a un profesional para obtener apoyo y asesoramiento.",
+      "quiz_1_question": "¡Hagamos un ejercicio! Ejercicio 1.\n\nTodas las niñas y los niños se desarrollan a la misma velocidad.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_option_2_text": "Falso",
+      "text_1_facilitator": "La lección de hoy trata sobre cómo favorecer el desarrollo saludable de {tu niño} a medida que crece y va cambiando. ✨",
+      "text_2": "🌱 Las niñas y los niños tienen diferentes habilidades en las distintas etapas de su desarrollo.\n\n⚽ Es importante conocer las habilidades de {tu niño} en esta etapa de su desarrollo.\n\n✨ Esto te ayudará a planificar sus actividades para que se ajusten a lo que puede hacer y también te ayuda a tener objetivos realistas para ellas y ellos.",
+      "quiz_2_question": "¡Hagamos otro ejercicio! \n\nEjercicio 2. ¿Cómo puedes responderle a {tu niño} si de repente expresa interés en cambiar su forma de vestir o de peinarse?",
+      "quiz_2_option_1_text": "Rechaza todas sus peticiones y di que no es necesario.",
+      "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n💚 Al preguntarle de manera cálida a {tu niño} sobre sus intereses, sentirá seguridad y comodidad para compartir de las influencias que le rodean.\n\n🌷 Puedes darle tus opiniones sobre sus intereses pero hazlo con gentileza.",
+      "quiz_2_option_2_text": "Con mucho cariño, pregúntale más sobre qué influyó en su interés por el cambio y por qué.",
+      "quiz_2_feedback_2": "🎉 ¡Es correcto!\n\n💚 Al preguntarle de manera cálida a {tu niño} sobre sus intereses, sentirá seguridad y comodidad para compartir de las influencias que le rodean.\n\n🌷 Puedes darle tus opiniones sobre sus intereses pero hazlo con gentileza.",
+      "quiz_2_option_3_text": "Ignóralos y espera que no hayan querido decir eso.",
+      "quiz_2_feedback_3": "👀 ¡Ups! ¡Buen intento!\n\n💚 Al preguntarle de manera cálida a {tu niño} sobre sus intereses, sentirá seguridad y comodidad para compartir de las influencias que le rodean.\n\n🌷 Puedes darle tus opiniones sobre sus intereses pero hazlo con gentileza.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Patea la pelota suavemente con la parte de adentro de tu pie... Así."
+        },
+        "character_2_text": {
+          "eng": "¡Yo lo quiero hacer ahora!"
+        },
+        "character_3_text": {
+          "eng": "¡No, yo lo quiero hacer primero!"
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/child_change_yc_1",
+      "character_1_id": "F3_TÍO",
+      "character_2_id": "F3_HIJO_4",
+      "character_3_id": "F3_HIJA_7",
+      "character_1_text": "Patea la pelota suavemente con la parte de adentro de tu pie... Así.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_2_text": "¡Yo lo quiero hacer ahora!",
+      "character_3_text": "¡No, yo lo quiero hacer primero!",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Puede que nos cueste trabajo esperar, pero no todos podemos ir primero. {F3_HIJA_7}, ¿qué tal si nos propones una manera en la que nos podamos patear la pelota por turnos?"
+        },
+        "character_2_text": {
+          "eng": "Está bien. Qué tal si hacemos un círculo y yo le doy la pelota a {F3_HIJO_4}, luego él te la da a ti y, ¡tú me la devuelves a mí!"
+        },
+        "character_3_text": {
+          "eng": "Sí, ¡eso suena bien!"
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/child_change_yc_2",
+      "character_1_id": "F3_TÍO",
+      "character_2_id": "F3_HIJA_7",
+      "character_3_id": "F3_HIJO_4",
+      "character_1_text": "Puede que nos cueste trabajo esperar, pero no todos podemos ir primero. {F3_HIJA_7}, ¿qué tal si nos propones una manera en la que nos podamos patear la pelota por turnos?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_2_text": "Está bien. Qué tal si hacemos un círculo y yo le doy la pelota a {F3_HIJO_4}, luego él te la da a ti y, ¡tú me la devuelves a mí!",
+      "character_3_text": "Sí, ¡eso suena bien!",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Es una idea maravillosa, {F3_HIJA_7}! ¡Vamos a intentarlo!"
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/child_change_yc_3",
+      "character_1_id": "F3_TÍO",
+      "character_1_text": "¡Es una idea maravillosa, {F3_HIJA_7}! ¡Vamos a intentarlo!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Buen trabajo, {F3_HIJA_7}! Tú nos guiaste, ¡y todos nos divertimos mucho tomando turnos! {F3_HIJO_4}, tú estuviste excelente esperando pacientemente tu turno."
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/child_change_yc_4",
+      "character_1_id": "F3_TÍO",
+      "character_1_text": "¡Buen trabajo, {F3_HIJA_7}! Tú nos guiaste, ¡y todos nos divertimos mucho tomando turnos! {F3_HIJO_4}, tú estuviste excelente esperando pacientemente tu turno.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en Reproducir ▶️ para aprender algunos pasos que puedes seguir para favorecer el desarrollo saludable de {tu niño} a medida que crece y va cambiando:\n\n1️⃣ **BUSCAR AMISTADES**\n2️⃣ **APOYAR LA CURIOSIDAD**\n3️⃣ **CONFIAR EN TU NIÑA O NIÑO**"
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender algunos pasos que puedes seguir para favorecer el desarrollo saludable de {tu niño} a medida que crece y va cambiando:\n\n1️⃣ **BUSCAR AMISTADES**\n2️⃣ **APOYAR LA CURIOSIDAD**\n3️⃣ **CONFIAR EN TU NIÑA O NIÑO**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practical_tips_2",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "En esta etapa, las niñas y los niños empezarán a expresarse deseando independencia y confianza. 🎈\n\nEmpiezan a tomar sus propias decisiones y puede que le contesten a los adultos para demostrar que conocen las respuestas correctas. 🎨⚽\n\nAl mismo tiempo, mostrarán sus emociones a su manera. 😃😒😔😣\n\nRecuerda las estrategias para favorecer el desarrollo sano de {tu niño} a esta edad. 💚"
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "En esta etapa, las niñas y los niños empezarán a expresarse deseando independencia y confianza. 🎈\n\nEmpiezan a tomar sus propias decisiones y puede que le contesten a los adultos para demostrar que conocen las respuestas correctas. 🎨⚽\n\nAl mismo tiempo, mostrarán sus emociones a su manera. 😃😒😔😣\n\nRecuerda las estrategias para favorecer el desarrollo sano de {tu niño} a esta edad. 💚",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de {tu niño}. Para empezar, escribe {CRECER}."
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes completar la evaluación hoy? ⭐"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de {tu niño}. Para empezar, escribe {CRECER}."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "💙 Entendemos. Intenta completar esta actividad durante la semana o en otro día de la semana. Puedes escribir {CRECER} en cualquier momento para comenzar la evaluación de desarrollo."
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de {tu niño}. Para empezar, escribe {CRECER}.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "💙 Entendemos. Intenta completar esta actividad durante la semana o en otro día de la semana. Puedes escribir {CRECER} en cualquier momento para comenzar la evaluación de desarrollo.",
+      "quiz_1_question": "¿Puedes completar la evaluación hoy? ⭐",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de {tu niño}. Para empezar, escribe {CRECER}.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}
