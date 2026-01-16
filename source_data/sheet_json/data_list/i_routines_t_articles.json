@@ -16,7 +16,7 @@
       "text_1_facilitator::eng": "Para seguir construyendo una relación positiva con {tu adolescente}, debemos incorporar el tiempo juntos y conectados en nuestro día a día. \n\nCrear rutinas diarias con {tu adolescente} también le ayudará a tener más seguridad y a cooperar contigo. 🔑 \n\nAyúdale a organizar sus tiempos para que pueda descansar, comer, ayudar en la casa, cumplir con la escuela y dormir. ⏰ "
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "category_id": "explore",
       "text_1_facilitator::eng": "Aquí tienes una historieta sobre cómo crear rutinas con tu adolescente durante su tiempo juntos y conectados.",
       "image_asset": "https://drive.google.com/file/d/1ZE1WIMmq4m29rFpHWLkmS1qrdDtijD9Z/view?usp=drive_link",
@@ -26,7 +26,7 @@
       "character_2_text::eng": "¡Gracias, Abue!"
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/1SM9sm77P667oEF1f1zAbmAMsEanYh8yb/view?usp=drive_link",
       "character_1_id": "F2_ABUELO",
@@ -35,7 +35,7 @@
       "character_2_text::eng": "Supongo que sí… Aunque a veces estoy ocupado."
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/1BF6LnY5wnhluPur1tWqHRhz7AZcZS0eu/view?usp=drive_link",
       "character_1_id": "F2_ABUELO",
@@ -46,7 +46,7 @@
       "character_3_text::eng": "¿Qué hora es mejor para ti?"
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/1f90p9riBYOu8H5qmbfR8zBS0ngtfBIE7/view?usp=drive_link",
       "character_1_id": "F2_HIJO_15",
@@ -55,7 +55,7 @@
       "character_2_text::eng": "Eso podría funcionar siempre y cuando limpiemos primero. Empecemos hoy. Recuerda que, ¡tú puedes escoger lo que quieras que hagamos!"
     },
     {
-      "id": "comic_5",
+      "id": "explore_5",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/18Te6vWi7ki4D8WawalQOvThMYnu9o52S/view?usp=drive_link",
       "character_1_id": "F2_HIJO_15",
@@ -64,14 +64,14 @@
       "character_2_text::eng": "Gracias, {F2_HIJO_15}. Me gustó mucho haber pasado este ratito contigo. Significa mucho para mí."
     },
     {
-      "id": "explore_1",
-      "category_id": "explore",
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "Aquí tienes un video que te ayudará a crear rutinas diarias con {tu adolescente} por medio de 3️⃣ estrategias:\n1️⃣ SER UN EQUIPO\n2️⃣ SER CONSTANTES\n3️⃣ ELOGIAR, ELOGIAR, ELOGIAR",
       "media_type": "video",
       "youtube_gb_en": "youtube link"
     },
     {
-      "id": "practical_tips_1",
+      "id": "practical_tips_2",
       "category_id": "practical_tips",
       "text_1_facilitator::eng": "Aquí tienes algunas estrategias que te ayudarán a crear rutinas con {tu adolescente}.",
       "text_2::eng": "Estas estrategias pueden utilizarse para crear rutinas en torno a:\n✅ Hora de acostarse \n✅ Tareas escolares \n✅ Tareas del hogar \n✅ Hora de la comida \n✅ Tiempo libre \n✅ Tiempo de tele o uso de electrónicos (computadora, Tablet, celular)",

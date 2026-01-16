@@ -1,0 +1,187 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "learn_mistakes_t_articles",
+  "data_list_name": "learn_mistakes_t_articles",
+  "status": "released",
+  "flow_subtype": "modules_learn_mistakes_t",
+  "module": "learn_mistakes_t",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "La lección de estrategias de crianza para el día de hoy trata sobre cómo ayudar a {tu adolescente} a aprender de sus errores.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "La lección de estrategias de crianza para el día de hoy trata sobre cómo ayudar a {tu adolescente} a aprender de sus errores."
+        },
+        "text_2": {
+          "eng": "Aprender de nuestros errores puede ayudar a evitarlos en el futuro. También puede ayudar a tratarnos con más empatía y con menos dureza cuando las cosas no van bien. 😃"
+        }
+      },
+      "text_2": "Aprender de nuestros errores puede ayudar a evitarlos en el futuro. También puede ayudar a tratarnos con más empatía y con menos dureza cuando las cosas no van bien. 😃"
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning__mistakes_teen_1",
+      "character_1_id": "F2_ABUELA",
+      "character_2_id": "F2_HIJO_15",
+      "nested": false,
+      "text_1_facilitator": "Aquí tienes una historieta sobre cómo aprender de los errores:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Aquí tienes una historieta sobre cómo aprender de los errores:"
+        },
+        "character_1_text": {
+          "eng": "¿Qué pasó, {F2_HIJO_15}?"
+        },
+        "character_2_text": {
+          "eng": "Fracasé el examen de matemáticas."
+        }
+      },
+      "character_1_text": "¿Qué pasó, {F2_HIJO_15}?",
+      "character_2_text": "Fracasé el examen de matemáticas."
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning__mistakes_teen_2",
+      "character_1_id": "F2_ABUELA",
+      "character_2_id": "F2_HIJO_15",
+      "nested": false,
+      "character_1_text": "Siento escuchar que te haya ido mal. Seguramente estás muy frustrado.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Siento escuchar que te haya ido mal. Seguramente estás muy frustrado."
+        },
+        "character_2_text": {
+          "eng": "Sí, sobre todo porque pensaba que ya lo había entendido todo."
+        }
+      },
+      "character_2_text": "Sí, sobre todo porque pensaba que ya lo había entendido todo."
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning__mistakes_teen_3",
+      "character_1_id": "F2_ABUELA",
+      "character_2_id": "F2_HIJO_15",
+      "nested": false,
+      "character_1_text": "Sé que eres increíble e inteligente. ¿Sabes qué pasó? ¿Por qué te fue mal?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Sé que eres increíble e inteligente. ¿Sabes qué pasó? ¿Por qué te fue mal?"
+        },
+        "character_2_text": {
+          "eng": "Supongo me sentía muy seguro y, pues, no estudié."
+        }
+      },
+      "character_2_text": "Supongo me sentía muy seguro y, pues, no estudié."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning__mistakes_teen_4",
+      "character_1_id": "F2_ABUELA",
+      "character_2_id": "F2_HIJO_15",
+      "nested": false,
+      "character_1_text": "Ah bueno, al menos ahora sabes que es importante estudiar para cada examen, por muy seguro que te sientas. ¿Quieres que te ayude a recordarlo para la próxima vez?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Ah bueno, al menos ahora sabes que es importante estudiar para cada examen, por muy seguro que te sientas. ¿Quieres que te ayude a recordarlo para la próxima vez?"
+        },
+        "character_2_text": {
+          "eng": "Así está bien, abue. Lo recordaré. Gracias por entender."
+        }
+      },
+      "character_2_text": "Así está bien, abue. Lo recordaré. Gracias por entender."
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link",
+      "nested": false,
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para ver cómo ayudar a {tu adolescente} a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en Reproducir ▶️ para ver cómo ayudar a {tu adolescente} a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**"
+        }
+      }
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "*_¡Actividad para casa!_* ⭐ \n\n*_Comparte con tu adolescente alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste._*",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_¡Actividad para casa!_* ⭐ \n\n*_Comparte con tu adolescente alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste._*"
+        },
+        "quiz_1_question": {
+          "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Excelente! 💡 Usa estas estrategias que aprendiste hoy para ayudar a tu adolescente a fortalecer su agilidad mental."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡Entendemos! Si hoy no tienes tiempo, puedes apartar un poco para mañana. ⏰"
+        }
+      },
+      "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "¡Excelente! 💡 Usa estas estrategias que aprendiste hoy para ayudar a tu adolescente a fortalecer su agilidad mental.",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "¡Entendemos! Si hoy no tienes tiempo, puedes apartar un poco para mañana. ⏰"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA modules - learning (61 - 75).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1uYUivXZOTg0ZliArzDnwFz4zNAX9qm_0iMzEgFQfGKY"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

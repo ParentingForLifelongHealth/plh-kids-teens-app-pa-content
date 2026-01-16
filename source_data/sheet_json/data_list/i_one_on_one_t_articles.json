@@ -21,19 +21,19 @@
       "quiz_1_feedback_2::eng": "\n🎉 ¡Tienes razón!\n\n🚲Tu adolescente puede escoger la actividad siempre y cuando sea segura. Esto aumentará su confianza y hará más probable que disfrute pasar tiempo contigo."
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "category_id": "explore",
       "text_1_facilitator::eng": "Veamos como @data.characters.F1_PADRE.name y su hija @data.characters.F1_HIJA_13.name pasan tiempo juntos y conectados.",
-      "image_asset": "https://drive.google.com/file/d/1_W64rz-lmr4E73yn7z55ApP0e3aym0pO/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_1",
       "character_1_id": "F1_PADRE",
       "character_1_text::eng": "@data.characters.F1_HIJA_13.name, ¿cómo estuvo tu día?",
       "character_2_id": "F1_HIJA_13",
       "character_2_text::eng": "Bien, papá. Voy llegando de la escuela."
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1uy1rfn48t0hChuvhxs2C_8THHeSKGKsg/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_2",
       "character_1_id": "F1_PADRE",
       "character_1_text::eng": "Quiero pasar tiempo contigo, antes de que tenga que volver al trabajo. ¿Qué quieres que hagamos juntos?",
       "character_2_id": "F1_HIJA_13",
@@ -42,27 +42,27 @@
       "character_3_text::eng": "¡Me encantaría!"
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1di2WhhVnPh1QPN72nIlbsNAUX_WMKonA/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_3",
       "character_1_id": "F1_HIJA_13",
       "character_1_text::eng": "Yo estaba pensando en construir una casa reciclada usando botellas viejas, cartón y otros materiales reciclados. Mira, estos los recogí de camino a la casa. Estaban tirados junto a la parada del bus y enfrente de la tienda de la esquina.",
       "character_2_id": "F1_PADRE",
       "character_2_text::eng": "¡Qué buena idea, @data.characters.F1_HIJA_13.name! Se nota que lo has pensado bien y que te interesa esta tarea. ¿Cómo quieres que te ayude?"
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1-xtIeEUQbmSL0zVHR-VrmJV9YZYnXK3_/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_4",
       "character_1_id": "F1_HIJA_13",
       "character_1_text::eng": "¿Me ayudas a limpiar estas botellas? Van a ser los pilares de la casa. Con los cartones haré las paredes y el techo. Después, estoy pensando que podríamos pintar los cartones y las botellas para que queden bonitos.",
       "character_2_id": "F1_PADRE",
       "character_2_text::eng": "Creo que en algún lugar, tengo un poco de pintura que me sobró. Puedo buscarla más tarde."
     },
     {
-      "id": "comic_5",
+      "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/10eNkFcBk2BesBpI_S-2FZ3IPGizYRAi6/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_5",
       "text_2::eng": "Más tarde, el mismo día",
       "character_1_id": "F1_PADRE",
       "character_1_text::eng": "¡Guau, se ve muy diferente! Ni parece que todos los materiales salieron de la basura. Además, ¡qué bonitas te quedaron las paredes pintadas y el techo también! ¡Tu maestra va a estar orgullosa de tu esfuerzo cuando vea esta tarea!",
@@ -72,14 +72,14 @@
       "character_3_text::eng": "A ver, cuéntame."
     },
     {
-      "id": "explore_1",
-      "category_id": "explore",
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "Aquí tienes un video para aprender 3️⃣ estrategias de crianza para pasar tiempo juntos y conectados con {tu adolescente}:\n1️⃣ PRACTICAR\n2️⃣ JUGAR\n3️⃣ ESTAR",
       "media_type": "video",
       "youtube_gb_en": "youtube link"
     },
     {
-      "id": "practical_tips_1",
+      "id": "practical_tips_2",
       "category_id": "practical_tips",
       "text_1_facilitator::eng": "Recuerda las estrategias para pasar tiempo juntos y conectados con tu adolescente.",
       "section_1_title::eng": "PRACTICAR",

@@ -1,0 +1,74 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "learn_mis_7to9_c_articles",
+  "data_list_name": "learn_mis_7to9_c_articles",
+  "status": "released",
+  "flow_subtype": "modules_learn_mis_7to9_c",
+  "module": "learn_mis_7to9_c",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "La lección de estrategias de crianza para el día de hoy trata sobre cómo ayudar a {tu niño} a aprender de la experiencia.",
+      "text_2::eng": "Aprender de nuestros errores puede ayudar a evitarlos en el futuro. También puede ayudar a tratarnos con más empatía y con menos dureza cuando las cosas no van bien. 😃"
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "Aquí tienes una historieta sobre cómo aprender de los errores:",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning_mistakes_7to9_yc_1",
+      "character_1_id": "F2_ABUELA",
+      "character_1_text::eng": "¿Qué pasó, {F2_HIJO_8}?",
+      "character_2_id": "F2_HIJO_8",
+      "character_2_text::eng": "Ay abue, lo que pasa es que no llevé mis materiales para dibujar a la escuela. Se  me olvidaron aquí en la casa."
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning_mistakes_7to9_yc_2",
+      "character_1_id": "F2_ABUELA",
+      "character_1_text::eng": "Eso es frustrante. Seguramente te sientes decepcionado.",
+      "character_2_id": "F2_HIJO_8",
+      "character_2_text::eng": "Sí, y más porque pensé que tenía todo lo que necesitaba en mi mochila."
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning_mistakes_7to9_yc_3",
+      "character_1_id": "F2_ABUELA",
+      "character_1_text::eng": "Sé que te gustan mucho tus clases de dibujo. ¿Sabes qué fue lo que pasó? ¿Por qué no estaban tus materiales?",
+      "character_2_id": "F2_HIJO_8",
+      "character_2_text::eng": "Estaba muy apurado metiendo todo a la mochila en la mañana. Creo que debería empezar a hacerla en la noche."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning_mistakes_7to9_yc_4",
+      "character_1_id": "F2_ABUELA",
+      "character_1_text::eng": "Ah, bueno, al menos ahora ya sabes cómo prepararte mejor para la escuela. ¿Quieres que te lo recuerde esta noche?",
+      "character_2_id": "F2_HIJO_8",
+      "character_2_text::eng": "Así está bien, abue. Lo recordaré. Gracias por entenderme."
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "Da Clic en Reproducir ▶️ para ver cómo ayudar a {tu niño} a aprender de la experiencia:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nCuéntale a {tu niño} sobre alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste.",
+      "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "¡Muy bien! 💡 Utiliza las estrategias que has aprendido hoy para ayudar a {tu niño} a prepararse académicamente y saber enfrentarse a la vida.",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "¡Entendemos! Si hoy no tienes tiempo, puedes apartar un poco para mañana. ⏰"
+    }
+  ]
+}

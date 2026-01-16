@@ -1,0 +1,349 @@
+{
+  "flow_name": "manage_anger_c_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_10",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Ser una gran madre, padre o persona cuidadora también implica dedicar tiempo para ti. Comienza por reconocer cómo te sientes."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Que gusto saber que hoy te sientes bien. ¡Eres increíble!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Hay días en los que simplemente no sabemos qué hacer, y eso está bien. Estás aquí, y eso es lo que importa."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "La crianza puede ser desafiante. Pero estar aquí muestra que quieres seguir mejorando, y eso ya es un gran logro."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Ser una gran madre, padre o persona cuidadora también implica dedicar tiempo para ti. Comienza por reconocer cómo te sientes.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Que gusto saber que hoy te sientes bien. ¡Eres increíble!",
+      "quiz_1_feedback_2": "Hay días en los que simplemente no sabemos qué hacer, y eso está bien. Estás aquí, y eso es lo que importa.",
+      "quiz_1_feedback_3": "La crianza puede ser desafiante. Pero estar aquí muestra que quieres seguir mejorando, y eso ya es un gran logro.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Es normal que te sientas mal cuando {tu niño} no cumple tus expectativas o se porta mal.\n\nEn esta lección, aprenderemos cómo responderle a nuestra niña o niño cuando estamos en una situación que nos hace sentir molestos o enojados."
+        },
+        "text_2": {
+          "eng": "El enojo es una emoción importante porque nos permite expresarnos y poner límites. En lugar de ignorarla, deberíamos aprender a reconocerla y regularla de manera saludable.\n\n🌱 Cuando logras regular tu enojo, cuidas de ti. Escucha tus emociones, toma mejores decisiones y permítes a {tu niño} a manejar su propio enojo."
+        },
+        "quiz_1_question": {
+          "eng": "¡Hagamos un ejercicio!\n\nEjercicio 1. \n\nEstá bien alzarle la voz o gritarle a mi niña o niño cuando siento enojo."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n🎨 Nuestras reacciones ante situaciones difíciles se ven afectadas por nuestros propios pensamientos y sentimientos y no solamente por las acciones de otras personas.\n\nEstá bien sentir enojo, a veces, pero es importante aprender a responder con calma incluso cuando sentimos mucho enojo.\n\nLa mayoría de las veces, cuando reaccionamos con ira o enojo, puede hacer que nuestras niñas y niños sientan miedo o estrés y se porten peor o se comporten de manera agresiva."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 ¡Genial!\n\n🎨 Nuestras reacciones ante situaciones difíciles se ven afectadas por nuestros propios pensamientos y sentimientos y no solamente por las acciones de otras personas.\n\nEstá bien sentir enojo, a veces, pero es importante aprender a responder con calma incluso cuando sentimos mucho enojo.\n\nLa mayoría de las veces, cuando reaccionamos con ira o enojo, puede hacer que nuestras niñas y niños sientan miedo o estrés y se porten peor o se comporten de manera agresiva."
+        },
+        "quiz_2_question": {
+          "eng": "Ejercicio 2: No está bien que {tu niño} se enoje contigo."
+        },
+        "quiz_2_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n{Tu niño} va a experimentar   muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi {tu niño} está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu niña, niño o adolescente a darse cuenta de sus emociones  de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "🎉 ¡Buen trabajo!\n\n{Tu niño} va a experimentar muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi {tu niño} está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu niña, niño o adolescente a darse cuenta de sus emociones  de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🎨 Nuestras reacciones ante situaciones difíciles se ven afectadas por nuestros propios pensamientos y sentimientos y no solamente por las acciones de otras personas.\n\nEstá bien sentir enojo, a veces, pero es importante aprender a responder con calma incluso cuando sentimos mucho enojo.\n\nLa mayoría de las veces, cuando reaccionamos con ira o enojo, puede hacer que nuestras niñas y niños sientan miedo o estrés y se porten peor o se comporten de manera agresiva.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {}
+      },
+      "quiz_1_feedback_2": "🎉 ¡Genial!\n\n🎨 Nuestras reacciones ante situaciones difíciles se ven afectadas por nuestros propios pensamientos y sentimientos y no solamente por las acciones de otras personas.\n\nEstá bien sentir enojo, a veces, pero es importante aprender a responder con calma incluso cuando sentimos mucho enojo.\n\nLa mayoría de las veces, cuando reaccionamos con ira o enojo, puede hacer que nuestras niñas y niños sientan miedo o estrés y se porten peor o se comporten de manera agresiva.",
+      "quiz_1_question": "¡Hagamos un ejercicio!\n\nEjercicio 1. \n\nEstá bien alzarle la voz o gritarle a mi niña o niño cuando siento enojo.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_option_2_text": "Falso",
+      "text_1_facilitator": "Es normal que te sientas mal cuando {tu niño} no cumple tus expectativas o se porta mal.\n\nEn esta lección, aprenderemos cómo responderle a nuestra niña o niño cuando estamos en una situación que nos hace sentir molestos o enojados.",
+      "text_2": "El enojo es una emoción importante porque nos permite expresarnos y poner límites. En lugar de ignorarla, deberíamos aprender a reconocerla y regularla de manera saludable.\n\n🌱 Cuando logras regular tu enojo, cuidas de ti. Escucha tus emociones, toma mejores decisiones y permítes a {tu niño} a manejar su propio enojo.",
+      "quiz_2_question": "Ejercicio 2: No está bien que {tu niño} se enoje contigo.",
+      "quiz_2_option_1_text": "Verdadero",
+      "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n{Tu niño} va a experimentar   muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi {tu niño} está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu niña, niño o adolescente a darse cuenta de sus emociones  de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo.",
+      "quiz_2_option_2_text": "Falso",
+      "quiz_2_feedback_2": "🎉 ¡Buen trabajo!\n\n{Tu niño} va a experimentar muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi {tu niño} está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu niña, niño o adolescente a darse cuenta de sus emociones  de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "{F1_HIJO_5} estaba jugando con la pelota adentro de la casa y rompió una ventana.\n\n{F1_PADRE} se siente molesto y enojado. Se da cuenta de que quiere gritar, castigar a {F1_HIJO_5} y pegarle."
+        },
+        "character_1_text": {
+          "eng": "¡¡¡Ash!!! ¿Cuántas veces tengo que decirle que juegue con su pelota afuera? ¡Y ahora ya rompió una ventana! ¡Me las va a pagar!"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "{F1_HIJO_5} estaba jugando con la pelota adentro de la casa y rompió una ventana.\n\n{F1_PADRE} se siente molesto y enojado. Se da cuenta de que quiere gritar, castigar a {F1_HIJO_5} y pegarle.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
+      },
+      "image_asset": "images/character_icons/managing_anger_c",
+      "character_1_id": "F1_PADRE",
+      "character_1_text": "¡¡¡Ash!!! ¿Cuántas veces tengo que decirle que juegue con su pelota afuera? ¡Y ahora ya rompió una ventana! ¡Me las va a pagar!",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Estoy muy enojado. Voy a tomar una pausa y respirar profundo. Lo que me molesta es que tengo que volver a limpiar y me costará dinero cambiar esa ventana. Además, estoy preocupado porque {F1_HIJO_5} podría haberse lastimado."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/character_icons/managing_anger_c",
+      "character_1_id": "F1_PADRE",
+      "character_1_text": "Estoy muy enojado. Voy a tomar una pausa y respirar profundo. Lo que me molesta es que tengo que volver a limpiar y me costará dinero cambiar esa ventana. Además, estoy preocupado porque {F1_HIJO_5} podría haberse lastimado.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Papá... perdón!"
+        },
+        "character_2_text": {
+          "eng": "¿Estás bien? No te acerques al vidrio y ten cuidado. Dame 5 minutos, voy a ir a la cocina y tú quédate aquí, ahorita conversaremos qué es lo que vamos a hacer al respecto."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/character_icons/managing_anger_c",
+      "character_1_id": "F1_HIJO_5",
+      "character_1_text": "¡Papá... perdón!",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "¿Estás bien? No te acerques al vidrio y ten cuidado. Dame 5 minutos, voy a ir a la cocina y tú quédate aquí, ahorita conversaremos qué es lo que vamos a hacer al respecto.",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "(Pensando) Mi hijo está a salvo y no se lastimó. Ahora necesito algo que me ayude a dejar de pensar en lo que me hizo enojar. Me pondré una bolsa de hielo en la cara mientras respiro profundamente."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/character_icons/managing_anger_c",
+      "character_1_id": "F1_PADRE",
+      "character_1_text": "(Pensando) Mi hijo está a salvo y no se lastimó. Ahora necesito algo que me ayude a dejar de pensar en lo que me hizo enojar. Me pondré una bolsa de hielo en la cara mientras respiro profundamente.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "(Después de unos minutos) Ahora me siento mejor. Sigo molesto pero puedo pensar con claridad y manejar bien las cosas. En lugar de gritarle, le diré cómo me siento."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/character_icons/managing_anger_c",
+      "character_1_id": "F1_PADRE",
+      "character_1_text": "(Después de unos minutos) Ahora me siento mejor. Sigo molesto pero puedo pensar con claridad y manejar bien las cosas. En lugar de gritarle, le diré cómo me siento.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_6",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "{F1_HIJO_5}, esto me molestó mucho. Podrías haberte lastimado y tendremos que pagarle a alguien para que arregle la ventana. Por favor, tráeme la escoba para limpiar esto."
+        },
+        "character_2_text": {
+          "eng": "Está bien, papá. De verdad, perdón, me siento muy mal por esto. Desde hoy, jugaré con mi pelota afuera."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/character_icons/managing_anger_c_6",
+      "character_1_id": "F1_PADRE",
+      "character_1_text": "{F1_HIJO_5}, esto me molestó mucho. Podrías haberte lastimado y tendremos que pagarle a alguien para que arregle la ventana. Por favor, tráeme la escoba para limpiar esto.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "Está bien, papá. De verdad, perdón, me siento muy mal por esto. Desde hoy, jugaré con mi pelota afuera.",
+      "character_2_id": "F1_HIJO_5",
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "▶️ Da Clic en Reproducir para aprender las 4️⃣ estrategias que puedes usar para controlar tu enojo y comunicarte mejor con {tu niño}:\n\n1️⃣ **IDENTIFICAR**\n2️⃣ **REGULAR**\n3️⃣ **COMPRENDER**\n4️⃣ **COMUNICAR**\""
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "▶️ Da Clic en Reproducir para aprender las 4️⃣ estrategias que puedes usar para controlar tu enojo y comunicarte mejor con {tu niño}:\n\n1️⃣ **IDENTIFICAR**\n2️⃣ **REGULAR**\n3️⃣ **COMPRENDER**\n4️⃣ **COMUNICAR**\"",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practical_tips_2",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Lidiar con el enojo no es algo fácil 😔. Quizá nadie nos enseñó a regular nuestras emociones y a expresarlas de manera sana. \n\nRecuerda las 4️⃣ estrategias que puedes usar para regular la ira y comunicarte mejor con {tu niño}:"
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "Lidiar con el enojo no es algo fácil 😔. Quizá nadie nos enseñó a regular nuestras emociones y a expresarlas de manera sana. \n\nRecuerda las 4️⃣ estrategias que puedes usar para regular la ira y comunicarte mejor con {tu niño}:",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\n*_Conversa con {tu niño} de lo que has aprendido sobre el enojo en esta lección._* Elige una estrategia que puedas usar cuando sientas enojo. Por ejemplo, *_puedes practicar el escuchar música mientras llevas a cabo tu rutina de la tarde._*"
+        },
+        "quiz_1_question": {
+          "eng": "⏰ ¿Puedes hacerlo hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Muy bien! 💙 ¡Siente orgullo por ti cuando logres regular tu enojo!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡Está bien! Si hoy no tienes tiempo, practica una de las estrategias para regular tu enojo el día de mañana. Puedes practicar esta estrategia cada vez que empieces a sentir que el enojo empieza a escalar. ¡Lo estás haciendo muy bien! 😃"
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "¡Muy bien! 💙 ¡Siente orgullo por ti cuando logres regular tu enojo!",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "¡Está bien! Si hoy no tienes tiempo, practica una de las estrategias para regular tu enojo el día de mañana. Puedes practicar esta estrategia cada vez que empieces a sentir que el enojo empieza a escalar. ¡Lo estás haciendo muy bien! 😃",
+      "quiz_1_question": "⏰ ¿Puedes hacerlo hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\n*_Conversa con {tu niño} de lo que has aprendido sobre el enojo en esta lección._* Elige una estrategia que puedas usar cuando sientas enojo. Por ejemplo, *_puedes practicar el escuchar música mientras llevas a cabo tu rutina de la tarde._*",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "flow_name": "young_change_c_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_1",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Toma un momento para conectar contigo."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Maravilloso! Me da mucho gusto saber que las cosas van bien."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Habrá días retadores, y está bien. Vas por buen camino."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Lamento que las cosas estén siendo difíciles ahora. Es completamente normal tener momentos complicados. Recuerda que no estás sola/o."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Toma un momento para conectar contigo.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "¡Maravilloso! Me da mucho gusto saber que las cosas van bien.",
+      "quiz_1_feedback_2": "Habrá días retadores, y está bien. Vas por buen camino.",
+      "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles ahora. Es completamente normal tener momentos complicados. Recuerda que no estás sola/o.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "La lección de hoy trata sobre cómo favorecer el desarrollo saludable de {tu niño} a medida que crece y va cambiando. ✨"
+        },
+        "text_2": {
+          "eng": "Las niñas y los niños tienen capacidades diferentes en las distintas etapas de su desarrollo. 🌱\n\nEs importante conocer las habilidades de {tu niño} en esta etapa de su desarrollo. ⚽\n\nEsto te ayudará a planificar sus actividades para que se ajusten a lo que puede hacer y también te ayuda a tener objetivos realistas. ✨"
+        },
+        "quiz_1_question": {
+          "eng": "¡Hagamos un ejercicio! Ejercicio 1.\n\nTodas las niñas y los niños se desarrollan a la misma velocidad."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n✨ Cada niña y cada niño son únicos y se desarrollarán a su propio ritmo.\nAlgunas niñas y niños pueden desarrollarse más rápido que otros en ciertas áreas, mientras que a otros les puede tomar más tiempo.\n\n💚 Es importante que las madres, los padres y las personas cuidadoras sean pacientes y actuén con comprensión, reconociendo que cada niña y cada niño tiene su propio camino individual de desarrollo.\n\n🚩 Si tienes alguna preocupación sobre el desarrollo de {tu niño}, debes consultar a un profesional para obtener apoyo y asesoramiento."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "\"🎉 ¡Buen trabajo!\n\n✨ Cada niña y cada niño son únicos y se desarrollarán a su propio ritmo.\nAlgunas niñas y niños pueden desarrollarse más rápido que otros en ciertas áreas, mientras que a otros les puede tomar más tiempo.\n\n💚 Es importante que las madres, los padres y las personas cuidadoras sean pacientes y actuén con comprensión, reconociendo que cada niña y cada niño tiene su propio camino individual de desarrollo.\n\n🚩 Si tienes alguna preocupación sobre el desarrollo de {tu niño}, debes consultar a un profesional para obtener apoyo y asesoramiento."
+        },
+        "quiz_2_question": {
+          "eng": "¡Hagamos otra! \n\nEjercicio 2. Verdadero o falso: Está bien dejar que {tu niño} siga intentando hacer algo unas cuantas veces aunque no lo haga correctamente."
+        },
+        "quiz_2_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "✨ ¡Estás en lo correcto!\n\n🚲 {Tu niño} quiere aprender y debemos darle nuestro apoyo para que lo siga intentando aún cuando se equivoque.\n\n⭐ ¡Reconócele por persistir! {Tu niño} sentirá el apoyo. El esfuerzo es más importante que dominar una habilidad."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n🚲 {Tu niño} quiere aprender y debemos darle nuestro apoyo para que lo siga intentando aún cuando se equivoque.\n\n⭐ ¡Reconócele por persistir! {Tu niño} sentirá el apoyo. El esfuerzo es más importante que dominar una habilidad."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n✨ Cada niña y cada niño son únicos y se desarrollarán a su propio ritmo.\nAlgunas niñas y niños pueden desarrollarse más rápido que otros en ciertas áreas, mientras que a otros les puede tomar más tiempo.\n\n💚 Es importante que las madres, los padres y las personas cuidadoras sean pacientes y actuén con comprensión, reconociendo que cada niña y cada niño tiene su propio camino individual de desarrollo.\n\n🚩 Si tienes alguna preocupación sobre el desarrollo de {tu niño}, debes consultar a un profesional para obtener apoyo y asesoramiento.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {}
+      },
+      "quiz_1_feedback_2": "\"🎉 ¡Buen trabajo!\n\n✨ Cada niña y cada niño son únicos y se desarrollarán a su propio ritmo.\nAlgunas niñas y niños pueden desarrollarse más rápido que otros en ciertas áreas, mientras que a otros les puede tomar más tiempo.\n\n💚 Es importante que las madres, los padres y las personas cuidadoras sean pacientes y actuén con comprensión, reconociendo que cada niña y cada niño tiene su propio camino individual de desarrollo.\n\n🚩 Si tienes alguna preocupación sobre el desarrollo de {tu niño}, debes consultar a un profesional para obtener apoyo y asesoramiento.",
+      "quiz_1_question": "¡Hagamos un ejercicio! Ejercicio 1.\n\nTodas las niñas y los niños se desarrollan a la misma velocidad.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_option_2_text": "Falso",
+      "text_1_facilitator": "La lección de hoy trata sobre cómo favorecer el desarrollo saludable de {tu niño} a medida que crece y va cambiando. ✨",
+      "text_2": "Las niñas y los niños tienen capacidades diferentes en las distintas etapas de su desarrollo. 🌱\n\nEs importante conocer las habilidades de {tu niño} en esta etapa de su desarrollo. ⚽\n\nEsto te ayudará a planificar sus actividades para que se ajusten a lo que puede hacer y también te ayuda a tener objetivos realistas. ✨",
+      "quiz_2_question": "¡Hagamos otra! \n\nEjercicio 2. Verdadero o falso: Está bien dejar que {tu niño} siga intentando hacer algo unas cuantas veces aunque no lo haga correctamente.",
+      "quiz_2_option_1_text": "Verdadero",
+      "quiz_2_feedback_1": "✨ ¡Estás en lo correcto!\n\n🚲 {Tu niño} quiere aprender y debemos darle nuestro apoyo para que lo siga intentando aún cuando se equivoque.\n\n⭐ ¡Reconócele por persistir! {Tu niño} sentirá el apoyo. El esfuerzo es más importante que dominar una habilidad.",
+      "quiz_2_option_2_text": "Falso",
+      "quiz_2_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\n🚲 {Tu niño} quiere aprender y debemos darle nuestro apoyo para que lo siga intentando aún cuando se equivoque.\n\n⭐ ¡Reconócele por persistir! {Tu niño} sentirá el apoyo. El esfuerzo es más importante que dominar una habilidad.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "{F1_HIJA_6} intenta ponerse los zapatos."
+        },
+        "character_1_text": {
+          "eng": "Noto que no te has puesto los zapatos, aquí estoy si necesitas ayuda."
+        },
+        "character_2_text": {
+          "eng": "¡No, yo quiero intentarlo!"
+        },
+        "character_3_text": {
+          "eng": "¡De acuerdo {F1_HIJA_6}!"
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "text_1_facilitator": "{F1_HIJA_6} intenta ponerse los zapatos.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/young_child_change_yc_1",
+      "character_1_id": "F1_PADRE",
+      "character_2_id": "F1_HIJA_6",
+      "character_3_id": "F1_PADRE",
+      "character_1_text": "Noto que no te has puesto los zapatos, aquí estoy si necesitas ayuda.",
+      "character_2_text": "¡No, yo quiero intentarlo!",
+      "character_3_text": "¡De acuerdo {F1_HIJA_6}!",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡No puedo!"
+        },
+        "character_2_text": {
+          "eng": "¡Sí, tú puedes! ¿Qué tal si yo te ayudo con un pie y tú lo haces con el otro?"
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/young_child_change_yc_2",
+      "character_1_id": "F1_HIJA_6",
+      "character_2_id": "F1_PADRE",
+      "character_1_text": "¡No puedo!",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "¡Sí, tú puedes! ¿Qué tal si yo te ayudo con un pie y tú lo haces con el otro?",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Bueno."
+        },
+        "character_2_text": {
+          "eng": "Sujeta el zapato con las dos manos. Ahora, mete el pie izquierdo en el zapato. ¡Ya casi! Mueve los dedos de los pies y asegúrate de que el talón está metido hasta el fondo. ¡Buen trabajo! Ahora, prueba con el zapato derecho."
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/young_child_change_yc_3",
+      "character_1_id": "F1_HIJA_6",
+      "character_2_id": "F1_PADRE",
+      "character_1_text": "Bueno.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "Sujeta el zapato con las dos manos. Ahora, mete el pie izquierdo en el zapato. ¡Ya casi! Mueve los dedos de los pies y asegúrate de que el talón está metido hasta el fondo. ¡Buen trabajo! Ahora, prueba con el zapato derecho.",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Lo logré!"
+        },
+        "character_2_text": {
+          "eng": "¡Muy bien, {F1_HIJA_6}! ¡Cada día haces más cosas!"
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/young_child_change_yc_4",
+      "character_1_id": "F1_HIJA_6",
+      "character_2_id": "F1_PADRE",
+      "character_1_text": "¡Lo logré!",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "¡Muy bien, {F1_HIJA_6}! ¡Cada día haces más cosas!",
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "\"Da Clic en Reproducir ▶️ para aprender algunas estrategias que puedes seguir para favorecer el desarrollo saludable de {tu niño}:\n\n1️⃣ **APRENDER JUGANDO**\n2️⃣ **APOYAR LA CURIOSIDAD**\""
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "\"Da Clic en Reproducir ▶️ para aprender algunas estrategias que puedes seguir para favorecer el desarrollo saludable de {tu niño}:\n\n1️⃣ **APRENDER JUGANDO**\n2️⃣ **APOYAR LA CURIOSIDAD**\"",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practical_tips_2",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "A esta edad, a las niñas y a los niños les encanta jugar y aprender mediante actividades. 🚲\n\nAl hacer estas actividades aprenden valores sociales. Tendrán muchas preguntas sobre su entorno. ✨\n\nRecuerda estas 2️⃣ estrategias para favorecer el desarrollo saludable de {tu niño} a esta edad."
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "A esta edad, a las niñas y a los niños les encanta jugar y aprender mediante actividades. 🚲\n\nAl hacer estas actividades aprenden valores sociales. Tendrán muchas preguntas sobre su entorno. ✨\n\nRecuerda estas 2️⃣ estrategias para favorecer el desarrollo saludable de {tu niño} a esta edad.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de {tu niño}. Para empezar, escribe {CRECER}."
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes completar la evaluación hoy? ⭐"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de {tu niño}. Para empezar, escribe {CRECER}."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "💙 Entendemos. Intenta completar esta actividad durante la semana o en otro día de la semana. Puedes escribir {CRECER} en cualquier momento para comenzar la evaluación de desarrollo."
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de {tu niño}. Para empezar, escribe {CRECER}.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "💙 Entendemos. Intenta completar esta actividad durante la semana o en otro día de la semana. Puedes escribir {CRECER} en cualquier momento para comenzar la evaluación de desarrollo.",
+      "quiz_1_question": "¿Puedes completar la evaluación hoy? ⭐",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de {tu niño}. Para empezar, escribe {CRECER}.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

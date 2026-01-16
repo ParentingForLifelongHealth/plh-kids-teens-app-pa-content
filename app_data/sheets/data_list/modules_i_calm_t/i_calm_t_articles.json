@@ -101,7 +101,7 @@
       "quiz_3_feedback_2": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/19IEdC3J4HDyW-7-xxMDPdUYEU4f-o3FO/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
@@ -127,7 +127,7 @@
       "character_1_text": "(Pensando) Me estoy sintiendo muy enojada. Estoy cansada y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a {F2_HIJO_15}"
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/160le3WU55Ac1I3qEINu3ZtlXj30-rjJO/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
@@ -143,7 +143,7 @@
       }
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "category_id": "explore",
       "character_1_id": "F2_ABUELA",
       "nested": false,
@@ -163,7 +163,7 @@
       "character_1_text": "(Pensando) Me siento más tranquila. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi niño."
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/132mbvg2Qz1TM4zgcdL3BoQsfzVjEKj_n/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
@@ -179,7 +179,7 @@
       }
     },
     {
-      "id": "comic_5",
+      "id": "explore_5",
       "category_id": "explore",
       "image_asset": "https://drive.google.com/file/d/1eiyI9aBW8xjsYfkrdNyg-8M9gBsvki3o/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
@@ -195,8 +195,8 @@
       }
     },
     {
-      "id": "explore_1",
-      "category_id": "explore",
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
       "media_type": "video",
       "youtube_gb_en": "youtube link",
       "nested": false,
@@ -211,7 +211,7 @@
       }
     },
     {
-      "id": "practical_tips_1",
+      "id": "practical_tips_2",
       "category_id": "practical_tips",
       "section_1_icon_asset": "https://drive.google.com/file/d/1Dk1_4mu-DPsQgpYzZVxmAOlQG85sglo-/view?usp=drive_link",
       "section_2_icon_asset": "https://drive.google.com/file/d/19m7O3_jqHUfyLx4PRG1NnnwzXiYlAhwS/view?usp=drive_link",
@@ -310,7 +310,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules.xlsx",
+    "path": "data/PA modules - i (1-15).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
   },
   "_metadata": {

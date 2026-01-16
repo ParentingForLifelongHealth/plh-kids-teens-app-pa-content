@@ -10,7 +10,7 @@
       "media_asset": "audio/relax/relax_1.mp3",
       "media_type": "audio",
       "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transript": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "title": "Quick pause",
       "_translations": {
         "title": {}
@@ -28,28 +28,28 @@
       "id": "check_in_1",
       "_translatedFields": {
         "text_1": {
-          "eng": "Take a moment to check in with yourself."
+          "eng": "Toma un momento para conectar contigo."
         },
         "quiz_1_feedback_1": {
-          "eng": "Wonderful, I am so happy things are going well."
+          "eng": "¡Maravilloso! Me da mucho gusto saber que las cosas van bien."
         },
         "quiz_1_feedback_2": {
-          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+          "eng": "Habrá días retadores, y está bien. Vas por buen camino."
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+          "eng": "Lamento que las cosas estén siendo difíciles ahora. Es completamente normal tener momentos complicados. Recuerda que no estás sola/o."
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "¿Cómo te sientes el día de hoy?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Feliz"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Bien"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Triste"
         }
       },
       "category_id": "check_in",
@@ -57,7 +57,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Take a moment to check in with yourself.",
+      "text_1": "Toma un momento para conectar contigo.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -68,13 +68,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
-      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
-      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "¡Maravilloso! Me da mucho gusto saber que las cosas van bien.",
+      "quiz_1_feedback_2": "Habrá días retadores, y está bien. Vas por buen camino.",
+      "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles ahora. Es completamente normal tener momentos complicados. Recuerda que no estás sola/o.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
       "completed": false
     },
     {
@@ -168,14 +168,14 @@
       "completed": false
     },
     {
-      "id": "explore_1",
+      "id": "practical_tips_1",
       "media_type": "video",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "💚 En una situación de peligro, puede que no sepamos qué hacer y nos quedemos paralizados o respondamos con enojo; esto es normal.\n\nPresiona reoproducir ▶️ para aprender las herramientas que pueden ayudarte a mantener tu seguridad y la de tu adolescente:\n1️⃣SABER\n2️⃣ OBSERVAR\n3️⃣COMUNICAR"
         }
       },
-      "category_id": "explore",
+      "category_id": "practical_tips",
       "nested": false,
       "text_1_facilitator": "💚 En una situación de peligro, puede que no sepamos qué hacer y nos quedemos paralizados o respondamos con enojo; esto es normal.\n\nPresiona reoproducir ▶️ para aprender las herramientas que pueden ayudarte a mantener tu seguridad y la de tu adolescente:\n1️⃣SABER\n2️⃣ OBSERVAR\n3️⃣COMUNICAR",
       "_translations": {
@@ -185,7 +185,7 @@
       "completed": false
     },
     {
-      "id": "practical_tips_1",
+      "id": "practical_tips_2",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda las 3️⃣ estrategias que te ayudarán a mantener a tu adolescente a salvo de la violencia sexual."
@@ -233,7 +233,7 @@
       "completed": false
     },
     {
-      "id": "practical_tips_2",
+      "id": "practical_tips_3",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Si alguien le llega a hacer daño a {tu adolescente}, recuerda que nunca es su culpa. Pídele ayuda a alguien en quien confíes, y asegúrate de que {tu adolescente} sepa que puede contarte cualquier cosa para que puedan encontrar una solución en conjunto.\n\n📱 Recuerda que puedes escribir \"AYUDA\" para recibir recursos que te pueden acompañar durante el proceso y ofrecerte apoyo."

@@ -1,0 +1,224 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "Play_c_articles",
+  "data_list_name": "Play_c_articles",
+  "status": "released",
+  "flow_subtype": "modules_Play_c",
+  "module": "Play_c",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "🧸 Esta lección trata sobre cómo ayudar a {tu niño} a disfrutar de su aprendizaje convirtiéndolo en algo lúdico y divertido. 😃",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "🧸 Esta lección trata sobre cómo ayudar a {tu niño} a disfrutar de su aprendizaje convirtiéndolo en algo lúdico y divertido. 😃"
+        },
+        "text_2": {
+          "eng": "🎨 Jugar con {tu niño} es importante para su desarrollo y aprendizaje dentro y fuera de la escuela. Esto es una realidad para TODAS las niñas y TODOS los niños, incluidos los que tienen discapacidades físicas y del desarrollo.\n\n🚲 ¿Sabías que jugar también le ayuda a {tu niño} a aprender valores y normas sociales?"
+        },
+        "quiz_1_question": {
+          "eng": "¡Hagamos un ejercicio! Ejercicio 1.\n\nLas niñas y los niños aprenden más cuando se les dice lo que tienen que hacer en lugar de dejarles explorar y jugar."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n🌷 ¿Sabías que, instintivamente, las niñas y los niños son creativos al explorar el mundo que les rodea?\n\n🎨 Las investigaciones demuestran que las niñas y los niños aprenden mejor haciendo cosas que escuchando instrucciones.\n\n🧸 ¡Crear oportunidades para que {tu niño} explore el mundo a través del juego es la mejor manera de ayudarle a aprender!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 ¡Buen trabajo!\n\n🌷 ¿Sabías que, instintivamente, las niñas y los niños son creativos al explorar el mundo que les rodea?\n\n🎨 Las investigaciones demuestran que las niñas y los niños aprenden mejor haciendo cosas que escuchando instrucciones.\n\n🧸 ¡Crear oportunidades para que {tu niño} explore el mundo a través del juego es la mejor manera de ayudarle a aprender!"
+        }
+      },
+      "text_2": "🎨 Jugar con {tu niño} es importante para su desarrollo y aprendizaje dentro y fuera de la escuela. Esto es una realidad para TODAS las niñas y TODOS los niños, incluidos los que tienen discapacidades físicas y del desarrollo.\n\n🚲 ¿Sabías que jugar también le ayuda a {tu niño} a aprender valores y normas sociales?",
+      "quiz_1_question": "¡Hagamos un ejercicio! Ejercicio 1.\n\nLas niñas y los niños aprenden más cuando se les dice lo que tienen que hacer en lugar de dejarles explorar y jugar.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n🌷 ¿Sabías que, instintivamente, las niñas y los niños son creativos al explorar el mundo que les rodea?\n\n🎨 Las investigaciones demuestran que las niñas y los niños aprenden mejor haciendo cosas que escuchando instrucciones.\n\n🧸 ¡Crear oportunidades para que {tu niño} explore el mundo a través del juego es la mejor manera de ayudarle a aprender!",
+      "quiz_1_option_2_text": "Falso",
+      "quiz_1_feedback_2": "🎉 ¡Buen trabajo!\n\n🌷 ¿Sabías que, instintivamente, las niñas y los niños son creativos al explorar el mundo que les rodea?\n\n🎨 Las investigaciones demuestran que las niñas y los niños aprenden mejor haciendo cosas que escuchando instrucciones.\n\n🧸 ¡Crear oportunidades para que {tu niño} explore el mundo a través del juego es la mejor manera de ayudarle a aprender!"
+    },
+    {
+      "id": "explore_1",
+      "category_id": "Explore",
+      "image_asset": "https://drive.google.com/file/d/1k5JYh1cjtB3GxTlEfzWiGhTlYb-GEyhN/view?usp=drive_link",
+      "character_1_id": "F3_MADRE",
+      "character_2_id": "F3_HIJO_4",
+      "nested": false,
+      "text_1_facilitator": "{F3_MADRE} quiere pasar más tiempo ayudando a su hijo, {F3_HIJO_4}, a aprender más cosas mientras juegan juntos. Veamos cómo lo hacen:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "{F3_MADRE} quiere pasar más tiempo ayudando a su hijo, {F3_HIJO_4}, a aprender más cosas mientras juegan juntos. Veamos cómo lo hacen:"
+        },
+        "character_1_text": {
+          "eng": "Hola, hijo. ¿Te gustaría que hiciéramos algo divertido juntos?"
+        },
+        "character_2_text": {
+          "eng": "¡Sí!"
+        }
+      },
+      "character_1_text": "Hola, hijo. ¿Te gustaría que hiciéramos algo divertido juntos?",
+      "character_2_text": "¡Sí!"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "Explore",
+      "image_asset": "https://drive.google.com/file/d/1nn1pAkfDGZo1Xx59EvaEd29-xEpBoBxo/view?usp=drive_link",
+      "character_1_id": "F3_MADRE",
+      "character_2_id": "F3_HIJO_4",
+      "character_3_id": "F3_MADRE",
+      "nested": false,
+      "character_1_text": "¿Qué quieres que hagamos?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¿Qué quieres que hagamos?"
+        },
+        "character_2_text": {
+          "eng": "¡Construir una casa con sábanas!"
+        },
+        "character_3_text": {
+          "eng": "¡Gran idea! ¿Qué tenemos que hacer primero?"
+        }
+      },
+      "character_2_text": "¡Construir una casa con sábanas!",
+      "character_3_text": "¡Gran idea! ¿Qué tenemos que hacer primero?"
+    },
+    {
+      "id": "explore_3",
+      "category_id": "Explore",
+      "image_asset": "https://drive.google.com/file/d/1JkcAg0dytY0tmLTE0z4IeeHPbTlhi5EN/view?usp=drive_link",
+      "character_1_id": "F3_HIJO_4",
+      "character_2_id": "F3_MADRE",
+      "nested": false,
+      "character_1_text": "Primero, colgamos una sábana de la parte de arriba de la litera. ¡Será nuestra primera pared! Luego, podemos poner una almohada en la parte de abajo.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Primero, colgamos una sábana de la parte de arriba de la litera. ¡Será nuestra primera pared! Luego, podemos poner una almohada en la parte de abajo."
+        },
+        "character_2_text": {
+          "eng": "Me encanta que eres muy cuidadoso y piensas en todo."
+        }
+      },
+      "character_2_text": "Me encanta que eres muy cuidadoso y piensas en todo."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "Explore",
+      "image_asset": "https://drive.google.com/file/d/1_ULEhEtBKX90WdDpa4nAkhuVXQJJNHZw/view?usp=drive_link",
+      "character_1_id": "F3_MADRE",
+      "character_2_id": "F3_HIJO_4",
+      "character_3_id": "F3_MADRE",
+      "nested": false,
+      "character_1_text": "¡Bien hecho, {F3_HIJO_4}! Esta casa de sábanas es maravillosa.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Bien hecho, {F3_HIJO_4}! Esta casa de sábanas es maravillosa."
+        },
+        "character_2_text": {
+          "eng": "¿En la noche podemos leer nuestro cuento para dormir aquí?"
+        },
+        "character_3_text": {
+          "eng": "Claro, hijo."
+        }
+      },
+      "character_2_text": "¿En la noche podemos leer nuestro cuento para dormir aquí?",
+      "character_3_text": "Claro, hijo."
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link",
+      "nested": false,
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para conocer algunos pasos que puedes seguir para hacer que {tu niño} pueda divertirse aprendiendo:\n\n1️⃣ **ACTIVARSE**\n2️⃣ **PERMITIR LA CREATIVIDAD**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en Reproducir ▶️ para conocer algunos pasos que puedes seguir para hacer que {tu niño} pueda divertirse aprendiendo:\n\n1️⃣ **ACTIVARSE**\n2️⃣ **PERMITIR LA CREATIVIDAD**"
+        }
+      }
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\n*_Invita a {tu niño} a jugar contigo hoy._*\nAnímale a hacer preguntas y a explorar cosas nuevas a través del juego.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\n*_Invita a {tu niño} a jugar contigo hoy._*\nAnímale a hacer preguntas y a explorar cosas nuevas a través del juego."
+        },
+        "quiz_1_question": {
+          "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Genial! 💙 ¡Usa las estrategias que has aprendido hoy y diviértete!\nJugar con {tu niño} es una forma estupenda de darle motivación para que aprenda y desarrolle habilidades nuevas. ⚽\n\nJugar con tu niña, niño o adolescente también te ayuda a construir una relación positiva entre ustedes."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "💙 Si no tienes tiempo hoy, aparta un rato para que jueguen juntos mañana u otro día de la semana.\n\nJugar con tu niña, niño o adolescente también te ayuda a construir una relación positiva entre ustedes."
+        }
+      },
+      "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "¡Genial! 💙 ¡Usa las estrategias que has aprendido hoy y diviértete!\nJugar con {tu niño} es una forma estupenda de darle motivación para que aprenda y desarrolle habilidades nuevas. ⚽\n\nJugar con tu niña, niño o adolescente también te ayuda a construir una relación positiva entre ustedes.",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "💙 Si no tienes tiempo hoy, aparta un rato para que jueguen juntos mañana u otro día de la semana.\n\nJugar con tu niña, niño o adolescente también te ayuda a construir una relación positiva entre ustedes."
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA modules - Play (46-60).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1mWNhZqCfGOub-6mE1pRygNQ2hZV7C8CUW8L3ifKAVGQ"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

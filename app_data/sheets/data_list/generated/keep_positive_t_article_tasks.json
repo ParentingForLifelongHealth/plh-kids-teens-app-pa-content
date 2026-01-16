@@ -1,0 +1,255 @@
+{
+  "flow_name": "keep_positive_t_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_7",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Recuerda que TÚ importas. Empecemos por conectar con nuestras emociones."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Muy bien por reconocer una emoción positiva. Me alegra saber que hoy te sientes bien."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Muy bien por reconocer que hoy no te sientes del todo bien. Sé amable contigo, te lo mereces."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Muy bien por reconocer una emoción difícil. Está bien no estar bien de vez en cuando. Recuerda que @global.app_name está aquí para apoyarte."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Recuerda que TÚ importas. Empecemos por conectar con nuestras emociones.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Muy bien por reconocer una emoción positiva. Me alegra saber que hoy te sientes bien.",
+      "quiz_1_feedback_2": "Muy bien por reconocer que hoy no te sientes del todo bien. Sé amable contigo, te lo mereces.",
+      "quiz_1_feedback_3": "Muy bien por reconocer una emoción difícil. Está bien no estar bien de vez en cuando. Recuerda que @global.app_name está aquí para apoyarte.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "La lección de hoy trata sobre cómo ayudar a tu adolescente a seguir instrucciones. 😃"
+        },
+        "text_2": {
+          "eng": "Generalmente, las y los adolescentes siguen las instrucciones la mitad de las veces. ⏰ Es natural que, a veces, las y los dolescentes exploren los límites: forma parte de su crecimiento.  \n\nDar instrucciones efectivas y claras puede hacer que el ambiente sean más tranquilo y pacífico en casa. 🌱"
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "La lección de hoy trata sobre cómo ayudar a tu adolescente a seguir instrucciones. 😃",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "text_2": "Generalmente, las y los adolescentes siguen las instrucciones la mitad de las veces. ⏰ Es natural que, a veces, las y los dolescentes exploren los límites: forma parte de su crecimiento.  \n\nDar instrucciones efectivas y claras puede hacer que el ambiente sean más tranquilo y pacífico en casa. 🌱",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "{F3_MADRE} está limpiando la casa mientras {F3_HIJA_12} baila con sus amigas."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "{F3_MADRE} está limpiando la casa mientras {F3_HIJA_12} baila con sus amigas.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_1.svg",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "{F3_HIJA_12}, me da gusto verte ensayando el baile con tus amigas. Sigan haciéndolo pero afuera, por favor, para que pueda terminar de limpiar la casa. Ya que termine, me pueden enseñar su baile."
+        },
+        "character_2_text": {
+          "eng": "¡Está bien, ma!"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_2.svg",
+      "character_1_id": "F3_MADRE",
+      "character_2_id": "F3_HIJA_12",
+      "character_1_text": "{F3_HIJA_12}, me da gusto verte ensayando el baile con tus amigas. Sigan haciéndolo pero afuera, por favor, para que pueda terminar de limpiar la casa. Ya que termine, me pueden enseñar su baile.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "¡Está bien, ma!",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "{F3_HIJA_12} y sus amigas se salen a ensayar su baile mientras {F3_MADRE} limpia adentro. Después de un rato, {F3_MADRE} también se sale."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "{F3_HIJA_12} y sus amigas se salen a ensayar su baile mientras {F3_MADRE} limpia adentro. Después de un rato, {F3_MADRE} también se sale.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_3.svg",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Gracias por ensayar afuera mientras yo terminaba de limpiar la casa, {F3_HIJA_12}. Ahora, me gustaría ver su baile."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_4.svg",
+      "character_1_id": "F3_MADRE",
+      "character_1_text": "Gracias por ensayar afuera mientras yo terminaba de limpiar la casa, {F3_HIJA_12}. Ahora, me gustaría ver su baile.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Guau, {F3_HIJA_12}! ¡Qué bien bailas!"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_5.svg",
+      "character_1_id": "F3_MADRE",
+      "character_1_text": "¡Guau, {F3_HIJA_12}! ¡Qué bien bailas!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en ▶️ para aprender tres estrategias sobre cómo ayudar a {tu adolescente} a seguir instrucciones con mayor frecuencia:\n\n1️⃣ **ESPECIFICAR LO QUE QUIERES**\n2️⃣ **SER REALISTA**\n3️⃣ **USAR PALABRAS AFIRMATIVAS**"
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "Da Clic en ▶️ para aprender tres estrategias sobre cómo ayudar a {tu adolescente} a seguir instrucciones con mayor frecuencia:\n\n1️⃣ **ESPECIFICAR LO QUE QUIERES**\n2️⃣ **SER REALISTA**\n3️⃣ **USAR PALABRAS AFIRMATIVAS**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a tu adolescente."
+        },
+        "quiz_1_question": {
+          "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "🎉 ¡Qué bien! Acuérdate de ELOGIAR a tu adolescente siempre que siga tus instrucciones. ¡Tú puedes!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "💚¡Entendemos! Aprender algo nuevo requiere tiempo, paciencia y práctica. Puedes empezar pensando en una instrucción que le des muy seguido a tu adolescente. ¡Practícalo con la persona con la que compartes crianza! 🔄"
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "🎉 ¡Qué bien! Acuérdate de ELOGIAR a tu adolescente siempre que siga tus instrucciones. ¡Tú puedes!",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "💚¡Entendemos! Aprender algo nuevo requiere tiempo, paciencia y práctica. Puedes empezar pensando en una instrucción que le des muy seguido a tu adolescente. ¡Practícalo con la persona con la que compartes crianza! 🔄",
+      "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a tu adolescente.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

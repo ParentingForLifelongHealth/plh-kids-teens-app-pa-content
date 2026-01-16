@@ -47,17 +47,12 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "templates/PA article template generators.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/176AwCx-wWqkxNVZBRMV2gjjY5K3U3C8sK9JjTepzMwU"
+    "path": "templates/PA article template generators (31-45).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1jkvBCjY0QfYcjZ5d_KeDmI75JQh7vdMb3T9JZPNFMn0"
   },
   "_output_flows": [
     {
       "flow_name": "article_ks_s_violence_t_intro_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_ks_s_violence_t_explore_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -68,6 +63,11 @@
     },
     {
       "flow_name": "article_ks_s_violence_t_practical_tips_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_ks_s_violence_t_practical_tips_3",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

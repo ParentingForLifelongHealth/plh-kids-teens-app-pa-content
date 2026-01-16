@@ -10,7 +10,7 @@
       "media_asset": "audio/relax/relax_1.mp3",
       "media_type": "audio",
       "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transript": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "title": "Quick pause",
       "_translations": {
         "title": {}
@@ -25,31 +25,31 @@
       "completed": false
     },
     {
-      "id": "check_in_1",
+      "id": "check_in_7",
       "_translatedFields": {
         "text_1": {
-          "eng": "Take a moment to check in with yourself."
+          "eng": "Recuerda que TÚ importas. Empecemos por conectar con nuestras emociones."
         },
         "quiz_1_feedback_1": {
-          "eng": "Wonderful, I am so happy things are going well."
+          "eng": "Muy bien por reconocer una emoción positiva. Me alegra saber que hoy te sientes bien."
         },
         "quiz_1_feedback_2": {
-          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+          "eng": "Muy bien por reconocer que hoy no te sientes del todo bien. Sé amable contigo, te lo mereces."
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+          "eng": "Muy bien por reconocer una emoción difícil. Está bien no estar bien de vez en cuando. Recuerda que @global.app_name está aquí para apoyarte."
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "¿Cómo te sientes el día de hoy?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Feliz"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Bien"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Triste"
         }
       },
       "category_id": "check_in",
@@ -57,7 +57,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Take a moment to check in with yourself.",
+      "text_1": "Recuerda que TÚ importas. Empecemos por conectar con nuestras emociones.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -68,13 +68,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
-      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
-      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Muy bien por reconocer una emoción positiva. Me alegra saber que hoy te sientes bien.",
+      "quiz_1_feedback_2": "Muy bien por reconocer que hoy no te sientes del todo bien. Sé amable contigo, te lo mereces.",
+      "quiz_1_feedback_3": "Muy bien por reconocer una emoción difícil. Está bien no estar bien de vez en cuando. Recuerda que @global.app_name está aquí para apoyarte.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
       "completed": false
     },
     {
@@ -173,7 +173,7 @@
       "completed": false
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Aquí tienes una historieta sobre cómo puedes hablar con tu adolescente sobre las emociones durante su tiempo juntos y conectados."
@@ -194,7 +194,7 @@
       "completed": false
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "_translatedFields": {
         "character_1_text": {
           "eng": "{F1_HIJA_16}, he notado que hoy tienes menos energía y pareces triste. ¿Quieres hablarlo?"
@@ -217,7 +217,7 @@
       "completed": false
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "_translatedFields": {
         "text_2": {
           "eng": "{F1_PADRE} respira profundo para no reaccionar desde el enojo."
@@ -245,7 +245,7 @@
       "completed": false
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Sabes, puede que ahora te sientas triste y frustrada por no obtener una calificación más alta en matemáticas, pero nunca he conocido a nadie que estudie tanto como tú, {F1_HIJA_16}."
@@ -262,14 +262,14 @@
       "completed": false
     },
     {
-      "id": "explore_1",
+      "id": "practical_tips_1",
       "media_type": "video",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Da clic en reproducir ▶️ para aprender las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:\n1️⃣ APRENDER\n2️⃣ IDENTIFICAR\n3️⃣ ABRIR TU MENTE\n4️⃣ HABLAR\n5️⃣ COMPARTIR\n6️⃣ MOSTRAR INTERÉS"
         }
       },
-      "category_id": "explore",
+      "category_id": "practical_tips",
       "nested": false,
       "text_1_facilitator": "Da clic en reproducir ▶️ para aprender las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:\n1️⃣ APRENDER\n2️⃣ IDENTIFICAR\n3️⃣ ABRIR TU MENTE\n4️⃣ HABLAR\n5️⃣ COMPARTIR\n6️⃣ MOSTRAR INTERÉS",
       "_translations": {
@@ -279,7 +279,7 @@
       "completed": false
     },
     {
-      "id": "practical_tips_1",
+      "id": "practical_tips_2",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda las 6️⃣ estrategias para ayudar a {tu adolescente} a aprender a manejar sus emociones:"

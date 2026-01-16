@@ -1,0 +1,77 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "keep_positive_c_articles",
+  "data_list_name": "keep_positive_c_articles",
+  "status": "released",
+  "flow_subtype": "modules_keep_positive_c",
+  "module": "keep_positive_c",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "La lección de hoy trata sobre cómo ayudar a tu niña o niño a seguir instrucciones. 😃",
+      "text_2::eng": "Generalmente, las niñas, niños y adolescentes siguen las instrucciones la mitad de las veces. ⏰ Es natural que, a veces, las niñas, los niños y los adolescentes exploren los límites: forma parte de su crecimiento.  \n\nDar instrucciones efectivas y claras puede hacer que el ambiente sean más tranquilo y pacífico en casa. 🌱 ",
+      "quiz_1_question::eng": "¡Hagamos un ejercicio!\n\nEjercicio 1. \n\nNo importa si das una instrucción de manera positiva o negativa.",
+      "quiz_1_option_1_text::eng": "Verdadero",
+      "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n💙 Las niñas y los niños son más propensos a seguir instrucciones cuando se les dice lo que tienen que hacer en lugar de decir lo que no tienen que hacer. \n\nLas instrucciones negativas como \"¡No hagas eso!\" pueden hacer que las niñas y los niños se sientan confundidos (al igual que nosotros). 😣",
+      "quiz_1_option_2_text::eng": "Falso",
+      "quiz_1_feedback_2::eng": "🎉 ¡Buen trabajo!\n\n💙 Las niñas y los niños son más propensos a seguir instrucciones cuando se les dice lo que tienen que hacer en lugar de decir lo que no tienen que hacer. \n\nLas instrucciones negativas como \"¡No hagas eso!\" pueden hacer que las niñas y los niños se sientan confundidos (al igual que nosotros). 😣"
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "{F3_HIJA_7} está jugando en el piso con el celular.",
+      "image_asset": "images/character_icons/keeping_it_possitive_c_1",
+      "character_1_id": "F3_MADRE",
+      "character_1_text::eng": "Me alegra verte jugar tranquilamente con el celular mientras recojo la mesa después de cenar, {F3_HIJA_7}. En 3 minutos será la hora de acostarse y será momento de regresarme el teléfono.",
+      "character_2_id": "F3_HIJA_7",
+      "character_2_text::eng": "Está bien, mamá."
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "Después de 3 minutos.",
+      "image_asset": "images/character_icons/keeping_it_possitive_c_2",
+      "character_1_id": "F3_MADRE",
+      "character_1_text::eng": "Se acabaron los 3 minutos, {F3_HIJA_7}. Por favor, dame el celular.\n",
+      "character_2_id": "F3_HIJA_7",
+      "character_2_text::eng": "Está bien, mamá."
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/character_icons/keeping_it_possitive_c_3",
+      "character_1_id": "F3_MADRE",
+      "character_1_text::eng": "Muchas gracias por darme el celular en cuanto te lo pedí, {F3_HIJA_7}. Ahora tendremos tiempo de leer un cuento más.",
+      "character_2_text::eng": "¡Weeee!"
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/character_icons/keeping_it_possitive_c_4",
+      "character_1_id": "F3_MADRE",
+      "character_1_text::eng": "Había una vez…"
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "Da Clic en Reproducir ▶️ para aprender 3️⃣ estrategias sobre cómo ayudar a {tu niño} a seguir instrucciones con mayor frecuencia:\n\n1️⃣ **ESPECIFICAR LO QUE QUIERES**\n2️⃣ **SER REALISTA**\n3️⃣ **USAR PALABRAS AFIRMATIVAS**",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a {tu niño}.",
+      "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "🎉 ¡Qué bien! Acuérdate de elogiar a {tu niño} siempre que siga tus instrucciones. ¡Tú puedes!",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "💚¡Está bien! Aprender algo nuevo requiere tiempo, paciencia y práctica. Puedes empezar pensando en una instrucción que le des muy seguido a {tu niño}. ¡Practícalo primero con la persona con la que compartes la crianza o a solas en voz alta! 🔄"
+    }
+  ]
+}

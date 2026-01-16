@@ -1,0 +1,244 @@
+{
+  "flow_name": "fun_l_7to9_c_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_11",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "¡Tomarte un momento para TI hace una gran diferencia para todas y todos!"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Que bien que hoy esté siendo un buen día! ¿Puedes pensar en algo que ha salido bien hoy? Recuerda reconocerte por ello."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Cada día tiene cosas buenas y malas. Reconócete por todo lo que has hecho hasta ahora: eres increíble."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Lamento que hoy estés sintiendo emociones difíciles. Buen trabajo por reconocerlas y por intentar ser amable contigo. Estás dando un gran ejemplo a tu familia."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "¡Tomarte un momento para TI hace una gran diferencia para todas y todos!",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "¡Que bien que hoy esté siendo un buen día! ¿Puedes pensar en algo que ha salido bien hoy? Recuerda reconocerte por ello.",
+      "quiz_1_feedback_2": "Cada día tiene cosas buenas y malas. Reconócete por todo lo que has hecho hasta ahora: eres increíble.",
+      "quiz_1_feedback_3": "Lamento que hoy estés sintiendo emociones difíciles. Buen trabajo por reconocerlas y por intentar ser amable contigo. Estás dando un gran ejemplo a tu familia.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Esta lección trata sobre cómo ayudar a {tu niño} a disfrutar de su aprendizaje para que sea algo que le guste y le divierta. 😃"
+        },
+        "text_2": {
+          "eng": "Tú desempeñas un papel importante en cómo {tu niño} aprende y se desarrolla dentro y fuera de la escuela."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Esta lección trata sobre cómo ayudar a {tu niño} a disfrutar de su aprendizaje para que sea algo que le guste y le divierta. 😃",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "text_2": "Tú desempeñas un papel importante en cómo {tu niño} aprende y se desarrolla dentro y fuera de la escuela.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Aquí tienes una historieta que trata sobre cómo divertirte con tu niña, niño o adolescente mientras aprenden"
+        },
+        "character_1_text": {
+          "eng": "{F3_HIJA_7}, ¿qué pasa?"
+        },
+        "character_2_text": {
+          "eng": "Ya no quiero hacer la tarea. ¡Odio la escuela!"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Aquí tienes una historieta que trata sobre cómo divertirte con tu niña, niño o adolescente mientras aprenden",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/fun_learning_7to9_yc_1",
+      "character_1_id": "F3_MADRE",
+      "character_2_id": "F3_HIJA_7",
+      "character_1_text": "{F3_HIJA_7}, ¿qué pasa?",
+      "character_2_text": "Ya no quiero hacer la tarea. ¡Odio la escuela!",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Entiendo que hacer la tarea puede ser muy estresante. Tómate un descanso y ¡vamos a bailar tantito! ¡Esto siempre me ayudaba a sentirme con energía y preparada para hacer y terminar lo que tenía que pendiente!"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/fun_learning_7to9_yc_2",
+      "character_1_id": "F3_MADRE",
+      "character_1_text": "Entiendo que hacer la tarea puede ser muy estresante. Tómate un descanso y ¡vamos a bailar tantito! ¡Esto siempre me ayudaba a sentirme con energía y preparada para hacer y terminar lo que tenía que pendiente!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "🎵 Suena la Música 🎵"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "🎵 Suena la Música 🎵",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/fun_learning_7to9_yc_3",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Bien… ¿Lista? Ahora que tenemos algo de energía vamos a intentarlo de nuevo. ¿Qué es lo que te está molestando de la escuela?"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/fun_learning_7to9_yc_4",
+      "character_1_id": "F3_MADRE",
+      "character_1_text": "Bien… ¿Lista? Ahora que tenemos algo de energía vamos a intentarlo de nuevo. ¿Qué es lo que te está molestando de la escuela?",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "¡Da Clic en Reproducir ▶️ para ver cómo apoyar a {tu niño} para que disfrute de su aprendizaje!\n\n1️⃣ **JUGAR**\n2️⃣ **UTILIZAR PALABRAS AFIRMATIVAS**\n3️⃣ **PERMITIR LA CREATIVIDAD**"
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "¡Da Clic en Reproducir ▶️ para ver cómo apoyar a {tu niño} para que disfrute de su aprendizaje!\n\n1️⃣ **JUGAR**\n2️⃣ **UTILIZAR PALABRAS AFIRMATIVAS**\n3️⃣ **PERMITIR LA CREATIVIDAD**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\nInvita a {tu niño} a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar algo, o salir a correr cerca de su casa. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando."
+        },
+        "quiz_1_question": {
+          "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Excelente! Usa las estrategias que has aprendido hoy y ¡diviértete! Sentir alegría y felicidad durante el aprendizaje con {tu niño} es una forma estupenda de motivarle para seguir aprendiendo. 💙"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana."
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "¡Excelente! Usa las estrategias que has aprendido hoy y ¡diviértete! Sentir alegría y felicidad durante el aprendizaje con {tu niño} es una forma estupenda de motivarle para seguir aprendiendo. 💙",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana.",
+      "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nInvita a {tu niño} a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar algo, o salir a correr cerca de su casa. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

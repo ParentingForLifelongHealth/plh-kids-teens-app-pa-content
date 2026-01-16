@@ -1,14 +1,14 @@
 {
   "flow_type": "generator",
-  "flow_name": "rules_t_article_gen",
+  "flow_name": "Rules_t_article_gen",
   "status": "released",
   "parameter_list": {
-    "input_data_list": "rules_t_articles",
-    "output_flow_name": "article_rules_t_@gen.id",
+    "input_data_list": "Rules_t_articles",
+    "output_flow_name": "article_Rules_t_@gen.id",
     "output_flow_type": "template",
     "output_flow_subtype": "generated"
   },
-  "module_id": "rules_t",
+  "module_id": "Rules_t",
   "rows": [
     {
       "type": "template",
@@ -39,7 +39,7 @@
         },
         {
           "name": "module_id",
-          "value": "rules_t",
+          "value": "Rules_t",
           "exclude_from_translation": true
         }
       ]
@@ -47,102 +47,52 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "templates/PA article template generators.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/176AwCx-wWqkxNVZBRMV2gjjY5K3U3C8sK9JjTepzMwU"
+    "path": "templates/PA article template generators (31-45).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1jkvBCjY0QfYcjZ5d_KeDmI75JQh7vdMb3T9JZPNFMn0"
   },
   "_output_flows": [
     {
-      "flow_name": "article_rules_t_intro_1",
+      "flow_name": "article_Rules_t_intro_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_rules_t_intro_2",
+      "flow_name": "article_Rules_t_explore_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_rules_t_explore_1",
+      "flow_name": "article_Rules_t_explore_2",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_rules_t_explore_2",
+      "flow_name": "article_Rules_t_explore_3",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_rules_t_explore_3",
+      "flow_name": "article_Rules_t_explore_4",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_rules_t_explore_4",
+      "flow_name": "article_Rules_t_explore_5",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_rules_t_explore_5",
+      "flow_name": "article_Rules_t_explore_6",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_rules_t_explore_6",
+      "flow_name": "article_Rules_t_practical_tips_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_rules_t_explore_7",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_rules_t_explore_8",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_rules_t_tips_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_rules_t_explore_9",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_rules_t_explore_10",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_rules_t_explore_11",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_rules_t_explore_12",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_rules_t_explore_13",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_rules_t_practise",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_rules_t_home_activity_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_rules_t_teen_test_1",
+      "flow_name": "article_Rules_t_practise_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

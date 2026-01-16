@@ -96,8 +96,8 @@
       "quiz_2_feedback_3": "👀 ¡Ups! ¡Buen intento!\n\nLa respuesta es: \"El docente abusa de su poder y está presionando a la adolescente.\"\n\n🚩 El tutor está abusando de su poder y sabe que lo que hace está mal. Probablemente ya lo ha hecho antes y lo volverá a hacer, así que {F2_HIJA_17} debe contárselo a una persona adulta de confianza."
     },
     {
-      "id": "explore_1",
-      "category_id": "explore",
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
       "media_type": "video",
       "youtube_gb_en": "youtube link",
       "nested": false,
@@ -112,7 +112,7 @@
       }
     },
     {
-      "id": "practical_tips_1",
+      "id": "practical_tips_2",
       "category_id": "practical_tips",
       "section_1_icon_asset": "https://drive.google.com/file/d/1yuMaNGzZNRXTUkoIoYGxcyps__hKv0KX/view?usp=drive_link",
       "section_2_icon_asset": "https://drive.google.com/file/d/1JYdcbkVuoMB64KZFOtWUd01yErpe19ac/view?usp=drive_link",
@@ -159,7 +159,7 @@
       "section_3_text": "💡 Dile a {tu adolescente} que su voz tiene el poder de detener las amenazas y las agresiones. Que grite \"¡No!\", pida ayuda, comunique las consecuencias, nombre el comportamiento, genere una situación que llame la atención, finja que sigue la corriente para ganar tiempo o que busque tranquilizar la situación.\n\n⭐ Dile a {tu adolescente} que se dirija con claridad, seguridad y sin rodeos.\n\n👀 Puede comunicarse usando su voz, el lenguaje corporal y manteniendo contacto visual mientras habla.\n\n✅ Dile a {tu adolescente} que siempre puede contarte a ti o a una persona adulta en quien confíe lo ocurrido para que puedan apoyarle.\n\nRecuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con tu niña, niño o adolescente, puedes hacer click en la palabra AYUDA para recibir una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo."
     },
     {
-      "id": "practical_tips_2",
+      "id": "practical_tips_3",
       "category_id": "practical_tips",
       "nested": false,
       "text_1_facilitator": "Si alguien le llega a hacer daño a {tu adolescente}, recuerda que nunca es su culpa. Pídele ayuda a alguien en quien confíes, y asegúrate de que {tu adolescente} sepa que puede contarte cualquier cosa para que puedan encontrar una solución en conjunto.\n\n📱 Recuerda que puedes escribir \"AYUDA\" para recibir recursos que te pueden acompañar durante el proceso y ofrecerte apoyo.",
@@ -214,8 +214,8 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
+    "path": "data/PA modules - problem (31 - 45).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1q27LnkUFTJQqEbqkgh1hgN4sDQkfasSo29b5SAP4ktg"
   },
   "_metadata": {
     "nested": {

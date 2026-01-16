@@ -1,0 +1,191 @@
+{
+  "flow_name": "school_3to9_c_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_10",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Ser una gran madre, padre o persona cuidadora también implica dedicar tiempo para ti. Comienza por reconocer cómo te sientes."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Que gusto saber que hoy te sientes bien. ¡Eres increíble!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Hay días en los que simplemente no sabemos qué hacer, y eso está bien. Estás aquí, y eso es lo que importa."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "La crianza puede ser desafiante. Pero estar aquí muestra que quieres seguir mejorando, y eso ya es un gran logro."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Ser una gran madre, padre o persona cuidadora también implica dedicar tiempo para ti. Comienza por reconocer cómo te sientes.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Que gusto saber que hoy te sientes bien. ¡Eres increíble!",
+      "quiz_1_feedback_2": "Hay días en los que simplemente no sabemos qué hacer, y eso está bien. Estás aquí, y eso es lo que importa.",
+      "quiz_1_feedback_3": "La crianza puede ser desafiante. Pero estar aquí muestra que quieres seguir mejorando, y eso ya es un gran logro.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Esta lección trata sobre construir una relación con la escuela de {tu niño} y con sus maestras y maestros. 📖✨"
+        },
+        "text_2": {
+          "eng": "Conversar con las maestras y los maestros de {tu niño} te ayudará a saber lo que {tu niño} hace en la escuela. ⭐\n\n¡También sabrás qué tipo de cosas puedes hacer en casa con {tu niño} para facilitar su aprendizaje y qué cosas puedes hacer tú para apoyar a {tu niño}! 🎓"
+        },
+        "quiz_1_question": {
+          "eng": "📝 Hagamos un ejercicio. Ejercicio 1 \n\nSaber lo que {tu niño} hace en la escuela no le ayudará a aprender."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n🎉 Estás en lo correcto.\n\n💡 Si tienes una idea de lo que {tu niño} está aprendiendo en la escuela, ¡podrás apoyarle a repasarlo y practicarlo en casa!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 Estás en lo correcto.\n\n💡 Si tienes una idea de lo que {tu niño} está aprendiendo en la escuela, ¡podrás apoyarle a repasarlo y practicarlo en casa!"
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🎉 Estás en lo correcto.\n\n💡 Si tienes una idea de lo que {tu niño} está aprendiendo en la escuela, ¡podrás apoyarle a repasarlo y practicarlo en casa!",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "quiz_1_feedback_2": "🎉 Estás en lo correcto.\n\n💡 Si tienes una idea de lo que {tu niño} está aprendiendo en la escuela, ¡podrás apoyarle a repasarlo y practicarlo en casa!",
+      "quiz_1_question": "📝 Hagamos un ejercicio. Ejercicio 1 \n\nSaber lo que {tu niño} hace en la escuela no le ayudará a aprender.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_option_2_text": "Falso",
+      "text_1_facilitator": "Esta lección trata sobre construir una relación con la escuela de {tu niño} y con sus maestras y maestros. 📖✨",
+      "text_2": "Conversar con las maestras y los maestros de {tu niño} te ayudará a saber lo que {tu niño} hace en la escuela. ⭐\n\n¡También sabrás qué tipo de cosas puedes hacer en casa con {tu niño} para facilitar su aprendizaje y qué cosas puedes hacer tú para apoyar a {tu niño}! 🎓",
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en Reproducir ▶️ para aprender cuatro estrategias para involucrarte con la escuela de {tu niño} y con lo que está aprendiendo:\n\n1️⃣ **CONECTAR**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **PRACTICAR**\n4️⃣ **PROMOVER EL INVOLUCRAMIENTO**"
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender cuatro estrategias para involucrarte con la escuela de {tu niño} y con lo que está aprendiendo:\n\n1️⃣ **CONECTAR**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **PRACTICAR**\n4️⃣ **PROMOVER EL INVOLUCRAMIENTO**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\n*_Habla con {tu niño} sobre lo que están aprendiendo en la escuela en este momento._*"
+        },
+        "quiz_1_question": {
+          "eng": "¿Pueden practicarlo en casa hoy? ⭐"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Excelente! ¡Intenten practicar en casa lo que ya ha aprendido en la escuela! 😃"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Entendemos. No siempre disponemos del tiempo adecuado para Conversar de la escuela. La próxima vez, pregúntale sobre su día en la escuela, ¡aunque solo platiquen un par de minutos durante el día o durante la comida! 😃"
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "¡Excelente! ¡Intenten practicar en casa lo que ya ha aprendido en la escuela! 😃",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "Entendemos. No siempre disponemos del tiempo adecuado para Conversar de la escuela. La próxima vez, pregúntale sobre su día en la escuela, ¡aunque solo platiquen un par de minutos durante el día o durante la comida! 😃",
+      "quiz_1_question": "¿Pueden practicarlo en casa hoy? ⭐",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\n*_Habla con {tu niño} sobre lo que están aprendiendo en la escuela en este momento._*",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

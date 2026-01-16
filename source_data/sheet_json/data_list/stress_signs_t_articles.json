@@ -1,0 +1,48 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "stress_signs_t_articles",
+  "data_list_name": "stress_signs_t_articles",
+  "status": "released",
+  "flow_subtype": "modules_stress_signs_t",
+  "module": "stress_signs_t",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Esta lección consiste en conocer las señales de alerta que indican que tu adolescente puede necesitar apoyo en su salud mental. 🔴",
+      "text_2::eng": "Puede que {tu adolescente} necesite apoyo para lograr balancear su bienestar mental y su felicidad. La tristeza es una emoción normal que aparece ante situaciones difíciles y suele desaparecer con el tiempo. En cambio, la depresión es más intensa, dura más de dos semanas y afecta el día a día del adolescente, como su sueño, apetito o ganas de hacer cualquier actividad. \n\nEs importante identificar en qué situaciones necesita ayuda y qué tipo de apoyo puede recibir.",
+      "quiz_1_question::eng": "Pongamos a prueba tus conocimientos con un pequeño ejercicio:\n\n¿Cuál de las siguientes NO es una señal de alerta?",
+      "quiz_1_option_1_text::eng": "Cambios en el sueño",
+      "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\nCambios en los hábitos de sueño, la pérdida de interés por sus pasatiempos favoritos, sentirse triste o inútil y empezar a mostrar muchas preocupaciones son señales de alerta. Es normal que las y los adolescentes reaccionen emocionalmente ante las noticias o los cambios de rutinas.",
+      "quiz_1_option_2_text::eng": "Pérdida de interés por sus pasatiempos favoritos",
+      "quiz_1_feedback_2::eng": "👀 ¡Ups! ¡Buen intento!\n\nCambios en los hábitos de sueño, la pérdida de interés por sus pasatiempos favoritos, sentirse triste o inútil y empezar a mostrar muchas preocupaciones son señales de alerta. Es normal que las y los adolescentes reaccionen emocionalmente ante las noticias o los cambios de rutinas.",
+      "quiz_1_option_3_text::eng": "Sentir un vacío, mucha tristeza o sentirse incapaz",
+      "quiz_1_feedback_3::eng": "👀 ¡Ups! ¡Buen intento!\n\nCambios en los hábitos de sueño, la pérdida de interés por sus pasatiempos favoritos, sentirse triste o inútil y empezar a mostrar muchas preocupaciones son señales de alerta. Es normal que las y los adolescentes reaccionen emocionalmente ante las noticias o los cambios de rutinas.",
+      "quiz_1_option_4_text::eng": "Reaccionar con mucho sentimiento ante noticias o cambios de horario",
+      "quiz_1_feedback_4::eng": "🎉 ¡Buen trabajo!\n\nEs normal que las y los adolescentes tengan reacciones emocionales ante muchas situaciones.",
+      "quiz_1_option_5_text::eng": "Mucha preocupación",
+      "quiz_1_feedback_5::eng": "👀 ¡Ups! ¡Buen intento!\n\nCambios en los hábitos de sueño, la pérdida de interés por sus pasatiempos favoritos, sentirse triste o inútil y empezar a mostrar muchas preocupaciones son señales de alerta. Es normal que las y los adolescentes reaccionen emocionalmente ante las noticias o los cambios de rutinas."
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "Da Clic en Reproducir ▶️ para aprender sobre cómo conocer las señales de alerta.",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_Actividad para casa_*⭐   \n\nInvestiga sobre las distintas redes de apoyo en tu comunidad (iglesias, centros de salud, organizaciones sociales, líderes comunitarios, entre otros) Luego, tómate el tiempo para conversar con {tu adolescente} sobre las distintas redes que ha investigado y compártele cómo es que esto podrían serle útil. Puedes involucrar a otros miembros de la familia en la conversación también.  ",
+      "quiz_1_question::eng": "¿Puedes hacer una lista de redes de apoyo con tu adolescente hoy? 😃",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "¡Estupendo! Esto te ayudará a ti y a tu adolescente a prepararse para cuando alguien de ustedes necesiten apoyo adicional.  \n\n💚 ¡Bien hecho por pensar en el futuro! 🏆",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "Estas conversaciones son difíciles, sin embargo, es importante que tu adolescente sepa a dónde ir para pedir ayuda. Puedes usar el Menú Principal para volver a revisar esta estrategia y obtener ideas que les ayuden. 💚"
+    }
+  ]
+}

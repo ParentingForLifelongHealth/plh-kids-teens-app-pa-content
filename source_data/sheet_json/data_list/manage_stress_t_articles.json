@@ -1,0 +1,89 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "manage_stress_t_articles",
+  "data_list_name": "manage_stress_t_articles",
+  "status": "released",
+  "flow_subtype": "modules_manage_stress_t",
+  "module": "manage_stress_t",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Esta lección trata sobre aprender a regular el estrés. Como se trata de una habilidad tan importante para la vida, esta lección se dividirá en dos partes.\n\nEl estrés es cuando sientes preocupación o tensión porque las cosas pueden llegar a ser difíciles.",
+      "text_2::eng": "Es normal sentir estrés como madre, padre o persona cuidadora. Pero a veces, el estrés puede llegar a ser demasiado para nuestro cuerpo.\n\nPuede sentirse como que tienes la mente a tope como para hacer cosas y que vas a llorar, a gritar o a estar en un estado tan extremo de cansancio que no podrás funcionar.\n\nAprender a manejar el estrés y pedir ayuda cuando sea necesario te puede ayudar mucho.",
+      "quiz_1_question::eng": "📝 Hagamos un ejercicio para ver qué tanto sabes sobre el estrés.\n\nEjercicio 1: ¿Verdadero o falso? \n\nEl exceso de estrés puede tener un impacto negativo en nuestras relaciones con otras personas, incluidas nuestras niñas, niños y adolescentes.",
+      "quiz_1_option_1_text::eng": "Verdadero",
+      "quiz_1_feedback_1::eng": "🎉 ¡Tienes razón!\n\nEl exceso de estrés puede aumentar las agresiones y el malhumor, además de disminuir la paciencia con tu adolescente.\n\nTambién, puede hacer que parezca más difícil hacer las cosas sencillas de la vida cotidiana.  \n\nPero tener conocimiento sobre estas cosas nos ayuda a encontrar mejores formas de regular el estrés.",
+      "quiz_1_option_2_text::eng": "Falso",
+      "quiz_1_feedback_2::eng": "👀 ¡Ups! ¡Buen intento!\n\nEl exceso de estrés puede aumentar las agresiones y el malhumor, además de disminuir la paciencia con tu adolescente.\n\nTambién, puede hacer que parezca más difícil hacer las cosas sencillas de la vida cotidiana.  \n\nPero tener conocimiento sobre estas cosas nos ayuda a encontrar mejores formas de regular el estrés.",
+      "quiz_2_question::eng": "Hagamos uno más. \n\nEjercicio 2: ¿Verdadero o falso?\n\nSi ignoramos nuestro estrés, desaparecerá con el tiempo.",
+      "quiz_2_option_1_text::eng": "Verdadero",
+      "quiz_2_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n🎓 Cuando sientas estrés, tómalo como una señal de tu cuerpo que te indica que necesitas cuidarte.\n\nEs importante que le pongas atención a tus pensamientos y a cómo se siente tu cuerpo para que puedas responder mejor",
+      "quiz_2_option_2_text::eng": "Falso",
+      "quiz_2_feedback_2::eng": "🎉 ¡Buen trabajo!\n\n🎓 Cuando sientas estrés, tómalo como una señal de tu cuerpo que te indica que necesitas cuidarte o de que necesitas más apoyo.\n\nEs importante que le pongas atención a tus pensamientos y a cómo se siente tu cuerpo para que puedas responder mejor",
+      "quiz_3_question::eng": "Hagamos un último ejercicio. \n\nEjercicio 3: ¿Verdadero o falso?\n\nCuando tienes mucho que hacer y sientes estrés, es mejor seguir adelante y no tomarte descansos.",
+      "quiz_3_option_1_text::eng": "Verdadero",
+      "quiz_3_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\nIgnorar el sentirte estresado solo aumenta el malestar como dolores de cabeza, malhumor y otros. Recuerda que el estrés es normal, pero debes prestarle atención para regularlo.",
+      "quiz_3_option_2_text::eng": "Falso",
+      "quiz_3_feedback_2::eng": "🎉 ¡Buen trabajo!\n\nIgnorar el sentirte estresado solo aumenta el malestar como dolores de cabeza, malhumor y otros. Recuerda que el estrés es normal, pero debes prestarle atención para regularlo."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "{F2_ABUELA} es la única cuidadora de sus cuatro nietos. Tantas cosas que hacer en la casa, envejecer y el hecho de tener poco dinero hacen que se sienta abrumada y sin apoyo. También le resulta difícil estar presente. Veamos cómo le responde a {F2_HIJA_17} que está triste por una pelea que tuvo con su amiga en la escuela...",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/manage_stress_teen_1",
+      "character_1_id": "F2_ABUELA",
+      "character_1_text::eng": "¿Qué pasa, {F2_HIJA_17}? ¿Estás bien?",
+      "character_2_id": "F2_HIJA_17",
+      "character_2_text::eng": "Hoy me peleé con María en la escuela. Fue una estupidez, pero le dije algunas cosas que desearía no haberle dicho.",
+      "character_3_id": "F2_ABUELA",
+      "character_3_text::eng": "(Frustrada, pensando) ¡Ash! ¡Estoy muy cansada e irritada! Hay demasiadas cosas que hacer hoy. Pagos, la limpieza de la casa, ¡y ahora esto!"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/manage_stress_teen_2",
+      "character_1_id": "F2_ABUELA",
+      "character_1_text::eng": "(Respira profundamente y piensa): Voy a tomar una pausa. Estoy haciendo lo mejor que puedo. Mi nieta necesita de mi ayuda. Puedo hacerlo."
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/manage_stress_teen_3",
+      "character_1_id": "F2_ABUELA",
+      "character_1_text::eng": "Lamento escuchar esto, {F2_HIJA_17}. María es una buena amiga. Estoy segura de que no quisiste decirle nada de lo que le dijiste. Todos nos desesperamos y decimos cosas que no queremos a veces. ¿Quieres hablar sobre eso?",
+      "character_2_id": "F2_HIJA_17",
+      "character_2_text::eng": "Gracias, abuela. Es que es algo que me pone muy triste."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/manage_stress_teen_4",
+      "character_1_id": "F2_ABUELA",
+      "character_1_text::eng": "{F2_HIJA_17}, ¿qué te parece si platicamos un ratito con una limonada fría? Podemos disfrutarla un rato y luego conversar de cómo podemos resolver este problema juntas.",
+      "character_2_id": "F2_HIJA_17",
+      "character_2_text::eng": "Claro, abuela. Me gusta esa idea."
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "Da Clic aquí ▶️ para aprender 4️⃣ estrategias que puedes usar para regular el estrés:\n1️⃣ **IDENTIFICAR**\n2️⃣ **SER AMABLE**\n3️⃣ **TENER HÁBITOS SALUDABLES**\n4️⃣ **RECARGAR PILAS**",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nComparte estas estrategias con tu adolescente y comenten cómo puede usarlas para ayudarle a manejar su estrés.",
+      "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "¡Excelente! 💙 Estás desarrollando las habilidades necesarias para volverte a llenar de energía y apoyar a tu adolescente, especialmente cuando las cosas se ponen difíciles.. \n\n¡Lo estás haciendo muy bien! 😃🔄",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "💚 ¡No pasa nada si hoy no tienes tiempo! Puedes compartir estas estrategias con tu adolescente mañana. Recuerda \"Tomar una pausa\" y seguir estas estrategias si te encuentras en una situación que te genere estrés."
+    }
+  ]
+}

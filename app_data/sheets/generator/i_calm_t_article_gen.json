@@ -9,6 +9,7 @@
     "output_flow_subtype": "generated"
   },
   "module_id": "i_calm_t",
+  "__EMPTY_3": "i_routines_t_article_gen",
   "rows": [
     {
       "type": "template",
@@ -47,37 +48,12 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "templates/PA article template generators.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/176AwCx-wWqkxNVZBRMV2gjjY5K3U3C8sK9JjTepzMwU"
+    "path": "templates/PA article template generators (1-15).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1gR-hcVlM03jb8Y0-6rmOI2gEdRK6ihMiGLv9apCNPCU"
   },
   "_output_flows": [
     {
       "flow_name": "article_i_calm_t_intro_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_i_calm_t_comic_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_i_calm_t_comic_2",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_i_calm_t_comic_3",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_i_calm_t_comic_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_i_calm_t_comic_5",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -87,7 +63,32 @@
       "flow_type": "template"
     },
     {
+      "flow_name": "article_i_calm_t_explore_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_calm_t_explore_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_calm_t_explore_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_calm_t_explore_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
       "flow_name": "article_i_calm_t_practical_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_i_calm_t_practical_tips_2",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

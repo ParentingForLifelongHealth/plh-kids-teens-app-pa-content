@@ -1,0 +1,273 @@
+{
+  "flow_name": "Make_plan_c_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_13",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Toma primero un momento para ti."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Que gusto saber que hoy te sientes con ánimo positivo. Haces una gran diferencia para tu familia."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "La vida tiene momentos buenos y momentos difíciles, y está bien. Vas por buen camino."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Es normal tener días difíciles en la crianza. Respira profundo y recuerda que no estás sola/o."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Toma primero un momento para ti.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Que gusto saber que hoy te sientes con ánimo positivo. Haces una gran diferencia para tu familia.",
+      "quiz_1_feedback_2": "La vida tiene momentos buenos y momentos difíciles, y está bien. Vas por buen camino.",
+      "quiz_1_feedback_3": "Es normal tener días difíciles en la crianza. Respira profundo y recuerda que no estás sola/o.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Es común que las madres, padres y personas cuidadoras sientan estrés o que no pueden con más cuando tienen tanto que hacer todos los días.\n\nEn esta lección, seguirás aprendiendo formas de regular el estrés al hacer un plan por adelantado."
+        },
+        "text_2": {
+          "eng": "Crear un plan para cuando estés en una situación que te genera estrés puede ayudarte a planificar y gestionar las situaciones estresantes cuando se produzcan."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Es común que las madres, padres y personas cuidadoras sientan estrés o que no pueden con más cuando tienen tanto que hacer todos los días.\n\nEn esta lección, seguirás aprendiendo formas de regular el estrés al hacer un plan por adelantado.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "text_2": "Crear un plan para cuando estés en una situación que te genera estrés puede ayudarte a planificar y gestionar las situaciones estresantes cuando se produzcan.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "{F1_PADRE} se siente estresado por todas las cosas que tiene que hacer. Veamos cómo {F1_PADRE} crea un plan:"
+        },
+        "character_1_text": {
+          "eng": "(Pensando): ¡Tengo demasiadas cosas que hacer! {F1_HIJO_5} está enfermo y {F1_HIJA_13} necesita ayuda en su proyecto para la escuela. ¡¿Cómo le voy a hacer?!"
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "text_1_facilitator": "{F1_PADRE} se siente estresado por todas las cosas que tiene que hacer. Veamos cómo {F1_PADRE} crea un plan:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
+      },
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/make_plan_c_1",
+      "character_1_id": "F1_PADRE",
+      "character_1_text": "(Pensando): ¡Tengo demasiadas cosas que hacer! {F1_HIJO_5} está enfermo y {F1_HIJA_13} necesita ayuda en su proyecto para la escuela. ¡¿Cómo le voy a hacer?!",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "(pensando): Primero haré una pausa y voy a respirar profundo."
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/make_plan_c_2",
+      "character_1_id": "F1_PADRE",
+      "character_1_text": "(pensando): Primero haré una pausa y voy a respirar profundo.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Bien, voy a escribir todo lo que tengo que hacer. Tengo que comprar la medicina de {F1_HIJO_5}. Tengo que pagar los recibos y las cuentas que llegaron. También me falta limpiar la casa y ayudar a {F1_HIJA_13} con su proyecto. Además, le tengo que avisar a la maestra de {F1_HIJO_5} que mañana no irá a clases."
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/make_plan_c_3",
+      "character_1_id": "F1_PADRE",
+      "character_1_text": "Bien, voy a escribir todo lo que tengo que hacer. Tengo que comprar la medicina de {F1_HIJO_5}. Tengo que pagar los recibos y las cuentas que llegaron. También me falta limpiar la casa y ayudar a {F1_HIJA_13} con su proyecto. Además, le tengo que avisar a la maestra de {F1_HIJO_5} que mañana no irá a clases.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Mmm... es demasiado lo que me falta por hacer. ¿Qué es lo más importante de todo esto? Ayudar a mi niña y a mi niño es lo más importante. Los recibos no vencen hasta finales de esta semana y puedo limpiar otro día."
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/make_plan_c_4",
+      "character_1_id": "F1_PADRE",
+      "character_1_text": "Mmm... es demasiado lo que me falta por hacer. ¿Qué es lo más importante de todo esto? Ayudar a mi niña y a mi niño es lo más importante. Los recibos no vencen hasta finales de esta semana y puedo limpiar otro día.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Fuera de esto, tengo que asegurarme de que {F1_HIJO_5} reciba la atención que necesita, así que eso es lo primero que haré. Una vez que termine, buscaré a {F1_HIJA_13} para ver en qué la puedo ayudar."
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/make_plan_c_5",
+      "character_1_id": "F1_PADRE",
+      "character_1_text": "Fuera de esto, tengo que asegurarme de que {F1_HIJO_5} reciba la atención que necesita, así que eso es lo primero que haré. Una vez que termine, buscaré a {F1_HIJA_13} para ver en qué la puedo ayudar.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_6",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Limpiaré lo que pueda de la cocina en 10 minutos para estar relajado mientras hago la comida, pero dejaré lo que no alcance a  limpiar para otro día. ¡Anotaré lo de los pagos para hacerlos mañana por la tarde para que no se me olvide! Un paso a la vez, ¡yo puedo!"
+        }
+      },
+      "category_id": "Explore",
+      "nested": false,
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/make_plan_c_6",
+      "character_1_id": "F1_PADRE",
+      "character_1_text": "Limpiaré lo que pueda de la cocina en 10 minutos para estar relajado mientras hago la comida, pero dejaré lo que no alcance a  limpiar para otro día. ¡Anotaré lo de los pagos para hacerlos mañana por la tarde para que no se me olvide! Un paso a la vez, ¡yo puedo!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic aquí ▶️ para aprender 5️⃣ estrategias que te ayudarán a elaborar un plan cuando estés en situaciones que te generen estrés porque tienes demasiadas cosas que hacer:\n\n1️⃣ **ESCRIBIR O DIBUJAR**\n2️⃣ **DECIDIR**\n3️⃣ **PRIORIZAR Y CLASIFICAR**\n4️⃣ **DIVIDIR**\n5️⃣ **TOMARLO UN PASO A LA VEZ**"
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "Da Clic aquí ▶️ para aprender 5️⃣ estrategias que te ayudarán a elaborar un plan cuando estés en situaciones que te generen estrés porque tienes demasiadas cosas que hacer:\n\n1️⃣ **ESCRIBIR O DIBUJAR**\n2️⃣ **DECIDIR**\n3️⃣ **PRIORIZAR Y CLASIFICAR**\n4️⃣ **DIVIDIR**\n5️⃣ **TOMARLO UN PASO A LA VEZ**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\n! Usa estas estrategias para crear un plan que te ayude a hacer todas las cosas que tienes que hacer hoy o en la semana."
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes hacerlo hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Excelente! 💙\n\n*_Puedes ayudar a controlar tu estrés al hacer una lista de todas las cosas que tienes que hacer, identificando lo que es más importante y lo que puede esperar, y dividiéndolo en pasos más pequeños y fáciles de lograr._*\n\nRecuerda tomar una pausa o pedir apoyo siempre que lo necesites. Escribe {PAUSAR} siempre que quieras tomar una pausa guiada."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡Está bien, no pasa nada! Puedes intentarlo mañana."
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "¡Excelente! 💙\n\n*_Puedes ayudar a controlar tu estrés al hacer una lista de todas las cosas que tienes que hacer, identificando lo que es más importante y lo que puede esperar, y dividiéndolo en pasos más pequeños y fáciles de lograr._*\n\nRecuerda tomar una pausa o pedir apoyo siempre que lo necesites. Escribe {PAUSAR} siempre que quieras tomar una pausa guiada.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "¡Está bien, no pasa nada! Puedes intentarlo mañana.",
+      "quiz_1_question": "¿Puedes hacerlo hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\n! Usa estas estrategias para crear un plan que te ayude a hacer todas las cosas que tienes que hacer hoy o en la semana.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

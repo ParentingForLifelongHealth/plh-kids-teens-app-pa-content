@@ -1,0 +1,206 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "solve_problem_t_articles",
+  "data_list_name": "solve_problem_t_articles",
+  "status": "released",
+  "flow_subtype": "modules_solve_problem_t",
+  "module": "solve_problem_t",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Esta lección trata sobre aprender a resolver problemas con {tu adolescente}. 👂",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Esta lección trata sobre aprender a resolver problemas con {tu adolescente}. 👂"
+        },
+        "text_2": {
+          "eng": "A medida que las y los adolescentes crecen, realizan más actividades por su cuenta y a veces no cumplen las reglas que se establecen para mantenerles a salvo. 🚗 Esto puede ocasionar conflictos en casa. Aprender a resolver estos problemas puede ayudar a mejorar el comportamiento de tu adolescente."
+        }
+      },
+      "text_2": "A medida que las y los adolescentes crecen, realizan más actividades por su cuenta y a veces no cumplen las reglas que se establecen para mantenerles a salvo. 🚗 Esto puede ocasionar conflictos en casa. Aprender a resolver estos problemas puede ayudar a mejorar el comportamiento de tu adolescente."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/solve_problems_teen_1.svg",
+      "character_1_id": "F1_MADRE",
+      "character_2_id": "F1_HIJA_13",
+      "character_3_id": "F1_MADRE",
+      "nested": false,
+      "character_1_text": "Vamos, {F1_HIJA_13}, es hora de prepararnos para ir a dormir.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Vamos, {F1_HIJA_13}, es hora de prepararnos para ir a dormir."
+        },
+        "character_2_text": {
+          "eng": "¡Pero todavía me falta mucha tarea que hacer!"
+        },
+        "character_3_text": {
+          "eng": "Mm, es la tercera noche consecutiva que no te acuestas a tiempo por culpa de la tarea."
+        }
+      },
+      "character_2_text": "¡Pero todavía me falta mucha tarea que hacer!",
+      "character_3_text": "Mm, es la tercera noche consecutiva que no te acuestas a tiempo por culpa de la tarea."
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/solve_problems_teen_2.svg",
+      "character_1_id": "F1_MADRE",
+      "character_2_id": "F1_HIJA_13",
+      "character_3_id": "F1_MADRE",
+      "character_4_id": "F1_HIJA_13",
+      "nested": false,
+      "character_1_text": "¿Cómo podemos asegurarnos de que hagas todo lo que tengas que hacer y aún así te acuestes a tiempo?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {},
+        "character_4_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¿Cómo podemos asegurarnos de que hagas todo lo que tengas que hacer y aún así te acuestes a tiempo?"
+        },
+        "character_2_text": {
+          "eng": "¿Tal vez pueda empezar la tarea un poco antes?"
+        },
+        "character_3_text": {
+          "eng": "¡Es una gran idea! ¿Qué tal si establecemos la regla de que empieces la tarea media hora después de que llegues a casa? ¡Así podrás terminarla y también tendrás tiempo para relajarte antes de ir a dormir! Estaré encantada de ayudarte cuando lo necesites."
+        },
+        "character_4_text": {
+          "eng": "¡Está bien!"
+        }
+      },
+      "character_2_text": "¿Tal vez pueda empezar la tarea un poco antes?",
+      "character_3_text": "¡Es una gran idea! ¿Qué tal si establecemos la regla de que empieces la tarea media hora después de que llegues a casa? ¡Así podrás terminarla y también tendrás tiempo para relajarte antes de ir a dormir! Estaré encantada de ayudarte cuando lo necesites.",
+      "character_4_text": "¡Está bien!"
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/solve_problems_teen_3.svg",
+      "character_1_id": "F1_MADRE",
+      "character_2_id": "F1_HIJA_13",
+      "character_3_id": "F1_MADRE",
+      "nested": false,
+      "character_1_text": "{F1_HIJA_13}, está sonando la alarma para empezar la tarea.\n¿Ya la empezaste?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "{F1_HIJA_13}, está sonando la alarma para empezar la tarea.\n¿Ya la empezaste?"
+        },
+        "character_2_text": {
+          "eng": "Empezaré de una vez, ma. ¿Te puedo pedir ayuda con esta pregunta?"
+        },
+        "character_3_text": {
+          "eng": "Claro que sí."
+        }
+      },
+      "character_2_text": "Empezaré de una vez, ma. ¿Te puedo pedir ayuda con esta pregunta?",
+      "character_3_text": "Claro que sí."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/solve_problems_teen_4.svg",
+      "character_1_id": "F1_HIJA_13",
+      "character_2_id": "F1_MADRE",
+      "nested": false,
+      "character_1_text": "Mira... ¡Esta noche me dormiré temprano!",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Mira... ¡Esta noche me dormiré temprano!"
+        },
+        "character_2_text": {
+          "eng": "Qué bien, {F1_HIJA_13}. Gracias por colaborar conmigo en encontrar una solución que nos funcione. ¡Ahora sí estarás descansada para mañana!"
+        }
+      },
+      "character_2_text": "Qué bien, {F1_HIJA_13}. Gracias por colaborar conmigo en encontrar una solución que nos funcione. ¡Ahora sí estarás descansada para mañana!"
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link",
+      "nested": false,
+      "text_1_facilitator": "▶️ Da Clic en Reproducir para conocer los cuatro pasos para ayudar a tu adolescente a resolver un problema:\n\n1️⃣ **CONOCERLO**\n2️⃣ **RESOLVERLO**\n3️⃣ **INTENTARLO**\n4️⃣ **COMPROBARLO**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "▶️ Da Clic en Reproducir para conocer los cuatro pasos para ayudar a tu adolescente a resolver un problema:\n\n1️⃣ **CONOCERLO**\n2️⃣ **RESOLVERLO**\n3️⃣ **INTENTARLO**\n4️⃣ **COMPROBARLO**"
+        }
+      }
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\n*_Habla con tu adolescente sobre los cuatro pasos para resolver problemas y revisen la lección juntos. ¡Saber resolver problemas es una habilidad que podrán usar el resto de sus vidas!_*",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\n*_Habla con tu adolescente sobre los cuatro pasos para resolver problemas y revisen la lección juntos. ¡Saber resolver problemas es una habilidad que podrán usar el resto de sus vidas!_*"
+        },
+        "quiz_1_question": {
+          "eng": "¿Tienes tiempo para hacerlo hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Maravilloso!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Está bien. Intenten repasar estos pasos en conjunto en algún momento de esta semana."
+        }
+      },
+      "quiz_1_question": "¿Tienes tiempo para hacerlo hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "¡Maravilloso!",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "Está bien. Intenten repasar estos pasos en conjunto en algún momento de esta semana."
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA modules - problem (31 - 45).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1q27LnkUFTJQqEbqkgh1hgN4sDQkfasSo29b5SAP4ktg"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

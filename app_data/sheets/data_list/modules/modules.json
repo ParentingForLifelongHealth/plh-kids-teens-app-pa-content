@@ -7,11 +7,17 @@
   "rows": [
     {
       "id": "i_one_on_one_c",
+      "old_sheet_name": "i_one_on_one_c_articles",
+      "old_id": "i_one_on_one_c",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
       "check_in_id": "check_in_1",
+      "attached_single_doc": "i_one_on_one_c_articles",
+      "ignore_1": "OK",
+      "ignore_2": 23,
+      "ignore_3": 14,
       "title": "Pasar Tiempo Juntos y Conectados",
       "_translations": {
         "title": {}
@@ -23,12 +29,18 @@
       }
     },
     {
-      "id": "i_give_praise_c",
+      "id": "i_one_on_one_t",
+      "old_sheet_name": "i_one_on_one_t_articles",
+      "old_id": "i_give_praise_c",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_2",
+      "attached_single_doc": "i_one_on_one_t_articles",
+      "ignore_1": "OK",
+      "ignore_2": 23,
+      "ignore_3": 14,
       "title": "Dar Reconocimiento",
       "_translations": {
         "title": {}
@@ -40,12 +52,18 @@
       }
     },
     {
-      "id": "i_routines_c",
+      "id": "i_give_praise_t",
+      "old_sheet_name": "i_give_praise_t_articles",
+      "old_id": "i_routines_c",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_3",
+      "attached_single_doc": "i_give_praise_t_articles",
+      "ignore_1": "OK",
+      "ignore_2": 24,
+      "ignore_3": 15,
       "title": "Crear Rutinas",
       "_translations": {
         "title": {}
@@ -57,12 +75,133 @@
       }
     },
     {
-      "id": "i_feelings_c",
+      "id": "i_give_praise_c",
+      "old_sheet_name": "i_give_praise_c_articles",
+      "old_id": "i_feelings_c",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_4",
+      "attached_single_doc": "i_give_praise_c_articles",
+      "ignore_1": "OK",
+      "ignore_2": 24,
+      "ignore_3": 15,
+      "title": "Identificar Emociones",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Identificar Emociones"
+        }
+      }
+    },
+    {
+      "id": "i_routines_t",
+      "old_sheet_name": "i_routines_t_articles",
+      "old_id": "i_calm_c",
+      "tag_list": [
+        "child"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_5",
+      "attached_single_doc": "i_routines_t_articles",
+      "ignore_1": "OK",
+      "ignore_2": 21,
+      "ignore_3": 12,
+      "title": "Mantener La Calma Cuando Hay Estrés",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Mantener La Calma Cuando Hay Estrés"
+        }
+      }
+    },
+    {
+      "id": "i_routines_c",
+      "old_sheet_name": "i_routines_c_articles",
+      "old_id": "i_one_on_one_t",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_6",
+      "attached_single_doc": "i_routines_c_articles",
+      "ignore_1": "OK",
+      "ignore_2": 21,
+      "ignore_3": 12,
+      "title": "Pasar Tiempo Juntos y Conectados",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Pasar Tiempo Juntos y Conectados"
+        }
+      }
+    },
+    {
+      "id": "i_feelings_t",
+      "old_sheet_name": "i_feelings_t_articles",
+      "old_id": "i_give_praise_t",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_7",
+      "attached_single_doc": "i_feelings_t_articles",
+      "ignore_1": "OK",
+      "ignore_2": 21,
+      "ignore_3": 12,
+      "title": "Dar Reconocimiento",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Dar Reconocimiento"
+        }
+      }
+    },
+    {
+      "id": "i_feelings_c",
+      "old_sheet_name": "i_feelings_c_articles",
+      "old_id": "i_routines_t",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_8",
+      "attached_single_doc": "i_feelings_c_articles",
+      "ignore_1": "OK",
+      "ignore_2": 21,
+      "ignore_3": 12,
+      "title": "Crear Rutinas",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Crear Rutinas"
+        }
+      }
+    },
+    {
+      "id": "i_calm_t",
+      "old_sheet_name": "i_calm_t_articles",
+      "old_id": "i_feelings_t",
+      "tag_list": [
+        "teen"
+      ],
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_9",
+      "attached_single_doc": "i_calm_t_articles",
+      "ignore_1": "OK",
+      "ignore_2": 17,
+      "ignore_3": 8,
       "title": "Identificar Emociones",
       "_translations": {
         "title": {}
@@ -75,11 +214,17 @@
     },
     {
       "id": "i_calm_c",
+      "old_sheet_name": "i_calm_c_articles",
+      "old_id": "i_calm_t",
       "tag_list": [
-        "child"
+        "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_10",
+      "attached_single_doc": "i_calm_c_articles",
+      "ignore_1": "OK",
+      "ignore_2": 17,
+      "ignore_3": 8,
       "title": "Mantener La Calma Cuando Hay Estrés",
       "_translations": {
         "title": {}
@@ -91,97 +236,18 @@
       }
     },
     {
-      "id": "i_one_on_one_t",
-      "tag_list": [
-        "teen"
-      ],
-      "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
-      "title": "Pasar Tiempo Juntos y Conectados",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Pasar Tiempo Juntos y Conectados"
-        }
-      }
-    },
-    {
-      "id": "i_give_praise_t",
-      "tag_list": [
-        "teen"
-      ],
-      "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
-      "title": "Dar Reconocimiento",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Dar Reconocimiento"
-        }
-      }
-    },
-    {
-      "id": "i_routines_t",
-      "tag_list": [
-        "teen"
-      ],
-      "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
-      "title": "Crear Rutinas",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Crear Rutinas"
-        }
-      }
-    },
-    {
-      "id": "i_feelings_t",
-      "tag_list": [
-        "teen"
-      ],
-      "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
-      "title": "Identificar Emociones",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Identificar Emociones"
-        }
-      }
-    },
-    {
-      "id": "i_calm_t",
-      "tag_list": [
-        "teen"
-      ],
-      "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
-      "title": "Mantener La Calma Cuando Hay Estrés",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Mantener La Calma Cuando Hay Estrés"
-        }
-      }
-    },
-    {
-      "id": "ipv_1",
+      "id": "ipv_sharing_m",
+      "old_sheet_name": "ipv_sharing_m",
+      "old_id": "ipv_1",
       "tag_list": [
         "both"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_11",
+      "attached_single_doc": "ipv_sharing_m",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 13,
+      "ignore_3": 13,
       "title": "Escuchar y Conversar Efectivamente",
       "_translations": {
         "title": {}
@@ -193,12 +259,18 @@
       }
     },
     {
-      "id": "ipv_2",
+      "id": "ipv_supportive_m",
+      "old_sheet_name": "ipv_supportive_m",
+      "old_id": "ipv_2",
       "tag_list": [
         "both"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_12",
+      "attached_single_doc": "ipv_supportive_m",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 16,
+      "ignore_3": 16,
       "title": "Tomar Decisiones en Equipo",
       "_translations": {
         "title": {}
@@ -210,12 +282,18 @@
       }
     },
     {
-      "id": "ipv_3",
+      "id": "ipv_listen_m",
+      "old_sheet_name": "ipv_listen_m",
+      "old_id": "ipv_3",
       "tag_list": [
         "both"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_13",
+      "attached_single_doc": "ipv_listen_m",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 12,
+      "ignore_3": 12,
       "title": "Ser una Figura de Apoyo en la Crianza y con la Pareja",
       "_translations": {
         "title": {}
@@ -227,12 +305,18 @@
       }
     },
     {
-      "id": "ipv_4",
+      "id": "ipv_equals_m",
+      "old_sheet_name": "ipv_equals_m",
+      "old_id": "ipv_4",
       "tag_list": [
         "both"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_14",
+      "attached_single_doc": "ipv_equals_m",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 12,
+      "ignore_3": 12,
       "title": "Papel de los Padres en la Crianza Compartida",
       "_translations": {
         "title": {}
@@ -244,12 +328,18 @@
       }
     },
     {
-      "id": "ipv_5",
+      "id": "ipv_conflicts_m",
+      "old_sheet_name": "ipv_conflicts_m",
+      "old_id": "ipv_5",
       "tag_list": [
         "both"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_15",
+      "attached_single_doc": "ipv_conflicts_m",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 15,
+      "ignore_3": 15,
       "title": "Resolver Conflictos Pacíficamente",
       "_translations": {
         "title": {}
@@ -261,12 +351,19 @@
       }
     },
     {
-      "id": "keep_safe_c_1",
+      "id": "safe_2to5_yc_m",
+      "old_sheet_name": "safe_touch_2to5_yc_m",
+      "old_id": "keep_safe_c_1",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_16",
+      "attached_single_doc": "safe_2to5_yc_m",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 14,
+      "ignore_3": 14,
+      "ignore_4": "safe_2to5_yc_m_articles",
       "title": "Enseñar sobre autocuidado y prevención del abuso a mi niño (2 a 5)",
       "_translations": {
         "title": {}
@@ -278,12 +375,19 @@
       }
     },
     {
-      "id": "keep_safe_c_2",
+      "id": "safe_2to5_yc_f",
+      "old_sheet_name": "safe_touch_2to5_yc_f",
+      "old_id": "keep_safe_c_2",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
       "check_in_id": "check_in_1",
+      "attached_single_doc": "safe_2to5_yc_f",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 14,
+      "ignore_3": 14,
+      "ignore_4": "safe_2to5_yc_f_articles",
       "title": "Enseñar sobre autocuidado y prevención del abuso a mi niña (2 a 5)",
       "_translations": {
         "title": {}
@@ -295,12 +399,19 @@
       }
     },
     {
-      "id": "keep_safe_c_3",
+      "id": "safe_6to9_yc",
+      "old_sheet_name": "safe_touch_6to9_yc",
+      "old_id": "keep_safe_c_3",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_2",
+      "attached_single_doc": "safe_6to9_yc",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 12,
+      "ignore_3": 12,
+      "ignore_4": "safe_6to9_yc_articles",
       "title": "Enseñar sobre autocuidado y prevención del abuso a mi niña o niño (6 a 9)",
       "_translations": {
         "title": {}
@@ -312,12 +423,18 @@
       }
     },
     {
-      "id": "keep_safe_c_4",
+      "id": "ks_c_safe_t",
+      "old_sheet_name": "ks_c_safey_t_articles",
+      "old_id": "keep_safe_c_4",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_3",
+      "attached_single_doc": "ks_c_safe_t_articles",
+      "ignore_1": "OK",
+      "ignore_2": 20,
+      "ignore_3": 11,
       "title": "Crear un Plan de Seguridad con Mi Niña o Niño (2 a 4)",
       "_translations": {
         "title": {}
@@ -329,12 +446,19 @@
       }
     },
     {
-      "id": "keep_safe_c_5",
+      "id": "com_safe_2to4_yc",
+      "old_sheet_name": "com_safety_2to4_yc",
+      "old_id": "keep_safe_c_5",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_4",
+      "attached_single_doc": "com_safe_2to4_yc",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 16,
+      "ignore_3": 16,
+      "ignore_4": "com_safe_2to4_yc_articles",
       "title": "Crear un Plan de Seguridad con Mi Niña o Niño (5 a 9)",
       "_translations": {
         "title": {}
@@ -346,12 +470,19 @@
       }
     },
     {
-      "id": "keep_safe_c_6",
+      "id": "com_safe_5to9_yc",
+      "old_sheet_name": "com_safety_5to9_yc",
+      "old_id": "keep_safe_c_6",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_5",
+      "attached_single_doc": "com_safe_5to9_yc",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 16,
+      "ignore_3": 16,
+      "ignore_4": "com_safe_5to9_yc_articles",
       "title": "Saber Responder Ante Alguna Crisis (2 a 6)",
       "_translations": {
         "title": {}
@@ -363,12 +494,19 @@
       }
     },
     {
-      "id": "keep_safe_c_7",
+      "id": "crises_2to6_yc",
+      "old_sheet_name": "crises_2to6_yc",
+      "old_id": "keep_safe_c_7",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_6",
+      "attached_single_doc": "crises_2to6_yc",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 14,
+      "ignore_3": 14,
+      "ignore_4": "crises_2to6_yc_articles",
       "title": "Saber Responder Ante Alguna Crisis (7 a 9)",
       "_translations": {
         "title": {}
@@ -380,12 +518,19 @@
       }
     },
     {
-      "id": "keep_safe_c_8",
+      "id": "crises_7to9_yc",
+      "old_sheet_name": "crises_7to9_yc",
+      "old_id": "keep_safe_c_8",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_7",
+      "attached_single_doc": "crises_7to9_yc",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 14,
+      "ignore_3": 14,
+      "ignore_4": "crises_7to9_yc_articles",
       "title": "Usar con Responsabilidad y Seguridad los Dispositivos y Espacios Virtuales",
       "_translations": {
         "title": {}
@@ -397,12 +542,19 @@
       }
     },
     {
-      "id": "keep_safe_c_9",
+      "id": "online_safety_yc",
+      "old_sheet_name": "online_safety_yc",
+      "old_id": "keep_safe_c_9",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_8",
+      "attached_single_doc": "online_safety_yc",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 16,
+      "ignore_3": 16,
+      "ignore_4": "online_safety_yc_articles",
       "title": "Desarrollar Confianza y Hábitos Seguros para el Uso de Internet y Redes Sociales",
       "_translations": {
         "title": {}
@@ -414,12 +566,19 @@
       }
     },
     {
-      "id": "ks_c_safey_t",
+      "id": "habits_online_yc",
+      "old_sheet_name": "habits_trust_online_yc",
+      "old_id": "ks_c_safey_t",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_9",
+      "attached_single_doc": "habits_online_yc",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 16,
+      "ignore_3": 16,
+      "ignore_4": "habits_online_yc_articles",
       "title": "Crear un Plan de Seguridad para Mi Adolescente",
       "_translations": {
         "title": {}
@@ -431,12 +590,19 @@
       }
     },
     {
-      "id": "ks_s_violence_t",
+      "id": "manage_anger_c",
+      "old_sheet_name": "managing_anger_c",
+      "old_id": "ks_s_violence_t",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_10",
+      "attached_single_doc": "manage_anger_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 14,
+      "ignore_3": 14,
+      "ignore_4": "manage_anger_c_articles",
       "title": "Prevenir la Violencia Sexual",
       "_translations": {
         "title": {}
@@ -448,12 +614,19 @@
       }
     },
     {
-      "id": "ks_crises_f_t",
+      "id": "keep_positive_c",
+      "old_sheet_name": "keeping_it_positive_c",
+      "old_id": "ks_crises_f_t",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_11",
+      "attached_single_doc": "keep_positive_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 15,
+      "ignore_3": 15,
+      "ignore_4": "keep_positive_c_articles",
       "title": "Saber Responder Ante Alguna Crisis (fem)",
       "_translations": {
         "title": {}
@@ -465,12 +638,19 @@
       }
     },
     {
-      "id": "ks_crises_m_t",
+      "id": "family_rules_c",
+      "old_sheet_name": "create_family_rules_c",
+      "old_id": "ks_crises_m_t",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_12",
+      "attached_single_doc": "family_rules_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 14,
+      "ignore_3": 14,
+      "ignore_4": "family_rules_c_articles",
       "title": "Saber Responder Ante Alguna Crisis (mas)",
       "_translations": {
         "title": {}
@@ -482,12 +662,19 @@
       }
     },
     {
-      "id": "ks_online_safety_t",
+      "id": "ignore_c",
+      "old_sheet_name": "ignore_c",
+      "old_id": "ks_online_safety_t",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_13",
+      "attached_single_doc": "ignore_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 8,
+      "ignore_3": 8,
+      "ignore_4": "ignore_c_articles",
       "title": "Usar con Responsabilidad y Seguridad los Dispositivos y Espacios Virtuales",
       "_translations": {
         "title": {}
@@ -499,12 +686,19 @@
       }
     },
     {
-      "id": "ks_online_habits_t",
+      "id": "consequences_c",
+      "old_sheet_name": "consequences_c",
+      "old_id": "ks_online_habits_t",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_14",
+      "attached_single_doc": "consequences_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 14,
+      "ignore_3": 14,
+      "ignore_4": "consequences_c_articles",
       "title": "Desarrollar Confianza y Hábitos Seguros para el Uso de Internet y Redes Sociales",
       "_translations": {
         "title": {}
@@ -516,12 +710,19 @@
       }
     },
     {
-      "id": "Manage_behaviour_c_1",
+      "id": "solve_problem_c",
+      "old_sheet_name": "solve_problems_c",
+      "old_id": "Manage_behaviour_c_1",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_15",
+      "attached_single_doc": "solve_problem_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 15,
+      "ignore_3": 15,
+      "ignore_4": "solve_problem_c_articles",
       "title": "Estrategias para Regular la Ira",
       "_translations": {
         "title": {}
@@ -533,12 +734,19 @@
       }
     },
     {
-      "id": "Manage_behaviour_c_2",
+      "id": "know_role_c",
+      "old_sheet_name": "know_role_c",
+      "old_id": "Manage_behaviour_c_2",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_16",
+      "attached_single_doc": "know_role_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 11,
+      "ignore_3": 11,
+      "ignore_4": "know_role_c_articles",
       "title": "Enseñar Colaboración: Enfócarse en lo Positivo",
       "_translations": {
         "title": {}
@@ -550,12 +758,19 @@
       }
     },
     {
-      "id": "Manage_behaviour_c_3",
+      "id": "ks_s_violence_t",
+      "old_sheet_name": "ks_s_violence_t_articles",
+      "old_id": "Manage_behaviour_c_3",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
       "check_in_id": "check_in_1",
+      "attached_single_doc": "ks_s_violence_t_articles",
+      "ignore_1": "OK",
+      "ignore_2": 24,
+      "ignore_3": 15,
+      "ignore_4": "ks_s_violence_t_articles_articles",
       "title": "Acordar Reglas En Familia",
       "_translations": {
         "title": {}
@@ -567,12 +782,19 @@
       }
     },
     {
-      "id": "Manage_behaviour_c_4",
+      "id": "ks_crises_m_t",
+      "old_sheet_name": "ks_crises_m_t_articles",
+      "old_id": "Manage_behaviour_c_4",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_2",
+      "attached_single_doc": "ks_crises_m_t_articles",
+      "ignore_1": "OK",
+      "ignore_2": 22,
+      "ignore_3": 13,
+      "ignore_4": "ks_crises_m_t_articles_articles",
       "title": "Estrategias para Reducir Problemas de Comportamiento.",
       "_translations": {
         "title": {}
@@ -584,12 +806,19 @@
       }
     },
     {
-      "id": "Manage_behaviour_c_5",
+      "id": "ks_crises_f_t",
+      "old_sheet_name": "ks_crises_f_t_articles",
+      "old_id": "Manage_behaviour_c_5",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_3",
+      "attached_single_doc": "ks_crises_f_t_articles",
+      "ignore_1": "OK",
+      "ignore_2": 22,
+      "ignore_3": 13,
+      "ignore_4": "ks_crises_f_t_articles_articles",
       "title": "Estrategias para Reducir Problemas de Comportamiento: Consecuencias Justas.",
       "_translations": {
         "title": {}
@@ -601,12 +830,19 @@
       }
     },
     {
-      "id": "Manage_behaviour_c_6",
+      "id": "ks_online_saf_t",
+      "old_sheet_name": "ks_online_safety_t_articles",
+      "old_id": "Manage_behaviour_c_6",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_4",
+      "attached_single_doc": "ks_online_saf_t_articles",
+      "ignore_1": "OK",
+      "ignore_2": 24,
+      "ignore_3": 15,
+      "ignore_4": "ks_online_saf_t_articles_articles",
       "title": "Resolver Problemas con Mi Niña o Niño",
       "_translations": {
         "title": {}
@@ -618,12 +854,19 @@
       }
     },
     {
-      "id": "Manage_behaviour_c_7",
+      "id": "ks_online_hab_t",
+      "old_sheet_name": "ks_online_habits_t_articles",
+      "old_id": "Manage_behaviour_c_7",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_5",
+      "attached_single_doc": "ks_online_hab_t_articles",
+      "ignore_1": "OK",
+      "ignore_2": 24,
+      "ignore_3": 15,
+      "ignore_4": "ks_online_hab_t_articles_articles",
       "title": "Conocer el Papel de las Personas en la Familia: Todas y Todos Importamos",
       "_translations": {
         "title": {}
@@ -635,12 +878,19 @@
       }
     },
     {
-      "id": "Manage_behaviour_t_1",
+      "id": "Manage_anger_t",
+      "old_sheet_name": "Managing_anger_t",
+      "old_id": "Manage_behaviour_t_1",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_6",
+      "attached_single_doc": "Manage_anger_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 14,
+      "ignore_3": 14,
+      "ignore_4": "Manage_anger_t_articles",
       "title": "Estrategias para Regular la Ira",
       "_translations": {
         "title": {}
@@ -652,12 +902,19 @@
       }
     },
     {
-      "id": "Manage_behaviour_t_2",
+      "id": "keep_positive_t",
+      "old_sheet_name": "keeping_it_positive_t",
+      "old_id": "Manage_behaviour_t_2",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_7",
+      "attached_single_doc": "keep_positive_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 15,
+      "ignore_3": 15,
+      "ignore_4": "keep_positive_t_articles",
       "title": "Enseñar Colaboración: Enfócarse en lo Positivo",
       "_translations": {
         "title": {}
@@ -669,12 +926,19 @@
       }
     },
     {
-      "id": "Manage_behaviour_t_3",
+      "id": "Rules_t",
+      "old_sheet_name": "Rules_t",
+      "old_id": "Manage_behaviour_t_3",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_8",
+      "attached_single_doc": "Rules_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 7,
+      "ignore_3": 7,
+      "ignore_4": "Rules_t_articles",
       "title": "Acordar Reglas En Familia",
       "_translations": {
         "title": {}
@@ -686,12 +950,19 @@
       }
     },
     {
-      "id": "Manage_behaviour_t_4",
+      "id": "Consequences_t",
+      "old_sheet_name": "Consequences_t",
+      "old_id": "Manage_behaviour_t_4",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_9",
+      "attached_single_doc": "Consequences_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 14,
+      "ignore_3": 14,
+      "ignore_4": "Consequences_t_articles",
       "title": "Estrategias para Reducir Problemas de Comportamiento: Consecuencias Justas.",
       "_translations": {
         "title": {}
@@ -703,12 +974,19 @@
       }
     },
     {
-      "id": "Manage_behaviour_t_5",
+      "id": "solve_problem_t",
+      "old_sheet_name": "Solve_problems_t",
+      "old_id": "Manage_behaviour_t_5",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_10",
+      "attached_single_doc": "solve_problem_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 15,
+      "ignore_3": 15,
+      "ignore_4": "solve_problem_t_articles",
       "title": "Resolver Problemas con Mi Adolescente",
       "_translations": {
         "title": {}
@@ -720,12 +998,19 @@
       }
     },
     {
-      "id": "Manage_behaviour_t_6",
+      "id": "Know_role_t",
+      "old_sheet_name": "Know_role_t",
+      "old_id": "Manage_behaviour_t_6",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_11",
+      "attached_single_doc": "Know_role_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 11,
+      "ignore_3": 11,
+      "ignore_4": "Know_role_t_articles",
       "title": "Conocer el Papel de las Personas en la Familia: Todas y Todos Importamos",
       "_translations": {
         "title": {}
@@ -737,12 +1022,19 @@
       }
     },
     {
-      "id": "School_c_1",
+      "id": "manage_stress_c",
+      "old_sheet_name": "manage_stress_c",
+      "old_id": "School_c_1",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_12",
+      "attached_single_doc": "manage_stress_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 15,
+      "ignore_3": 15,
+      "ignore_4": "manage_stress_c_articles",
       "title": "Estimular el Lenguaje de Mi Niña o Niño",
       "_translations": {
         "title": {}
@@ -754,12 +1046,19 @@
       }
     },
     {
-      "id": "School_c_2",
+      "id": "Make_plan_c",
+      "old_sheet_name": "Make_plan_c",
+      "old_id": "School_c_2",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_13",
+      "attached_single_doc": "Make_plan_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 11,
+      "ignore_3": 11,
+      "ignore_4": "Make_plan_c_articles",
       "title": "Disfrutar y Favorecer la Lectura (2 a 3)",
       "_translations": {
         "title": {}
@@ -771,12 +1070,19 @@
       }
     },
     {
-      "id": "School_c_3",
+      "id": "Play_c",
+      "old_sheet_name": "Play_c",
+      "old_id": "School_c_3",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_14",
+      "attached_single_doc": "Play_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 6,
+      "ignore_3": 6,
+      "ignore_4": "Play_c_articles",
       "title": "Disfrutar y Favorecer la Lectura: Parte 1 (4 a 6)",
       "_translations": {
         "title": {}
@@ -788,12 +1094,19 @@
       }
     },
     {
-      "id": "School_c_4",
+      "id": "learn_exp_c",
+      "old_sheet_name": "learn_experience_c",
+      "old_id": "School_c_4",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_15",
+      "attached_single_doc": "learn_exp_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 11,
+      "ignore_3": 11,
+      "ignore_4": "learn_exp_c_articles",
       "title": "Disfrutar y Favorecer la Lectura: Parte 2 (4 a 6)",
       "_translations": {
         "title": {}
@@ -805,12 +1118,19 @@
       }
     },
     {
-      "id": "School_c_5",
+      "id": "toddler_change_c",
+      "old_sheet_name": "toddler_change_c",
+      "old_id": "School_c_5",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_16",
+      "attached_single_doc": "toddler_change_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 16,
+      "ignore_3": 16,
+      "ignore_4": "toddler_change_c_articles",
       "title": "Enseñar Matemáticas Divertidas y Sencillas (2 a 3)",
       "_translations": {
         "title": {}
@@ -822,12 +1142,19 @@
       }
     },
     {
-      "id": "School_c_6",
+      "id": "young_change_c",
+      "old_sheet_name": "young_child_change_c",
+      "old_id": "School_c_6",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
       "check_in_id": "check_in_1",
+      "attached_single_doc": "young_change_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 14,
+      "ignore_3": 14,
+      "ignore_4": "young_change_c_articles",
       "title": "Enseñar Matemáticas Divertidas y Sencillas: Parte 1 (4 a 6)",
       "_translations": {
         "title": {}
@@ -839,12 +1166,19 @@
       }
     },
     {
-      "id": "School_c_7",
+      "id": "Child_change_c",
+      "old_sheet_name": "Child_change_c",
+      "old_id": "School_c_7",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_2",
+      "attached_single_doc": "Child_change_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 14,
+      "ignore_3": 14,
+      "ignore_4": "Child_change_c_articles",
       "title": "Enseñar Matemáticas Divertidas y Sencillas: Parte 2 (4 a 6)",
       "_translations": {
         "title": {}
@@ -856,12 +1190,19 @@
       }
     },
     {
-      "id": "School_c_8",
+      "id": "s_language_c",
+      "old_sheet_name": "s_language_c_articles",
+      "old_id": "School_c_8",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_3",
+      "attached_single_doc": "s_language_c_articles",
+      "ignore_1": "OK",
+      "ignore_2": 21,
+      "ignore_3": 12,
+      "ignore_4": "s_language_c_articles_articles",
       "title": "Involucrarse en las Actividades Escolares (3 a 9)",
       "_translations": {
         "title": {}
@@ -873,12 +1214,19 @@
       }
     },
     {
-      "id": "School_c_9",
+      "id": "s_read_2to3_c",
+      "old_sheet_name": "s_reading_2to3_c_articles",
+      "old_id": "School_c_9",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_4",
+      "attached_single_doc": "s_read_2to3_c_articles",
+      "ignore_1": "OK",
+      "ignore_2": 22,
+      "ignore_3": 13,
+      "ignore_4": "s_read_2to3_c_articles_articles",
       "title": "Hacer Divertido el Aprendizaje",
       "_translations": {
         "title": {}
@@ -890,12 +1238,19 @@
       }
     },
     {
-      "id": "School_c_10",
+      "id": "s_read1_4to6_c",
+      "old_sheet_name": "s_reading1_4to6_c_articles",
+      "old_id": "School_c_10",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_5",
+      "attached_single_doc": "s_read1_4to6_c_articles",
+      "ignore_1": "OK",
+      "ignore_2": 23,
+      "ignore_3": 14,
+      "ignore_4": "s_read1_4to6_c_articles_articles",
       "title": "Apoyar el Aprendizaje de Mi Niña o Niño",
       "_translations": {
         "title": {}
@@ -907,12 +1262,19 @@
       }
     },
     {
-      "id": "School_c_11",
+      "id": "s_read2_4to6_c",
+      "old_sheet_name": "s_reading2_4to6_c_articles",
+      "old_id": "School_c_11",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_6",
+      "attached_single_doc": "s_read2_4to6_c_articles",
+      "ignore_1": "OK",
+      "ignore_2": 23,
+      "ignore_3": 14,
+      "ignore_4": "s_read2_4to6_c_articles_articles",
       "title": "Crear un Ambiente Positivo para el Aprendizaje de Mi Niña o Niño",
       "_translations": {
         "title": {}
@@ -924,12 +1286,19 @@
       }
     },
     {
-      "id": "School_c_12",
+      "id": "maths_2to3_c",
+      "old_sheet_name": "maths_2to3_c",
+      "old_id": "School_c_12",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_7",
+      "attached_single_doc": "maths_2to3_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 12,
+      "ignore_3": 12,
+      "ignore_4": "maths_2to3_c_articles",
       "title": "Aprender de la Experiencia",
       "_translations": {
         "title": {}
@@ -941,12 +1310,19 @@
       }
     },
     {
-      "id": "School_t_13",
+      "id": "maths1_4to6_c",
+      "old_sheet_name": "maths1_4to6_c",
+      "old_id": "School_t_13",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_8",
+      "attached_single_doc": "maths1_4to6_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 13,
+      "ignore_3": 13,
+      "ignore_4": "maths1_4to6_c_articles",
       "title": "Hacer Divertido el Aprendizaje",
       "_translations": {
         "title": {}
@@ -958,12 +1334,19 @@
       }
     },
     {
-      "id": "School_t_14",
+      "id": "maths2_4to6_c",
+      "old_sheet_name": "maths2_4to6_c",
+      "old_id": "School_t_14",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_9",
+      "attached_single_doc": "maths2_4to6_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 13,
+      "ignore_3": 13,
+      "ignore_4": "maths2_4to6_c_articles",
       "title": "Apoyar el Aprendizaje de Mi Adolescente",
       "_translations": {
         "title": {}
@@ -975,12 +1358,19 @@
       }
     },
     {
-      "id": "School_t_15",
+      "id": "school_3to9_c",
+      "old_sheet_name": "engage_school_3to9_c",
+      "old_id": "School_t_15",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_10",
+      "attached_single_doc": "school_3to9_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 13,
+      "ignore_3": 13,
+      "ignore_4": "school_3to9_c_articles",
       "title": "Crear un Ambiente Positivo y de Aprendizaje para Mi Adolescente",
       "_translations": {
         "title": {}
@@ -992,12 +1382,19 @@
       }
     },
     {
-      "id": "School_t_16",
+      "id": "fun_l_7to9_c",
+      "old_sheet_name": "fun_learning_7to9_c",
+      "old_id": "School_t_16",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_11",
+      "attached_single_doc": "fun_l_7to9_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 12,
+      "ignore_3": 12,
+      "ignore_4": "fun_l_7to9_c_articles",
       "title": "Aprender de la Experiencia",
       "_translations": {
         "title": {}
@@ -1009,12 +1406,19 @@
       }
     },
     {
-      "id": "School_t_17",
+      "id": "help_l_7to9_c",
+      "old_sheet_name": "help_child_learn_7to9_c",
+      "old_id": "School_t_17",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_12",
+      "attached_single_doc": "help_l_7to9_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 13,
+      "ignore_3": 13,
+      "ignore_4": "help_l_7to9_c_articles",
       "title": "Aprender a Trabajar en Equipo",
       "_translations": {
         "title": {}
@@ -1026,12 +1430,19 @@
       }
     },
     {
-      "id": "develop_c_1",
+      "id": "pos_learn_7to9_c",
+      "old_sheet_name": "positive_learning_7to9_c",
+      "old_id": "develop_c_1",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_13",
+      "attached_single_doc": "pos_learn_7to9_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 16,
+      "ignore_3": 16,
+      "ignore_4": "pos_learn_7to9_c_articles",
       "title": "Regular el estrés para ti como madre, padre o persona cuidadora Parte 1",
       "_translations": {
         "title": {}
@@ -1043,12 +1454,19 @@
       }
     },
     {
-      "id": "develop_c_2",
+      "id": "learn_mis_7to9_c",
+      "old_sheet_name": "learning_mistakes_7to9_c",
+      "old_id": "develop_c_2",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_14",
+      "attached_single_doc": "learn_mis_7to9_c",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 16,
+      "ignore_3": 16,
+      "ignore_4": "learn_mis_7to9_c_articles",
       "title": "Regular el estrés para ti como madre, padre o persona cuidadora Parte 2",
       "_translations": {
         "title": {}
@@ -1060,12 +1478,19 @@
       }
     },
     {
-      "id": "develop_c_3",
+      "id": "Fun_learning_t",
+      "old_sheet_name": "Fun_learning_t",
+      "old_id": "develop_c_3",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_15",
+      "attached_single_doc": "Fun_learning_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 14,
+      "ignore_3": 14,
+      "ignore_4": "Fun_learning_t_articles",
       "title": "El Poder del Juego",
       "_translations": {
         "title": {}
@@ -1077,12 +1502,19 @@
       }
     },
     {
-      "id": "develop_c_4",
+      "id": "help_learn_t",
+      "old_sheet_name": "help_teen_learn_t",
+      "old_id": "develop_c_4",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_16",
+      "attached_single_doc": "help_learn_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 12,
+      "ignore_3": 12,
+      "ignore_4": "help_learn_t_articles",
       "title": "Estrategias para Aprender de la Experiencia",
       "_translations": {
         "title": {}
@@ -1094,12 +1526,19 @@
       }
     },
     {
-      "id": "develop_c_5",
+      "id": "positive_learn_t",
+      "old_sheet_name": "positive_learning_t",
+      "old_id": "develop_c_5",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
       "check_in_id": "check_in_1",
+      "attached_single_doc": "positive_learn_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 16,
+      "ignore_3": 16,
+      "ignore_4": "positive_learn_t_articles",
       "title": "Conocer los Cambios de Mi Niña o Niño (2 a 3)",
       "_translations": {
         "title": {}
@@ -1111,12 +1550,19 @@
       }
     },
     {
-      "id": "develop_c_6",
+      "id": "learn_mistakes_t",
+      "old_sheet_name": "learning_mistakes_t",
+      "old_id": "develop_c_6",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_2",
+      "attached_single_doc": "learn_mistakes_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 16,
+      "ignore_3": 16,
+      "ignore_4": "learn_mistakes_t_articles",
       "title": "Conocer los Cambios de Mi Niña o Niño (4 a 6)",
       "_translations": {
         "title": {}
@@ -1128,12 +1574,19 @@
       }
     },
     {
-      "id": "develop_c_7",
+      "id": "learn_people_t",
+      "old_sheet_name": "learning_with_people_t",
+      "old_id": "develop_c_7",
       "tag_list": [
         "child"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_3",
+      "attached_single_doc": "learn_people_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 14,
+      "ignore_3": 14,
+      "ignore_4": "learn_people_t_articles",
       "title": "Conocer los Cambios de Mi Niña o Niño (7 a 9)",
       "_translations": {
         "title": {}
@@ -1145,12 +1598,19 @@
       }
     },
     {
-      "id": "understand_t_1",
+      "id": "manage_stress_t",
+      "old_sheet_name": "manage_stress_t",
+      "old_id": "understand_t_1",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_4",
+      "attached_single_doc": "manage_stress_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 15,
+      "ignore_3": 15,
+      "ignore_4": "manage_stress_t_articles",
       "title": "Regular el estrés para ti como madre, padre o persona cuidadora Parte 1",
       "_translations": {
         "title": {}
@@ -1162,12 +1622,19 @@
       }
     },
     {
-      "id": "understand_t_2",
+      "id": "make_plan_t",
+      "old_sheet_name": "make_plan_t",
+      "old_id": "understand_t_2",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_5",
+      "attached_single_doc": "make_plan_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 11,
+      "ignore_3": 11,
+      "ignore_4": "make_plan_t_articles",
       "title": "Regular el estrés para ti como madre, padre o persona cuidadora Parte 2",
       "_translations": {
         "title": {}
@@ -1179,12 +1646,19 @@
       }
     },
     {
-      "id": "understand_t_3",
+      "id": "self_esteem_t",
+      "old_sheet_name": "self_esteem_t",
+      "old_id": "understand_t_3",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_6",
+      "attached_single_doc": "self_esteem_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 13,
+      "ignore_3": 13,
+      "ignore_4": "self_esteem_t_articles",
       "title": "Fomentar la Confianza de Mi Adolescente",
       "_translations": {
         "title": {}
@@ -1196,12 +1670,19 @@
       }
     },
     {
-      "id": "understand_t_4",
+      "id": "hope_future_t",
+      "old_sheet_name": "hope_future_t",
+      "old_id": "understand_t_4",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_7",
+      "attached_single_doc": "hope_future_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 13,
+      "ignore_3": 13,
+      "ignore_4": "hope_future_t_articles",
       "title": "Cultivar la Motivación de Construir un Futuro en mi Adolescente",
       "_translations": {
         "title": {}
@@ -1213,12 +1694,19 @@
       }
     },
     {
-      "id": "understand_t_5",
+      "id": "stress_t",
+      "old_sheet_name": "stress_t",
+      "old_id": "understand_t_5",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_8",
+      "attached_single_doc": "stress_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 8,
+      "ignore_3": 8,
+      "ignore_4": "stress_t_articles",
       "title": "Ayudar a Mi Adolescente a Enfrentar el Estrés",
       "_translations": {
         "title": {}
@@ -1230,12 +1718,19 @@
       }
     },
     {
-      "id": "understand_t_6",
+      "id": "stress_signs_t",
+      "old_sheet_name": "stress_signs_t",
+      "old_id": "understand_t_6",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_9",
+      "attached_single_doc": "stress_signs_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 14,
+      "ignore_3": 14,
+      "ignore_4": "stress_signs_t_articles",
       "title": "Tristeza y Depresión: Diferencias y Cómo Actuar",
       "_translations": {
         "title": {}
@@ -1247,12 +1742,19 @@
       }
     },
     {
-      "id": "understand_t_7",
+      "id": "anxiety_t",
+      "old_sheet_name": "anxiety_t",
+      "old_id": "understand_t_7",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_10",
+      "attached_single_doc": "anxiety_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 9,
+      "ignore_3": 9,
+      "ignore_4": "anxiety_t_articles",
       "title": "Ansiedad: Qué Es y Cómo Actuar",
       "_translations": {
         "title": {}
@@ -1264,12 +1766,19 @@
       }
     },
     {
-      "id": "understand_t_8",
+      "id": "sadness_t",
+      "old_sheet_name": "sadness_t",
+      "old_id": "understand_t_8",
       "tag_list": [
         "teen"
       ],
       "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_11",
+      "attached_single_doc": "sadness_t",
+      "ignore_1": "PROBLEM",
+      "ignore_2": 9,
+      "ignore_3": 9,
+      "ignore_4": "sadness_t_articles",
       "title": "Conocer las Señales de Alarma para Detectar Situaciones de Riesgo",
       "_translations": {
         "title": {}
@@ -1283,7 +1792,15 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules.xlsx",
+    "path": "data/PA modules - i (1-15).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
+  },
+  "_metadata": {
+    "ignore_2": {
+      "type": "number"
+    },
+    "ignore_3": {
+      "type": "number"
+    }
   }
 }

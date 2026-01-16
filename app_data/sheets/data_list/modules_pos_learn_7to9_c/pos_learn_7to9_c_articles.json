@@ -1,0 +1,181 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "pos_learn_7to9_c_articles",
+  "data_list_name": "pos_learn_7to9_c_articles",
+  "status": "released",
+  "flow_subtype": "modules_pos_learn_7to9_c",
+  "module": "pos_learn_7to9_c",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Esta lección trata sobre cómo crear un ambiente positivo para el aprendizaje de {tu niño}.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Esta lección trata sobre cómo crear un ambiente positivo para el aprendizaje de {tu niño}."
+        },
+        "text_2": {
+          "eng": "{Tu niño} aprenderá mucho mejor estando en un ambiente que apoye y fomente su aprendizaje. 😃"
+        }
+      },
+      "text_2": "{Tu niño} aprenderá mucho mejor estando en un ambiente que apoye y fomente su aprendizaje. 😃"
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_7to9_yc_1",
+      "character_1_id": "F3_HIJA_7",
+      "character_2_id": "F3_TÍO",
+      "nested": false,
+      "text_1_facilitator": "Aquí tienes una historieta sobre crear ambientes positivos para {tu niño}:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Aquí tienes una historieta sobre crear ambientes positivos para {tu niño}:"
+        },
+        "character_1_text": {
+          "eng": "Papá, ¡ya llegué!"
+        },
+        "character_2_text": {
+          "eng": "Bienvenida a casa, {F3_HIJA_7}. ¿Tuviste un buen día en la escuela?"
+        }
+      },
+      "character_1_text": "Papá, ¡ya llegué!",
+      "character_2_text": "Bienvenida a casa, {F3_HIJA_7}. ¿Tuviste un buen día en la escuela?"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_7to9_yc_2",
+      "character_1_id": "F3_HIJA_7",
+      "nested": false,
+      "character_1_text": "¡Sí, pero la maestra nos dejó mucho trabajo!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Sí, pero la maestra nos dejó mucho trabajo!"
+        }
+      }
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_7to9_yc_3",
+      "character_1_id": "F3_TÍO",
+      "nested": false,
+      "character_1_text": "Eso suena frustrante, pero estoy seguro de que puedes hacerlo. Te despejé un espacio en la cocina para que puedas concentrarte y tener un poco de tranquilidad mientras preparo la comida.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Eso suena frustrante, pero estoy seguro de que puedes hacerlo. Te despejé un espacio en la cocina para que puedas concentrarte y tener un poco de tranquilidad mientras preparo la comida."
+        }
+      }
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_7to9_yc_4",
+      "character_1_id": "F3_HIJA_7",
+      "character_2_id": "F3_TÍO",
+      "nested": false,
+      "character_1_text": "Gracias, papá. ¿Ya que termine, puedo ir a jugar a casa de María?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Gracias, papá. ¿Ya que termine, puedo ir a jugar a casa de María?"
+        },
+        "character_2_text": {
+          "eng": "¡Sí, claro! Puedes jugar con ella en lo que está lista la comida. Le diré a su mamá."
+        }
+      },
+      "character_2_text": "¡Sí, claro! Puedes jugar con ella en lo que está lista la comida. Le diré a su mamá."
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_7to9_yc_5",
+      "nested": false
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link",
+      "nested": false,
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para ver cómo a apoyar a {tu niño} a crear un ambiente positivo para su aprendizaje:\n\n1️⃣ **PROCURAR SILENCIO**\n2️⃣ **CREAR RUTINAS**\n3️⃣ **APOYAR**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en Reproducir ▶️ para ver cómo a apoyar a {tu niño} a crear un ambiente positivo para su aprendizaje:\n\n1️⃣ **PROCURAR SILENCIO**\n2️⃣ **CREAR RUTINAS**\n3️⃣ **APOYAR**"
+        }
+      }
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "*_Actividad para casa_*⭐  \n\nPlatica con {tu niño} para encontrar un lugar de estudio adecuado en tu casa.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐  \n\nPlatica con {tu niño} para encontrar un lugar de estudio adecuado en tu casa."
+        },
+        "quiz_1_question": {
+          "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Muy bien! Utiliza las estrategias que has aprendido hoy para impulsar a {tu niño} hacia un mejor aprovechamiento académico. 💙"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana."
+        }
+      },
+      "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "¡Muy bien! Utiliza las estrategias que has aprendido hoy para impulsar a {tu niño} hacia un mejor aprovechamiento académico. 💙",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana."
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA modules - learning (61 - 75).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1uYUivXZOTg0ZliArzDnwFz4zNAX9qm_0iMzEgFQfGKY"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

@@ -10,7 +10,7 @@
       "media_asset": "audio/relax/relax_1.mp3",
       "media_type": "audio",
       "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transript": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "title": "Quick pause",
       "_translations": {
         "title": {}
@@ -25,31 +25,31 @@
       "completed": false
     },
     {
-      "id": "check_in_1",
+      "id": "check_in_9",
       "_translatedFields": {
         "text_1": {
-          "eng": "Take a moment to check in with yourself."
+          "eng": "Reconocer cómo te sientes es clave para vivir con mayor bienestar. Sé amable contigo."
         },
         "quiz_1_feedback_1": {
-          "eng": "Wonderful, I am so happy things are going well."
+          "eng": "Eres increíble y estás marcando una gran diferencia. Puedes sentirte orgullosa/o de ti."
         },
         "quiz_1_feedback_2": {
-          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+          "eng": "Todas las personas tenemos días buenos y días complicados. Muy bien por usar esta aplicación; eso muestra tu compromiso con la crianza. Recuerda reconocerte por ello."
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+          "eng": "Lamento que hoy las cosas no estén siendo fáciles. Todas las madres, padres y personas cuidadoras pasan por días así. Estás intentando y avanzando."
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "¿Cómo te sientes el día de hoy?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Feliz"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Bien"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Triste"
         }
       },
       "category_id": "check_in",
@@ -57,7 +57,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Take a moment to check in with yourself.",
+      "text_1": "Reconocer cómo te sientes es clave para vivir con mayor bienestar. Sé amable contigo.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -68,13 +68,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
-      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
-      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Eres increíble y estás marcando una gran diferencia. Puedes sentirte orgullosa/o de ti.",
+      "quiz_1_feedback_2": "Todas las personas tenemos días buenos y días complicados. Muy bien por usar esta aplicación; eso muestra tu compromiso con la crianza. Recuerda reconocerte por ello.",
+      "quiz_1_feedback_3": "Lamento que hoy las cosas no estén siendo fáciles. Todas las madres, padres y personas cuidadoras pasan por días así. Estás intentando y avanzando.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
       "completed": false
     },
     {
@@ -173,7 +173,7 @@
       "completed": false
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Aquí tienes una historieta sobre cómo puedes mantener la calma y regular tu enojo al enfrentar situaciones frustrantes."
@@ -200,7 +200,7 @@
       "completed": false
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "_translatedFields": {
         "character_1_text": {
           "eng": "(Pensando) Tomaré una pausa y pondré mi canción favorita."
@@ -217,7 +217,7 @@
       "completed": false
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "_translatedFields": {
         "text_2": {
           "eng": "Un momento después."
@@ -238,7 +238,7 @@
       "completed": false
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "_translatedFields": {
         "character_1_text": {
           "eng": "{F2_HIJO_15}, qué buen trabajo estás haciendo con tu tarea. Puede que ya te sientas cansado. Vamos a descansar 5 minutos y, después de eso, podemos recoger este tiradero juntos."
@@ -255,7 +255,7 @@
       "completed": false
     },
     {
-      "id": "comic_5",
+      "id": "explore_5",
       "_translatedFields": {
         "character_1_text": {
           "eng": "¡Gracias por hacer tu parte para que la casa esté limpia, {F2_HIJO_15}! Estoy muy orgullosa de tu esfuerzo. Es hora de nuestro tiempo juntos y conectados. ¿Qué quieres hacer?"
@@ -272,14 +272,14 @@
       "completed": false
     },
     {
-      "id": "explore_1",
+      "id": "practical_tips_1",
       "media_type": "video",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Aquí tienes un video con 4️⃣ estrategias para mantener la calma cuando enfrentes problemas con tu adolescente:\n1️⃣ MANTENER LA CALMA\n2️⃣ ACTÚA RÁPIDO\n3️⃣ SER CLARO\n4️⃣ SER POSITIVO"
         }
       },
-      "category_id": "explore",
+      "category_id": "practical_tips",
       "nested": false,
       "text_1_facilitator": "Aquí tienes un video con 4️⃣ estrategias para mantener la calma cuando enfrentes problemas con tu adolescente:\n1️⃣ MANTENER LA CALMA\n2️⃣ ACTÚA RÁPIDO\n3️⃣ SER CLARO\n4️⃣ SER POSITIVO",
       "_translations": {
@@ -289,7 +289,7 @@
       "completed": false
     },
     {
-      "id": "practical_tips_1",
+      "id": "practical_tips_2",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda las 4️⃣ estrategias para mantener la calma cuando hay estrés:"

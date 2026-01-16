@@ -1,0 +1,168 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "fun_l_7to9_c_articles",
+  "data_list_name": "fun_l_7to9_c_articles",
+  "status": "released",
+  "flow_subtype": "modules_fun_l_7to9_c",
+  "module": "fun_l_7to9_c",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Esta lección trata sobre cómo ayudar a {tu niño} a disfrutar de su aprendizaje para que sea algo que le guste y le divierta. 😃",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Esta lección trata sobre cómo ayudar a {tu niño} a disfrutar de su aprendizaje para que sea algo que le guste y le divierta. 😃"
+        },
+        "text_2": {
+          "eng": "Tú desempeñas un papel importante en cómo {tu niño} aprende y se desarrolla dentro y fuera de la escuela."
+        }
+      },
+      "text_2": "Tú desempeñas un papel importante en cómo {tu niño} aprende y se desarrolla dentro y fuera de la escuela."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/fun_learning_7to9_yc_1",
+      "character_1_id": "F3_MADRE",
+      "character_2_id": "F3_HIJA_7",
+      "nested": false,
+      "text_1_facilitator": "Aquí tienes una historieta que trata sobre cómo divertirte con tu niña, niño o adolescente mientras aprenden",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Aquí tienes una historieta que trata sobre cómo divertirte con tu niña, niño o adolescente mientras aprenden"
+        },
+        "character_1_text": {
+          "eng": "{F3_HIJA_7}, ¿qué pasa?"
+        },
+        "character_2_text": {
+          "eng": "Ya no quiero hacer la tarea. ¡Odio la escuela!"
+        }
+      },
+      "character_1_text": "{F3_HIJA_7}, ¿qué pasa?",
+      "character_2_text": "Ya no quiero hacer la tarea. ¡Odio la escuela!"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/fun_learning_7to9_yc_2",
+      "character_1_id": "F3_MADRE",
+      "nested": false,
+      "character_1_text": "Entiendo que hacer la tarea puede ser muy estresante. Tómate un descanso y ¡vamos a bailar tantito! ¡Esto siempre me ayudaba a sentirme con energía y preparada para hacer y terminar lo que tenía que pendiente!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Entiendo que hacer la tarea puede ser muy estresante. Tómate un descanso y ¡vamos a bailar tantito! ¡Esto siempre me ayudaba a sentirme con energía y preparada para hacer y terminar lo que tenía que pendiente!"
+        }
+      }
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/fun_learning_7to9_yc_3",
+      "nested": false,
+      "text_1_facilitator": "🎵 Suena la Música 🎵",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "🎵 Suena la Música 🎵"
+        }
+      }
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/fun_learning_7to9_yc_4",
+      "character_1_id": "F3_MADRE",
+      "nested": false,
+      "character_1_text": "Bien… ¿Lista? Ahora que tenemos algo de energía vamos a intentarlo de nuevo. ¿Qué es lo que te está molestando de la escuela?",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Bien… ¿Lista? Ahora que tenemos algo de energía vamos a intentarlo de nuevo. ¿Qué es lo que te está molestando de la escuela?"
+        }
+      }
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link",
+      "nested": false,
+      "text_1_facilitator": "¡Da Clic en Reproducir ▶️ para ver cómo apoyar a {tu niño} para que disfrute de su aprendizaje!\n\n1️⃣ **JUGAR**\n2️⃣ **UTILIZAR PALABRAS AFIRMATIVAS**\n3️⃣ **PERMITIR LA CREATIVIDAD**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "¡Da Clic en Reproducir ▶️ para ver cómo apoyar a {tu niño} para que disfrute de su aprendizaje!\n\n1️⃣ **JUGAR**\n2️⃣ **UTILIZAR PALABRAS AFIRMATIVAS**\n3️⃣ **PERMITIR LA CREATIVIDAD**"
+        }
+      }
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nInvita a {tu niño} a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar algo, o salir a correr cerca de su casa. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\nInvita a {tu niño} a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar algo, o salir a correr cerca de su casa. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando."
+        },
+        "quiz_1_question": {
+          "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Excelente! Usa las estrategias que has aprendido hoy y ¡diviértete! Sentir alegría y felicidad durante el aprendizaje con {tu niño} es una forma estupenda de motivarle para seguir aprendiendo. 💙"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana."
+        }
+      },
+      "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "¡Excelente! Usa las estrategias que has aprendido hoy y ¡diviértete! Sentir alegría y felicidad durante el aprendizaje con {tu niño} es una forma estupenda de motivarle para seguir aprendiendo. 💙",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana."
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA modules - Play (46-60).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1mWNhZqCfGOub-6mE1pRygNQ2hZV7C8CUW8L3ifKAVGQ"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

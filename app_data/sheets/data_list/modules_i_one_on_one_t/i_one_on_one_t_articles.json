@@ -46,9 +46,9 @@
       "quiz_1_feedback_2": "🎉 ¡Tienes razón!\n\n🚲Tu adolescente puede escoger la actividad siempre y cuando sea segura. Esto aumentará su confianza y hará más probable que disfrute pasar tiempo contigo."
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1_W64rz-lmr4E73yn7z55ApP0e3aym0pO/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_1",
       "character_1_id": "F1_PADRE",
       "character_2_id": "F1_HIJA_13",
       "nested": false,
@@ -73,9 +73,9 @@
       "character_2_text": "Bien, papá. Voy llegando de la escuela."
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1uy1rfn48t0hChuvhxs2C_8THHeSKGKsg/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_2",
       "character_1_id": "F1_PADRE",
       "character_2_id": "F1_HIJA_13",
       "character_3_id": "F1_PADRE",
@@ -101,9 +101,9 @@
       "character_3_text": "¡Me encantaría!"
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1di2WhhVnPh1QPN72nIlbsNAUX_WMKonA/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_3",
       "character_1_id": "F1_HIJA_13",
       "character_2_id": "F1_PADRE",
       "nested": false,
@@ -123,9 +123,9 @@
       "character_2_text": "¡Qué buena idea, @data.characters.F1_HIJA_13.name! Se nota que lo has pensado bien y que te interesa esta tarea. ¿Cómo quieres que te ayude?"
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1-xtIeEUQbmSL0zVHR-VrmJV9YZYnXK3_/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_4",
       "character_1_id": "F1_HIJA_13",
       "character_2_id": "F1_PADRE",
       "nested": false,
@@ -145,9 +145,9 @@
       "character_2_text": "Creo que en algún lugar, tengo un poco de pintura que me sobró. Puedo buscarla más tarde."
     },
     {
-      "id": "comic_5",
+      "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/10eNkFcBk2BesBpI_S-2FZ3IPGizYRAi6/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_5",
       "character_1_id": "F1_PADRE",
       "character_2_id": "F1_HIJA_13",
       "character_3_id": "F1_PADRE",
@@ -178,8 +178,8 @@
       "character_3_text": "A ver, cuéntame."
     },
     {
-      "id": "explore_1",
-      "category_id": "explore",
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
       "media_type": "video",
       "youtube_gb_en": "youtube link",
       "nested": false,
@@ -194,7 +194,7 @@
       }
     },
     {
-      "id": "practical_tips_1",
+      "id": "practical_tips_2",
       "category_id": "practical_tips",
       "section_1_icon_asset": "https://drive.google.com/file/d/19m7O3_jqHUfyLx4PRG1NnnwzXiYlAhwS/view?usp=drive_link",
       "section_2_icon_asset": "https://drive.google.com/file/d/1M5CuT6Sl0sJy9NmcNsnQiEiJSmgbzWAZ/view?usp=drive_link",
@@ -282,7 +282,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules.xlsx",
+    "path": "data/PA modules - i (1-15).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
   },
   "_metadata": {

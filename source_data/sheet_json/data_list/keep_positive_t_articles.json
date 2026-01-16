@@ -1,0 +1,72 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "keep_positive_t_articles",
+  "data_list_name": "keep_positive_t_articles",
+  "status": "released",
+  "flow_subtype": "modules_keep_positive_t",
+  "module": "keep_positive_t",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "La lección de hoy trata sobre cómo ayudar a tu adolescente a seguir instrucciones. 😃",
+      "text_2::eng": "Generalmente, las y los adolescentes siguen las instrucciones la mitad de las veces. ⏰ Es natural que, a veces, las y los dolescentes exploren los límites: forma parte de su crecimiento.  \n\nDar instrucciones efectivas y claras puede hacer que el ambiente sean más tranquilo y pacífico en casa. 🌱 "
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "{F3_MADRE} está limpiando la casa mientras {F3_HIJA_12} baila con sus amigas.",
+      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_1.svg"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_2.svg",
+      "character_1_id": "F3_MADRE",
+      "character_1_text::eng": "{F3_HIJA_12}, me da gusto verte ensayando el baile con tus amigas. Sigan haciéndolo pero afuera, por favor, para que pueda terminar de limpiar la casa. Ya que termine, me pueden enseñar su baile.",
+      "character_2_id": "F3_HIJA_12",
+      "character_2_text::eng": "¡Está bien, ma!"
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "{F3_HIJA_12} y sus amigas se salen a ensayar su baile mientras {F3_MADRE} limpia adentro. Después de un rato, {F3_MADRE} también se sale.",
+      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_3.svg"
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_4.svg",
+      "character_1_id": "F3_MADRE",
+      "character_1_text::eng": "Gracias por ensayar afuera mientras yo terminaba de limpiar la casa, {F3_HIJA_12}. Ahora, me gustaría ver su baile."
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_5.svg",
+      "character_1_id": "F3_MADRE",
+      "character_1_text::eng": "¡Guau, {F3_HIJA_12}! ¡Qué bien bailas!"
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "Da Clic en ▶️ para aprender tres estrategias sobre cómo ayudar a {tu adolescente} a seguir instrucciones con mayor frecuencia:\n\n1️⃣ **ESPECIFICAR LO QUE QUIERES**\n2️⃣ **SER REALISTA**\n3️⃣ **USAR PALABRAS AFIRMATIVAS**",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a tu adolescente.",
+      "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "🎉 ¡Qué bien! Acuérdate de ELOGIAR a tu adolescente siempre que siga tus instrucciones. ¡Tú puedes!",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "💚¡Entendemos! Aprender algo nuevo requiere tiempo, paciencia y práctica. Puedes empezar pensando en una instrucción que le des muy seguido a tu adolescente. ¡Practícalo con la persona con la que compartes crianza! 🔄"
+    }
+  ]
+}

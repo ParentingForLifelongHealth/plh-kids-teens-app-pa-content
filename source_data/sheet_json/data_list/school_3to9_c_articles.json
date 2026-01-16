@@ -1,0 +1,42 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "school_3to9_c_articles",
+  "data_list_name": "school_3to9_c_articles",
+  "status": "released",
+  "flow_subtype": "modules_school_3to9_c",
+  "module": "school_3to9_c",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Esta lección trata sobre construir una relación con la escuela de {tu niño} y con sus maestras y maestros. 📖✨",
+      "text_2::eng": "Conversar con las maestras y los maestros de {tu niño} te ayudará a saber lo que {tu niño} hace en la escuela. ⭐\n\n¡También sabrás qué tipo de cosas puedes hacer en casa con {tu niño} para facilitar su aprendizaje y qué cosas puedes hacer tú para apoyar a {tu niño}! 🎓",
+      "quiz_1_question::eng": "📝 Hagamos un ejercicio. Ejercicio 1 \n\nSaber lo que {tu niño} hace en la escuela no le ayudará a aprender.",
+      "quiz_1_option_1_text::eng": "Verdadero",
+      "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n🎉 Estás en lo correcto.\n\n💡 Si tienes una idea de lo que {tu niño} está aprendiendo en la escuela, ¡podrás apoyarle a repasarlo y practicarlo en casa!",
+      "quiz_1_option_2_text::eng": "Falso",
+      "quiz_1_feedback_2::eng": "🎉 Estás en lo correcto.\n\n💡 Si tienes una idea de lo que {tu niño} está aprendiendo en la escuela, ¡podrás apoyarle a repasarlo y practicarlo en casa!"
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "Da Clic en Reproducir ▶️ para aprender cuatro estrategias para involucrarte con la escuela de {tu niño} y con lo que está aprendiendo:\n\n1️⃣ **CONECTAR**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **PRACTICAR**\n4️⃣ **PROMOVER EL INVOLUCRAMIENTO**",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\n*_Habla con {tu niño} sobre lo que están aprendiendo en la escuela en este momento._*",
+      "quiz_1_question::eng": "¿Pueden practicarlo en casa hoy? ⭐",
+      "quiz_1_option_1_text::eng": "Sí",
+      "quiz_1_feedback_1::eng": "¡Excelente! ¡Intenten practicar en casa lo que ya ha aprendido en la escuela! 😃",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "Entendemos. No siempre disponemos del tiempo adecuado para Conversar de la escuela. La próxima vez, pregúntale sobre su día en la escuela, ¡aunque solo platiquen un par de minutos durante el día o durante la comida! 😃"
+    }
+  ]
+}

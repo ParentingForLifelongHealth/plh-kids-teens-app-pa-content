@@ -26,8 +26,9 @@
       "text_2": "Para seguir construyendo una relación positiva con {tu niño}, debemos incorporar el tiempo juntos y conectados en nuestro día a día.  \n\nCrear rutinas diarias con {tu niño} también le ayudará a tener más seguridad y a cooperar contigo. 🔑\n\nAyúdale a organizar sus tiempos para que pueda descansar, comer, ayudar en la casa, cumplir con la escuela y dormir. ⏰"
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/15tcvu5tiHjszVDVTJHq7xB9LFgt3-Uqo/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
       "character_2_id": "F2_HIJA_3",
       "nested": false,
@@ -52,8 +53,9 @@
       "character_2_text": "¡Súper!"
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1IK68KkRBut3LE8HpGH4SR213ctzDOSGR/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
       "nested": false,
       "character_1_text": "Es hora de prepararnos para dormir. ¡Al agua patos! A bañarse para que duermas a gusto.",
@@ -67,8 +69,9 @@
       }
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1JhsJ0Bt4yNoszR6t4M4nqdSplpmY5QP_/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
       "nested": false,
       "character_1_text": "Observé que te lavaste solita el cabello, te tardaste menos tiempo y no desperdiciaste agua. ¡Así se hace, Yani!. Ahora, a ponerse la pijama.",
@@ -82,8 +85,9 @@
       }
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1ahb7WeEULL7a4VYcrr0CL84qXJxNRYMk/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
       "nested": false,
       "character_1_text": "¡Bien hecho por ponerte los pantalones sin ayuda, {F2_HIJA_3}! Ahora lávate los dientes. ¡Asegúrate de cepillarte los de la parte posterior de la boca!",
@@ -97,8 +101,9 @@
       }
     },
     {
-      "id": "comic_5",
+      "id": "explore_5",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1YtDmSJxp_inyzJtvsFm6W7maXesivj_f/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
       "character_2_id": "F2_HIJA_3",
       "nested": false,
@@ -118,8 +123,9 @@
       "character_2_text": "¡Sí! ¿Me puedes leer mi cuento favorito?"
     },
     {
-      "id": "comic_6",
+      "id": "explore_6",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1pxvfLaoCMkSnOJ4nRiB0ucJvhDfe-ZAJ/view?usp=drive_link",
       "character_1_id": "F2_ABUELA",
       "nested": false,
       "character_1_text": "\"Y colorín colorado, este cuento se ha acabado…\" ¿Qué te gustó más de la historia? ¡Cuéntame!",
@@ -190,7 +196,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules.xlsx",
+    "path": "data/PA modules - i (1-15).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
   },
   "_metadata": {

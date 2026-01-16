@@ -1,0 +1,119 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "know_role_c_articles",
+  "data_list_name": "know_role_c_articles",
+  "status": "released",
+  "flow_subtype": "modules_know_role_c",
+  "module": "know_role_c",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Tanto las personas cuidadoras como las niñas y niños tienen un rol que desempeñar en el hogar. 📝\n\nEl rol de {tu niño} es aprender, de las personas que le cuidan, qué puede hacer y qué no debe hacer. Puede empezar a hacer actividades en la casa que sean adecuadas para su edad. ⭐\n;\nComo persona cuidadora, tu rol es cuidar de {tu niño}, mantenerle a salvo y enseñarle cómo comportarse en el mundo. 🌱\n\n*_Tu papel más importante es ayudarle a {tu niño} a sentir tu amor y tu apoyo, ¡pase lo que pase!_* 💙",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Tanto las personas cuidadoras como las niñas y niños tienen un rol que desempeñar en el hogar. 📝\n\nEl rol de {tu niño} es aprender, de las personas que le cuidan, qué puede hacer y qué no debe hacer. Puede empezar a hacer actividades en la casa que sean adecuadas para su edad. ⭐\n;\nComo persona cuidadora, tu rol es cuidar de {tu niño}, mantenerle a salvo y enseñarle cómo comportarse en el mundo. 🌱\n\n*_Tu papel más importante es ayudarle a {tu niño} a sentir tu amor y tu apoyo, ¡pase lo que pase!_* 💙"
+        },
+        "text_2": {
+          "eng": "Si {tu niño} siente amor y apoyo en casa, ¡es más probable que haga las actividades del hogar con alegría y que se convierta en una niña o niño sano, y, eventualmente, en una persona adulta sana! 😃💚"
+        },
+        "quiz_1_question": {
+          "eng": "¡Hagamos un ejercicio!\n\nEjercicio 1.\n\nSi cometo un error o hago algo que moleste a mi niña, niño o adolescente, debo fingir que no ha pasado nada, sonreírle y hacer una actividad más positiva con ella o él."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n💛 *_Admitir nuestros errores y disculparnos les enseña a respetar a los demás y que a veces está bien equivocarse._*\n\n❗ Ignorar un error cuando afecta a tu niña o niño le enseña que no necesita responsabilizarse de sus actos."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 ¡Correcto!\n\n💛 *_Admitir nuestros errores y disculparnos les enseña a respetar a los demás y que a veces está bien equivocarse._*\n\n❗ Ignorar un error cuando afecta a tu niña o niño le enseña que no necesita responsabilizarse de sus actos."
+        }
+      },
+      "text_2": "Si {tu niño} siente amor y apoyo en casa, ¡es más probable que haga las actividades del hogar con alegría y que se convierta en una niña o niño sano, y, eventualmente, en una persona adulta sana! 😃💚",
+      "quiz_1_question": "¡Hagamos un ejercicio!\n\nEjercicio 1.\n\nSi cometo un error o hago algo que moleste a mi niña, niño o adolescente, debo fingir que no ha pasado nada, sonreírle y hacer una actividad más positiva con ella o él.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n💛 *_Admitir nuestros errores y disculparnos les enseña a respetar a los demás y que a veces está bien equivocarse._*\n\n❗ Ignorar un error cuando afecta a tu niña o niño le enseña que no necesita responsabilizarse de sus actos.",
+      "quiz_1_option_2_text": "Falso",
+      "quiz_1_feedback_2": "🎉 ¡Correcto!\n\n💛 *_Admitir nuestros errores y disculparnos les enseña a respetar a los demás y que a veces está bien equivocarse._*\n\n❗ Ignorar un error cuando afecta a tu niña o niño le enseña que no necesita responsabilizarse de sus actos."
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "practical_tips",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link",
+      "nested": false,
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como la persona cuidadora de tus niñas y niños y a enseñarles también el suyo:\n\n1️⃣ **CONOCER TU ROL**\n2️⃣ **ENSEÑAR**\n3️⃣ **ENSEÑAR CON EL EJEMPLO**\n4️⃣ **NOTAR**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en Reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como la persona cuidadora de tus niñas y niños y a enseñarles también el suyo:\n\n1️⃣ **CONOCER TU ROL**\n2️⃣ **ENSEÑAR**\n3️⃣ **ENSEÑAR CON EL EJEMPLO**\n4️⃣ **NOTAR**"
+        }
+      }
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nHabla con {tu niño} sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es un miembro valioso del hogar.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "*_Actividad para casa_*⭐ \n\nHabla con {tu niño} sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es un miembro valioso del hogar."
+        },
+        "quiz_1_question": {
+          "eng": "💛 ¿Tienes tiempo para hacerlo hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Estupendo! 💙 Esto ayudará a {tu niño} a sentir tu amor y tu apoyo, lo que puede llevar a un mejor comportamiento de su parte."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡Está bien! Si hoy no tienes tiempo, aparta un espacio para mañana. Conversar con {tu niño} sobre algo que le gusta le ayuda a sentir que merece tu amor y tu apoyo, ¡lo que puede llevar a un mejor comportamiento de su parte!"
+        }
+      },
+      "quiz_1_question": "💛 ¿Tienes tiempo para hacerlo hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "¡Estupendo! 💙 Esto ayudará a {tu niño} a sentir tu amor y tu apoyo, lo que puede llevar a un mejor comportamiento de su parte.",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "¡Está bien! Si hoy no tienes tiempo, aparta un espacio para mañana. Conversar con {tu niño} sobre algo que le gusta le ayuda a sentir que merece tu amor y tu apoyo, ¡lo que puede llevar a un mejor comportamiento de su parte!"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA modules - problem (31 - 45).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1q27LnkUFTJQqEbqkgh1hgN4sDQkfasSo29b5SAP4ktg"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

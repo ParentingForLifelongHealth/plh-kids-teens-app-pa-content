@@ -10,7 +10,7 @@
       "media_asset": "audio/relax/relax_1.mp3",
       "media_type": "audio",
       "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transript": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "title": "Quick pause",
       "_translations": {
         "title": {}
@@ -25,31 +25,31 @@
       "completed": false
     },
     {
-      "id": "check_in_1",
+      "id": "check_in_2",
       "_translatedFields": {
         "text_1": {
-          "eng": "Take a moment to check in with yourself."
+          "eng": "Toma un momento para TI. Cuidarte empieza por notar cómo te sientes."
         },
         "quiz_1_feedback_1": {
-          "eng": "Wonderful, I am so happy things are going well."
+          "eng": "¡Genial! Que bien saber que estás en un buen momento."
         },
         "quiz_1_feedback_2": {
-          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+          "eng": "Las cosas no siempre son fáciles, pero así es como podemos crecer y aprender cada día."
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+          "eng": "La vida puede ser dura. Sea lo que sea que estés sintiendo, puedes sentirte orgullosa/o de ti y de estar aquí."
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "¿Cómo te sientes el día de hoy?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Feliz"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Bien"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Triste"
         }
       },
       "category_id": "check_in",
@@ -57,7 +57,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Take a moment to check in with yourself.",
+      "text_1": "Toma un momento para TI. Cuidarte empieza por notar cómo te sientes.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -68,13 +68,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
-      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
-      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "¡Genial! Que bien saber que estás en un buen momento.",
+      "quiz_1_feedback_2": "Las cosas no siempre son fáciles, pero así es como podemos crecer y aprender cada día.",
+      "quiz_1_feedback_3": "La vida puede ser dura. Sea lo que sea que estés sintiendo, puedes sentirte orgullosa/o de ti y de estar aquí.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
       "completed": false
     },
     {
@@ -118,7 +118,7 @@
       "completed": false
     },
     {
-      "id": "comic_1",
+      "id": "explore_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Veamos como @data.characters.F1_PADRE.name y su hija @data.characters.F1_HIJA_13.name pasan tiempo juntos y conectados."
@@ -138,7 +138,7 @@
         "character_1_text": {},
         "character_2_text": {}
       },
-      "image_asset": "https://drive.google.com/file/d/1_W64rz-lmr4E73yn7z55ApP0e3aym0pO/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_1",
       "character_1_id": "F1_PADRE",
       "character_2_id": "F1_HIJA_13",
       "character_1_text": "@data.characters.F1_HIJA_13.name, ¿cómo estuvo tu día?",
@@ -146,7 +146,7 @@
       "completed": false
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Quiero pasar tiempo contigo, antes de que tenga que volver al trabajo. ¿Qué quieres que hagamos juntos?"
@@ -160,7 +160,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "https://drive.google.com/file/d/1uy1rfn48t0hChuvhxs2C_8THHeSKGKsg/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_2",
       "character_1_id": "F1_PADRE",
       "character_2_id": "F1_HIJA_13",
       "character_1_text": "Quiero pasar tiempo contigo, antes de que tenga que volver al trabajo. ¿Qué quieres que hagamos juntos?",
@@ -175,7 +175,7 @@
       "completed": false
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Yo estaba pensando en construir una casa reciclada usando botellas viejas, cartón y otros materiales reciclados. Mira, estos los recogí de camino a la casa. Estaban tirados junto a la parada del bus y enfrente de la tienda de la esquina."
@@ -186,7 +186,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "https://drive.google.com/file/d/1di2WhhVnPh1QPN72nIlbsNAUX_WMKonA/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_3",
       "character_1_id": "F1_HIJA_13",
       "character_2_id": "F1_PADRE",
       "character_1_text": "Yo estaba pensando en construir una casa reciclada usando botellas viejas, cartón y otros materiales reciclados. Mira, estos los recogí de camino a la casa. Estaban tirados junto a la parada del bus y enfrente de la tienda de la esquina.",
@@ -198,7 +198,7 @@
       "completed": false
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "_translatedFields": {
         "character_1_text": {
           "eng": "¿Me ayudas a limpiar estas botellas? Van a ser los pilares de la casa. Con los cartones haré las paredes y el techo. Después, estoy pensando que podríamos pintar los cartones y las botellas para que queden bonitos."
@@ -209,7 +209,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "https://drive.google.com/file/d/1-xtIeEUQbmSL0zVHR-VrmJV9YZYnXK3_/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_4",
       "character_1_id": "F1_HIJA_13",
       "character_2_id": "F1_PADRE",
       "character_1_text": "¿Me ayudas a limpiar estas botellas? Van a ser los pilares de la casa. Con los cartones haré las paredes y el techo. Después, estoy pensando que podríamos pintar los cartones y las botellas para que queden bonitos.",
@@ -221,7 +221,7 @@
       "completed": false
     },
     {
-      "id": "comic_5",
+      "id": "explore_5",
       "_translatedFields": {
         "text_2": {
           "eng": "Más tarde, el mismo día"
@@ -238,7 +238,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "https://drive.google.com/file/d/10eNkFcBk2BesBpI_S-2FZ3IPGizYRAi6/view?usp=drive_link",
+      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_5",
       "character_1_id": "F1_PADRE",
       "character_2_id": "F1_HIJA_13",
       "character_1_text": "¡Guau, se ve muy diferente! Ni parece que todos los materiales salieron de la basura. Además, ¡qué bonitas te quedaron las paredes pintadas y el techo también! ¡Tu maestra va a estar orgullosa de tu esfuerzo cuando vea esta tarea!",
@@ -255,14 +255,14 @@
       "completed": false
     },
     {
-      "id": "explore_1",
+      "id": "practical_tips_1",
       "media_type": "video",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Aquí tienes un video para aprender 3️⃣ estrategias de crianza para pasar tiempo juntos y conectados con {tu adolescente}:\n1️⃣ PRACTICAR\n2️⃣ JUGAR\n3️⃣ ESTAR"
         }
       },
-      "category_id": "explore",
+      "category_id": "practical_tips",
       "nested": false,
       "text_1_facilitator": "Aquí tienes un video para aprender 3️⃣ estrategias de crianza para pasar tiempo juntos y conectados con {tu adolescente}:\n1️⃣ PRACTICAR\n2️⃣ JUGAR\n3️⃣ ESTAR",
       "_translations": {
@@ -272,7 +272,7 @@
       "completed": false
     },
     {
-      "id": "practical_tips_1",
+      "id": "practical_tips_2",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda las estrategias para pasar tiempo juntos y conectados con tu adolescente."

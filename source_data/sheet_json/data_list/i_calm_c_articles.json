@@ -32,32 +32,38 @@
       "quiz_3_feedback_2::eng": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
     },
     {
+      "id": "explore_1",
+      "category_id": "explore",
       "text_1_facilitator::eng": "{F2_ABUELO} está a punto de pasar tiempo juntos y conectados con {F2_HIJO_8}, pero al llegar ve que la sala está hecha un desastre. Se da cuenta de que esta situación lo hace sentir enojado.",
+      "image_asset": "https://drive.google.com/file/d/1k48v-Fnl5-F2uuqb6Now6Nv-z2wrWoUQ/view?usp=drive_link",
       "character_1_id": "F2_ABUELO",
       "character_1_text::eng": "El {F2_ABUELO} está pensando: Me estoy sintiendo muy enojado. Estoy cansado y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a mi nieto {F2_HIJO_8}."
     },
     {
-      "id": "comic_2",
+      "id": "explore_2",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/17mixBA9pqxuI-PJEScAVc-_T_K-xx1eX/view?usp=drive_link",
       "character_1_id": "F2_ABUELO",
       "character_1_text::eng": "El {F2_ABUELO} está pensando: Haré una pausa y pondré mi canción favorita."
     },
     {
-      "id": "comic_3",
+      "id": "explore_3",
       "category_id": "explore",
       "text_2::eng": "Un momento después.",
       "character_1_id": "F2_ABUELO",
       "character_1_text::eng": "El {F2_ABUELO} está pensando: Me siento más tranquilo. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto."
     },
     {
-      "id": "comic_4",
+      "id": "explore_4",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1tGG85J_EFZBKzJCBdPpn26nmbCx2djPz/view?usp=drive_link",
       "character_1_id": "F2_ABUELO",
       "character_1_text::eng": "{F2_HIJO_8}, ¡que buen trabajo estas haciendo con tu tarea! Puede que te sientas cansado. Descansemos 5 minutos y después de eso, podemos hacer un juego para ver quién puede recoger más rápido los juguetes."
     },
     {
-      "id": "comic_5",
+      "id": "explore_5",
       "category_id": "explore",
+      "image_asset": "https://drive.google.com/file/d/1UNwBbQXaLAXlL64LL_0_HB487h-Kkq1u/view?usp=drive_link",
       "character_1_id": "F2_ABUELO",
       "character_1_text::eng": "¡Gracias por poner de tu parte para mantener la casa limpia, {F2_HIJO_8}! Estoy muy orgulloso de tu esfuerzo. Es nuestro tiempo juntos y conectados. ¿Qué te gustaría hacer?"
     },
