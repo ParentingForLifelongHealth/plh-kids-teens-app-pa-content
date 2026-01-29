@@ -9,8 +9,8 @@
       "lottie_asset": "lottie/relax/square_flow.json",
       "media_asset": "audio/relax/relax_1.mp3",
       "media_type": "audio",
-      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "title": "Quick pause",
       "_translations": {
         "title": {}
@@ -130,7 +130,7 @@
           "eng": "{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:"
         },
         "character_1_text": {
-          "eng": "Quiero pasar tiempo juntos y conectados,{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:"
+          "eng": "Quiero pasar tiempo juntos y conectados,@data.characters.f1_hijo_5.name y su mamá, @data.characters.f1_madre.name, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:"
         },
         "character_2_text": {
           "eng": "¡Quiero jugar a disfrazarnos!"
@@ -148,7 +148,7 @@
       "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_1",
       "character_1_id": "F1_MADRE",
       "character_2_id": "F1_HIJO_5",
-      "character_1_text": "Quiero pasar tiempo juntos y conectados,{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
+      "character_1_text": "Quiero pasar tiempo juntos y conectados,@data.characters.f1_hijo_5.name y su mamá, @data.characters.f1_madre.name, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
       "character_2_text": "¡Quiero jugar a disfrazarnos!",
       "completed": false
     },

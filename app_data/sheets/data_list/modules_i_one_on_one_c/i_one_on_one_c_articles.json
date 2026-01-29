@@ -70,13 +70,13 @@
           "eng": "{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:"
         },
         "character_1_text": {
-          "eng": "Quiero pasar tiempo juntos y conectados,{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:"
+          "eng": "Quiero pasar tiempo juntos y conectados,@data.characters.f1_hijo_5.name y su mamá, @data.characters.f1_madre.name, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:"
         },
         "character_2_text": {
           "eng": "¡Quiero jugar a disfrazarnos!"
         }
       },
-      "character_1_text": "Quiero pasar tiempo juntos y conectados,{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
+      "character_1_text": "Quiero pasar tiempo juntos y conectados,@data.characters.f1_hijo_5.name y su mamá, @data.characters.f1_madre.name, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
       "character_2_text": "¡Quiero jugar a disfrazarnos!"
     },
     {
