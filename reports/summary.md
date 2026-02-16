@@ -81,7 +81,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 1063 KB | 1.1 MB |
-| unused | 163116 KB | 163.1 MB |
+| unused | 41528 KB | 41.5 MB |
 </details>
 
 <details open>
@@ -95,26 +95,8 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 58.3 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
-| audio/care_audio_1.mp3 | 527.5 |
-| audio/care_audio_2.mp3 | 1166.3 |
-| audio/celebrate_audio_1.mp3 | 497.1 |
-| audio/connect_audio_1.mp3 | 891.7 |
-| audio/connect_audio_2.mp3 | 981.4 |
-| audio/consequences_audio_1.mp3 | 800.2 |
-| audio/consequences_audio_2.mp3 | 1206.6 |
-| audio/feelings_audio_1.mp3 | 336 |
-| audio/feelings_audio_2.mp3 | 635.8 |
-| audio/instructions_audio_1.mp3 | 613.7 |
-| audio/instructions_audio_2.mp3 | 784.2 |
-| audio/learn_audio_1.mp3 | 563.1 |
-| audio/learn_audio_2.mp3 | 254.5 |
-| audio/praise_audio_1.mp3 | 344 |
-| audio/praise_audio_2.mp3 | 1042.6 |
-| audio/rules_audio_1.mp3 | 427.6 |
-| audio/rules_audio_2.mp3 | 742.7 |
-| audio/solve_audio_1.mp3 | 609 |
-| audio/solve_audio_2.mp3 | 468.1 |
-| contents.json | 16.8 |
+| images/character_icons/AMIGA_MUJER_1.svg | 968.2 |
+| images/character_icons/AMIGA_MUJER_2.svg | 1402.2 |
 | images/character_icons/F1_HIJA_13.svg | 1896.6 |
 | images/character_icons/F1_HIJA_16.svg | 1866.5 |
 | images/character_icons/F1_HIJA_6.svg | 1866.6 |
@@ -133,7 +115,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/character_icons/F3_HIJO_4.svg | 1046.7 |
 | images/character_icons/F3_MADRE.svg | 1046.7 |
 | images/character_icons/F3_PADRE.svg | 1046.7 |
-| images/childdevelopment.svg | 20.3 |
+| images/character_icons/HOMBRE_EN_COCHE.svg | 193.3 |
 | images/comic/1. Mejorar la relación con mi niña o niño/calm_yc/calm_yc_1.svg | 45.5 |
 | images/comic/1. Mejorar la relación con mi niña o niño/calm_yc/calm_yc_2.svg | 8 |
 | images/comic/1. Mejorar la relación con mi niña o niño/calm_yc/calm_yc_4.svg | 45.1 |
@@ -411,71 +393,12 @@ Assets that appear in app-data but do not have references within sheets
 | images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading_2to3_yc/reading_2to3_yc_2.svg | 46.1 |
 | images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading_2to3_yc/reading_2to3_yc_3.svg | 39.3 |
 | images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading_2to3_yc/reading_2to3_yc_4.svg | 37.9 |
-| images/comics/child_development_yc_1.svg | 124.5 |
-| images/comics/child_development_yc_2.svg | 123.7 |
-| images/comics/child_development_yc_3.svg | 128.1 |
-| images/comics/child_development_yc_4.svg | 123 |
-| images/comics/consequences_yc_1.svg | 117.6 |
-| images/comics/consequences_yc_2.svg | 150.5 |
-| images/comics/consequences_yc_3.svg | 156.7 |
-| images/comics/consequences_yc_4.svg | 146.5 |
-| images/comics/consequences_yc_5.svg | 64.7 |
-| images/comics/feelings_yc_1.svg | 106.8 |
-| images/comics/feelings_yc_2.svg | 175.7 |
-| images/comics/feelings_yc_3.svg | 183.1 |
-| images/comics/feelings_yc_4.svg | 159 |
-| images/comics/instructions_yc_1.svg | 146.4 |
-| images/comics/instructions_yc_2.svg | 154.5 |
-| images/comics/instructions_yc_3.svg | 155.2 |
-| images/comics/instructions_yc_4.svg | 60.3 |
-| images/comics/instructions_yc_5.svg | 124.9 |
-| images/comics/instructions_yc_6.svg | 122.1 |
-| images/comics/instructions_yc_7.svg | 125.9 |
-| images/comics/learn_experience_yc_1.svg | 77.7 |
-| images/comics/learn_experience_yc_2.svg | 82.7 |
-| images/comics/learn_experience_yc_3.svg | 81.8 |
-| images/comics/learn_experience_yc_4.svg | 82.5 |
-| images/comics/learn_experience_yc_5.svg | 71.1 |
-| images/comics/one_on_one_yc_1.svg | 61 |
-| images/comics/one_on_one_yc_2.svg | 65.5 |
-| images/comics/one_on_one_yc_3.svg | 65.5 |
-| images/comics/one_on_one_yc_4.svg | 67 |
-| images/comics/play_yc_1.svg | 286.4 |
-| images/comics/play_yc_2.svg | 283.3 |
-| images/comics/play_yc_3.svg | 80.8 |
-| images/comics/play_yc_4.svg | 98.5 |
-| images/comics/praise_yc_1.svg | 98.7 |
-| images/comics/praise_yc_2.svg | 100.5 |
-| images/comics/praise_yc_3.svg | 96.5 |
-| images/comics/praise_yc_4.svg | 105 |
-| images/comics/problem_solving_yc_1.svg | 42.1 |
-| images/comics/problem_solving_yc_2.svg | 48.3 |
-| images/comics/problem_solving_yc_3.svg | 47 |
-| images/comics/problem_solving_yc_4.svg | 42.1 |
-| images/comics/routines_yc_1.svg | 55.9 |
-| images/comics/routines_yc_10.svg | 111.8 |
-| images/comics/routines_yc_2.svg | 62.4 |
-| images/comics/routines_yc_3.svg | 60.7 |
-| images/comics/routines_yc_4.svg | 74.3 |
-| images/comics/routines_yc_5.svg | 49.9 |
-| images/comics/routines_yc_6.svg | 47.2 |
-| images/comics/routines_yc_7.svg | 140.7 |
-| images/comics/routines_yc_8.svg | 96.8 |
-| images/comics/routines_yc_9.svg | 116.9 |
-| images/comics/self_care_yc_1.svg | 100.6 |
-| images/comics/self_care_yc_2.svg | 65.9 |
-| images/comics/self_care_yc_3.svg | 145.9 |
-| images/comics/self_care_yc_4.svg | 61.5 |
-| images/comics/teach_consequences_yc_3.jpg | 3174 |
-| images/consequences.jpg | 115.1 |
-| images/facilitators_face.svg | 39.3 |
 | images/flags/gb.svg | 0.5 |
-| images/flags/kw.svg | 0.5 |
-| images/flags/tz.svg | 0.5 |
 | images/icons/balance_blue.png | 4.7 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/book_outline_white.svg | 0.7 |
 | images/icons/brain_blue.png | 5.2 |
+| images/icons/cancel.svg | 1.7 |
 | images/icons/clock_blue.png | 4.5 |
 | images/icons/diamond_blue.png | 4.7 |
 | images/icons/expand_circle_right.png | 0.9 |
@@ -515,10 +438,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/trophy_blue.png | 5.1 |
 | images/icons/trophy_footer.svg | 3.9 |
 | images/icons/trophy_footer_active.svg | 3.9 |
-| images/instructions.svg | 23.2 |
-| images/kw_facilitator_rd.jpg | 35.2 |
-| images/kw_facilitator_rd.png | 87.3 |
-| images/kw_facilitator_sq.jpg | 30 |
 | images/logos/MIDES logo colour.png | 39.9 |
 | images/logos/donors/Agency_fund.png | 43.7 |
 | images/logos/donors/ERC-EU.png | 209.7 |
@@ -533,22 +452,9 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/donors/Wellspring.jpeg | 106.5 |
 | images/logos/donors/safe_online.png | 65.8 |
 | images/logos/favicon.png | 6.3 |
-| images/logos/kuwait.png | 248 |
-| images/logos/plh.jpeg | 9.4 |
 | images/logos/plh_white.png | 12.8 |
-| images/one_on_one_challenges.svg | 13.1 |
-| images/praise.svg | 11.3 |
-| images/problemsolving.svg | 19.6 |
-| images/rulesroutines.jpg | 102.2 |
-| images/selfcare.jpg | 96.6 |
-| images/talk_feelings_challenges.svg | 19.3 |
 | lottie/bulging_circles.txt | 0.2 |
 | lottie/cascading_stars.json | 140.5 |
-| video/modules/connect/join_child.mp4 | 10726.2 |
-| video/modules/connect/shared_reading.mp4 | 36376.3 |
-| videos/pause/body_scan.mp4 | 10418.6 |
-| videos/pause/breath_body_awareness.mp4 | 27250 |
-| videos/pause/loving_kindness_meditation.mp4 | 16605.2 |
 </details>
 
 <details open>
@@ -558,30 +464,6 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| audio/relax/relax_1.mp3 | 77 |
-| audio/relax/relax_10.mp3 | 1 |
-| audio/relax/relax_11.mp3 | 1 |
-| audio/relax/relax_12.mp3 | 1 |
-| audio/relax/relax_13.mp3 | 1 |
-| audio/relax/relax_14.mp3 | 1 |
-| audio/relax/relax_15.mp3 | 1 |
-| audio/relax/relax_16.mp3 | 1 |
-| audio/relax/relax_17.mp3 | 1 |
-| audio/relax/relax_18.mp3 | 1 |
-| audio/relax/relax_19.mp3 | 1 |
-| audio/relax/relax_2.mp3 | 2 |
-| audio/relax/relax_20.mp3 | 1 |
-| audio/relax/relax_21.mp3 | 1 |
-| audio/relax/relax_22.mp3 | 1 |
-| audio/relax/relax_23.mp3 | 1 |
-| audio/relax/relax_24.mp3 | 1 |
-| audio/relax/relax_3.mp3 | 2 |
-| audio/relax/relax_4.mp3 | 2 |
-| audio/relax/relax_5.mp3 | 2 |
-| audio/relax/relax_6.mp3 | 1 |
-| audio/relax/relax_7.mp3 | 1 |
-| audio/relax/relax_8.mp3 | 1 |
-| audio/relax/relax_9.mp3 | 2 |
 | images/1. Mejorar la relación con mi NNA/give_praise_teen_1.svg | 2 |
 | images/1. Mejorar la relación con mi NNA/give_praise_teen_2.svg | 2 |
 | images/1. Mejorar la relación con mi NNA/give_praise_teen_3.svg | 2 |
