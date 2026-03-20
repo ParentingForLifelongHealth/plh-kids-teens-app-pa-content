@@ -34,14 +34,14 @@
       "exclude_from_translation": true
     },
     {
-      "type": "begin_data_items",
+      "__EMPTY": "begin_data_items",
       "name": "find_first_uncompleted_article",
       "value": "@local.articles_data",
       "parameter_list": "filter: !@item.completed; \nlimit: 1",
       "exclude_from_translation": true
     },
     {
-      "type": "begin_template",
+      "__EMPTY": "begin_template",
       "name": "module_start_at_id",
       "value": "module_start_at_id",
       "action_list": "completed | emit: completed; uncompleted | emit: uncompleted",
@@ -58,10 +58,10 @@
       "exclude_from_translation": true
     },
     {
-      "type": "end_template"
+      "__EMPTY": "end_template"
     },
     {
-      "type": "end_data_items",
+      "__EMPTY": "end_data_items",
       "exclude_from_translation": true
     }
   ]

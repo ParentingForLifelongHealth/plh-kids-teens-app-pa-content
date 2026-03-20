@@ -144,7 +144,7 @@
     },
     {
       "name": "locked_icon_asset",
-      "value": "images/icons/locked.png",
+      "value": "images/icons/lock-closed-outline.svg",
       "exclude_from_translation": true
     },
     {
@@ -153,7 +153,7 @@
     },
     {
       "name": "unlocked_icon_asset",
-      "value": "images/icons/notification_bell.png",
+      "value": "images/icons/lock-open-outline.svg",
       "exclude_from_translation": true
     },
     {

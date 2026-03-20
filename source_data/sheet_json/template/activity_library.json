@@ -148,32 +148,32 @@
     },
     {
       "name": "all_image_asset",
-      "value": "images/icons/diamond.png",
+      "value": "images/icons/diamond-outline.svg",
       "exclude_from_translation": true
     },
     {
       "name": "not_locked_image_asset",
-      "value": "images/icons/trophy.png",
+      "value": "images/icons/lock-open-outline.svg",
       "exclude_from_translation": true
     },
     {
       "name": "favourite_image_asset",
-      "value": "images/icons/heart_filled.png",
+      "value": "images/icons/heart_filled.svg",
       "exclude_from_translation": true
     },
     {
       "name": "all_checked_image_asset",
-      "value": "images/icons/diamond_active.png",
+      "value": "images/icons/diamond-outline.svg",
       "exclude_from_translation": true
     },
     {
       "name": "not_locked_checked_image_asset",
-      "value": "images/icons/trophy_active.png",
+      "value": "images/icons/lock-open-outline.svg",
       "exclude_from_translation": true
     },
     {
       "name": "favourite_checked_image_asset",
-      "value": "images/icons/heart_filled_active.png",
+      "value": "images/icons/heart_filled_red.svg",
       "exclude_from_translation": true
     },
     {
@@ -240,16 +240,17 @@
       "name": "toggle_@item.id",
       "value": "@item.favourite",
       "action_list": "changed | set_item | favourite: !@item.favourite",
-      "parameter_list": "variant: icon; \nicon_true_asset: images/icons/heart_filled_red.png;\nicon_false_asset: images/icons/heart.png;",
+      "parameter_list": "variant: icon; \nicon_true_asset: images/icons/heart_filled_red.png;\nicon_false_asset: images/icons/heart-outline.png;",
       "condition": "!@item.locked",
       "exclude_from_translation": true
     },
     {
       "type": "image",
       "name": "image_locked_@item.id",
-      "value": "images/icons/locked.png",
+      "value": "images/icons/lock-closed-outline.png",
       "condition": "@item.locked",
-      "exclude_from_translation": true
+      "exclude_from_translation": true,
+      "style_list": "height: 48px;\nwidth: 48px;\npadding: 0px 8px 12px 0px"
     },
     {
       "type": "end_button",

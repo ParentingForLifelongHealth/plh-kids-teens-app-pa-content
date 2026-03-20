@@ -69,7 +69,7 @@
       "value": "@global.login_skip",
       "action_list": "click | emit: completed;\nclick | set_field: onboarding_terms_login_completed: true;",
       "condition": "!@global.login_is_mandatory",
-      "parameter_list": "style: navigation flexible short"
+      "comment": "style: navigation flexible short"
     },
     {
       "type": "text",
