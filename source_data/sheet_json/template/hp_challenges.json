@@ -248,7 +248,8 @@
       "value": "@item.@local.response_column",
       "action_list": "changed | set_item | @local.response_column: this.value;",
       "parameter_list": "input_allowed: false;\ntext: @local.top_text;\nanswer_list:@local.answer_list;\nplaceholder: @local.placeholder;",
-      "exclude_from_translation": true
+      "exclude_from_translation": true,
+      "style_list": "padding: 0px 0px 24px 0px"
     },
     {
       "type": "begin_template",
