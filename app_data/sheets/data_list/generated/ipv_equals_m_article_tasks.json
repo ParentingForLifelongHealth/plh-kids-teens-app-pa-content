@@ -6,26 +6,35 @@
     {
       "id": "relax_1",
       "in_library": "yes",
+      "title_eng": "Quick pause",
+      "title": "Pausa rápida",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_1.mp3",
+      "media_asset_m": "audio/relax/relax_1.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
-      "title": "Quick pause",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Quick pause"
-        }
-      },
+      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "category_id": "relax",
       "nested": false,
       "completed": false
     },
     {
       "id": "check_in_14",
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Toma un momento para notar cómo estás.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
       "_translatedFields": {
         "text_1": {
           "eng": "Toma un momento para notar cómo estás."
@@ -52,22 +61,6 @@
           "eng": "Triste"
         }
       },
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Toma un momento para notar cómo estás.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "quiz_1_feedback_1": "¡Genial! Que gusto saber que hoy estás bien.",
       "quiz_1_feedback_2": "Habrá días retadores, y está bien. Vas por buen camino.",
       "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles ahora. Es completamente normal pasar por momentos así. Recuerda que no estás sola/o.",
@@ -79,6 +72,8 @@
     },
     {
       "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "⭐ La familia y las amistades pueden decirte cómo piensan que debe actuar una pareja o una figura parental. Sin embargo, tanto las mujeres como los hombres, se benefician cuando platican entre sí y toman decisiones en conjunto. Por ejemplo, la próxima vez que tengas que tomar una decisión, involucra a tu pareja o familiar con quien compartes la crianza y pregúntale qué piensa."
@@ -117,8 +112,6 @@
           "eng": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
         }
       },
-      "category_id": "intro",
-      "nested": false,
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🔑 La comunicación y tomar decisiones importantes junto con tu pareja o familiar es una parte importante de tener una relación sana. Involucra a todos en la decisión para tener todos los puntos de vista.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -149,34 +142,36 @@
     },
     {
       "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Aquí tienes una historieta que muestra cómo las parejas o familiares pueden compartir sus opiniones de manera equitativa y tomar decisiones como equipo."
         },
         "character_1_text": {
-          "eng": "{F1_MADRE}, te ves preocupada. ¿Qué pasa?"
+          "eng": "@data.characters.f1_madre.name, te ves preocupada. ¿Qué pasa?"
         },
         "character_2_text": {
           "eng": "Acabo de ver en la cocina y no tendremos qué comer el fin de semana, estoy preocupada. ¿qué haremos?"
         }
       },
-      "category_id": "explore",
-      "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta que muestra cómo las parejas o familiares pueden compartir sus opiniones de manera equitativa y tomar decisiones como equipo.",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
         "character_2_text": {}
       },
-      "image_asset": "images/character_icons/ipv_equals_1",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_MADRE",
-      "character_1_text": "{F1_MADRE}, te ves preocupada. ¿Qué pasa?",
+      "image_asset": "images/comic/ipv/ipv_equals_1.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_madre",
+      "character_1_text": "@data.characters.f1_madre.name, te ves preocupada. ¿Qué pasa?",
       "character_2_text": "Acabo de ver en la cocina y no tendremos qué comer el fin de semana, estoy preocupada. ¿qué haremos?",
       "completed": false
     },
     {
       "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Oh no, creo que puedo vender unas cosas en el mercado y así tendremos dinero para comprar comida."
@@ -185,11 +180,9 @@
           "eng": "Yo estaba pensando lo mismo. Tal vez pueda ayudarte."
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/character_icons/ipv_equals_2",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_MADRE",
+      "image_asset": "images/comic/ipv/ipv_equals_2.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_madre",
       "character_1_text": "Oh no, creo que puedo vender unas cosas en el mercado y así tendremos dinero para comprar comida.",
       "_translations": {
         "character_1_text": {},
@@ -200,6 +193,8 @@
     },
     {
       "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Sí, gracias por siempre ayudarme. Juntos podemos solucionarlo mejor."
@@ -208,11 +203,9 @@
           "eng": "De nada, para esto estamos."
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/character_icons/ipv_equals_3",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_MADRE",
+      "image_asset": "images/comic/ipv/ipv_equals_3.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_madre",
       "character_1_text": "Sí, gracias por siempre ayudarme. Juntos podemos solucionarlo mejor.",
       "_translations": {
         "character_1_text": {},
@@ -223,6 +216,8 @@
     },
     {
       "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "(Una hora más tarde…)"
@@ -234,17 +229,15 @@
           "eng": "Yo también. Me siento mucho mejor ahora que ya lo hablamos."
         }
       },
-      "category_id": "explore",
-      "nested": false,
       "text_1_facilitator": "(Una hora más tarde…)",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
         "character_2_text": {}
       },
-      "image_asset": "images/character_icons/ipv_equals_4",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_MADRE",
+      "image_asset": "images/comic/ipv/ipv_equals_4.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_madre",
       "character_1_text": "Bueno, no será fácil la venta en el mercado pero sí podremos vender algunas cosas y conseguir dinero suficiente para la comida. Ahora me siento más tranquilo.",
       "character_2_text": "Yo también. Me siento mucho mejor ahora que ya lo hablamos.",
       "completed": false
@@ -252,14 +245,14 @@
     {
       "id": "practical_tips_1",
       "media_type": "video",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "\"Da clic en reproducir ▶️ para conocer algunas estrategias para tomar decisiones en equipo:\n\n1️⃣ **COMPARTIR LA TOMA DE DECISIONES**\n2️⃣ **INVOLUCRAR A TU PAREJA**\n3️⃣ **ESTAR EN SINCRONÍA HACE LA DIFERENCIA**\n4️⃣ **PRACTICAR AYUDA A MEJORAR**\""
-        }
-      },
       "category_id": "practical_tips",
       "nested": false,
-      "text_1_facilitator": "\"Da clic en reproducir ▶️ para conocer algunas estrategias para tomar decisiones en equipo:\n\n1️⃣ **COMPARTIR LA TOMA DE DECISIONES**\n2️⃣ **INVOLUCRAR A TU PAREJA**\n3️⃣ **ESTAR EN SINCRONÍA HACE LA DIFERENCIA**\n4️⃣ **PRACTICAR AYUDA A MEJORAR**\"",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "\"Da clic en reproducir ▶️ para conocer algunas estrategias para tomar decisiones en equipo:\n\n1️⃣ **COMPARTIR LA TOMA DE DECISIONES**\n2️⃣ **INVOLUCRAR A TU PAREJA**\n3️⃣ **ESTAR EN SINCRONÍA HACE LA DIFERENCIA**\n4️⃣ **PRACTICAR AYUDA A MEJORAR**"
+        }
+      },
+      "text_1_facilitator": "\"Da clic en reproducir ▶️ para conocer algunas estrategias para tomar decisiones en equipo:\n\n1️⃣ **COMPARTIR LA TOMA DE DECISIONES**\n2️⃣ **INVOLUCRAR A TU PAREJA**\n3️⃣ **ESTAR EN SINCRONÍA HACE LA DIFERENCIA**\n4️⃣ **PRACTICAR AYUDA A MEJORAR**",
       "_translations": {
         "text_1_facilitator": {}
       },
@@ -268,9 +261,11 @@
     },
     {
       "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nTu actividad para casa consiste en involucrar a tu pareja o familiar en una decisión que deban tomar hoy.  \n\nPor ejemplo, puedes preguntar \"¿Qué te gustaría cenar hoy?\""
+          "eng": "**_Actividad para casa_**⭐ \n\nTu actividad para casa consiste en involucrar a tu pareja o familiar en una decisión que deban tomar hoy.  \n\nPor ejemplo, puedes preguntar \"¿Qué te gustaría cenar hoy?\""
         },
         "quiz_1_question": {
           "eng": "¿Crees que pueden hacerlo?  ⏰"
@@ -288,8 +283,6 @@
           "eng": "Puede llevar un poco de tiempo acostumbrarse a tomar decisiones como equipo. Dense ese tiempo para adaptarse.\n\nRecuerda que comunicarte con tu pareja o familiar e involucrarle en la toma de decisiones ayudará a que le sea más fácil hacerlo contigo también.\n\n⭐ Siempre puedes volver a consultar esta sesión en el Menú Principal."
         }
       },
-      "category_id": "practise",
-      "nested": false,
       "quiz_1_feedback_1": "🎉 ¡Bien hecho! ¡La comunicación y el trabajo en equipo con tu pareja o familiar hacen la diferencia!",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -303,7 +296,7 @@
       "quiz_1_question": "¿Crees que pueden hacerlo?  ⏰",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nTu actividad para casa consiste en involucrar a tu pareja o familiar en una decisión que deban tomar hoy.  \n\nPor ejemplo, puedes preguntar \"¿Qué te gustaría cenar hoy?\"",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nTu actividad para casa consiste en involucrar a tu pareja o familiar en una decisión que deban tomar hoy.  \n\nPor ejemplo, puedes preguntar \"¿Qué te gustaría cenar hoy?\"",
       "completed": false
     }
   ],

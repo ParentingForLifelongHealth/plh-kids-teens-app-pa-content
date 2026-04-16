@@ -53,11 +53,11 @@
     {
       "id": "explore_1",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/learn_experience_yc_1",
-      "character_1_id": "F2_ABUELO",
-      "character_2_id": "F2_HIJO_8",
+      "image_asset": "images/comic/understand/learn_experience_yc_1.svg",
+      "character_1_id": "f2_abuelo",
+      "character_2_id": "f2_hijo_8",
       "nested": false,
-      "text_1_facilitator": "{F2_HIJO_8} está demasiado activo dentro de la casa el día de hoy. Veamos cómo reacciona su abuelo, {F2_ABUELO}:",
+      "text_1_facilitator": "@data.characters.f2_hijo_8.name está demasiado activo dentro de la casa el día de hoy. Veamos cómo reacciona su abuelo, @data.characters.f2_abuelo.name:",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
@@ -65,39 +65,39 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "{F2_HIJO_8} está demasiado activo dentro de la casa el día de hoy. Veamos cómo reacciona su abuelo, {F2_ABUELO}:"
+          "eng": "@data.characters.f2_hijo_8.name está demasiado activo dentro de la casa el día de hoy. Veamos cómo reacciona su abuelo, @data.characters.f2_abuelo.name:"
         },
         "character_1_text": {
-          "eng": "{F2_HIJO_8}, ¡fíjate bien por dónde vas! Vas a romper algo."
+          "eng": "@data.characters.f2_hijo_8.name, ¡fíjate bien por dónde vas! Vas a romper algo."
         },
         "character_2_text": {
           "eng": "¡No va a pasar nada!"
         }
       },
-      "character_1_text": "{F2_HIJO_8}, ¡fíjate bien por dónde vas! Vas a romper algo.",
+      "character_1_text": "@data.characters.f2_hijo_8.name, ¡fíjate bien por dónde vas! Vas a romper algo.",
       "character_2_text": "¡No va a pasar nada!"
     },
     {
       "id": "explore_2",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/learn_experience_yc_2",
+      "image_asset": "images/comic/understand/learn_experience_yc_2.svg",
       "nested": false,
-      "text_1_facilitator": "{F2_HIJO_8} choca contra una mesa y rompe un florero. {F2_ABUELO} lo ve y se preocupa.",
+      "text_2": "@data.characters.f2_hijo_8.name choca contra una mesa y rompe un florero. @data.characters.f2_abuelo.name lo ve y se preocupa.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_2": {}
       },
       "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "{F2_HIJO_8} choca contra una mesa y rompe un florero. {F2_ABUELO} lo ve y se preocupa."
+        "text_2": {
+          "eng": "@data.characters.f2_hijo_8.name choca contra una mesa y rompe un florero. @data.characters.f2_abuelo.name lo ve y se preocupa."
         }
       }
     },
     {
       "id": "explore_3",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/learn_experience_yc_3",
-      "character_1_id": "F2_ABUELO",
-      "character_2_id": "F2_HIJO_8",
+      "image_asset": "images/comic/understand/learn_experience_yc_3.svg",
+      "character_1_id": "f2_abuelo",
+      "character_2_id": "f2_hijo_8",
       "nested": false,
       "character_1_text": "¿Te lastimaste?",
       "_translations": {
@@ -117,9 +117,9 @@
     {
       "id": "explore_4",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/learn_experience_yc_4",
-      "character_1_id": "F2_ABUELO",
-      "character_2_id": "F2_HIJO_8",
+      "image_asset": "images/comic/understand/learn_experience_yc_4.svg",
+      "character_1_id": "f2_abuelo",
+      "character_2_id": "f2_hijo_8",
       "nested": false,
       "character_1_text": "Gracias por darte cuenta de tu error y por disculparte. ¿Sabes cómo podrías haber evitado que esto pasara?",
       "_translations": {
@@ -139,18 +139,18 @@
     {
       "id": "explore_5",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/learn_experience_yc_5",
-      "character_1_id": "F2_ABUELO",
-      "character_2_id": "F2_HIJO_8",
+      "image_asset": "images/comic/understand/learn_experience_yc_5.svg",
+      "character_1_id": "f2_abuelo",
+      "character_2_id": "f2_hijo_8",
       "nested": false,
-      "character_1_text": "Está bien, {F2_HIJO_8}. Estoy orgulloso de que seas capaz de aprender de tus errores. Vamos a buscar una escoba y un trapo para recoger esto. Igual y se puede arreglar el florero con un poco de pegamento.",
+      "character_1_text": "Está bien, @data.characters.f2_hijo_8.name. Estoy orgulloso de que seas capaz de aprender de tus errores. Vamos a buscar una escoba y un trapo para recoger esto. Igual y se puede arreglar el florero con un poco de pegamento.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Está bien, {F2_HIJO_8}. Estoy orgulloso de que seas capaz de aprender de tus errores. Vamos a buscar una escoba y un trapo para recoger esto. Igual y se puede arreglar el florero con un poco de pegamento."
+          "eng": "Está bien, @data.characters.f2_hijo_8.name. Estoy orgulloso de que seas capaz de aprender de tus errores. Vamos a buscar una escoba y un trapo para recoger esto. Igual y se puede arreglar el florero con un poco de pegamento."
         },
         "character_2_text": {
           "eng": "Bueno…"
@@ -178,7 +178,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\n*_Comparte una historia con {tu niño} sobre un momento en el que aprendiste de un error. Puede ser algo de cuando tú eras menor u otra lección de vida que hayas tenido._*",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nComparte una historia con {tu niño} sobre un momento en el que aprendiste de un error. Puede ser algo de cuando tú eras menor u otra lección de vida que hayas tenido.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -189,7 +189,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\n*_Comparte una historia con {tu niño} sobre un momento en el que aprendiste de un error. Puede ser algo de cuando tú eras menor u otra lección de vida que hayas tenido._*"
+          "eng": "**_Actividad para casa_**⭐ \n\nComparte una historia con {tu niño} sobre un momento en el que aprendiste de un error. Puede ser algo de cuando tú eras menor u otra lección de vida que hayas tenido."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
@@ -216,7 +216,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - Play (46-60).xlsx",
+    "path": "data/PA modules - understand (65 - 75).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1mWNhZqCfGOub-6mE1pRygNQ2hZV7C8CUW8L3ifKAVGQ"
   },
   "_metadata": {

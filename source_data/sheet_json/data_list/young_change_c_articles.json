@@ -29,46 +29,46 @@
     {
       "id": "explore_1",
       "category_id": "Explore",
-      "text_1_facilitator::eng": "{F1_HIJA_6} intenta ponerse los zapatos.",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/young_child_change_yc_1",
-      "character_1_id": "F1_PADRE",
+      "text_1_facilitator::eng": "@data.characters.f1_hijo_5.name intenta ponerse los zapatos.",
+      "image_asset": "images/comic/understand/young_child_change_yc_1.svg",
+      "character_1_id": "f1_padre",
       "character_1_text::eng": "Noto que no te has puesto los zapatos, aquí estoy si necesitas ayuda.",
-      "character_2_id": "F1_HIJA_6",
+      "character_2_id": "f1_hijo_5",
       "character_2_text::eng": "¡No, yo quiero intentarlo!",
-      "character_3_id": "F1_PADRE",
-      "character_3_text::eng": "¡De acuerdo {F1_HIJA_6}!"
+      "character_3_id": "f1_padre",
+      "character_3_text::eng": "¡De acuerdo @data.characters.f1_hijo_5.name!"
     },
     {
       "id": "explore_2",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/young_child_change_yc_2",
-      "character_1_id": "F1_HIJA_6",
+      "image_asset": "images/comic/understand/young_child_change_yc_2.svg",
+      "character_1_id": "f1_hijo_5",
       "character_1_text::eng": "¡No puedo!",
-      "character_2_id": "F1_PADRE",
+      "character_2_id": "f1_padre",
       "character_2_text::eng": "¡Sí, tú puedes! ¿Qué tal si yo te ayudo con un pie y tú lo haces con el otro?"
     },
     {
       "id": "explore_3",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/young_child_change_yc_3",
-      "character_1_id": "F1_HIJA_6",
+      "image_asset": "images/comic/understand/young_child_change_yc_3.svg",
+      "character_1_id": "f1_hijo_5",
       "character_1_text::eng": "Bueno.",
-      "character_2_id": "F1_PADRE",
+      "character_2_id": "f1_padre",
       "character_2_text::eng": "Sujeta el zapato con las dos manos. Ahora, mete el pie izquierdo en el zapato. ¡Ya casi! Mueve los dedos de los pies y asegúrate de que el talón está metido hasta el fondo. ¡Buen trabajo! Ahora, prueba con el zapato derecho."
     },
     {
       "id": "explore_4",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/young_child_change_yc_4",
-      "character_1_id": "F1_HIJA_6",
+      "image_asset": "images/comic/understand/young_child_change_yc_4.svg",
+      "character_1_id": "f1_hijo_5",
       "character_1_text::eng": "¡Lo logré!",
-      "character_2_id": "F1_PADRE",
-      "character_2_text::eng": "¡Muy bien, {F1_HIJA_6}! ¡Cada día haces más cosas!"
+      "character_2_id": "f1_padre",
+      "character_2_text::eng": "¡Muy bien, @data.characters.f1_hijo_5.name! ¡Cada día haces más cosas!"
     },
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "text_1_facilitator::eng": "\"Da Clic en Reproducir ▶️ para aprender algunas estrategias que puedes seguir para favorecer el desarrollo saludable de {tu niño}:\n\n1️⃣ **APRENDER JUGANDO**\n2️⃣ **APOYAR LA CURIOSIDAD**\"",
+      "text_1_facilitator::eng": "Da clic en reproducir ▶️ para aprender algunas estrategias que puedes seguir para favorecer el desarrollo saludable de {tu niño}:\n\n1️⃣ **APRENDER JUGANDO**\n2️⃣ **APOYAR LA CURIOSIDAD**",
       "media_type": "video",
       "youtube_gb_en": "youtube link"
     },
@@ -80,7 +80,7 @@
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de {tu niño}. Para empezar, escribe {CRECER}.",
+      "text_1_facilitator::eng": "**_Actividad para casa_**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de {tu niño}. Para empezar, escribe {CRECER}.",
       "quiz_1_question::eng": "¿Puedes completar la evaluación hoy? ⭐",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de {tu niño}. Para empezar, escribe {CRECER}.",

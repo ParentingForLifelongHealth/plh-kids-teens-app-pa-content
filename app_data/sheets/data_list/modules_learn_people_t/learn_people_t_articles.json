@@ -28,8 +28,8 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning_with_people_teen_1",
-      "character_1_id": "F2_ABUELO",
+      "image_asset": "images/comic/learn/learning_with_people_teen_1.svg",
+      "character_1_id": "f2_abuelo",
       "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta sobre cómo ayudar a tu adolescente a aprender a trabajar con otras personas:",
       "_translations": {
@@ -41,17 +41,17 @@
           "eng": "Aquí tienes una historieta sobre cómo ayudar a tu adolescente a aprender a trabajar con otras personas:"
         },
         "character_1_text": {
-          "eng": "A mi nieta, {F2_HIJA_17}, le ha estado costando un poco de trabajo la clase de Historia. ¿Tienes alguna recomendación?"
+          "eng": "A mi nieta, @data.characters.f2_hija_17.name, le ha estado costando un poco de trabajo la clase de Historia. ¿Tienes alguna recomendación?"
         }
       },
-      "character_1_text": "A mi nieta, {F2_HIJA_17}, le ha estado costando un poco de trabajo la clase de Historia. ¿Tienes alguna recomendación?"
+      "character_1_text": "A mi nieta, @data.characters.f2_hija_17.name, le ha estado costando un poco de trabajo la clase de Historia. ¿Tienes alguna recomendación?"
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning_with_people_teen_2",
-      "character_1_id": "PROFESOR_1",
-      "character_2_id": "F2_ABUELO",
+      "image_asset": "images/comic/learn/learning_with_people_teen_2.svg",
+      "character_1_id": "PROFESORA_1",
+      "character_2_id": "f2_abuelo",
       "nested": false,
       "character_1_text": "Claro que sí, ¿qué tal si organizas un grupo de estudio para tu nieta y sus amigas y amigos en donde puedan leer, revisar y discutir los temas de las clases?",
       "_translations": {
@@ -71,8 +71,8 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning_with_people_teen_3",
-      "character_1_id": "F2_HIJA_17",
+      "image_asset": "images/comic/learn/learning_with_people_teen_3.svg",
+      "character_1_id": "f2_hija_17",
       "nested": false,
       "character_1_text": "¿Alguien entendió el capítulo 3? Necesito ayuda para encontrarle sentido.",
       "_translations": {
@@ -87,9 +87,9 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning_with_people_teen_4",
-      "character_1_id": "F2_HIJA_17",
-      "character_2_id": "F2_ABUELO",
+      "image_asset": "images/comic/learn/learning_with_people_teen_4.svg",
+      "character_1_id": "f2_hija_17",
+      "character_2_id": "f2_abuelo",
       "nested": false,
       "character_1_text": "Muchas gracias por sugerirme el grupo de estudio, abue. Los trabajos que nos piden y nuestras tareas son más divertidas y fáciles de entender cuando las hago con mis amigas y amigos.",
       "_translations": {
@@ -112,13 +112,13 @@
       "media_type": "video",
       "youtube_gb_en": "youtube link",
       "nested": false,
-      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender sobre cómo ayudar a tu adolescente a trabajar con otras personas.\n\n1️⃣ **SER SOCIAL**\n2️⃣ **TRABAJAR EN EQUIPO**",
+      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender sobre cómo ayudar a tu adolescente a trabajar con otras personas.\n\n1️⃣ **SER SOCIAL**\n2️⃣ **TRABAJAR EN EQUIPO**",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da Clic en Reproducir ▶️ para aprender sobre cómo ayudar a tu adolescente a trabajar con otras personas.\n\n1️⃣ **SER SOCIAL**\n2️⃣ **TRABAJAR EN EQUIPO**"
+          "eng": "Da clic en reproducir ▶️ para aprender sobre cómo ayudar a tu adolescente a trabajar con otras personas.\n\n1️⃣ **SER SOCIAL**\n2️⃣ **TRABAJAR EN EQUIPO**"
         }
       }
     },
@@ -126,7 +126,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "*_Actividad para casa_*⭐  \n\nConversa con tu adolescente e identifiquen quién podría ser su compañera o compañero de estudio para la próxima semana.",
+      "text_1_facilitator": "**_Actividad para casa_**⭐  \n\nConversa con tu adolescente e identifiquen quién podría ser su compañera o compañero de estudio para la próxima semana.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -137,7 +137,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐  \n\nConversa con tu adolescente e identifiquen quién podría ser su compañera o compañero de estudio para la próxima semana."
+          "eng": "**_Actividad para casa_**⭐  \n\nConversa con tu adolescente e identifiquen quién podría ser su compañera o compañero de estudio para la próxima semana."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
@@ -164,7 +164,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - learning (61 - 75).xlsx",
+    "path": "data/PA modules - learn (44 - 64).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1uYUivXZOTg0ZliArzDnwFz4zNAX9qm_0iMzEgFQfGKY"
   },
   "_metadata": {

@@ -250,7 +250,7 @@
       "value": "images/icons/lock-closed-outline.png",
       "condition": "@item.locked",
       "exclude_from_translation": true,
-      "style_list": "height: 48px;\nwidth: 48px;\npadding: 0px 8px 12px 0px"
+      "style_list": "height: 42px;\nwidth: 42px;"
     },
     {
       "type": "end_button",

@@ -35,34 +35,34 @@
       "id": "explore_1",
       "category_id": "explore",
       "text_1_facilitator::eng": "Aquí tienes una historieta sobre cómo puedes hablar con tu adolescente sobre las emociones durante su tiempo juntos y conectados.",
-      "image_asset": "https://drive.google.com/file/d/16BWs-oT-QbudSF5Aed0h-Lm9Plbhi6qT/view?usp=drive_link",
-      "text_2::eng": "{F1_PADRE} y su hija {F1_HIJA_16} salieron a caminar para pasar un tiempo juntos y conectados. {F1_HIJA_16} parece estar molesta por algo."
+      "image_asset": "images/comic/relation/feelings_teen_1.svg",
+      "text_2::eng": "@data.characters.f1_padre.name y su hija @data.characters.f1_hija_16.name salieron a caminar para pasar un tiempo juntos y conectados. @data.characters.f1_hija_16.name parece estar molesta por algo."
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1a0lZ3ZSJSUrbr8OC2Jf3xiV3xTmpDFwG/view?usp=drive_link",
-      "character_1_id": "F1_PADRE",
-      "character_1_text::eng": "{F1_HIJA_16}, he notado que hoy tienes menos energía y pareces triste. ¿Quieres hablarlo?",
-      "character_2_id": "F1_HIJA_16",
+      "image_asset": "images/comic/relation/feelings_teen_2.svg",
+      "character_1_id": "f1_padre",
+      "character_1_text::eng": "@data.characters.f16_hija_16.name, he notado que hoy tienes menos energía y pareces triste. ¿Quieres hablarlo?",
+      "character_2_id": "f1_hija_16",
       "character_2_text::eng": "Ay, Papá. Lo que pasa es que fracasé el examen de matemáticas y me pone triste y me frustra porque estudié mucho."
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/11x0saQYHYCNWZXNz_W44vygYmfqf35SD/view?usp=drive_link",
-      "text_2::eng": "{F1_PADRE} respira profundo para no reaccionar desde el enojo.",
-      "character_1_id": "F1_PADRE",
+      "image_asset": "images/comic/relation/feelings_teen_3.svg",
+      "text_2::eng": "@data.characters.f1_padre.name respira profundo para no reaccionar desde el enojo.",
+      "character_1_id": "f1_padre",
       "character_1_text::eng": "Eso sí que es frustrante, hija. Sé lo mucho que estudiaste. Tal vez podamos idear un nuevo plan para ayudarte en matemáticas. ¿Qué te parece si le pedimos ayuda extra a tu profe? ¿Quieres que yo le hable o quieres hacerlo tú?",
-      "character_2_id": "F1_HIJA_17",
+      "character_2_id": "f1_hija_16",
       "character_2_text::eng": "Gracias, papá. ¡Yo puedo hacerlo! Creo que podría ser una buena idea."
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1th_s-9w_KRaN3fwb0yVlQgXgCJSNDrAf/view?usp=drive_link",
-      "character_1_id": "F1_PADRE",
-      "character_1_text::eng": "Sabes, puede que ahora te sientas triste y frustrada por no obtener una calificación más alta en matemáticas, pero nunca he conocido a nadie que estudie tanto como tú, {F1_HIJA_16}."
+      "image_asset": "images/comic/relation/feelings_teen_4.svg",
+      "character_1_id": "f1_padre",
+      "character_1_text::eng": "Sabes, puede que ahora te sientas triste y frustrada por no obtener una calificación más alta en matemáticas, pero nunca he conocido a nadie que estudie tanto como tú, @data.characters.f1_hija_16.name."
     },
     {
       "id": "practical_tips_1",

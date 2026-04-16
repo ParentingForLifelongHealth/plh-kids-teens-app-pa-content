@@ -25,26 +25,26 @@
       "id": "explore_1",
       "category_id": "explore",
       "text_1_facilitator::eng": "Aquí tienes una historieta sobre cómo puedes elogiar a tu adolescente durante su tiempo juntos y conectados.",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/give_praise_teen_1.svg",
-      "text_2::eng": "{F3_MADRE} y su hija {F3_HIJA_12} dedican su tiempo juntos y conectados con las tareas de la escuela."
+      "image_asset": "images/comic/relation/give_praise_teen_1.svg",
+      "text_2::eng": "@data.characters.f3_madre.name y su hija @data.characters.f3_hija_12.name dedican su tiempo juntos y conectados con las tareas de la escuela."
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/give_praise_teen_2.svg",
-      "character_1_id": "F3_MADRE",
-      "character_1_text::eng": "¡Bien hecho, {F3_HIJA_12}! Creo que por fin lo lograste. No te había contado, pero las matemáticas siempre fueron difíciles para mí.",
-      "character_2_id": "F3_HIJA_12",
+      "image_asset": "images/comic/relation/give_praise_teen_2.svg",
+      "character_1_id": "f3_madre",
+      "character_1_text::eng": "¡Bien hecho, @data.characters.f3_hija_12.name! Creo que por fin lo lograste. No te había contado, pero las matemáticas siempre fueron difíciles para mí.",
+      "character_2_id": "f3_hija_12",
       "character_2_text::eng": "¿En serio? Creí que solo me pasaba a mí."
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/give_praise_teen_3.svg",
+      "image_asset": "images/comic/relation/give_praise_teen_3.svg",
       "text_2::eng": "Después de terminar la tarea:",
-      "character_1_id": "F3_MADRE",
-      "character_1_text::eng": "No fue nada fácil. ¡Yo también aprendí algo! Gracias por dejarme ayudarte con tu tarea, {F3_HIJA_12}. Estás avanzando mucho.",
-      "character_2_id": "F3_HIJA_12",
+      "character_1_id": "f3_madre",
+      "character_1_text::eng": "No fue nada fácil. ¡Yo también aprendí algo! Gracias por dejarme ayudarte con tu tarea, @data.characters.f3_hija_12.name. Estás avanzando mucho.",
+      "character_2_id": "f3_hija_12",
       "character_2_text::eng": "Gracias, mamá. De verdad agradezco que te hayas tomado este tiempo para ayudarme."
     },
     {

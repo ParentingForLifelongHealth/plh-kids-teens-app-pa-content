@@ -28,9 +28,9 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/rules_teen_1.svg",
-      "character_1_id": "F2_ABUELA",
-      "character_2_id": "F2_HIJO_15",
+      "image_asset": "images/comic/behave/rules_teen_1.svg",
+      "character_1_id": "f2_abuela",
+      "character_2_id": "f2_hijo_15",
       "nested": false,
       "character_1_text": "¡Siempre llegas tarde a la casa!",
       "_translations": {
@@ -50,11 +50,11 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/rules_teen_2.svg",
-      "character_1_id": "F2_ABUELA",
-      "character_2_id": "F2_HIJO_15",
+      "image_asset": "images/comic/behave/rules_teen_2.svg",
+      "character_1_id": "f2_abuela",
+      "character_2_id": "f2_hijo_15",
       "nested": false,
-      "text_1_facilitator": "Veamos cómo la abuela y {F2_HIJO_15} lo hicieron al día siguiente:",
+      "text_1_facilitator": "Veamos cómo la abuela y @data.characters.f2_hijo_15.name lo hicieron al día siguiente:",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
@@ -62,23 +62,23 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Veamos cómo la abuela y {F2_HIJO_15} lo hicieron al día siguiente:"
+          "eng": "Veamos cómo la abuela y @data.characters.f2_hijo_15.name lo hicieron al día siguiente:"
         },
         "character_1_text": {
-          "eng": "Me gusta que te diviertas, {F2_HIJO_15}, pero también me preocupa que estés en la calle tan tarde. ¿Sabes por qué?"
+          "eng": "Me gusta que te diviertas, @data.characters.f2_hijo_15.name, pero también me preocupa que estés en la calle tan tarde. ¿Sabes por qué?"
         },
         "character_2_text": {
           "eng": "¿Porque quieres que tenga suficiente tiempo para hacer mi tarea?"
         }
       },
-      "character_1_text": "Me gusta que te diviertas, {F2_HIJO_15}, pero también me preocupa que estés en la calle tan tarde. ¿Sabes por qué?",
+      "character_1_text": "Me gusta que te diviertas, @data.characters.f2_hijo_15.name, pero también me preocupa que estés en la calle tan tarde. ¿Sabes por qué?",
       "character_2_text": "¿Porque quieres que tenga suficiente tiempo para hacer mi tarea?"
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/rules_teen_3.svg",
-      "character_1_id": "F2_ABUELA",
+      "image_asset": "images/comic/behave/rules_teen_3.svg",
+      "character_1_id": "f2_abuela",
       "nested": false,
       "character_1_text": "¡Exacto! Y tampoco es seguro estar afuera en esta zona cuando ya esta oscureciendo. ¿Cuál crees que sería una buena hora para que te metieras a casa?",
       "_translations": {
@@ -93,9 +93,9 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/rules_teen_4.svg",
-      "character_1_id": "F2_HIJO_15",
-      "character_2_id": "F2_ABUELA",
+      "image_asset": "images/comic/behave/rules_teen_4.svg",
+      "character_1_id": "f2_hijo_15",
+      "character_2_id": "f2_abuela",
       "nested": false,
       "character_1_text": "Podría regresar a casa a las... ¿10 de la noche?",
       "_translations": {
@@ -115,9 +115,9 @@
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/rules_teen_5.svg",
-      "character_1_id": "F2_HIJO_15",
-      "character_2_id": "F2_ABUELA",
+      "image_asset": "images/comic/behave/rules_teen_5.svg",
+      "character_1_id": "f2_hijo_15",
+      "character_2_id": "f2_abuela",
       "nested": false,
       "character_1_text": "Podría llegar a la casa a las 6 de la tarde los días que voy a la escuela y a las 8 de la noche los viernes y sábados.",
       "_translations": {
@@ -137,9 +137,9 @@
     {
       "id": "explore_6",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/rules_teen_6.svg",
-      "character_1_id": "F2_HIJO_15",
-      "character_2_id": "F2_ABUELA",
+      "image_asset": "images/comic/behave/rules_teen_6.svg",
+      "character_1_id": "f2_hijo_15",
+      "character_2_id": "f2_abuela",
       "nested": false,
       "character_1_text": "Está bien, abuela.",
       "_translations": {
@@ -151,10 +151,10 @@
           "eng": "Está bien, abuela."
         },
         "character_2_text": {
-          "eng": "Muchas gracias, {F2_HIJO_15}, por colaborar conmigo para hacer esta regla juntos. Estoy orgullosa de ver que te estás convirtiendo en un muchacho muy responsable."
+          "eng": "Muchas gracias, @data.characters.f2_hijo_15.name, por colaborar conmigo para hacer esta regla juntos. Estoy orgullosa de ver que te estás convirtiendo en un muchacho muy responsable."
         }
       },
-      "character_2_text": "Muchas gracias, {F2_HIJO_15}, por colaborar conmigo para hacer esta regla juntos. Estoy orgullosa de ver que te estás convirtiendo en un muchacho muy responsable."
+      "character_2_text": "Muchas gracias, @data.characters.f2_hijo_15.name, por colaborar conmigo para hacer esta regla juntos. Estoy orgullosa de ver que te estás convirtiendo en un muchacho muy responsable."
     },
     {
       "id": "practical_tips_1",
@@ -162,13 +162,13 @@
       "media_type": "video",
       "youtube_gb_en": "youtube link",
       "nested": false,
-      "text_1_facilitator": "\"Da Clic en Reproducir ▶️ para aprender cuatro estrategias sencillas que te ayudarán a establecer reglas familiares con tu adolescente:\n\n1️⃣ **SER UN EQUIPO**\n2️⃣ **MANTENERLO REALISTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**\"",
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender cuatro estrategias sencillas que te ayudarán a establecer reglas familiares con tu adolescente:\n\n1️⃣ **SER UN EQUIPO**\n2️⃣ **MANTENERLO REALISTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "\"Da Clic en Reproducir ▶️ para aprender cuatro estrategias sencillas que te ayudarán a establecer reglas familiares con tu adolescente:\n\n1️⃣ **SER UN EQUIPO**\n2️⃣ **MANTENERLO REALISTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**\""
+          "eng": "Da Clic en Reproducir ▶️ para aprender cuatro estrategias sencillas que te ayudarán a establecer reglas familiares con tu adolescente:\n\n1️⃣ **SER UN EQUIPO**\n2️⃣ **MANTENERLO REALISTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**"
         }
       }
     },
@@ -176,7 +176,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nCrea, al menos, una regla familiar con tu adolescente.",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nCrea, al menos, una regla familiar con tu adolescente.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -187,7 +187,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nCrea, al menos, una regla familiar con tu adolescente."
+          "eng": "**_Actividad para casa_**⭐ \n\nCrea, al menos, una regla familiar con tu adolescente."
         },
         "quiz_1_question": {
           "eng": "📝 ¿Puedes hacerlo hoy?"
@@ -214,7 +214,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - problem (31 - 45).xlsx",
+    "path": "data/PA modules - behave (31 - 43).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1q27LnkUFTJQqEbqkgh1hgN4sDQkfasSo29b5SAP4ktg"
   },
   "_metadata": {

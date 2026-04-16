@@ -34,37 +34,37 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "text_1_facilitator::eng": "Veamos cómo {F3_MADRE} ayuda a su niña a persistir en una actividad difícil durante el tiempo juntos y conectados.",
-      "image_asset": "https://drive.google.com/file/d/1xG2cQWm1nZ10zqhEORePjv5wfMbjeq-A/view?usp=drive_link",
-      "character_1_id": "{F3_MADRE}",
-      "character_1_text::eng": "{F3_HIJA_7}, Quiero pasar tiempo contigo. ¿Qué quieres hacer?",
-      "character_2_id": "{F3_HIJA_7}",
-      "character_2_text::eng": "{F3_HIJA_7}: ¡Vamos a jugar afuera con la pelota!"
+      "text_1_facilitator::eng": "Veamos cómo @data.characters.f3_madre.name ayuda a su niña a persistir en una actividad difícil durante el tiempo juntos y conectados.",
+      "image_asset": "images/comic/relation/feelings_yc_1.svg",
+      "character_1_id": "f3_madre",
+      "character_1_text::eng": "@data.characters.f3.hija_7.name, Quiero pasar tiempo contigo. ¿Qué quieres hacer?",
+      "character_2_id": "f3_hija_7",
+      "character_2_text::eng": "¡Vamos a jugar afuera con la pelota!"
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/180zLdOyh1VFlOXoy8P5BRNn55XBWlaCo/view?usp=drive_link",
-      "character_1_id": "{F3_HIJA_7}",
+      "image_asset": "images/comic/relation/feelings_yc_2.svg",
+      "character_1_id": "f3_hija_7",
       "character_1_text::eng": "¡No soy buena con la pelota!.",
-      "character_2_id": "{F3_MADRE}",
-      "character_2_text::eng": "Veo que tienes tus manos apretadas y estás levantando la voz. Parece que estás molesta, {F3_HIJA_7}. Sé que puede ser algo frustrante, tomemos una pausa y  cuándo estés lista para continuar avísame."
+      "character_2_id": "f3_madre",
+      "character_2_text::eng": "Veo que tienes tus manos apretadas y estás levantando la voz. Parece que estás molesta, @data.characters.f3.hija_7.name. Sé que puede ser algo frustrante, tomemos una pausa y  cuándo estés lista para continuar avísame."
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1SEhvAmT7yWI0Z5R2fJhSgJF7UNNS3Osv/view?usp=drive_link",
-      "character_1_id": "{F3_MADRE}",
-      "character_1_text::eng": "¡Ya van cinco veces que la atrapas, {F3_HIJA_7}! ¡Debes de estar orgullosa de haber llegado a cinco!",
-      "character_2_id": "{F3_HIJA_7}",
+      "image_asset": "images/comic/relation/feelings_yc_3.svg",
+      "character_1_id": "f3_madre",
+      "character_1_text::eng": "¡Ya van cinco veces que la atrapas, @data.characters.f3.hija_7.name! ¡Debes de estar orgullosa de haber llegado a cinco!",
+      "character_2_id": "f3_hija_7",
       "character_2_text::eng": "¡Vamos por 10!"
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/17eEDp6x1XL7LzcsVmIrsReyOxiajVEpu/view?usp=drive_link",
-      "character_1_id": "{F3_MADRE}",
-      "character_1_text::eng": "Me hace muy feliz poder pasar este tiempo especial contigo, {F3_HIJA_7}."
+      "image_asset": "images/comic/relation/feelings_yc_4.svg",
+      "character_1_id": "f3_madre",
+      "character_1_text::eng": "Me hace muy feliz poder pasar este tiempo especial contigo, @data.characters.f3.hija_7.name."
     },
     {
       "id": "practical_tips_1",
@@ -76,7 +76,7 @@
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nDurante el tiempo juntos y conectados, practica identificar las emociones de {tu niño}. Conversa con él o ella describiendo tus propias emociones y las de {tu niño} ",
+      "text_1_facilitator::eng": "**_Actividad para casa_**⭐ \n\nDurante el tiempo juntos y conectados, practica identificar las emociones de {tu niño}. Conversa con él o ella describiendo tus propias emociones y las de {tu niño} ",
       "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy?",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Muy buen trabajo! ⭐\n\nEsto marcará una gran diferencia.",

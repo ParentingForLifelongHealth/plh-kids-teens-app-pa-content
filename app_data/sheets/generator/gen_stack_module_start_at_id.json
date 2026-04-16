@@ -93,12 +93,20 @@
               "value": "@fields.current_start_article_id"
             },
             {
+              "name": "course_id",
+              "value": "@gen.tag_course"
+            },
+            {
               "type": "nested_properties",
               "name": "module",
               "rows": [
                 {
                   "name": "show_progress_bar",
                   "value": false
+                },
+                {
+                  "name": "course_id",
+                  "value": "@gen.tag_course"
                 }
               ]
             }
@@ -108,9 +116,9 @@
     }
   ],
   "_source": {
-    "name": "kids_teens_global",
-    "path": "PLH module_navigation.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/13WrrsCwjK_5S9t8VQTbgWbWpAVbRKByxpOXr95YnjY8"
+    "name": "kids_teens_global V2",
+    "path": "templates/PLH module_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1upg0i3Kz-ccJ44ZfbV49SWmehVpvHW3r9kBtc-bDRFI"
   },
   "_output_flows": [
     {
@@ -204,11 +212,6 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "stack_module_ks_c_safe_t_start_at_id",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
       "flow_name": "stack_module_com_safe_2to4_yc_start_at_id",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -235,6 +238,36 @@
     },
     {
       "flow_name": "stack_module_habits_online_yc_start_at_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "stack_module_ks_c_safe_t_start_at_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "stack_module_ks_s_violence_t_start_at_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "stack_module_ks_crises_m_t_start_at_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "stack_module_ks_crises_f_t_start_at_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "stack_module_ks_online_saf_t_start_at_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "stack_module_ks_online_hab_t_start_at_id",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -274,31 +307,6 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "stack_module_ks_s_violence_t_start_at_id",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "stack_module_ks_crises_m_t_start_at_id",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "stack_module_ks_crises_f_t_start_at_id",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "stack_module_ks_online_saf_t_start_at_id",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "stack_module_ks_online_hab_t_start_at_id",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
       "flow_name": "stack_module_Manage_anger_t_start_at_id",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -325,41 +333,6 @@
     },
     {
       "flow_name": "stack_module_Know_role_t_start_at_id",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "stack_module_manage_stress_c_start_at_id",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "stack_module_Make_plan_c_start_at_id",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "stack_module_Play_c_start_at_id",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "stack_module_learn_exp_c_start_at_id",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "stack_module_toddler_change_c_start_at_id",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "stack_module_young_change_c_start_at_id",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "stack_module_Child_change_c_start_at_id",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -445,6 +418,41 @@
     },
     {
       "flow_name": "stack_module_learn_people_t_start_at_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "stack_module_Play_c_start_at_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "stack_module_learn_exp_c_start_at_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "stack_module_toddler_change_c_start_at_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "stack_module_young_change_c_start_at_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "stack_module_Child_change_c_start_at_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "stack_module_manage_stress_c_start_at_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "stack_module_make_plan_c_start_at_id",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

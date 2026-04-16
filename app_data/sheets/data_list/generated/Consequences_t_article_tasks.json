@@ -6,79 +6,26 @@
     {
       "id": "relax_1",
       "in_library": "yes",
+      "title_eng": "Quick pause",
+      "title": "Pausa rápida",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_1.mp3",
+      "media_asset_m": "audio/relax/relax_1.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
-      "title": "Quick pause",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Quick pause"
-        }
-      },
+      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "category_id": "relax",
       "nested": false,
       "completed": false
     },
     {
-      "id": "check_in_9",
-      "_translatedFields": {
-        "text_1": {
-          "eng": "Reconocer cómo te sientes es clave para vivir con mayor bienestar. Sé amable contigo."
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Eres increíble y estás marcando una gran diferencia. Puedes sentirte orgullosa/o de ti."
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Todas las personas tenemos días buenos y días complicados. Muy bien por usar esta aplicación; eso muestra tu compromiso con la crianza. Recuerda reconocerte por ello."
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Lamento que hoy las cosas no estén siendo fáciles. Todas las madres, padres y personas cuidadoras pasan por días así. Estás intentando y avanzando."
-        },
-        "quiz_1_question": {
-          "eng": "¿Cómo te sientes el día de hoy?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Feliz"
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Bien"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Triste"
-        }
-      },
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Reconocer cómo te sientes es clave para vivir con mayor bienestar. Sé amable contigo.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
-      "quiz_1_feedback_1": "Eres increíble y estás marcando una gran diferencia. Puedes sentirte orgullosa/o de ti.",
-      "quiz_1_feedback_2": "Todas las personas tenemos días buenos y días complicados. Muy bien por usar esta aplicación; eso muestra tu compromiso con la crianza. Recuerda reconocerte por ello.",
-      "quiz_1_feedback_3": "Lamento que hoy las cosas no estén siendo fáciles. Todas las madres, padres y personas cuidadoras pasan por días así. Estás intentando y avanzando.",
-      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
-      "quiz_1_option_1_text": "Feliz",
-      "quiz_1_option_2_text": "Bien",
-      "quiz_1_option_3_text": "Triste",
-      "completed": false
-    },
-    {
       "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Esta lección te ayudará a saber qué hacer cuando tu adolescente ya se ha comportado de una manera que no nos gusta o ha hecho algo que consideramos un error.😔",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Esta lección te ayudará a saber qué hacer cuando tu adolescente ya se ha comportado de una manera que no nos gusta o ha hecho algo que consideramos un error.😔"
@@ -87,29 +34,11 @@
           "eng": "Las y los adolescentes están en proceso de descubrir quiénes son y qué tipo de personas quieren ser en el mundo. Las consecuencias les enseñan a nuestros adolescentes que sus acciones les afectan directamente y también afectan a las demás personas. ❗ Es importante que nuestros adolescentes aprendan esto en la medida en que van creciendo. Los golpes solamente servirán para enseñarles que la violencia es una solución aceptable para los problemas. Además, va en contra de la ley."
         }
       },
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Esta lección te ayudará a saber qué hacer cuando tu adolescente ya se ha comportado de una manera que no nos gusta o ha hecho algo que consideramos un error.😔",
-      "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
-      },
       "text_2": "Las y los adolescentes están en proceso de descubrir quiénes son y qué tipo de personas quieren ser en el mundo. Las consecuencias les enseñan a nuestros adolescentes que sus acciones les afectan directamente y también afectan a las demás personas. ❗ Es importante que nuestros adolescentes aprendan esto en la medida en que van creciendo. Los golpes solamente servirán para enseñarles que la violencia es una solución aceptable para los problemas. Además, va en contra de la ley.",
       "completed": false
     },
     {
       "id": "explore_1",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Aquí tienes una historieta que muestra cómo puedes involucrar a tu adolescente en el establecimiento de consecuencias justas."
-        },
-        "character_1_text": {
-          "eng": "Me preocupa que sigas llegando tarde a casa, {F1_HIJO_17}. ¿Qué podemos hacer para que te acuerdes de llegar a tiempo?"
-        },
-        "character_2_text": {
-          "eng": "Si llego a casa temprano, ¿tal vez pueda quedarme despierto media hora más tarde de lo normal?"
-        }
-      },
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta que muestra cómo puedes involucrar a tu adolescente en el establecimiento de consecuencias justas.",
@@ -118,15 +47,28 @@
         "character_1_text": {},
         "character_2_text": {}
       },
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/consequences_teen_1.svg",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_HIJO_17",
-      "character_1_text": "Me preocupa que sigas llegando tarde a casa, {F1_HIJO_17}. ¿Qué podemos hacer para que te acuerdes de llegar a tiempo?",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Aquí tienes una historieta que muestra cómo puedes involucrar a tu adolescente en el establecimiento de consecuencias justas."
+        },
+        "character_1_text": {
+          "eng": "Me preocupa que sigas llegando tarde a casa, @data.characters.f1_hijo_17.name. ¿Qué podemos hacer para que te acuerdes de llegar a tiempo?"
+        },
+        "character_2_text": {
+          "eng": "Si llego a casa temprano, ¿tal vez pueda quedarme despierto media hora más tarde de lo normal?"
+        }
+      },
+      "image_asset": "images/comic/behave/consequences_teen_1.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_hijo_17",
+      "character_1_text": "Me preocupa que sigas llegando tarde a casa, @data.characters.f1_hijo_17.name. ¿Qué podemos hacer para que te acuerdes de llegar a tiempo?",
       "character_2_text": "Si llego a casa temprano, ¿tal vez pueda quedarme despierto media hora más tarde de lo normal?",
       "completed": false
     },
     {
       "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Me parece bien esa idea. ¿Y qué hacemos si no sigues la regla?"
@@ -135,11 +77,9 @@
           "eng": "Mmmm (murmurando)."
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/consecuences_teen_2.svg",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_HIJO_17",
+      "image_asset": "images/comic/behave/consequences_teen_2.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_hijo_17",
       "character_1_text": "Me parece bien esa idea. ¿Y qué hacemos si no sigues la regla?",
       "_translations": {
         "character_1_text": {},
@@ -150,6 +90,8 @@
     },
     {
       "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Ándale, sé que tienes algunas ideas."
@@ -158,11 +100,9 @@
           "eng": "A ver… ¿Y si tengo que llegar a hacer la tarea?"
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/consecuences_teen_3.svg",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_HIJO_17",
+      "image_asset": "images/comic/behave/consequences_teen_3.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_hijo_17",
       "character_1_text": "Ándale, sé que tienes algunas ideas.",
       "_translations": {
         "character_1_text": {},
@@ -173,6 +113,8 @@
     },
     {
       "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "La tarea la tienes que hacer de todas maneras. Si no cumples la regla, creo que es justo que no puedas ver a tus amigas y amigos al día siguiente. ¿Qué te parece?"
@@ -181,11 +123,9 @@
           "eng": "De acuerdo, papá."
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/consecuences_teen_4.svg",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_HIJO_17",
+      "image_asset": "images/comic/behave/consequences_teen_4.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_hijo_17",
       "character_1_text": "La tarea la tienes que hacer de todas maneras. Si no cumples la regla, creo que es justo que no puedas ver a tus amigas y amigos al día siguiente. ¿Qué te parece?",
       "_translations": {
         "character_1_text": {},
@@ -196,16 +136,16 @@
     },
     {
       "id": "explore_5",
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Gracias por entender mi preocupación y crear esta regla conmigo, {F1_HIJO_17}."
-        }
-      },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/consequences_teen_5.svg",
-      "character_1_id": "F1_PADRE",
-      "character_1_text": "Gracias por entender mi preocupación y crear esta regla conmigo, {F1_HIJO_17}.",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Gracias por entender mi preocupación y crear esta regla conmigo, @data.characters.f1_hijo_17.name."
+        }
+      },
+      "image_asset": "images/comic/behave/consequences_teen_5.svg",
+      "character_1_id": "f1_padre",
+      "character_1_text": "Gracias por entender mi preocupación y crear esta regla conmigo, @data.characters.f1_hijo_17.name.",
       "_translations": {
         "character_1_text": {}
       },
@@ -214,25 +154,36 @@
     {
       "id": "practical_tips_1",
       "media_type": "video",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "\"Da Clic en Reproducir ▶️ para aprender 4️⃣ cuatro pasos sobre como implementar consecuencias con tu adolescente:\n\n1️⃣ *MANTENER LA CALMA**\n2️⃣ **ACTUAR DE FORMA JUSTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **MANTENERLO POSITIVO**\""
-        }
-      },
       "category_id": "practical_tips",
       "nested": false,
       "text_1_facilitator": "\"Da Clic en Reproducir ▶️ para aprender 4️⃣ cuatro pasos sobre como implementar consecuencias con tu adolescente:\n\n1️⃣ *MANTENER LA CALMA**\n2️⃣ **ACTUAR DE FORMA JUSTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **MANTENERLO POSITIVO**\"",
       "_translations": {
         "text_1_facilitator": {}
       },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "\"Da Clic en Reproducir ▶️ para aprender 4️⃣ cuatro pasos sobre como implementar consecuencias con tu adolescente:\n\n1️⃣ *MANTENER LA CALMA**\n2️⃣ **ACTUAR DE FORMA JUSTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **MANTENERLO POSITIVO**\""
+        }
+      },
       "youtube_gb_en": "youtube link",
       "completed": false
     },
     {
       "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nEscribe una lista de consecuencias que puedas usar y que te parezcan justas. Esto te preparará para la próxima vez que tu adolescente se porte mal.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nEscribe una lista de consecuencias que puedas usar y que te parezcan justas. Esto te preparará para la próxima vez que tu adolescente se porte mal."
+          "eng": "**_Actividad para casa_**⭐ \n\nEscribe una lista de consecuencias que puedas usar y que te parezcan justas. Esto te preparará para la próxima vez que tu adolescente se porte mal."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy?"
@@ -250,22 +201,11 @@
           "eng": "Entendemos. La próxima vez que tu adolescente se porte mal, intenta decirle con calma cómo te sientes y ponle una consecuencia justa. Podrás ver que así cambia su comportamiento en el futuro."
         }
       },
-      "category_id": "practise",
-      "nested": false,
-      "quiz_1_feedback_1": "Bien hecho. Una consecuencia justa le ayudará a tu adolescente a aprender que sus acciones repercuten en su persona y en quien le rodea. También le enseña sobre la responsabilidad y el respeto. 😃",
-      "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
-      },
-      "quiz_1_feedback_2": "Entendemos. La próxima vez que tu adolescente se porte mal, intenta decirle con calma cómo te sientes y ponle una consecuencia justa. Podrás ver que así cambia su comportamiento en el futuro.",
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "Bien hecho. Una consecuencia justa le ayudará a tu adolescente a aprender que sus acciones repercuten en su persona y en quien le rodea. También le enseña sobre la responsabilidad y el respeto. 😃",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nEscribe una lista de consecuencias que puedas usar y que te parezcan justas. Esto te preparará para la próxima vez que tu adolescente se porte mal.",
+      "quiz_1_feedback_2": "Entendemos. La próxima vez que tu adolescente se porte mal, intenta decirle con calma cómo te sientes y ponle una consecuencia justa. Podrás ver que así cambia su comportamiento en el futuro.",
       "completed": false
     }
   ],

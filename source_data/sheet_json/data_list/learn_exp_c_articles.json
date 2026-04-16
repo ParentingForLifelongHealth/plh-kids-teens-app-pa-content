@@ -24,44 +24,44 @@
     {
       "id": "explore_1",
       "category_id": "Explore",
-      "text_1_facilitator::eng": "{F2_HIJO_8} está demasiado activo dentro de la casa el día de hoy. Veamos cómo reacciona su abuelo, {F2_ABUELO}:",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/learn_experience_yc_1",
-      "character_1_id": "F2_ABUELO",
-      "character_1_text::eng": "{F2_HIJO_8}, ¡fíjate bien por dónde vas! Vas a romper algo.",
-      "character_2_id": "F2_HIJO_8",
+      "text_1_facilitator::eng": "@data.characters.f2_hijo_8.name está demasiado activo dentro de la casa el día de hoy. Veamos cómo reacciona su abuelo, @data.characters.f2_abuelo.name:",
+      "image_asset": "images/comic/understand/learn_experience_yc_1.svg",
+      "character_1_id": "f2_abuelo",
+      "character_1_text::eng": "@data.characters.f2_hijo_8.name, ¡fíjate bien por dónde vas! Vas a romper algo.",
+      "character_2_id": "f2_hijo_8",
       "character_2_text::eng": "¡No va a pasar nada!"
     },
     {
       "id": "explore_2",
       "category_id": "Explore",
-      "text_1_facilitator::eng": "{F2_HIJO_8} choca contra una mesa y rompe un florero. {F2_ABUELO} lo ve y se preocupa.",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/learn_experience_yc_2"
+      "image_asset": "images/comic/understand/learn_experience_yc_2.svg",
+      "text_2::eng": "@data.characters.f2_hijo_8.name choca contra una mesa y rompe un florero. @data.characters.f2_abuelo.name lo ve y se preocupa."
     },
     {
       "id": "explore_3",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/learn_experience_yc_3",
-      "character_1_id": "F2_ABUELO",
+      "image_asset": "images/comic/understand/learn_experience_yc_3.svg",
+      "character_1_id": "f2_abuelo",
       "character_1_text::eng": "¿Te lastimaste?",
-      "character_2_id": "F2_HIJO_8",
+      "character_2_id": "f2_hijo_8",
       "character_2_text::eng": "No, abuelo. Perdón por romper el florero…No lo vi."
     },
     {
       "id": "explore_4",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/learn_experience_yc_4",
-      "character_1_id": "F2_ABUELO",
+      "image_asset": "images/comic/understand/learn_experience_yc_4.svg",
+      "character_1_id": "f2_abuelo",
       "character_1_text::eng": "Gracias por darte cuenta de tu error y por disculparte. ¿Sabes cómo podrías haber evitado que esto pasara?",
-      "character_2_id": "F2_HIJO_8",
+      "character_2_id": "f2_hijo_8",
       "character_2_text::eng": "Sí, debí hacerte caso. Seguí corriendo aunque me dijiste que no lo hiciera."
     },
     {
       "id": "explore_5",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/learn_experience_yc_5",
-      "character_1_id": "F2_ABUELO",
-      "character_1_text::eng": "Está bien, {F2_HIJO_8}. Estoy orgulloso de que seas capaz de aprender de tus errores. Vamos a buscar una escoba y un trapo para recoger esto. Igual y se puede arreglar el florero con un poco de pegamento.",
-      "character_2_id": "F2_HIJO_8",
+      "image_asset": "images/comic/understand/learn_experience_yc_5.svg",
+      "character_1_id": "f2_abuelo",
+      "character_1_text::eng": "Está bien, @data.characters.f2_hijo_8.name. Estoy orgulloso de que seas capaz de aprender de tus errores. Vamos a buscar una escoba y un trapo para recoger esto. Igual y se puede arreglar el florero con un poco de pegamento.",
+      "character_2_id": "f2_hijo_8",
       "character_2_text::eng": "Bueno…"
     },
     {
@@ -74,7 +74,7 @@
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\n*_Comparte una historia con {tu niño} sobre un momento en el que aprendiste de un error. Puede ser algo de cuando tú eras menor u otra lección de vida que hayas tenido._*",
+      "text_1_facilitator::eng": "**_Actividad para casa_**⭐ \n\nComparte una historia con {tu niño} sobre un momento en el que aprendiste de un error. Puede ser algo de cuando tú eras menor u otra lección de vida que hayas tenido.",
       "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Maravilloso!\n💙 Usa estas estrategias que aprendiste hoy para ayudar a {tu niño} a fortalecer sus habilidades mentales y emocionales.",

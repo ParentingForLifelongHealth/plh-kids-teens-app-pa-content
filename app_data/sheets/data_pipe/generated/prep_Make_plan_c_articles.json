@@ -1,5 +1,5 @@
 {
-  "flow_name": "prep_Make_plan_c_articles",
+  "flow_name": "prep_make_plan_c_articles",
   "flow_subtype": "generated",
   "flow_type": "data_pipe",
   "rows": [
@@ -16,12 +16,12 @@
         "category_id: relax",
         "nested: FALSE"
       ],
-      "output_target": "Make_plan_c_relax | local_only;"
+      "output_target": "make_plan_c_relax | local_only;"
     },
     {
       "operation": "filter",
       "args_list": [
-        "id == \"check_in_13\""
+        "id == \"check_in_67\""
       ],
       "input_source": "check_in"
     },
@@ -31,22 +31,22 @@
         "category_id: check_in",
         "nested: FALSE"
       ],
-      "output_target": "Make_plan_c_check_in | local_only;"
+      "output_target": "make_plan_c_check_in | local_only;"
     },
     {
       "operation": "filter",
       "args_list": [
         "!nested"
       ],
-      "input_source": "Make_plan_c_articles",
-      "output_target": "Make_plan_c_testing | local_only;"
+      "input_source": "make_plan_c_articles",
+      "output_target": "make_plan_c_testing | local_only;"
     },
     {
       "operation": "concat",
       "args_list": [
-        "Make_plan_c_relax",
-        "Make_plan_c_check_in",
-        "Make_plan_c_testing"
+        "make_plan_c_relax",
+        "make_plan_c_check_in",
+        "make_plan_c_testing"
       ],
       "input_source": false
     },
@@ -55,12 +55,12 @@
       "args_list": [
         "completed: FALSE"
       ],
-      "output_target": "Make_plan_c_article_tasks"
+      "output_target": "make_plan_c_article_tasks"
     }
   ],
   "_output_flows": [
     {
-      "flow_name": "Make_plan_c_article_tasks",
+      "flow_name": "make_plan_c_article_tasks",
       "flow_subtype": "generated",
       "flow_type": "data_list"
     }

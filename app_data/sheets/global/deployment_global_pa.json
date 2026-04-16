@@ -8,7 +8,7 @@
     {
       "type": "declare_global_constant",
       "name": "app_name",
-      "value": "ParentApp Kids Teens",
+      "value": "Crianza Responsable y Amoroso",
       "_translations": {
         "value": {}
       }
@@ -16,7 +16,7 @@
     {
       "type": "declare_global_constant",
       "name": "app_name_full",
-      "value": "ParentApp Kids Teens",
+      "value": "Crianza Responsable y Amoroso",
       "_translations": {
         "value": {}
       }
@@ -24,7 +24,7 @@
     {
       "type": "declare_global_constant",
       "name": "home_screen_logo_asset",
-      "value": "images/logos/plh_logomark.png",
+      "value": "images/logos/Crianza-03.png",
       "_translations": {
         "value": {}
       }
@@ -180,6 +180,171 @@
         "value": {}
       },
       "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "greeting",
+      "value": "Hello,",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "unlock_course_title",
+      "value": "Courses",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "unlock_course_text",
+      "value": "Finish the first course to unlock more",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "lock_course_title"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "lock_course_text",
+      "value": "Additional courses will be available once your first course",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "complete_course_title",
+      "value": "Completed courses",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "complete_course_text"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "all_unlock_course_title",
+      "value": "Explore Courses",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "all_unlock_course_text"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "completed_text",
+      "value": "COMPLETED",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "locked_text",
+      "value": "LOCKED",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "sub_items_name",
+      "value": "skills",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "course_action_text",
+      "value": "Continue",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "course_badge_text",
+      "value": "Skills",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "review_action_text",
+      "value": "Continue",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "review_badge_text",
+      "value": "Review",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "all_complete_title",
+      "value": "Hooray, Congratulations",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "all_complete_text",
+      "value": "You have completed all your parenting skills. Well done!",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "all_complete_image",
+      "value": "images/icons/celebration.svg",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "back_to_home",
+      "value": "Back to Courses",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "restart",
+      "value": "Restart Skill",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "feedback",
+      "value": "Feedback",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_source": {

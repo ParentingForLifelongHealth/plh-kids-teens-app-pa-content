@@ -20,35 +20,35 @@
       "id": "explore_1",
       "category_id": "explore",
       "text_1_facilitator::eng": "Aquí tienes una historieta que trata sobre el establecimiento de metas y objetivos:",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/help_teen_learn_1",
-      "character_1_id": "F1_PADRE",
-      "character_1_text::eng": "{F1_HIJA_16}, ya vas a empezar un nuevo año en la escuela y estoy muy emocionado por ti. ¿Cuáles son tus metas para este año?",
-      "character_2_id": "F1_HIJA_16",
+      "image_asset": "images/comic/learn/help_learn_teen_1.svg",
+      "character_1_id": "f1_padre",
+      "character_1_text::eng": "@data.characters.f1_hija_16.name, ya vas a empezar un nuevo año en la escuela y estoy muy emocionado por ti. ¿Cuáles son tus metas para este año?",
+      "character_2_id": "f1_hija_16",
       "character_2_text::eng": "¡Quiero mejorar en matemáticas!"
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/help_teen_learn_2",
-      "character_1_id": "F1_PADRE",
-      "character_1_text::eng": "Qué buena meta, {F1_HIJA_16}. ¿Qué crees que tendrás que hacer para conseguirlo?",
-      "character_2_id": "F1_HIJA_16",
+      "image_asset": "images/comic/learn/help_learn_teen_2.svg",
+      "character_1_id": "f1_padre",
+      "character_1_text::eng": "Qué buena meta, @data.characters.f1_hija_16.name. ¿Qué crees que tendrás que hacer para conseguirlo?",
+      "character_2_id": "f1_hija_16",
       "character_2_text::eng": "Mmm… ¡Qué tal si saco un 4.5 en mi primer examen de matemáticas!"
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/help_teen_learn_3",
-      "character_1_id": "F1_PADRE",
+      "image_asset": "images/comic/learn/help_learn_teen_3.svg",
+      "character_1_id": "f1_padre",
       "character_1_text::eng": "¡Me gusta! ¿Y cómo conseguirás ese 4.5 en tu primer examen de matemáticas?",
-      "character_2_id": "F1_HIJA_16",
+      "character_2_id": "f1_hija_16",
       "character_2_text::eng": "A ver… ¿Qué tal si aparto un poco de tiempo todos los días para estudiar matemáticas? Y, si me trabo con algo, tal vez puedas ayudarme, ¿sí?"
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/help_teen_learn_4",
-      "character_1_id": "F1_PADRE",
+      "image_asset": "images/comic/learn/help_learn_teen_4.svg",
+      "character_1_id": "f1_padre",
       "character_1_text::eng": "¡Haré lo mejor que pueda! Si trabajas duro y mantienes tu rutina de estudio todos los días, ¡Estoy seguro de que podrás lograr tu objetivo!"
     },
     {
@@ -61,7 +61,7 @@
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "*_¡Actividad para casa!_*⭐ \n\nDedícale 5 minutos a tu adolescente para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana.",
+      "text_1_facilitator::eng": "**_¡Actividad para casa!_**⭐\n\nDedícale 5 minutos a tu adolescente para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana.",
       "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰ ",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Excelente! Usa las estrategias que has aprendido hoy, ¡y diviértete! Sentir alegría y felicidad durante el aprendizaje con {tu adolescente} es una forma estupenda de motivarle para seguir aprendiendo. 💙",

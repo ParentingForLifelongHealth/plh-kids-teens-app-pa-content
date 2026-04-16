@@ -29,48 +29,49 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "text_1_facilitator::eng": "{F3_HIJA_12} estaba jugando con la pelota adentro de la casa y rompió una ventana.\n\n{F3_MADRE} siente enojo. Se da cuenta de que quiere castigar a {F3_HIJA_12} y gritarle.",
-      "image_asset": "https://drive.google.com/file/d/1VL0_32wKmX8eSYbkTFXVW8KFAfpPwUSs/view?usp=drive_link",
-      "character_1_id": "F3_MADRE",
-      "character_1_text::eng": "¡Ash! ¿Cuántas veces tengo que decirle que juegue con su pelota afuera? ¡Y ahora ya rompió una ventana! ¡No se va a quedar así!"
+      "text_1_facilitator::eng": "@data.characters.f3_hija_12.name estaba jugando con la pelota adentro de la casa y rompió una ventana.\n\n@data.characters.f3_madre.name siente enojo. Se da cuenta de que quiere castigar a @data.characters.f3_hija_12.name y gritarle.",
+      "image_asset": "images/comic/behave/managing_anger_teen_1.svg",
+      "character_1_id": "f3_madre",
+      "character_1_text::eng": "(Pensando) ¡Ash! ¿Cuántas veces tengo que decirle que juegue con su pelota afuera? ¡Y ahora ya rompió una ventana! ¡No se va a quedar así!"
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1jwChVqxMGbogkF0rZUtP2O-lEN15JcNO/view?usp=drive_link",
-      "character_1_id": "F3_MADRE",
-      "character_1_text::eng": "(Está pensando): Estoy muy enojada. Voy a tomar una pausa y respirar profundo. Lo que me molesta es que tengo que volver a limpiar y me costará mucho dinero cambiar esa ventana. Además, estoy preocupada porque {F3_HIJA_12} podría haberse lastimado."
+      "image_asset": "images/comic/behave/managing_anger_teen_2.svg",
+      "character_1_id": "f3_madre",
+      "character_1_text::eng": "Estoy muy enojada. Voy a tomar una pausa y respirar profundo. Lo que me molesta es que tengo que volver a limpiar y me costará mucho dinero cambiar esa ventana. Además, estoy preocupada porque @data.characters.f3_hija_12.name podría haberse lastimado."
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1xqsulErMoqCFRP7SvXWYOSQh5XeDox0f/view?usp=drive_link",
-      "character_1_id": "F3_HIJA_12",
+      "image_asset": "images/comic/behave/managing_anger_teen_3.svg",
+      "character_1_id": "f3_hija_12",
       "character_1_text::eng": "¡Mamá... perdón!",
-      "character_2_id": "F3_MADRE",
+      "character_2_id": "f3_madre",
       "character_2_text::eng": "¿Estás bien? Ten cuidado con el vidrio roto. Dame 5 minutos, voy a ir a la cocina y tú quédate aquí, ahora conversaremos qué es lo que vamos a hacer al respecto."
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1-iFG2tt5C21YhfZ0aapJwExEevOYaqLC/view?usp=drive_link",
-      "character_1_id": "F3_MADRE",
+      "image_asset": "images/comic/behave/managing_anger_teen_4.svg",
+      "character_1_id": "f3_madre",
       "character_1_text::eng": "(Pensando): Mi hija está a salvo y no se lastimó. Ahora necesito algo que me ayude a dejar de pensar en lo que me hizo enojar. Me pondré una compresa de hielo en la cara mientras respiro profundamente."
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1LDpvbcTdL5NgTeOYM7vm0oOnrwCm-93Y/view?usp=drive_link",
-      "character_1_id": "F3_MADRE",
-      "character_1_text::eng": "(Despues de unos minutos). Ahora me siento mejor. Sigo molesta pero puedo pensar con claridad y manejar bien las cosas. En lugar de gritarle, le diré cómo me siento."
+      "image_asset": "images/comic/behave/managing_anger_teen_5.svg",
+      "text_2::eng": "Después de unos minutos...",
+      "character_1_id": "f3_madre",
+      "character_1_text::eng": "Ahora me siento mejor. Sigo molesta pero puedo pensar con claridad y manejar bien las cosas. En lugar de gritarle, le diré cómo me siento."
     },
     {
       "id": "explore_6",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1CtLCUsMqPhO1QiKWqTR4q3iVtsTCqe6o/view?usp=drive_link",
-      "character_1_id": "F3_MADRE",
-      "character_1_text::eng": "{F3_HIJA_12}, esto me molestó mucho. Podrías haberte lastimado y tendremos que pagarle a alguien para que arregle la ventana. Por favor, tráeme la escoba para limpiar esto.",
-      "character_2_id": "F3_HIJA_12",
+      "image_asset": "images/comic/behave/managing_anger_teen_6.svg",
+      "character_1_id": "f3_madre",
+      "character_1_text::eng": "@data.characters.f3_hija_12.name, esto me molestó mucho. Podrías haberte lastimado y tendremos que pagarle a alguien para que arregle la ventana. Por favor, tráeme la escoba para limpiar esto.",
+      "character_2_id": "f3_hija_12",
       "character_2_text::eng": "Está bien, mamá. De verdad, perdón, me siento muy mal por esto. Desde hoy, jugaré con mi pelota fuera de la casa."
     },
     {
@@ -83,7 +84,7 @@
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nHabla con {tu adolescente} de lo que has aprendido sobre el enojo en esta lección. Elige una estrategia que puedas usar cuando sientas enojo. Por ejemplo, puedes practicar el escuchar música mientras llevas a cabo tu rutina de la tarde.",
+      "text_1_facilitator::eng": "**_Actividad para casa_**⭐\n\nHabla con {tu adolescente} de lo que has aprendido sobre el enojo en esta lección. Elige una estrategia que puedas usar cuando sientas enojo. Por ejemplo, puedes practicar el escuchar música mientras llevas a cabo tu rutina de la tarde.",
       "quiz_1_question::eng": "¿Puedes hacerlo hoy?⏰",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Muy bien! 💙 ¡Siente orgullo por ti cuando logres regular tu enojo!",

@@ -54,12 +54,12 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_1",
-      "character_1_id": "F1_MADRE",
-      "character_2_id": "F1_HIJO_5",
+      "image_asset": "images/comic/relation/one_on_one_yc_1.svg",
+      "character_1_id": "f1_madre",
+      "character_2_id": "f1_hijo_5",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "text_1_facilitator": "{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
+      "text_1_facilitator": "@data.characters.f1_hijo_5.name y su mamá, @data.characters.f1_madre.name, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
@@ -67,42 +67,42 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:"
+          "eng": "@data.characters.f1_hijo_5.name y su mamá, @data.characters.f1_madre.name, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:"
         },
         "character_1_text": {
-          "eng": "Quiero pasar tiempo juntos y conectados,@data.characters.f1_hijo_5.name y su mamá, @data.characters.f1_madre.name, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:"
+          "eng": "Quiero pasar tiempo juntos y conectados, @data.characters.f1_hijo_5.name. ¿Qué te gustaría hacer?"
         },
         "character_2_text": {
           "eng": "¡Quiero jugar a disfrazarnos!"
         }
       },
-      "character_1_text": "Quiero pasar tiempo juntos y conectados,@data.characters.f1_hijo_5.name y su mamá, @data.characters.f1_madre.name, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
+      "character_1_text": "Quiero pasar tiempo juntos y conectados, @data.characters.f1_hijo_5.name. ¿Qué te gustaría hacer?",
       "character_2_text": "¡Quiero jugar a disfrazarnos!"
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_2",
-      "character_1_id": "F1_MADRE",
+      "image_asset": "images/comic/relation/one_on_one_yc_2.svg",
+      "character_1_id": "f1_madre",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "character_1_text": "¡Me encanta la idea, {F1_HIJO_5}! Veo que estás sacando la bolsa con triángulos.",
+      "character_1_text": "¡Me encanta la idea, @data.characters.f1_hijo_5.name! Veo que estás sacando la bolsa con triángulos.",
       "_translations": {
         "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "¡Me encanta la idea, {F1_HIJO_5}! Veo que estás sacando la bolsa con triángulos."
+          "eng": "¡Me encanta la idea, @data.characters.f1_hijo_5.name! Veo que estás sacando la bolsa con triángulos."
         }
       }
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_3",
-      "character_1_id": "F1_HIJO_5",
-      "character_2_id": "F1_MADRE",
-      "character_3_id": "F1_HIJO_5",
+      "image_asset": "images/comic/relation/one_on_one_yc_3.svg",
+      "character_1_id": "f1_hijo_5",
+      "character_2_id": "f1_madre",
+      "character_3_id": "f1_hijo_5",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "character_1_text": "Mamá, es para ti.",
@@ -128,8 +128,8 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_4",
-      "character_1_id": "F1_MADRE",
+      "image_asset": "images/comic/relation/one_on_one_yc_4.svg",
+      "character_1_id": "f1_madre",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "character_1_text": "¡Veo que cada vez te esfuerzas más por vestirte sin ayuda!",
@@ -164,7 +164,7 @@
       "category_id": "practise",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nIntenta pasar por lo menos 15 minutos de tiempo juntos y conectados todos los días. ¡Hará una gran diferencia!",
+      "text_1_facilitator": "****_Actividad para casa_****⭐ \n\nIntenta pasar por lo menos 15 minutos de tiempo juntos y conectados todos los días. ¡Hará una gran diferencia!",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -175,7 +175,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nIntenta pasar por lo menos 15 minutos de tiempo juntos y conectados todos los días. ¡Hará una gran diferencia!"
+          "eng": "****_Actividad para casa_****⭐ \n\nIntenta pasar por lo menos 15 minutos de tiempo juntos y conectados todos los días. ¡Hará una gran diferencia!"
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy? ⏰"
@@ -202,7 +202,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - i (1-15).xlsx",
+    "path": "data/PA_modules_i (1-15).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
   },
   "_metadata": {

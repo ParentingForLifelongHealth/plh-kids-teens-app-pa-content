@@ -19,48 +19,48 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "text_1_facilitator::eng": "{F2_ABUELA} incluye un tiempo juntos y conectados con su nieta, {F2_HIJA_3}, como parte de su rutina para irse a dormir. ¡Veamos cómo lo hacen juntas!",
-      "image_asset": "https://drive.google.com/file/d/15tcvu5tiHjszVDVTJHq7xB9LFgt3-Uqo/view?usp=drive_link",
-      "character_1_id": "F2_ABUELA",
-      "character_1_text::eng": "{F2_ABUELA}: Me da mucho gusto verte tranquila jugando con tus bloques, {F2_HIJA_3}. Cuando regrese, será hora de prepararnos para ir a dormir. Cuando estés lista para irte a la cama, me encantará pasar tiempo contigo.",
-      "character_2_id": "F2_HIJA_3",
+      "text_1_facilitator::eng": "@data.characters.f2_abuela.name incluye un tiempo juntos y conectados con su nieta, @data.characters.f2_hija_3.name, como parte de su rutina para irse a dormir. ¡Veamos cómo lo hacen juntas!",
+      "image_asset": "images/comic/relation/routines_yc_1.svg",
+      "character_1_id": "f2_abuela",
+      "character_1_text::eng": "Me da mucho gusto verte tranquila jugando con tus bloques, @data.characters.f2_hija_3.name. Cuando regrese, será hora de prepararnos para ir a dormir. Cuando estés lista para irte a la cama, me encantará pasar tiempo contigo.",
+      "character_2_id": "f2_hija_3",
       "character_2_text::eng": "¡Súper!"
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1IK68KkRBut3LE8HpGH4SR213ctzDOSGR/view?usp=drive_link",
-      "character_1_id": "F2_ABUELA",
+      "image_asset": "images/comic/relation/routines_yc_2.svg",
+      "character_1_id": "f2_abuela",
       "character_1_text::eng": "Es hora de prepararnos para dormir. ¡Al agua patos! A bañarse para que duermas a gusto."
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1JhsJ0Bt4yNoszR6t4M4nqdSplpmY5QP_/view?usp=drive_link",
-      "character_1_id": "F2_ABUELA",
+      "image_asset": "images/comic/relation/routines_yc_3.svg",
+      "character_1_id": "f2_abuela",
       "character_1_text::eng": "Observé que te lavaste solita el cabello, te tardaste menos tiempo y no desperdiciaste agua. ¡Así se hace, Yani!. Ahora, a ponerse la pijama."
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1ahb7WeEULL7a4VYcrr0CL84qXJxNRYMk/view?usp=drive_link",
-      "character_1_id": "F2_ABUELA",
-      "character_1_text::eng": "¡Bien hecho por ponerte los pantalones sin ayuda, {F2_HIJA_3}! Ahora lávate los dientes. ¡Asegúrate de cepillarte los de la parte posterior de la boca!"
+      "image_asset": "images/comic/relation/routines_yc_4.svg",
+      "character_1_id": "f2_abuela",
+      "character_1_text::eng": "¡Bien hecho por ponerte los pantalones sin ayuda, @data.characters.f2_hija_3.name! Ahora lávate los dientes. ¡Asegúrate de cepillarte los de la parte posterior de la boca!"
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1YtDmSJxp_inyzJtvsFm6W7maXesivj_f/view?usp=drive_link",
-      "character_1_id": "F2_ABUELA",
+      "image_asset": "images/comic/relation/routines_yc_5.svg",
+      "character_1_id": "f2_abuela",
       "character_1_text::eng": "Te has portado muy bien mientras te preparabas para ir a la cama. Ahora me encantará poder pasar un tiempo contigo. ¿Qué te gustaría hacer?",
-      "character_2_id": "F2_HIJA_3",
+      "character_2_id": "f2_hija_3",
       "character_2_text::eng": "¡Sí! ¿Me puedes leer mi cuento favorito?"
     },
     {
       "id": "explore_6",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1pxvfLaoCMkSnOJ4nRiB0ucJvhDfe-ZAJ/view?usp=drive_link",
-      "character_1_id": "F2_ABUELA",
+      "image_asset": "images/comic/relation/routines_yc_6.svg",
+      "character_1_id": "f2_abuela",
       "character_1_text::eng": "\"Y colorín colorado, este cuento se ha acabado…\" ¿Qué te gustó más de la historia? ¡Cuéntame!"
     },
     {
@@ -73,7 +73,7 @@
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nHaz que el tiempo juntos y conectados con {tu niño} se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝",
+      "text_1_facilitator::eng": "**_Actividad para casa_**⭐ \n\nHaz que el tiempo juntos y conectados con {tu niño} se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝",
       "quiz_1_question::eng": "¿Puedes hacerlo hoy? ",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Muy bien! 🎉 Esto ayudará a mostrar interés en lo que hace {tu niño} y mejorará la relación entre ustedes.",

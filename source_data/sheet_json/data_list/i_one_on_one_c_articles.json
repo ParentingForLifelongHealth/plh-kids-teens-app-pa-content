@@ -25,36 +25,36 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "text_1_facilitator::eng": "{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_1",
-      "character_1_id": "F1_MADRE",
-      "character_1_text::eng": "Quiero pasar tiempo juntos y conectados,@data.characters.f1_hijo_5.name y su mamá, @data.characters.f1_madre.name, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
-      "character_2_id": "F1_HIJO_5",
+      "text_1_facilitator::eng": "@data.characters.f1_hijo_5.name y su mamá, @data.characters.f1_madre.name, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
+      "image_asset": "images/comic/relation/one_on_one_yc_1.svg",
+      "character_1_id": "f1_madre",
+      "character_1_text::eng": "Quiero pasar tiempo juntos y conectados, @data.characters.f1_hijo_5.name. ¿Qué te gustaría hacer?",
+      "character_2_id": "f1_hijo_5",
       "character_2_text::eng": "¡Quiero jugar a disfrazarnos!"
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_2",
-      "character_1_id": "F1_MADRE",
-      "character_1_text::eng": "¡Me encanta la idea, {F1_HIJO_5}! Veo que estás sacando la bolsa con triángulos."
+      "image_asset": "images/comic/relation/one_on_one_yc_2.svg",
+      "character_1_id": "f1_madre",
+      "character_1_text::eng": "¡Me encanta la idea, @data.characters.f1_hijo_5.name! Veo que estás sacando la bolsa con triángulos."
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_3",
-      "character_1_id": "F1_HIJO_5",
+      "image_asset": "images/comic/relation/one_on_one_yc_3.svg",
+      "character_1_id": "f1_hijo_5",
       "character_1_text::eng": "Mamá, es para ti.",
-      "character_2_id": "F1_MADRE",
+      "character_2_id": "f1_madre",
       "character_2_text::eng": "Gracias, ¡me encanta!",
-      "character_3_id": "F1_HIJO_5",
+      "character_3_id": "f1_hijo_5",
       "character_3_text::eng": "¡Póntela, mamá!"
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_4",
-      "character_1_id": "F1_MADRE",
+      "image_asset": "images/comic/relation/one_on_one_yc_4.svg",
+      "character_1_id": "f1_madre",
       "character_1_text::eng": "¡Veo que cada vez te esfuerzas más por vestirte sin ayuda!"
     },
     {
@@ -67,7 +67,7 @@
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nIntenta pasar por lo menos 15 minutos de tiempo juntos y conectados todos los días. ¡Hará una gran diferencia!",
+      "text_1_facilitator::eng": "****_Actividad para casa_****⭐ \n\nIntenta pasar por lo menos 15 minutos de tiempo juntos y conectados todos los días. ¡Hará una gran diferencia!",
       "quiz_1_question::eng": "¿Puedes hacerlo hoy? ⏰",
       "quiz_1_option_1_text::eng": "Si",
       "quiz_1_feedback_1::eng": "¡Muy bien! Usa las estrategias que aprendiste hoy y ¡diviértete!, ya que es una forma estupenda de establecer una relación positiva. 💙 ",

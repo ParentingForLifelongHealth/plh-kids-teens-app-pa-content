@@ -78,12 +78,12 @@
     {
       "id": "explore_1",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/young_child_change_yc_1",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_HIJA_6",
-      "character_3_id": "F1_PADRE",
+      "image_asset": "images/comic/understand/young_child_change_yc_1.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_hijo_5",
+      "character_3_id": "f1_padre",
       "nested": false,
-      "text_1_facilitator": "{F1_HIJA_6} intenta ponerse los zapatos.",
+      "text_1_facilitator": "@data.characters.f1_hijo_5.name intenta ponerse los zapatos.",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
@@ -92,7 +92,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "{F1_HIJA_6} intenta ponerse los zapatos."
+          "eng": "@data.characters.f1_hijo_5.name intenta ponerse los zapatos."
         },
         "character_1_text": {
           "eng": "Noto que no te has puesto los zapatos, aquí estoy si necesitas ayuda."
@@ -101,19 +101,19 @@
           "eng": "¡No, yo quiero intentarlo!"
         },
         "character_3_text": {
-          "eng": "¡De acuerdo {F1_HIJA_6}!"
+          "eng": "¡De acuerdo @data.characters.f1_hijo_5.name!"
         }
       },
       "character_1_text": "Noto que no te has puesto los zapatos, aquí estoy si necesitas ayuda.",
       "character_2_text": "¡No, yo quiero intentarlo!",
-      "character_3_text": "¡De acuerdo {F1_HIJA_6}!"
+      "character_3_text": "¡De acuerdo @data.characters.f1_hijo_5.name!"
     },
     {
       "id": "explore_2",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/young_child_change_yc_2",
-      "character_1_id": "F1_HIJA_6",
-      "character_2_id": "F1_PADRE",
+      "image_asset": "images/comic/understand/young_child_change_yc_2.svg",
+      "character_1_id": "f1_hijo_5",
+      "character_2_id": "f1_padre",
       "nested": false,
       "character_1_text": "¡No puedo!",
       "_translations": {
@@ -133,9 +133,9 @@
     {
       "id": "explore_3",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/young_child_change_yc_3",
-      "character_1_id": "F1_HIJA_6",
-      "character_2_id": "F1_PADRE",
+      "image_asset": "images/comic/understand/young_child_change_yc_3.svg",
+      "character_1_id": "f1_hijo_5",
+      "character_2_id": "f1_padre",
       "nested": false,
       "character_1_text": "Bueno.",
       "_translations": {
@@ -155,9 +155,9 @@
     {
       "id": "explore_4",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/young_child_change_yc_4",
-      "character_1_id": "F1_HIJA_6",
-      "character_2_id": "F1_PADRE",
+      "image_asset": "images/comic/understand/young_child_change_yc_4.svg",
+      "character_1_id": "f1_hijo_5",
+      "character_2_id": "f1_padre",
       "nested": false,
       "character_1_text": "¡Lo logré!",
       "_translations": {
@@ -169,10 +169,10 @@
           "eng": "¡Lo logré!"
         },
         "character_2_text": {
-          "eng": "¡Muy bien, {F1_HIJA_6}! ¡Cada día haces más cosas!"
+          "eng": "¡Muy bien, @data.characters.f1_hijo_5.name! ¡Cada día haces más cosas!"
         }
       },
-      "character_2_text": "¡Muy bien, {F1_HIJA_6}! ¡Cada día haces más cosas!"
+      "character_2_text": "¡Muy bien, @data.characters.f1_hijo_5.name! ¡Cada día haces más cosas!"
     },
     {
       "id": "practical_tips_1",
@@ -180,13 +180,13 @@
       "media_type": "video",
       "youtube_gb_en": "youtube link",
       "nested": false,
-      "text_1_facilitator": "\"Da Clic en Reproducir ▶️ para aprender algunas estrategias que puedes seguir para favorecer el desarrollo saludable de {tu niño}:\n\n1️⃣ **APRENDER JUGANDO**\n2️⃣ **APOYAR LA CURIOSIDAD**\"",
+      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender algunas estrategias que puedes seguir para favorecer el desarrollo saludable de {tu niño}:\n\n1️⃣ **APRENDER JUGANDO**\n2️⃣ **APOYAR LA CURIOSIDAD**",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "\"Da Clic en Reproducir ▶️ para aprender algunas estrategias que puedes seguir para favorecer el desarrollo saludable de {tu niño}:\n\n1️⃣ **APRENDER JUGANDO**\n2️⃣ **APOYAR LA CURIOSIDAD**\""
+          "eng": "Da clic en reproducir ▶️ para aprender algunas estrategias que puedes seguir para favorecer el desarrollo saludable de {tu niño}:\n\n1️⃣ **APRENDER JUGANDO**\n2️⃣ **APOYAR LA CURIOSIDAD**"
         }
       }
     },
@@ -208,7 +208,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de {tu niño}. Para empezar, escribe {CRECER}.",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de {tu niño}. Para empezar, escribe {CRECER}.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -219,7 +219,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de {tu niño}. Para empezar, escribe {CRECER}."
+          "eng": "**_Actividad para casa_**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de {tu niño}. Para empezar, escribe {CRECER}."
         },
         "quiz_1_question": {
           "eng": "¿Puedes completar la evaluación hoy? ⭐"
@@ -246,7 +246,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - Play (46-60).xlsx",
+    "path": "data/PA modules - understand (65 - 75).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1mWNhZqCfGOub-6mE1pRygNQ2hZV7C8CUW8L3ifKAVGQ"
   },
   "_metadata": {

@@ -48,11 +48,11 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_1",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_HIJA_13",
+      "image_asset": "images/comic/relation/one_on_one_teen_1.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_hija_13",
       "nested": false,
-      "text_1_facilitator": "Veamos como @data.characters.F1_PADRE.name y su hija @data.characters.F1_HIJA_13.name pasan tiempo juntos y conectados.",
+      "text_1_facilitator": "Veamos como @data.characters.f1_padre.name y su hija @data.characters.f1_hija_13.name pasan tiempo juntos y conectados.",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
@@ -60,25 +60,25 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Veamos como @data.characters.F1_PADRE.name y su hija @data.characters.F1_HIJA_13.name pasan tiempo juntos y conectados."
+          "eng": "Veamos como @data.characters.f1_padre.name y su hija @data.characters.f1_hija_13.name pasan tiempo juntos y conectados."
         },
         "character_1_text": {
-          "eng": "@data.characters.F1_HIJA_13.name, ¿cómo estuvo tu día?"
+          "eng": "@data.characters.f1_hija_13.name, ¿cómo estuvo tu día?"
         },
         "character_2_text": {
           "eng": "Bien, papá. Voy llegando de la escuela."
         }
       },
-      "character_1_text": "@data.characters.F1_HIJA_13.name, ¿cómo estuvo tu día?",
+      "character_1_text": "@data.characters.f1_hija_13.name, ¿cómo estuvo tu día?",
       "character_2_text": "Bien, papá. Voy llegando de la escuela."
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_2",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_HIJA_13",
-      "character_3_id": "F1_PADRE",
+      "image_asset": "images/comic/relation/one_on_one_teen_2.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_hija_13",
+      "character_3_id": "f1_padre",
       "nested": false,
       "character_1_text": "Quiero pasar tiempo contigo, antes de que tenga que volver al trabajo. ¿Qué quieres que hagamos juntos?",
       "_translations": {
@@ -103,9 +103,9 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_3",
-      "character_1_id": "F1_HIJA_13",
-      "character_2_id": "F1_PADRE",
+      "image_asset": "images/comic/relation/one_on_one_teen_3.svg",
+      "character_1_id": "f1_hija_13",
+      "character_2_id": "f1_padre",
       "nested": false,
       "character_1_text": "Yo estaba pensando en construir una casa reciclada usando botellas viejas, cartón y otros materiales reciclados. Mira, estos los recogí de camino a la casa. Estaban tirados junto a la parada del bus y enfrente de la tienda de la esquina.",
       "_translations": {
@@ -117,17 +117,17 @@
           "eng": "Yo estaba pensando en construir una casa reciclada usando botellas viejas, cartón y otros materiales reciclados. Mira, estos los recogí de camino a la casa. Estaban tirados junto a la parada del bus y enfrente de la tienda de la esquina."
         },
         "character_2_text": {
-          "eng": "¡Qué buena idea, @data.characters.F1_HIJA_13.name! Se nota que lo has pensado bien y que te interesa esta tarea. ¿Cómo quieres que te ayude?"
+          "eng": "¡Qué buena idea, @data.characters.f1_hija_13.name! Se nota que lo has pensado bien y que te interesa esta tarea. ¿Cómo quieres que te ayude?"
         }
       },
-      "character_2_text": "¡Qué buena idea, @data.characters.F1_HIJA_13.name! Se nota que lo has pensado bien y que te interesa esta tarea. ¿Cómo quieres que te ayude?"
+      "character_2_text": "¡Qué buena idea, @data.characters.f1_hija_13.name! Se nota que lo has pensado bien y que te interesa esta tarea. ¿Cómo quieres que te ayude?"
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_4",
-      "character_1_id": "F1_HIJA_13",
-      "character_2_id": "F1_PADRE",
+      "image_asset": "images/comic/relation/one_on_one_teen_4.svg",
+      "character_1_id": "f1_hija_13",
+      "character_2_id": "f1_padre",
       "nested": false,
       "character_1_text": "¿Me ayudas a limpiar estas botellas? Van a ser los pilares de la casa. Con los cartones haré las paredes y el techo. Después, estoy pensando que podríamos pintar los cartones y las botellas para que queden bonitos.",
       "_translations": {
@@ -147,10 +147,10 @@
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_t_5",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_HIJA_13",
-      "character_3_id": "F1_PADRE",
+      "image_asset": "images/comic/relation/one_on_one_teen_5.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_hija_13",
+      "character_3_id": "f1_padre",
       "nested": false,
       "text_2": "Más tarde, el mismo día",
       "_translations": {
@@ -282,7 +282,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - i (1-15).xlsx",
+    "path": "data/PA_modules_i (1-15).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
   },
   "_metadata": {

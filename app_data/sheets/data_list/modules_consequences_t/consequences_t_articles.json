@@ -28,9 +28,9 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/consequences_teen_1.svg",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_HIJO_17",
+      "image_asset": "images/comic/behave/consequences_teen_1.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_hijo_17",
       "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta que muestra cómo puedes involucrar a tu adolescente en el establecimiento de consecuencias justas.",
       "_translations": {
@@ -43,21 +43,21 @@
           "eng": "Aquí tienes una historieta que muestra cómo puedes involucrar a tu adolescente en el establecimiento de consecuencias justas."
         },
         "character_1_text": {
-          "eng": "Me preocupa que sigas llegando tarde a casa, {F1_HIJO_17}. ¿Qué podemos hacer para que te acuerdes de llegar a tiempo?"
+          "eng": "Me preocupa que sigas llegando tarde a casa, @data.characters.f1_hijo_17.name. ¿Qué podemos hacer para que te acuerdes de llegar a tiempo?"
         },
         "character_2_text": {
           "eng": "Si llego a casa temprano, ¿tal vez pueda quedarme despierto media hora más tarde de lo normal?"
         }
       },
-      "character_1_text": "Me preocupa que sigas llegando tarde a casa, {F1_HIJO_17}. ¿Qué podemos hacer para que te acuerdes de llegar a tiempo?",
+      "character_1_text": "Me preocupa que sigas llegando tarde a casa, @data.characters.f1_hijo_17.name. ¿Qué podemos hacer para que te acuerdes de llegar a tiempo?",
       "character_2_text": "Si llego a casa temprano, ¿tal vez pueda quedarme despierto media hora más tarde de lo normal?"
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/consecuences_teen_2.svg",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_HIJO_17",
+      "image_asset": "images/comic/behave/consequences_teen_2.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_hijo_17",
       "nested": false,
       "character_1_text": "Me parece bien esa idea. ¿Y qué hacemos si no sigues la regla?",
       "_translations": {
@@ -77,9 +77,9 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/consecuences_teen_3.svg",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_HIJO_17",
+      "image_asset": "images/comic/behave/consequences_teen_3.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_hijo_17",
       "nested": false,
       "character_1_text": "Ándale, sé que tienes algunas ideas.",
       "_translations": {
@@ -99,9 +99,9 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/consecuences_teen_4.svg",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_HIJO_17",
+      "image_asset": "images/comic/behave/consequences_teen_4.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_hijo_17",
       "nested": false,
       "character_1_text": "La tarea la tienes que hacer de todas maneras. Si no cumples la regla, creo que es justo que no puedas ver a tus amigas y amigos al día siguiente. ¿Qué te parece?",
       "_translations": {
@@ -121,16 +121,16 @@
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/consequences_teen_5.svg",
-      "character_1_id": "F1_PADRE",
+      "image_asset": "images/comic/behave/consequences_teen_5.svg",
+      "character_1_id": "f1_padre",
       "nested": false,
-      "character_1_text": "Gracias por entender mi preocupación y crear esta regla conmigo, {F1_HIJO_17}.",
+      "character_1_text": "Gracias por entender mi preocupación y crear esta regla conmigo, @data.characters.f1_hijo_17.name.",
       "_translations": {
         "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Gracias por entender mi preocupación y crear esta regla conmigo, {F1_HIJO_17}."
+          "eng": "Gracias por entender mi preocupación y crear esta regla conmigo, @data.characters.f1_hijo_17.name."
         }
       }
     },
@@ -154,7 +154,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nEscribe una lista de consecuencias que puedas usar y que te parezcan justas. Esto te preparará para la próxima vez que tu adolescente se porte mal.",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nEscribe una lista de consecuencias que puedas usar y que te parezcan justas. Esto te preparará para la próxima vez que tu adolescente se porte mal.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -165,7 +165,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nEscribe una lista de consecuencias que puedas usar y que te parezcan justas. Esto te preparará para la próxima vez que tu adolescente se porte mal."
+          "eng": "**_Actividad para casa_**⭐ \n\nEscribe una lista de consecuencias que puedas usar y que te parezcan justas. Esto te preparará para la próxima vez que tu adolescente se porte mal."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy?"
@@ -192,7 +192,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - problem (31 - 45).xlsx",
+    "path": "data/PA modules - behave (31 - 43).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1q27LnkUFTJQqEbqkgh1hgN4sDQkfasSo29b5SAP4ktg"
   },
   "_metadata": {

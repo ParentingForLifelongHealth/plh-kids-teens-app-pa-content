@@ -1,0 +1,44 @@
+{
+  "flow_type": "template",
+  "flow_name": "module_list_unlock",
+  "status": "released",
+  "rows": [
+    {
+      "type": "begin_data_items",
+      "name": "all_courses",
+      "value": "@data.courses",
+      "parameter_list": "filter: (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag));",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_template",
+      "value": "module_group",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course",
+      "value": "@item.id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course_title",
+      "value": "@item.title"
+    },
+    {
+      "name": "course_image",
+      "value": "@item.image_asset"
+    },
+    {
+      "name": "completed_course",
+      "value": false
+    },
+    {
+      "type": "end_template",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_data_items",
+      "exclude_from_translation": true
+    }
+  ]
+}

@@ -6,26 +6,35 @@
     {
       "id": "relax_1",
       "in_library": "yes",
+      "title_eng": "Quick pause",
+      "title": "Pausa rápida",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_1.mp3",
+      "media_asset_m": "audio/relax/relax_1.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
-      "title": "Quick pause",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Quick pause"
-        }
-      },
+      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "category_id": "relax",
       "nested": false,
       "completed": false
     },
     {
       "id": "check_in_12",
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Cuidarte empieza por darte cuenta de cómo te sientes.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
       "_translatedFields": {
         "text_1": {
           "eng": "Cuidarte empieza por darte cuenta de cómo te sientes."
@@ -52,22 +61,6 @@
           "eng": "Triste"
         }
       },
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Cuidarte empieza por darte cuenta de cómo te sientes.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "quiz_1_feedback_1": "¡Fantástico! Y muy bien por invertir en ti y en tu familia. Has logrado mucho.",
       "quiz_1_feedback_2": "Lamento que hoy no esté siendo un buen día. Estás haciendo un gran trabajo al intentar entender lo que está pasando. @global.app_name está aquí para apoyarte.",
       "quiz_1_feedback_3": "La crianza puede ser retadora. Toma una respiración profunda y piensa en todo lo que has hecho por tu familia. ¡Reconoce tus esfuerzos!",
@@ -79,6 +72,8 @@
     },
     {
       "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Esta sesión trata sobre como ser una figura de apoyo en la crianza y con la pareja o la familia  💚"
@@ -117,8 +112,6 @@
           "eng": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
         }
       },
-      "category_id": "intro",
-      "nested": false,
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\nLa crianza no es un rol únicamente para la mujer: ¡los hombres también desempeñan un papel importante!\n\nCuando las madres, los padres y las personas cuidadoras hacen equipo y se comprometen en la crianza de sus niñas, niños y adolescentes, ¡toda la familia sale beneficiada! 🌷",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -149,61 +142,61 @@
     },
     {
       "id": "explore_1",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Aquí tienes una historieta que muestra cómo puedes mostrarle apoyo a tu pareja o familiar y ser una madre, un padre o una persona cuidadora que se involucra en la crianza:\n\nYa casi es la hora de acostarse y papá está supervisando que {F1_HIJA_6} termine su tarea. Mamá acaba de llegar del trabajo."
-        },
-        "character_1_text": {
-          "eng": "¡Buen trabajo, {F1_HIJA_6}! ¡Estás leyendo con mucha fluidez!"
-        }
-      },
       "category_id": "explore",
       "nested": false,
-      "text_1_facilitator": "Aquí tienes una historieta que muestra cómo puedes mostrarle apoyo a tu pareja o familiar y ser una madre, un padre o una persona cuidadora que se involucra en la crianza:\n\nYa casi es la hora de acostarse y papá está supervisando que {F1_HIJA_6} termine su tarea. Mamá acaba de llegar del trabajo.",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Aquí tienes una historieta que muestra cómo puedes mostrarle apoyo a tu pareja o familiar y ser una madre, un padre o una persona cuidadora que se involucra en la crianza:\n\nYa casi es la hora de acostarse y papá está supervisando que @data.characters.f1_hija_6.name termine su tarea. Mamá acaba de llegar del trabajo."
+        },
+        "character_1_text": {
+          "eng": "¡Buen trabajo, @data.characters.f1_hija_6.name! ¡Estás leyendo con mucha fluidez!"
+        }
+      },
+      "text_1_facilitator": "Aquí tienes una historieta que muestra cómo puedes mostrarle apoyo a tu pareja o familiar y ser una madre, un padre o una persona cuidadora que se involucra en la crianza:\n\nYa casi es la hora de acostarse y papá está supervisando que @data.characters.f1_hija_6.name termine su tarea. Mamá acaba de llegar del trabajo.",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {}
       },
-      "image_asset": "images/character_icons/ipv_supportive_1",
-      "character_1_id": "F1_PADRE",
-      "character_1_text": "¡Buen trabajo, {F1_HIJA_6}! ¡Estás leyendo con mucha fluidez!",
+      "image_asset": "images/comic/ipv/ipv_supportive_1.svg",
+      "character_1_id": "f1_padre",
+      "character_1_text": "¡Buen trabajo, @data.characters.f1_hija_6.name! ¡Estás leyendo con mucha fluidez!",
       "completed": false
     },
     {
       "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Hola, {F1_MADRE}. Justo estaba haciendo la tarea con {F1_HIJA_6}. ¿Cómo te fue hoy?"
+          "eng": "Hola, @data.characters.f1_madre.name. Justo estaba haciendo la tarea con @data.characters.f1_hija_6.name. ¿Cómo te fue hoy?"
         },
         "character_2_text": {
           "eng": "Tuve un día muy pesado, me duelen mis piecitos y todavía tenemos que prepararles la comida a los niños."
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/character_icons/ipv_supportive_2",
-      "character_1_id": "F1_PADRE",
-      "character_1_text": "Hola, {F1_MADRE}. Justo estaba haciendo la tarea con {F1_HIJA_6}. ¿Cómo te fue hoy?",
+      "image_asset": "images/comic/ipv/ipv_supportive_2.svg",
+      "character_1_id": "f1_padre",
+      "character_1_text": "Hola, @data.characters.f1_madre.name. Justo estaba haciendo la tarea con @data.characters.f1_hija_6.name. ¿Cómo te fue hoy?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
-      "character_2_id": "F1_MADRE",
+      "character_2_id": "f1_madre",
       "character_2_text": "Tuve un día muy pesado, me duelen mis piecitos y todavía tenemos que prepararles la comida a los niños.",
       "completed": false
     },
     {
       "id": "explore_3",
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Deberías descansar. Yo puedo encargarme de la comida y estar al pendiente de {F1_HIJA_6} en lo que termina su tarea."
-        }
-      },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "images/character_icons/ipv_supportive_3",
-      "character_1_id": "F1_PADRE",
-      "character_1_text": "Deberías descansar. Yo puedo encargarme de la comida y estar al pendiente de {F1_HIJA_6} en lo que termina su tarea.",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Deberías descansar. Yo puedo encargarme de la comida y estar al pendiente de @data.characters.f1_hija_6.name en lo que termina su tarea."
+        }
+      },
+      "image_asset": "images/comic/ipv/ipv_supportive_3.svg",
+      "character_1_id": "f1_padre",
+      "character_1_text": "Deberías descansar. Yo puedo encargarme de la comida y estar al pendiente de @data.characters.f1_hija_6.name en lo que termina su tarea.",
       "_translations": {
         "character_1_text": {}
       },
@@ -211,38 +204,38 @@
     },
     {
       "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
-          "eng": "¡Eso sería maravilloso, {F1_PADRE}! Gracias por trabajar conmigo y ser un gran equipo."
+          "eng": "¡Eso sería maravilloso, @data.characters.f1_padre.name! Gracias por trabajar conmigo y ser un gran equipo."
         },
         "character_2_text": {
           "eng": "¡Claro! Estamos juntos en esto."
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/character_icons/ipv_supportive_4",
-      "character_1_id": "F1_MADRE",
-      "character_1_text": "¡Eso sería maravilloso, {F1_PADRE}! Gracias por trabajar conmigo y ser un gran equipo.",
+      "image_asset": "images/comic/ipv/ipv_supportive_4.svg",
+      "character_1_id": "f1_madre",
+      "character_1_text": "¡Eso sería maravilloso, @data.characters.f1_padre.name! Gracias por trabajar conmigo y ser un gran equipo.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
-      "character_2_id": "F1_PADRE",
+      "character_2_id": "f1_padre",
       "character_2_text": "¡Claro! Estamos juntos en esto.",
       "completed": false
     },
     {
       "id": "practical_tips_1",
       "media_type": "video",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Da clic en reproducir ▶️ para aprender algunas estrategias para ser una figura de apoyo en la crianza y con tu pareja o familiar.\n\n1️⃣ *PONER ATENCIÓN*\n2️⃣ *TRABAJAR COMO EQUIPO*\n3️⃣ *SER UN INTEGRANTE ACTIVO*\n4️⃣ *PEDIR APOYO*"
-        }
-      },
       "category_id": "practical_tips",
       "nested": false,
-      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender algunas estrategias para ser una figura de apoyo en la crianza y con tu pareja o familiar.\n\n1️⃣ *PONER ATENCIÓN*\n2️⃣ *TRABAJAR COMO EQUIPO*\n3️⃣ *SER UN INTEGRANTE ACTIVO*\n4️⃣ *PEDIR APOYO*",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da clic en reproducir ▶️ para aprender algunas estrategias para ser una figura de apoyo en la crianza y con tu pareja o familiar.\n\n1️⃣ **PONER ATENCIÓN**\n2️⃣ **TRABAJAR COMO EQUIPO**\n3️⃣ **SER UN INTEGRANTE ACTIVO**\n4️⃣ **PEDIR APOYO**"
+        }
+      },
+      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender algunas estrategias para ser una figura de apoyo en la crianza y con tu pareja o familiar.\n\n1️⃣ **PONER ATENCIÓN**\n2️⃣ **TRABAJAR COMO EQUIPO**\n3️⃣ **SER UN INTEGRANTE ACTIVO**\n4️⃣ **PEDIR APOYO**",
       "_translations": {
         "text_1_facilitator": {}
       },
@@ -251,9 +244,11 @@
     },
     {
       "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "<span><b><i>*_Actividad para casa_*⭐ </b></i></span><span><br/><br/>Trata de darte cuenta de los momentos en los que tu pareja o familiar con quien compartes la crianza necesita apoyo. Pregúntale qué necesita y escúchale. <br/><br/>Por ejemplo, cuando tu niña, niño o adolescente se está preparando para ir a la escuela, pregúntale si necesitan tu ayuda para algo. </span>"
+          "eng": "<span><b><i>**_Actividad para casa_**⭐ </b></i></span><span><br/><br/>Trata de darte cuenta de los momentos en los que tu pareja o familiar con quien compartes la crianza necesita apoyo. Pregúntale qué necesita y escúchale. <br/><br/>Por ejemplo, cuando tu niña, niño o adolescente se está preparando para ir a la escuela, pregúntale si necesitan tu ayuda para algo. </span>"
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy?"
@@ -271,8 +266,6 @@
           "eng": "A veces, puede ser difícil hacer esto cuando estamos muy ocupados con nuestras propias vidas, pero pasar incluso un ratito a solas con tu pareja o familiar puede hacer una gran diferencia.\n\n⭐ Recuerda que puedes volver a consultar esta sesión en el Menú Principal."
         }
       },
-      "category_id": "practise",
-      "nested": false,
       "quiz_1_feedback_1": "¡Fantástico! 🎉",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -286,7 +279,7 @@
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "<span><b><i>*_Actividad para casa_*⭐ </b></i></span><span><br/><br/>Trata de darte cuenta de los momentos en los que tu pareja o familiar con quien compartes la crianza necesita apoyo. Pregúntale qué necesita y escúchale. <br/><br/>Por ejemplo, cuando tu niña, niño o adolescente se está preparando para ir a la escuela, pregúntale si necesitan tu ayuda para algo. </span>",
+      "text_1_facilitator": "<span><b><i>**_Actividad para casa_**⭐ </b></i></span><span><br/><br/>Trata de darte cuenta de los momentos en los que tu pareja o familiar con quien compartes la crianza necesita apoyo. Pregúntale qué necesita y escúchale. <br/><br/>Por ejemplo, cuando tu niña, niño o adolescente se está preparando para ir a la escuela, pregúntale si necesitan tu ayuda para algo. </span>",
       "completed": false
     }
   ],

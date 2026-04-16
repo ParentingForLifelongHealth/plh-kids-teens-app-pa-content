@@ -21,8 +21,12 @@
       "exclude_from_translation": true
     },
     {
+      "name": "course_id",
+      "value": "@gen.tag_course"
+    },
+    {
       "name": "show_progress_bar",
-      "value": false,
+      "value": true,
       "exclude_from_translation": true
     },
     {

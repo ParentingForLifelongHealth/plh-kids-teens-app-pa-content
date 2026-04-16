@@ -144,13 +144,15 @@
       "id": "hombre_en_coche",
       "caps_id": "HOMBRE_EN_COCHE",
       "name": "Hombre en coche",
-      "role": "other"
+      "role": "other",
+      "image_asset": "images/character_icons/HOMBRE_EN_COCHE"
     },
     {
       "id": "amiga_mujer_1",
       "caps_id": "AMIGA_MUJER_1",
       "name": "Leydi",
       "role": "child",
+      "image_asset": "images/character_icons/AMIGA_MUJER_1",
       "Flag if column E has duplicate names": ""
     },
     {
@@ -158,29 +160,14 @@
       "caps_id": "AMIGA_MUJER_2",
       "name": "Valeria",
       "role": "child",
+      "image_asset": "images/character_icons/AMIGA_MUJER_2",
       "Flag if column E has duplicate names": ""
     },
     {
-      "id": "boyfriend_1",
-      "caps_id": "BOYFRIEND_1"
-    },
-    {
-      "id": "man_threat",
-      "caps_id": "MAN_THREAT"
-    },
-    {
-      "id": "girlfriend_1",
-      "caps_id": "GIRLFRIEND_1",
-      "Flag if column E has duplicate names": ""
-    },
-    {
-      "id": "teacher_1",
-      "caps_id": "TEACHER_1",
-      "Flag if column E has duplicate names": ""
-    },
-    {
-      "id": "friend_female_3",
-      "caps_id": "FRIEND_FEMALE_3"
+      "id": "profesora_1",
+      "caps_id": "PROFESORA_1",
+      "name": "Profesora",
+      "image_asset": "images/character_icons/PROFESORA_1"
     }
   ]
 }

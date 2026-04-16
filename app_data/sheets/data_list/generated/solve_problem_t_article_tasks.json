@@ -6,79 +6,26 @@
     {
       "id": "relax_1",
       "in_library": "yes",
+      "title_eng": "Quick pause",
+      "title": "Pausa rápida",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_1.mp3",
+      "media_asset_m": "audio/relax/relax_1.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
-      "title": "Quick pause",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Quick pause"
-        }
-      },
+      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "category_id": "relax",
       "nested": false,
       "completed": false
     },
     {
-      "id": "check_in_10",
-      "_translatedFields": {
-        "text_1": {
-          "eng": "Ser una gran madre, padre o persona cuidadora también implica dedicar tiempo para ti. Comienza por reconocer cómo te sientes."
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Que gusto saber que hoy te sientes bien. ¡Eres increíble!"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Hay días en los que simplemente no sabemos qué hacer, y eso está bien. Estás aquí, y eso es lo que importa."
-        },
-        "quiz_1_feedback_3": {
-          "eng": "La crianza puede ser desafiante. Pero estar aquí muestra que quieres seguir mejorando, y eso ya es un gran logro."
-        },
-        "quiz_1_question": {
-          "eng": "¿Cómo te sientes el día de hoy?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Feliz"
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Bien"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Triste"
-        }
-      },
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Ser una gran madre, padre o persona cuidadora también implica dedicar tiempo para ti. Comienza por reconocer cómo te sientes.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
-      "quiz_1_feedback_1": "Que gusto saber que hoy te sientes bien. ¡Eres increíble!",
-      "quiz_1_feedback_2": "Hay días en los que simplemente no sabemos qué hacer, y eso está bien. Estás aquí, y eso es lo que importa.",
-      "quiz_1_feedback_3": "La crianza puede ser desafiante. Pero estar aquí muestra que quieres seguir mejorando, y eso ya es un gran logro.",
-      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
-      "quiz_1_option_1_text": "Feliz",
-      "quiz_1_option_2_text": "Bien",
-      "quiz_1_option_3_text": "Triste",
-      "completed": false
-    },
-    {
       "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Esta lección trata sobre aprender a resolver problemas con {tu adolescente}. 👂",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Esta lección trata sobre aprender a resolver problemas con {tu adolescente}. 👂"
@@ -87,21 +34,16 @@
           "eng": "A medida que las y los adolescentes crecen, realizan más actividades por su cuenta y a veces no cumplen las reglas que se establecen para mantenerles a salvo. 🚗 Esto puede ocasionar conflictos en casa. Aprender a resolver estos problemas puede ayudar a mejorar el comportamiento de tu adolescente."
         }
       },
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Esta lección trata sobre aprender a resolver problemas con {tu adolescente}. 👂",
-      "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
-      },
       "text_2": "A medida que las y los adolescentes crecen, realizan más actividades por su cuenta y a veces no cumplen las reglas que se establecen para mantenerles a salvo. 🚗 Esto puede ocasionar conflictos en casa. Aprender a resolver estos problemas puede ayudar a mejorar el comportamiento de tu adolescente.",
       "completed": false
     },
     {
       "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Vamos, {F1_HIJA_13}, es hora de prepararnos para ir a dormir."
+          "eng": "Vamos, @data.characters.f3_hija_12.name, es hora de prepararnos para ir a dormir."
         },
         "character_2_text": {
           "eng": "¡Pero todavía me falta mucha tarea que hacer!"
@@ -110,13 +52,11 @@
           "eng": "Mm, es la tercera noche consecutiva que no te acuestas a tiempo por culpa de la tarea."
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/solve_problems_teen_1.svg",
-      "character_1_id": "F1_MADRE",
-      "character_2_id": "F1_HIJA_13",
-      "character_3_id": "F1_MADRE",
-      "character_1_text": "Vamos, {F1_HIJA_13}, es hora de prepararnos para ir a dormir.",
+      "image_asset": "images/comic/behave/solve_problems_teen_1.svg",
+      "character_1_id": "f3_madre",
+      "character_2_id": "f3_hija_12",
+      "character_3_id": "f3_madre",
+      "character_1_text": "Vamos, @data.characters.f3_hija_12.name, es hora de prepararnos para ir a dormir.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {},
@@ -128,6 +68,8 @@
     },
     {
       "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "¿Cómo podemos asegurarnos de que hagas todo lo que tengas que hacer y aún así te acuestes a tiempo?"
@@ -142,12 +84,10 @@
           "eng": "¡Está bien!"
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/solve_problems_teen_2.svg",
-      "character_1_id": "F1_MADRE",
-      "character_2_id": "F1_HIJA_13",
-      "character_3_id": "F1_MADRE",
+      "image_asset": "images/comic/behave/solve_problems_teen_2.svg",
+      "character_1_id": "f3_madre",
+      "character_2_id": "f3_hija_12",
+      "character_3_id": "f3_madre",
       "character_1_text": "¿Cómo podemos asegurarnos de que hagas todo lo que tengas que hacer y aún así te acuestes a tiempo?",
       "_translations": {
         "character_1_text": {},
@@ -157,15 +97,17 @@
       },
       "character_2_text": "¿Tal vez pueda empezar la tarea un poco antes?",
       "character_3_text": "¡Es una gran idea! ¿Qué tal si establecemos la regla de que empieces la tarea media hora después de que llegues a casa? ¡Así podrás terminarla y también tendrás tiempo para relajarte antes de ir a dormir! Estaré encantada de ayudarte cuando lo necesites.",
-      "character_4_id": "F1_HIJA_13",
+      "character_4_id": "f3_hija_12",
       "character_4_text": "¡Está bien!",
       "completed": false
     },
     {
       "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
-          "eng": "{F1_HIJA_13}, está sonando la alarma para empezar la tarea.\n¿Ya la empezaste?"
+          "eng": "@data.characters.f3_hija_12.name, está sonando la alarma para empezar la tarea.\n¿Ya la empezaste?"
         },
         "character_2_text": {
           "eng": "Empezaré de una vez, ma. ¿Te puedo pedir ayuda con esta pregunta?"
@@ -174,13 +116,11 @@
           "eng": "Claro que sí."
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/solve_problems_teen_3.svg",
-      "character_1_id": "F1_MADRE",
-      "character_2_id": "F1_HIJA_13",
-      "character_3_id": "F1_MADRE",
-      "character_1_text": "{F1_HIJA_13}, está sonando la alarma para empezar la tarea.\n¿Ya la empezaste?",
+      "image_asset": "images/comic/behave/solve_problems_teen_3.svg",
+      "character_1_id": "f3_madre",
+      "character_2_id": "f3_hija_12",
+      "character_3_id": "f3_madre",
+      "character_1_text": "@data.characters.f3_hija_12.name, está sonando la alarma para empezar la tarea.\n¿Ya la empezaste?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {},
@@ -192,49 +132,60 @@
     },
     {
       "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Mira... ¡Esta noche me dormiré temprano!"
         },
         "character_2_text": {
-          "eng": "Qué bien, {F1_HIJA_13}. Gracias por colaborar conmigo en encontrar una solución que nos funcione. ¡Ahora sí estarás descansada para mañana!"
+          "eng": "Qué bien, @data.characters.f3_hija_12.name. Gracias por colaborar conmigo en encontrar una solución que nos funcione. ¡Ahora sí estarás descansada para mañana!"
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/solve_problems_teen_4.svg",
-      "character_1_id": "F1_HIJA_13",
-      "character_2_id": "F1_MADRE",
+      "image_asset": "images/comic/behave/solve_problems_teen_4.svg",
+      "character_1_id": "f3_hija_12",
+      "character_2_id": "f3_madre",
       "character_1_text": "Mira... ¡Esta noche me dormiré temprano!",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
-      "character_2_text": "Qué bien, {F1_HIJA_13}. Gracias por colaborar conmigo en encontrar una solución que nos funcione. ¡Ahora sí estarás descansada para mañana!",
+      "character_2_text": "Qué bien, @data.characters.f3_hija_12.name. Gracias por colaborar conmigo en encontrar una solución que nos funcione. ¡Ahora sí estarás descansada para mañana!",
       "completed": false
     },
     {
       "id": "practical_tips_1",
       "media_type": "video",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "▶️ Da Clic en Reproducir para conocer los cuatro pasos para ayudar a tu adolescente a resolver un problema:\n\n1️⃣ **CONOCERLO**\n2️⃣ **RESOLVERLO**\n3️⃣ **INTENTARLO**\n4️⃣ **COMPROBARLO**"
-        }
-      },
       "category_id": "practical_tips",
       "nested": false,
       "text_1_facilitator": "▶️ Da Clic en Reproducir para conocer los cuatro pasos para ayudar a tu adolescente a resolver un problema:\n\n1️⃣ **CONOCERLO**\n2️⃣ **RESOLVERLO**\n3️⃣ **INTENTARLO**\n4️⃣ **COMPROBARLO**",
       "_translations": {
         "text_1_facilitator": {}
       },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "▶️ Da Clic en Reproducir para conocer los cuatro pasos para ayudar a tu adolescente a resolver un problema:\n\n1️⃣ **CONOCERLO**\n2️⃣ **RESOLVERLO**\n3️⃣ **INTENTARLO**\n4️⃣ **COMPROBARLO**"
+        }
+      },
       "youtube_gb_en": "youtube link",
       "completed": false
     },
     {
       "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \nHabla con tu adolescente sobre los cuatro pasos para resolver problemas y revisen la lección juntos. ¡Saber resolver problemas es una habilidad que podrán usar el resto de sus vidas!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\n*_Habla con tu adolescente sobre los cuatro pasos para resolver problemas y revisen la lección juntos. ¡Saber resolver problemas es una habilidad que podrán usar el resto de sus vidas!_*"
+          "eng": "**_Actividad para casa_**⭐ \nHabla con tu adolescente sobre los cuatro pasos para resolver problemas y revisen la lección juntos. ¡Saber resolver problemas es una habilidad que podrán usar el resto de sus vidas!"
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy?"
@@ -252,22 +203,11 @@
           "eng": "Está bien. Intenten repasar estos pasos en conjunto en algún momento de esta semana."
         }
       },
-      "category_id": "practise",
-      "nested": false,
-      "quiz_1_feedback_1": "¡Maravilloso!",
-      "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
-      },
-      "quiz_1_feedback_2": "Está bien. Intenten repasar estos pasos en conjunto en algún momento de esta semana.",
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "¡Maravilloso!",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\n*_Habla con tu adolescente sobre los cuatro pasos para resolver problemas y revisen la lección juntos. ¡Saber resolver problemas es una habilidad que podrán usar el resto de sus vidas!_*",
+      "quiz_1_feedback_2": "Está bien. Intenten repasar estos pasos en conjunto en algún momento de esta semana.",
       "completed": false
     }
   ],

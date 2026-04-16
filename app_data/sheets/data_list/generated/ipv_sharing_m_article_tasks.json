@@ -6,26 +6,35 @@
     {
       "id": "relax_1",
       "in_library": "yes",
+      "title_eng": "Quick pause",
+      "title": "Pausa rápida",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_1.mp3",
+      "media_asset_m": "audio/relax/relax_1.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
-      "title": "Quick pause",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Quick pause"
-        }
-      },
+      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "category_id": "relax",
       "nested": false,
       "completed": false
     },
     {
       "id": "check_in_11",
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "¡Tomarte un momento para TI hace una gran diferencia para todas y todos!",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
       "_translatedFields": {
         "text_1": {
           "eng": "¡Tomarte un momento para TI hace una gran diferencia para todas y todos!"
@@ -52,22 +61,6 @@
           "eng": "Triste"
         }
       },
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "¡Tomarte un momento para TI hace una gran diferencia para todas y todos!",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "quiz_1_feedback_1": "¡Que bien que hoy esté siendo un buen día! ¿Puedes pensar en algo que ha salido bien hoy? Recuerda reconocerte por ello.",
       "quiz_1_feedback_2": "Cada día tiene cosas buenas y malas. Reconócete por todo lo que has hecho hasta ahora: eres increíble.",
       "quiz_1_feedback_3": "Lamento que hoy estés sintiendo emociones difíciles. Buen trabajo por reconocerlas y por intentar ser amable contigo. Estás dando un gran ejemplo a tu familia.",
@@ -79,6 +72,8 @@
     },
     {
       "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Hoy vamos a aprender acerca del papel de los hombres en la crianza compartida👋"
@@ -117,8 +112,6 @@
           "eng": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
         }
       },
-      "category_id": "intro",
-      "nested": false,
       "quiz_1_feedback_1": "🎉 ¡Tienes razón!\n\nEs importante que los hombres sean miembros activos en los cuidados. Esto significa más que sólo jugar un rol de trabajo para traer dinero al hogar para alimentos, ropa y vivienda. \n\nSer un cuidador involucrado activamente fortalece la conexión y el bienestar entre tú, tus niñas, niños, adolescentes y pareja o familiares. \n\nParticipar en las tareas de cuidado y en el trabajo doméstico también demuestra respeto por la  igualdad en el hogar.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -149,62 +142,64 @@
     },
     {
       "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Aquí tienes una historieta que muestra cómo puedes estar presente en las responsabilidades de cuidado de la familia:"
         },
         "character_1_text": {
-          "eng": "{F1_PADRE}: {F1_MADRE}, ¿es tu hora de hacer artesanías? Voy a pasar un rato con {F1_HIJA_6} para que puedas concentrarte y estar tranquila."
+          "eng": "@data.characters.f1_madre.name, ¿es tu hora de hacer artesanías? Voy a pasar un rato con @data.characters.f1_hija_6.name para que puedas concentrarte y estar tranquila."
         },
         "character_2_text": {
-          "eng": "Gracias, {F1_PADRE}. Lo aprecio bastante."
+          "eng": "Gracias, @data.characters.f1_padre.name. Lo aprecio bastante."
         }
       },
-      "category_id": "explore",
-      "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta que muestra cómo puedes estar presente en las responsabilidades de cuidado de la familia:",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
         "character_2_text": {}
       },
-      "image_asset": "images/character_icons/ipv_sharing_m_1",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_MADRE",
-      "character_1_text": "{F1_PADRE}: {F1_MADRE}, ¿es tu hora de hacer artesanías? Voy a pasar un rato con {F1_HIJA_6} para que puedas concentrarte y estar tranquila.",
-      "character_2_text": "Gracias, {F1_PADRE}. Lo aprecio bastante.",
+      "image_asset": "images/comic/ipv/ipv_sharing_1.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_madre",
+      "character_1_text": "@data.characters.f1_madre.name, ¿es tu hora de hacer artesanías? Voy a pasar un rato con @data.characters.f1_hija_6.name para que puedas concentrarte y estar tranquila.",
+      "character_2_text": "Gracias, @data.characters.f1_padre.name. Lo aprecio bastante.",
       "completed": false
     },
     {
       "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "{F1_MADRE} está haciendo sus artesanías en el fondo."
+          "eng": "@data.characters.f1_madre.name está haciendo sus artesanías en el fondo."
         },
         "character_1_text": {
-          "eng": "Veo que estás jugando tranquilamente con tus bloques, {F1_HIJA_6}. ¡Estás construyendo un muro muy alto y fuerte!"
+          "eng": "Veo que estás jugando tranquilamente con tus bloques, @data.characters.f1_hija_6.name. ¡Estás construyendo un muro muy alto y fuerte!"
         },
         "character_2_text": {
           "eng": "Es para las gallinas."
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "{F1_MADRE} está haciendo sus artesanías en el fondo.",
+      "text_1_facilitator": "@data.characters.f1_madre.name está haciendo sus artesanías en el fondo.",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
         "character_2_text": {}
       },
-      "image_asset": "images/character_icons/ipv_sharing_m_2",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_HIJA_6",
-      "character_1_text": "Veo que estás jugando tranquilamente con tus bloques, {F1_HIJA_6}. ¡Estás construyendo un muro muy alto y fuerte!",
+      "image_asset": "images/comic/ipv/ipv_sharing_2.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_hija_6",
+      "character_1_text": "Veo que estás jugando tranquilamente con tus bloques, @data.characters.f1_hija_6.name. ¡Estás construyendo un muro muy alto y fuerte!",
       "character_2_text": "Es para las gallinas.",
       "completed": false
     },
     {
       "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "¡Seguro las mantendrá a salvo!"
@@ -213,11 +208,9 @@
           "eng": "¡Ahora me puedes ayudar a construir una casa para que nuestra familia pueda dormir!"
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/character_icons/ipv_sharing_m_3",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_HIJA_6",
+      "image_asset": "images/comic/ipv/ipv_sharing_3.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_hija_6",
       "character_1_text": "¡Seguro las mantendrá a salvo!",
       "_translations": {
         "character_1_text": {},
@@ -228,20 +221,20 @@
     },
     {
       "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Esta casa nos va a mantener muy frescos y cómodos. ¡Qué buena eres para construir, {F1_HIJA_6}!"
+          "eng": "Esta casa nos va a mantener muy frescos y cómodos. ¡Qué buena eres para construir, @data.characters.f1_hija_6.name!"
         },
         "character_2_text": {
           "eng": "¡Yupi!"
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/character_icons/ipv_sharing_m_4",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_HIJA_6",
-      "character_1_text": "Esta casa nos va a mantener muy frescos y cómodos. ¡Qué buena eres para construir, {F1_HIJA_6}!",
+      "image_asset": "images/comic/ipv/ipv_sharing_4.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_hija_6",
+      "character_1_text": "Esta casa nos va a mantener muy frescos y cómodos. ¡Qué buena eres para construir, @data.characters.f1_hija_6.name!",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
@@ -251,20 +244,20 @@
     },
     {
       "id": "explore_5",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Que bueno que pasaste tiempo con {F1_HIJA_6} mientras yo terminaba mis estudios. ¡Eres un gran compañero, gracias!"
+          "eng": "Que bueno que pasaste tiempo con @data.characters.f1_hija_6.name mientras yo terminaba mis tareas. ¡Eres un gran compañero, gracias!"
         },
         "character_2_text": {
           "eng": "Me da gusto que te hayas podido concentrar mejor. ¡Nosotros la pasamos muy bien!"
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/character_icons/ipv_sharing_m_5",
-      "character_1_id": "F1_MADRE",
-      "character_2_id": "F1_PADRE",
-      "character_1_text": "Que bueno que pasaste tiempo con {F1_HIJA_6} mientras yo terminaba mis estudios. ¡Eres un gran compañero, gracias!",
+      "image_asset": "images/comic/ipv/ipv_sharing_5.svg",
+      "character_1_id": "f1_madre",
+      "character_2_id": "f1_padre",
+      "character_1_text": "Que bueno que pasaste tiempo con @data.characters.f1_hija_6.name mientras yo terminaba mis tareas. ¡Eres un gran compañero, gracias!",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
@@ -275,14 +268,14 @@
     {
       "id": "practical_tips_1",
       "media_type": "video",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Da Clic en Reproducir ▶️ para aprender algunas estrategias para la crianza compartida:\n\n1️⃣ **ESTABLECER UNA RUTINA**\n2️⃣ **CONVERSAR SOBRE LA CARGA DE TRABAJO EN EL HOGAR**\n3️⃣ **SER UN CUIDADOR QUE PARTICIPA ACTIVAMENTE**"
-        }
-      },
       "category_id": "practical_tips",
       "nested": false,
-      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender algunas estrategias para la crianza compartida:\n\n1️⃣ **ESTABLECER UNA RUTINA**\n2️⃣ **CONVERSAR SOBRE LA CARGA DE TRABAJO EN EL HOGAR**\n3️⃣ **SER UN CUIDADOR QUE PARTICIPA ACTIVAMENTE**",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en Reproducir ▶️ para aprender algunas estrategias para la crianza compartida:\n\n1️⃣ ****ESTABLECER UNA RUTINA****\n2️⃣ ****CONVERSAR SOBRE LA CARGA DE TRABAJO EN EL HOGAR****\n3️⃣ ****SER UN CUIDADOR QUE PARTICIPA ACTIVAMENTE****"
+        }
+      },
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender algunas estrategias para la crianza compartida:\n\n1️⃣ ****ESTABLECER UNA RUTINA****\n2️⃣ ****CONVERSAR SOBRE LA CARGA DE TRABAJO EN EL HOGAR****\n3️⃣ ****SER UN CUIDADOR QUE PARTICIPA ACTIVAMENTE****",
       "_translations": {
         "text_1_facilitator": {}
       },
@@ -291,9 +284,11 @@
     },
     {
       "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nConsiste en conversar con tu pareja o familiar y dialogar sobre las diversas maneras de involucrarte en el cuidado, en la crianza y en las responsabilidades del hogar activamente."
+          "eng": "**_Actividad para casa_**⭐ \n\nConsiste en conversar con tu pareja o familiar y dialogar sobre las diversas maneras de involucrarte en el cuidado, en la crianza y en las responsabilidades del hogar activamente."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy?"
@@ -311,8 +306,6 @@
           "eng": "Probar algo nuevo puede ser difícil. Para hacerlo más fácil, empieza por preguntarle a tu pareja si pueden hacer las actividades de limpieza de la casa como equipo para que después puedas sentirte más cómodo haciéndolas solo.\n\nEntre tu pareja o familiar y tú busquen un nuevo acuerdo para repartir las distintas tareas domésticas, como lavar los platos o barrer la casa. Generen un acuerdo en el que la repartición sea justa y les haga sentir comodidad a ambos.\n\nCada pequeño paso te acercará a la construcción de una relación sana y equilibrada con tu pareja.\n\n⭐ Recuerda que puedes volver a consultar este contenido en el Menú Principal."
         }
       },
-      "category_id": "practise",
-      "nested": false,
       "quiz_1_feedback_1": "¡Excelente! Ser responsable, involucrarse y ser activo en el tiempo familiar beneficia a toda la familia. 🎉",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -326,7 +319,7 @@
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nConsiste en conversar con tu pareja o familiar y dialogar sobre las diversas maneras de involucrarte en el cuidado, en la crianza y en las responsabilidades del hogar activamente.",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nConsiste en conversar con tu pareja o familiar y dialogar sobre las diversas maneras de involucrarte en el cuidado, en la crianza y en las responsabilidades del hogar activamente.",
       "completed": false
     }
   ],

@@ -19,49 +19,49 @@
       "id": "explore_1",
       "category_id": "explore",
       "text_1_facilitator::eng": "Aquí tienes una historieta sobre cómo crear rutinas con tu adolescente durante su tiempo juntos y conectados.",
-      "image_asset": "https://drive.google.com/file/d/1ZE1WIMmq4m29rFpHWLkmS1qrdDtijD9Z/view?usp=drive_link",
-      "character_1_id": "F2_ABUELO",
-      "character_1_text::eng": "{F2_HIJO_15}, me gustó mucho pasar tiempo contigo ayer. ¡No sabía que eras tan bueno en el fútbol!",
-      "character_2_id": "F2_HIJO_15",
-      "character_2_text::eng": "¡Gracias, Abue!"
+      "image_asset": "images/comic/relation/routines_teen_1.svg",
+      "character_1_id": "f2_abuelo",
+      "character_1_text::eng": "@data.characters.f2_hijo_15.name, me gustó mucho pasar tiempo contigo ayer. ¡No sabía que eras tan bueno en el fútbol!",
+      "character_2_id": "f2_hijo_15",
+      "character_2_text::eng": "¡Gracias, Abuelo!"
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1SM9sm77P667oEF1f1zAbmAMsEanYh8yb/view?usp=drive_link",
-      "character_1_id": "F2_ABUELO",
+      "image_asset": "images/comic/relation/routines_teen_2.svg",
+      "character_1_id": "f2_abuelo",
       "character_1_text::eng": "Sería estupendo que pudiéramos pasar tiempo juntos más seguido. ¿Qué tal si intentamos hacerlo todos los días?",
-      "character_2_id": "F2_HIJO_15",
+      "character_2_id": "f2_hijo_15",
       "character_2_text::eng": "Supongo que sí… Aunque a veces estoy ocupado."
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1BF6LnY5wnhluPur1tWqHRhz7AZcZS0eu/view?usp=drive_link",
-      "character_1_id": "F2_ABUELO",
+      "image_asset": "images/comic/relation/routines_teen_3.svg",
+      "character_1_id": "f2_abuelo",
       "character_1_text::eng": "Sí, es cierto. Tenemos que escoger algo que realmente podamos hacer diario. ¡Estoy seguro de que podemos hacer un espacio de 15 minutos!",
-      "character_2_id": "F2_HIJO_15",
+      "character_2_id": "f2_hijo_15",
       "character_2_text::eng": "Claro que lo podemos intentar.",
-      "character_3_id": "F2_ABUELO",
+      "character_3_id": "f2_abuelo",
       "character_3_text::eng": "¿Qué hora es mejor para ti?"
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1f90p9riBYOu8H5qmbfR8zBS0ngtfBIE7/view?usp=drive_link",
-      "character_1_id": "F2_HIJO_15",
+      "image_asset": "images/comic/relation/routines_teen_4.svg",
+      "character_1_id": "f2_hijo_15",
       "character_1_text::eng": "¿Te parece después de cenar?",
-      "character_2_id": "F2_ABUELO",
+      "character_2_id": "f2_abuelo",
       "character_2_text::eng": "Eso podría funcionar siempre y cuando limpiemos primero. Empecemos hoy. Recuerda que, ¡tú puedes escoger lo que quieras que hagamos!"
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/18Te6vWi7ki4D8WawalQOvThMYnu9o52S/view?usp=drive_link",
-      "character_1_id": "F2_HIJO_15",
+      "image_asset": "images/comic/relation/routines_teen_5.svg",
+      "character_1_id": "f2_hijo_15",
       "character_1_text::eng": "De acuerdo, Abue. Eso me gustaría.",
-      "character_2_id": "F2_ABUELO",
-      "character_2_text::eng": "Gracias, {F2_HIJO_15}. Me gustó mucho haber pasado este ratito contigo. Significa mucho para mí."
+      "character_2_id": "f2_abuelo",
+      "character_2_text::eng": "Gracias, @data.characters.f2_hijo_15.name. Me gustó mucho haber pasado este ratito contigo. Significa mucho para mí."
     },
     {
       "id": "practical_tips_1",
@@ -91,7 +91,7 @@
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "Haz que el tiempo juntos y conectados con {tu adolescente} se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝",
+      "text_1_facilitator::eng": "**_Actividad para casa_**\n\nHaz que el tiempo juntos y conectados con {tu adolescente} se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝",
       "quiz_1_question::eng": "¿Puedes hacerlo hoy? ",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Muy bien! 🎉 Esto ayudará a mostrar interés en lo que hace {tu adolescente} y mejorará la relación entre ustedes.",

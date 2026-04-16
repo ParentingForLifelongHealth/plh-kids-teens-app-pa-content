@@ -32,12 +32,20 @@
       "value": "@fields.current_start_article_id"
     },
     {
+      "name": "course_id",
+      "value": "@gen.tag_course"
+    },
+    {
       "type": "begin_nested_properties",
       "name": "module"
     },
     {
       "name": "show_progress_bar",
       "value": false
+    },
+    {
+      "name": "course_id",
+      "value": "@gen.tag_course"
     },
     {
       "type": "end_nested_properties"

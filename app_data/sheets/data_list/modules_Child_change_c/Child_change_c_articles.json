@@ -88,10 +88,10 @@
     {
       "id": "explore_1",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/child_change_yc_1",
-      "character_1_id": "F3_TÍO",
-      "character_2_id": "F3_HIJO_4",
-      "character_3_id": "F3_HIJA_7",
+      "image_asset": "images/comic/understand/child_change_yc_1.svg",
+      "character_1_id": "f3_padre",
+      "character_2_id": "f3_hijo_4",
+      "character_3_id": "f3_hija_7",
       "nested": false,
       "character_1_text": "Patea la pelota suavemente con la parte de adentro de tu pie... Así.",
       "_translations": {
@@ -116,12 +116,12 @@
     {
       "id": "explore_2",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/child_change_yc_2",
-      "character_1_id": "F3_TÍO",
-      "character_2_id": "F3_HIJA_7",
-      "character_3_id": "F3_HIJO_4",
+      "image_asset": "images/comic/understand/child_change_yc_2.svg",
+      "character_1_id": "f3_padre",
+      "character_2_id": "f3_hija_7",
+      "character_3_id": "f3_hijo_4",
       "nested": false,
-      "character_1_text": "Puede que nos cueste trabajo esperar, pero no todos podemos ir primero. {F3_HIJA_7}, ¿qué tal si nos propones una manera en la que nos podamos patear la pelota por turnos?",
+      "character_1_text": "Puede que nos cueste trabajo esperar, pero no todos podemos ir primero. @data.characters.f3_hija_7.name, ¿qué tal si nos propones una manera en la que nos podamos patear la pelota por turnos?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {},
@@ -129,47 +129,47 @@
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Puede que nos cueste trabajo esperar, pero no todos podemos ir primero. {F3_HIJA_7}, ¿qué tal si nos propones una manera en la que nos podamos patear la pelota por turnos?"
+          "eng": "Puede que nos cueste trabajo esperar, pero no todos podemos ir primero. @data.characters.f3_hija_7.name, ¿qué tal si nos propones una manera en la que nos podamos patear la pelota por turnos?"
         },
         "character_2_text": {
-          "eng": "Está bien. Qué tal si hacemos un círculo y yo le doy la pelota a {F3_HIJO_4}, luego él te la da a ti y, ¡tú me la devuelves a mí!"
+          "eng": "Está bien. Qué tal si hacemos un círculo y yo le doy la pelota a @data.characters.f3_hijo_4.name, luego él te la da a ti y, ¡tú me la devuelves a mí!"
         },
         "character_3_text": {
           "eng": "Sí, ¡eso suena bien!"
         }
       },
-      "character_2_text": "Está bien. Qué tal si hacemos un círculo y yo le doy la pelota a {F3_HIJO_4}, luego él te la da a ti y, ¡tú me la devuelves a mí!",
+      "character_2_text": "Está bien. Qué tal si hacemos un círculo y yo le doy la pelota a @data.characters.f3_hijo_4.name, luego él te la da a ti y, ¡tú me la devuelves a mí!",
       "character_3_text": "Sí, ¡eso suena bien!"
     },
     {
       "id": "explore_3",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/child_change_yc_3",
-      "character_1_id": "F3_TÍO",
+      "image_asset": "images/comic/understand/child_change_yc_3.svg",
+      "character_1_id": "f3_padre",
       "nested": false,
-      "character_1_text": "¡Es una idea maravillosa, {F3_HIJA_7}! ¡Vamos a intentarlo!",
+      "character_1_text": "¡Es una idea maravillosa, @data.characters.f3_hija_7.name! ¡Vamos a intentarlo!",
       "_translations": {
         "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "¡Es una idea maravillosa, {F3_HIJA_7}! ¡Vamos a intentarlo!"
+          "eng": "¡Es una idea maravillosa, @data.characters.f3_hija_7.name! ¡Vamos a intentarlo!"
         }
       }
     },
     {
       "id": "explore_4",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/child_change_yc_4",
-      "character_1_id": "F3_TÍO",
+      "image_asset": "images/comic/understand/child_change_yc_4.svg",
+      "character_1_id": "f3_padre",
       "nested": false,
-      "character_1_text": "¡Buen trabajo, {F3_HIJA_7}! Tú nos guiaste, ¡y todos nos divertimos mucho tomando turnos! {F3_HIJO_4}, tú estuviste excelente esperando pacientemente tu turno.",
+      "character_1_text": "¡Buen trabajo, @data.characters.f3_hija_7.name! Tú nos guiaste, ¡y todos nos divertimos mucho tomando turnos! @data.characters.f3_hijo_4.name, tú estuviste excelente esperando pacientemente tu turno.",
       "_translations": {
         "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "¡Buen trabajo, {F3_HIJA_7}! Tú nos guiaste, ¡y todos nos divertimos mucho tomando turnos! {F3_HIJO_4}, tú estuviste excelente esperando pacientemente tu turno."
+          "eng": "¡Buen trabajo, @data.characters.f3_hija_7.name! Tú nos guiaste, ¡y todos nos divertimos mucho tomando turnos! @data.characters.f3_hijo_4.name, tú estuviste excelente esperando pacientemente tu turno."
         }
       }
     },
@@ -179,13 +179,13 @@
       "media_type": "video",
       "youtube_gb_en": "youtube link",
       "nested": false,
-      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender algunos pasos que puedes seguir para favorecer el desarrollo saludable de {tu niño} a medida que crece y va cambiando:\n\n1️⃣ **BUSCAR AMISTADES**\n2️⃣ **APOYAR LA CURIOSIDAD**\n3️⃣ **CONFIAR EN TU NIÑA O NIÑO**",
+      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender algunos pasos que puedes seguir para favorecer el desarrollo saludable de {tu niño} a medida que crece y va cambiando:\n\n1️⃣ **BUSCAR AMISTADES**\n2️⃣ **APOYAR LA CURIOSIDAD**\n3️⃣ **CONFIAR EN TU NIÑA O NIÑO**",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da Clic en Reproducir ▶️ para aprender algunos pasos que puedes seguir para favorecer el desarrollo saludable de {tu niño} a medida que crece y va cambiando:\n\n1️⃣ **BUSCAR AMISTADES**\n2️⃣ **APOYAR LA CURIOSIDAD**\n3️⃣ **CONFIAR EN TU NIÑA O NIÑO**"
+          "eng": "Da clic en reproducir ▶️ para aprender algunos pasos que puedes seguir para favorecer el desarrollo saludable de {tu niño} a medida que crece y va cambiando:\n\n1️⃣ **BUSCAR AMISTADES**\n2️⃣ **APOYAR LA CURIOSIDAD**\n3️⃣ **CONFIAR EN TU NIÑA O NIÑO**"
         }
       }
     },
@@ -207,7 +207,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de {tu niño}. Para empezar, escribe {CRECER}.",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de {tu niño}. Para empezar, escribe {CRECER}.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -218,7 +218,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de {tu niño}. Para empezar, escribe {CRECER}."
+          "eng": "**_Actividad para casa_**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de {tu niño}. Para empezar, escribe {CRECER}."
         },
         "quiz_1_question": {
           "eng": "¿Puedes completar la evaluación hoy? ⭐"
@@ -245,7 +245,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - Play (46-60).xlsx",
+    "path": "data/PA modules - understand (65 - 75).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1mWNhZqCfGOub-6mE1pRygNQ2hZV7C8CUW8L3ifKAVGQ"
   },
   "_metadata": {

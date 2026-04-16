@@ -4,41 +4,82 @@
   "status": "released",
   "rows": [
     {
-      "type": "begin_display_group",
-      "name": "heading"
-    },
-    {
       "type": "title",
       "name": "title",
-      "value": "@global.library",
-      "parameter_list": "style: tiny;"
+      "value": "@global.library"
     },
     {
-      "type": "end_display_group"
+      "type": "begin_data_items",
+      "value": "@data.library_section"
     },
     {
-      "type": "begin_items",
-      "value": "@data.library"
+      "type": "begin_task_card",
+      "name": "card_@item.id",
+      "action_list": "click | go_to: library_section_@item.id",
+      "condition": "@item.id != \"tips\""
     },
     {
-      "type": "begin_display_group",
-      "name": "dg_@item.id",
-      "condition": "@item.show",
-      "parameter_list": "style:column"
+      "type": "image",
+      "name": "image_@item.id",
+      "value": "@item.image",
+      "style_list": "flex: 1; "
     },
     {
-      "type": "button",
-      "name": "button_@item.id",
+      "type": "text",
+      "name": "text_@item.id",
       "value": "@item.title",
-      "action_list": "click | go_to: @item.template",
-      "exclude_from_translation": true,
-      "parameter_list": "style: card"
+      "parameter_list": "style: emphasised",
+      "style_list": "flex: 3"
     },
     {
-      "type": "end_display_group"
+      "type": "end_task_card"
     },
     {
-      "type": "end_items"
+      "type": "begin_task_card",
+      "name": "card_@item.id",
+      "action_list": "click | go_to: library_article_@item.id",
+      "condition": "@item.id == \"tips\""
+    },
+    {
+      "type": "image",
+      "name": "image_@item.id",
+      "value": "@item.image",
+      "style_list": "flex: 1; "
+    },
+    {
+      "type": "text",
+      "name": "text_@item.id",
+      "value": "@item.title",
+      "parameter_list": "style: emphasised",
+      "style_list": "flex: 3"
+    },
+    {
+      "type": "end_task_card"
+    },
+    {
+      "type": "end_data_items"
+    },
+    {
+      "type": "begin_task_card",
+      "name": "card_@item.id",
+      "action_list": "click | go_to: activity_library",
+      "style_list": "margin-top: -15px;"
+    },
+    {
+      "type": "image",
+      "name": "image_@item.id",
+      "value": "images/icons/trophy_large.svg",
+      "style_list": "flex: 1; "
+    },
+    {
+      "type": "text",
+      "name": "text_@item.id",
+      "value": "@global.rewards",
+      "parameter_list": "style: emphasised",
+      "style_list": "flex: 3"
+    },
+    {
+      "type": "end_task_card"
     }
   ]
 }

@@ -20,39 +20,39 @@
       "id": "explore_1",
       "category_id": "explore",
       "text_1_facilitator::eng": "Aquí tienes una historieta sobre crear un espacio positivo de aprendizaje para tu adolescente:",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_teen_1",
-      "character_1_id": "F1_HIJO_17",
+      "image_asset": "images/comic/learn/positive_learning_teen_1.svg",
+      "character_1_id": "f1_hijo_17",
       "character_1_text::eng": "Mamá, ¡ya llegué!",
-      "character_2_id": "F1_MADRE",
+      "character_2_id": "f1_madre",
       "character_2_text::eng": "Bienvenido a casa, hijo. ¿Tuviste un buen día en la escuela?"
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_teen_2",
-      "character_1_id": "F1_HIJO_17",
+      "image_asset": "images/comic/learn/positive_learning_teen_2.svg",
+      "character_1_id": "f1_hijo_17",
       "character_1_text::eng": "Sí, ¡ahora tengo que hacer la tarea!"
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_teen_3",
-      "character_1_id": "F1_MADRE",
-      "character_1_text::eng": "Perfecto, te dejé un espacio para que puedas concentrarte y estar tranquilo mientras preparo la comida."
+      "image_asset": "images/comic/learn/positive_learning_teen_3.svg",
+      "character_1_id": "f1_madre",
+      "character_1_text::eng": "Perfecto, te dejé un espacio para que puedas concentrarte y estar tranquilo."
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_teen_4",
-      "character_1_id": "F1_HIJO_17",
-      "character_1_text::eng": "¡Gracias, mamá! Ya que termine, iré a ver a mi amigo.",
-      "character_2_id": "F1_MADRE",
-      "character_2_text::eng": "De acuerdo, solo acuérdate de regresar a la casa para la hora de la cena."
+      "image_asset": "images/comic/learn/positive_learning_teen_4.svg",
+      "character_1_id": "f1_hijo_17",
+      "character_1_text::eng": "¡Gracias, mamá! Ya que termine, iré a ver a mi amigo."
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_teen_5"
+      "image_asset": "images/comic/learn/positive_learning_teen_5.svg",
+      "character_1_id": "f1_madre",
+      "character_1_text::eng": "De acuerdo, solo acuérdate de regresar a la casa para la hora de la cena."
     },
     {
       "id": "practical_tips_1",
@@ -64,7 +64,7 @@
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "*_¡Actividad para casa!_*⭐  \n\n*_Conversa con tu adolescente para encontrar un lugar de estudio adecuado en tu casa._* ",
+      "text_1_facilitator::eng": "**_¡Actividad para casa!_**⭐  \n\nConversa con tu adolescente para encontrar un lugar de estudio adecuado en tu casa.",
       "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰ ",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Muy bien! Utiliza las estrategias que has aprendido hoy para impulsar a tu adolescente hacia el aprovechamiento académico. 💙",

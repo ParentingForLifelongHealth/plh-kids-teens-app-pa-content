@@ -25,37 +25,33 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "text_1_facilitator::eng": "Vamos con {F3_MADRE} y su hijo {F3_HIJO_4} para ver cómo reconoce lo que hace durante su tiempo juntos y conectados."
+      "text_1_facilitator::eng": "Vamos con @data.characters.f3_madre.name y su hijo @data.characters.f3_hijo_4.name para ver cómo reconoce lo que hace durante su tiempo juntos y conectados.",
+      "image_asset": "images/comic/relation/give_praise_yc_1.svg",
+      "character_1_id": "f3_madre",
+      "character_1_text::eng": "Encontraste un calcetín de rayas y otro de puntos. Vamos a buscar los calcetines que combinen con cada uno."
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1AXVhTNk_LDyzjkrixUgqwChuEA7GCOkV/view?usp=drive_link",
-      "character_1_id": "F3_MADRE",
-      "character_1_text::eng": "{F3_MADRE}: Encontraste un calcetín de rayas y otro de puntos. Vamos a buscar los calcetines que combinen con cada uno."
+      "image_asset": "images/comic/relation/give_praise_yc_2.svg",
+      "character_1_id": "f3_madre",
+      "character_1_text::eng": "¡Otro calcetín! Este es blanco. No es fácil encontrar un par que combine. Puede ser frustrante."
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/18NaSEtubcCUIgne1SC0zjakbghSUWZTf/view?usp=drive_link",
-      "character_1_id": "F3_MADRE",
-      "character_1_text::eng": "{F3_MADRE}: ¡Otro calcetín! Este es blanco. No es fácil encontrar un par que combine. Puede ser frustrante."
+      "image_asset": "images/comic/relation/give_praise_yc_3.svg",
+      "character_1_id": "f3_madre",
+      "character_1_text::eng": "Estás siendo muy paciente y buscando con mucha atención",
+      "character_2_id": "f3_hijo_4",
+      "character_2_text::eng": "@data.characters.f3_hijo_4.name ¡Muy bien!"
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/12eB8MNfXGnRnINJPiK90XflKuGmHOAXn/view?usp=drive_link",
-      "character_1_id": "F3_MADRE",
-      "character_1_text::eng": "{F3_MADRE}: Estás siendo muy paciente y buscando con mucha atención",
-      "character_2_id": "{F3_HIJO_4}",
-      "character_2_text::eng": "{F3_HIJO_4}. ¡Muy bien!"
-    },
-    {
-      "id": "explore_5",
-      "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/17y8jjZA4Y8WBE7-HUwB0Z7W3HzNXr1VF/view?usp=drive_link",
-      "character_1_id": "F3_MADRE",
-      "character_1_text::eng": "{F3_MADRE}: ¡Encontraste los calcetines que combinan con su par! ¡Hiciste un gran esfuerzo intentando {F3_HIJO_4}!"
+      "image_asset": "images/comic/relation/give_praise_yc_4.svg",
+      "character_1_id": "f3_madre",
+      "character_1_text::eng": "¡Encontraste los calcetines que combinan con su par! ¡Hiciste un gran esfuerzo intentando @data.characters.f3_hijo_4.name!"
     },
     {
       "id": "practical_tips_1",
@@ -67,7 +63,7 @@
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nPara hoy, tu actividad para casa es elogiar a {tu niño} durante su tiempo juntos y conectados. Intenta reconocer y elogiar a {tu niño} durante esos minutos.",
+      "text_1_facilitator::eng": "**_Actividad para casa_**⭐ \n\nPara hoy, tu actividad para casa es elogiar a {tu niño} durante su tiempo juntos y conectados. Intenta reconocer y elogiar a {tu niño} durante esos minutos.",
       "quiz_1_question::eng": "¿Tienes tiempo de hacerlo hoy?",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Increíble! 🎉 Intenta elogiar a {tu niño} al menos una vez durante su tiempo juntos y conectados. También puedes elogiar a {tu niño} en otros momentos del día. Fíjate cómo responde a lo que le dices.",

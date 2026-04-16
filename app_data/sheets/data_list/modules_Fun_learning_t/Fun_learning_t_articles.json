@@ -28,9 +28,9 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/fun_learning_teen_1",
-      "character_1_id": "F3_MADRE",
-      "character_2_id": "F3_HIJA_12",
+      "image_asset": "images/comic/learn/fun_learning_teen_1.svg",
+      "character_1_id": "f3_madre",
+      "character_2_id": "f3_hija_12",
       "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta que trata sobre cómo divertirte con tu adolescente mientras aprenden.",
       "_translations": {
@@ -43,20 +43,20 @@
           "eng": "Aquí tienes una historieta que trata sobre cómo divertirte con tu adolescente mientras aprenden."
         },
         "character_1_text": {
-          "eng": "{F3_HIJA_12}, ¿qué pasa?"
+          "eng": "@data.characters.f3_hija_12.name, ¿qué pasa?"
         },
         "character_2_text": {
           "eng": "Me siento estresada, ya no puedo más. Ya no quiero hacer la tarea."
         }
       },
-      "character_1_text": "{F3_HIJA_12}, ¿qué pasa?",
+      "character_1_text": "@data.characters.f3_hija_12.name, ¿qué pasa?",
       "character_2_text": "Me siento estresada, ya no puedo más. Ya no quiero hacer la tarea."
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/fun_learning_teen_2",
-      "character_1_id": "F3_MADRE",
+      "image_asset": "images/comic/learn/fun_learning_teen_2.svg",
+      "character_1_id": "f3_madre",
       "nested": false,
       "character_1_text": "Entiendo que hacer la tarea puede ser muy estresante. Tómate un descanso y ¡vamos a bailar! ¡Esto siempre me ayudaba a sentirme con energía y preparada para seguir trabajando!",
       "_translations": {
@@ -71,23 +71,23 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/fun_learning_teen_3",
+      "image_asset": "images/comic/learn/fun_learning_teen_3.svg",
       "nested": false,
-      "text_1_facilitator": "🎵 Suena la Música 🎵",
+      "text_2": "🎵 Suena la música 🎵",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_2": {}
       },
       "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "🎵 Suena la Música 🎵"
+        "text_2": {
+          "eng": "🎵 Suena la música 🎵"
         }
       }
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/fun_learning_teen_4",
-      "character_1_id": "F3_MADRE",
+      "image_asset": "images/comic/learn/fun_learning_teen_4.svg",
+      "character_1_id": "f3_madre",
       "nested": false,
       "character_1_text": "Bien… ¿Lista? Ahora que tenemos algo de energía vamos a intentarlo de nuevo. ¿Por qué estás estresada?",
       "_translations": {
@@ -119,7 +119,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "*_¡Actividad para casa!_* ⭐ \n\n*_Invita a {tu adolescente} a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos._* Pueden bailar, jugar fútbol, saltar o salir a correr. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando.",
+      "text_1_facilitator": "**_¡Actividad para casa!_** ⭐ \n\nInvita a {tu adolescente} a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar fútbol, saltar o salir a correr. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -130,7 +130,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_¡Actividad para casa!_* ⭐ \n\n*_Invita a {tu adolescente} a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos._* Pueden bailar, jugar fútbol, saltar o salir a correr. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando."
+          "eng": "**_¡Actividad para casa!_** ⭐ \n\nInvita a {tu adolescente} a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar fútbol, saltar o salir a correr. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
@@ -157,7 +157,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - learning (61 - 75).xlsx",
+    "path": "data/PA modules - learn (44 - 64).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1uYUivXZOTg0ZliArzDnwFz4zNAX9qm_0iMzEgFQfGKY"
   },
   "_metadata": {

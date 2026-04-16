@@ -28,9 +28,9 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_teen_1",
-      "character_1_id": "F1_HIJO_17",
-      "character_2_id": "F1_MADRE",
+      "image_asset": "images/comic/learn/positive_learning_teen_1.svg",
+      "character_1_id": "f1_hijo_17",
+      "character_2_id": "f1_madre",
       "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta sobre crear un espacio positivo de aprendizaje para tu adolescente:",
       "_translations": {
@@ -55,8 +55,8 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_teen_2",
-      "character_1_id": "F1_HIJO_17",
+      "image_asset": "images/comic/learn/positive_learning_teen_2.svg",
+      "character_1_id": "f1_hijo_17",
       "nested": false,
       "character_1_text": "Sí, ¡ahora tengo que hacer la tarea!",
       "_translations": {
@@ -71,46 +71,50 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_teen_3",
-      "character_1_id": "F1_MADRE",
+      "image_asset": "images/comic/learn/positive_learning_teen_3.svg",
+      "character_1_id": "f1_madre",
       "nested": false,
-      "character_1_text": "Perfecto, te dejé un espacio para que puedas concentrarte y estar tranquilo mientras preparo la comida.",
+      "character_1_text": "Perfecto, te dejé un espacio para que puedas concentrarte y estar tranquilo.",
       "_translations": {
         "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Perfecto, te dejé un espacio para que puedas concentrarte y estar tranquilo mientras preparo la comida."
+          "eng": "Perfecto, te dejé un espacio para que puedas concentrarte y estar tranquilo."
         }
       }
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_teen_4",
-      "character_1_id": "F1_HIJO_17",
-      "character_2_id": "F1_MADRE",
+      "image_asset": "images/comic/learn/positive_learning_teen_4.svg",
+      "character_1_id": "f1_hijo_17",
       "nested": false,
       "character_1_text": "¡Gracias, mamá! Ya que termine, iré a ver a mi amigo.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
           "eng": "¡Gracias, mamá! Ya que termine, iré a ver a mi amigo."
-        },
-        "character_2_text": {
-          "eng": "De acuerdo, solo acuérdate de regresar a la casa para la hora de la cena."
         }
-      },
-      "character_2_text": "De acuerdo, solo acuérdate de regresar a la casa para la hora de la cena."
+      }
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_teen_5",
-      "nested": false
+      "image_asset": "images/comic/learn/positive_learning_teen_5.svg",
+      "character_1_id": "f1_madre",
+      "nested": false,
+      "character_1_text": "De acuerdo, solo acuérdate de regresar a la casa para la hora de la cena.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "De acuerdo, solo acuérdate de regresar a la casa para la hora de la cena."
+        }
+      }
     },
     {
       "id": "practical_tips_1",
@@ -132,7 +136,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "*_¡Actividad para casa!_*⭐  \n\n*_Conversa con tu adolescente para encontrar un lugar de estudio adecuado en tu casa._*",
+      "text_1_facilitator": "**_¡Actividad para casa!_**⭐  \n\nConversa con tu adolescente para encontrar un lugar de estudio adecuado en tu casa.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -143,7 +147,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_¡Actividad para casa!_*⭐  \n\n*_Conversa con tu adolescente para encontrar un lugar de estudio adecuado en tu casa._*"
+          "eng": "**_¡Actividad para casa!_**⭐  \n\nConversa con tu adolescente para encontrar un lugar de estudio adecuado en tu casa."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
@@ -170,7 +174,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - learning (61 - 75).xlsx",
+    "path": "data/PA modules - learn (44 - 64).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1uYUivXZOTg0ZliArzDnwFz4zNAX9qm_0iMzEgFQfGKY"
   },
   "_metadata": {

@@ -6,26 +6,35 @@
     {
       "id": "relax_1",
       "in_library": "yes",
+      "title_eng": "Quick pause",
+      "title": "Pausa rápida",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_1.mp3",
+      "media_asset_m": "audio/relax/relax_1.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
-      "title": "Quick pause",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Quick pause"
-        }
-      },
+      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "category_id": "relax",
       "nested": false,
       "completed": false
     },
     {
       "id": "check_in_13",
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Toma primero un momento para ti.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
       "_translatedFields": {
         "text_1": {
           "eng": "Toma primero un momento para ti."
@@ -52,22 +61,6 @@
           "eng": "Triste"
         }
       },
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Toma primero un momento para ti.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "quiz_1_feedback_1": "Que gusto saber que hoy te sientes con ánimo positivo. Haces una gran diferencia para tu familia.",
       "quiz_1_feedback_2": "La vida tiene momentos buenos y momentos difíciles, y está bien. Vas por buen camino.",
       "quiz_1_feedback_3": "Es normal tener días difíciles en la crianza. Respira profundo y recuerda que no estás sola/o.",
@@ -79,6 +72,8 @@
     },
     {
       "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Esta lección trata sobre cómo tú como cuidador y los familiares con quienes compartes la crianza pueden escucharse y conversar de manera positiva. 💙"
@@ -93,13 +88,13 @@
           "eng": "Verdadero"
         },
         "quiz_1_feedback_1": {
-          "eng": "🎉 ¡Estás en lo correcto!\n\n¡Compartir cómo nos sentimos y hablar sobre las dificultades a las que nos enfrentamos fortalece la relación familiar!\n\n*_Cuando hablas con tu pareja o familiares y les escuchas con atención, ¡se promueve el apoyo mutuo y ayudas a reducir los conflictos!_*"
+          "eng": "🎉 ¡Estás en lo correcto!\n\n¡Compartir cómo nos sentimos y hablar sobre las dificultades a las que nos enfrentamos fortalece la relación familiar!\n\n**_Cuando hablas con tu pareja o familiares y les escuchas con atención, ¡se promueve el apoyo mutuo y ayudas a reducir los conflictos!_**"
         },
         "quiz_1_option_2_text": {
           "eng": "Falso"
         },
         "quiz_1_feedback_2": {
-          "eng": "👀 ¡Ups! ¡Buen intento!\n\n¡Compartir cómo nos sentimos y hablar sobre las dificultades a las que nos enfrentamos fortalece la relación familiar!\n\n*_Cuando hablas con tu pareja o familiares y les escuchas con atención, ¡se promueve el apoyo mutuo y ayudas a reducir los conflictos!_*"
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n¡Compartir cómo nos sentimos y hablar sobre las dificultades a las que nos enfrentamos fortalece la relación familiar!\n\n**_Cuando hablas con tu pareja o familiares y les escuchas con atención, ¡se promueve el apoyo mutuo y ayudas a reducir los conflictos!_**"
         },
         "quiz_3_question": {
           "eng": "Como madres, padres o personas cuidadoras también podemos compartir nuestros sentimientos con nuestras niñas, niños o adolescentes."
@@ -117,9 +112,7 @@
           "eng": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
         }
       },
-      "category_id": "intro",
-      "nested": false,
-      "quiz_1_feedback_1": "🎉 ¡Estás en lo correcto!\n\n¡Compartir cómo nos sentimos y hablar sobre las dificultades a las que nos enfrentamos fortalece la relación familiar!\n\n*_Cuando hablas con tu pareja o familiares y les escuchas con atención, ¡se promueve el apoyo mutuo y ayudas a reducir los conflictos!_*",
+      "quiz_1_feedback_1": "🎉 ¡Estás en lo correcto!\n\n¡Compartir cómo nos sentimos y hablar sobre las dificultades a las que nos enfrentamos fortalece la relación familiar!\n\n**_Cuando hablas con tu pareja o familiares y les escuchas con atención, ¡se promueve el apoyo mutuo y ayudas a reducir los conflictos!_**",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
@@ -134,7 +127,7 @@
         "quiz_3_option_2_text": {},
         "quiz_3_feedback_2": {}
       },
-      "quiz_1_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\n¡Compartir cómo nos sentimos y hablar sobre las dificultades a las que nos enfrentamos fortalece la relación familiar!\n\n*_Cuando hablas con tu pareja o familiares y les escuchas con atención, ¡se promueve el apoyo mutuo y ayudas a reducir los conflictos!_*",
+      "quiz_1_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\n¡Compartir cómo nos sentimos y hablar sobre las dificultades a las que nos enfrentamos fortalece la relación familiar!\n\n**_Cuando hablas con tu pareja o familiares y les escuchas con atención, ¡se promueve el apoyo mutuo y ayudas a reducir los conflictos!_**",
       "quiz_1_question": "¡Hagamos un ejercicio! Ejercicio 1. Escuchar y conversar efectivamente con tu pareja o familiares puede ayudar a prevenir conflictos.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
@@ -149,48 +142,48 @@
     },
     {
       "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Aquí tienes una historieta que muestra cómo las parejas o familiares pueden escucharse, apoyarse y hablarse con cariño:"
         },
         "character_1_text": {
-          "eng": "¿Estás bien, {F1_MADRE}? Te ves cansada."
+          "eng": "¿Estás bien, @data.characters.f1_madre.name? Te ves cansada."
         },
         "character_2_text": {
           "eng": "Anoche no dormí bien y hoy me siento muy cansada."
         }
       },
-      "category_id": "explore",
-      "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta que muestra cómo las parejas o familiares pueden escucharse, apoyarse y hablarse con cariño:",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
         "character_2_text": {}
       },
-      "image_asset": "images/character_icons/ipv_listen_1",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_MADRE",
-      "character_1_text": "¿Estás bien, {F1_MADRE}? Te ves cansada.",
+      "image_asset": "images/comic/ipv/ipv_listen_1.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_madre",
+      "character_1_text": "¿Estás bien, @data.characters.f1_madre.name? Te ves cansada.",
       "character_2_text": "Anoche no dormí bien y hoy me siento muy cansada.",
       "completed": false
     },
     {
       "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Lamento oír eso, {F1_MADRE}. ¿Hay algo que pueda hacer para ayudarte?"
+          "eng": "Lamento oír eso, @data.characters.f1_madre.name. ¿Hay algo que pueda hacer para ayudarte?"
         },
         "character_2_text": {
           "eng": "Voy a intentar dormirme más temprano esta noche."
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/character_icons/ipv_listen_2",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_MADRE",
-      "character_1_text": "Lamento oír eso, {F1_MADRE}. ¿Hay algo que pueda hacer para ayudarte?",
+      "image_asset": "images/comic/ipv/ipv_listen_2.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_madre",
+      "character_1_text": "Lamento oír eso, @data.characters.f1_madre.name. ¿Hay algo que pueda hacer para ayudarte?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
@@ -200,15 +193,15 @@
     },
     {
       "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "En la noche, después de cenar, yo me puedo encargar de acostar a los niños para que puedas descansar un poco más."
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/character_icons/ipv_listen_3",
-      "character_1_id": "F1_PADRE",
+      "image_asset": "images/comic/ipv/ipv_listen_3.svg",
+      "character_1_id": "f1_padre",
       "character_1_text": "En la noche, después de cenar, yo me puedo encargar de acostar a los niños para que puedas descansar un poco más.",
       "_translations": {
         "character_1_text": {}
@@ -217,16 +210,16 @@
     },
     {
       "id": "explore_4",
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Sería maravilloso. Muchas gracias, {F1_PADRE}."
-        }
-      },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "images/character_icons/ipv_listen_4",
-      "character_1_id": "F1_MADRE",
-      "character_1_text": "Sería maravilloso. Muchas gracias, {F1_PADRE}.",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Sería maravilloso. Muchas gracias, @data.characters.f1_padre.name."
+        }
+      },
+      "image_asset": "images/comic/ipv/ipv_listen_4.svg",
+      "character_1_id": "f1_madre",
+      "character_1_text": "Sería maravilloso. Muchas gracias, @data.characters.f1_padre.name.",
       "_translations": {
         "character_1_text": {}
       },
@@ -235,13 +228,13 @@
     {
       "id": "practical_tips_1",
       "media_type": "video",
+      "category_id": "practical_tips",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Da clic en reproducir ▶️ para aprender algunas estrategias para que tu pareja o familiar y tú puedan escucharse y hablarse de manera comprensiva y cariñosa:\n\n1️⃣ **ESCUCHAR A TU PAREJA O FAMILIAR**\n2️⃣ **COMPARTIR CÓMO TE SIENTES**\n3️⃣ **SER AMABLE CONTIGO Y CON TU PAREJA O FAMILIARES**\n4️⃣ **ESCOGER UN MOMENTO EN EL QUE SIENTAS COMODIDAD**"
         }
       },
-      "category_id": "practical_tips",
-      "nested": false,
       "text_1_facilitator": "Da clic en reproducir ▶️ para aprender algunas estrategias para que tu pareja o familiar y tú puedan escucharse y hablarse de manera comprensiva y cariñosa:\n\n1️⃣ **ESCUCHAR A TU PAREJA O FAMILIAR**\n2️⃣ **COMPARTIR CÓMO TE SIENTES**\n3️⃣ **SER AMABLE CONTIGO Y CON TU PAREJA O FAMILIARES**\n4️⃣ **ESCOGER UN MOMENTO EN EL QUE SIENTAS COMODIDAD**",
       "_translations": {
         "text_1_facilitator": {}
@@ -251,6 +244,8 @@
     },
     {
       "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "**_Actividad para casa_**⭐ \n\nIntenta apartar un poco de tiempo para conversar con tu pareja o familiar sobre tus sentimientos y de las dificultades a las que te enfrentas. ¡También puedes compartirle cosas positivas! \n\nPor ejemplo, tómate un tiempo durante la cena para contarles cómo te fue en el día."
@@ -271,8 +266,6 @@
           "eng": "Hablar de nuestros sentimientos y de las dificultades a las que nos enfrentamos puede ayudar a las personas a comprendernos y apoyarnos de una mejor manera.\n\nLas emociones y las dificultades forman parte de la vida, y aprender a manejarlas puede ayudar a que la vida sea menos estresante.\n\n☕ Recuerda que puedes volver a consultar este contenido en el Menú Principal."
         }
       },
-      "category_id": "practise",
-      "nested": false,
       "quiz_1_feedback_1": "¡Bien por ti! Hablar de las dificultades y de nuestras emociones puede ser difícil. ¡Lo estás haciendo muy bien! 🎉",
       "_translations": {
         "quiz_1_feedback_1": {},

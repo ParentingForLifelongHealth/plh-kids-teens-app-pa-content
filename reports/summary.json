@@ -3,11 +3,11 @@
     "data": [
       {
         "type": "accordion",
-        "count": 2
+        "count": 3
       },
       {
         "type": "accordion_section",
-        "count": 5
+        "count": 6
       },
       {
         "type": "animated_section",
@@ -27,15 +27,15 @@
       },
       {
         "type": "button",
-        "count": 81
+        "count": 90
       },
       {
         "type": "combo_box",
-        "count": 9
+        "count": 10
       },
       {
         "type": "data_items",
-        "count": 126
+        "count": 146
       },
       {
         "type": "debug_toggle",
@@ -43,11 +43,15 @@
       },
       {
         "type": "display_grid",
-        "count": 3
+        "count": 4
       },
       {
         "type": "display_group",
-        "count": 82
+        "count": 92
+      },
+      {
+        "type": "drawer",
+        "count": 1
       },
       {
         "type": "google_sign_in_button",
@@ -55,11 +59,11 @@
       },
       {
         "type": "image",
-        "count": 16
+        "count": 21
       },
       {
         "type": "items",
-        "count": 10
+        "count": 15
       },
       {
         "type": "lottie_animation",
@@ -67,14 +71,10 @@
       },
       {
         "type": "nested_properties",
-        "count": 455
+        "count": 459
       },
       {
         "type": "number_selector",
-        "count": 1
-      },
-      {
-        "type": "plh_activity_check_in",
         "count": 1
       },
       {
@@ -82,15 +82,19 @@
         "count": 1
       },
       {
-        "type": "plh_module_details_header",
+        "type": "plh_course_accordion",
         "count": 1
       },
       {
-        "type": "plh_module_list_item",
+        "type": "plh_course_sub_item",
         "count": 3
       },
       {
-        "type": "progress_path",
+        "type": "plh_lesson_cta",
+        "count": 2
+      },
+      {
+        "type": "plh_module_details_header",
         "count": 1
       },
       {
@@ -115,7 +119,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3967
+        "count": 3295
       },
       {
         "type": "simple_checkbox",
@@ -131,35 +135,39 @@
       },
       {
         "type": "template",
-        "count": 1290
+        "count": 1026
       },
       {
         "type": "text",
-        "count": 131
+        "count": 171
       },
       {
         "type": "text_area",
-        "count": 2
+        "count": 3
       },
       {
         "type": "text_box",
-        "count": 12
+        "count": 13
       },
       {
         "type": "text_bubble",
         "count": 7
       },
       {
+        "type": "tile_component",
+        "count": 1
+      },
+      {
         "type": "title",
-        "count": 41
+        "count": 49
       },
       {
         "type": "toggle_bar",
-        "count": 6
+        "count": 5
       },
       {
         "type": "update_action_list",
-        "count": 2
+        "count": 1
       },
       {
         "type": "video",
@@ -174,6 +182,10 @@
   "template_actions": {
     "data": [
       {
+        "type": "add_data",
+        "count": 1
+      },
+      {
         "type": "app_update",
         "count": 1
       },
@@ -183,11 +195,11 @@
       },
       {
         "type": "emit: completed",
-        "count": 1101
+        "count": 640
       },
       {
         "type": "emit: force_reload",
-        "count": 4
+        "count": 3
       },
       {
         "type": "emit: force_reprocess",
@@ -199,7 +211,7 @@
       },
       {
         "type": "emit: server_sync",
-        "count": 6
+        "count": 7
       },
       {
         "type": "emit: set_language",
@@ -207,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 1097
+        "count": 639
       },
       {
         "type": "feedback",
@@ -215,15 +227,15 @@
       },
       {
         "type": "go_to",
-        "count": 13
+        "count": 16
       },
       {
         "type": "nav_stack",
-        "count": 313
+        "count": 508
       },
       {
         "type": "pop_up",
-        "count": 90
+        "count": 97
       },
       {
         "type": "reset_app",
@@ -235,23 +247,31 @@
       },
       {
         "type": "set_data",
-        "count": 100
+        "count": 108
       },
       {
         "type": "set_field",
-        "count": 111
+        "count": 117
       },
       {
         "type": "set_item",
-        "count": 95
+        "count": 99
       },
       {
         "type": "set_local",
-        "count": 39
+        "count": 60
+      },
+      {
+        "type": "share",
+        "count": 2
       },
       {
         "type": "task",
         "count": 2
+      },
+      {
+        "type": "toast",
+        "count": 1
       },
       {
         "type": "user",
@@ -263,13 +283,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "1032 KB",
-        "MB": "1 MB"
+        "KB": "27351 KB",
+        "MB": "27.4 MB"
       },
       {
         "assets": "unused",
-        "KB": "41559 KB",
-        "MB": "41.6 MB"
+        "KB": "47228 KB",
+        "MB": "47.2 MB"
       }
     ]
   },
@@ -292,1196 +312,612 @@
         "size_kb": 239
       },
       {
-        "path": "images/character_icons/AMIGA_MUJER_1.svg",
-        "size_kb": 968.2
-      },
-      {
-        "path": "images/character_icons/AMIGA_MUJER_2.svg",
-        "size_kb": 1402.2
-      },
-      {
-        "path": "images/character_icons/F1_HIJA_13.svg",
-        "size_kb": 1896.6
-      },
-      {
-        "path": "images/character_icons/F1_HIJA_16.svg",
-        "size_kb": 1866.5
-      },
-      {
-        "path": "images/character_icons/F1_HIJA_6.svg",
-        "size_kb": 1866.6
-      },
-      {
-        "path": "images/character_icons/F1_HIJO_17.svg",
-        "size_kb": 1866.6
-      },
-      {
-        "path": "images/character_icons/F1_HIJO_5.svg",
-        "size_kb": 1866.6
-      },
-      {
-        "path": "images/character_icons/F1_MADRE.svg",
-        "size_kb": 1866.5
-      },
-      {
-        "path": "images/character_icons/F1_PADRE.svg",
-        "size_kb": 1866.5
-      },
-      {
-        "path": "images/character_icons/F2_ABUELA.svg",
-        "size_kb": 1409
-      },
-      {
-        "path": "images/character_icons/F2_ABUELO.svg",
-        "size_kb": 1409
-      },
-      {
-        "path": "images/character_icons/F2_HIJA_17.svg",
-        "size_kb": 1409
-      },
-      {
-        "path": "images/character_icons/F2_HIJA_3.svg",
-        "size_kb": 1409
-      },
-      {
-        "path": "images/character_icons/F2_HIJO_15.svg",
-        "size_kb": 1409
-      },
-      {
-        "path": "images/character_icons/F2_HIJO_8.svg",
-        "size_kb": 1409
-      },
-      {
-        "path": "images/character_icons/F3_HIJA_12.svg",
-        "size_kb": 1047.1
-      },
-      {
-        "path": "images/character_icons/F3_HIJA_7.svg",
-        "size_kb": 1046.7
-      },
-      {
-        "path": "images/character_icons/F3_HIJO_4.svg",
-        "size_kb": 1046.7
-      },
-      {
-        "path": "images/character_icons/F3_MADRE.svg",
-        "size_kb": 1046.7
-      },
-      {
-        "path": "images/character_icons/F3_PADRE.svg",
-        "size_kb": 1046.7
-      },
-      {
-        "path": "images/character_icons/HOMBRE_EN_COCHE.svg",
-        "size_kb": 193.3
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/calm_yc/calm_yc_1.svg",
-        "size_kb": 45.5
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/calm_yc/calm_yc_2.svg",
-        "size_kb": 8
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/calm_yc/calm_yc_4.svg",
-        "size_kb": 45.1
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/calm_yc/calm_yc_5.svg",
-        "size_kb": 37.8
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/feelings_yc/feelings_yc_1.svg",
-        "size_kb": 28
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/feelings_yc/feelings_yc_2.svg",
-        "size_kb": 46.8
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/feelings_yc/feelings_yc_3.svg",
-        "size_kb": 48.3
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/feelings_yc/feelings_yc_4.svg",
-        "size_kb": 46.4
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/give_praise_yc/give_praise_yc_1.svg",
-        "size_kb": 29.7
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/give_praise_yc/give_praise_yc_2.svg",
-        "size_kb": 30
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/give_praise_yc/give_praise_yc_3.svg",
-        "size_kb": 30.1
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/give_praise_yc/give_praise_yc_4.svg",
-        "size_kb": 29.4
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/one_on_one_yc/one_on_one_yc_1.svg",
-        "size_kb": 32.8
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/one_on_one_yc/one_on_one_yc_2.svg",
-        "size_kb": 33.4
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/one_on_one_yc/one_on_one_yc_3.svg",
-        "size_kb": 33.2
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/one_on_one_yc/one_on_one_yc_4.svg",
-        "size_kb": 33.3
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/routines_yc/routines_yc_1.svg",
-        "size_kb": 29
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/routines_yc/routines_yc_2.svg",
-        "size_kb": 30.8
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/routines_yc/routines_yc_3.svg",
-        "size_kb": 48.7
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/routines_yc/routines_yc_4.svg",
-        "size_kb": 33.7
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/routines_yc/routines_yc_5.svg",
-        "size_kb": 45.4
-      },
-      {
-        "path": "images/comic/1. Mejorar la relación con mi niña o niño/routines_yc/routines_yc_6.svg",
-        "size_kb": 36
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/fun_learning_teen/fun_learning_teen_1.svg",
-        "size_kb": 54
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/fun_learning_teen/fun_learning_teen_2.svg",
-        "size_kb": 17.8
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/fun_learning_teen/fun_learning_teen_3.svg",
-        "size_kb": 58.8
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/fun_learning_teen/fun_learning_teen_4.svg",
-        "size_kb": 36.2
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/help_teen_learn_teen/help_teen_learn_teen_1.svg",
-        "size_kb": 33
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/help_teen_learn_teen/help_teen_learn_teen_2.svg",
-        "size_kb": 24.8
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/help_teen_learn_teen/help_teen_learn_teen_3.svg",
-        "size_kb": 25.3
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/help_teen_learn_teen/help_teen_learn_teen_4.svg",
-        "size_kb": 29.2
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/learning_mistakes_teen/learning_mistakes_teen_1.svg",
-        "size_kb": 35.7
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/learning_mistakes_teen/learning_mistakes_teen_2.svg",
-        "size_kb": 36.4
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/learning_mistakes_teen/learning_mistakes_teen_3.svg",
-        "size_kb": 34.1
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/learning_mistakes_teen/learning_mistakes_teen_4.svg",
-        "size_kb": 35.5
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/learning_with_people_teen/learning_with_people_teen_1.svg",
-        "size_kb": 30.8
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/learning_with_people_teen/learning_with_people_teen_2.svg",
-        "size_kb": 29.9
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/learning_with_people_teen/learning_with_people_teen_3.svg",
-        "size_kb": 32.5
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/learning_with_people_teen/learning_with_people_teen_4.svg",
-        "size_kb": 30.7
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/make_plan_teen/make_plan_teen_1.svg",
-        "size_kb": 29.2
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/make_plan_teen/make_plan_teen_2.svg",
-        "size_kb": 14.7
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/make_plan_teen/make_plan_teen_3.svg",
-        "size_kb": 16
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/make_plan_teen/make_plan_teen_4.svg",
-        "size_kb": 28.3
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/make_plan_teen/make_plan_teen_5.svg",
-        "size_kb": 28.2
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/make_plan_teen/make_plan_teen_6.svg",
-        "size_kb": 28.6
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/manage_stress_teen/manage_stress_teen_1.svg",
-        "size_kb": 31.8
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/manage_stress_teen/manage_stress_teen_2.svg",
-        "size_kb": 13
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/manage_stress_teen/manage_stress_teen_3.svg",
-        "size_kb": 30.8
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/manage_stress_teen/manage_stress_teen_4.svg",
-        "size_kb": 32.3
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/positive_learning_teen/positive_learning_teen_1.svg",
-        "size_kb": 26.2
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/positive_learning_teen/positive_learning_teen_2.svg",
-        "size_kb": 27.8
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/positive_learning_teen/positive_learning_teen_3.svg",
-        "size_kb": 23.4
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/positive_learning_teen/positive_learning_teen_4.svg",
-        "size_kb": 21.3
-      },
-      {
-        "path": "images/comic/10. Apoyar a mi adolescente en su aprendizaje/positive_learning_teen/positive_learning_teen_5.svg",
-        "size_kb": 21.3
-      },
-      {
-        "path": "images/comic/11. Entender el desarrollo de mi niña o niño/learn_experience_yc/learn_experience_yc_1.svg",
-        "size_kb": 33.5
-      },
-      {
-        "path": "images/comic/11. Entender el desarrollo de mi niña o niño/learn_experience_yc/learn_experience_yc_2.svg",
-        "size_kb": 35.7
-      },
-      {
-        "path": "images/comic/11. Entender el desarrollo de mi niña o niño/learn_experience_yc/learn_experience_yc_3.svg",
-        "size_kb": 34.4
-      },
-      {
-        "path": "images/comic/11. Entender el desarrollo de mi niña o niño/learn_experience_yc/learn_experience_yc_4.svg",
-        "size_kb": 28.4
-      },
-      {
-        "path": "images/comic/11. Entender el desarrollo de mi niña o niño/learn_experience_yc/learn_experience_yc_5.svg",
-        "size_kb": 26.6
-      },
-      {
-        "path": "images/comic/11. Entender el desarrollo de mi niña o niño/play_yc/play_yc_1.svg",
-        "size_kb": 39.5
-      },
-      {
-        "path": "images/comic/11. Entender el desarrollo de mi niña o niño/play_yc/play_yc_2.svg",
-        "size_kb": 38.7
-      },
-      {
-        "path": "images/comic/11. Entender el desarrollo de mi niña o niño/play_yc/play_yc_3.svg",
-        "size_kb": 25.9
-      },
-      {
-        "path": "images/comic/11. Entender el desarrollo de mi niña o niño/play_yc/play_yc_4.svg",
-        "size_kb": 25.7
-      },
-      {
-        "path": "images/comic/11. Entender el desarrollo de mi niña o niño/toddler_change_yc/toddler_change_yc_1.svg",
-        "size_kb": 24.3
-      },
-      {
-        "path": "images/comic/11. Entender el desarrollo de mi niña o niño/toddler_change_yc/toddler_change_yc_2.svg",
-        "size_kb": 41.6
-      },
-      {
-        "path": "images/comic/11. Entender el desarrollo de mi niña o niño/toddler_change_yc/toddler_change_yc_3.svg",
-        "size_kb": 42.2
-      },
-      {
-        "path": "images/comic/11. Entender el desarrollo de mi niña o niño/toddler_change_yc/toddler_change_yc_4.svg",
-        "size_kb": 43.1
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/calm_teen/calm_teen_1.svg",
-        "size_kb": 41.9
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/calm_teen/calm_teen_2.svg",
-        "size_kb": 7
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/calm_teen/calm_teen_4.svg",
-        "size_kb": 41.1
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/calm_teen/calm_teen_5.svg",
-        "size_kb": 37.3
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/feelings_teen/feelings_teen_1.svg",
-        "size_kb": 61
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/feelings_teen/feelings_teen_2.svg",
-        "size_kb": 32.1
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/feelings_teen/feelings_teen_3.svg",
-        "size_kb": 30.9
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/feelings_teen/feelings_teen_4.svg",
-        "size_kb": 32
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/give_praise_teen/give_praise_teen_1.svg",
-        "size_kb": 13.9
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/give_praise_teen/give_praise_teen_2.svg",
-        "size_kb": 14.7
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/give_praise_teen/give_praise_teen_3.svg",
-        "size_kb": 14.4
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/one_on_one_teen/one_on_one_teen_1.svg",
-        "size_kb": 34.2
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/one_on_one_teen/one_on_one_teen_2.svg",
-        "size_kb": 23
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/one_on_one_teen/one_on_one_teen_3.svg",
-        "size_kb": 28.5
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/one_on_one_teen/one_on_one_teen_4.svg",
-        "size_kb": 27.2
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/one_on_one_teen/one_on_one_teen_5.svg",
-        "size_kb": 54.3
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/routines_teen/routines_teen_1.svg",
-        "size_kb": 15.7
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/routines_teen/routines_teen_2.svg",
-        "size_kb": 16.9
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/routines_teen/routines_teen_3.svg",
-        "size_kb": 19
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/routines_teen/routines_teen_4.svg",
-        "size_kb": 18.4
-      },
-      {
-        "path": "images/comic/2. Mejorar la relación con mi adolescente/routines_teen/routines_teen_5.svg",
-        "size_kb": 17.4
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_conflicts_m/ipv_conflicts_1.svg",
-        "size_kb": 23.7
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_conflicts_m/ipv_conflicts_2.svg",
-        "size_kb": 32.4
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_conflicts_m/ipv_conflicts_3.svg",
-        "size_kb": 26.1
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_conflicts_m/ipv_conflicts_4.svg",
-        "size_kb": 17.2
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_equals_m/ipv_equals_1.svg",
-        "size_kb": 31.5
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_equals_m/ipv_equals_2.svg",
-        "size_kb": 31.2
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_equals_m/ipv_equals_3.svg",
-        "size_kb": 31.1
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_equals_m/ipv_equals_4.svg",
-        "size_kb": 26.1
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_listen_m/ipv_listen_1.svg",
-        "size_kb": 29.7
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_listen_m/ipv_listen_2.svg",
-        "size_kb": 30.1
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_listen_m/ipv_listen_3.svg",
-        "size_kb": 28.7
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_listen_m/ipv_listen_4.svg",
-        "size_kb": 28.6
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_sharing_m/ipv_sharing_1.svg",
-        "size_kb": 47.4
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_sharing_m/ipv_sharing_2.svg",
-        "size_kb": 71.6
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_sharing_m/ipv_sharing_3.svg",
-        "size_kb": 50.4
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_sharing_m/ipv_sharing_4.svg",
-        "size_kb": 49.1
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_sharing_m/ipv_sharing_5.svg",
-        "size_kb": 61.1
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_supportive_m/ipv_supportive_1.svg",
-        "size_kb": 25.8
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_supportive_m/ipv_supportive_2.svg",
-        "size_kb": 36.5
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_supportive_m/ipv_supportive_3.svg",
-        "size_kb": 37.9
-      },
-      {
-        "path": "images/comic/3. Responsabilidad e involucramiento en la crianza compartida/ipv_supportive_m/ipv_supportive_4.svg",
-        "size_kb": 37.3
-      },
-      {
-        "path": "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/anxiety_teen/anxiety_teen_1.svg",
-        "size_kb": 89.6
-      },
-      {
-        "path": "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/anxiety_teen/anxiety_teen_2.svg",
-        "size_kb": 32.2
-      },
-      {
-        "path": "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/anxiety_teen/anxiety_teen_3.svg",
-        "size_kb": 27.3
-      },
-      {
-        "path": "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/anxiety_teen/anxiety_teen_4.svg",
-        "size_kb": 26.5
-      },
-      {
-        "path": "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/anxiety_teen/anxiety_teen_5.svg",
-        "size_kb": 26.2
-      },
-      {
-        "path": "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/sadness_teen/sadness_teen_1.svg",
-        "size_kb": 30.7
-      },
-      {
-        "path": "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/sadness_teen/sadness_teen_2.svg",
-        "size_kb": 30.4
-      },
-      {
-        "path": "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/sadness_teen/sadness_teen_3.svg",
-        "size_kb": 33.5
-      },
-      {
-        "path": "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/sadness_teen/sadness_teen_4.svg",
-        "size_kb": 28.1
-      },
-      {
-        "path": "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/sadness_teen/sadness_teen_5.svg",
-        "size_kb": 22.3
-      },
-      {
-        "path": "images/comic/4. Cuidar del bienestar de mi adolescente y del mío/sadness_teen/sadness_teen_6.svg",
-        "size_kb": 21.6
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/com_safety_2to4_yc/com_safety_2to4_yc_1.svg",
-        "size_kb": 34.1
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/com_safety_2to4_yc/com_safety_2to4_yc_2.svg",
-        "size_kb": 36.4
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/com_safety_2to4_yc/com_safety_2to4_yc_3.svg",
-        "size_kb": 28.4
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/com_safety_2to4_yc/com_safety_2to4_yc_4.svg",
-        "size_kb": 33.6
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/com_safety_5to9_yc/com_safety_5to9_yc_1.svg",
-        "size_kb": 39.4
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/com_safety_5to9_yc/com_safety_5to9_yc_2.svg",
-        "size_kb": 43.7
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/com_safety_5to9_yc/com_safety_5to9_yc_3.svg",
-        "size_kb": 40.6
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/com_safety_5to9_yc/com_safety_5to9_yc_4.svg",
-        "size_kb": 20.8
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/com_safety_5to9_yc/com_safety_5to9_yc_5.svg",
-        "size_kb": 19.7
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/crises_2to6_yc/crises_2to6_yc_1.svg",
-        "size_kb": 36.2
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/crises_2to6_yc/crises_2to6_yc_2.svg",
-        "size_kb": 37.5
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/crises_2to6_yc/crises_2to6_yc_3.svg",
-        "size_kb": 37.2
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/crises_2to6_yc/crises_2to6_yc_4.svg",
-        "size_kb": 36.3
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/crises_7to9_yc/crises_7to9_yc_1.svg",
-        "size_kb": 27.5
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/crises_7to9_yc/crises_7to9_yc_2.svg",
-        "size_kb": 19
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/crises_7to9_yc/crises_7to9_yc_3.svg",
-        "size_kb": 21.4
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/crises_7to9_yc/crises_7to9_yc_4.svg",
-        "size_kb": 20.8
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/crises_7to9_yc/crises_7to9_yc_5.svg",
-        "size_kb": 11.8
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/crises_7to9_yc/crises_7to9_yc_6.svg",
-        "size_kb": 25.5
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/online_safety_yc/online_safety_yc_1.svg",
-        "size_kb": 25.4
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/online_safety_yc/online_safety_yc_2.svg",
-        "size_kb": 25.9
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/online_safety_yc/online_safety_yc_3.svg",
-        "size_kb": 26
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/online_safety_yc/online_safety_yc_4.svg",
-        "size_kb": 27.2
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_f/safe_touch_2to5_yc_f_1.svg",
-        "size_kb": 47.3
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_f/safe_touch_2to5_yc_f_2.svg",
-        "size_kb": 43.5
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_f/safe_touch_2to5_yc_f_3.svg",
-        "size_kb": 44.1
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_f/safe_touch_2to5_yc_f_4.svg",
-        "size_kb": 45.6
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_f/safe_touch_2to5_yc_f_5.svg",
-        "size_kb": 37
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_m/safe_touch_2to5_yc_m_1.svg",
-        "size_kb": 127.9
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_m/safe_touch_2to5_yc_m_2.svg",
-        "size_kb": 119.6
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_m/safe_touch_2to5_yc_m_3.svg",
-        "size_kb": 119.6
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_m/safe_touch_2to5_yc_m_4.svg",
-        "size_kb": 121.3
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/safe_touch_2to5_yc_m/safe_touch_2to5_yc_m_5.svg",
-        "size_kb": 121.1
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/safe_touch_6to9_yc/safe_touch_6to9_yc_1.svg",
-        "size_kb": 36.9
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/safe_touch_6to9_yc/safe_touch_6to9_yc_2.svg",
-        "size_kb": 34.7
-      },
-      {
-        "path": "images/comic/5. Seguridad de mi niña o niño/safe_touch_6to9_yc/safe_touch_6to9_yc_3.svg",
-        "size_kb": 16.5
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/community_safety_teen/community_safety_teen_1.svg",
-        "size_kb": 32.5
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/community_safety_teen/community_safety_teen_2.svg",
-        "size_kb": 67.3
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/community_safety_teen/community_safety_teen_3.svg",
-        "size_kb": 66.5
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/community_safety_teen/community_safety_teen_4.svg",
-        "size_kb": 59.8
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/community_safety_teen/community_safety_teen_5.svg",
-        "size_kb": 58.8
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/community_safety_teen/community_safety_teen_6.svg",
-        "size_kb": 32
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/crises_teen_f/crises_teen_f_1.svg",
-        "size_kb": 27.4
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/crises_teen_f/crises_teen_f_2.svg",
-        "size_kb": 17.6
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/crises_teen_f/crises_teen_f_3.svg",
-        "size_kb": 23.1
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/crises_teen_f/crises_teen_f_4.svg",
-        "size_kb": 24
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/crises_teen_f/crises_teen_f_5.svg",
-        "size_kb": 23.8
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/crises_teen_f/crises_teen_f_6.svg",
-        "size_kb": 22.1
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/crises_teen_m/crises_teen_1.svg",
-        "size_kb": 20.9
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/crises_teen_m/crises_teen_2.svg",
-        "size_kb": 16.5
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/crises_teen_m/crises_teen_3.svg",
-        "size_kb": 13.9
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/crises_teen_m/crises_teen_4.svg",
-        "size_kb": 14.2
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/crises_teen_m/crises_teen_5.svg",
-        "size_kb": 14.1
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/crises_teen_m/crises_teen_6.svg",
-        "size_kb": 12.1
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/online_safety_teen/online_safety_teen_1.svg",
-        "size_kb": 42.9
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/online_safety_teen/online_safety_teen_2.svg",
-        "size_kb": 29.9
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/online_safety_teen/online_safety_teen_3.svg",
-        "size_kb": 29.2
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/online_safety_teen/online_safety_teen_4.svg",
-        "size_kb": 37.9
-      },
-      {
-        "path": "images/comic/6. Seguridad de mi adolescente/online_safety_teen/online_safety_teen_5.svg",
-        "size_kb": 16.2
-      },
-      {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/consequences_yc/consequences_yc_1.svg",
-        "size_kb": 98
-      },
-      {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/consequences_yc/consequences_yc_2.svg",
+        "path": "images/activities/narrador_c.svg",
         "size_kb": 98.4
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/consequences_yc/consequences_yc_3.svg",
+        "path": "images/activities/narrador_t.svg",
+        "size_kb": 60.2
+      },
+      {
+        "path": "images/activities/personajes_t.svg",
+        "size_kb": 54
+      },
+      {
+        "path": "images/backgrounds/homescreen_pattern.svg",
+        "size_kb": 156.3
+      },
+      {
+        "path": "images/backgrounds/progress_arc.png",
+        "size_kb": 255.4
+      },
+      {
+        "path": "images/character_icons/AMIGA_MUJER_1.svg",
+        "size_kb": 978.5
+      },
+      {
+        "path": "images/character_icons/AMIGA_MUJER_2.svg",
+        "size_kb": 1412.5
+      },
+      {
+        "path": "images/character_icons/F1_HIJA_13.svg",
+        "size_kb": 1907.1
+      },
+      {
+        "path": "images/character_icons/F1_HIJA_16.svg",
+        "size_kb": 1876.8
+      },
+      {
+        "path": "images/character_icons/F1_HIJA_6.svg",
+        "size_kb": 1876.9
+      },
+      {
+        "path": "images/character_icons/F1_HIJO_17.svg",
+        "size_kb": 1876.9
+      },
+      {
+        "path": "images/character_icons/F1_HIJO_5.svg",
+        "size_kb": 1877
+      },
+      {
+        "path": "images/character_icons/F1_MADRE.svg",
+        "size_kb": 1877
+      },
+      {
+        "path": "images/character_icons/F1_PADRE.svg",
+        "size_kb": 1877
+      },
+      {
+        "path": "images/character_icons/F2_ABUELA.svg",
+        "size_kb": 1419.4
+      },
+      {
+        "path": "images/character_icons/F2_ABUELO.svg",
+        "size_kb": 1419.4
+      },
+      {
+        "path": "images/character_icons/F2_HIJA_17.svg",
+        "size_kb": 1419.3
+      },
+      {
+        "path": "images/character_icons/F2_HIJA_3.svg",
+        "size_kb": 1784.1
+      },
+      {
+        "path": "images/character_icons/F2_HIJO_15.svg",
+        "size_kb": 1419.3
+      },
+      {
+        "path": "images/character_icons/F2_HIJO_8.svg",
+        "size_kb": 1784.1
+      },
+      {
+        "path": "images/character_icons/F3_HIJA_12.svg",
+        "size_kb": 1057.5
+      },
+      {
+        "path": "images/character_icons/F3_HIJA_7.svg",
+        "size_kb": 1056.9
+      },
+      {
+        "path": "images/character_icons/F3_HIJO_4.svg",
+        "size_kb": 1057
+      },
+      {
+        "path": "images/character_icons/F3_MADRE.svg",
+        "size_kb": 1057.1
+      },
+      {
+        "path": "images/character_icons/F3_PADRE.svg",
+        "size_kb": 1057.1
+      },
+      {
+        "path": "images/character_icons/HOMBRE_EN_COCHE.svg",
+        "size_kb": 203.7
+      },
+      {
+        "path": "images/character_icons/PROFESORA_1.svg",
+        "size_kb": 919.8
+      },
+      {
+        "path": "images/comic/behave/consequences_yc_1.svg",
+        "size_kb": 98
+      },
+      {
+        "path": "images/comic/behave/consequences_yc_2.svg",
+        "size_kb": 98.4
+      },
+      {
+        "path": "images/comic/behave/consequences_yc_3.svg",
         "size_kb": 98.9
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/consequences_yc/consequences_yc_4.svg",
+        "path": "images/comic/behave/consequences_yc_4.svg",
         "size_kb": 96.7
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/consequences_yc/teach_consequences_yc_5.svg",
+        "path": "images/comic/behave/consequences_yc_5.svg",
         "size_kb": 15.1
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/create_family_rules_yc/create_family_rules_yc_1.svg",
+        "path": "images/comic/behave/create_family_rules_yc_1.svg",
         "size_kb": 23.4
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/create_family_rules_yc/create_family_rules_yc_2.svg",
+        "path": "images/comic/behave/create_family_rules_yc_2.svg",
         "size_kb": 23.2
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/create_family_rules_yc/create_family_rules_yc_3.svg",
+        "path": "images/comic/behave/create_family_rules_yc_3.svg",
         "size_kb": 30.4
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/create_family_rules_yc/create_family_rules_yc_4.svg",
+        "path": "images/comic/behave/create_family_rules_yc_4.svg",
         "size_kb": 41.8
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/ignore_yc/ignore_yc_1.svg",
+        "path": "images/comic/behave/ignore_yc_1.svg",
         "size_kb": 59.9
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/ignore_yc/ignore_yc_2.svg",
+        "path": "images/comic/behave/ignore_yc_2.svg",
         "size_kb": 60.2
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/ignore_yc/ignore_yc_3.svg",
+        "path": "images/comic/behave/ignore_yc_3.svg",
         "size_kb": 61.6
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/ignore_yc/ignore_yc_4.svg",
+        "path": "images/comic/behave/ignore_yc_4.svg",
         "size_kb": 36.7
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/ignore_yc/ignore_yc_5.svg",
+        "path": "images/comic/behave/ignore_yc_5.svg",
         "size_kb": 50.1
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/keeping_it_positive_yc/keeping_it_positive_yc_1.svg",
+        "path": "images/comic/behave/keeping_it_positive_yc_1.svg",
         "size_kb": 45.9
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/keeping_it_positive_yc/keeping_it_positive_yc_2.svg",
+        "path": "images/comic/behave/keeping_it_positive_yc_2.svg",
         "size_kb": 40.9
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/keeping_it_positive_yc/keeping_it_positive_yc_3.svg",
+        "path": "images/comic/behave/keeping_it_positive_yc_3.svg",
         "size_kb": 43.8
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/keeping_it_positive_yc/keeping_it_positive_yc_4.svg",
+        "path": "images/comic/behave/keeping_it_positive_yc_4.svg",
         "size_kb": 21.6
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/managing_anger_yc/managing_anger_yc_1.svg",
+        "path": "images/comic/behave/managing_anger_yc_1.svg",
         "size_kb": 115.8
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/managing_anger_yc/managing_anger_yc_2.svg",
+        "path": "images/comic/behave/managing_anger_yc_2.svg",
         "size_kb": 26.8
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/managing_anger_yc/managing_anger_yc_3.svg",
+        "path": "images/comic/behave/managing_anger_yc_3.svg",
         "size_kb": 38.2
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/managing_anger_yc/managing_anger_yc_4.svg",
+        "path": "images/comic/behave/managing_anger_yc_4.svg",
         "size_kb": 22.4
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/managing_anger_yc/managing_anger_yc_5.svg",
+        "path": "images/comic/behave/managing_anger_yc_5.svg",
         "size_kb": 24.9
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/managing_anger_yc/managing_anger_yc_6.svg",
+        "path": "images/comic/behave/managing_anger_yc_6.svg",
         "size_kb": 37.2
       },
       {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/solve_problems_yc/solve_problems_yc_1.svg",
-        "size_kb": 41
-      },
-      {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/solve_problems_yc/solve_problems_yc_2.svg",
-        "size_kb": 40.7
-      },
-      {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/solve_problems_yc/solve_problems_yc_3.svg",
-        "size_kb": 41.9
-      },
-      {
-        "path": "images/comic/7. Guiar el buen comportamiento de mi niña o niño/solve_problems_yc/solve_problems_yc_4.svg",
-        "size_kb": 41.2
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/consequences_teen/consequences_teen_1.svg",
-        "size_kb": 56.6
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/consequences_teen/consequences_teen_2.svg",
-        "size_kb": 57.4
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/consequences_teen/consequences_teen_3.svg",
-        "size_kb": 55.7
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/consequences_teen/consequences_teen_4.svg",
-        "size_kb": 55.2
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/consequences_teen/consequences_teen_5.svg",
-        "size_kb": 54.7
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/keeping_it_positive_teen/keeping_it_positive_teen_1.svg",
-        "size_kb": 62
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/keeping_it_positive_teen/keeping_it_positive_teen_2.svg",
-        "size_kb": 55.9
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/keeping_it_positive_teen/keeping_it_positive_teen_3.svg",
-        "size_kb": 60.2
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/keeping_it_positive_teen/keeping_it_positive_teen_4.svg",
-        "size_kb": 20.3
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/keeping_it_positive_teen/keeping_it_positive_teen_5.svg",
-        "size_kb": 62.1
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/managing_anger_teen/managing_anger_teen_1.svg",
-        "size_kb": 108.8
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/managing_anger_teen/managing_anger_teen_2.svg",
-        "size_kb": 21.9
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/managing_anger_teen/managing_anger_teen_3.svg",
-        "size_kb": 30.2
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/managing_anger_teen/managing_anger_teen_4.svg",
-        "size_kb": 16
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/managing_anger_teen/managing_anger_teen_5.svg",
-        "size_kb": 16.6
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/managing_anger_teen/managing_anger_teen_6.svg",
-        "size_kb": 30.8
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/rules_teen/rules_teen_1.svg",
-        "size_kb": 26.9
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/rules_teen/rules_teen_2.svg",
-        "size_kb": 42.9
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/rules_teen/rules_teen_3.svg",
-        "size_kb": 42.3
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/rules_teen/rules_teen_4.svg",
-        "size_kb": 41.2
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/rules_teen/rules_teen_5.svg",
-        "size_kb": 42
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/rules_teen/rules_teen_6.svg",
-        "size_kb": 11.9
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/solve_problems_teen/solve_problems_teen_1.svg",
-        "size_kb": 25.3
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/solve_problems_teen/solve_problems_teen_2.svg",
-        "size_kb": 25
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/solve_problems_teen/solve_problems_teen_3.svg",
-        "size_kb": 26.4
-      },
-      {
-        "path": "images/comic/8. Guiar el buen comportamiento de mi adolescente/solve_problems_teen/solve_problems_teen_4.svg",
-        "size_kb": 25.1
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/fun_learning_7to9_yc/fun_learning_7to9_yc_1.svg",
+        "path": "images/comic/learn/fun_learning_7to9_yc_1.svg",
         "size_kb": 55.4
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/fun_learning_7to9_yc/fun_learning_7to9_yc_2.svg",
+        "path": "images/comic/learn/fun_learning_7to9_yc_2.svg",
         "size_kb": 16.9
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/fun_learning_7to9_yc/fun_learning_7to9_yc_3.svg",
+        "path": "images/comic/learn/fun_learning_7to9_yc_3.svg",
         "size_kb": 59.9
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/fun_learning_7to9_yc/fun_learning_7to9_yc_4.svg",
+        "path": "images/comic/learn/fun_learning_7to9_yc_4.svg",
         "size_kb": 36.3
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/help_child_learn_7to9_yc/help_child_learn_7to9_yc_1.svg",
+        "path": "images/comic/learn/help_child_learn_7to9_yc_1.svg",
         "size_kb": 31.7
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/help_child_learn_7to9_yc/help_child_learn_7to9_yc_2.svg",
+        "path": "images/comic/learn/help_child_learn_7to9_yc_2.svg",
         "size_kb": 32.8
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/help_child_learn_7to9_yc/help_child_learn_7to9_yc_3.svg",
+        "path": "images/comic/learn/help_child_learn_7to9_yc_3.svg",
         "size_kb": 26.7
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/help_child_learn_7to9_yc/help_child_learn_7to9_yc_4.svg",
+        "path": "images/comic/learn/help_child_learn_7to9_yc_4.svg",
         "size_kb": 27.9
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/language_yc/language_yc_1.svg",
+        "path": "images/comic/learn/language_yc_1.svg",
         "size_kb": 31
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/language_yc/language_yc_2.svg",
+        "path": "images/comic/learn/language_yc_2.svg",
         "size_kb": 32.8
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/language_yc/language_yc_3.svg",
+        "path": "images/comic/learn/language_yc_3.svg",
         "size_kb": 31.8
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/language_yc/language_yc_4.svg",
+        "path": "images/comic/learn/language_yc_4.svg",
         "size_kb": 35.4
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/learning_mistakes_7to9_yc/learning_mistakes_7to9_yc_1.svg",
-        "size_kb": 36.2
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/learning_mistakes_7to9_yc/learning_mistakes_7to9_yc_2.svg",
-        "size_kb": 36.1
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/learning_mistakes_7to9_yc/learning_mistakes_7to9_yc_3.svg",
-        "size_kb": 34.4
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/learning_mistakes_7to9_yc/learning_mistakes_7to9_yc_4.svg",
-        "size_kb": 36
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/make_plan_yc/make_plan_yc_1.svg",
-        "size_kb": 29.2
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/make_plan_yc/make_plan_yc_2.svg",
-        "size_kb": 14.7
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/make_plan_yc/make_plan_yc_3.svg",
-        "size_kb": 16
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/make_plan_yc/make_plan_yc_4.svg",
-        "size_kb": 28.3
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/make_plan_yc/make_plan_yc_5.svg",
-        "size_kb": 28.2
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/make_plan_yc/make_plan_yc_6.svg",
-        "size_kb": 28.6
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/manage_stress_yc/manage_stress_yc_1.svg",
-        "size_kb": 47.8
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/manage_stress_yc/manage_stress_yc_2.svg",
-        "size_kb": 26.9
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/manage_stress_yc/manage_stress_yc_3.svg",
-        "size_kb": 44.6
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/manage_stress_yc/manage_stress_yc_4.svg",
-        "size_kb": 43.6
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/manage_stress_yc/manage_stress_yc_5.svg",
-        "size_kb": 43.7
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/manage_stress_yc/manage_stress_yc_6.svg",
-        "size_kb": 45.5
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/maths2_4to6_yc/maths2_4to6_yc_1.svg",
+        "path": "images/comic/learn/maths2_4to6_yc_1.svg",
         "size_kb": 100.2
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/maths2_4to6_yc/maths2_4to6_yc_2.svg",
+        "path": "images/comic/learn/maths2_4to6_yc_2.svg",
         "size_kb": 101.1
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/maths2_4to6_yc/maths2_4to6_yc_3.svg",
+        "path": "images/comic/learn/maths2_4to6_yc_3.svg",
         "size_kb": 100.1
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/maths2_4to6_yc/maths2_4to6_yc_4.svg",
+        "path": "images/comic/learn/maths2_4to6_yc_4.svg",
         "size_kb": 97.8
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/positive_learning_7to9_yc/positive_learning_7to9_yc_1.svg",
-        "size_kb": 23.3
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/positive_learning_7to9_yc/positive_learning_7to9_yc_2.svg",
-        "size_kb": 24.4
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/positive_learning_7to9_yc/positive_learning_7to9_yc_3.svg",
-        "size_kb": 28.1
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/positive_learning_7to9_yc/positive_learning_7to9_yc_4.svg",
-        "size_kb": 27.2
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/positive_learning_7to9_yc/positive_learning_7to9_yc_5.svg",
-        "size_kb": 27.2
-      },
-      {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading1_4to6_yc/reading1_4to6_yc_1.svg",
+        "path": "images/comic/learn/reading1_4to6_yc_1.svg",
         "size_kb": 36.4
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading1_4to6_yc/reading1_4to6_yc_2.svg",
+        "path": "images/comic/learn/reading1_4to6_yc_2.svg",
         "size_kb": 38
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading1_4to6_yc/reading1_4to6_yc_3.svg",
+        "path": "images/comic/learn/reading1_4to6_yc_3.svg",
         "size_kb": 37.9
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading1_4to6_yc/reading1_4to6_yc_4.svg",
+        "path": "images/comic/learn/reading1_4to6_yc_4.svg",
         "size_kb": 38
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading_2to3_yc/reading_2to3_yc_1.svg",
+        "path": "images/comic/learn/reading_2to3_yc_1.svg",
         "size_kb": 37.7
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading_2to3_yc/reading_2to3_yc_2.svg",
+        "path": "images/comic/learn/reading_2to3_yc_2.svg",
         "size_kb": 46.1
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading_2to3_yc/reading_2to3_yc_3.svg",
+        "path": "images/comic/learn/reading_2to3_yc_3.svg",
         "size_kb": 39.3
       },
       {
-        "path": "images/comic/9. Apoyar a mi niña o niño en su aprendizaje/reading_2to3_yc/reading_2to3_yc_4.svg",
+        "path": "images/comic/learn/reading_2to3_yc_4.svg",
         "size_kb": 37.9
+      },
+      {
+        "path": "images/comic/relation/calm_teen_5.svg",
+        "size_kb": 37.3
+      },
+      {
+        "path": "images/comic/safe/com_safety_2to4_yc_1.svg",
+        "size_kb": 34.1
+      },
+      {
+        "path": "images/comic/safe/com_safety_2to4_yc_2.svg",
+        "size_kb": 36.4
+      },
+      {
+        "path": "images/comic/safe/com_safety_2to4_yc_3.svg",
+        "size_kb": 28.4
+      },
+      {
+        "path": "images/comic/safe/com_safety_2to4_yc_4.svg",
+        "size_kb": 33.6
+      },
+      {
+        "path": "images/comic/safe/com_safety_5to9_yc_1.svg",
+        "size_kb": 39.4
+      },
+      {
+        "path": "images/comic/safe/com_safety_5to9_yc_2.svg",
+        "size_kb": 43.7
+      },
+      {
+        "path": "images/comic/safe/com_safety_5to9_yc_3.svg",
+        "size_kb": 39.7
+      },
+      {
+        "path": "images/comic/safe/com_safety_5to9_yc_4.svg",
+        "size_kb": 20.8
+      },
+      {
+        "path": "images/comic/safe/com_safety_5to9_yc_5.svg",
+        "size_kb": 19.7
+      },
+      {
+        "path": "images/comic/safe/community_safety_teen_1.svg",
+        "size_kb": 32.5
+      },
+      {
+        "path": "images/comic/safe/community_safety_teen_2.svg",
+        "size_kb": 67.3
+      },
+      {
+        "path": "images/comic/safe/community_safety_teen_3.svg",
+        "size_kb": 66.5
+      },
+      {
+        "path": "images/comic/safe/community_safety_teen_4.svg",
+        "size_kb": 59.8
+      },
+      {
+        "path": "images/comic/safe/community_safety_teen_5.svg",
+        "size_kb": 58.8
+      },
+      {
+        "path": "images/comic/safe/community_safety_teen_6.svg",
+        "size_kb": 32
+      },
+      {
+        "path": "images/comic/safe/crises_2to6_yc_1.svg",
+        "size_kb": 36.2
+      },
+      {
+        "path": "images/comic/safe/crises_2to6_yc_2.svg",
+        "size_kb": 37.5
+      },
+      {
+        "path": "images/comic/safe/crises_2to6_yc_3.svg",
+        "size_kb": 37.2
+      },
+      {
+        "path": "images/comic/safe/crises_2to6_yc_4.svg",
+        "size_kb": 36.3
+      },
+      {
+        "path": "images/comic/safe/crises_7to9_yc_1.svg",
+        "size_kb": 27.5
+      },
+      {
+        "path": "images/comic/safe/crises_7to9_yc_2.svg",
+        "size_kb": 19
+      },
+      {
+        "path": "images/comic/safe/crises_7to9_yc_3.svg",
+        "size_kb": 21.4
+      },
+      {
+        "path": "images/comic/safe/crises_7to9_yc_4.svg",
+        "size_kb": 20.8
+      },
+      {
+        "path": "images/comic/safe/crises_7to9_yc_5.svg",
+        "size_kb": 11.8
+      },
+      {
+        "path": "images/comic/safe/crises_7to9_yc_6.svg",
+        "size_kb": 25.5
+      },
+      {
+        "path": "images/comic/safe/crises_teen_f_1.svg",
+        "size_kb": 27.4
+      },
+      {
+        "path": "images/comic/safe/crises_teen_f_2.svg",
+        "size_kb": 17.6
+      },
+      {
+        "path": "images/comic/safe/crises_teen_f_3.svg",
+        "size_kb": 23.1
+      },
+      {
+        "path": "images/comic/safe/crises_teen_f_4.svg",
+        "size_kb": 24
+      },
+      {
+        "path": "images/comic/safe/crises_teen_f_5.svg",
+        "size_kb": 23.8
+      },
+      {
+        "path": "images/comic/safe/crises_teen_f_6.svg",
+        "size_kb": 22.1
+      },
+      {
+        "path": "images/comic/safe/crises_teen_m_1.svg",
+        "size_kb": 20.9
+      },
+      {
+        "path": "images/comic/safe/crises_teen_m_2.svg",
+        "size_kb": 16.5
+      },
+      {
+        "path": "images/comic/safe/crises_teen_m_3.svg",
+        "size_kb": 13.9
+      },
+      {
+        "path": "images/comic/safe/crises_teen_m_4.svg",
+        "size_kb": 14.2
+      },
+      {
+        "path": "images/comic/safe/crises_teen_m_5.svg",
+        "size_kb": 14.1
+      },
+      {
+        "path": "images/comic/safe/crises_teen_m_6.svg",
+        "size_kb": 12.1
+      },
+      {
+        "path": "images/comic/safe/online_safety_teen_1.svg",
+        "size_kb": 42.9
+      },
+      {
+        "path": "images/comic/safe/online_safety_teen_2.svg",
+        "size_kb": 29.9
+      },
+      {
+        "path": "images/comic/safe/online_safety_teen_3.svg",
+        "size_kb": 29.2
+      },
+      {
+        "path": "images/comic/safe/online_safety_teen_4.svg",
+        "size_kb": 37.9
+      },
+      {
+        "path": "images/comic/safe/online_safety_teen_5.svg",
+        "size_kb": 16.2
+      },
+      {
+        "path": "images/comic/safe/online_safety_yc_1.svg",
+        "size_kb": 25.4
+      },
+      {
+        "path": "images/comic/safe/online_safety_yc_2.svg",
+        "size_kb": 25.9
+      },
+      {
+        "path": "images/comic/safe/online_safety_yc_3.svg",
+        "size_kb": 26
+      },
+      {
+        "path": "images/comic/safe/online_safety_yc_4.svg",
+        "size_kb": 27.2
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_f_1.svg",
+        "size_kb": 47.3
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_f_2.svg",
+        "size_kb": 43.5
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_f_3.svg",
+        "size_kb": 44.1
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_f_4.svg",
+        "size_kb": 45.6
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_f_5.svg",
+        "size_kb": 37
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_m_1.svg",
+        "size_kb": 127.9
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_m_2.svg",
+        "size_kb": 119.6
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_m_3.svg",
+        "size_kb": 119.6
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_m_4.svg",
+        "size_kb": 121.3
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_m_5.svg",
+        "size_kb": 121.1
+      },
+      {
+        "path": "images/comic/safe/safe_touch_6to9_yc_1.svg",
+        "size_kb": 36.9
+      },
+      {
+        "path": "images/comic/safe/safe_touch_6to9_yc_2.svg",
+        "size_kb": 34.7
+      },
+      {
+        "path": "images/comic/safe/safe_touch_6to9_yc_3.svg",
+        "size_kb": 16.5
+      },
+      {
+        "path": "images/comic/understand/anxiety_teen_1.svg",
+        "size_kb": 89.6
+      },
+      {
+        "path": "images/comic/understand/anxiety_teen_2.svg",
+        "size_kb": 32.2
+      },
+      {
+        "path": "images/comic/understand/anxiety_teen_3.svg",
+        "size_kb": 27.3
+      },
+      {
+        "path": "images/comic/understand/anxiety_teen_4.svg",
+        "size_kb": 26.5
+      },
+      {
+        "path": "images/comic/understand/anxiety_teen_5.svg",
+        "size_kb": 26.2
+      },
+      {
+        "path": "images/comic/understand/play_yc_1.svg",
+        "size_kb": 39.5
+      },
+      {
+        "path": "images/comic/understand/play_yc_2.svg",
+        "size_kb": 38.7
+      },
+      {
+        "path": "images/comic/understand/play_yc_3.svg",
+        "size_kb": 25.9
+      },
+      {
+        "path": "images/comic/understand/play_yc_4.svg",
+        "size_kb": 25.7
+      },
+      {
+        "path": "images/comic/understand/sadness_teen_1.svg",
+        "size_kb": 30.7
+      },
+      {
+        "path": "images/comic/understand/sadness_teen_2.svg",
+        "size_kb": 30.4
+      },
+      {
+        "path": "images/comic/understand/sadness_teen_3.svg",
+        "size_kb": 33.5
+      },
+      {
+        "path": "images/comic/understand/sadness_teen_4.svg",
+        "size_kb": 28.1
+      },
+      {
+        "path": "images/comic/understand/sadness_teen_5.svg",
+        "size_kb": 22.3
+      },
+      {
+        "path": "images/comic/understand/sadness_teen_6.svg",
+        "size_kb": 21.6
+      },
+      {
+        "path": "images/facilitators/Angel_male.jpeg",
+        "size_kb": 60.5
+      },
+      {
+        "path": "images/facilitators/Angela_female.jpg",
+        "size_kb": 7857.1
       },
       {
         "path": "images/flags/gb.svg",
@@ -1524,8 +960,8 @@
         "size_kb": 0.9
       },
       {
-        "path": "images/icons/expand_circle_right_blue.svg",
-        "size_kb": 2.1
+        "path": "images/icons/expand_circle_right.svg",
+        "size_kb": 0.5
       },
       {
         "path": "images/icons/eye_blue.png",
@@ -1546,18 +982,6 @@
       {
         "path": "images/icons/faces/happiest.svg",
         "size_kb": 1.3
-      },
-      {
-        "path": "images/icons/faces/happy.svg",
-        "size_kb": 0.6
-      },
-      {
-        "path": "images/icons/faces/neutral.svg",
-        "size_kb": 0.5
-      },
-      {
-        "path": "images/icons/faces/sad.svg",
-        "size_kb": 0.6
       },
       {
         "path": "images/icons/faces/sadder.svg",
@@ -1584,12 +1008,20 @@
         "size_kb": 5.1
       },
       {
+        "path": "images/icons/heart-outline.svg",
+        "size_kb": 0.4
+      },
+      {
         "path": "images/icons/heart.svg",
         "size_kb": 0.6
       },
       {
         "path": "images/icons/heart_filled_blue.png",
         "size_kb": 4.9
+      },
+      {
+        "path": "images/icons/hourglass_blue.png",
+        "size_kb": 4.3
       },
       {
         "path": "images/icons/in_progress_white.svg",
@@ -1602,6 +1034,14 @@
       {
         "path": "images/icons/lightbulb_blue.png",
         "size_kb": 3.6
+      },
+      {
+        "path": "images/icons/lock-closed-outline.svg",
+        "size_kb": 0.4
+      },
+      {
+        "path": "images/icons/lock.svg",
+        "size_kb": 0.5
       },
       {
         "path": "images/icons/magnify_glass.svg",
@@ -1644,6 +1084,10 @@
         "size_kb": 0.8
       },
       {
+        "path": "images/icons/repeat_blue.png",
+        "size_kb": 5.4
+      },
+      {
         "path": "images/icons/single_speech_blue.png",
         "size_kb": 3.3
       },
@@ -1672,6 +1116,10 @@
         "size_kb": 2.8
       },
       {
+        "path": "images/icons/tick_white.svg",
+        "size_kb": 0.3
+      },
+      {
         "path": "images/icons/trophy_blue.png",
         "size_kb": 5.1
       },
@@ -1684,8 +1132,24 @@
         "size_kb": 3.9
       },
       {
+        "path": "images/icons/verified.svg",
+        "size_kb": 0.5
+      },
+      {
         "path": "images/icons/world.svg",
         "size_kb": 6.2
+      },
+      {
+        "path": "images/logos/Crianza-01.jpg",
+        "size_kb": 221.9
+      },
+      {
+        "path": "images/logos/Crianza-01.png",
+        "size_kb": 17
+      },
+      {
+        "path": "images/logos/Crianza-03.jpg",
+        "size_kb": 227.6
       },
       {
         "path": "images/logos/MIDES logo colour.png",
@@ -1760,448 +1224,88 @@
   "assets_missing": {
     "data": [
       {
-        "path": "images/1. Mejorar la relación con mi NNA/give_praise_teen_1.svg",
+        "path": "images/activities/narracion_c.svg",
         "count": 2,
         "missing": true
       },
       {
-        "path": "images/1. Mejorar la relación con mi NNA/give_praise_teen_2.svg",
+        "path": "images/activities/narracion_t.svg",
         "count": 2,
         "missing": true
       },
       {
-        "path": "images/1. Mejorar la relación con mi NNA/give_praise_teen_3.svg",
+        "path": "images/comic/relation/calm_teen_3.svg",
         "count": 2,
         "missing": true
       },
       {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/consecuences_teen_2.svg",
-        "count": 2,
+        "path": "images/homescreen/behave_c.svg",
+        "count": 14,
         "missing": true
       },
       {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/consecuences_teen_3.svg",
-        "count": 2,
+        "path": "images/homescreen/behave_t.svg",
+        "count": 14,
         "missing": true
       },
       {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/consecuences_teen_4.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/consequences_teen_1.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/consequences_teen_5.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_1.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_2.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_3.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_4.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_5.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/rules_teen_1.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/rules_teen_2.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/rules_teen_3.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/rules_teen_4.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/rules_teen_5.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/rules_teen_6.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/solve_problems_teen_1.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/solve_problems_teen_2.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/solve_problems_teen_3.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/solve_problems_teen_4.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/manage_strees_c_1.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/manage_strees_c_2.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/manage_strees_c_3.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/manage_strees_c_4.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/manage_strees_c_5.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/manage_strees_c_6.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/act_animal.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/act_emotions.svg",
-        "count": 4,
-        "missing": true
-      },
-      {
-        "path": "images/activities/artist.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/blanket_forts.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/books.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/can_you_catch_it.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/charades.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/checkin_chat.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/circle_dance.svg",
-        "count": 4,
-        "missing": true
-      },
-      {
-        "path": "images/activities/clean.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/cook_traditional.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/cooking_with_maths.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/dance.svg",
-        "count": 8,
-        "missing": true
-      },
-      {
-        "path": "images/activities/dream_travel.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/emotion_cards.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/famous_party.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/friendly_chat.svg",
-        "count": 4,
-        "missing": true
-      },
-      {
-        "path": "images/activities/garden.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/guess_emotion.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/make_story_child.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/mystery_bag.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/play_with_clothes.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/reflect_positive.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/role_play.svg",
-        "count": 4,
-        "missing": true
-      },
-      {
-        "path": "images/activities/rolling_ball_fun.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/secret_handshake.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/shadow_play.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/short_term_goal.svg",
-        "count": 4,
-        "missing": true
-      },
-      {
-        "path": "images/activities/song.svg",
-        "count": 8,
-        "missing": true
-      },
-      {
-        "path": "images/activities/spy_colours.svg",
-        "count": 4,
-        "missing": true
-      },
-      {
-        "path": "images/activities/take_a_pause.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/talk_6.svg",
-        "count": 4,
-        "missing": true
-      },
-      {
-        "path": "images/activities/tell_stories.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/thinking_games.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/traffic_lights.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/two_truths.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/unseen_guesses.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/walk.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/yes_no_maybe.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/backgrounds/bottom_banner.svg",
+        "path": "images/homescreen/check_in/traditional_rondavel_closed.svg",
         "count": 1,
         "missing": true
       },
       {
-        "path": "images/backgrounds/kites.svg",
+        "path": "images/homescreen/check_in/traditional_rondavel_open.svg",
         "count": 1,
         "missing": true
       },
       {
-        "path": "images/backgrounds/library_top_right.png",
-        "count": 3,
+        "path": "images/homescreen/ipv.svg",
+        "count": 12,
         "missing": true
       },
       {
-        "path": "images/backgrounds/map_view_bg.jpg",
-        "count": 1,
+        "path": "images/homescreen/learn_c.svg",
+        "count": 14,
         "missing": true
       },
       {
-        "path": "images/backgrounds/mountains_trees.svg",
-        "count": 1,
+        "path": "images/homescreen/learn_t.svg",
+        "count": 12,
         "missing": true
       },
       {
-        "path": "images/backgrounds/progress_arc.png",
-        "count": 1,
+        "path": "images/homescreen/relation_c.svg",
+        "count": 14,
         "missing": true
       },
       {
-        "path": "images/faces/happy.svg",
-        "count": 1,
+        "path": "images/homescreen/relation_t.svg",
+        "count": 14,
         "missing": true
       },
       {
-        "path": "images/faces/neutral.svg",
-        "count": 1,
+        "path": "images/homescreen/safety_c.svg",
+        "count": 14,
         "missing": true
       },
       {
-        "path": "images/faces/sad.svg",
-        "count": 1,
+        "path": "images/homescreen/safety_t.svg",
+        "count": 14,
         "missing": true
       },
       {
-        "path": "images/icons/diamond-outline.svg",
+        "path": "images/homescreen/understand_c.svg",
+        "count": 14,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/understand_t.svg",
+        "count": 14,
+        "missing": true
+      },
+      {
+        "path": "images/icons/share.svg",
         "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/icons/document-lock-outline.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/icons/document-text-outline.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/icons/globe-outline.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/icons/heart-outline.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/icons/heart_filled_red.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/icons/information-circle-outline.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/icons/lock-closed-outline.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/icons/lock-closed-outline.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/icons/lock-open-outline.svg",
-        "count": 3,
-        "missing": true
-      },
-      {
-        "path": "images/icons/log-in-outline.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/icons/person-circle-outline.svg",
-        "count": 1,
         "missing": true
       },
       {
@@ -2216,11 +1320,6 @@
       },
       {
         "path": "images/logos/plh_logomark.png",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/logos/sino_white.svg",
         "count": 1,
         "missing": true
       },
@@ -2238,25 +1337,1370 @@
         "path": "images/onboarding/loving_parent.svg",
         "count": 1,
         "missing": true
-      },
-      {
-        "path": "pencil.svg",
-        "count": 8,
-        "missing": true
       }
     ]
   },
   "asset_summary": {
     "data": [
       {
-        "path": "images/homescreen/check_in/traditional_rondavel_closed.svg",
+        "path": "audio/relax/relax _22.m4a",
         "count": 1,
-        "size_kb": 23.9
+        "size_kb": 172
       },
       {
-        "path": "images/homescreen/check_in/traditional_rondavel_open.svg",
+        "path": "audio/relax/relax_1.m4a",
+        "count": 40,
+        "size_kb": 213.2
+      },
+      {
+        "path": "audio/relax/relax_10.m4a",
         "count": 1,
-        "size_kb": 28.8
+        "size_kb": 390
+      },
+      {
+        "path": "audio/relax/relax_11.m4a",
+        "count": 1,
+        "size_kb": 284
+      },
+      {
+        "path": "audio/relax/relax_12.m4a",
+        "count": 1,
+        "size_kb": 447
+      },
+      {
+        "path": "audio/relax/relax_13.m4a",
+        "count": 1,
+        "size_kb": 267.1
+      },
+      {
+        "path": "audio/relax/relax_14.m4a",
+        "count": 1,
+        "size_kb": 290.6
+      },
+      {
+        "path": "audio/relax/relax_15.m4a",
+        "count": 1,
+        "size_kb": 360.2
+      },
+      {
+        "path": "audio/relax/relax_16.m4a",
+        "count": 1,
+        "size_kb": 301.4
+      },
+      {
+        "path": "audio/relax/relax_17.m4a",
+        "count": 1,
+        "size_kb": 335.8
+      },
+      {
+        "path": "audio/relax/relax_18.m4a",
+        "count": 1,
+        "size_kb": 729.8
+      },
+      {
+        "path": "audio/relax/relax_19.m4a",
+        "count": 1,
+        "size_kb": 1089.5
+      },
+      {
+        "path": "audio/relax/relax_2.m4a",
+        "count": 2,
+        "size_kb": 451.3
+      },
+      {
+        "path": "audio/relax/relax_20.m4a",
+        "count": 1,
+        "size_kb": 1010.5
+      },
+      {
+        "path": "audio/relax/relax_21.m4a",
+        "count": 1,
+        "size_kb": 374.2
+      },
+      {
+        "path": "audio/relax/relax_23.m4a",
+        "count": 1,
+        "size_kb": 223
+      },
+      {
+        "path": "audio/relax/relax_24.m4a",
+        "count": 1,
+        "size_kb": 222.9
+      },
+      {
+        "path": "audio/relax/relax_3.m4a",
+        "count": 2,
+        "size_kb": 244.5
+      },
+      {
+        "path": "audio/relax/relax_4.m4a",
+        "count": 2,
+        "size_kb": 528.3
+      },
+      {
+        "path": "audio/relax/relax_5.m4a",
+        "count": 2,
+        "size_kb": 278.5
+      },
+      {
+        "path": "audio/relax/relax_6.m4a",
+        "count": 1,
+        "size_kb": 214.9
+      },
+      {
+        "path": "audio/relax/relax_7.m4a",
+        "count": 1,
+        "size_kb": 303
+      },
+      {
+        "path": "audio/relax/relax_8.m4a",
+        "count": 1,
+        "size_kb": 284.2
+      },
+      {
+        "path": "audio/relax/relax_9.m4a",
+        "count": 2,
+        "size_kb": 530.4
+      },
+      {
+        "path": "images/activities/aciegas_c.svg",
+        "count": 2,
+        "size_kb": 32.8
+      },
+      {
+        "path": "images/activities/aciegas_t.svg",
+        "count": 2,
+        "size_kb": 27.2
+      },
+      {
+        "path": "images/activities/activate_c.svg",
+        "count": 2,
+        "size_kb": 34.1
+      },
+      {
+        "path": "images/activities/activate_t.svg",
+        "count": 2,
+        "size_kb": 58.8
+      },
+      {
+        "path": "images/activities/adivinanzas_c.svg",
+        "count": 2,
+        "size_kb": 23.2
+      },
+      {
+        "path": "images/activities/adivinanzas_t.svg",
+        "count": 2,
+        "size_kb": 18.4
+      },
+      {
+        "path": "images/activities/animales_c.svg",
+        "count": 2,
+        "size_kb": 32.8
+      },
+      {
+        "path": "images/activities/animales_t.svg",
+        "count": 2,
+        "size_kb": 16.9
+      },
+      {
+        "path": "images/activities/aprender_c.svg",
+        "count": 2,
+        "size_kb": 49.1
+      },
+      {
+        "path": "images/activities/aprender_t.svg",
+        "count": 2,
+        "size_kb": 16.2
+      },
+      {
+        "path": "images/activities/artista_c.svg",
+        "count": 2,
+        "size_kb": 55.4
+      },
+      {
+        "path": "images/activities/artista_t.svg",
+        "count": 2,
+        "size_kb": 41
+      },
+      {
+        "path": "images/activities/baile.svg",
+        "count": 2,
+        "size_kb": 59.9
+      },
+      {
+        "path": "images/activities/boliche.svg",
+        "count": 4,
+        "size_kb": 32.7
+      },
+      {
+        "path": "images/activities/canciones.svg",
+        "count": 2,
+        "size_kb": 38.7
+      },
+      {
+        "path": "images/activities/carrera.svg",
+        "count": 2,
+        "size_kb": 43.8
+      },
+      {
+        "path": "images/activities/categorizar.svg",
+        "count": 2,
+        "size_kb": 39.3
+      },
+      {
+        "path": "images/activities/cobija.svg",
+        "count": 4,
+        "size_kb": 25.9
+      },
+      {
+        "path": "images/activities/cocinar.svg",
+        "count": 2,
+        "size_kb": 100.1
+      },
+      {
+        "path": "images/activities/colores.svg",
+        "count": 2,
+        "size_kb": 29
+      },
+      {
+        "path": "images/activities/conversacion_c.svg",
+        "count": 2,
+        "size_kb": 28.4
+      },
+      {
+        "path": "images/activities/conversacion_t.svg",
+        "count": 2,
+        "size_kb": 30.7
+      },
+      {
+        "path": "images/activities/crea_c.svg",
+        "count": 2,
+        "size_kb": 19.7
+      },
+      {
+        "path": "images/activities/crea_t.svg",
+        "count": 2,
+        "size_kb": 32.3
+      },
+      {
+        "path": "images/activities/desafio_c.svg",
+        "count": 2,
+        "size_kb": 38.7
+      },
+      {
+        "path": "images/activities/desafio_t.svg",
+        "count": 2,
+        "size_kb": 62.1
+      },
+      {
+        "path": "images/activities/disfraces.svg",
+        "count": 2,
+        "size_kb": 33.3
+      },
+      {
+        "path": "images/activities/emociones_c.svg",
+        "count": 2,
+        "size_kb": 36
+      },
+      {
+        "path": "images/activities/emociones_t.svg",
+        "count": 4,
+        "size_kb": 13.9
+      },
+      {
+        "path": "images/activities/equilibrio_c.svg",
+        "count": 2,
+        "size_kb": 37.8
+      },
+      {
+        "path": "images/activities/equilibrio_t.svg",
+        "count": 2,
+        "size_kb": 37.3
+      },
+      {
+        "path": "images/activities/escritor_c.svg",
+        "count": 2,
+        "size_kb": 27.2
+      },
+      {
+        "path": "images/activities/escritor_t.svg",
+        "count": 2,
+        "size_kb": 21.3
+      },
+      {
+        "path": "images/activities/feliz_c.svg",
+        "count": 2,
+        "size_kb": 27.9
+      },
+      {
+        "path": "images/activities/feliz_t.svg",
+        "count": 2,
+        "size_kb": 11.9
+      },
+      {
+        "path": "images/activities/formas.svg",
+        "count": 2,
+        "size_kb": 31.8
+      },
+      {
+        "path": "images/activities/historia_c.svg",
+        "count": 2,
+        "size_kb": 36.5
+      },
+      {
+        "path": "images/activities/historia_t.svg",
+        "count": 2,
+        "size_kb": 42
+      },
+      {
+        "path": "images/activities/hornear_c.svg",
+        "count": 2,
+        "size_kb": 59.9
+      },
+      {
+        "path": "images/activities/hornear_t.svg",
+        "count": 2,
+        "size_kb": 20.3
+      },
+      {
+        "path": "images/activities/imagenes_c.svg",
+        "count": 2,
+        "size_kb": 127.9
+      },
+      {
+        "path": "images/activities/imagenes_t.svg",
+        "count": 2,
+        "size_kb": 26.4
+      },
+      {
+        "path": "images/activities/instrucciones.svg",
+        "count": 2,
+        "size_kb": 45.4
+      },
+      {
+        "path": "images/activities/juntos_c.svg",
+        "count": 2,
+        "size_kb": 38
+      },
+      {
+        "path": "images/activities/juntos_t.svg",
+        "count": 2,
+        "size_kb": 54.3
+      },
+      {
+        "path": "images/activities/lectura_c.svg",
+        "count": 2,
+        "size_kb": 38
+      },
+      {
+        "path": "images/activities/lectura_t.svg",
+        "count": 2,
+        "size_kb": 23.4
+      },
+      {
+        "path": "images/activities/letras.svg",
+        "count": 2,
+        "size_kb": 36.3
+      },
+      {
+        "path": "images/activities/lider.svg",
+        "count": 4,
+        "size_kb": 44.6
+      },
+      {
+        "path": "images/activities/logica.svg",
+        "count": 2,
+        "size_kb": 28
+      },
+      {
+        "path": "images/activities/naturaleza_c.svg",
+        "count": 2,
+        "size_kb": 43.1
+      },
+      {
+        "path": "images/activities/naturaleza_t.svg",
+        "count": 2,
+        "size_kb": 55.7
+      },
+      {
+        "path": "images/activities/opuestos_c.svg",
+        "count": 2,
+        "size_kb": 32.8
+      },
+      {
+        "path": "images/activities/opuestos_t.svg",
+        "count": 2,
+        "size_kb": 24.8
+      },
+      {
+        "path": "images/activities/patrones.svg",
+        "count": 2,
+        "size_kb": 29.4
+      },
+      {
+        "path": "images/activities/pelota.svg",
+        "count": 4,
+        "size_kb": 32.6
+      },
+      {
+        "path": "images/activities/personajes_c.svg",
+        "count": 2,
+        "size_kb": 28.1
+      },
+      {
+        "path": "images/activities/rompecabezas_c.svg",
+        "count": 2,
+        "size_kb": 41.8
+      },
+      {
+        "path": "images/activities/rompecabezas_t.svg",
+        "count": 2,
+        "size_kb": 25
+      },
+      {
+        "path": "images/activities/ropa.svg",
+        "count": 2,
+        "size_kb": 48.7
+      },
+      {
+        "path": "images/activities/saludo_c.svg",
+        "count": 2,
+        "size_kb": 26.6
+      },
+      {
+        "path": "images/activities/saludo_t.svg",
+        "count": 2,
+        "size_kb": 54.7
+      },
+      {
+        "path": "images/activities/sombras.svg",
+        "count": 4,
+        "size_kb": 25.7
+      },
+      {
+        "path": "images/activities/tenis.svg",
+        "count": 4,
+        "size_kb": 48.3
+      },
+      {
+        "path": "images/activities/veo.svg",
+        "count": 2,
+        "size_kb": 119.6
+      },
+      {
+        "path": "images/activities/verduras.svg",
+        "count": 2,
+        "size_kb": 97.8
+      },
+      {
+        "path": "images/backgrounds/bottom_banner.svg",
+        "count": 1,
+        "size_kb": 23.2
+      },
+      {
+        "path": "images/backgrounds/complete_module.svg",
+        "count": 1,
+        "size_kb": 4.5
+      },
+      {
+        "path": "images/backgrounds/kites.svg",
+        "count": 1,
+        "size_kb": 37.3
+      },
+      {
+        "path": "images/backgrounds/lesson-cta-bg.svg",
+        "count": 2,
+        "size_kb": 4
+      },
+      {
+        "path": "images/backgrounds/library_top_right.png",
+        "count": 3,
+        "size_kb": 1358.6
+      },
+      {
+        "path": "images/backgrounds/mountains_trees.svg",
+        "count": 1,
+        "size_kb": 23.2
+      },
+      {
+        "path": "images/comic/behave/consequences_teen_1.svg",
+        "count": 2,
+        "size_kb": 56.6
+      },
+      {
+        "path": "images/comic/behave/consequences_teen_2.svg",
+        "count": 2,
+        "size_kb": 57.4
+      },
+      {
+        "path": "images/comic/behave/consequences_teen_3.svg",
+        "count": 2,
+        "size_kb": 55.7
+      },
+      {
+        "path": "images/comic/behave/consequences_teen_4.svg",
+        "count": 2,
+        "size_kb": 55.2
+      },
+      {
+        "path": "images/comic/behave/consequences_teen_5.svg",
+        "count": 2,
+        "size_kb": 54.7
+      },
+      {
+        "path": "images/comic/behave/keeping_it_positive_teen_1.svg",
+        "count": 2,
+        "size_kb": 62
+      },
+      {
+        "path": "images/comic/behave/keeping_it_positive_teen_2.svg",
+        "count": 2,
+        "size_kb": 55.9
+      },
+      {
+        "path": "images/comic/behave/keeping_it_positive_teen_3.svg",
+        "count": 2,
+        "size_kb": 60.2
+      },
+      {
+        "path": "images/comic/behave/keeping_it_positive_teen_4.svg",
+        "count": 2,
+        "size_kb": 20.3
+      },
+      {
+        "path": "images/comic/behave/keeping_it_positive_teen_5.svg",
+        "count": 2,
+        "size_kb": 62.1
+      },
+      {
+        "path": "images/comic/behave/managing_anger_teen_1.svg",
+        "count": 2,
+        "size_kb": 108.8
+      },
+      {
+        "path": "images/comic/behave/managing_anger_teen_2.svg",
+        "count": 2,
+        "size_kb": 21.9
+      },
+      {
+        "path": "images/comic/behave/managing_anger_teen_3.svg",
+        "count": 2,
+        "size_kb": 30.2
+      },
+      {
+        "path": "images/comic/behave/managing_anger_teen_4.svg",
+        "count": 2,
+        "size_kb": 16
+      },
+      {
+        "path": "images/comic/behave/managing_anger_teen_5.svg",
+        "count": 2,
+        "size_kb": 16.6
+      },
+      {
+        "path": "images/comic/behave/managing_anger_teen_6.svg",
+        "count": 2,
+        "size_kb": 30.8
+      },
+      {
+        "path": "images/comic/behave/rules_teen_1.svg",
+        "count": 2,
+        "size_kb": 26.9
+      },
+      {
+        "path": "images/comic/behave/rules_teen_2.svg",
+        "count": 2,
+        "size_kb": 42.9
+      },
+      {
+        "path": "images/comic/behave/rules_teen_3.svg",
+        "count": 2,
+        "size_kb": 42.3
+      },
+      {
+        "path": "images/comic/behave/rules_teen_4.svg",
+        "count": 2,
+        "size_kb": 41.2
+      },
+      {
+        "path": "images/comic/behave/rules_teen_5.svg",
+        "count": 2,
+        "size_kb": 42
+      },
+      {
+        "path": "images/comic/behave/rules_teen_6.svg",
+        "count": 2,
+        "size_kb": 11.9
+      },
+      {
+        "path": "images/comic/behave/solve_problems_teen_1.svg",
+        "count": 2,
+        "size_kb": 41
+      },
+      {
+        "path": "images/comic/behave/solve_problems_teen_2.svg",
+        "count": 2,
+        "size_kb": 40.7
+      },
+      {
+        "path": "images/comic/behave/solve_problems_teen_3.svg",
+        "count": 2,
+        "size_kb": 41.9
+      },
+      {
+        "path": "images/comic/behave/solve_problems_teen_4.svg",
+        "count": 2,
+        "size_kb": 41.2
+      },
+      {
+        "path": "images/comic/behave/solve_problems_yc_1.svg",
+        "count": 2,
+        "size_kb": 25.8
+      },
+      {
+        "path": "images/comic/behave/solve_problems_yc_2.svg",
+        "count": 2,
+        "size_kb": 26
+      },
+      {
+        "path": "images/comic/behave/solve_problems_yc_3.svg",
+        "count": 2,
+        "size_kb": 26.2
+      },
+      {
+        "path": "images/comic/behave/solve_problems_yc_4.svg",
+        "count": 2,
+        "size_kb": 25.3
+      },
+      {
+        "path": "images/comic/ipv/ipv_conflicts_1.svg",
+        "count": 2,
+        "size_kb": 23.7
+      },
+      {
+        "path": "images/comic/ipv/ipv_conflicts_2.svg",
+        "count": 2,
+        "size_kb": 32.4
+      },
+      {
+        "path": "images/comic/ipv/ipv_conflicts_3.svg",
+        "count": 2,
+        "size_kb": 26.1
+      },
+      {
+        "path": "images/comic/ipv/ipv_conflicts_4.svg",
+        "count": 2,
+        "size_kb": 17.2
+      },
+      {
+        "path": "images/comic/ipv/ipv_equals_1.svg",
+        "count": 2,
+        "size_kb": 31.5
+      },
+      {
+        "path": "images/comic/ipv/ipv_equals_2.svg",
+        "count": 2,
+        "size_kb": 31.2
+      },
+      {
+        "path": "images/comic/ipv/ipv_equals_3.svg",
+        "count": 2,
+        "size_kb": 31.1
+      },
+      {
+        "path": "images/comic/ipv/ipv_equals_4.svg",
+        "count": 2,
+        "size_kb": 26.1
+      },
+      {
+        "path": "images/comic/ipv/ipv_listen_1.svg",
+        "count": 2,
+        "size_kb": 29.7
+      },
+      {
+        "path": "images/comic/ipv/ipv_listen_2.svg",
+        "count": 2,
+        "size_kb": 30.1
+      },
+      {
+        "path": "images/comic/ipv/ipv_listen_3.svg",
+        "count": 2,
+        "size_kb": 28.7
+      },
+      {
+        "path": "images/comic/ipv/ipv_listen_4.svg",
+        "count": 2,
+        "size_kb": 28.6
+      },
+      {
+        "path": "images/comic/ipv/ipv_sharing_1.svg",
+        "count": 2,
+        "size_kb": 47.4
+      },
+      {
+        "path": "images/comic/ipv/ipv_sharing_2.svg",
+        "count": 2,
+        "size_kb": 71.6
+      },
+      {
+        "path": "images/comic/ipv/ipv_sharing_3.svg",
+        "count": 2,
+        "size_kb": 50.4
+      },
+      {
+        "path": "images/comic/ipv/ipv_sharing_4.svg",
+        "count": 2,
+        "size_kb": 49.1
+      },
+      {
+        "path": "images/comic/ipv/ipv_sharing_5.svg",
+        "count": 2,
+        "size_kb": 61.1
+      },
+      {
+        "path": "images/comic/ipv/ipv_supportive_1.svg",
+        "count": 2,
+        "size_kb": 25.8
+      },
+      {
+        "path": "images/comic/ipv/ipv_supportive_2.svg",
+        "count": 2,
+        "size_kb": 36.5
+      },
+      {
+        "path": "images/comic/ipv/ipv_supportive_3.svg",
+        "count": 2,
+        "size_kb": 37.9
+      },
+      {
+        "path": "images/comic/ipv/ipv_supportive_4.svg",
+        "count": 2,
+        "size_kb": 37.3
+      },
+      {
+        "path": "images/comic/learn/fun_learning_teen_1.svg",
+        "count": 2,
+        "size_kb": 54
+      },
+      {
+        "path": "images/comic/learn/fun_learning_teen_2.svg",
+        "count": 2,
+        "size_kb": 17.8
+      },
+      {
+        "path": "images/comic/learn/fun_learning_teen_3.svg",
+        "count": 2,
+        "size_kb": 58.8
+      },
+      {
+        "path": "images/comic/learn/fun_learning_teen_4.svg",
+        "count": 2,
+        "size_kb": 36.2
+      },
+      {
+        "path": "images/comic/learn/help_learn_teen_1.svg",
+        "count": 2,
+        "size_kb": 33
+      },
+      {
+        "path": "images/comic/learn/help_learn_teen_2.svg",
+        "count": 2,
+        "size_kb": 24.8
+      },
+      {
+        "path": "images/comic/learn/help_learn_teen_3.svg",
+        "count": 2,
+        "size_kb": 25.3
+      },
+      {
+        "path": "images/comic/learn/help_learn_teen_4.svg",
+        "count": 2,
+        "size_kb": 29.2
+      },
+      {
+        "path": "images/comic/learn/learning_mistakes_7to9_yc_1.svg",
+        "count": 2,
+        "size_kb": 36.2
+      },
+      {
+        "path": "images/comic/learn/learning_mistakes_7to9_yc_2.svg",
+        "count": 2,
+        "size_kb": 36.1
+      },
+      {
+        "path": "images/comic/learn/learning_mistakes_7to9_yc_3.svg",
+        "count": 2,
+        "size_kb": 34.4
+      },
+      {
+        "path": "images/comic/learn/learning_mistakes_7to9_yc_4.svg",
+        "count": 2,
+        "size_kb": 36
+      },
+      {
+        "path": "images/comic/learn/learning_mistakes_teen_1.svg",
+        "count": 2,
+        "size_kb": 35.7
+      },
+      {
+        "path": "images/comic/learn/learning_mistakes_teen_2.svg",
+        "count": 2,
+        "size_kb": 36.4
+      },
+      {
+        "path": "images/comic/learn/learning_mistakes_teen_3.svg",
+        "count": 2,
+        "size_kb": 34.1
+      },
+      {
+        "path": "images/comic/learn/learning_mistakes_teen_4.svg",
+        "count": 2,
+        "size_kb": 35.5
+      },
+      {
+        "path": "images/comic/learn/learning_with_people_teen_1.svg",
+        "count": 2,
+        "size_kb": 30.8
+      },
+      {
+        "path": "images/comic/learn/learning_with_people_teen_2.svg",
+        "count": 2,
+        "size_kb": 29.9
+      },
+      {
+        "path": "images/comic/learn/learning_with_people_teen_3.svg",
+        "count": 2,
+        "size_kb": 32.5
+      },
+      {
+        "path": "images/comic/learn/learning_with_people_teen_4.svg",
+        "count": 2,
+        "size_kb": 30.7
+      },
+      {
+        "path": "images/comic/learn/positive_learning_7to9_yc_1.svg",
+        "count": 2,
+        "size_kb": 23.3
+      },
+      {
+        "path": "images/comic/learn/positive_learning_7to9_yc_2.svg",
+        "count": 2,
+        "size_kb": 24.4
+      },
+      {
+        "path": "images/comic/learn/positive_learning_7to9_yc_3.svg",
+        "count": 2,
+        "size_kb": 28.1
+      },
+      {
+        "path": "images/comic/learn/positive_learning_7to9_yc_4.svg",
+        "count": 2,
+        "size_kb": 27.2
+      },
+      {
+        "path": "images/comic/learn/positive_learning_7to9_yc_5.svg",
+        "count": 2,
+        "size_kb": 27.2
+      },
+      {
+        "path": "images/comic/learn/positive_learning_teen_1.svg",
+        "count": 2,
+        "size_kb": 26.2
+      },
+      {
+        "path": "images/comic/learn/positive_learning_teen_2.svg",
+        "count": 2,
+        "size_kb": 27.8
+      },
+      {
+        "path": "images/comic/learn/positive_learning_teen_3.svg",
+        "count": 2,
+        "size_kb": 23.4
+      },
+      {
+        "path": "images/comic/learn/positive_learning_teen_4.svg",
+        "count": 2,
+        "size_kb": 21.3
+      },
+      {
+        "path": "images/comic/learn/positive_learning_teen_5.svg",
+        "count": 2,
+        "size_kb": 21.3
+      },
+      {
+        "path": "images/comic/relation/calm_teen_1.svg",
+        "count": 2,
+        "size_kb": 41.9
+      },
+      {
+        "path": "images/comic/relation/calm_teen_2.svg",
+        "count": 2,
+        "size_kb": 7
+      },
+      {
+        "path": "images/comic/relation/calm_teen_4.svg",
+        "count": 2,
+        "size_kb": 41.1
+      },
+      {
+        "path": "images/comic/relation/calm_yc_1.svg",
+        "count": 2,
+        "size_kb": 45.5
+      },
+      {
+        "path": "images/comic/relation/calm_yc_2.svg",
+        "count": 2,
+        "size_kb": 8
+      },
+      {
+        "path": "images/comic/relation/calm_yc_4.svg",
+        "count": 2,
+        "size_kb": 45.1
+      },
+      {
+        "path": "images/comic/relation/calm_yc_5.svg",
+        "count": 2,
+        "size_kb": 37.8
+      },
+      {
+        "path": "images/comic/relation/feelings_teen_1.svg",
+        "count": 2,
+        "size_kb": 61
+      },
+      {
+        "path": "images/comic/relation/feelings_teen_2.svg",
+        "count": 2,
+        "size_kb": 32.1
+      },
+      {
+        "path": "images/comic/relation/feelings_teen_3.svg",
+        "count": 2,
+        "size_kb": 30.9
+      },
+      {
+        "path": "images/comic/relation/feelings_teen_4.svg",
+        "count": 2,
+        "size_kb": 32
+      },
+      {
+        "path": "images/comic/relation/feelings_yc_1.svg",
+        "count": 2,
+        "size_kb": 28
+      },
+      {
+        "path": "images/comic/relation/feelings_yc_2.svg",
+        "count": 2,
+        "size_kb": 46.8
+      },
+      {
+        "path": "images/comic/relation/feelings_yc_3.svg",
+        "count": 2,
+        "size_kb": 48.3
+      },
+      {
+        "path": "images/comic/relation/feelings_yc_4.svg",
+        "count": 2,
+        "size_kb": 46.4
+      },
+      {
+        "path": "images/comic/relation/give_praise_teen_1.svg",
+        "count": 2,
+        "size_kb": 13.9
+      },
+      {
+        "path": "images/comic/relation/give_praise_teen_2.svg",
+        "count": 2,
+        "size_kb": 14.7
+      },
+      {
+        "path": "images/comic/relation/give_praise_teen_3.svg",
+        "count": 2,
+        "size_kb": 14.4
+      },
+      {
+        "path": "images/comic/relation/give_praise_yc_1.svg",
+        "count": 2,
+        "size_kb": 29.7
+      },
+      {
+        "path": "images/comic/relation/give_praise_yc_2.svg",
+        "count": 2,
+        "size_kb": 30
+      },
+      {
+        "path": "images/comic/relation/give_praise_yc_3.svg",
+        "count": 2,
+        "size_kb": 30.1
+      },
+      {
+        "path": "images/comic/relation/give_praise_yc_4.svg",
+        "count": 2,
+        "size_kb": 29.4
+      },
+      {
+        "path": "images/comic/relation/one_on_one_teen_1.svg",
+        "count": 2,
+        "size_kb": 34.2
+      },
+      {
+        "path": "images/comic/relation/one_on_one_teen_2.svg",
+        "count": 2,
+        "size_kb": 23
+      },
+      {
+        "path": "images/comic/relation/one_on_one_teen_3.svg",
+        "count": 2,
+        "size_kb": 28.5
+      },
+      {
+        "path": "images/comic/relation/one_on_one_teen_4.svg",
+        "count": 2,
+        "size_kb": 27.2
+      },
+      {
+        "path": "images/comic/relation/one_on_one_teen_5.svg",
+        "count": 2,
+        "size_kb": 54.3
+      },
+      {
+        "path": "images/comic/relation/one_on_one_yc_1.svg",
+        "count": 2,
+        "size_kb": 32.8
+      },
+      {
+        "path": "images/comic/relation/one_on_one_yc_2.svg",
+        "count": 2,
+        "size_kb": 33.4
+      },
+      {
+        "path": "images/comic/relation/one_on_one_yc_3.svg",
+        "count": 2,
+        "size_kb": 33.2
+      },
+      {
+        "path": "images/comic/relation/one_on_one_yc_4.svg",
+        "count": 2,
+        "size_kb": 33.3
+      },
+      {
+        "path": "images/comic/relation/routines_teen_1.svg",
+        "count": 2,
+        "size_kb": 15.7
+      },
+      {
+        "path": "images/comic/relation/routines_teen_2.svg",
+        "count": 2,
+        "size_kb": 16.9
+      },
+      {
+        "path": "images/comic/relation/routines_teen_3.svg",
+        "count": 2,
+        "size_kb": 19
+      },
+      {
+        "path": "images/comic/relation/routines_teen_4.svg",
+        "count": 2,
+        "size_kb": 18.4
+      },
+      {
+        "path": "images/comic/relation/routines_teen_5.svg",
+        "count": 2,
+        "size_kb": 17.4
+      },
+      {
+        "path": "images/comic/relation/routines_yc_1.svg",
+        "count": 2,
+        "size_kb": 29
+      },
+      {
+        "path": "images/comic/relation/routines_yc_2.svg",
+        "count": 2,
+        "size_kb": 30.8
+      },
+      {
+        "path": "images/comic/relation/routines_yc_3.svg",
+        "count": 2,
+        "size_kb": 48.7
+      },
+      {
+        "path": "images/comic/relation/routines_yc_4.svg",
+        "count": 2,
+        "size_kb": 33.7
+      },
+      {
+        "path": "images/comic/relation/routines_yc_5.svg",
+        "count": 2,
+        "size_kb": 45.4
+      },
+      {
+        "path": "images/comic/relation/routines_yc_6.svg",
+        "count": 2,
+        "size_kb": 36
+      },
+      {
+        "path": "images/comic/understand/child_change_yc_1.svg",
+        "count": 2,
+        "size_kb": 32.2
+      },
+      {
+        "path": "images/comic/understand/child_change_yc_2.svg",
+        "count": 2,
+        "size_kb": 32.3
+      },
+      {
+        "path": "images/comic/understand/child_change_yc_3.svg",
+        "count": 2,
+        "size_kb": 32.6
+      },
+      {
+        "path": "images/comic/understand/child_change_yc_4.svg",
+        "count": 2,
+        "size_kb": 32.7
+      },
+      {
+        "path": "images/comic/understand/learn_experience_yc_1.svg",
+        "count": 2,
+        "size_kb": 33.5
+      },
+      {
+        "path": "images/comic/understand/learn_experience_yc_2.svg",
+        "count": 2,
+        "size_kb": 35.7
+      },
+      {
+        "path": "images/comic/understand/learn_experience_yc_3.svg",
+        "count": 2,
+        "size_kb": 34.4
+      },
+      {
+        "path": "images/comic/understand/learn_experience_yc_4.svg",
+        "count": 2,
+        "size_kb": 28.4
+      },
+      {
+        "path": "images/comic/understand/learn_experience_yc_5.svg",
+        "count": 2,
+        "size_kb": 26.6
+      },
+      {
+        "path": "images/comic/understand/make_plan_teen_1.svg",
+        "count": 2,
+        "size_kb": 29.2
+      },
+      {
+        "path": "images/comic/understand/make_plan_teen_2.svg",
+        "count": 2,
+        "size_kb": 14.7
+      },
+      {
+        "path": "images/comic/understand/make_plan_teen_3.svg",
+        "count": 2,
+        "size_kb": 16
+      },
+      {
+        "path": "images/comic/understand/make_plan_teen_4.svg",
+        "count": 2,
+        "size_kb": 28.3
+      },
+      {
+        "path": "images/comic/understand/make_plan_teen_5.svg",
+        "count": 2,
+        "size_kb": 28.2
+      },
+      {
+        "path": "images/comic/understand/make_plan_teen_6.svg",
+        "count": 2,
+        "size_kb": 28.6
+      },
+      {
+        "path": "images/comic/understand/make_plan_yc_1.svg",
+        "count": 2,
+        "size_kb": 29.2
+      },
+      {
+        "path": "images/comic/understand/make_plan_yc_2.svg",
+        "count": 2,
+        "size_kb": 14.7
+      },
+      {
+        "path": "images/comic/understand/make_plan_yc_3.svg",
+        "count": 2,
+        "size_kb": 16
+      },
+      {
+        "path": "images/comic/understand/make_plan_yc_4.svg",
+        "count": 2,
+        "size_kb": 28.3
+      },
+      {
+        "path": "images/comic/understand/make_plan_yc_5.svg",
+        "count": 2,
+        "size_kb": 28.2
+      },
+      {
+        "path": "images/comic/understand/make_plan_yc_6.svg",
+        "count": 2,
+        "size_kb": 28.6
+      },
+      {
+        "path": "images/comic/understand/manage_stress_teen_1.svg",
+        "count": 2,
+        "size_kb": 31.8
+      },
+      {
+        "path": "images/comic/understand/manage_stress_teen_2.svg",
+        "count": 2,
+        "size_kb": 13
+      },
+      {
+        "path": "images/comic/understand/manage_stress_teen_3.svg",
+        "count": 2,
+        "size_kb": 30.8
+      },
+      {
+        "path": "images/comic/understand/manage_stress_teen_4.svg",
+        "count": 2,
+        "size_kb": 32.3
+      },
+      {
+        "path": "images/comic/understand/manage_stress_yc_1.svg",
+        "count": 2,
+        "size_kb": 47.8
+      },
+      {
+        "path": "images/comic/understand/manage_stress_yc_2.svg",
+        "count": 2,
+        "size_kb": 26.9
+      },
+      {
+        "path": "images/comic/understand/manage_stress_yc_3.svg",
+        "count": 2,
+        "size_kb": 44.6
+      },
+      {
+        "path": "images/comic/understand/manage_stress_yc_4.svg",
+        "count": 2,
+        "size_kb": 43.6
+      },
+      {
+        "path": "images/comic/understand/manage_stress_yc_5.svg",
+        "count": 2,
+        "size_kb": 43.7
+      },
+      {
+        "path": "images/comic/understand/manage_stress_yc_6.svg",
+        "count": 2,
+        "size_kb": 45.5
+      },
+      {
+        "path": "images/comic/understand/toddler_change_yc_1.svg",
+        "count": 2,
+        "size_kb": 24.3
+      },
+      {
+        "path": "images/comic/understand/toddler_change_yc_2.svg",
+        "count": 2,
+        "size_kb": 41.6
+      },
+      {
+        "path": "images/comic/understand/toddler_change_yc_3.svg",
+        "count": 2,
+        "size_kb": 42.2
+      },
+      {
+        "path": "images/comic/understand/toddler_change_yc_4.svg",
+        "count": 2,
+        "size_kb": 43.1
+      },
+      {
+        "path": "images/comic/understand/young_child_change_yc_1.svg",
+        "count": 2,
+        "size_kb": 41.9
+      },
+      {
+        "path": "images/comic/understand/young_child_change_yc_2.svg",
+        "count": 2,
+        "size_kb": 40.9
+      },
+      {
+        "path": "images/comic/understand/young_child_change_yc_3.svg",
+        "count": 2,
+        "size_kb": 37
+      },
+      {
+        "path": "images/comic/understand/young_child_change_yc_4.svg",
+        "count": 2,
+        "size_kb": 38
+      },
+      {
+        "path": "images/homescreen/courses/behave_c.svg",
+        "count": 1,
+        "size_kb": 1039
+      },
+      {
+        "path": "images/homescreen/courses/behave_t.svg",
+        "count": 1,
+        "size_kb": 518.5
+      },
+      {
+        "path": "images/homescreen/courses/ipv.svg",
+        "count": 1,
+        "size_kb": 691.3
+      },
+      {
+        "path": "images/homescreen/courses/learn_c.svg",
+        "count": 1,
+        "size_kb": 450.4
+      },
+      {
+        "path": "images/homescreen/courses/learn_t.svg",
+        "count": 1,
+        "size_kb": 618.7
+      },
+      {
+        "path": "images/homescreen/courses/relation_c.svg",
+        "count": 1,
+        "size_kb": 760
+      },
+      {
+        "path": "images/homescreen/courses/relation_t.svg",
+        "count": 1,
+        "size_kb": 622.7
+      },
+      {
+        "path": "images/homescreen/courses/safety_c.svg",
+        "count": 1,
+        "size_kb": 595.9
+      },
+      {
+        "path": "images/homescreen/courses/safety_t.svg",
+        "count": 1,
+        "size_kb": 699.7
+      },
+      {
+        "path": "images/homescreen/courses/understand_c.svg",
+        "count": 1,
+        "size_kb": 598.3
+      },
+      {
+        "path": "images/homescreen/courses/understand_t.svg",
+        "count": 1,
+        "size_kb": 549.4
+      },
+      {
+        "path": "images/icons/celebration.svg",
+        "count": 1,
+        "size_kb": 70.4
+      },
+      {
+        "path": "images/icons/chatbubble-ellipses-outline.svg",
+        "count": 1,
+        "size_kb": 0.8
+      },
+      {
+        "path": "images/icons/diamond-outline.svg",
+        "count": 2,
+        "size_kb": 0.6
       },
       {
         "path": "images/icons/diamond.png",
@@ -2269,23 +2713,58 @@
         "size_kb": 1.7
       },
       {
-        "path": "images/icons/expand_circle_right.svg",
+        "path": "images/icons/document-lock-outline.svg",
+        "count": 1,
+        "size_kb": 0.7
+      },
+      {
+        "path": "images/icons/document-text-outline.svg",
         "count": 1,
         "size_kb": 0.5
       },
       {
+        "path": "images/icons/expand_circle_right_blue.svg",
+        "count": 2,
+        "size_kb": 2.1
+      },
+      {
+        "path": "images/icons/faces/happy.svg",
+        "count": 8,
+        "size_kb": 0.6
+      },
+      {
         "path": "images/icons/faces/happy_face_new.svg",
-        "count": 91,
+        "count": 31,
         "size_kb": 1.4
       },
       {
-        "path": "images/icons/faces/ok_face_new.svg",
-        "count": 91,
+        "path": "images/icons/faces/neutral.svg",
+        "count": 8,
         "size_kb": 0.5
       },
       {
+        "path": "images/icons/faces/ok_face_new.svg",
+        "count": 31,
+        "size_kb": 0.5
+      },
+      {
+        "path": "images/icons/faces/sad.svg",
+        "count": 8,
+        "size_kb": 0.6
+      },
+      {
         "path": "images/icons/faces/sad_face_new.svg",
-        "count": 91,
+        "count": 31,
+        "size_kb": 1.5
+      },
+      {
+        "path": "images/icons/globe-outline.svg",
+        "count": 1,
+        "size_kb": 0.8
+      },
+      {
+        "path": "images/icons/heart-outline.png",
+        "count": 1,
         "size_kb": 1.5
       },
       {
@@ -2314,6 +2793,11 @@
         "size_kb": 1.4
       },
       {
+        "path": "images/icons/heart_filled_red.svg",
+        "count": 1,
+        "size_kb": 0.4
+      },
+      {
         "path": "images/icons/home.svg",
         "count": 1,
         "size_kb": 0.4
@@ -2324,9 +2808,19 @@
         "size_kb": 0.4
       },
       {
+        "path": "images/icons/home_white.svg",
+        "count": 1,
+        "size_kb": 0.7
+      },
+      {
         "path": "images/icons/in_progress.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 1.1
+      },
+      {
+        "path": "images/icons/information-circle-outline.svg",
+        "count": 1,
+        "size_kb": 0.6
       },
       {
         "path": "images/icons/local_library.svg",
@@ -2339,14 +2833,29 @@
         "size_kb": 1.6
       },
       {
-        "path": "images/icons/lock.svg",
+        "path": "images/icons/local_library_white.svg",
         "count": 1,
-        "size_kb": 0.5
+        "size_kb": 1.9
+      },
+      {
+        "path": "images/icons/lock-closed-outline.png",
+        "count": 1,
+        "size_kb": 0.9
+      },
+      {
+        "path": "images/icons/lock-open-outline.svg",
+        "count": 2,
+        "size_kb": 0.4
       },
       {
         "path": "images/icons/locked.png",
-        "count": 4,
+        "count": 1,
         "size_kb": 0.7
+      },
+      {
+        "path": "images/icons/log-in-outline.svg",
+        "count": 1,
+        "size_kb": 0.5
       },
       {
         "path": "images/icons/magnifying_glass.svg",
@@ -2364,6 +2873,11 @@
         "size_kb": 1.1
       },
       {
+        "path": "images/icons/person-circle-outline.svg",
+        "count": 1,
+        "size_kb": 0.8
+      },
+      {
         "path": "images/icons/picture_book.svg",
         "count": 76,
         "size_kb": 1.8
@@ -2375,6 +2889,11 @@
       },
       {
         "path": "images/icons/settings_active.svg",
+        "count": 1,
+        "size_kb": 2.4
+      },
+      {
+        "path": "images/icons/settings_white.svg",
         "count": 1,
         "size_kb": 2.4
       },
@@ -2399,11 +2918,6 @@
         "size_kb": 0.3
       },
       {
-        "path": "images/icons/tick_white.svg",
-        "count": 1,
-        "size_kb": 0.3
-      },
-      {
         "path": "images/icons/trophy.png",
         "count": 1,
         "size_kb": 1.6
@@ -2414,9 +2928,14 @@
         "size_kb": 1.7
       },
       {
-        "path": "images/icons/verified.svg",
+        "path": "images/icons/trophy_large.svg",
         "count": 1,
-        "size_kb": 0.5
+        "size_kb": 2.2
+      },
+      {
+        "path": "images/logos/Crianza-03.png",
+        "count": 2,
+        "size_kb": 17.9
       },
       {
         "path": "images/logos/IDEMS.png",
@@ -2470,7 +2989,7 @@
       },
       {
         "path": "lottie/relax/square_flow.json",
-        "count": 85,
+        "count": 48,
         "size_kb": 5.9
       }
     ]
@@ -2480,7 +2999,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 9
+        "total": 11
       },
       {
         "type": "data_list",
@@ -2500,7 +3019,7 @@
       {
         "type": "data_list",
         "subtype": "generated",
-        "total": 154
+        "total": 117
       },
       {
         "type": "data_list",
@@ -2520,7 +3039,7 @@
       {
         "type": "data_list",
         "subtype": "modules",
-        "total": 2
+        "total": 3
       },
       {
         "type": "data_list",
@@ -2544,17 +3063,7 @@
       },
       {
         "type": "data_list",
-        "subtype": "modules_Make_plan_c",
-        "total": 1
-      },
-      {
-        "type": "data_list",
         "subtype": "modules_Manage_anger_t",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_Play_c",
         "total": 1
       },
       {
@@ -2564,62 +3073,7 @@
       },
       {
         "type": "data_list",
-        "subtype": "modules_anxiety_t",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_com_safe_2to4_yc",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_com_safe_5to9_yc",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_consequences_c",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_crises_2to6_yc",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_crises_7to9_yc",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_family_rules_c",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_fun_l_7to9_c",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_habits_online_yc",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_help_l_7to9_c",
-        "total": 1
-      },
-      {
-        "type": "data_list",
         "subtype": "modules_help_learn_t",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_hope_future_t",
         "total": 1
       },
       {
@@ -2674,11 +3128,6 @@
       },
       {
         "type": "data_list",
-        "subtype": "modules_ignore_c",
-        "total": 1
-      },
-      {
-        "type": "data_list",
         "subtype": "modules_ipv_conflicts_m",
         "total": 1
       },
@@ -2704,47 +3153,12 @@
       },
       {
         "type": "data_list",
-        "subtype": "modules_keep_positive_c",
-        "total": 1
-      },
-      {
-        "type": "data_list",
         "subtype": "modules_keep_positive_t",
         "total": 1
       },
       {
         "type": "data_list",
         "subtype": "modules_know_role_c",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_ks_c_safe_t",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_ks_crises_f_t",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_ks_crises_m_t",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_ks_online_hab_t",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_ks_online_saf_t",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_ks_s_violence_t",
         "total": 1
       },
       {
@@ -2769,12 +3183,12 @@
       },
       {
         "type": "data_list",
-        "subtype": "modules_make_plan_t",
+        "subtype": "modules_make_plan_c",
         "total": 1
       },
       {
         "type": "data_list",
-        "subtype": "modules_manage_anger_c",
+        "subtype": "modules_make_plan_t",
         "total": 1
       },
       {
@@ -2789,26 +3203,6 @@
       },
       {
         "type": "data_list",
-        "subtype": "modules_maths1_4to6_c",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_maths2_4to6_c",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_maths_2to3_c",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_online_safety_yc",
-        "total": 1
-      },
-      {
-        "type": "data_list",
         "subtype": "modules_pos_learn_7to9_c",
         "total": 1
       },
@@ -2819,72 +3213,12 @@
       },
       {
         "type": "data_list",
-        "subtype": "modules_s_language_c",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_s_read1_4to6_c",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_s_read2_4to6_c",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_s_read_2to3_c",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_sadness_t",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_safe_2to5_yc_f",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_safe_2to5_yc_m",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_safe_6to9_yc",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_school_3to9_c",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_self_esteem_t",
-        "total": 1
-      },
-      {
-        "type": "data_list",
         "subtype": "modules_solve_problem_c",
         "total": 1
       },
       {
         "type": "data_list",
         "subtype": "modules_solve_problem_t",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_stress_signs_t",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_stress_t",
         "total": 1
       },
       {
@@ -2915,12 +3249,12 @@
       {
         "type": "data_pipe",
         "subtype": "generated",
-        "total": 150
+        "total": 113
       },
       {
         "type": "generator",
         "subtype": null,
-        "total": 87
+        "total": 48
       },
       {
         "type": "global",
@@ -2940,12 +3274,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 149
+        "total": 159
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 1142
+        "total": 766
       },
       {
         "type": "template",

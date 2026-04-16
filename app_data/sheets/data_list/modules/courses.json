@@ -1,0 +1,221 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "courses",
+  "data_list_name": "courses",
+  "status": "released",
+  "flow_subtype": "modules",
+  "rows": [
+    {
+      "id": "relation_c",
+      "core": true,
+      "tag_list": [
+        "child"
+      ],
+      "image_asset": "images/homescreen/courses/relation_c.svg",
+      "completed": false,
+      "title": "Mejorar la relación con mi niña o niño",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Mejorar la relación con mi niña o niño"
+        }
+      }
+    },
+    {
+      "id": "relation_t",
+      "core": true,
+      "tag_list": [
+        "teen"
+      ],
+      "image_asset": "images/homescreen/courses/relation_t.svg",
+      "completed": false,
+      "title": "Mejorar la relación con mi adolescente",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Mejorar la relación con mi adolescente"
+        }
+      }
+    },
+    {
+      "id": "understand_c",
+      "core": false,
+      "tag_list": [
+        "child"
+      ],
+      "image_asset": "images/homescreen/courses/understand_c.svg",
+      "completed": false,
+      "title": "Entender el desarrollo de mi niña o niño",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Entender el desarrollo de mi niña o niño"
+        }
+      }
+    },
+    {
+      "id": "understand_t",
+      "core": false,
+      "tag_list": [
+        "teen"
+      ],
+      "image_asset": "images/homescreen/courses/understand_t.svg",
+      "completed": false,
+      "title": "Cuidar del bienestar de mi adolescente y del mío",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Cuidar del bienestar de mi adolescente y del mío"
+        }
+      }
+    },
+    {
+      "id": "behave_c",
+      "core": false,
+      "tag_list": [
+        "child"
+      ],
+      "image_asset": "images/homescreen/courses/behave_c.svg",
+      "completed": false,
+      "title": "Guiar el buen comportamiento de mi niña o niño",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Guiar el buen comportamiento de mi niña o niño"
+        }
+      }
+    },
+    {
+      "id": "behave_t",
+      "core": false,
+      "tag_list": [
+        "teen"
+      ],
+      "image_asset": "images/homescreen/courses/behave_t.svg",
+      "completed": false,
+      "title": "Guiar el buen comportamiento de mi adolescente",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Guiar el buen comportamiento de mi adolescente"
+        }
+      }
+    },
+    {
+      "id": "safety_c",
+      "core": false,
+      "tag_list": [
+        "child"
+      ],
+      "image_asset": "images/homescreen/courses/safety_c.svg",
+      "completed": false,
+      "title": "Seguridad de mi niña o niño",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Seguridad de mi niña o niño"
+        }
+      }
+    },
+    {
+      "id": "safety_t",
+      "core": false,
+      "tag_list": [
+        "teen"
+      ],
+      "image_asset": "images/homescreen/courses/safety_t.svg",
+      "completed": false,
+      "title": "Seguridad de mi adolescente",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Seguridad de mi adolescente"
+        }
+      }
+    },
+    {
+      "id": "learn_c",
+      "core": false,
+      "tag_list": [
+        "child"
+      ],
+      "image_asset": "images/homescreen/courses/learn_c.svg",
+      "completed": false,
+      "title": "Apoyar a mi niña o niño en su aprendizaje",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Apoyar a mi niña o niño en su aprendizaje"
+        }
+      }
+    },
+    {
+      "id": "learn_t",
+      "core": false,
+      "tag_list": [
+        "teen"
+      ],
+      "image_asset": "images/homescreen/courses/learn_t.svg",
+      "completed": false,
+      "title": "Apoyar a mi adolescente en su aprendizaje",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Apoyar a mi adolescente en su aprendizaje"
+        }
+      }
+    },
+    {
+      "id": "ipv",
+      "core": false,
+      "tag_list": [
+        "child",
+        "teen"
+      ],
+      "image_asset": "images/homescreen/courses/ipv.svg",
+      "completed": false,
+      "title": "Responsabilidad e involucramiento en la crianza compartida",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Responsabilidad e involucramiento en la crianza compartida"
+        }
+      }
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA_modules_i (1-15).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
+  },
+  "_metadata": {
+    "core": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

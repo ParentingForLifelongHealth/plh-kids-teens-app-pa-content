@@ -95,7 +95,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nHabla con {tu adolescente} sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es una persona valiosa en el hogar.",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nHabla con {tu adolescente} sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es una persona valiosa en el hogar.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -106,7 +106,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nHabla con {tu adolescente} sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es una persona valiosa en el hogar."
+          "eng": "**_Actividad para casa_**⭐ \n\nHabla con {tu adolescente} sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es una persona valiosa en el hogar."
         },
         "quiz_1_question": {
           "eng": "💛 ¿Tienes tiempo para hacerlo hoy?"
@@ -133,7 +133,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - problem (31 - 45).xlsx",
+    "path": "data/PA modules - behave (31 - 43).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1q27LnkUFTJQqEbqkgh1hgN4sDQkfasSo29b5SAP4ktg"
   },
   "_metadata": {

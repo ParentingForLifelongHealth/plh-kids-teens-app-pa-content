@@ -1,5 +1,5 @@
 {
-  "flow_name": "stack_module_Make_plan_c",
+  "flow_name": "stack_module_make_plan_c",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -29,7 +29,7 @@
       "rows": [
         {
           "name": "module_id",
-          "value": "Make_plan_c",
+          "value": "make_plan_c",
           "_translations": {
             "value": {}
           },
@@ -38,8 +38,17 @@
           "_nested_name": "module.module_id"
         },
         {
+          "name": "course_id",
+          "value": "understand_c",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "module.course_id"
+        },
+        {
           "name": "show_progress_bar",
-          "value": false,
+          "value": true,
           "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "module.show_progress_bar"

@@ -103,12 +103,12 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/manage_stress_teen_1",
-      "character_1_id": "F2_ABUELA",
-      "character_2_id": "F2_HIJA_17",
-      "character_3_id": "F2_ABUELA",
+      "image_asset": "images/comic/understand/manage_stress_teen_1.svg",
+      "character_1_id": "f2_abuela",
+      "character_2_id": "f2_hija_17",
+      "character_3_id": "f2_abuela",
       "nested": false,
-      "text_1_facilitator": "{F2_ABUELA} es la única cuidadora de sus cuatro nietos. Tantas cosas que hacer en la casa, envejecer y el hecho de tener poco dinero hacen que se sienta abrumada y sin apoyo. También le resulta difícil estar presente. Veamos cómo le responde a {F2_HIJA_17} que está triste por una pelea que tuvo con su amiga en la escuela...",
+      "text_1_facilitator": "@data.characters.f2_abuela.name es la única cuidadora de sus cuatro nietos. Tantas cosas que hacer en la casa, envejecer y el hecho de tener poco dinero hacen que se sienta abrumada y sin apoyo. También le resulta difícil estar presente. Veamos cómo le responde a @data.characters.f2_hija_17.name que está triste por una pelea que tuvo con su amiga en la escuela...",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
@@ -117,10 +117,10 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "{F2_ABUELA} es la única cuidadora de sus cuatro nietos. Tantas cosas que hacer en la casa, envejecer y el hecho de tener poco dinero hacen que se sienta abrumada y sin apoyo. También le resulta difícil estar presente. Veamos cómo le responde a {F2_HIJA_17} que está triste por una pelea que tuvo con su amiga en la escuela..."
+          "eng": "@data.characters.f2_abuela.name es la única cuidadora de sus cuatro nietos. Tantas cosas que hacer en la casa, envejecer y el hecho de tener poco dinero hacen que se sienta abrumada y sin apoyo. También le resulta difícil estar presente. Veamos cómo le responde a @data.characters.f2_hija_17.name que está triste por una pelea que tuvo con su amiga en la escuela..."
         },
         "character_1_text": {
-          "eng": "¿Qué pasa, {F2_HIJA_17}? ¿Estás bien?"
+          "eng": "¿Qué pasa, @data.characters.f2_hija_17.name? ¿Estás bien?"
         },
         "character_2_text": {
           "eng": "Hoy me peleé con María en la escuela. Fue una estupidez, pero le dije algunas cosas que desearía no haberle dicho."
@@ -129,15 +129,15 @@
           "eng": "(Frustrada, pensando) ¡Ash! ¡Estoy muy cansada e irritada! Hay demasiadas cosas que hacer hoy. Pagos, la limpieza de la casa, ¡y ahora esto!"
         }
       },
-      "character_1_text": "¿Qué pasa, {F2_HIJA_17}? ¿Estás bien?",
+      "character_1_text": "¿Qué pasa, @data.characters.f2_hija_17.name? ¿Estás bien?",
       "character_2_text": "Hoy me peleé con María en la escuela. Fue una estupidez, pero le dije algunas cosas que desearía no haberle dicho.",
       "character_3_text": "(Frustrada, pensando) ¡Ash! ¡Estoy muy cansada e irritada! Hay demasiadas cosas que hacer hoy. Pagos, la limpieza de la casa, ¡y ahora esto!"
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/manage_stress_teen_2",
-      "character_1_id": "F2_ABUELA",
+      "image_asset": "images/comic/understand/manage_stress_teen_2.svg",
+      "character_1_id": "f2_abuela",
       "nested": false,
       "character_1_text": "(Respira profundamente y piensa): Voy a tomar una pausa. Estoy haciendo lo mejor que puedo. Mi nieta necesita de mi ayuda. Puedo hacerlo.",
       "_translations": {
@@ -152,18 +152,18 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/manage_stress_teen_3",
-      "character_1_id": "F2_ABUELA",
-      "character_2_id": "F2_HIJA_17",
+      "image_asset": "images/comic/understand/manage_stress_teen_3.svg",
+      "character_1_id": "f2_abuela",
+      "character_2_id": "f2_hija_17",
       "nested": false,
-      "character_1_text": "Lamento escuchar esto, {F2_HIJA_17}. María es una buena amiga. Estoy segura de que no quisiste decirle nada de lo que le dijiste. Todos nos desesperamos y decimos cosas que no queremos a veces. ¿Quieres hablar sobre eso?",
+      "character_1_text": "Lamento escuchar esto, @data.characters.f2_hija_17.name. María es una buena amiga. Estoy segura de que no quisiste decirle nada de lo que le dijiste. Todos nos desesperamos y decimos cosas que no queremos a veces. ¿Quieres hablar sobre eso?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Lamento escuchar esto, {F2_HIJA_17}. María es una buena amiga. Estoy segura de que no quisiste decirle nada de lo que le dijiste. Todos nos desesperamos y decimos cosas que no queremos a veces. ¿Quieres hablar sobre eso?"
+          "eng": "Lamento escuchar esto, @data.characters.f2_hija_17.name. María es una buena amiga. Estoy segura de que no quisiste decirle nada de lo que le dijiste. Todos nos desesperamos y decimos cosas que no queremos a veces. ¿Quieres hablar sobre eso?"
         },
         "character_2_text": {
           "eng": "Gracias, abuela. Es que es algo que me pone muy triste."
@@ -174,18 +174,18 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/manage_stress_teen_4",
-      "character_1_id": "F2_ABUELA",
-      "character_2_id": "F2_HIJA_17",
+      "image_asset": "images/comic/understand/manage_stress_teen_4.svg",
+      "character_1_id": "f2_abuela",
+      "character_2_id": "f2_hija_17",
       "nested": false,
-      "character_1_text": "{F2_HIJA_17}, ¿qué te parece si platicamos un ratito con una limonada fría? Podemos disfrutarla un rato y luego conversar de cómo podemos resolver este problema juntas.",
+      "character_1_text": "@data.characters.f2_hija_17.name, ¿qué te parece si platicamos un ratito con una limonada fría? Podemos disfrutarla un rato y luego conversar de cómo podemos resolver este problema juntas.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "{F2_HIJA_17}, ¿qué te parece si platicamos un ratito con una limonada fría? Podemos disfrutarla un rato y luego conversar de cómo podemos resolver este problema juntas."
+          "eng": "@data.characters.f2_hija_17.name, ¿qué te parece si platicamos un ratito con una limonada fría? Podemos disfrutarla un rato y luego conversar de cómo podemos resolver este problema juntas."
         },
         "character_2_text": {
           "eng": "Claro, abuela. Me gusta esa idea."
@@ -213,7 +213,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nComparte estas estrategias con tu adolescente y comenten cómo puede usarlas para ayudarle a manejar su estrés.",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nComparte estas estrategias con tu adolescente y comenten cómo puede usarlas para ayudarle a manejar su estrés.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -224,7 +224,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nComparte estas estrategias con tu adolescente y comenten cómo puede usarlas para ayudarle a manejar su estrés."
+          "eng": "**_Actividad para casa_**⭐ \n\nComparte estas estrategias con tu adolescente y comenten cómo puede usarlas para ayudarle a manejar su estrés."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
@@ -251,8 +251,8 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - learning (61 - 75).xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1uYUivXZOTg0ZliArzDnwFz4zNAX9qm_0iMzEgFQfGKY"
+    "path": "data/PA modules - understand (65 - 75).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1mWNhZqCfGOub-6mE1pRygNQ2hZV7C8CUW8L3ifKAVGQ"
   },
   "_metadata": {
     "nested": {

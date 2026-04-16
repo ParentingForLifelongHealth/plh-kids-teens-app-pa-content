@@ -20,39 +20,39 @@
       "id": "explore_1",
       "category_id": "explore",
       "text_1_facilitator::eng": "Aquí tienes una historieta sobre crear ambientes positivos para {tu niño}:",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_7to9_yc_1",
-      "character_1_id": "F3_HIJA_7",
+      "image_asset": "images/comic/learn/positive_learning_7to9_yc_1.svg",
+      "character_1_id": "f3_hija_7",
       "character_1_text::eng": "Papá, ¡ya llegué!",
-      "character_2_id": "F3_TÍO",
-      "character_2_text::eng": "Bienvenida a casa, {F3_HIJA_7}. ¿Tuviste un buen día en la escuela?"
+      "character_2_id": "f3_padre",
+      "character_2_text::eng": "Bienvenida a casa, @data.characters.f3_hija_7.name. ¿Tuviste un buen día en la escuela?"
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_7to9_yc_2",
-      "character_1_id": "F3_HIJA_7",
+      "image_asset": "images/comic/learn/positive_learning_7to9_yc_2.svg",
+      "character_1_id": "f3_hija_7",
       "character_1_text::eng": "¡Sí, pero la maestra nos dejó mucho trabajo!"
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_7to9_yc_3",
-      "character_1_id": "F3_TÍO",
+      "image_asset": "images/comic/learn/positive_learning_7to9_yc_3.svg",
+      "character_1_id": "f3_padre",
       "character_1_text::eng": "Eso suena frustrante, pero estoy seguro de que puedes hacerlo. Te despejé un espacio en la cocina para que puedas concentrarte y tener un poco de tranquilidad mientras preparo la comida."
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_7to9_yc_4",
-      "character_1_id": "F3_HIJA_7",
-      "character_1_text::eng": "Gracias, papá. ¿Ya que termine, puedo ir a jugar a casa de María?",
-      "character_2_id": "F3_TÍO",
-      "character_2_text::eng": "¡Sí, claro! Puedes jugar con ella en lo que está lista la comida. Le diré a su mamá."
+      "image_asset": "images/comic/learn/positive_learning_7to9_yc_4.svg",
+      "character_1_id": "f3_hija_7",
+      "character_1_text::eng": "Gracias, papá. ¿Ya que termine, puedo ir a jugar a casa de María?"
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/positive_learning_7to9_yc_5"
+      "image_asset": "images/comic/learn/positive_learning_7to9_yc_5.svg",
+      "character_1_id": "f3_padre",
+      "character_1_text::eng": "¡Sí, claro! Puedes jugar con ella en lo que está lista la comida. Le diré a su mamá."
     },
     {
       "id": "practical_tips_1",
@@ -64,7 +64,7 @@
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "*_Actividad para casa_*⭐  \n\nPlatica con {tu niño} para encontrar un lugar de estudio adecuado en tu casa.",
+      "text_1_facilitator::eng": "**_Actividad para casa_**⭐\n\nPlatica con {tu niño} para encontrar un lugar de estudio adecuado en tu casa.",
       "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Muy bien! Utiliza las estrategias que has aprendido hoy para impulsar a {tu niño} hacia un mejor aprovechamiento académico. 💙",

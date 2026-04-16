@@ -23,9 +23,9 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1ZE1WIMmq4m29rFpHWLkmS1qrdDtijD9Z/view?usp=drive_link",
-      "character_1_id": "F2_ABUELO",
-      "character_2_id": "F2_HIJO_15",
+      "image_asset": "images/comic/relation/routines_teen_1.svg",
+      "character_1_id": "f2_abuelo",
+      "character_2_id": "f2_hijo_15",
       "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta sobre cómo crear rutinas con tu adolescente durante su tiempo juntos y conectados.",
       "_translations": {
@@ -38,21 +38,21 @@
           "eng": "Aquí tienes una historieta sobre cómo crear rutinas con tu adolescente durante su tiempo juntos y conectados."
         },
         "character_1_text": {
-          "eng": "{F2_HIJO_15}, me gustó mucho pasar tiempo contigo ayer. ¡No sabía que eras tan bueno en el fútbol!"
+          "eng": "@data.characters.f2_hijo_15.name, me gustó mucho pasar tiempo contigo ayer. ¡No sabía que eras tan bueno en el fútbol!"
         },
         "character_2_text": {
-          "eng": "¡Gracias, Abue!"
+          "eng": "¡Gracias, Abuelo!"
         }
       },
-      "character_1_text": "{F2_HIJO_15}, me gustó mucho pasar tiempo contigo ayer. ¡No sabía que eras tan bueno en el fútbol!",
-      "character_2_text": "¡Gracias, Abue!"
+      "character_1_text": "@data.characters.f2_hijo_15.name, me gustó mucho pasar tiempo contigo ayer. ¡No sabía que eras tan bueno en el fútbol!",
+      "character_2_text": "¡Gracias, Abuelo!"
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1SM9sm77P667oEF1f1zAbmAMsEanYh8yb/view?usp=drive_link",
-      "character_1_id": "F2_ABUELO",
-      "character_2_id": "F2_HIJO_15",
+      "image_asset": "images/comic/relation/routines_teen_2.svg",
+      "character_1_id": "f2_abuelo",
+      "character_2_id": "f2_hijo_15",
       "nested": false,
       "character_1_text": "Sería estupendo que pudiéramos pasar tiempo juntos más seguido. ¿Qué tal si intentamos hacerlo todos los días?",
       "_translations": {
@@ -72,10 +72,10 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1BF6LnY5wnhluPur1tWqHRhz7AZcZS0eu/view?usp=drive_link",
-      "character_1_id": "F2_ABUELO",
-      "character_2_id": "F2_HIJO_15",
-      "character_3_id": "F2_ABUELO",
+      "image_asset": "images/comic/relation/routines_teen_3.svg",
+      "character_1_id": "f2_abuelo",
+      "character_2_id": "f2_hijo_15",
+      "character_3_id": "f2_abuelo",
       "nested": false,
       "character_1_text": "Sí, es cierto. Tenemos que escoger algo que realmente podamos hacer diario. ¡Estoy seguro de que podemos hacer un espacio de 15 minutos!",
       "_translations": {
@@ -100,9 +100,9 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1f90p9riBYOu8H5qmbfR8zBS0ngtfBIE7/view?usp=drive_link",
-      "character_1_id": "F2_HIJO_15",
-      "character_2_id": "F2_ABUELO",
+      "image_asset": "images/comic/relation/routines_teen_4.svg",
+      "character_1_id": "f2_hijo_15",
+      "character_2_id": "f2_abuelo",
       "nested": false,
       "character_1_text": "¿Te parece después de cenar?",
       "_translations": {
@@ -122,9 +122,9 @@
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/18Te6vWi7ki4D8WawalQOvThMYnu9o52S/view?usp=drive_link",
-      "character_1_id": "F2_HIJO_15",
-      "character_2_id": "F2_ABUELO",
+      "image_asset": "images/comic/relation/routines_teen_5.svg",
+      "character_1_id": "f2_hijo_15",
+      "character_2_id": "f2_abuelo",
       "nested": false,
       "character_1_text": "De acuerdo, Abue. Eso me gustaría.",
       "_translations": {
@@ -136,10 +136,10 @@
           "eng": "De acuerdo, Abue. Eso me gustaría."
         },
         "character_2_text": {
-          "eng": "Gracias, {F2_HIJO_15}. Me gustó mucho haber pasado este ratito contigo. Significa mucho para mí."
+          "eng": "Gracias, @data.characters.f2_hijo_15.name. Me gustó mucho haber pasado este ratito contigo. Significa mucho para mí."
         }
       },
-      "character_2_text": "Gracias, {F2_HIJO_15}. Me gustó mucho haber pasado este ratito contigo. Significa mucho para mí."
+      "character_2_text": "Gracias, @data.characters.f2_hijo_15.name. Me gustó mucho haber pasado este ratito contigo. Significa mucho para mí."
     },
     {
       "id": "practical_tips_1",
@@ -224,7 +224,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "Haz que el tiempo juntos y conectados con {tu adolescente} se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝",
+      "text_1_facilitator": "**_Actividad para casa_**\n\nHaz que el tiempo juntos y conectados con {tu adolescente} se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -235,7 +235,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Haz que el tiempo juntos y conectados con {tu adolescente} se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝"
+          "eng": "**_Actividad para casa_**\n\nHaz que el tiempo juntos y conectados con {tu adolescente} se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝"
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy?"
@@ -262,7 +262,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - i (1-15).xlsx",
+    "path": "data/PA_modules_i (1-15).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
   },
   "_metadata": {
