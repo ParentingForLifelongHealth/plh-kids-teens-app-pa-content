@@ -6,79 +6,36 @@
     {
       "id": "relax_1",
       "in_library": "yes",
+      "title_eng": "Quick pause",
+      "title": "Pausa rápida",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_1.mp3",
+      "media_asset_m": "audio/relax/relax_1.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
-      "title": "Quick pause",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Quick pause"
-        }
-      },
+      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "category_id": "relax",
       "nested": false,
       "completed": false
     },
     {
-      "id": "check_in_11",
-      "_translatedFields": {
-        "text_1": {
-          "eng": "¡Tomarte un momento para TI hace una gran diferencia para todas y todos!"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "¡Que bien que hoy esté siendo un buen día! ¿Puedes pensar en algo que ha salido bien hoy? Recuerda reconocerte por ello."
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Cada día tiene cosas buenas y malas. Reconócete por todo lo que has hecho hasta ahora: eres increíble."
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Lamento que hoy estés sintiendo emociones difíciles. Buen trabajo por reconocerlas y por intentar ser amable contigo. Estás dando un gran ejemplo a tu familia."
-        },
-        "quiz_1_question": {
-          "eng": "¿Cómo te sientes el día de hoy?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Feliz"
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Bien"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Triste"
-        }
-      },
-      "category_id": "check_in",
+      "id": "intro_1",
+      "category_id": "intro",
       "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "¡Tomarte un momento para TI hace una gran diferencia para todas y todos!",
+      "text_1_facilitator": "Tanto las personas cuidadoras como las niñas, niños o adolescentes tienen un rol que desempeñar en el hogar. 📝\n\nEl rol de {tu adolescente} es aprender, de las personas que le cuidan, qué puede hacer y qué no debe hacer. Puede empezar a hacer actividades en la casa que sean adecuadas para su edad. ⭐\n;\nComo persona cuidadora, tu rol es cuidar de {tu adolescente}, mantenerle a salvo y enseñarle cómo comportarse en el mundo. 🌱\n\n*_Tu papel más importante es ayudarle a {tu adolescente} a sentir tu amor y tu apoyo, ¡pase lo que pase!_* 💙",
       "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
+        "text_1_facilitator": {},
+        "text_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "quiz_1_feedback_2": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {}
       },
-      "quiz_1_feedback_1": "¡Que bien que hoy esté siendo un buen día! ¿Puedes pensar en algo que ha salido bien hoy? Recuerda reconocerte por ello.",
-      "quiz_1_feedback_2": "Cada día tiene cosas buenas y malas. Reconócete por todo lo que has hecho hasta ahora: eres increíble.",
-      "quiz_1_feedback_3": "Lamento que hoy estés sintiendo emociones difíciles. Buen trabajo por reconocerlas y por intentar ser amable contigo. Estás dando un gran ejemplo a tu familia.",
-      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
-      "quiz_1_option_1_text": "Feliz",
-      "quiz_1_option_2_text": "Bien",
-      "quiz_1_option_3_text": "Triste",
-      "completed": false
-    },
-    {
-      "id": "intro_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Tanto las personas cuidadoras como las niñas, niños o adolescentes tienen un rol que desempeñar en el hogar. 📝\n\nEl rol de {tu adolescente} es aprender, de las personas que le cuidan, qué puede hacer y qué no debe hacer. Puede empezar a hacer actividades en la casa que sean adecuadas para su edad. ⭐\n;\nComo persona cuidadora, tu rol es cuidar de {tu adolescente}, mantenerle a salvo y enseñarle cómo comportarse en el mundo. 🌱\n\n*_Tu papel más importante es ayudarle a {tu adolescente} a sentir tu amor y tu apoyo, ¡pase lo que pase!_* 💙"
@@ -117,29 +74,12 @@
           "eng": "🎉 ¡Buen trabajo!\n\n{tu adolescente} va a experimentar muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi {tu adolescente} está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu adolescente a darse cuenta de sus emociones de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo."
         }
       },
-      "category_id": "intro",
-      "nested": false,
-      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n💛 *_Admitir nuestros errores y disculparnos les enseña a respetar a los demás y que a veces está bien equivocarse._*\n\n❗Ignorar un error cuando afecta a tu adolescente le enseña que no necesita responsabilizarse de sus actos.",
-      "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {},
-        "text_2": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {}
-      },
-      "quiz_1_feedback_2": "🎉 ¡Correcto!\n\n💛 *_Admitir nuestros errores y disculparnos les enseña a respetar a los demás y que a veces está bien equivocarse._*\n\n❗Ignorar un error cuando afecta a tu adolescente le enseña que no necesita responsabilizarse de sus actos.",
+      "text_2": "Si {tu adolescente} siente amor y apoyo en casa, ¡es más probable que haga las actividades del hogar con alegría y que, eventualmente, se convierta en una persona adulta sana! 😃💚",
       "quiz_1_question": "Hagamos un ejercicio:\n\nResponde: ¿Verdadero o falso?\n\nSi cometo un error o hago algo que moleste a mi adolescente, debo fingir que no ha pasado nada, sonreírle y hacer una actividad positiva con ella o él.",
       "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n💛 *_Admitir nuestros errores y disculparnos les enseña a respetar a los demás y que a veces está bien equivocarse._*\n\n❗Ignorar un error cuando afecta a tu adolescente le enseña que no necesita responsabilizarse de sus actos.",
       "quiz_1_option_2_text": "Falso",
-      "text_1_facilitator": "Tanto las personas cuidadoras como las niñas, niños o adolescentes tienen un rol que desempeñar en el hogar. 📝\n\nEl rol de {tu adolescente} es aprender, de las personas que le cuidan, qué puede hacer y qué no debe hacer. Puede empezar a hacer actividades en la casa que sean adecuadas para su edad. ⭐\n;\nComo persona cuidadora, tu rol es cuidar de {tu adolescente}, mantenerle a salvo y enseñarle cómo comportarse en el mundo. 🌱\n\n*_Tu papel más importante es ayudarle a {tu adolescente} a sentir tu amor y tu apoyo, ¡pase lo que pase!_* 💙",
-      "text_2": "Si {tu adolescente} siente amor y apoyo en casa, ¡es más probable que haga las actividades del hogar con alegría y que, eventualmente, se convierta en una persona adulta sana! 😃💚",
+      "quiz_1_feedback_2": "🎉 ¡Correcto!\n\n💛 *_Admitir nuestros errores y disculparnos les enseña a respetar a los demás y que a veces está bien equivocarse._*\n\n❗Ignorar un error cuando afecta a tu adolescente le enseña que no necesita responsabilizarse de sus actos.",
       "quiz_2_question": "Una más. Responde ¿Verdadero o Falso?\n\nNo está bien que {tu adolescente} se enoje contigo.",
       "quiz_2_option_1_text": "Verdadero",
       "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n{tu adolescente} va a experimentar muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi {tu adolescente} está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu adolescente a darse cuenta de sus emociones de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo.",
@@ -150,25 +90,36 @@
     {
       "id": "practical_tips_1",
       "media_type": "video",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "\"Da Clic en Reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como persona cuidadora de tu adolescente y a enseñarle también el suyo:\n\n1️⃣ **CONOCER TU ROL**\n2️⃣ **ENSEÑAR**\n3️⃣ **ENSEÑAR CON EL EJEMPLO**\n4️⃣ **NOTAR**\""
-        }
-      },
       "category_id": "practical_tips",
       "nested": false,
       "text_1_facilitator": "\"Da Clic en Reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como persona cuidadora de tu adolescente y a enseñarle también el suyo:\n\n1️⃣ **CONOCER TU ROL**\n2️⃣ **ENSEÑAR**\n3️⃣ **ENSEÑAR CON EL EJEMPLO**\n4️⃣ **NOTAR**\"",
       "_translations": {
         "text_1_facilitator": {}
       },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "\"Da Clic en Reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como persona cuidadora de tu adolescente y a enseñarle también el suyo:\n\n1️⃣ **CONOCER TU ROL**\n2️⃣ **ENSEÑAR**\n3️⃣ **ENSEÑAR CON EL EJEMPLO**\n4️⃣ **NOTAR**\""
+        }
+      },
       "youtube_gb_en": "youtube link",
       "completed": false
     },
     {
       "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nHabla con {tu adolescente} sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es una persona valiosa en el hogar.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nHabla con {tu adolescente} sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es una persona valiosa en el hogar."
+          "eng": "**_Actividad para casa_**⭐ \n\nHabla con {tu adolescente} sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es una persona valiosa en el hogar."
         },
         "quiz_1_question": {
           "eng": "💛 ¿Tienes tiempo para hacerlo hoy?"
@@ -186,22 +137,11 @@
           "eng": "¡Está bien! Si hoy no tienes tiempo, aparta un espacio para mañana. Hablar con {tu adolescente} sobre algo que le gusta le puede hacer sentir tu apoyo y cariño, ¡lo que puede impactar en un mejor comportamiento de su parte!"
         }
       },
-      "category_id": "practise",
-      "nested": false,
-      "quiz_1_feedback_1": "¡Estupendo! 💙 Esto ayudará a {tu adolescente} a sentir tu apoyo y cariño, ¡lo que puede impactar en un mejor comportamiento de su parte.",
-      "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
-      },
-      "quiz_1_feedback_2": "¡Está bien! Si hoy no tienes tiempo, aparta un espacio para mañana. Hablar con {tu adolescente} sobre algo que le gusta le puede hacer sentir tu apoyo y cariño, ¡lo que puede impactar en un mejor comportamiento de su parte!",
       "quiz_1_question": "💛 ¿Tienes tiempo para hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "¡Estupendo! 💙 Esto ayudará a {tu adolescente} a sentir tu apoyo y cariño, ¡lo que puede impactar en un mejor comportamiento de su parte.",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nHabla con {tu adolescente} sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es una persona valiosa en el hogar.",
+      "quiz_1_feedback_2": "¡Está bien! Si hoy no tienes tiempo, aparta un espacio para mañana. Hablar con {tu adolescente} sobre algo que le gusta le puede hacer sentir tu apoyo y cariño, ¡lo que puede impactar en un mejor comportamiento de su parte!",
       "completed": false
     }
   ],

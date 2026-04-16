@@ -78,9 +78,9 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "images/character_icons/ipv_equals_1",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_MADRE",
+      "image_asset": "images/comic/ipv/ipv_equals_1.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_madre",
       "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta que muestra cómo las parejas o familiares pueden compartir sus opiniones de manera equitativa y tomar decisiones como equipo.",
       "_translations": {
@@ -93,21 +93,21 @@
           "eng": "Aquí tienes una historieta que muestra cómo las parejas o familiares pueden compartir sus opiniones de manera equitativa y tomar decisiones como equipo."
         },
         "character_1_text": {
-          "eng": "{F1_MADRE}, te ves preocupada. ¿Qué pasa?"
+          "eng": "@data.characters.f1_madre.name, te ves preocupada. ¿Qué pasa?"
         },
         "character_2_text": {
           "eng": "Acabo de ver en la cocina y no tendremos qué comer el fin de semana, estoy preocupada. ¿qué haremos?"
         }
       },
-      "character_1_text": "{F1_MADRE}, te ves preocupada. ¿Qué pasa?",
+      "character_1_text": "@data.characters.f1_madre.name, te ves preocupada. ¿Qué pasa?",
       "character_2_text": "Acabo de ver en la cocina y no tendremos qué comer el fin de semana, estoy preocupada. ¿qué haremos?"
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/character_icons/ipv_equals_2",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_MADRE",
+      "image_asset": "images/comic/ipv/ipv_equals_2.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_madre",
       "nested": false,
       "character_1_text": "Oh no, creo que puedo vender unas cosas en el mercado y así tendremos dinero para comprar comida.",
       "_translations": {
@@ -127,9 +127,9 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/character_icons/ipv_equals_3",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_MADRE",
+      "image_asset": "images/comic/ipv/ipv_equals_3.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_madre",
       "nested": false,
       "character_1_text": "Sí, gracias por siempre ayudarme. Juntos podemos solucionarlo mejor.",
       "_translations": {
@@ -149,9 +149,9 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/character_icons/ipv_equals_4",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_MADRE",
+      "image_asset": "images/comic/ipv/ipv_equals_4.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_madre",
       "nested": false,
       "text_1_facilitator": "(Una hora más tarde…)",
       "_translations": {
@@ -179,13 +179,13 @@
       "media_type": "video",
       "youtube_gb_en": "youtube link",
       "nested": false,
-      "text_1_facilitator": "\"Da clic en reproducir ▶️ para conocer algunas estrategias para tomar decisiones en equipo:\n\n1️⃣ **COMPARTIR LA TOMA DE DECISIONES**\n2️⃣ **INVOLUCRAR A TU PAREJA**\n3️⃣ **ESTAR EN SINCRONÍA HACE LA DIFERENCIA**\n4️⃣ **PRACTICAR AYUDA A MEJORAR**\"",
+      "text_1_facilitator": "\"Da clic en reproducir ▶️ para conocer algunas estrategias para tomar decisiones en equipo:\n\n1️⃣ **COMPARTIR LA TOMA DE DECISIONES**\n2️⃣ **INVOLUCRAR A TU PAREJA**\n3️⃣ **ESTAR EN SINCRONÍA HACE LA DIFERENCIA**\n4️⃣ **PRACTICAR AYUDA A MEJORAR**",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "\"Da clic en reproducir ▶️ para conocer algunas estrategias para tomar decisiones en equipo:\n\n1️⃣ **COMPARTIR LA TOMA DE DECISIONES**\n2️⃣ **INVOLUCRAR A TU PAREJA**\n3️⃣ **ESTAR EN SINCRONÍA HACE LA DIFERENCIA**\n4️⃣ **PRACTICAR AYUDA A MEJORAR**\""
+          "eng": "\"Da clic en reproducir ▶️ para conocer algunas estrategias para tomar decisiones en equipo:\n\n1️⃣ **COMPARTIR LA TOMA DE DECISIONES**\n2️⃣ **INVOLUCRAR A TU PAREJA**\n3️⃣ **ESTAR EN SINCRONÍA HACE LA DIFERENCIA**\n4️⃣ **PRACTICAR AYUDA A MEJORAR**"
         }
       }
     },
@@ -193,7 +193,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nTu actividad para casa consiste en involucrar a tu pareja o familiar en una decisión que deban tomar hoy.  \n\nPor ejemplo, puedes preguntar \"¿Qué te gustaría cenar hoy?\"",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nTu actividad para casa consiste en involucrar a tu pareja o familiar en una decisión que deban tomar hoy.  \n\nPor ejemplo, puedes preguntar \"¿Qué te gustaría cenar hoy?\"",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -204,7 +204,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nTu actividad para casa consiste en involucrar a tu pareja o familiar en una decisión que deban tomar hoy.  \n\nPor ejemplo, puedes preguntar \"¿Qué te gustaría cenar hoy?\""
+          "eng": "**_Actividad para casa_**⭐ \n\nTu actividad para casa consiste en involucrar a tu pareja o familiar en una decisión que deban tomar hoy.  \n\nPor ejemplo, puedes preguntar \"¿Qué te gustaría cenar hoy?\""
         },
         "quiz_1_question": {
           "eng": "¿Crees que pueden hacerlo?  ⏰"
@@ -231,7 +231,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - i (1-15).xlsx",
+    "path": "data/PA_modules_i (1-15).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
   },
   "_metadata": {

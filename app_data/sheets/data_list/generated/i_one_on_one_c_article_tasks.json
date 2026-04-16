@@ -6,26 +6,35 @@
     {
       "id": "relax_1",
       "in_library": "yes",
+      "title_eng": "Quick pause",
+      "title": "Pausa rápida",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_1.mp3",
+      "media_asset_m": "audio/relax/relax_1.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
-      "title": "Quick pause",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Quick pause"
-        }
-      },
+      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "category_id": "relax",
       "nested": false,
       "completed": false
     },
     {
       "id": "check_in_1",
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Toma un momento para conectar contigo.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
       "_translatedFields": {
         "text_1": {
           "eng": "Toma un momento para conectar contigo."
@@ -52,22 +61,6 @@
           "eng": "Triste"
         }
       },
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Toma un momento para conectar contigo.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "quiz_1_feedback_1": "¡Maravilloso! Me da mucho gusto saber que las cosas van bien.",
       "quiz_1_feedback_2": "Habrá días retadores, y está bien. Vas por buen camino.",
       "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles ahora. Es completamente normal tener momentos complicados. Recuerda que no estás sola/o.",
@@ -79,6 +72,8 @@
     },
     {
       "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "La lección de hoy trata sobre cómo pasar tiempo juntos y conectados con {tu niño}😃"
@@ -102,8 +97,6 @@
           "eng": "🎉 ¡Tienes razón!\n\n🧸 No tienes que planear una actividad. ¡Tu niña o niño puede guiarte en el camino! Déjale escoger siempre y cuando sea seguro. Esto aumentará su confianza y hará más probable que disfrute pasar tiempo contigo."
         }
       },
-      "category_id": "intro",
-      "nested": false,
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🧸 No tienes que planear una actividad. ¡Tu niña o niño puede guiarte en el camino! Déjale escoger siempre y cuando sea seguro. Esto aumentará su confianza y hará más probable que disfrute pasar tiempo contigo.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -125,46 +118,46 @@
     },
     {
       "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:"
+          "eng": "@data.characters.f1_hijo_5.name y su mamá, @data.characters.f1_madre.name, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:"
         },
         "character_1_text": {
-          "eng": "Quiero pasar tiempo juntos y conectados,@data.characters.f1_hijo_5.name y su mamá, @data.characters.f1_madre.name, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:"
+          "eng": "Quiero pasar tiempo juntos y conectados, @data.characters.f1_hijo_5.name. ¿Qué te gustaría hacer?"
         },
         "character_2_text": {
           "eng": "¡Quiero jugar a disfrazarnos!"
         }
       },
-      "category_id": "explore",
-      "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "text_1_facilitator": "{F1_HIJO_5} y su mamá, {F1_MADRE}, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
+      "text_1_facilitator": "@data.characters.f1_hijo_5.name y su mamá, @data.characters.f1_madre.name, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
         "character_2_text": {}
       },
-      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_1",
-      "character_1_id": "F1_MADRE",
-      "character_2_id": "F1_HIJO_5",
-      "character_1_text": "Quiero pasar tiempo juntos y conectados,@data.characters.f1_hijo_5.name y su mamá, @data.characters.f1_madre.name, juegan a disfrazarse en su tiempo juntos y conectados. Vamos a ver cómo se divierten:",
+      "image_asset": "images/comic/relation/one_on_one_yc_1.svg",
+      "character_1_id": "f1_madre",
+      "character_2_id": "f1_hijo_5",
+      "character_1_text": "Quiero pasar tiempo juntos y conectados, @data.characters.f1_hijo_5.name. ¿Qué te gustaría hacer?",
       "character_2_text": "¡Quiero jugar a disfrazarnos!",
       "completed": false
     },
     {
       "id": "explore_2",
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "¡Me encanta la idea, {F1_HIJO_5}! Veo que estás sacando la bolsa con triángulos."
-        }
-      },
       "category_id": "explore",
       "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Me encanta la idea, @data.characters.f1_hijo_5.name! Veo que estás sacando la bolsa con triángulos."
+        }
+      },
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_2",
-      "character_1_id": "F1_MADRE",
-      "character_1_text": "¡Me encanta la idea, {F1_HIJO_5}! Veo que estás sacando la bolsa con triángulos.",
+      "image_asset": "images/comic/relation/one_on_one_yc_2.svg",
+      "character_1_id": "f1_madre",
+      "character_1_text": "¡Me encanta la idea, @data.characters.f1_hijo_5.name! Veo que estás sacando la bolsa con triángulos.",
       "_translations": {
         "character_1_text": {}
       },
@@ -172,6 +165,8 @@
     },
     {
       "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Mamá, es para ti."
@@ -183,12 +178,10 @@
           "eng": "¡Póntela, mamá!"
         }
       },
-      "category_id": "explore",
-      "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_3",
-      "character_1_id": "F1_HIJO_5",
-      "character_2_id": "F1_MADRE",
+      "image_asset": "images/comic/relation/one_on_one_yc_3.svg",
+      "character_1_id": "f1_hijo_5",
+      "character_2_id": "f1_madre",
       "character_1_text": "Mamá, es para ti.",
       "_translations": {
         "character_1_text": {},
@@ -196,22 +189,22 @@
         "character_3_text": {}
       },
       "character_2_text": "Gracias, ¡me encanta!",
-      "character_3_id": "F1_HIJO_5",
+      "character_3_id": "f1_hijo_5",
       "character_3_text": "¡Póntela, mamá!",
       "completed": false
     },
     {
       "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "¡Veo que cada vez te esfuerzas más por vestirte sin ayuda!"
         }
       },
-      "category_id": "explore",
-      "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/one_on_one_c_4",
-      "character_1_id": "F1_MADRE",
+      "image_asset": "images/comic/relation/one_on_one_yc_4.svg",
+      "character_1_id": "f1_madre",
       "character_1_text": "¡Veo que cada vez te esfuerzas más por vestirte sin ayuda!",
       "_translations": {
         "character_1_text": {}
@@ -221,13 +214,13 @@
     {
       "id": "practical_tips_1",
       "media_type": "video",
+      "category_id": "Review",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Da clic en reproducir ▶️ para aprender las 3️⃣ estrategias de crianza para pasar \"Tiempo juntos y conectados\" con {tu niño}\n\n1️⃣ PRACTICAR – Intenta hacerlo todos los días\n2️⃣ JUGAR – Deja que escoja la actividad\n3️⃣ PERMANECER – Enfócate en tu niña o niño"
         }
       },
-      "category_id": "Review",
-      "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "text_1_facilitator": "Da clic en reproducir ▶️ para aprender las 3️⃣ estrategias de crianza para pasar \"Tiempo juntos y conectados\" con {tu niño}\n\n1️⃣ PRACTICAR – Intenta hacerlo todos los días\n2️⃣ JUGAR – Deja que escoja la actividad\n3️⃣ PERMANECER – Enfócate en tu niña o niño",
       "_translations": {
@@ -238,9 +231,11 @@
     },
     {
       "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nIntenta pasar por lo menos 15 minutos de tiempo juntos y conectados todos los días. ¡Hará una gran diferencia!"
+          "eng": "****_Actividad para casa_****⭐ \n\nIntenta pasar por lo menos 15 minutos de tiempo juntos y conectados todos los días. ¡Hará una gran diferencia!"
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy? ⏰"
@@ -258,8 +253,6 @@
           "eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana."
         }
       },
-      "category_id": "practise",
-      "nested": false,
       "quiz_1_feedback_1": "¡Muy bien! Usa las estrategias que aprendiste hoy y ¡diviértete!, ya que es una forma estupenda de establecer una relación positiva. 💙",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -274,7 +267,7 @@
       "quiz_1_option_1_text": "Si",
       "quiz_1_option_2_text": "No",
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nIntenta pasar por lo menos 15 minutos de tiempo juntos y conectados todos los días. ¡Hará una gran diferencia!",
+      "text_1_facilitator": "****_Actividad para casa_****⭐ \n\nIntenta pasar por lo menos 15 minutos de tiempo juntos y conectados todos los días. ¡Hará una gran diferencia!",
       "completed": false
     }
   ],

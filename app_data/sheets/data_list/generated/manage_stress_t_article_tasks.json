@@ -6,79 +6,41 @@
     {
       "id": "relax_1",
       "in_library": "yes",
+      "title_eng": "Quick pause",
+      "title": "Pausa rápida",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_1.mp3",
+      "media_asset_m": "audio/relax/relax_1.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
-      "title": "Quick pause",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Quick pause"
-        }
-      },
+      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "category_id": "relax",
       "nested": false,
       "completed": false
     },
     {
-      "id": "check_in_4",
-      "_translatedFields": {
-        "text_1": {
-          "eng": "Cuida de ti reconociendo cómo te sientes. Te lo mereces."
-        },
-        "quiz_1_feedback_1": {
-          "eng": "¡Que bien! Me da mucha alegría. Sigue así, lo estás haciendo muy bien."
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Siento mucho que las cosas estén siendo difíciles. Todas las familias pasan por momentos complicados. @global.app_name está aquí para acompañarte."
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Lo que haya salido “mal” hoy, suéltalo y vuelve a intentarlo mañana. Está bien."
-        },
-        "quiz_1_question": {
-          "eng": "¿Cómo te sientes el día de hoy?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Feliz"
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Bien"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Triste"
-        }
-      },
-      "category_id": "check_in",
+      "id": "intro_1",
+      "category_id": "intro",
       "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Cuida de ti reconociendo cómo te sientes. Te lo mereces.",
+      "text_1_facilitator": "Esta lección trata sobre aprender a regular el estrés. Como se trata de una habilidad tan importante para la vida, esta lección se dividirá en dos partes.\n\nEl estrés es cuando sientes preocupación o tensión porque las cosas pueden llegar a ser difíciles.",
       "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
+        "text_1_facilitator": {},
+        "text_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "quiz_1_feedback_2": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_3_question": {},
+        "quiz_3_option_1_text": {},
+        "quiz_3_feedback_1": {},
+        "quiz_3_option_2_text": {},
+        "quiz_3_feedback_2": {}
       },
-      "quiz_1_feedback_1": "¡Que bien! Me da mucha alegría. Sigue así, lo estás haciendo muy bien.",
-      "quiz_1_feedback_2": "Siento mucho que las cosas estén siendo difíciles. Todas las familias pasan por momentos complicados. @global.app_name está aquí para acompañarte.",
-      "quiz_1_feedback_3": "Lo que haya salido “mal” hoy, suéltalo y vuelve a intentarlo mañana. Está bien.",
-      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
-      "quiz_1_option_1_text": "Feliz",
-      "quiz_1_option_2_text": "Bien",
-      "quiz_1_option_3_text": "Triste",
-      "completed": false
-    },
-    {
-      "id": "intro_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Esta lección trata sobre aprender a regular el estrés. Como se trata de una habilidad tan importante para la vida, esta lección se dividirá en dos partes.\n\nEl estrés es cuando sientes preocupación o tensión porque las cosas pueden llegar a ser difíciles."
@@ -132,34 +94,12 @@
           "eng": "🎉 ¡Buen trabajo!\n\nIgnorar el sentirte estresado solo aumenta el malestar como dolores de cabeza, malhumor y otros. Recuerda que el estrés es normal, pero debes prestarle atención para regularlo."
         }
       },
-      "category_id": "intro",
-      "nested": false,
-      "quiz_1_feedback_1": "🎉 ¡Tienes razón!\n\nEl exceso de estrés puede aumentar las agresiones y el malhumor, además de disminuir la paciencia con tu adolescente.\n\nTambién, puede hacer que parezca más difícil hacer las cosas sencillas de la vida cotidiana.  \n\nPero tener conocimiento sobre estas cosas nos ayuda a encontrar mejores formas de regular el estrés.",
-      "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {},
-        "text_2": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {}
-      },
-      "quiz_1_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\nEl exceso de estrés puede aumentar las agresiones y el malhumor, además de disminuir la paciencia con tu adolescente.\n\nTambién, puede hacer que parezca más difícil hacer las cosas sencillas de la vida cotidiana.  \n\nPero tener conocimiento sobre estas cosas nos ayuda a encontrar mejores formas de regular el estrés.",
+      "text_2": "Es normal sentir estrés como madre, padre o persona cuidadora. Pero a veces, el estrés puede llegar a ser demasiado para nuestro cuerpo.\n\nPuede sentirse como que tienes la mente a tope como para hacer cosas y que vas a llorar, a gritar o a estar en un estado tan extremo de cansancio que no podrás funcionar.\n\nAprender a manejar el estrés y pedir ayuda cuando sea necesario te puede ayudar mucho.",
       "quiz_1_question": "📝 Hagamos un ejercicio para ver qué tanto sabes sobre el estrés.\n\nEjercicio 1: ¿Verdadero o falso? \n\nEl exceso de estrés puede tener un impacto negativo en nuestras relaciones con otras personas, incluidas nuestras niñas, niños y adolescentes.",
       "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_feedback_1": "🎉 ¡Tienes razón!\n\nEl exceso de estrés puede aumentar las agresiones y el malhumor, además de disminuir la paciencia con tu adolescente.\n\nTambién, puede hacer que parezca más difícil hacer las cosas sencillas de la vida cotidiana.  \n\nPero tener conocimiento sobre estas cosas nos ayuda a encontrar mejores formas de regular el estrés.",
       "quiz_1_option_2_text": "Falso",
-      "text_1_facilitator": "Esta lección trata sobre aprender a regular el estrés. Como se trata de una habilidad tan importante para la vida, esta lección se dividirá en dos partes.\n\nEl estrés es cuando sientes preocupación o tensión porque las cosas pueden llegar a ser difíciles.",
-      "text_2": "Es normal sentir estrés como madre, padre o persona cuidadora. Pero a veces, el estrés puede llegar a ser demasiado para nuestro cuerpo.\n\nPuede sentirse como que tienes la mente a tope como para hacer cosas y que vas a llorar, a gritar o a estar en un estado tan extremo de cansancio que no podrás funcionar.\n\nAprender a manejar el estrés y pedir ayuda cuando sea necesario te puede ayudar mucho.",
+      "quiz_1_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\nEl exceso de estrés puede aumentar las agresiones y el malhumor, además de disminuir la paciencia con tu adolescente.\n\nTambién, puede hacer que parezca más difícil hacer las cosas sencillas de la vida cotidiana.  \n\nPero tener conocimiento sobre estas cosas nos ayuda a encontrar mejores formas de regular el estrés.",
       "quiz_2_question": "Hagamos uno más. \n\nEjercicio 2: ¿Verdadero o falso?\n\nSi ignoramos nuestro estrés, desaparecerá con el tiempo.",
       "quiz_2_option_1_text": "Verdadero",
       "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🎓 Cuando sientas estrés, tómalo como una señal de tu cuerpo que te indica que necesitas cuidarte.\n\nEs importante que le pongas atención a tus pensamientos y a cómo se siente tu cuerpo para que puedas responder mejor",
@@ -174,12 +114,21 @@
     },
     {
       "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "@data.characters.f2_abuela.name es la única cuidadora de sus cuatro nietos. Tantas cosas que hacer en la casa, envejecer y el hecho de tener poco dinero hacen que se sienta abrumada y sin apoyo. También le resulta difícil estar presente. Veamos cómo le responde a @data.characters.f2_hija_17.name que está triste por una pelea que tuvo con su amiga en la escuela...",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "{F2_ABUELA} es la única cuidadora de sus cuatro nietos. Tantas cosas que hacer en la casa, envejecer y el hecho de tener poco dinero hacen que se sienta abrumada y sin apoyo. También le resulta difícil estar presente. Veamos cómo le responde a {F2_HIJA_17} que está triste por una pelea que tuvo con su amiga en la escuela..."
+          "eng": "@data.characters.f2_abuela.name es la única cuidadora de sus cuatro nietos. Tantas cosas que hacer en la casa, envejecer y el hecho de tener poco dinero hacen que se sienta abrumada y sin apoyo. También le resulta difícil estar presente. Veamos cómo le responde a @data.characters.f2_hija_17.name que está triste por una pelea que tuvo con su amiga en la escuela..."
         },
         "character_1_text": {
-          "eng": "¿Qué pasa, {F2_HIJA_17}? ¿Estás bien?"
+          "eng": "¿Qué pasa, @data.characters.f2_hija_17.name? ¿Estás bien?"
         },
         "character_2_text": {
           "eng": "Hoy me peleé con María en la escuela. Fue una estupidez, pero le dije algunas cosas que desearía no haberle dicho."
@@ -188,35 +137,26 @@
           "eng": "(Frustrada, pensando) ¡Ash! ¡Estoy muy cansada e irritada! Hay demasiadas cosas que hacer hoy. Pagos, la limpieza de la casa, ¡y ahora esto!"
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "{F2_ABUELA} es la única cuidadora de sus cuatro nietos. Tantas cosas que hacer en la casa, envejecer y el hecho de tener poco dinero hacen que se sienta abrumada y sin apoyo. También le resulta difícil estar presente. Veamos cómo le responde a {F2_HIJA_17} que está triste por una pelea que tuvo con su amiga en la escuela...",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
-      },
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/manage_stress_teen_1",
-      "character_1_id": "F2_ABUELA",
-      "character_2_id": "F2_HIJA_17",
-      "character_3_id": "F2_ABUELA",
-      "character_1_text": "¿Qué pasa, {F2_HIJA_17}? ¿Estás bien?",
+      "image_asset": "images/comic/understand/manage_stress_teen_1.svg",
+      "character_1_id": "f2_abuela",
+      "character_2_id": "f2_hija_17",
+      "character_3_id": "f2_abuela",
+      "character_1_text": "¿Qué pasa, @data.characters.f2_hija_17.name? ¿Estás bien?",
       "character_2_text": "Hoy me peleé con María en la escuela. Fue una estupidez, pero le dije algunas cosas que desearía no haberle dicho.",
       "character_3_text": "(Frustrada, pensando) ¡Ash! ¡Estoy muy cansada e irritada! Hay demasiadas cosas que hacer hoy. Pagos, la limpieza de la casa, ¡y ahora esto!",
       "completed": false
     },
     {
       "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "(Respira profundamente y piensa): Voy a tomar una pausa. Estoy haciendo lo mejor que puedo. Mi nieta necesita de mi ayuda. Puedo hacerlo."
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/manage_stress_teen_2",
-      "character_1_id": "F2_ABUELA",
+      "image_asset": "images/comic/understand/manage_stress_teen_2.svg",
+      "character_1_id": "f2_abuela",
       "character_1_text": "(Respira profundamente y piensa): Voy a tomar una pausa. Estoy haciendo lo mejor que puedo. Mi nieta necesita de mi ayuda. Puedo hacerlo.",
       "_translations": {
         "character_1_text": {}
@@ -225,20 +165,20 @@
     },
     {
       "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Lamento escuchar esto, {F2_HIJA_17}. María es una buena amiga. Estoy segura de que no quisiste decirle nada de lo que le dijiste. Todos nos desesperamos y decimos cosas que no queremos a veces. ¿Quieres hablar sobre eso?"
+          "eng": "Lamento escuchar esto, @data.characters.f2_hija_17.name. María es una buena amiga. Estoy segura de que no quisiste decirle nada de lo que le dijiste. Todos nos desesperamos y decimos cosas que no queremos a veces. ¿Quieres hablar sobre eso?"
         },
         "character_2_text": {
           "eng": "Gracias, abuela. Es que es algo que me pone muy triste."
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/manage_stress_teen_3",
-      "character_1_id": "F2_ABUELA",
-      "character_2_id": "F2_HIJA_17",
-      "character_1_text": "Lamento escuchar esto, {F2_HIJA_17}. María es una buena amiga. Estoy segura de que no quisiste decirle nada de lo que le dijiste. Todos nos desesperamos y decimos cosas que no queremos a veces. ¿Quieres hablar sobre eso?",
+      "image_asset": "images/comic/understand/manage_stress_teen_3.svg",
+      "character_1_id": "f2_abuela",
+      "character_2_id": "f2_hija_17",
+      "character_1_text": "Lamento escuchar esto, @data.characters.f2_hija_17.name. María es una buena amiga. Estoy segura de que no quisiste decirle nada de lo que le dijiste. Todos nos desesperamos y decimos cosas que no queremos a veces. ¿Quieres hablar sobre eso?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
@@ -248,20 +188,20 @@
     },
     {
       "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
-          "eng": "{F2_HIJA_17}, ¿qué te parece si platicamos un ratito con una limonada fría? Podemos disfrutarla un rato y luego conversar de cómo podemos resolver este problema juntas."
+          "eng": "@data.characters.f2_hija_17.name, ¿qué te parece si platicamos un ratito con una limonada fría? Podemos disfrutarla un rato y luego conversar de cómo podemos resolver este problema juntas."
         },
         "character_2_text": {
           "eng": "Claro, abuela. Me gusta esa idea."
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/manage_stress_teen_4",
-      "character_1_id": "F2_ABUELA",
-      "character_2_id": "F2_HIJA_17",
-      "character_1_text": "{F2_HIJA_17}, ¿qué te parece si platicamos un ratito con una limonada fría? Podemos disfrutarla un rato y luego conversar de cómo podemos resolver este problema juntas.",
+      "image_asset": "images/comic/understand/manage_stress_teen_4.svg",
+      "character_1_id": "f2_abuela",
+      "character_2_id": "f2_hija_17",
+      "character_1_text": "@data.characters.f2_hija_17.name, ¿qué te parece si platicamos un ratito con una limonada fría? Podemos disfrutarla un rato y luego conversar de cómo podemos resolver este problema juntas.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
@@ -272,25 +212,36 @@
     {
       "id": "practical_tips_1",
       "media_type": "video",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Da Clic aquí ▶️ para aprender 4️⃣ estrategias que puedes usar para regular el estrés:\n1️⃣ **IDENTIFICAR**\n2️⃣ **SER AMABLE**\n3️⃣ **TENER HÁBITOS SALUDABLES**\n4️⃣ **RECARGAR PILAS**"
-        }
-      },
       "category_id": "practical_tips",
       "nested": false,
       "text_1_facilitator": "Da Clic aquí ▶️ para aprender 4️⃣ estrategias que puedes usar para regular el estrés:\n1️⃣ **IDENTIFICAR**\n2️⃣ **SER AMABLE**\n3️⃣ **TENER HÁBITOS SALUDABLES**\n4️⃣ **RECARGAR PILAS**",
       "_translations": {
         "text_1_facilitator": {}
       },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic aquí ▶️ para aprender 4️⃣ estrategias que puedes usar para regular el estrés:\n1️⃣ **IDENTIFICAR**\n2️⃣ **SER AMABLE**\n3️⃣ **TENER HÁBITOS SALUDABLES**\n4️⃣ **RECARGAR PILAS**"
+        }
+      },
       "youtube_gb_en": "youtube link",
       "completed": false
     },
     {
       "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nComparte estas estrategias con tu adolescente y comenten cómo puede usarlas para ayudarle a manejar su estrés.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nComparte estas estrategias con tu adolescente y comenten cómo puede usarlas para ayudarle a manejar su estrés."
+          "eng": "**_Actividad para casa_**⭐ \n\nComparte estas estrategias con tu adolescente y comenten cómo puede usarlas para ayudarle a manejar su estrés."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
@@ -308,22 +259,11 @@
           "eng": "💚 ¡No pasa nada si hoy no tienes tiempo! Puedes compartir estas estrategias con tu adolescente mañana. Recuerda \"Tomar una pausa\" y seguir estas estrategias si te encuentras en una situación que te genere estrés."
         }
       },
-      "category_id": "practise",
-      "nested": false,
-      "quiz_1_feedback_1": "¡Excelente! 💙 Estás desarrollando las habilidades necesarias para volverte a llenar de energía y apoyar a tu adolescente, especialmente cuando las cosas se ponen difíciles.. \n\n¡Lo estás haciendo muy bien! 😃🔄",
-      "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
-      },
-      "quiz_1_feedback_2": "💚 ¡No pasa nada si hoy no tienes tiempo! Puedes compartir estas estrategias con tu adolescente mañana. Recuerda \"Tomar una pausa\" y seguir estas estrategias si te encuentras en una situación que te genere estrés.",
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "¡Excelente! 💙 Estás desarrollando las habilidades necesarias para volverte a llenar de energía y apoyar a tu adolescente, especialmente cuando las cosas se ponen difíciles.. \n\n¡Lo estás haciendo muy bien! 😃🔄",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nComparte estas estrategias con tu adolescente y comenten cómo puede usarlas para ayudarle a manejar su estrés.",
+      "quiz_1_feedback_2": "💚 ¡No pasa nada si hoy no tienes tiempo! Puedes compartir estas estrategias con tu adolescente mañana. Recuerda \"Tomar una pausa\" y seguir estas estrategias si te encuentras en una situación que te genere estrés.",
       "completed": false
     }
   ],

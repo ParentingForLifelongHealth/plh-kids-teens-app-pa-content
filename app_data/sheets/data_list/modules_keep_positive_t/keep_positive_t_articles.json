@@ -28,33 +28,33 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_1.svg",
+      "image_asset": "images/comic/behave/keeping_it_positive_teen_1.svg",
       "nested": false,
-      "text_1_facilitator": "{F3_MADRE} está limpiando la casa mientras {F3_HIJA_12} baila con sus amigas.",
+      "text_1_facilitator": "@data.characters.f3_madre.name está limpiando la casa mientras @data.characters.f3_hija_12.name baila con sus amigas.",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "{F3_MADRE} está limpiando la casa mientras {F3_HIJA_12} baila con sus amigas."
+          "eng": "@data.characters.f3_madre.name está limpiando la casa mientras @data.characters.f3_hija_12.name baila con sus amigas."
         }
       }
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_2.svg",
-      "character_1_id": "F3_MADRE",
-      "character_2_id": "F3_HIJA_12",
+      "image_asset": "images/comic/behave/keeping_it_positive_teen_2.svg",
+      "character_1_id": "f3_madre",
+      "character_2_id": "f3_hija_12",
       "nested": false,
-      "character_1_text": "{F3_HIJA_12}, me da gusto verte ensayando el baile con tus amigas. Sigan haciéndolo pero afuera, por favor, para que pueda terminar de limpiar la casa. Ya que termine, me pueden enseñar su baile.",
+      "character_1_text": "@data.characters.f3_hija_12.name, me da gusto verte ensayando el baile con tus amigas. Sigan haciéndolo pero afuera, por favor, para que pueda terminar de limpiar la casa. Ya que termine, me pueden enseñar su baile.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "{F3_HIJA_12}, me da gusto verte ensayando el baile con tus amigas. Sigan haciéndolo pero afuera, por favor, para que pueda terminar de limpiar la casa. Ya que termine, me pueden enseñar su baile."
+          "eng": "@data.characters.f3_hija_12.name, me da gusto verte ensayando el baile con tus amigas. Sigan haciéndolo pero afuera, por favor, para que pueda terminar de limpiar la casa. Ya que termine, me pueden enseñar su baile."
         },
         "character_2_text": {
           "eng": "¡Está bien, ma!"
@@ -65,47 +65,47 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_3.svg",
+      "image_asset": "images/comic/behave/keeping_it_positive_teen_3.svg",
       "nested": false,
-      "text_1_facilitator": "{F3_HIJA_12} y sus amigas se salen a ensayar su baile mientras {F3_MADRE} limpia adentro. Después de un rato, {F3_MADRE} también se sale.",
+      "text_2": "@data.characters.f3_hija_12.name y sus amigas se salen a ensayar su baile mientras @data.characters.f3_madre.name limpia adentro. Después de un rato, @data.characters.f3_madre.name también se sale.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_2": {}
       },
       "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "{F3_HIJA_12} y sus amigas se salen a ensayar su baile mientras {F3_MADRE} limpia adentro. Después de un rato, {F3_MADRE} también se sale."
+        "text_2": {
+          "eng": "@data.characters.f3_hija_12.name y sus amigas se salen a ensayar su baile mientras @data.characters.f3_madre.name limpia adentro. Después de un rato, @data.characters.f3_madre.name también se sale."
         }
       }
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_4.svg",
-      "character_1_id": "F3_MADRE",
+      "image_asset": "images/comic/behave/keeping_it_positive_teen_4.svg",
+      "character_1_id": "f3_madre",
       "nested": false,
-      "character_1_text": "Gracias por ensayar afuera mientras yo terminaba de limpiar la casa, {F3_HIJA_12}. Ahora, me gustaría ver su baile.",
+      "character_1_text": "Gracias por ensayar afuera mientras yo terminaba de limpiar la casa, @data.characters.f3_hija_12.name. Ahora, me gustaría ver su baile.",
       "_translations": {
         "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Gracias por ensayar afuera mientras yo terminaba de limpiar la casa, {F3_HIJA_12}. Ahora, me gustaría ver su baile."
+          "eng": "Gracias por ensayar afuera mientras yo terminaba de limpiar la casa, @data.characters.f3_hija_12.name. Ahora, me gustaría ver su baile."
         }
       }
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/keeping_it_possitive_5.svg",
-      "character_1_id": "F3_MADRE",
+      "image_asset": "images/comic/behave/keeping_it_positive_teen_5.svg",
+      "character_1_id": "f3_madre",
       "nested": false,
-      "character_1_text": "¡Guau, {F3_HIJA_12}! ¡Qué bien bailas!",
+      "character_1_text": "¡Guau, @data.characters.f3_hija_12.name! ¡Qué bien bailas!",
       "_translations": {
         "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "¡Guau, {F3_HIJA_12}! ¡Qué bien bailas!"
+          "eng": "¡Guau, @data.characters.f3_hija_12.name! ¡Qué bien bailas!"
         }
       }
     },
@@ -129,7 +129,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a tu adolescente.",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a tu adolescente.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -140,7 +140,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a tu adolescente."
+          "eng": "**_Actividad para casa_**⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a tu adolescente."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
@@ -167,7 +167,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - problem (31 - 45).xlsx",
+    "path": "data/PA modules - behave (31 - 43).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1q27LnkUFTJQqEbqkgh1hgN4sDQkfasSo29b5SAP4ktg"
   },
   "_metadata": {

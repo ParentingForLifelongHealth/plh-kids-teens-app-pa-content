@@ -6,26 +6,35 @@
     {
       "id": "relax_1",
       "in_library": "yes",
+      "title_eng": "Quick pause",
+      "title": "Pausa rápida",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_1.mp3",
+      "media_asset_m": "audio/relax/relax_1.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
-      "title": "Quick pause",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Quick pause"
-        }
-      },
+      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "category_id": "relax",
       "nested": false,
       "completed": false
     },
     {
       "id": "check_in_5",
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Cuidarte es importante. ¡Y cómo te sientes, también lo es!",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
       "_translatedFields": {
         "text_1": {
           "eng": "Cuidarte es importante. ¡Y cómo te sientes, también lo es!"
@@ -52,22 +61,6 @@
           "eng": "Triste"
         }
       },
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Cuidarte es importante. ¡Y cómo te sientes, también lo es!",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "quiz_1_feedback_1": "¡Genial! Es bueno saber que hoy te sientes bien.",
       "quiz_1_feedback_2": "A veces las cosas van muy bien, a veces no tanto, y otras veces, simplemente no sabemos qué pensar… y eso está bien. Recuerda que no estás sola/o.",
       "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles en este momento. Mereces cosas buenas, y @global.app_name está aquí para acompañarte en cada paso.",
@@ -79,13 +72,13 @@
     },
     {
       "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Para seguir construyendo una relación positiva con {tu adolescente}, debemos incorporar el tiempo juntos y conectados en nuestro día a día. \n\nCrear rutinas diarias con {tu adolescente} también le ayudará a tener más seguridad y a cooperar contigo. 🔑 \n\nAyúdale a organizar sus tiempos para que pueda descansar, comer, ayudar en la casa, cumplir con la escuela y dormir. ⏰"
         }
       },
-      "category_id": "intro",
-      "nested": false,
       "text_1_facilitator": "Para seguir construyendo una relación positiva con {tu adolescente}, debemos incorporar el tiempo juntos y conectados en nuestro día a día. \n\nCrear rutinas diarias con {tu adolescente} también le ayudará a tener más seguridad y a cooperar contigo. 🔑 \n\nAyúdale a organizar sus tiempos para que pueda descansar, comer, ayudar en la casa, cumplir con la escuela y dormir. ⏰",
       "_translations": {
         "text_1_facilitator": {}
@@ -94,34 +87,36 @@
     },
     {
       "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Aquí tienes una historieta sobre cómo crear rutinas con tu adolescente durante su tiempo juntos y conectados."
         },
         "character_1_text": {
-          "eng": "{F2_HIJO_15}, me gustó mucho pasar tiempo contigo ayer. ¡No sabía que eras tan bueno en el fútbol!"
+          "eng": "@data.characters.f2_hijo_15.name, me gustó mucho pasar tiempo contigo ayer. ¡No sabía que eras tan bueno en el fútbol!"
         },
         "character_2_text": {
-          "eng": "¡Gracias, Abue!"
+          "eng": "¡Gracias, Abuelo!"
         }
       },
-      "category_id": "explore",
-      "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta sobre cómo crear rutinas con tu adolescente durante su tiempo juntos y conectados.",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
         "character_2_text": {}
       },
-      "image_asset": "https://drive.google.com/file/d/1ZE1WIMmq4m29rFpHWLkmS1qrdDtijD9Z/view?usp=drive_link",
-      "character_1_id": "F2_ABUELO",
-      "character_2_id": "F2_HIJO_15",
-      "character_1_text": "{F2_HIJO_15}, me gustó mucho pasar tiempo contigo ayer. ¡No sabía que eras tan bueno en el fútbol!",
-      "character_2_text": "¡Gracias, Abue!",
+      "image_asset": "images/comic/relation/routines_teen_1.svg",
+      "character_1_id": "f2_abuelo",
+      "character_2_id": "f2_hijo_15",
+      "character_1_text": "@data.characters.f2_hijo_15.name, me gustó mucho pasar tiempo contigo ayer. ¡No sabía que eras tan bueno en el fútbol!",
+      "character_2_text": "¡Gracias, Abuelo!",
       "completed": false
     },
     {
       "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Sería estupendo que pudiéramos pasar tiempo juntos más seguido. ¿Qué tal si intentamos hacerlo todos los días?"
@@ -130,11 +125,9 @@
           "eng": "Supongo que sí… Aunque a veces estoy ocupado."
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "https://drive.google.com/file/d/1SM9sm77P667oEF1f1zAbmAMsEanYh8yb/view?usp=drive_link",
-      "character_1_id": "F2_ABUELO",
-      "character_2_id": "F2_HIJO_15",
+      "image_asset": "images/comic/relation/routines_teen_2.svg",
+      "character_1_id": "f2_abuelo",
+      "character_2_id": "f2_hijo_15",
       "character_1_text": "Sería estupendo que pudiéramos pasar tiempo juntos más seguido. ¿Qué tal si intentamos hacerlo todos los días?",
       "_translations": {
         "character_1_text": {},
@@ -145,6 +138,8 @@
     },
     {
       "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Sí, es cierto. Tenemos que escoger algo que realmente podamos hacer diario. ¡Estoy seguro de que podemos hacer un espacio de 15 minutos!"
@@ -156,11 +151,9 @@
           "eng": "¿Qué hora es mejor para ti?"
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "https://drive.google.com/file/d/1BF6LnY5wnhluPur1tWqHRhz7AZcZS0eu/view?usp=drive_link",
-      "character_1_id": "F2_ABUELO",
-      "character_2_id": "F2_HIJO_15",
+      "image_asset": "images/comic/relation/routines_teen_3.svg",
+      "character_1_id": "f2_abuelo",
+      "character_2_id": "f2_hijo_15",
       "character_1_text": "Sí, es cierto. Tenemos que escoger algo que realmente podamos hacer diario. ¡Estoy seguro de que podemos hacer un espacio de 15 minutos!",
       "_translations": {
         "character_1_text": {},
@@ -168,12 +161,14 @@
         "character_3_text": {}
       },
       "character_2_text": "Claro que lo podemos intentar.",
-      "character_3_id": "F2_ABUELO",
+      "character_3_id": "f2_abuelo",
       "character_3_text": "¿Qué hora es mejor para ti?",
       "completed": false
     },
     {
       "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "¿Te parece después de cenar?"
@@ -182,11 +177,9 @@
           "eng": "Eso podría funcionar siempre y cuando limpiemos primero. Empecemos hoy. Recuerda que, ¡tú puedes escoger lo que quieras que hagamos!"
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "https://drive.google.com/file/d/1f90p9riBYOu8H5qmbfR8zBS0ngtfBIE7/view?usp=drive_link",
-      "character_1_id": "F2_HIJO_15",
-      "character_2_id": "F2_ABUELO",
+      "image_asset": "images/comic/relation/routines_teen_4.svg",
+      "character_1_id": "f2_hijo_15",
+      "character_2_id": "f2_abuelo",
       "character_1_text": "¿Te parece después de cenar?",
       "_translations": {
         "character_1_text": {},
@@ -197,37 +190,37 @@
     },
     {
       "id": "explore_5",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "De acuerdo, Abue. Eso me gustaría."
         },
         "character_2_text": {
-          "eng": "Gracias, {F2_HIJO_15}. Me gustó mucho haber pasado este ratito contigo. Significa mucho para mí."
+          "eng": "Gracias, @data.characters.f2_hijo_15.name. Me gustó mucho haber pasado este ratito contigo. Significa mucho para mí."
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "https://drive.google.com/file/d/18Te6vWi7ki4D8WawalQOvThMYnu9o52S/view?usp=drive_link",
-      "character_1_id": "F2_HIJO_15",
-      "character_2_id": "F2_ABUELO",
+      "image_asset": "images/comic/relation/routines_teen_5.svg",
+      "character_1_id": "f2_hijo_15",
+      "character_2_id": "f2_abuelo",
       "character_1_text": "De acuerdo, Abue. Eso me gustaría.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
-      "character_2_text": "Gracias, {F2_HIJO_15}. Me gustó mucho haber pasado este ratito contigo. Significa mucho para mí.",
+      "character_2_text": "Gracias, @data.characters.f2_hijo_15.name. Me gustó mucho haber pasado este ratito contigo. Significa mucho para mí.",
       "completed": false
     },
     {
       "id": "practical_tips_1",
       "media_type": "video",
+      "category_id": "practical_tips",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Aquí tienes un video que te ayudará a crear rutinas diarias con {tu adolescente} por medio de 3️⃣ estrategias:\n1️⃣ SER UN EQUIPO\n2️⃣ SER CONSTANTES\n3️⃣ ELOGIAR, ELOGIAR, ELOGIAR"
         }
       },
-      "category_id": "practical_tips",
-      "nested": false,
       "text_1_facilitator": "Aquí tienes un video que te ayudará a crear rutinas diarias con {tu adolescente} por medio de 3️⃣ estrategias:\n1️⃣ SER UN EQUIPO\n2️⃣ SER CONSTANTES\n3️⃣ ELOGIAR, ELOGIAR, ELOGIAR",
       "_translations": {
         "text_1_facilitator": {}
@@ -237,6 +230,8 @@
     },
     {
       "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Aquí tienes algunas estrategias que te ayudarán a crear rutinas con {tu adolescente}."
@@ -269,8 +264,6 @@
           "eng": "💡 Enfoca tu atención en lo que tu adolescente esté haciendo adecuadamente. \n\n🙂 Acompaña tu elogio con una gran sonrisa, palabras amables o un abrazo. Esto le demuestra a tu adolescente tu amor y aprecio por lo que hace. \n\n☀️ Presta atención a lo que tu niña, niño o adolescente hace bien, le hará saber que te fijas en lo que hace y que te importa."
         }
       },
-      "category_id": "practical_tips",
-      "nested": false,
       "text_1_facilitator": "Aquí tienes algunas estrategias que te ayudarán a crear rutinas con {tu adolescente}.",
       "_translations": {
         "text_1_facilitator": {},
@@ -301,9 +294,11 @@
     },
     {
       "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Haz que el tiempo juntos y conectados con {tu adolescente} se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝"
+          "eng": "**_Actividad para casa_**\n\nHaz que el tiempo juntos y conectados con {tu adolescente} se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝"
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy?"
@@ -321,8 +316,6 @@
           "eng": "¡De acuerdo! Empezar algo nuevo lleva su tiempo. Si no puedes hacerlo todos los días, tal vez puedas empezar con un día sí y un día no. Otra idea es que en vez de 15 minutos al día, pruebes con 5. También puedes pedirle ideas a tu adolescente sobre las rutinas con las que podrían empezar y seleccionen una. ¡Puede que te sorprenda!"
         }
       },
-      "category_id": "practise",
-      "nested": false,
       "quiz_1_feedback_1": "¡Muy bien! 🎉 Esto ayudará a mostrar interés en lo que hace {tu adolescente} y mejorará la relación entre ustedes.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -336,7 +329,7 @@
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "Haz que el tiempo juntos y conectados con {tu adolescente} se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝",
+      "text_1_facilitator": "**_Actividad para casa_**\n\nHaz que el tiempo juntos y conectados con {tu adolescente} se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝",
       "completed": false
     }
   ],

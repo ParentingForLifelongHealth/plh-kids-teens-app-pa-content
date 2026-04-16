@@ -28,9 +28,9 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning__mistakes_teen_1",
-      "character_1_id": "F2_ABUELA",
-      "character_2_id": "F2_HIJO_15",
+      "image_asset": "images/comic/learn/learning_mistakes_teen_1.svg",
+      "character_1_id": "f2_abuela",
+      "character_2_id": "f2_hijo_15",
       "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta sobre cómo aprender de los errores:",
       "_translations": {
@@ -43,21 +43,21 @@
           "eng": "Aquí tienes una historieta sobre cómo aprender de los errores:"
         },
         "character_1_text": {
-          "eng": "¿Qué pasó, {F2_HIJO_15}?"
+          "eng": "¿Qué pasó, @data.characters.f2_hijo_15.name?"
         },
         "character_2_text": {
           "eng": "Fracasé el examen de matemáticas."
         }
       },
-      "character_1_text": "¿Qué pasó, {F2_HIJO_15}?",
+      "character_1_text": "¿Qué pasó, @data.characters.f2_hijo_15.name?",
       "character_2_text": "Fracasé el examen de matemáticas."
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning__mistakes_teen_2",
-      "character_1_id": "F2_ABUELA",
-      "character_2_id": "F2_HIJO_15",
+      "image_asset": "images/comic/learn/learning_mistakes_teen_2.svg",
+      "character_1_id": "f2_abuela",
+      "character_2_id": "f2_hijo_15",
       "nested": false,
       "character_1_text": "Siento escuchar que te haya ido mal. Seguramente estás muy frustrado.",
       "_translations": {
@@ -77,9 +77,9 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning__mistakes_teen_3",
-      "character_1_id": "F2_ABUELA",
-      "character_2_id": "F2_HIJO_15",
+      "image_asset": "images/comic/learn/learning_mistakes_teen_3.svg",
+      "character_1_id": "f2_abuela",
+      "character_2_id": "f2_hijo_15",
       "nested": false,
       "character_1_text": "Sé que eres increíble e inteligente. ¿Sabes qué pasó? ¿Por qué te fue mal?",
       "_translations": {
@@ -99,9 +99,9 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning__mistakes_teen_4",
-      "character_1_id": "F2_ABUELA",
-      "character_2_id": "F2_HIJO_15",
+      "image_asset": "images/comic/learn/learning_mistakes_teen_4.svg",
+      "character_1_id": "f2_abuela",
+      "character_2_id": "f2_hijo_15",
       "nested": false,
       "character_1_text": "Ah bueno, al menos ahora sabes que es importante estudiar para cada examen, por muy seguro que te sientas. ¿Quieres que te ayude a recordarlo para la próxima vez?",
       "_translations": {
@@ -124,13 +124,13 @@
       "media_type": "video",
       "youtube_gb_en": "youtube link",
       "nested": false,
-      "text_1_facilitator": "Da Clic en Reproducir ▶️ para ver cómo ayudar a {tu adolescente} a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**",
+      "text_1_facilitator": "Da clic en reproducir ▶️ para ver cómo ayudar a {tu adolescente} a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da Clic en Reproducir ▶️ para ver cómo ayudar a {tu adolescente} a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**"
+          "eng": "Da clic en reproducir ▶️ para ver cómo ayudar a {tu adolescente} a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**"
         }
       }
     },
@@ -138,7 +138,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "*_¡Actividad para casa!_* ⭐ \n\n*_Comparte con tu adolescente alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste._*",
+      "text_1_facilitator": "**_¡Actividad para casa!_** ⭐ \n\nComparte con tu adolescente alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -149,7 +149,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_¡Actividad para casa!_* ⭐ \n\n*_Comparte con tu adolescente alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste._*"
+          "eng": "**_¡Actividad para casa!_** ⭐ \n\nComparte con tu adolescente alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
@@ -176,7 +176,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - learning (61 - 75).xlsx",
+    "path": "data/PA modules - learn (44 - 64).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1uYUivXZOTg0ZliArzDnwFz4zNAX9qm_0iMzEgFQfGKY"
   },
   "_metadata": {

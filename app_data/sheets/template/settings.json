@@ -81,6 +81,15 @@
       "_nested_name": "privacy_icon"
     },
     {
+      "name": "feedback_icon",
+      "value": "images/icons/chatbubble-ellipses-outline.svg",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "feedback_icon"
+    },
+    {
       "type": "title",
       "name": "settings",
       "value": "@global.settings",
@@ -678,6 +687,76 @@
               "parameter_list.icon_secondary_asset"
             ]
           }
+        },
+        {
+          "type": "button",
+          "name": "button_feedback",
+          "value": "@global.feedback",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "variant": "card",
+            "icon": "@local.feedback_icon",
+            "icon_secondary_asset": "@local.next_icon_asset",
+            "style": "no-background",
+            "text_align": "left"
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "pop_up",
+              "args": [
+                "feedback_form"
+              ],
+              "_raw": "click | pop_up: feedback_form | fullscreen: true, showCloseButton: false",
+              "params": {
+                "fullscreen": true,
+                "showCloseButton": false
+              }
+            }
+          ],
+          "exclude_from_translation": true,
+          "_nested_name": "dg_general.button_feedback",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.feedback",
+                "matchedExpression": "@global.feedback",
+                "type": "global",
+                "fieldName": "feedback"
+              }
+            ],
+            "parameter_list": {
+              "icon": [
+                {
+                  "fullExpression": "@local.feedback_icon",
+                  "matchedExpression": "@local.feedback_icon",
+                  "type": "local",
+                  "fieldName": "feedback_icon"
+                }
+              ],
+              "icon_secondary_asset": [
+                {
+                  "fullExpression": "@local.next_icon_asset",
+                  "matchedExpression": "@local.next_icon_asset",
+                  "type": "local",
+                  "fieldName": "next_icon_asset"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@global.feedback": [
+              "value"
+            ],
+            "@local.feedback_icon": [
+              "parameter_list.icon"
+            ],
+            "@local.next_icon_asset": [
+              "parameter_list.icon_secondary_asset"
+            ]
+          }
         }
       ],
       "_nested_name": "dg_general"
@@ -749,8 +828,8 @@
     }
   ],
   "_source": {
-    "name": "kids_teens_global",
-    "path": "PLH settings.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1uBEmZtqR_EeWZCjDQ6i6fdL56Vh8IasbzpEGTVlmNvs"
+    "name": "kids_teens_global V2",
+    "path": "templates/PLH settings.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/15vCtio89LY4bnbi5_aGvB4cJwI6lS47f5SWPGodi3Dc"
   }
 }

@@ -9,6 +9,10 @@
   },
   "rows": [
     {
+      "name": "articles",
+      "value": "_article_tasks"
+    },
+    {
       "type": "begin_template",
       "name": "header",
       "value": "header"
@@ -20,6 +24,14 @@
     {
       "name": "icon_asset",
       "value": "@data.common_categories.relax.icon_asset"
+    },
+    {
+      "name": "show_progress",
+      "value": true
+    },
+    {
+      "name": "progress_data_list",
+      "value": "@gen.id@local.articles"
     },
     {
       "type": "end_template"

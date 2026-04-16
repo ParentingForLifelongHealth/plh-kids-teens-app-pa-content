@@ -28,9 +28,9 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning_mistakes_7to9_yc_1",
-      "character_1_id": "F2_ABUELA",
-      "character_2_id": "F2_HIJO_8",
+      "image_asset": "images/comic/learn/learning_mistakes_7to9_yc_1.svg",
+      "character_1_id": "f2_abuela",
+      "character_2_id": "f2_hijo_8",
       "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta sobre cómo aprender de los errores:",
       "_translations": {
@@ -43,21 +43,21 @@
           "eng": "Aquí tienes una historieta sobre cómo aprender de los errores:"
         },
         "character_1_text": {
-          "eng": "¿Qué pasó, {F2_HIJO_8}?"
+          "eng": "¿Qué pasó, @data.characters.f2_hijo_8.name?"
         },
         "character_2_text": {
           "eng": "Ay abue, lo que pasa es que no llevé mis materiales para dibujar a la escuela. Se  me olvidaron aquí en la casa."
         }
       },
-      "character_1_text": "¿Qué pasó, {F2_HIJO_8}?",
+      "character_1_text": "¿Qué pasó, @data.characters.f2_hijo_8.name?",
       "character_2_text": "Ay abue, lo que pasa es que no llevé mis materiales para dibujar a la escuela. Se  me olvidaron aquí en la casa."
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning_mistakes_7to9_yc_2",
-      "character_1_id": "F2_ABUELA",
-      "character_2_id": "F2_HIJO_8",
+      "image_asset": "images/comic/learn/learning_mistakes_7to9_yc_2.svg",
+      "character_1_id": "f2_abuela",
+      "character_2_id": "f2_hijo_8",
       "nested": false,
       "character_1_text": "Eso es frustrante. Seguramente te sientes decepcionado.",
       "_translations": {
@@ -77,9 +77,9 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning_mistakes_7to9_yc_3",
-      "character_1_id": "F2_ABUELA",
-      "character_2_id": "F2_HIJO_8",
+      "image_asset": "images/comic/learn/learning_mistakes_7to9_yc_3.svg",
+      "character_1_id": "f2_abuela",
+      "character_2_id": "f2_hijo_8",
       "nested": false,
       "character_1_text": "Sé que te gustan mucho tus clases de dibujo. ¿Sabes qué fue lo que pasó? ¿Por qué no estaban tus materiales?",
       "_translations": {
@@ -99,9 +99,9 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/learning_mistakes_7to9_yc_4",
-      "character_1_id": "F2_ABUELA",
-      "character_2_id": "F2_HIJO_8",
+      "image_asset": "images/comic/learn/learning_mistakes_7to9_yc_4.svg",
+      "character_1_id": "f2_abuela",
+      "character_2_id": "f2_hijo_8",
       "nested": false,
       "character_1_text": "Ah, bueno, al menos ahora ya sabes cómo prepararte mejor para la escuela. ¿Quieres que te lo recuerde esta noche?",
       "_translations": {
@@ -138,7 +138,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nCuéntale a {tu niño} sobre alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste.",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nCuéntale a {tu niño} sobre alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -149,7 +149,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nCuéntale a {tu niño} sobre alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste."
+          "eng": "**_Actividad para casa_**⭐ \n\nCuéntale a {tu niño} sobre alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
@@ -176,7 +176,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - learning (61 - 75).xlsx",
+    "path": "data/PA modules - learn (44 - 64).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1uYUivXZOTg0ZliArzDnwFz4zNAX9qm_0iMzEgFQfGKY"
   },
   "_metadata": {

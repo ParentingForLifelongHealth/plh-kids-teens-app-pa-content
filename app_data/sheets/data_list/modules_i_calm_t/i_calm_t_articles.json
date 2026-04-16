@@ -103,8 +103,8 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/19IEdC3J4HDyW-7-xxMDPdUYEU4f-o3FO/view?usp=drive_link",
-      "character_1_id": "F2_ABUELA",
+      "image_asset": "images/comic/relation/calm_teen_1.svg",
+      "character_1_id": "f2_abuela",
       "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta sobre cómo puedes mantener la calma y regular tu enojo al enfrentar situaciones frustrantes.",
       "_translations": {
@@ -117,20 +117,20 @@
           "eng": "Aquí tienes una historieta sobre cómo puedes mantener la calma y regular tu enojo al enfrentar situaciones frustrantes."
         },
         "text_2": {
-          "eng": "{F2_ABUELA} está a punto de pasar un tiempo juntos y conectados con {F2_HIJO_15}, pero en el camino ve que la sala está hecha un desastre. Se da cuenta de que esto le hace sentir enojo."
+          "eng": "@data.characters.f2_abuela.name está a punto de pasar un tiempo juntos y conectados con @data.characters.f2_hijo_15.name, pero en el camino ve que la sala está hecha un desastre. Se da cuenta de que esto le hace sentir enojo."
         },
         "character_1_text": {
-          "eng": "(Pensando) Me estoy sintiendo muy enojada. Estoy cansada y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a {F2_HIJO_15}"
+          "eng": "(Pensando) Me estoy sintiendo muy enojada. Estoy cansada y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a @data.characters.f2_hijo_15.name"
         }
       },
-      "text_2": "{F2_ABUELA} está a punto de pasar un tiempo juntos y conectados con {F2_HIJO_15}, pero en el camino ve que la sala está hecha un desastre. Se da cuenta de que esto le hace sentir enojo.",
-      "character_1_text": "(Pensando) Me estoy sintiendo muy enojada. Estoy cansada y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a {F2_HIJO_15}"
+      "text_2": "@data.characters.f2_abuela.name está a punto de pasar un tiempo juntos y conectados con @data.characters.f2_hijo_15.name, pero en el camino ve que la sala está hecha un desastre. Se da cuenta de que esto le hace sentir enojo.",
+      "character_1_text": "(Pensando) Me estoy sintiendo muy enojada. Estoy cansada y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a @data.characters.f2_hijo_15.name"
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/160le3WU55Ac1I3qEINu3ZtlXj30-rjJO/view?usp=drive_link",
-      "character_1_id": "F2_ABUELA",
+      "image_asset": "images/comic/relation/calm_teen_2.svg",
+      "character_1_id": "f2_abuela",
       "nested": false,
       "character_1_text": "(Pensando) Tomaré una pausa y pondré mi canción favorita.",
       "_translations": {
@@ -145,7 +145,7 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "character_1_id": "F2_ABUELA",
+      "character_1_id": "f2_abuela",
       "nested": false,
       "text_2": "Un momento después.",
       "_translations": {
@@ -165,32 +165,32 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/132mbvg2Qz1TM4zgcdL3BoQsfzVjEKj_n/view?usp=drive_link",
-      "character_1_id": "F2_ABUELA",
+      "image_asset": "images/comic/relation/calm_teen_3.svg",
+      "character_1_id": "f2_abuela",
       "nested": false,
-      "character_1_text": "{F2_HIJO_15}, qué buen trabajo estás haciendo con tu tarea. Puede que ya te sientas cansado. Vamos a descansar 5 minutos y, después de eso, podemos recoger este tiradero juntos.",
+      "character_1_text": "@data.characters.f2_hijo_15.name, qué buen trabajo estás haciendo con tu tarea. Puede que ya te sientas cansado. Vamos a descansar 5 minutos y, después de eso, podemos recoger este tiradero juntos.",
       "_translations": {
         "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "{F2_HIJO_15}, qué buen trabajo estás haciendo con tu tarea. Puede que ya te sientas cansado. Vamos a descansar 5 minutos y, después de eso, podemos recoger este tiradero juntos."
+          "eng": "@data.characters.f2_hijo_15.name, qué buen trabajo estás haciendo con tu tarea. Puede que ya te sientas cansado. Vamos a descansar 5 minutos y, después de eso, podemos recoger este tiradero juntos."
         }
       }
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "https://drive.google.com/file/d/1eiyI9aBW8xjsYfkrdNyg-8M9gBsvki3o/view?usp=drive_link",
-      "character_1_id": "F2_ABUELA",
+      "image_asset": "images/comic/relation/calm_teen_4.svg",
+      "character_1_id": "f2_abuela",
       "nested": false,
-      "character_1_text": "¡Gracias por hacer tu parte para que la casa esté limpia, {F2_HIJO_15}! Estoy muy orgullosa de tu esfuerzo. Es hora de nuestro tiempo juntos y conectados. ¿Qué quieres hacer?",
+      "character_1_text": "¡Gracias por hacer tu parte para que la casa esté limpia, @data.characters.f2_hijo_15.name! Estoy muy orgullosa de tu esfuerzo. Es hora de nuestro tiempo juntos y conectados. ¿Qué quieres hacer?",
       "_translations": {
         "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "¡Gracias por hacer tu parte para que la casa esté limpia, {F2_HIJO_15}! Estoy muy orgullosa de tu esfuerzo. Es hora de nuestro tiempo juntos y conectados. ¿Qué quieres hacer?"
+          "eng": "¡Gracias por hacer tu parte para que la casa esté limpia, @data.characters.f2_hijo_15.name! Estoy muy orgullosa de tu esfuerzo. Es hora de nuestro tiempo juntos y conectados. ¿Qué quieres hacer?"
         }
       }
     },
@@ -310,7 +310,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - i (1-15).xlsx",
+    "path": "data/PA_modules_i (1-15).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
   },
   "_metadata": {

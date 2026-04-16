@@ -30,7 +30,7 @@
           "eng": "Esta lección  trata sobre la resolución pacífica de conflictos entre tu pareja o familiares y tú. 💚"
         },
         "text_2": {
-          "eng": "<span>Todas las personas adultas tenemos desacuerdos a veces. Pelear no es una forma adecuada de resolver los problemas.<br/><br/> *_</span><span><b><i>Aprender a responder de forma más calmada cuando tengas desacuerdos con tu pareja o familiar puede ayudarte a crear un hogar más tranquilo._* </b></i></span><span>🌷 </span>"
+          "eng": "<span>Todas las personas adultas tenemos desacuerdos a veces. Pelear no es una forma adecuada de resolver los problemas.<br/><br/> **_</span><span><b><i>Aprender a responder de forma más calmada cuando tengas desacuerdos con tu pareja o familiar puede ayudarte a crear un hogar más tranquilo._** </b></i></span><span>🌷 </span>"
         },
         "quiz_1_question": {
           "eng": "¡Hagamos un ejercicio! Ejercicio 1. Ante un desacuerdo, tomar una pausa antes de responder puede ayudarte a mantener la calma y actuar mejor."
@@ -63,7 +63,7 @@
           "eng": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
         }
       },
-      "text_2": "<span>Todas las personas adultas tenemos desacuerdos a veces. Pelear no es una forma adecuada de resolver los problemas.<br/><br/> *_</span><span><b><i>Aprender a responder de forma más calmada cuando tengas desacuerdos con tu pareja o familiar puede ayudarte a crear un hogar más tranquilo._* </b></i></span><span>🌷 </span>",
+      "text_2": "<span>Todas las personas adultas tenemos desacuerdos a veces. Pelear no es una forma adecuada de resolver los problemas.<br/><br/> **_</span><span><b><i>Aprender a responder de forma más calmada cuando tengas desacuerdos con tu pareja o familiar puede ayudarte a crear un hogar más tranquilo._** </b></i></span><span>🌷 </span>",
       "quiz_1_question": "¡Hagamos un ejercicio! Ejercicio 1. Ante un desacuerdo, tomar una pausa antes de responder puede ayudarte a mantener la calma y actuar mejor.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_feedback_1": "🎉 ¡Buen trabajo!\n\nPuede ser muy difícil mantener la calma cuando tienes un desacuerdo con otras personas. Tomar una pausa, por ejemplo, respirando profundamente un par de veces, puede ser una forma útil de ayudarte a responder mejor.",
@@ -78,9 +78,9 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "images/character_icons/ipv_conflicts_1",
-      "character_1_id": "F2_HIJO_8",
-      "character_2_id": "F2_ABUELA",
+      "image_asset": "images/comic/ipv/ipv_conflicts_1.svg",
+      "character_1_id": "f2_hijo_8",
+      "character_2_id": "f2_abuela",
       "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta que muestra cómo puedes resolver los conflictos pacíficamente:",
       "_translations": {
@@ -105,10 +105,10 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/character_icons/ipv_conflicts_2",
-      "character_1_id": "F2_ABUELO",
-      "character_2_id": "F2_ABUELA",
-      "character_3_id": "F2_ABUELO",
+      "image_asset": "images/comic/ipv/ipv_conflicts_2.svg",
+      "character_1_id": "f2_abuelo",
+      "character_2_id": "f2_abuela",
+      "character_3_id": "f2_abuelo",
       "nested": false,
       "character_1_text": "Pensé que habías dicho que tú ibas a meter la ropa hoy.",
       "_translations": {
@@ -133,9 +133,9 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/character_icons/ipv_conflicts_3",
-      "character_1_id": "F2_ABUELA",
-      "character_2_id": "F2_ABUELO",
+      "image_asset": "images/comic/ipv/ipv_conflicts_3.svg",
+      "character_1_id": "f2_abuela",
+      "character_2_id": "f2_abuelo",
       "nested": false,
       "character_1_text": "(Pensando) ¡No puedo creer que se le haya olvidado! Pero todos podemos cometer errores. Respira profundo…",
       "_translations": {
@@ -155,9 +155,9 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/character_icons/ipv_conflicts_4",
-      "character_1_id": "F2_ABUELA",
-      "character_2_id": "F2_ABUELO",
+      "image_asset": "images/comic/ipv/ipv_conflicts_4.svg",
+      "character_1_id": "f2_abuela",
+      "character_2_id": "f2_abuelo",
       "nested": false,
       "character_1_text": "Perdón si te levanté la voz. Me estresé mucho porque he tenido un día muy largo.",
       "_translations": {
@@ -180,13 +180,13 @@
       "media_type": "video",
       "youtube_gb_en": "youtube link",
       "nested": false,
-      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender algunas estrategias que puedes probar para resolver conflictos pacíficamente:\n\n1️⃣ **TOMAR UNA PAUSA**\n2️⃣ **COMPARTIR CÓMO TE SIENTES DE FORMA TRANQUILA**\n3️⃣ **ALEJARSE SI ES NECESARIO**",
+      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender algunas estrategias que puedes probar para resolver conflictos pacíficamente:\n\n1️⃣ ****TOMAR UNA PAUSA****\n2️⃣ ****COMPARTIR CÓMO TE SIENTES DE FORMA TRANQUILA****\n3️⃣ ****ALEJARSE SI ES NECESARIO****",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da clic en reproducir ▶️ para aprender algunas estrategias que puedes probar para resolver conflictos pacíficamente:\n\n1️⃣ **TOMAR UNA PAUSA**\n2️⃣ **COMPARTIR CÓMO TE SIENTES DE FORMA TRANQUILA**\n3️⃣ **ALEJARSE SI ES NECESARIO**"
+          "eng": "Da clic en reproducir ▶️ para aprender algunas estrategias que puedes probar para resolver conflictos pacíficamente:\n\n1️⃣ ****TOMAR UNA PAUSA****\n2️⃣ ****COMPARTIR CÓMO TE SIENTES DE FORMA TRANQUILA****\n3️⃣ ****ALEJARSE SI ES NECESARIO****"
         }
       }
     },
@@ -194,7 +194,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nPractica el \"Tomar una pausa\" cuando te encuentres en una situación de conflicto.",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nPractica el \"Tomar una pausa\" cuando te encuentres en una situación de conflicto.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -205,7 +205,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nPractica el \"Tomar una pausa\" cuando te encuentres en una situación de conflicto."
+          "eng": "**_Actividad para casa_**⭐ \n\nPractica el \"Tomar una pausa\" cuando te encuentres en una situación de conflicto."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy?"
@@ -232,7 +232,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - i (1-15).xlsx",
+    "path": "data/PA_modules_i (1-15).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
   },
   "_metadata": {

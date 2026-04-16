@@ -6,79 +6,26 @@
     {
       "id": "relax_1",
       "in_library": "yes",
+      "title_eng": "Quick pause",
+      "title": "Pausa rápida",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_1.mp3",
+      "media_asset_m": "audio/relax/relax_1.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
-      "title": "Quick pause",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Quick pause"
-        }
-      },
+      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "category_id": "relax",
       "nested": false,
       "completed": false
     },
     {
-      "id": "check_in_16",
-      "_translatedFields": {
-        "text_1": {
-          "eng": "Toma un momento para TI. Cuidarte empieza por notar cómo te sientes."
-        },
-        "quiz_1_feedback_1": {
-          "eng": "¡Increíble! La vida se siente mejor cuando nos sentimos bien."
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Todas las personas pasan por momentos en los que no se sienten bien. Es completamente normal. Ojalá pronto te sientas mejor."
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Es parte de la vida tener días malos. Recuerda que los momentos difíciles no duran para siempre, y que mañana es un nuevo día."
-        },
-        "quiz_1_question": {
-          "eng": "¿Cómo te sientes el día de hoy?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Feliz"
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Bien"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Triste"
-        }
-      },
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Toma un momento para TI. Cuidarte empieza por notar cómo te sientes.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
-      "quiz_1_feedback_1": "¡Increíble! La vida se siente mejor cuando nos sentimos bien.",
-      "quiz_1_feedback_2": "Todas las personas pasan por momentos en los que no se sienten bien. Es completamente normal. Ojalá pronto te sientas mejor.",
-      "quiz_1_feedback_3": "Es parte de la vida tener días malos. Recuerda que los momentos difíciles no duran para siempre, y que mañana es un nuevo día.",
-      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
-      "quiz_1_option_1_text": "Feliz",
-      "quiz_1_option_2_text": "Bien",
-      "quiz_1_option_3_text": "Triste",
-      "completed": false
-    },
-    {
       "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Esta lección trata sobre cómo ayudar a {tu adolescente} a aprender a través del establecimiento de metas y objetivos. 😃",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Esta lección trata sobre cómo ayudar a {tu adolescente} a aprender a través del establecimiento de metas y objetivos. 😃"
@@ -87,29 +34,11 @@
           "eng": "Como madre, padre o persona cuidadora, desempeñas un papel importante en cómo {tu adolescente} aprende y le da sentido a su vida."
         }
       },
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Esta lección trata sobre cómo ayudar a {tu adolescente} a aprender a través del establecimiento de metas y objetivos. 😃",
-      "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
-      },
       "text_2": "Como madre, padre o persona cuidadora, desempeñas un papel importante en cómo {tu adolescente} aprende y le da sentido a su vida.",
       "completed": false
     },
     {
       "id": "explore_1",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Aquí tienes una historieta que trata sobre el establecimiento de metas y objetivos:"
-        },
-        "character_1_text": {
-          "eng": "{F1_HIJA_16}, ya vas a empezar un nuevo año en la escuela y estoy muy emocionado por ti. ¿Cuáles son tus metas para este año?"
-        },
-        "character_2_text": {
-          "eng": "¡Quiero mejorar en matemáticas!"
-        }
-      },
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta que trata sobre el establecimiento de metas y objetivos:",
@@ -118,29 +47,40 @@
         "character_1_text": {},
         "character_2_text": {}
       },
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/help_teen_learn_1",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_HIJA_16",
-      "character_1_text": "{F1_HIJA_16}, ya vas a empezar un nuevo año en la escuela y estoy muy emocionado por ti. ¿Cuáles son tus metas para este año?",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Aquí tienes una historieta que trata sobre el establecimiento de metas y objetivos:"
+        },
+        "character_1_text": {
+          "eng": "@data.characters.f1_hija_16.name, ya vas a empezar un nuevo año en la escuela y estoy muy emocionado por ti. ¿Cuáles son tus metas para este año?"
+        },
+        "character_2_text": {
+          "eng": "¡Quiero mejorar en matemáticas!"
+        }
+      },
+      "image_asset": "images/comic/learn/help_learn_teen_1.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_hija_16",
+      "character_1_text": "@data.characters.f1_hija_16.name, ya vas a empezar un nuevo año en la escuela y estoy muy emocionado por ti. ¿Cuáles son tus metas para este año?",
       "character_2_text": "¡Quiero mejorar en matemáticas!",
       "completed": false
     },
     {
       "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Qué buena meta, {F1_HIJA_16}. ¿Qué crees que tendrás que hacer para conseguirlo?"
+          "eng": "Qué buena meta, @data.characters.f1_hija_16.name. ¿Qué crees que tendrás que hacer para conseguirlo?"
         },
         "character_2_text": {
           "eng": "Mmm… ¡Qué tal si saco un 4.5 en mi primer examen de matemáticas!"
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/help_teen_learn_2",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_HIJA_16",
-      "character_1_text": "Qué buena meta, {F1_HIJA_16}. ¿Qué crees que tendrás que hacer para conseguirlo?",
+      "image_asset": "images/comic/learn/help_learn_teen_2.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_hija_16",
+      "character_1_text": "Qué buena meta, @data.characters.f1_hija_16.name. ¿Qué crees que tendrás que hacer para conseguirlo?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
@@ -150,6 +90,8 @@
     },
     {
       "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "¡Me gusta! ¿Y cómo conseguirás ese 4.5 en tu primer examen de matemáticas?"
@@ -158,11 +100,9 @@
           "eng": "A ver… ¿Qué tal si aparto un poco de tiempo todos los días para estudiar matemáticas? Y, si me trabo con algo, tal vez puedas ayudarme, ¿sí?"
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/help_teen_learn_3",
-      "character_1_id": "F1_PADRE",
-      "character_2_id": "F1_HIJA_16",
+      "image_asset": "images/comic/learn/help_learn_teen_3.svg",
+      "character_1_id": "f1_padre",
+      "character_2_id": "f1_hija_16",
       "character_1_text": "¡Me gusta! ¿Y cómo conseguirás ese 4.5 en tu primer examen de matemáticas?",
       "_translations": {
         "character_1_text": {},
@@ -173,15 +113,15 @@
     },
     {
       "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "¡Haré lo mejor que pueda! Si trabajas duro y mantienes tu rutina de estudio todos los días, ¡Estoy seguro de que podrás lograr tu objetivo!"
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "images/6.Apoyar_a_mi_niña_o_niño_en_su_aprendizaje/help_teen_learn_4",
-      "character_1_id": "F1_PADRE",
+      "image_asset": "images/comic/learn/help_learn_teen_4.svg",
+      "character_1_id": "f1_padre",
       "character_1_text": "¡Haré lo mejor que pueda! Si trabajas duro y mantienes tu rutina de estudio todos los días, ¡Estoy seguro de que podrás lograr tu objetivo!",
       "_translations": {
         "character_1_text": {}
@@ -191,25 +131,36 @@
     {
       "id": "practical_tips_1",
       "media_type": "video",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Da Clic en Reproducir ▶️ para ver cómo ayudar a {tu adolescente} a aprender a través del establecimiento de metas y objetivos:\n\n1️⃣ **ESTABLECER METAS**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **CONECTAR**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**"
-        }
-      },
       "category_id": "practical_tips",
       "nested": false,
       "text_1_facilitator": "Da Clic en Reproducir ▶️ para ver cómo ayudar a {tu adolescente} a aprender a través del establecimiento de metas y objetivos:\n\n1️⃣ **ESTABLECER METAS**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **CONECTAR**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**",
       "_translations": {
         "text_1_facilitator": {}
       },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en Reproducir ▶️ para ver cómo ayudar a {tu adolescente} a aprender a través del establecimiento de metas y objetivos:\n\n1️⃣ **ESTABLECER METAS**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **CONECTAR**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**"
+        }
+      },
       "youtube_gb_en": "youtube link",
       "completed": false
     },
     {
       "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "**_¡Actividad para casa!_**⭐\n\nDedícale 5 minutos a tu adolescente para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_¡Actividad para casa!_*⭐ \n\nDedícale 5 minutos a tu adolescente para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana."
+          "eng": "**_¡Actividad para casa!_**⭐\n\nDedícale 5 minutos a tu adolescente para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
@@ -227,22 +178,11 @@
           "eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana y ayudarle a estudiar o completar su trabajo escolar. ☀️"
         }
       },
-      "category_id": "practise",
-      "nested": false,
-      "quiz_1_feedback_1": "¡Excelente! Usa las estrategias que has aprendido hoy, ¡y diviértete! Sentir alegría y felicidad durante el aprendizaje con {tu adolescente} es una forma estupenda de motivarle para seguir aprendiendo. 💙",
-      "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
-      },
-      "quiz_1_feedback_2": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana y ayudarle a estudiar o completar su trabajo escolar. ☀️",
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "¡Excelente! Usa las estrategias que has aprendido hoy, ¡y diviértete! Sentir alegría y felicidad durante el aprendizaje con {tu adolescente} es una forma estupenda de motivarle para seguir aprendiendo. 💙",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "*_¡Actividad para casa!_*⭐ \n\nDedícale 5 minutos a tu adolescente para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana.",
+      "quiz_1_feedback_2": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana y ayudarle a estudiar o completar su trabajo escolar. ☀️",
       "completed": false
     }
   ],

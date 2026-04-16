@@ -12,19 +12,65 @@
       "question_done::eng": "Did you have a chance to try this?",
       "reply_no::eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
       "question_how::eng": "How did it go?",
-      "happy_image_asset": "images/faces/happy.svg",
-      "ok_image_asset": "images/faces/neutral.svg",
-      "sad_image_asset": "images/faces/sad.svg",
+      "happy_image_asset": "images/icons/faces/happy.svg",
+      "reply_happy::eng": "Great to hear it went well. You are a star!\n",
+      "ok_image_asset": "images/icons/faces/neutral.svg",
+      "reply_ok::eng": "Sorry to hear it was difficult for you. Well done for trying.",
+      "sad_image_asset": "images/icons/faces/sad.svg",
+      "reply_sad::eng": "Sorry to hear it was difficult for you. Well done for trying.",
       "outro_text::eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!",
-      "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs"
+      "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac"
     },
     {
-      "id": "oneononetime_t",
-      "notification_text::eng": "How did one-on-one time go?",
-      "text_goal::eng": "Your goal was to spend one-on-one time with your teen.",
-      "reply_happy::eng": "That’s wonderful! Well done for spending time together. It lays the foundation for a great relationship with your teen!",
-      "reply_ok::eng": "Sometimes it will be easy and fun to spend time with your teens and sometimes it will be more challenging. Spending time together will definitely improve your relationship!",
-      "reply_sad::eng": "Sorry to hear that it was difficult for you to spend time with your teen. We all have challenges sometimes. Just be patient with yourself and your teen – things will get better. Well done for trying!"
+      "id": "relation",
+      "notification_text::eng": "How is one-on-one time going?",
+      "text_goal::eng": "Your goal was to spend 5 minutes of one-on-one time with your child.",
+      "reply_no::eng": "That is okay. Try to find time with them this week!",
+      "reply_happy::eng": "That is great to hear! 🎉 Spending time with your child is a great way to build a good relationship with them!"
+    },
+    {
+      "id": "learning",
+      "notification_text::eng": "When you involve your child, how does it go?",
+      "text_goal::eng": "Your goal was to involve your child in an activity to help them learn.",
+      "reply_no::eng": "That is okay. Try to find time to do it more with them this week!",
+      "reply_happy::eng": "That’s great to hear! 🎉 Preparing your child for success in school will help them do well!"
+    },
+    {
+      "id": "develop",
+      "notification_text::eng": "Are you finding it easy to support your child's development every day?",
+      "text_goal::eng": "Your goal was to support your child's development.",
+      "reply_happy::eng": "That is great to hear! 😃 Supporting your child’s development will help them live a safe and healthy life."
+    },
+    {
+      "id": "structure",
+      "notification_text::eng": "How did the conversation about household rules go with your child?",
+      "text_goal::eng": "Your goal was to set some structure at home.",
+      "reply_happy::eng": "That is great to hear! 💙 Helping your child follow household rules gives them a sense of safety and security needed to thrive."
+    },
+    {
+      "id": "behave",
+      "notification_text::eng": "How did managing the challenging behaviour go?",
+      "text_goal::eng": "Your goal was to learn to manage your child's behaviour.",
+      "reply_happy::eng": "It sounds like your child tends to behave well, which is great to hear! 💙"
+    },
+    {
+      "id": "safety",
+      "notification_text::eng": "How has talking about safety been with your child? ",
+      "text_goal::eng": "Your goal was to talk to your child about safety.",
+      "reply_no::eng": "That is okay. It is not easy to know how to keep your child safe and healthy, especially in this changing world. ",
+      "reply_happy::eng": "Great job! Knowing how to keep your child safe and healthy is an important responsibility as a parent. In this changing world, it is not easy to do! 🌱"
+    },
+    {
+      "id": "ipv",
+      "notification_text::eng": "How did sharing household tasks with your spouse go?",
+      "text_goal::eng": "Your goal was to share household tasks with your spouse. ",
+      "reply_happy::eng": "That’s great to hear! Sharing tasks equally helps everyone feel valued."
+    },
+    {
+      "id": "budget",
+      "notification_text::eng": "How did the budget planning go?",
+      "text_goal::eng": "Your goal was to plan a budget.",
+      "reply_happy::eng": "That’s amazing! 🎉 Keep doing this - your family will be better for it."
     }
   ]
 }

@@ -1,0 +1,360 @@
+{
+  "flow_type": "template",
+  "flow_name": "home_screen_header",
+  "status": "released",
+  "rows": [
+    {
+      "name": "countdown_days",
+      "value": "@fields.countdown_days"
+    },
+    {
+      "name": "hp_uncompleted_ids"
+    },
+    {
+      "type": "begin_data_items",
+      "name": "loop_2",
+      "value": "@data.hp_check_in",
+      "action_list": "data_changed | set_local : hp_uncompleted_ids : @items.map(item => item.id)",
+      "parameter_list": "filter: !@item.unlocked_activity",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_data_items"
+    },
+    {
+      "name": "hp_unlocked_ids"
+    },
+    {
+      "type": "begin_data_items",
+      "name": "loop_1",
+      "value": "@data.courses",
+      "action_list": "data_changed | set_local : hp_unlocked_ids : @items.map(item => item.id)",
+      "parameter_list": "filter: !!@item.completed_ts && window.date_fns.differenceInDays(new Date(),new Date(new Date(@item.completed_ts).setHours(0,0,0,0))) >= @local.countdown_days;\nsort: completed_ts;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_data_items"
+    },
+    {
+      "type": "text",
+      "name": "debug_1",
+      "value": "@local.hp_unlocked_ids",
+      "condition": false,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "debug_2",
+      "value": "@local.hp_uncompleted_ids",
+      "condition": false,
+      "exclude_from_translation": true
+    },
+    {
+      "name": "hp_id",
+      "value": "@calc((@local.hp_unlocked_ids || []).find(x => (@local.hp_uncompleted_ids || []).includes(x)))",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "debug_3",
+      "value": "HP id: @local.hp_id",
+      "condition": false,
+      "exclude_from_translation": true
+    },
+    {
+      "name": "hp_review_template",
+      "value": "stack_hp_review_@local.hp_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "hp_check_in_row",
+      "value": "hp_check_in.@local.hp_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "hp_check_in_data",
+      "value": "@data.@local.hp_check_in_row",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "hp_check_in_notification_text",
+      "value": "@local.hp_check_in_data.notification_text",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_template",
+      "value": "header_button",
+      "condition": "!!@local.hp_id"
+    },
+    {
+      "name": "title",
+      "value": "@local.hp_check_in_notification_text",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "pop_up",
+      "value": true
+    },
+    {
+      "name": "template",
+      "value": "@local.hp_review_template",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "action_text",
+      "value": "@global.review_action_text"
+    },
+    {
+      "name": "badge_text",
+      "value": "@global.review_badge_text"
+    },
+    {
+      "type": "end_template"
+    },
+    {
+      "type": "begin_display_group",
+      "parameter_list": "style: column",
+      "condition": "!@local.hp_id",
+      "exclude_from_translation": true,
+      "style_list": "width: 100%;"
+    },
+    {
+      "name": "module_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "module_title",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course_title",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "name": "stop_flick",
+      "value": 50,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "stop_flick: @local.stop_flick",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "has_next_module: @local.has_next_module",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "has_last_completed: @local.has_last_completed",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "has_in_progress : @local.has_in_progress ",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "module_id: @local.module_id",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "module_title: @local.module_title",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "course_id: @local.course_id",
+      "condition": false
+    },
+    {
+      "name": "has_in_progress ",
+      "value": -1,
+      "exclude_from_translation": true
+    },
+    {
+      "name": "has_last_completed",
+      "value": -1,
+      "exclude_from_translation": true
+    },
+    {
+      "name": "has_next_module",
+      "value": -1,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "data_items",
+      "name": "get_last_in_progress",
+      "value": "@data.module_tasks",
+      "action_list": "data_changed | set_local : module_id : @items[0]?.id;\ndata_changed | set_local : module_title : @items[0]?.title;\ndata_changed | set_local : course_id :@items[0]?.tag_course;\ndata_changed | set_local : has_in_progress : @items.length;",
+      "parameter_list": "filter: !!@item.last_accessed_ts&& !@item.completed_ts && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)) && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship)) ;\nsort: last_accessed_ts;\nreverse;",
+      "exclude_from_translation": true,
+      "comment": "(!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag))"
+    },
+    {
+      "type": "data_items",
+      "name": "get_last_completed",
+      "value": "@data.module_tasks",
+      "action_list": "data_changed | set_local : course_id: @items[0]?.tag_course;\ndata_changed | set_local : has_last_completed: @items.length;",
+      "parameter_list": "filter: !!@item.completed_ts && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)) && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship)) ;\nsort: completed_ts;\nreverse;",
+      "condition": "@local.has_in_progress == 0",
+      "exclude_from_translation": true,
+      "comment": "only run if none currently in progress"
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "type": "data_items",
+      "name": "get_next_in_module",
+      "value": "@data.module_tasks",
+      "action_list": "data_changed | set_local : module_id : @items[0]?.id;\ndata_changed | set_local : module_title : @items[0]?.title;\ndata_changed | set_local : has_next_module : @items.length;",
+      "parameter_list": "filter: !@item.completed_ts && (@item.tag_course == @local.course_id) && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)) && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship)) ;\nsort: number;\nlimit: 1;",
+      "condition": "@local.has_last_completed > 0",
+      "exclude_from_translation": true,
+      "comment": "only run if we have a last completed"
+    },
+    {
+      "type": "data_items",
+      "name": "get_first_item",
+      "value": "@data.module_tasks",
+      "action_list": "data_changed | set_local : module_id : @items[0]?.id;\ndata_changed | set_local : module_title : @items[0]?.title;\ndata_changed | set_local : course_id :@items[0]?.tag_course;\ndata_changed | set_local : stop_flick : @items.length;",
+      "parameter_list": "filter: !@item.completed_ts && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)) && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship)) ;\nsort: number;\nlimit: 1;",
+      "condition": "(@local.has_in_progress == 0) && ((@local.has_last_completed == 0) || (@local.has_next_module == 0))",
+      "exclude_from_translation": true,
+      "comment": "default to next in list if not found "
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "type": "data_items",
+      "name": "get_course_title",
+      "value": "@data.courses",
+      "action_list": "data_changed | set_local : course_title : @items[0]?.title;",
+      "parameter_list": "filter:  @item.id == @local.course_id;\nlimit: 1;",
+      "condition": "!!@local.course_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "start_at_id",
+      "value": "_start_at_id"
+    },
+    {
+      "name": "target_template",
+      "value": "stack_module_@local.module_id@local.start_at_id",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_template",
+      "value": "header_button",
+      "condition": "!!@local.module_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "title",
+      "value": "@local.module_title",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course_id",
+      "value": "@local.course_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "subtitle",
+      "value": "@local.course_title",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "template",
+      "value": "@local.target_template",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "pop_up",
+      "value": true
+    },
+    {
+      "name": "action_text",
+      "value": "@global.course_action_text",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "badge_text",
+      "value": "@global.course_badge_text",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "module_id",
+      "value": "@local.module_id",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_template",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "name": "all_completed",
+      "parameter_list": "style: column;",
+      "condition": "(@local.stop_flick == 0) && !@local.module_id",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "title",
+      "value": "@global.all_complete_title",
+      "condition": "!!@global.all_complete_title",
+      "exclude_from_translation": true,
+      "style_list": "margin-top: -8px;"
+    },
+    {
+      "type": "text",
+      "value": "@global.all_complete_text",
+      "condition": "!!@global.all_complete_text",
+      "exclude_from_translation": true,
+      "style_list": "margin-top: -6px;\nmargin-bottom: -8px;"
+    },
+    {
+      "type": "begin_display_group",
+      "parameter_list": "style: column",
+      "exclude_from_translation": true,
+      "style_list": "background-color: #669F4B40;"
+    },
+    {
+      "type": "text",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "image",
+      "value": "@global.all_complete_image",
+      "exclude_from_translation": true,
+      "style_list": "width: 145px;\nheight: 110px;"
+    },
+    {
+      "type": "text"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_display_group"
+    }
+  ]
+}

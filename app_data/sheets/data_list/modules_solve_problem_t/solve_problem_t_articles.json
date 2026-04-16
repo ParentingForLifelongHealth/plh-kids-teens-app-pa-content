@@ -28,12 +28,12 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/solve_problems_teen_1.svg",
-      "character_1_id": "F1_MADRE",
-      "character_2_id": "F1_HIJA_13",
-      "character_3_id": "F1_MADRE",
+      "image_asset": "images/comic/behave/solve_problems_teen_1.svg",
+      "character_1_id": "f3_madre",
+      "character_2_id": "f3_hija_12",
+      "character_3_id": "f3_madre",
       "nested": false,
-      "character_1_text": "Vamos, {F1_HIJA_13}, es hora de prepararnos para ir a dormir.",
+      "character_1_text": "Vamos, @data.characters.f3_hija_12.name, es hora de prepararnos para ir a dormir.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {},
@@ -41,7 +41,7 @@
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Vamos, {F1_HIJA_13}, es hora de prepararnos para ir a dormir."
+          "eng": "Vamos, @data.characters.f3_hija_12.name, es hora de prepararnos para ir a dormir."
         },
         "character_2_text": {
           "eng": "¡Pero todavía me falta mucha tarea que hacer!"
@@ -56,11 +56,11 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/solve_problems_teen_2.svg",
-      "character_1_id": "F1_MADRE",
-      "character_2_id": "F1_HIJA_13",
-      "character_3_id": "F1_MADRE",
-      "character_4_id": "F1_HIJA_13",
+      "image_asset": "images/comic/behave/solve_problems_teen_2.svg",
+      "character_1_id": "f3_madre",
+      "character_2_id": "f3_hija_12",
+      "character_3_id": "f3_madre",
+      "character_4_id": "f3_hija_12",
       "nested": false,
       "character_1_text": "¿Cómo podemos asegurarnos de que hagas todo lo que tengas que hacer y aún así te acuestes a tiempo?",
       "_translations": {
@@ -90,12 +90,12 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/solve_problems_teen_3.svg",
-      "character_1_id": "F1_MADRE",
-      "character_2_id": "F1_HIJA_13",
-      "character_3_id": "F1_MADRE",
+      "image_asset": "images/comic/behave/solve_problems_teen_3.svg",
+      "character_1_id": "f3_madre",
+      "character_2_id": "f3_hija_12",
+      "character_3_id": "f3_madre",
       "nested": false,
-      "character_1_text": "{F1_HIJA_13}, está sonando la alarma para empezar la tarea.\n¿Ya la empezaste?",
+      "character_1_text": "@data.characters.f3_hija_12.name, está sonando la alarma para empezar la tarea.\n¿Ya la empezaste?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {},
@@ -103,7 +103,7 @@
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "{F1_HIJA_13}, está sonando la alarma para empezar la tarea.\n¿Ya la empezaste?"
+          "eng": "@data.characters.f3_hija_12.name, está sonando la alarma para empezar la tarea.\n¿Ya la empezaste?"
         },
         "character_2_text": {
           "eng": "Empezaré de una vez, ma. ¿Te puedo pedir ayuda con esta pregunta?"
@@ -118,9 +118,9 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/5.Guiar_el_buen_comportamiento_de_mi_niña_niño_o_adolescente/solve_problems_teen_4.svg",
-      "character_1_id": "F1_HIJA_13",
-      "character_2_id": "F1_MADRE",
+      "image_asset": "images/comic/behave/solve_problems_teen_4.svg",
+      "character_1_id": "f3_hija_12",
+      "character_2_id": "f3_madre",
       "nested": false,
       "character_1_text": "Mira... ¡Esta noche me dormiré temprano!",
       "_translations": {
@@ -132,10 +132,10 @@
           "eng": "Mira... ¡Esta noche me dormiré temprano!"
         },
         "character_2_text": {
-          "eng": "Qué bien, {F1_HIJA_13}. Gracias por colaborar conmigo en encontrar una solución que nos funcione. ¡Ahora sí estarás descansada para mañana!"
+          "eng": "Qué bien, @data.characters.f3_hija_12.name. Gracias por colaborar conmigo en encontrar una solución que nos funcione. ¡Ahora sí estarás descansada para mañana!"
         }
       },
-      "character_2_text": "Qué bien, {F1_HIJA_13}. Gracias por colaborar conmigo en encontrar una solución que nos funcione. ¡Ahora sí estarás descansada para mañana!"
+      "character_2_text": "Qué bien, @data.characters.f3_hija_12.name. Gracias por colaborar conmigo en encontrar una solución que nos funcione. ¡Ahora sí estarás descansada para mañana!"
     },
     {
       "id": "practical_tips_1",
@@ -157,7 +157,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\n*_Habla con tu adolescente sobre los cuatro pasos para resolver problemas y revisen la lección juntos. ¡Saber resolver problemas es una habilidad que podrán usar el resto de sus vidas!_*",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \nHabla con tu adolescente sobre los cuatro pasos para resolver problemas y revisen la lección juntos. ¡Saber resolver problemas es una habilidad que podrán usar el resto de sus vidas!",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -168,7 +168,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\n*_Habla con tu adolescente sobre los cuatro pasos para resolver problemas y revisen la lección juntos. ¡Saber resolver problemas es una habilidad que podrán usar el resto de sus vidas!_*"
+          "eng": "**_Actividad para casa_**⭐ \nHabla con tu adolescente sobre los cuatro pasos para resolver problemas y revisen la lección juntos. ¡Saber resolver problemas es una habilidad que podrán usar el resto de sus vidas!"
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy?"
@@ -195,7 +195,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - problem (31 - 45).xlsx",
+    "path": "data/PA modules - behave (31 - 43).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1q27LnkUFTJQqEbqkgh1hgN4sDQkfasSo29b5SAP4ktg"
   },
   "_metadata": {

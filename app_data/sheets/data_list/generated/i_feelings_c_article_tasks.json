@@ -6,26 +6,35 @@
     {
       "id": "relax_1",
       "in_library": "yes",
+      "title_eng": "Quick pause",
+      "title": "Pausa rápida",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_1.mp3",
+      "media_asset_m": "audio/relax/relax_1.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
-      "title": "Quick pause",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Quick pause"
-        }
-      },
+      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "category_id": "relax",
       "nested": false,
       "completed": false
     },
     {
       "id": "check_in_8",
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "El autocuidado es una herramienta clave en la crianza. Comienza por reconocer cómo te sientes.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
       "_translatedFields": {
         "text_1": {
           "eng": "El autocuidado es una herramienta clave en la crianza. Comienza por reconocer cómo te sientes."
@@ -52,22 +61,6 @@
           "eng": "Triste"
         }
       },
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "El autocuidado es una herramienta clave en la crianza. Comienza por reconocer cómo te sientes.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "quiz_1_feedback_1": "¡Que bien! Y que valioso que estés usando esta aplicación, esto muestra tu compromiso con la crianza. Recuerda reconocerte por todo lo que estás haciendo.",
       "quiz_1_feedback_2": "Cada día tiene altas y bajas. Reconócete por estar aquí y seguir intentándolo: estás avanzando.",
       "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles en este momento. Toma una respiración profunda y recuerda que eres valiosa/o.",
@@ -79,6 +72,8 @@
     },
     {
       "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "😃😣😔 Esta lección trata sobre identificar tus emociones y las de {tu niño}."
@@ -132,8 +127,6 @@
           "eng": "👀¡Ups! ¡Buen intento!\n\n🌱 Compartir nuestras emociones, con amabilidad y calma, les da a las niñas, niños o adolescentes un ejemplo de cómo pueden hacerlo. Como cuidadores es válido sentirse estresados y compartirlo sanamente puede ayudarles a entendernos."
         }
       },
-      "category_id": "intro",
-      "nested": false,
       "quiz_1_feedback_1": "🎉Eso es correcto.\n\n6️⃣Existen 6 emociones básicas: alegría, tristeza, enojo, asco, sorpresa y miedo. \n\n✅Es importante que hablemos con nuestras niñas y niños sobre TODAS ellas.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -174,71 +167,71 @@
     },
     {
       "id": "explore_1",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Veamos cómo {F3_MADRE} ayuda a su niña a persistir en una actividad difícil durante el tiempo juntos y conectados."
-        },
-        "character_1_text": {
-          "eng": "{F3_HIJA_7}, Quiero pasar tiempo contigo. ¿Qué quieres hacer?"
-        },
-        "character_2_text": {
-          "eng": "{F3_HIJA_7}: ¡Vamos a jugar afuera con la pelota!"
-        }
-      },
       "category_id": "explore",
       "nested": false,
-      "text_1_facilitator": "Veamos cómo {F3_MADRE} ayuda a su niña a persistir en una actividad difícil durante el tiempo juntos y conectados.",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Veamos cómo @data.characters.f3_madre.name ayuda a su niña a persistir en una actividad difícil durante el tiempo juntos y conectados."
+        },
+        "character_1_text": {
+          "eng": "@data.characters.f3.hija_7.name, Quiero pasar tiempo contigo. ¿Qué quieres hacer?"
+        },
+        "character_2_text": {
+          "eng": "¡Vamos a jugar afuera con la pelota!"
+        }
+      },
+      "text_1_facilitator": "Veamos cómo @data.characters.f3_madre.name ayuda a su niña a persistir en una actividad difícil durante el tiempo juntos y conectados.",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
         "character_2_text": {}
       },
-      "image_asset": "https://drive.google.com/file/d/1xG2cQWm1nZ10zqhEORePjv5wfMbjeq-A/view?usp=drive_link",
-      "character_1_id": "{F3_MADRE}",
-      "character_2_id": "{F3_HIJA_7}",
-      "character_1_text": "{F3_HIJA_7}, Quiero pasar tiempo contigo. ¿Qué quieres hacer?",
-      "character_2_text": "{F3_HIJA_7}: ¡Vamos a jugar afuera con la pelota!",
+      "image_asset": "images/comic/relation/feelings_yc_1.svg",
+      "character_1_id": "f3_madre",
+      "character_2_id": "f3_hija_7",
+      "character_1_text": "@data.characters.f3.hija_7.name, Quiero pasar tiempo contigo. ¿Qué quieres hacer?",
+      "character_2_text": "¡Vamos a jugar afuera con la pelota!",
       "completed": false
     },
     {
       "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "¡No soy buena con la pelota!."
         },
         "character_2_text": {
-          "eng": "Veo que tienes tus manos apretadas y estás levantando la voz. Parece que estás molesta, {F3_HIJA_7}. Sé que puede ser algo frustrante, tomemos una pausa y  cuándo estés lista para continuar avísame."
+          "eng": "Veo que tienes tus manos apretadas y estás levantando la voz. Parece que estás molesta, @data.characters.f3.hija_7.name. Sé que puede ser algo frustrante, tomemos una pausa y  cuándo estés lista para continuar avísame."
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "https://drive.google.com/file/d/180zLdOyh1VFlOXoy8P5BRNn55XBWlaCo/view?usp=drive_link",
-      "character_1_id": "{F3_HIJA_7}",
-      "character_2_id": "{F3_MADRE}",
+      "image_asset": "images/comic/relation/feelings_yc_2.svg",
+      "character_1_id": "f3_hija_7",
+      "character_2_id": "f3_madre",
       "character_1_text": "¡No soy buena con la pelota!.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
-      "character_2_text": "Veo que tienes tus manos apretadas y estás levantando la voz. Parece que estás molesta, {F3_HIJA_7}. Sé que puede ser algo frustrante, tomemos una pausa y  cuándo estés lista para continuar avísame.",
+      "character_2_text": "Veo que tienes tus manos apretadas y estás levantando la voz. Parece que estás molesta, @data.characters.f3.hija_7.name. Sé que puede ser algo frustrante, tomemos una pausa y  cuándo estés lista para continuar avísame.",
       "completed": false
     },
     {
       "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
       "_translatedFields": {
         "character_1_text": {
-          "eng": "¡Ya van cinco veces que la atrapas, {F3_HIJA_7}! ¡Debes de estar orgullosa de haber llegado a cinco!"
+          "eng": "¡Ya van cinco veces que la atrapas, @data.characters.f3.hija_7.name! ¡Debes de estar orgullosa de haber llegado a cinco!"
         },
         "character_2_text": {
           "eng": "¡Vamos por 10!"
         }
       },
-      "category_id": "explore",
-      "nested": false,
-      "image_asset": "https://drive.google.com/file/d/1SEhvAmT7yWI0Z5R2fJhSgJF7UNNS3Osv/view?usp=drive_link",
-      "character_1_id": "{F3_MADRE}",
-      "character_2_id": "{F3_HIJA_7}",
-      "character_1_text": "¡Ya van cinco veces que la atrapas, {F3_HIJA_7}! ¡Debes de estar orgullosa de haber llegado a cinco!",
+      "image_asset": "images/comic/relation/feelings_yc_3.svg",
+      "character_1_id": "f3_madre",
+      "character_2_id": "f3_hija_7",
+      "character_1_text": "¡Ya van cinco veces que la atrapas, @data.characters.f3.hija_7.name! ¡Debes de estar orgullosa de haber llegado a cinco!",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
@@ -248,16 +241,16 @@
     },
     {
       "id": "explore_4",
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Me hace muy feliz poder pasar este tiempo especial contigo, {F3_HIJA_7}."
-        }
-      },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "https://drive.google.com/file/d/17eEDp6x1XL7LzcsVmIrsReyOxiajVEpu/view?usp=drive_link",
-      "character_1_id": "{F3_MADRE}",
-      "character_1_text": "Me hace muy feliz poder pasar este tiempo especial contigo, {F3_HIJA_7}.",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Me hace muy feliz poder pasar este tiempo especial contigo, @data.characters.f3.hija_7.name."
+        }
+      },
+      "image_asset": "images/comic/relation/feelings_yc_4.svg",
+      "character_1_id": "f3_madre",
+      "character_1_text": "Me hace muy feliz poder pasar este tiempo especial contigo, @data.characters.f3.hija_7.name.",
       "_translations": {
         "character_1_text": {}
       },
@@ -266,13 +259,13 @@
     {
       "id": "practical_tips_1",
       "media_type": "video",
+      "category_id": "practical_tips",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Da clic en reproducir ▶️ para aprender las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:\n\n1️⃣ APRENDER\n2️⃣ IDENTIFICAR\n3️⃣ ABRIR TU MENTE\n4️⃣ HABLAR\n5️⃣ COMPARTIR\n6️⃣ MOSTRAR INTERÉS"
         }
       },
-      "category_id": "practical_tips",
-      "nested": false,
       "text_1_facilitator": "Da clic en reproducir ▶️ para aprender las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:\n\n1️⃣ APRENDER\n2️⃣ IDENTIFICAR\n3️⃣ ABRIR TU MENTE\n4️⃣ HABLAR\n5️⃣ COMPARTIR\n6️⃣ MOSTRAR INTERÉS",
       "_translations": {
         "text_1_facilitator": {}
@@ -282,9 +275,11 @@
     },
     {
       "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nDurante el tiempo juntos y conectados, practica identificar las emociones de {tu niño}. Conversa con él o ella describiendo tus propias emociones y las de {tu niño}"
+          "eng": "**_Actividad para casa_**⭐ \n\nDurante el tiempo juntos y conectados, practica identificar las emociones de {tu niño}. Conversa con él o ella describiendo tus propias emociones y las de {tu niño}"
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy?"
@@ -302,8 +297,6 @@
           "eng": "Está bien, no pasa nada. Intenta encontrar tiempo durante esta semana."
         }
       },
-      "category_id": "practise",
-      "nested": false,
       "quiz_1_feedback_1": "¡Muy buen trabajo! ⭐\n\nEsto marcará una gran diferencia.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -317,7 +310,7 @@
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nDurante el tiempo juntos y conectados, practica identificar las emociones de {tu niño}. Conversa con él o ella describiendo tus propias emociones y las de {tu niño}",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nDurante el tiempo juntos y conectados, practica identificar las emociones de {tu niño}. Conversa con él o ella describiendo tus propias emociones y las de {tu niño}",
       "completed": false
     }
   ],

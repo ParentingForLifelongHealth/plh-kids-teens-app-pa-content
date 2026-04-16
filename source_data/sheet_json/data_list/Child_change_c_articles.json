@@ -31,43 +31,43 @@
     {
       "id": "explore_1",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/child_change_yc_1",
-      "character_1_id": "F3_TÍO",
+      "image_asset": "images/comic/understand/child_change_yc_1.svg",
+      "character_1_id": "f3_padre",
       "character_1_text::eng": "Patea la pelota suavemente con la parte de adentro de tu pie... Así.",
-      "character_2_id": "F3_HIJO_4",
+      "character_2_id": "f3_hijo_4",
       "character_2_text::eng": "¡Yo lo quiero hacer ahora!",
-      "character_3_id": "F3_HIJA_7",
+      "character_3_id": "f3_hija_7",
       "character_3_text::eng": "¡No, yo lo quiero hacer primero!"
     },
     {
       "id": "explore_2",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/child_change_yc_2",
-      "character_1_id": "F3_TÍO",
-      "character_1_text::eng": "Puede que nos cueste trabajo esperar, pero no todos podemos ir primero. {F3_HIJA_7}, ¿qué tal si nos propones una manera en la que nos podamos patear la pelota por turnos?",
-      "character_2_id": "F3_HIJA_7",
-      "character_2_text::eng": "Está bien. Qué tal si hacemos un círculo y yo le doy la pelota a {F3_HIJO_4}, luego él te la da a ti y, ¡tú me la devuelves a mí!",
-      "character_3_id": "F3_HIJO_4",
+      "image_asset": "images/comic/understand/child_change_yc_2.svg",
+      "character_1_id": "f3_padre",
+      "character_1_text::eng": "Puede que nos cueste trabajo esperar, pero no todos podemos ir primero. @data.characters.f3_hija_7.name, ¿qué tal si nos propones una manera en la que nos podamos patear la pelota por turnos?",
+      "character_2_id": "f3_hija_7",
+      "character_2_text::eng": "Está bien. Qué tal si hacemos un círculo y yo le doy la pelota a @data.characters.f3_hijo_4.name, luego él te la da a ti y, ¡tú me la devuelves a mí!",
+      "character_3_id": "f3_hijo_4",
       "character_3_text::eng": "Sí, ¡eso suena bien!"
     },
     {
       "id": "explore_3",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/child_change_yc_3",
-      "character_1_id": "F3_TÍO",
-      "character_1_text::eng": "¡Es una idea maravillosa, {F3_HIJA_7}! ¡Vamos a intentarlo!"
+      "image_asset": "images/comic/understand/child_change_yc_3.svg",
+      "character_1_id": "f3_padre",
+      "character_1_text::eng": "¡Es una idea maravillosa, @data.characters.f3_hija_7.name! ¡Vamos a intentarlo!"
     },
     {
       "id": "explore_4",
       "category_id": "Explore",
-      "image_asset": "images/7.Entender_el_desarrollo_de_mi_niña_niño_o_adolescente/child_change_yc_4",
-      "character_1_id": "F3_TÍO",
-      "character_1_text::eng": "¡Buen trabajo, {F3_HIJA_7}! Tú nos guiaste, ¡y todos nos divertimos mucho tomando turnos! {F3_HIJO_4}, tú estuviste excelente esperando pacientemente tu turno."
+      "image_asset": "images/comic/understand/child_change_yc_4.svg",
+      "character_1_id": "f3_padre",
+      "character_1_text::eng": "¡Buen trabajo, @data.characters.f3_hija_7.name! Tú nos guiaste, ¡y todos nos divertimos mucho tomando turnos! @data.characters.f3_hijo_4.name, tú estuviste excelente esperando pacientemente tu turno."
     },
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "text_1_facilitator::eng": "Da Clic en Reproducir ▶️ para aprender algunos pasos que puedes seguir para favorecer el desarrollo saludable de {tu niño} a medida que crece y va cambiando:\n\n1️⃣ **BUSCAR AMISTADES**\n2️⃣ **APOYAR LA CURIOSIDAD**\n3️⃣ **CONFIAR EN TU NIÑA O NIÑO**",
+      "text_1_facilitator::eng": "Da clic en reproducir ▶️ para aprender algunos pasos que puedes seguir para favorecer el desarrollo saludable de {tu niño} a medida que crece y va cambiando:\n\n1️⃣ **BUSCAR AMISTADES**\n2️⃣ **APOYAR LA CURIOSIDAD**\n3️⃣ **CONFIAR EN TU NIÑA O NIÑO**",
       "media_type": "video",
       "youtube_gb_en": "youtube link"
     },
@@ -79,7 +79,7 @@
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "*_Actividad para casa_*⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de {tu niño}. Para empezar, escribe {CRECER}.",
+      "text_1_facilitator::eng": "**_Actividad para casa_**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de {tu niño}. Para empezar, escribe {CRECER}.",
       "quiz_1_question::eng": "¿Puedes completar la evaluación hoy? ⭐",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de {tu niño}. Para empezar, escribe {CRECER}.",

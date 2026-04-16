@@ -10,7 +10,7 @@
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Tanto las personas cuidadoras como las niñas y niños tienen un rol que desempeñar en el hogar. 📝\n\nEl rol de {tu niño} es aprender, de las personas que le cuidan, qué puede hacer y qué no debe hacer. Puede empezar a hacer actividades en la casa que sean adecuadas para su edad. ⭐\n;\nComo persona cuidadora, tu rol es cuidar de {tu niño}, mantenerle a salvo y enseñarle cómo comportarse en el mundo. 🌱\n\n*_Tu papel más importante es ayudarle a {tu niño} a sentir tu amor y tu apoyo, ¡pase lo que pase!_* 💙",
+      "text_1_facilitator": "Tanto las personas cuidadoras como las niñas y niños tienen un rol que desempeñar en el hogar. 📝\n\nEl rol de {tu niño} es aprender, de las personas que le cuidan, qué puede hacer y qué no debe hacer. Puede empezar a hacer actividades en la casa que sean adecuadas para su edad. ⭐\n;\nComo persona cuidadora, tu rol es cuidar de {tu niño}, mantenerle a salvo y enseñarle cómo comportarse en el mundo. 🌱\n\n**_Tu papel más importante es ayudarle a {tu niño} a sentir tu amor y tu apoyo, ¡pase lo que pase!_** 💙",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {},
@@ -22,7 +22,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Tanto las personas cuidadoras como las niñas y niños tienen un rol que desempeñar en el hogar. 📝\n\nEl rol de {tu niño} es aprender, de las personas que le cuidan, qué puede hacer y qué no debe hacer. Puede empezar a hacer actividades en la casa que sean adecuadas para su edad. ⭐\n;\nComo persona cuidadora, tu rol es cuidar de {tu niño}, mantenerle a salvo y enseñarle cómo comportarse en el mundo. 🌱\n\n*_Tu papel más importante es ayudarle a {tu niño} a sentir tu amor y tu apoyo, ¡pase lo que pase!_* 💙"
+          "eng": "Tanto las personas cuidadoras como las niñas y niños tienen un rol que desempeñar en el hogar. 📝\n\nEl rol de {tu niño} es aprender, de las personas que le cuidan, qué puede hacer y qué no debe hacer. Puede empezar a hacer actividades en la casa que sean adecuadas para su edad. ⭐\n;\nComo persona cuidadora, tu rol es cuidar de {tu niño}, mantenerle a salvo y enseñarle cómo comportarse en el mundo. 🌱\n\n**_Tu papel más importante es ayudarle a {tu niño} a sentir tu amor y tu apoyo, ¡pase lo que pase!_** 💙"
         },
         "text_2": {
           "eng": "Si {tu niño} siente amor y apoyo en casa, ¡es más probable que haga las actividades del hogar con alegría y que se convierta en una niña o niño sano, y, eventualmente, en una persona adulta sana! 😃💚"
@@ -70,7 +70,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "*_Actividad para casa_*⭐ \n\nHabla con {tu niño} sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es un miembro valioso del hogar.",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nHabla con {tu niño} sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es un miembro valioso del hogar.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -81,7 +81,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*_Actividad para casa_*⭐ \n\nHabla con {tu niño} sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es un miembro valioso del hogar."
+          "eng": "**_Actividad para casa_**⭐ \n\nHabla con {tu niño} sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es un miembro valioso del hogar."
         },
         "quiz_1_question": {
           "eng": "💛 ¿Tienes tiempo para hacerlo hoy?"
@@ -108,7 +108,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - problem (31 - 45).xlsx",
+    "path": "data/PA modules - behave (31 - 43).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1q27LnkUFTJQqEbqkgh1hgN4sDQkfasSo29b5SAP4ktg"
   },
   "_metadata": {

@@ -112,6 +112,15 @@
               }
             },
             {
+              "name": "course_id",
+              "value": "learn_c",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "pick_random_locked_activity.module_start_at_id.course_id"
+            },
+            {
               "type": "nested_properties",
               "name": "module",
               "rows": [
@@ -120,6 +129,15 @@
                   "value": false,
                   "type": "set_variable",
                   "_nested_name": "pick_random_locked_activity.module_start_at_id.module.show_progress_bar"
+                },
+                {
+                  "name": "course_id",
+                  "value": "learn_c",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "pick_random_locked_activity.module_start_at_id.module.course_id"
                 }
               ],
               "_nested_name": "pick_random_locked_activity.module_start_at_id.module"

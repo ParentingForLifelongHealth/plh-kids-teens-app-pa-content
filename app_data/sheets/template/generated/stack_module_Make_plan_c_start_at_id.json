@@ -1,5 +1,5 @@
 {
-  "flow_name": "stack_module_Make_plan_c_start_at_id",
+  "flow_name": "stack_module_make_plan_c_start_at_id",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -32,10 +32,10 @@
               "trigger": "completed",
               "action_id": "set_data",
               "args": [],
-              "_raw": "completed | set_data | _list_id: module_tasks, _id: Make_plan_c, unlocked_activity: TRUE",
+              "_raw": "completed | set_data | _list_id: module_tasks, _id: make_plan_c, unlocked_activity: TRUE",
               "params": {
                 "_list_id": "module_tasks",
-                "_id": "Make_plan_c",
+                "_id": "make_plan_c",
                 "unlocked_activity": true
               }
             },
@@ -80,7 +80,7 @@
           "rows": [
             {
               "name": "module_id",
-              "value": "Make_plan_c",
+              "value": "make_plan_c",
               "_translations": {
                 "value": {}
               },
@@ -112,6 +112,15 @@
               }
             },
             {
+              "name": "course_id",
+              "value": "understand_c",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "pick_random_locked_activity.module_start_at_id.course_id"
+            },
+            {
               "type": "nested_properties",
               "name": "module",
               "rows": [
@@ -120,6 +129,15 @@
                   "value": false,
                   "type": "set_variable",
                   "_nested_name": "pick_random_locked_activity.module_start_at_id.module.show_progress_bar"
+                },
+                {
+                  "name": "course_id",
+                  "value": "understand_c",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "pick_random_locked_activity.module_start_at_id.module.course_id"
                 }
               ],
               "_nested_name": "pick_random_locked_activity.module_start_at_id.module"

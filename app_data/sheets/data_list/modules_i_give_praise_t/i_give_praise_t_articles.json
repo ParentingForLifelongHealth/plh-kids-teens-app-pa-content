@@ -49,7 +49,7 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/give_praise_teen_1.svg",
+      "image_asset": "images/comic/relation/give_praise_teen_1.svg",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "text_1_facilitator": "Aquí tienes una historieta sobre cómo puedes elogiar a tu adolescente durante su tiempo juntos y conectados.",
@@ -62,27 +62,27 @@
           "eng": "Aquí tienes una historieta sobre cómo puedes elogiar a tu adolescente durante su tiempo juntos y conectados."
         },
         "text_2": {
-          "eng": "{F3_MADRE} y su hija {F3_HIJA_12} dedican su tiempo juntos y conectados con las tareas de la escuela."
+          "eng": "@data.characters.f3_madre.name y su hija @data.characters.f3_hija_12.name dedican su tiempo juntos y conectados con las tareas de la escuela."
         }
       },
-      "text_2": "{F3_MADRE} y su hija {F3_HIJA_12} dedican su tiempo juntos y conectados con las tareas de la escuela."
+      "text_2": "@data.characters.f3_madre.name y su hija @data.characters.f3_hija_12.name dedican su tiempo juntos y conectados con las tareas de la escuela."
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/give_praise_teen_2.svg",
-      "character_1_id": "F3_MADRE",
-      "character_2_id": "F3_HIJA_12",
+      "image_asset": "images/comic/relation/give_praise_teen_2.svg",
+      "character_1_id": "f3_madre",
+      "character_2_id": "f3_hija_12",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "character_1_text": "¡Bien hecho, {F3_HIJA_12}! Creo que por fin lo lograste. No te había contado, pero las matemáticas siempre fueron difíciles para mí.",
+      "character_1_text": "¡Bien hecho, @data.characters.f3_hija_12.name! Creo que por fin lo lograste. No te había contado, pero las matemáticas siempre fueron difíciles para mí.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "¡Bien hecho, {F3_HIJA_12}! Creo que por fin lo lograste. No te había contado, pero las matemáticas siempre fueron difíciles para mí."
+          "eng": "¡Bien hecho, @data.characters.f3_hija_12.name! Creo que por fin lo lograste. No te había contado, pero las matemáticas siempre fueron difíciles para mí."
         },
         "character_2_text": {
           "eng": "¿En serio? Creí que solo me pasaba a mí."
@@ -93,9 +93,9 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/1. Mejorar la relación con mi NNA/give_praise_teen_3.svg",
-      "character_1_id": "F3_MADRE",
-      "character_2_id": "F3_HIJA_12",
+      "image_asset": "images/comic/relation/give_praise_teen_3.svg",
+      "character_1_id": "f3_madre",
+      "character_2_id": "f3_hija_12",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "text_2": "Después de terminar la tarea:",
@@ -109,13 +109,13 @@
           "eng": "Después de terminar la tarea:"
         },
         "character_1_text": {
-          "eng": "No fue nada fácil. ¡Yo también aprendí algo! Gracias por dejarme ayudarte con tu tarea, {F3_HIJA_12}. Estás avanzando mucho."
+          "eng": "No fue nada fácil. ¡Yo también aprendí algo! Gracias por dejarme ayudarte con tu tarea, @data.characters.f3_hija_12.name. Estás avanzando mucho."
         },
         "character_2_text": {
           "eng": "Gracias, mamá. De verdad agradezco que te hayas tomado este tiempo para ayudarme."
         }
       },
-      "character_1_text": "No fue nada fácil. ¡Yo también aprendí algo! Gracias por dejarme ayudarte con tu tarea, {F3_HIJA_12}. Estás avanzando mucho.",
+      "character_1_text": "No fue nada fácil. ¡Yo también aprendí algo! Gracias por dejarme ayudarte con tu tarea, @data.characters.f3_hija_12.name. Estás avanzando mucho.",
       "character_2_text": "Gracias, mamá. De verdad agradezco que te hayas tomado este tiempo para ayudarme."
     },
     {
@@ -237,7 +237,7 @@
   ],
   "_source": {
     "name": "kids_teens_pa",
-    "path": "data/PA modules - i (1-15).xlsx",
+    "path": "data/PA_modules_i (1-15).xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1oGWR1Nhn4QuYwISZdd8vHXrzun9Aw2bzMRzi4OqUNNs"
   },
   "_metadata": {
