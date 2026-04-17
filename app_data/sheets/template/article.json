@@ -216,6 +216,24 @@
       }
     },
     {
+      "name": "is_tips",
+      "value": false,
+      "type": "set_variable",
+      "_nested_name": "is_tips"
+    },
+    {
+      "name": "show_progress",
+      "value": false,
+      "type": "set_variable",
+      "_nested_name": "show_progress"
+    },
+    {
+      "name": "progress",
+      "value": 0,
+      "type": "set_variable",
+      "_nested_name": "progress"
+    },
+    {
       "name": "category_id",
       "value": "@local.article_data.category_id",
       "_translations": {
@@ -440,6 +458,54 @@
           },
           "_dynamicDependencies": {
             "@local.category_data.icon_asset": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "show_progress",
+          "value": "@local.show_progress",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "header.show_progress",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.show_progress",
+                "matchedExpression": "@local.show_progress",
+                "type": "local",
+                "fieldName": "show_progress"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.show_progress": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "progress",
+          "value": "@local.progress",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "header.progress",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.progress",
+                "matchedExpression": "@local.progress",
+                "type": "local",
+                "fieldName": "progress"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.progress": [
               "value"
             ]
           }
@@ -1359,8 +1425,65 @@
       "_nested_name": "default_language"
     },
     {
+      "name": "gender",
+      "value": "_f",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "gender"
+    },
+    {
+      "name": "gender",
+      "value": "_m",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@fields.facilitator_id== \"facilitator_male\"",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "gender",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@fields.facilitator_id== \"facilitator_male\"",
+            "matchedExpression": "@fields.facilitator_id",
+            "type": "fields",
+            "fieldName": "facilitator_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.facilitator_id": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "gender",
+      "condition": "@global.gender_youtube_link",
+      "type": "set_variable",
+      "_nested_name": "gender",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@global.gender_youtube_link",
+            "matchedExpression": "@global.gender_youtube_link",
+            "type": "global",
+            "fieldName": "gender_youtube_link"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.gender_youtube_link": [
+          "condition"
+        ]
+      }
+    },
+    {
       "name": "youtube_column",
-      "value": "@local.youtube@local.language",
+      "value": "@local.youtube@local.language@local.gender",
       "_translations": {
         "value": {}
       },
@@ -1370,16 +1493,22 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.youtube@local.language",
+            "fullExpression": "@local.youtube@local.language@local.gender",
             "matchedExpression": "@local.youtube",
             "type": "local",
             "fieldName": "youtube"
           },
           {
-            "fullExpression": "@local.youtube@local.language",
+            "fullExpression": "@local.youtube@local.language@local.gender",
             "matchedExpression": "@local.language",
             "type": "local",
             "fieldName": "language"
+          },
+          {
+            "fullExpression": "@local.youtube@local.language@local.gender",
+            "matchedExpression": "@local.gender",
+            "type": "local",
+            "fieldName": "gender"
           }
         ]
       },
@@ -1388,6 +1517,9 @@
           "value"
         ],
         "@local.language": [
+          "value"
+        ],
+        "@local.gender": [
           "value"
         ]
       }
@@ -1419,7 +1551,7 @@
     },
     {
       "name": "youtube_column_missing",
-      "value": "@local.youtube@local.default_language",
+      "value": "@local.youtube@local.default_language@local.gender",
       "_translations": {
         "value": {}
       },
@@ -1429,16 +1561,22 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.youtube@local.default_language",
+            "fullExpression": "@local.youtube@local.default_language@local.gender",
             "matchedExpression": "@local.youtube",
             "type": "local",
             "fieldName": "youtube"
           },
           {
-            "fullExpression": "@local.youtube@local.default_language",
+            "fullExpression": "@local.youtube@local.default_language@local.gender",
             "matchedExpression": "@local.default_language",
             "type": "local",
             "fieldName": "default_language"
+          },
+          {
+            "fullExpression": "@local.youtube@local.default_language@local.gender",
+            "matchedExpression": "@local.gender",
+            "type": "local",
+            "fieldName": "gender"
           }
         ]
       },
@@ -1447,6 +1585,9 @@
           "value"
         ],
         "@local.default_language": [
+          "value"
+        ],
+        "@local.gender": [
           "value"
         ]
       }
@@ -2445,22 +2586,31 @@
           "_raw": "uncompleted | emit: uncompleted"
         }
       ],
-      "condition": "@local.show_nav_buttons",
+      "condition": "@local.show_nav_buttons && !@local.is_tips",
       "exclude_from_translation": true,
       "rows": [],
       "_nested_name": "nav_buttons",
       "_dynamicFields": {
         "condition": [
           {
-            "fullExpression": "@local.show_nav_buttons",
+            "fullExpression": "@local.show_nav_buttons && !@local.is_tips",
             "matchedExpression": "@local.show_nav_buttons",
             "type": "local",
             "fieldName": "show_nav_buttons"
+          },
+          {
+            "fullExpression": "@local.show_nav_buttons && !@local.is_tips",
+            "matchedExpression": "!@local.is_tips",
+            "type": "local",
+            "fieldName": "is_tips"
           }
         ]
       },
       "_dynamicDependencies": {
         "@local.show_nav_buttons": [
+          "condition"
+        ],
+        "!@local.is_tips": [
           "condition"
         ]
       }

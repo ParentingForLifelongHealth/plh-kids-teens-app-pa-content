@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 90
+        "count": 95
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 146
+        "count": 154
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 92
+        "count": 93
       },
       {
         "type": "drawer",
@@ -59,11 +59,11 @@
       },
       {
         "type": "image",
-        "count": 21
+        "count": 22
       },
       {
         "type": "items",
-        "count": 15
+        "count": 16
       },
       {
         "type": "lottie_animation",
@@ -98,6 +98,10 @@
         "count": 1
       },
       {
+        "type": "plh_module_list_item",
+        "count": 2
+      },
+      {
         "type": "qr_code",
         "count": 1
       },
@@ -119,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3295
+        "count": 3415
       },
       {
         "type": "simple_checkbox",
@@ -135,11 +139,11 @@
       },
       {
         "type": "template",
-        "count": 1026
+        "count": 1034
       },
       {
         "type": "text",
-        "count": 171
+        "count": 174
       },
       {
         "type": "text_area",
@@ -147,19 +151,15 @@
       },
       {
         "type": "text_box",
-        "count": 13
+        "count": 14
       },
       {
         "type": "text_bubble",
         "count": 7
       },
       {
-        "type": "tile_component",
-        "count": 1
-      },
-      {
         "type": "title",
-        "count": 49
+        "count": 53
       },
       {
         "type": "toggle_bar",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 640
+        "count": 652
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 639
+        "count": 658
       },
       {
         "type": "feedback",
@@ -231,11 +231,15 @@
       },
       {
         "type": "nav_stack",
-        "count": 508
+        "count": 498
+      },
+      {
+        "type": "plh_certificate",
+        "count": 12
       },
       {
         "type": "pop_up",
-        "count": 97
+        "count": 103
       },
       {
         "type": "reset_app",
@@ -246,12 +250,16 @@
         "count": 3
       },
       {
+        "type": "save_to_device",
+        "count": 1
+      },
+      {
         "type": "set_data",
-        "count": 108
+        "count": 112
       },
       {
         "type": "set_field",
-        "count": 117
+        "count": 130
       },
       {
         "type": "set_item",
@@ -259,11 +267,11 @@
       },
       {
         "type": "set_local",
-        "count": 60
+        "count": 64
       },
       {
         "type": "share",
-        "count": 2
+        "count": 3
       },
       {
         "type": "task",
@@ -283,13 +291,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "27351 KB",
-        "MB": "27.4 MB"
+        "KB": "58568 KB",
+        "MB": "58.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "47228 KB",
-        "MB": "47.2 MB"
+        "KB": "16011 KB",
+        "MB": "16 MB"
       }
     ]
   },
@@ -330,94 +338,6 @@
       {
         "path": "images/backgrounds/progress_arc.png",
         "size_kb": 255.4
-      },
-      {
-        "path": "images/character_icons/AMIGA_MUJER_1.svg",
-        "size_kb": 978.5
-      },
-      {
-        "path": "images/character_icons/AMIGA_MUJER_2.svg",
-        "size_kb": 1412.5
-      },
-      {
-        "path": "images/character_icons/F1_HIJA_13.svg",
-        "size_kb": 1907.1
-      },
-      {
-        "path": "images/character_icons/F1_HIJA_16.svg",
-        "size_kb": 1876.8
-      },
-      {
-        "path": "images/character_icons/F1_HIJA_6.svg",
-        "size_kb": 1876.9
-      },
-      {
-        "path": "images/character_icons/F1_HIJO_17.svg",
-        "size_kb": 1876.9
-      },
-      {
-        "path": "images/character_icons/F1_HIJO_5.svg",
-        "size_kb": 1877
-      },
-      {
-        "path": "images/character_icons/F1_MADRE.svg",
-        "size_kb": 1877
-      },
-      {
-        "path": "images/character_icons/F1_PADRE.svg",
-        "size_kb": 1877
-      },
-      {
-        "path": "images/character_icons/F2_ABUELA.svg",
-        "size_kb": 1419.4
-      },
-      {
-        "path": "images/character_icons/F2_ABUELO.svg",
-        "size_kb": 1419.4
-      },
-      {
-        "path": "images/character_icons/F2_HIJA_17.svg",
-        "size_kb": 1419.3
-      },
-      {
-        "path": "images/character_icons/F2_HIJA_3.svg",
-        "size_kb": 1784.1
-      },
-      {
-        "path": "images/character_icons/F2_HIJO_15.svg",
-        "size_kb": 1419.3
-      },
-      {
-        "path": "images/character_icons/F2_HIJO_8.svg",
-        "size_kb": 1784.1
-      },
-      {
-        "path": "images/character_icons/F3_HIJA_12.svg",
-        "size_kb": 1057.5
-      },
-      {
-        "path": "images/character_icons/F3_HIJA_7.svg",
-        "size_kb": 1056.9
-      },
-      {
-        "path": "images/character_icons/F3_HIJO_4.svg",
-        "size_kb": 1057
-      },
-      {
-        "path": "images/character_icons/F3_MADRE.svg",
-        "size_kb": 1057.1
-      },
-      {
-        "path": "images/character_icons/F3_PADRE.svg",
-        "size_kb": 1057.1
-      },
-      {
-        "path": "images/character_icons/HOMBRE_EN_COCHE.svg",
-        "size_kb": 203.7
-      },
-      {
-        "path": "images/character_icons/PROFESORA_1.svg",
-        "size_kb": 919.8
       },
       {
         "path": "images/comic/behave/consequences_yc_1.svg",
@@ -956,10 +876,6 @@
         "size_kb": 7.3
       },
       {
-        "path": "images/icons/expand_circle_right.png",
-        "size_kb": 0.9
-      },
-      {
         "path": "images/icons/expand_circle_right.svg",
         "size_kb": 0.5
       },
@@ -1080,10 +996,6 @@
         "size_kb": 3.4
       },
       {
-        "path": "images/icons/question_mark_blue.svg",
-        "size_kb": 0.8
-      },
-      {
         "path": "images/icons/repeat_blue.png",
         "size_kb": 5.4
       },
@@ -1102,10 +1014,6 @@
       {
         "path": "images/icons/star_filled_blue.png",
         "size_kb": 5.1
-      },
-      {
-        "path": "images/icons/star_outline_blue.svg",
-        "size_kb": 1
       },
       {
         "path": "images/icons/star_outline_white.svg",
@@ -1304,8 +1212,13 @@
         "missing": true
       },
       {
+        "path": "images/icons/download.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
         "path": "images/icons/share.svg",
-        "count": 2,
+        "count": 3,
         "missing": true
       },
       {
@@ -1821,6 +1734,116 @@
         "path": "images/backgrounds/mountains_trees.svg",
         "count": 1,
         "size_kb": 23.2
+      },
+      {
+        "path": "images/character_icons/AMIGA_MUJER_1.svg",
+        "count": 1,
+        "size_kb": 978.5
+      },
+      {
+        "path": "images/character_icons/AMIGA_MUJER_2.svg",
+        "count": 1,
+        "size_kb": 1412.5
+      },
+      {
+        "path": "images/character_icons/F1_HIJA_13.svg",
+        "count": 1,
+        "size_kb": 1907.1
+      },
+      {
+        "path": "images/character_icons/F1_HIJA_16.svg",
+        "count": 1,
+        "size_kb": 1876.8
+      },
+      {
+        "path": "images/character_icons/F1_HIJA_6.svg",
+        "count": 1,
+        "size_kb": 1876.9
+      },
+      {
+        "path": "images/character_icons/F1_HIJO_17.svg",
+        "count": 1,
+        "size_kb": 1876.9
+      },
+      {
+        "path": "images/character_icons/F1_HIJO_5.svg",
+        "count": 1,
+        "size_kb": 1877
+      },
+      {
+        "path": "images/character_icons/F1_MADRE.svg",
+        "count": 1,
+        "size_kb": 1877
+      },
+      {
+        "path": "images/character_icons/F1_PADRE.svg",
+        "count": 1,
+        "size_kb": 1877
+      },
+      {
+        "path": "images/character_icons/F2_ABUELA.svg",
+        "count": 1,
+        "size_kb": 1419.4
+      },
+      {
+        "path": "images/character_icons/F2_ABUELO.svg",
+        "count": 1,
+        "size_kb": 1419.4
+      },
+      {
+        "path": "images/character_icons/F2_HIJA_17.svg",
+        "count": 1,
+        "size_kb": 1419.3
+      },
+      {
+        "path": "images/character_icons/F2_HIJA_3.svg",
+        "count": 1,
+        "size_kb": 1784.1
+      },
+      {
+        "path": "images/character_icons/F2_HIJO_15.svg",
+        "count": 1,
+        "size_kb": 1419.3
+      },
+      {
+        "path": "images/character_icons/F2_HIJO_8.svg",
+        "count": 1,
+        "size_kb": 1784.1
+      },
+      {
+        "path": "images/character_icons/F3_HIJA_12.svg",
+        "count": 1,
+        "size_kb": 1057.5
+      },
+      {
+        "path": "images/character_icons/F3_HIJA_7.svg",
+        "count": 1,
+        "size_kb": 1056.9
+      },
+      {
+        "path": "images/character_icons/F3_HIJO_4.svg",
+        "count": 1,
+        "size_kb": 1057
+      },
+      {
+        "path": "images/character_icons/F3_MADRE.svg",
+        "count": 1,
+        "size_kb": 1057.1
+      },
+      {
+        "path": "images/character_icons/F3_PADRE.svg",
+        "count": 1,
+        "size_kb": 1057.1
+      },
+      {
+        "path": "images/character_icons/HOMBRE_EN_COCHE.svg",
+        "count": 1,
+        "size_kb": 203.7
+      },
+      {
+        "path": "images/character_icons/PROFESORA_1.svg",
+        "count": 1,
+        "size_kb": 919.8
       },
       {
         "path": "images/comic/behave/consequences_teen_1.svg",
@@ -2719,8 +2742,13 @@
       },
       {
         "path": "images/icons/document-text-outline.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 0.5
+      },
+      {
+        "path": "images/icons/expand_circle_right.png",
+        "count": 1,
+        "size_kb": 0.9
       },
       {
         "path": "images/icons/expand_circle_right_blue.svg",
@@ -2729,7 +2757,7 @@
       },
       {
         "path": "images/icons/faces/happy.svg",
-        "count": 8,
+        "count": 11,
         "size_kb": 0.6
       },
       {
@@ -2739,7 +2767,7 @@
       },
       {
         "path": "images/icons/faces/neutral.svg",
-        "count": 8,
+        "count": 11,
         "size_kb": 0.5
       },
       {
@@ -2749,7 +2777,7 @@
       },
       {
         "path": "images/icons/faces/sad.svg",
-        "count": 8,
+        "count": 11,
         "size_kb": 0.6
       },
       {
@@ -2849,7 +2877,7 @@
       },
       {
         "path": "images/icons/locked.png",
-        "count": 1,
+        "count": 2,
         "size_kb": 0.7
       },
       {
@@ -2883,6 +2911,11 @@
         "size_kb": 1.8
       },
       {
+        "path": "images/icons/question_mark_blue.svg",
+        "count": 1,
+        "size_kb": 0.8
+      },
+      {
         "path": "images/icons/settings.svg",
         "count": 1,
         "size_kb": 2.4
@@ -2899,12 +2932,17 @@
       },
       {
         "path": "images/icons/smile_eyes_down.svg",
-        "count": 77,
+        "count": 78,
         "size_kb": 0.9
       },
       {
         "path": "images/icons/smile_eyes_up.svg",
         "count": 152,
+        "size_kb": 1
+      },
+      {
+        "path": "images/icons/star_outline_blue.svg",
+        "count": 1,
         "size_kb": 1
       },
       {
@@ -2999,7 +3037,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 11
+        "total": 12
       },
       {
         "type": "data_list",
@@ -3029,6 +3067,11 @@
       {
         "type": "data_list",
         "subtype": "legal_terms",
+        "total": 2
+      },
+      {
+        "type": "data_list",
+        "subtype": "library",
         "total": 2
       },
       {
@@ -3254,12 +3297,12 @@
       {
         "type": "generator",
         "subtype": null,
-        "total": 48
+        "total": 49
       },
       {
         "type": "global",
         "subtype": null,
-        "total": 5
+        "total": 6
       },
       {
         "type": "global",
@@ -3274,12 +3317,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 159
+        "total": 165
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 766
+        "total": 776
       },
       {
         "type": "template",

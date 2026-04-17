@@ -90,6 +90,15 @@
   },
   {
     "flow_type": "data_list",
+    "flow_name": "certificate_data",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/certificates.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1VpI924QZ80Ilk2GsDMSWKGHBvSs67EsiD0mPR5GejN8"
+    }
+  },
+  {
+    "flow_type": "data_list",
     "flow_name": "characters",
     "_source": {
       "name": "kids_teens_pa",
@@ -593,6 +602,26 @@
       "name": "kids_teens_pa",
       "path": "data/PA modules - learn (44 - 64).xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1uYUivXZOTg0ZliArzDnwFz4zNAX9qm_0iMzEgFQfGKY"
+    }
+  },
+  {
+    "flow_type": "data_list",
+    "flow_subtype": "library",
+    "flow_name": "library_article",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "data/PA library articles.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1WIlLYTgbO2amOC7-J2yLM9JIm191sS8mN_zi5d1cWtg"
+    }
+  },
+  {
+    "flow_type": "data_list",
+    "flow_subtype": "library",
+    "flow_name": "library_section",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "data/PA library articles.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1WIlLYTgbO2amOC7-J2yLM9JIm191sS8mN_zi5d1cWtg"
     }
   },
   {
@@ -1695,6 +1724,15 @@
   },
   {
     "flow_type": "global",
+    "flow_name": "global_certificator_settings",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "data/deployment_data_pa.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1a_PDtnQiKKzNSBNJcVh_TFk0kB7YbtWE22mh87mqMdI"
+    }
+  },
+  {
+    "flow_type": "global",
     "flow_subtype": "legal_terms",
     "flow_name": "legal_terms_global",
     "_source": {
@@ -1878,6 +1916,15 @@
       "name": "kids_teens_global V2",
       "path": "templates/articles.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1DugrEldDOorcWLHgU5QDSlBH1hbEYdOfsjVb7ehQFCo"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_name": "certificate_list_item",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/certificates.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1VpI924QZ80Ilk2GsDMSWKGHBvSs67EsiD0mPR5GejN8"
     }
   },
   {
@@ -2152,6 +2199,24 @@
   },
   {
     "flow_type": "template",
+    "flow_name": "library_essential_tool",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "templates/PA library_essential_tool.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1QwSE7lOm_2q6dtBD4VjgTj4hKqaB7razJErPX9SPWmc"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_name": "library_section_certificate",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/certificates.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1VpI924QZ80Ilk2GsDMSWKGHBvSs67EsiD0mPR5GejN8"
+    }
+  },
+  {
+    "flow_type": "template",
     "flow_name": "library_section_essential_tools",
     "_source": {
       "name": "kids_teens_global V2",
@@ -2171,6 +2236,15 @@
   {
     "flow_type": "template",
     "flow_name": "library_section_support",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/PLH activity library.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/15l61UKBeIn5h0uP6cw9nMuWJiB3vK7JZwswsEVmCaUE"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_name": "library_tools_element",
     "_source": {
       "name": "kids_teens_global V2",
       "path": "templates/PLH activity library.xlsx",
@@ -2944,6 +3018,15 @@
   },
   {
     "flow_type": "template",
+    "flow_name": "no_more_reprints",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/certificates.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1VpI924QZ80Ilk2GsDMSWKGHBvSs67EsiD0mPR5GejN8"
+    }
+  },
+  {
+    "flow_type": "template",
     "flow_name": "onboarding_footer",
     "_source": {
       "name": "library PLH onboarding",
@@ -3232,11 +3315,29 @@
   },
   {
     "flow_type": "template",
+    "flow_name": "show_certificate",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/certificates.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1VpI924QZ80Ilk2GsDMSWKGHBvSs67EsiD0mPR5GejN8"
+    }
+  },
+  {
+    "flow_type": "template",
     "flow_name": "unlock_play",
     "_source": {
       "name": "kids_teens_global V2",
       "path": "templates/PLH activity library.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/15l61UKBeIn5h0uP6cw9nMuWJiB3vK7JZwswsEVmCaUE"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_name": "update_certificate_name",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/certificates.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1VpI924QZ80Ilk2GsDMSWKGHBvSs67EsiD0mPR5GejN8"
     }
   },
   {

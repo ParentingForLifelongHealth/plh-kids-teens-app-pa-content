@@ -1,0 +1,76 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "library_section",
+  "status": "released",
+  "data_list_name": "library_section",
+  "flow_subtype": "library",
+  "rows": [
+    {
+      "id": "support",
+      "image": "images/icons/question_mark_blue.svg",
+      "title": "Support Contacts",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Support Contacts"
+        },
+        "introduction": {
+          "eng": "I need help with:"
+        }
+      },
+      "introduction": "I need help with:"
+    },
+    {
+      "id": "essential_tools",
+      "image": "images/icons/star_outline_blue.svg",
+      "title": "Essential Tools",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Essential Tools"
+        }
+      }
+    },
+    {
+      "id": "relax",
+      "image": "images/icons/smile_eyes_down.svg",
+      "title": "Take a Pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Take a Pause"
+        }
+      }
+    },
+    {
+      "id": "certificate",
+      "image": "images/icons/document-text-outline.svg",
+      "title": "My Certificates",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "My Certificates"
+        },
+        "introduction": {
+          "eng": "Complete your course and tell us how your home practice went to unlock your certificate."
+        }
+      },
+      "introduction": "Complete your course and tell us how your home practice went to unlock your certificate."
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA library articles.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1WIlLYTgbO2amOC7-J2yLM9JIm191sS8mN_zi5d1cWtg"
+  }
+}

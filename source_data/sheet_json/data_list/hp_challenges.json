@@ -19,7 +19,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8"
     },
     {
-      "id": "relation",
+      "id": "relation_c",
       "question_text::eng": "What did you find difficult about spending time with your child? 🔑",
       "text_challenge_1::eng": "I did not have enough time",
       "reply_challenge_1::eng": "It can be hard to find time during your day, with work, chores, and everything else.\n\n✨Think of a time each day that you could spare 5 minutes. You can even make household chores into a game to do together.",
@@ -37,7 +37,7 @@
       "reply_challenge_7::eng": "💛 We are sorry to hear that you have been finding it hard to spend one-on-one time with your child."
     },
     {
-      "id": "learning",
+      "id": "relation_t",
       "question_text::eng": "What did you find hard about doing activities with Your Child to help them learn?",
       "text_challenge_1::eng": "I didn’t have any books to read with my child",
       "reply_challenge_1::eng": "💡 That’s normal! Many parents don’t have books in the house. \n\n👀 You can also use anything that has pictures to interact with your child - magazines, newspapers, and even signs.",
@@ -51,7 +51,7 @@
       "reply_challenge_5::eng": "💚 I am sorry to hear that it has been hard to do learning activities with your child."
     },
     {
-      "id": "learning",
+      "id": "understand_c",
       "question_text::eng": "What did you find hard about doing activities with Your Child to help them learn?",
       "text_challenge_1::eng": "I didn’t have any books to read with my child",
       "reply_challenge_1::eng": "💡 That’s normal! Many parents don’t have books in the house. \n\n👀 You can also use anything that has pictures to interact with your child - magazines, newspapers, and even signs.",
@@ -65,7 +65,7 @@
       "reply_challenge_5::eng": "💚 I am sorry to hear that it has been hard to do learning activities with your child."
     },
     {
-      "id": "develop",
+      "id": "understand_t",
       "question_text::eng": "What did you find difficult when supporting your child’s development?",
       "text_challenge_1::eng": "I don’t have time to interact with my child",
       "reply_challenge_1::eng": "It is okay to feel that way. But there are many small ways to spend time with your child!\n\n⏰ You can interact with your child while doing something else. For example, you can ask your child to describe the colours and objects they see around them while you are walking together or in transit on a bus.\n\n😃 Your child will appreciate the attention you are giving, even for a short while.",
@@ -81,7 +81,7 @@
       "reply_challenge_6::eng": "💚 We are sorry to hear that it has been hard for you to understand your child’s development."
     },
     {
-      "id": "structure",
+      "id": "behave_c",
       "question_text::eng": "What did you find hard about involving your child when creating household rules and routines?",
       "text_challenge_1::eng": "My child could not agree on one specific rule or routine",
       "reply_challenge_1::eng": "📖 When creating rules, it is important to think about the age of each child, so you can come up with routines that are fair for their age.\n\n⏰ This is most important for bedtime, the time to come home, and household chores.",
@@ -93,7 +93,7 @@
       "reply_challenge_4::eng": "💚 We are sorry to hear that it has been hard to set and keep household rules."
     },
     {
-      "id": "behave",
+      "id": "behave_t",
       "question_text::eng": "What did you find hard about managing your child’s behaviour?",
       "text_challenge_1::eng": "I can’t redirect my child to a positive behaviour when they are misbehaving",
       "reply_challenge_1::eng": "🌱 Next time, try to catch the misbehaviour early on, before it sets in or gets worse.\n\n👂 Talk to them about this behaviour when both of you feel calmer.",
@@ -113,7 +113,7 @@
       "reply_challenge_*::eng": "We are sorry to hear that it has been hard to manage your child’s behaviour."
     },
     {
-      "id": "safety",
+      "id": "safety_c",
       "question_text::eng": "What did you find hard about keeping your child safe online and offline?",
       "text_challenge_1::eng": "My child is always on a gadget, even when I am working or doing house chores",
       "reply_challenge_1::eng": "📺 It must be exhausting to always tell your child to turn off or put away the gadgets.\n\n📝 You can set rules with your child. Tell them that they cannot be on gadgets when you are busy. Your busy time is your child’s quiet play time with toys or reading time with books.\n\n🌷 Tell your child that sharing what they watch on T.V. or what they do on gadgets is a rule. \n\n👂 Be patient and kind while listening to them. Manage your anger if you find that they did something wrong online. Take a deep breath.\n\n💛 Praise your child when they follow the rules!",
@@ -129,7 +129,7 @@
       "reply_challenge_6::eng": "💙 It is slightly uncomfortable to talk to our children about male and female body parts.\n\n💡But it helps to keep our children safe. Your child will know that they can come to you about any questions related to the body.\n\n💚 While it may be uncomfortable to talk about some body parts, especially private parts, your child will know how to talk about it if anything happens.\n\n🔑 Answer any questions from your child honestly. You can do this to keep our children safe!🌷"
     },
     {
-      "id": "ipv",
+      "id": "safety_t",
       "question_text::eng": "What did you find difficult about sharing tasks equally?",
       "text_challenge_1::eng": "I didn’t know how to support my spouse",
       "reply_challenge_1::eng": "🌱 Ask them! Telling your spouse you want to help but don’t know how, shows them you care and want to be involved.",
@@ -145,7 +145,7 @@
       "reply_challenge_6::eng": "Sorry to hear that your spouse did not react positively.\n\n🌱 Be proud of yourself for trying and be gentle with yourself."
     },
     {
-      "id": "budget",
+      "id": "learn_c",
       "question_text::eng": "What did you find difficult about planning your spending for the week?",
       "text_challenge_1::eng": "I did not want to tell my family how much I earn",
       "reply_challenge_1::eng": "💰 You do not have to reveal the exact amount you earn - give an estimate.\n\n💡 You could say, “In this household, we have this amount of money every month,” rather than, “I make this amount of money.”",
@@ -159,6 +159,12 @@
       "reply_challenge_5::eng": "💙 It can be hard to find time.\n\n⏰ This week, spend just 30 minutes on this activity. You can break each step up into shorter activities and spread it across the week.",
       "text_challenge_6::eng": "Prefer not to say",
       "reply_challenge_6::eng": "We are sorry to hear that it has been hard to budget with your family. You can review this skill any time! 📝"
+    },
+    {
+      "id": "learn_t"
+    },
+    {
+      "id": "ipv"
     }
   ]
 }

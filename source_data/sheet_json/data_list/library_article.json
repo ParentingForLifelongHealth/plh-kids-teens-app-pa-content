@@ -1,0 +1,52 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "library_article",
+  "status": "released",
+  "data_list_name": "library_article",
+  "flow_subtype": "library",
+  "rows": [
+    {
+      "id": "support_1",
+      "library_section_list": "support",
+      "title::eng": "An emergency",
+      "introduction::eng": "Malaysia Emergency Response System - MERS - (All in one) hotline: 999",
+      "attached_single_doc": "https://docs.google.com/document/d/18KvgNsmolCmlFmf3DWNfHrxL4Ko3kpYaUsJV7bkA26o"
+    },
+    {
+      "id": "support_2",
+      "library_section_list": "support",
+      "title::eng": "A mental health referral",
+      "introduction::eng": "Helpline for Mental Health Crisis by the Ministry of Health. HEAL Helpline: 15555\n\nBefrienders Kuala Lumpur. Helpline: 03 76272929. Website: http://www.befrienders.org.my"
+    },
+    {
+      "id": "support_3",
+      "library_section_list": "support",
+      "title::eng": "A health referral  ",
+      "introduction::eng": "Malaysia Emergency Response System - MERS - (All in one) hotline: 999"
+    },
+    {
+      "id": "support_4",
+      "library_section_list": "support",
+      "title::eng": "A referral related to violence",
+      "introduction::eng": "Women’s Centre for Change (WCC) Counseling hotline: 011-3108 4001\n\nWomen's Aid Organisation (provides support for domestic violence victims). Hotline: 03 3000 8858\n\nAll Women's Action Society (services for gender-based violence, rape, domestic violence and sexual harassment). Telenita helpline: 0162374221/016-2284221\n\nChildline Malaysia (services for child abuse, domestic violence, childline). Kasih Helpline: 15999"
+    },
+    {
+      "id": "support_5",
+      "library_section_list": "support",
+      "title::eng": "A referral related to natural disasters",
+      "introduction::eng": "Malaysia Emergency Response System - MERS - (All in one) hotline: 999\nFire and Rescue Department hotline: 994"
+    },
+    {
+      "id": "support_6",
+      "library_section_list": "support",
+      "title::eng": "A challenge with drugs",
+      "introduction::eng": "National Anti-Drugs Agency \nHotline: 1-800-22-2235 \nWebsite: https://www.aadk.gov.my/en/enforcement/hotline-operations-center/"
+    },
+    {
+      "id": "support_7",
+      "library_section_list": "support",
+      "title::eng": "A challenge in my family",
+      "introduction::eng": "Family and Marriage Counseling, LPPKN. Call FamilyCare@LPPKN helpline 1-800-82-0300 "
+    }
+  ]
+}

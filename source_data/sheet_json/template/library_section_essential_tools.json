@@ -48,56 +48,35 @@
       "type": "end_template"
     },
     {
-      "type": "begin_display_grid",
-      "name": "grid",
-      "parameter_list": "item_width: 170px; \nitem_border: none;"
-    },
-    {
       "type": "begin_items",
       "name": "loop_modules",
-      "value": "@data.module_tasks",
-      "parameter_list": "filter: !@item.tag_list || @item.tag_list.includes(@fields.child_age_tag);\nsort: number;"
+      "value": "@data.courses",
+      "parameter_list": "filter: (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)) && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+      "comment": "filter: (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship));"
     },
     {
-      "name": "packages",
-      "value": "ALL",
-      "exclude_from_translation": true,
-      "condition": "!@item.tag_list || !@global.has_multiple_content_packages"
+      "type": "title",
+      "value": "@item.title"
     },
     {
-      "name": "condition_package",
-      "value": true,
-      "condition": "!@item.tag_list || !@global.has_multiple_content_packages",
-      "comment": "Content without a tag is assumed to apply to all tags"
+      "type": "begin_template",
+      "value": "library_tools_element"
     },
     {
-      "name": "packages",
-      "value": "@item.tag_list",
-      "condition": "!!@item.tag_list && @global.has_multiple_content_packages"
+      "name": "course_id",
+      "value": "@item.id"
     },
     {
-      "name": "condition_package",
-      "value": "@calc(@local.packages.includes(@fields.current_package))",
-      "condition": "!!@item.tag_list && @global.has_multiple_content_packages"
-    },
-    {
-      "name": "tile_image",
-      "value": "@item.image_asset",
-      "condition": "@calc(@item.image_asset.endsWith(\".svg\"))"
-    },
-    {
-      "name": "tile_image",
-      "condition": "!@calc(@item.image_asset.endsWith(\".svg\"))"
-    },
-    {
-      "type": "tile_component",
-      "name": "tile_nav_stack_@item.id",
-      "action_list": "click | nav_stack: open | template: @local.article_prefix@item.id@local.article_suffix, header: false;",
-      "parameter_list": "style: image_text;\nfirst_line_text: @item.title;\nicon_src: @local.tile_image;",
-      "comment": "@local.condition_package"
+      "type": "end_template"
     },
     {
       "type": "end_items"
+    },
+    {
+      "type": "begin_display_grid",
+      "name": "grid",
+      "parameter_list": "item_width: 170px; \nitem_border: none;",
+      "condition": false
     },
     {
       "type": "end_display_grid"
