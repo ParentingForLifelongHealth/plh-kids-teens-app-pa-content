@@ -325,6 +325,7 @@
               }
             }
           ],
+          "condition": "@global.has_onboarding_language_select",
           "exclude_from_translation": true,
           "_nested_name": "dg_account.button_language",
           "_dynamicFields": {
@@ -353,7 +354,15 @@
                   "fieldName": "next_icon_asset"
                 }
               ]
-            }
+            },
+            "condition": [
+              {
+                "fullExpression": "@global.has_onboarding_language_select",
+                "matchedExpression": "@global.has_onboarding_language_select",
+                "type": "global",
+                "fieldName": "has_onboarding_language_select"
+              }
+            ]
           },
           "_dynamicDependencies": {
             "@global.language": [
@@ -364,6 +373,9 @@
             ],
             "@local.next_icon_asset": [
               "parameter_list.icon_secondary_asset"
+            ],
+            "@global.has_onboarding_language_select": [
+              "condition"
             ]
           }
         },

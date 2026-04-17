@@ -92,6 +92,7 @@
       "value": "@global.language",
       "parameter_list": "variant: card;\nicon: @local.language_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",
       "action_list": "click | pop_up: settings_language_select | fullscreen: true, showCloseButton: false;",
+      "condition": "@global.has_onboarding_language_select",
       "exclude_from_translation": true
     },
     {

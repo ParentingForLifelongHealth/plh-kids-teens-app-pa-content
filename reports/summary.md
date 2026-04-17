@@ -643,7 +643,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/diamond.png | 1.8 | 1 |
 | images/icons/diamond_active.png | 1.7 | 1 |
 | images/icons/document-lock-outline.svg | 0.7 | 1 |
-| images/icons/document-text-outline.svg | 0.5 | 2 |
+| images/icons/document-text-outline-thin.svg | 0.5 | 1 |
+| images/icons/document-text-outline.svg | 0.5 | 1 |
 | images/icons/expand_circle_right.png | 0.9 | 1 |
 | images/icons/expand_circle_right_blue.svg | 2.1 | 2 |
 | images/icons/faces/happy.svg | 0.6 | 11 |
