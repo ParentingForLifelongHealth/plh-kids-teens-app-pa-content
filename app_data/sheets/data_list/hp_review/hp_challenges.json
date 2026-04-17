@@ -6,7 +6,7 @@
   "flow_subtype": "hp_review",
   "rows": [
     {
-      "id": "relation",
+      "id": "relation_c",
       "challenge_1_tag_list": [
         "yes",
         "no"
@@ -122,7 +122,7 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "learning",
+      "id": "relation_t",
       "challenge_1_tag_list": [
         "yes",
         "no"
@@ -218,7 +218,7 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "learning",
+      "id": "understand_c",
       "challenge_1_tag_list": [
         "yes",
         "no"
@@ -314,7 +314,7 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "develop",
+      "id": "understand_t",
       "challenge_1_tag_list": [
         "yes",
         "no"
@@ -420,7 +420,7 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "structure",
+      "id": "behave_c",
       "challenge_1_tag_list": [
         "yes",
         "no"
@@ -506,7 +506,7 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "behave",
+      "id": "behave_t",
       "challenge_8_tag_list": [
         "Prefer not to say"
       ],
@@ -630,7 +630,7 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "safety",
+      "id": "safety_c",
       "challenge_1_tag_list": [
         "yes",
         "no"
@@ -736,7 +736,7 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "ipv",
+      "id": "safety_t",
       "challenge_1_tag_list": [
         "yes",
         "no"
@@ -842,7 +842,7 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "budget",
+      "id": "learn_c",
       "challenge_1_tag_list": [
         "yes",
         "no"
@@ -945,6 +945,98 @@
       "reply_challenge_5": "💙 It can be hard to find time.\n\n⏰ This week, spend just 30 minutes on this activity. You can break each step up into shorter activities and spread it across the week.",
       "text_challenge_6": "Prefer not to say",
       "reply_challenge_6": "We are sorry to hear that it has been hard to budget with your family. You can review this skill any time! 📝",
+      "top_text": "Challenges other parents experience:"
+    },
+    {
+      "id": "learn_t",
+      "challenge_1_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_2_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_3_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_4_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_5_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_6_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_7_tag_list": [
+        "yes",
+        "no"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
+      "question_text": "What challenges did you experience?",
+      "_translations": {
+        "question_text": {},
+        "top_text": {}
+      },
+      "_translatedFields": {
+        "question_text": {
+          "eng": "What challenges did you experience?"
+        },
+        "top_text": {
+          "eng": "Challenges other parents experience:"
+        }
+      },
+      "top_text": "Challenges other parents experience:"
+    },
+    {
+      "id": "ipv",
+      "challenge_1_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_2_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_3_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_4_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_5_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_6_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_7_tag_list": [
+        "yes",
+        "no"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
+      "question_text": "What challenges did you experience?",
+      "_translations": {
+        "question_text": {},
+        "top_text": {}
+      },
+      "_translatedFields": {
+        "question_text": {
+          "eng": "What challenges did you experience?"
+        },
+        "top_text": {
+          "eng": "Challenges other parents experience:"
+        }
+      },
       "top_text": "Challenges other parents experience:"
     }
   ],

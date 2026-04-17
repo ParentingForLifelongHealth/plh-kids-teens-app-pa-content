@@ -22,55 +22,64 @@
       "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac"
     },
     {
-      "id": "relation",
+      "id": "relation_c",
       "notification_text::eng": "How is one-on-one time going?",
       "text_goal::eng": "Your goal was to spend 5 minutes of one-on-one time with your child.",
       "reply_no::eng": "That is okay. Try to find time with them this week!",
       "reply_happy::eng": "That is great to hear! 🎉 Spending time with your child is a great way to build a good relationship with them!"
     },
     {
-      "id": "learning",
+      "id": "relation_t",
       "notification_text::eng": "When you involve your child, how does it go?",
       "text_goal::eng": "Your goal was to involve your child in an activity to help them learn.",
       "reply_no::eng": "That is okay. Try to find time to do it more with them this week!",
       "reply_happy::eng": "That’s great to hear! 🎉 Preparing your child for success in school will help them do well!"
     },
     {
-      "id": "develop",
+      "id": "understand_c",
       "notification_text::eng": "Are you finding it easy to support your child's development every day?",
       "text_goal::eng": "Your goal was to support your child's development.",
       "reply_happy::eng": "That is great to hear! 😃 Supporting your child’s development will help them live a safe and healthy life."
     },
     {
-      "id": "structure",
+      "id": "understand_t",
       "notification_text::eng": "How did the conversation about household rules go with your child?",
       "text_goal::eng": "Your goal was to set some structure at home.",
       "reply_happy::eng": "That is great to hear! 💙 Helping your child follow household rules gives them a sense of safety and security needed to thrive."
     },
     {
-      "id": "behave",
+      "id": "behave_c",
       "notification_text::eng": "How did managing the challenging behaviour go?",
       "text_goal::eng": "Your goal was to learn to manage your child's behaviour.",
       "reply_happy::eng": "It sounds like your child tends to behave well, which is great to hear! 💙"
     },
     {
-      "id": "safety",
+      "id": "behave_t",
       "notification_text::eng": "How has talking about safety been with your child? ",
       "text_goal::eng": "Your goal was to talk to your child about safety.",
       "reply_no::eng": "That is okay. It is not easy to know how to keep your child safe and healthy, especially in this changing world. ",
       "reply_happy::eng": "Great job! Knowing how to keep your child safe and healthy is an important responsibility as a parent. In this changing world, it is not easy to do! 🌱"
     },
     {
-      "id": "ipv",
+      "id": "safety_c",
       "notification_text::eng": "How did sharing household tasks with your spouse go?",
       "text_goal::eng": "Your goal was to share household tasks with your spouse. ",
       "reply_happy::eng": "That’s great to hear! Sharing tasks equally helps everyone feel valued."
     },
     {
-      "id": "budget",
+      "id": "safety_t",
       "notification_text::eng": "How did the budget planning go?",
       "text_goal::eng": "Your goal was to plan a budget.",
       "reply_happy::eng": "That’s amazing! 🎉 Keep doing this - your family will be better for it."
+    },
+    {
+      "id": "learn_c"
+    },
+    {
+      "id": "learn_t"
+    },
+    {
+      "id": "ipv"
     }
   ]
 }

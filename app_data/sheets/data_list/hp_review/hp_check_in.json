@@ -6,7 +6,7 @@
   "flow_subtype": "hp_review",
   "rows": [
     {
-      "id": "relation",
+      "id": "relation_c",
       "happy_image_asset": "images/icons/faces/happy.svg",
       "ok_image_asset": "images/icons/faces/neutral.svg",
       "sad_image_asset": "images/icons/faces/sad.svg",
@@ -67,7 +67,7 @@
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
     },
     {
-      "id": "learning",
+      "id": "relation_t",
       "happy_image_asset": "images/icons/faces/happy.svg",
       "ok_image_asset": "images/icons/faces/neutral.svg",
       "sad_image_asset": "images/icons/faces/sad.svg",
@@ -128,7 +128,7 @@
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
     },
     {
-      "id": "develop",
+      "id": "understand_c",
       "happy_image_asset": "images/icons/faces/happy.svg",
       "ok_image_asset": "images/icons/faces/neutral.svg",
       "sad_image_asset": "images/icons/faces/sad.svg",
@@ -189,7 +189,7 @@
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
     },
     {
-      "id": "structure",
+      "id": "understand_t",
       "happy_image_asset": "images/icons/faces/happy.svg",
       "ok_image_asset": "images/icons/faces/neutral.svg",
       "sad_image_asset": "images/icons/faces/sad.svg",
@@ -250,7 +250,7 @@
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
     },
     {
-      "id": "behave",
+      "id": "behave_c",
       "happy_image_asset": "images/icons/faces/happy.svg",
       "ok_image_asset": "images/icons/faces/neutral.svg",
       "sad_image_asset": "images/icons/faces/sad.svg",
@@ -311,7 +311,7 @@
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
     },
     {
-      "id": "safety",
+      "id": "behave_t",
       "happy_image_asset": "images/icons/faces/happy.svg",
       "ok_image_asset": "images/icons/faces/neutral.svg",
       "sad_image_asset": "images/icons/faces/sad.svg",
@@ -372,7 +372,7 @@
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
     },
     {
-      "id": "ipv",
+      "id": "safety_c",
       "happy_image_asset": "images/icons/faces/happy.svg",
       "ok_image_asset": "images/icons/faces/neutral.svg",
       "sad_image_asset": "images/icons/faces/sad.svg",
@@ -433,7 +433,7 @@
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
     },
     {
-      "id": "budget",
+      "id": "safety_t",
       "happy_image_asset": "images/icons/faces/happy.svg",
       "ok_image_asset": "images/icons/faces/neutral.svg",
       "sad_image_asset": "images/icons/faces/sad.svg",
@@ -489,6 +489,174 @@
       "question_done": "Did you have a chance to try this?",
       "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
       "question_how": "How did it go?",
+      "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
+      "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
+      "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+    },
+    {
+      "id": "learn_c",
+      "happy_image_asset": "images/icons/faces/happy.svg",
+      "ok_image_asset": "images/icons/faces/neutral.svg",
+      "sad_image_asset": "images/icons/faces/sad.svg",
+      "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
+      "notification_text": "Let’s check in on your home activity!",
+      "_translations": {
+        "notification_text": {},
+        "activity_title": {},
+        "question_done": {},
+        "reply_no": {},
+        "question_how": {},
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
+        "outro_text": {}
+      },
+      "_translatedFields": {
+        "notification_text": {
+          "eng": "Let’s check in on your home activity!"
+        },
+        "activity_title": {
+          "eng": "Let’s check in on your home activity!"
+        },
+        "question_done": {
+          "eng": "Did you have a chance to try this?"
+        },
+        "reply_no": {
+          "eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can."
+        },
+        "question_how": {
+          "eng": "How did it go?"
+        },
+        "reply_happy": {
+          "eng": "Great to hear it went well. You are a star!"
+        },
+        "reply_ok": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+        },
+        "reply_sad": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+        },
+        "outro_text": {
+          "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+        }
+      },
+      "activity_title": "Let’s check in on your home activity!",
+      "question_done": "Did you have a chance to try this?",
+      "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
+      "question_how": "How did it go?",
+      "reply_happy": "Great to hear it went well. You are a star!",
+      "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
+      "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
+      "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+    },
+    {
+      "id": "learn_t",
+      "happy_image_asset": "images/icons/faces/happy.svg",
+      "ok_image_asset": "images/icons/faces/neutral.svg",
+      "sad_image_asset": "images/icons/faces/sad.svg",
+      "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
+      "notification_text": "Let’s check in on your home activity!",
+      "_translations": {
+        "notification_text": {},
+        "activity_title": {},
+        "question_done": {},
+        "reply_no": {},
+        "question_how": {},
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
+        "outro_text": {}
+      },
+      "_translatedFields": {
+        "notification_text": {
+          "eng": "Let’s check in on your home activity!"
+        },
+        "activity_title": {
+          "eng": "Let’s check in on your home activity!"
+        },
+        "question_done": {
+          "eng": "Did you have a chance to try this?"
+        },
+        "reply_no": {
+          "eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can."
+        },
+        "question_how": {
+          "eng": "How did it go?"
+        },
+        "reply_happy": {
+          "eng": "Great to hear it went well. You are a star!"
+        },
+        "reply_ok": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+        },
+        "reply_sad": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+        },
+        "outro_text": {
+          "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+        }
+      },
+      "activity_title": "Let’s check in on your home activity!",
+      "question_done": "Did you have a chance to try this?",
+      "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
+      "question_how": "How did it go?",
+      "reply_happy": "Great to hear it went well. You are a star!",
+      "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
+      "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
+      "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+    },
+    {
+      "id": "ipv",
+      "happy_image_asset": "images/icons/faces/happy.svg",
+      "ok_image_asset": "images/icons/faces/neutral.svg",
+      "sad_image_asset": "images/icons/faces/sad.svg",
+      "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
+      "notification_text": "Let’s check in on your home activity!",
+      "_translations": {
+        "notification_text": {},
+        "activity_title": {},
+        "question_done": {},
+        "reply_no": {},
+        "question_how": {},
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
+        "outro_text": {}
+      },
+      "_translatedFields": {
+        "notification_text": {
+          "eng": "Let’s check in on your home activity!"
+        },
+        "activity_title": {
+          "eng": "Let’s check in on your home activity!"
+        },
+        "question_done": {
+          "eng": "Did you have a chance to try this?"
+        },
+        "reply_no": {
+          "eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can."
+        },
+        "question_how": {
+          "eng": "How did it go?"
+        },
+        "reply_happy": {
+          "eng": "Great to hear it went well. You are a star!"
+        },
+        "reply_ok": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+        },
+        "reply_sad": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+        },
+        "outro_text": {
+          "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+        }
+      },
+      "activity_title": "Let’s check in on your home activity!",
+      "question_done": "Did you have a chance to try this?",
+      "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
+      "question_how": "How did it go?",
+      "reply_happy": "Great to hear it went well. You are a star!",
       "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
       "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"

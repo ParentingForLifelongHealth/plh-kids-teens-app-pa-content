@@ -7,7 +7,7 @@
     {
       "type": "declare_global_constant",
       "name": "has_onboarding_language_select",
-      "value": true,
+      "value": false,
       "exclude_from_translation": true
     },
     {
