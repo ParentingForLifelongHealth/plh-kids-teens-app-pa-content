@@ -87,8 +87,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 58658 KB | 58.7 MB |
-| unused | 15922 KB | 15.9 MB |
+| total | 65984 KB | 66 MB |
+| unused | 8595 KB | 8.6 MB |
 </details>
 
 <details open>
@@ -102,6 +102,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 58.3 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
+| audio/relax/relax_9.m4a | 530.4 |
 | images/activities/narrador_c.svg | 98.4 |
 | images/activities/narrador_t.svg | 60.2 |
 | images/activities/personajes_t.svg | 54 |
@@ -230,7 +231,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/comic/understand/sadness_teen_4.svg | 28.1 |
 | images/comic/understand/sadness_teen_5.svg | 22.3 |
 | images/comic/understand/sadness_teen_6.svg | 21.6 |
-| images/facilitators/Angela_female.jpg | 7857.1 |
 | images/flags/gb.svg | 0.5 |
 | images/icons/balance_blue.png | 4.7 |
 | images/icons/book_outline_blue.svg | 0.7 |
@@ -309,7 +309,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/activities/narracion_c.svg | 2 |
 | images/activities/narracion_t.svg | 2 |
 | images/comic/relation/calm_teen_3.svg | 2 |
-| images/facilitators/Angela_female.jpeg | 2 |
 | images/homescreen/behave_c.svg | 14 |
 | images/homescreen/behave_t.svg | 14 |
 | images/homescreen/check_in/traditional_rondavel_closed.svg | 1 |
@@ -364,7 +363,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/relax_6.m4a | 214.9 | 1 |
 | audio/relax/relax_7.m4a | 303 | 1 |
 | audio/relax/relax_8.m4a | 284.2 | 1 |
-| audio/relax/relax_9.m4a | 530.4 | 9 |
 | images/activities/aciegas_c.svg | 32.8 | 2 |
 | images/activities/aciegas_t.svg | 27.2 | 2 |
 | images/activities/activate_c.svg | 34.1 | 2 |
@@ -621,7 +619,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/comic/understand/young_child_change_yc_2.svg | 40.9 | 2 |
 | images/comic/understand/young_child_change_yc_3.svg | 37 | 2 |
 | images/comic/understand/young_child_change_yc_4.svg | 38 | 2 |
-| images/facilitators/Angel_male.jpeg | 60.5 | 2 |
+| images/facilitators/Angel_male.jpeg | 60.5 | 3 |
+| images/facilitators/Angela_female.jpg | 7857.1 | 3 |
 | images/homescreen/courses/behave_c.svg | 1039 | 1 |
 | images/homescreen/courses/behave_t.svg | 518.5 | 1 |
 | images/homescreen/courses/ipv.svg | 691.3 | 1 |
