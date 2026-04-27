@@ -100,7 +100,7 @@
     {
       "type": "declare_field_default",
       "name": "countdown_days",
-      "value": "@calc(@fields.user_type === \"facilitator\" ? 0 : 7)",
+      "value": 0,
       "exclude_from_translation": true
     },
     {

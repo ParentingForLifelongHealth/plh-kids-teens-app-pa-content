@@ -22,35 +22,11 @@
       "completed": false
     },
     {
-      "id": "understand_c",
+      "id": "ipv",
       "core": false,
-      "tag_list": "child",
-      "title::eng": "Entender el desarrollo de mi niña o niño",
-      "image_asset": "images/homescreen/courses/understand_c.svg",
-      "completed": false
-    },
-    {
-      "id": "understand_t",
-      "core": false,
-      "tag_list": "teen",
-      "title::eng": "Cuidar del bienestar de mi adolescente y del mío",
-      "image_asset": "images/homescreen/courses/understand_t.svg",
-      "completed": false
-    },
-    {
-      "id": "behave_c",
-      "core": false,
-      "tag_list": "child",
-      "title::eng": "Guiar el buen comportamiento de mi niña o niño",
-      "image_asset": "images/homescreen/courses/behave_c.svg",
-      "completed": false
-    },
-    {
-      "id": "behave_t",
-      "core": false,
-      "tag_list": "teen",
-      "title::eng": "Guiar el buen comportamiento de mi adolescente",
-      "image_asset": "images/homescreen/courses/behave_t.svg",
+      "tag_list": "child; teen;",
+      "title::eng": "Responsabilidad e involucramiento en la crianza compartida",
+      "image_asset": "images/homescreen/courses/ipv.svg",
       "completed": false
     },
     {
@@ -70,6 +46,22 @@
       "completed": false
     },
     {
+      "id": "behave_c",
+      "core": false,
+      "tag_list": "child",
+      "title::eng": "Guiar el buen comportamiento de mi niña o niño",
+      "image_asset": "images/homescreen/courses/behave_c.svg",
+      "completed": false
+    },
+    {
+      "id": "behave_t",
+      "core": false,
+      "tag_list": "teen",
+      "title::eng": "Guiar el buen comportamiento de mi adolescente",
+      "image_asset": "images/homescreen/courses/behave_t.svg",
+      "completed": false
+    },
+    {
       "id": "learn_c",
       "core": false,
       "tag_list": "child",
@@ -86,11 +78,19 @@
       "completed": false
     },
     {
-      "id": "ipv",
+      "id": "understand_c",
       "core": false,
-      "tag_list": "child; teen;",
-      "title::eng": "Responsabilidad e involucramiento en la crianza compartida",
-      "image_asset": "images/homescreen/courses/ipv.svg",
+      "tag_list": "child",
+      "title::eng": "Entender el desarrollo de mi niña o niño",
+      "image_asset": "images/homescreen/courses/understand_c.svg",
+      "completed": false
+    },
+    {
+      "id": "understand_t",
+      "core": false,
+      "tag_list": "teen",
+      "title::eng": "Cuidar del bienestar de mi adolescente y del mío",
+      "image_asset": "images/homescreen/courses/understand_t.svg",
       "completed": false
     }
   ]
