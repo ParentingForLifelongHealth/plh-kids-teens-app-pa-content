@@ -23,63 +23,66 @@
     },
     {
       "id": "relation_c",
-      "notification_text::eng": "How is one-on-one time going?",
-      "text_goal::eng": "Your goal was to spend 5 minutes of one-on-one time with your child.",
-      "reply_no::eng": "That is okay. Try to find time with them this week!",
-      "reply_happy::eng": "That is great to hear! 🎉 Spending time with your child is a great way to build a good relationship with them!"
+      "notification_text::eng": "¿Cómo va el Tiempo Juntos y Conectados?",
+      "text_goal::eng": "Tu objetivo era pasar al menos 15 minutos de tiempo juntos y conectados todos los días. ",
+      "reply_happy::eng": "¡Excelente! Sigue trabajando para mejorar tu relación con tu niña o niño.",
+      "reply_ok::eng": "Lamento escuchar que el Tiempo para estar Juntos y Conectados ha sido más difícil de lo esperado.",
+      "reply_sad::eng": "Lamento escuchar que el Tiempo para estar Juntos y Conectados ha sido más difícil de lo esperado."
     },
     {
       "id": "relation_t",
-      "notification_text::eng": "When you involve your child, how does it go?",
-      "text_goal::eng": "Your goal was to involve your child in an activity to help them learn.",
-      "reply_no::eng": "That is okay. Try to find time to do it more with them this week!",
-      "reply_happy::eng": "That’s great to hear! 🎉 Preparing your child for success in school will help them do well!"
+      "notification_text::eng": "¿Cómo va el Tiempo de estar Juntos y Conectados?",
+      "reply_happy::eng": "¡Excelente! Sigue trabajando para mejorar tu relación con tu niña o niño.",
+      "reply_ok::eng": "Lamento escuchar que el Tiempo de estar Juntos y Conectados ha sido más difícil de lo esperado.",
+      "reply_sad::eng": "Lamento escuchar que el Tiempo de estar Juntos y Conectados ha sido más difícil de lo esperado."
     },
     {
       "id": "understand_c",
-      "notification_text::eng": "Are you finding it easy to support your child's development every day?",
-      "text_goal::eng": "Your goal was to support your child's development.",
-      "reply_happy::eng": "That is great to hear! 😃 Supporting your child’s development will help them live a safe and healthy life."
+      "notification_text::eng": "¿Cómo vas con las actividades para apoyar al desarrollo de @fields.child_name?",
+      "reply_happy::eng": "¡Excelente! Sigue así, apoyando el desarrollo de @fields.child_name.",
+      "reply_ok::eng": "Lamento escuchar que las actividades para apoyar el desarrollo de @fields.child_name no van bien.",
+      "reply_sad::eng": "Lamento escuchar que las actividades para apoyar el desarrollo de @fields.child_name no van bien."
     },
     {
       "id": "understand_t",
-      "notification_text::eng": "How did the conversation about household rules go with your child?",
-      "text_goal::eng": "Your goal was to set some structure at home.",
-      "reply_happy::eng": "That is great to hear! 💙 Helping your child follow household rules gives them a sense of safety and security needed to thrive."
+      "notification_text::eng": "¿Cómo vas con tratar de hablar con tu adolescente sobre sus sentimientos?",
+      "reply_happy::eng": "¡Excelente! Sigue con ese gran esfuerzo.",
+      "reply_ok::eng": "Lamento que esto sea difícil.",
+      "reply_sad::eng": "Lamento que esto sea difícil."
     },
     {
       "id": "behave_c",
-      "notification_text::eng": "How did managing the challenging behaviour go?",
-      "text_goal::eng": "Your goal was to learn to manage your child's behaviour.",
-      "reply_happy::eng": "It sounds like your child tends to behave well, which is great to hear! 💙"
+      "notification_text::eng": "¿Cómo va el intentar guiar el buen comportamiento de @fields.child_name?"
     },
     {
       "id": "behave_t",
-      "notification_text::eng": "How has talking about safety been with your child? ",
-      "text_goal::eng": "Your goal was to talk to your child about safety.",
-      "reply_no::eng": "That is okay. It is not easy to know how to keep your child safe and healthy, especially in this changing world. ",
-      "reply_happy::eng": "Great job! Knowing how to keep your child safe and healthy is an important responsibility as a parent. In this changing world, it is not easy to do! 🌱"
+      "notification_text::eng": "¿Cómo va el intentar Guiar el Buen Comportamiento de tu Adolescente?"
     },
     {
       "id": "safety_c",
-      "notification_text::eng": "How did sharing household tasks with your spouse go?",
-      "text_goal::eng": "Your goal was to share household tasks with your spouse. ",
-      "reply_happy::eng": "That’s great to hear! Sharing tasks equally helps everyone feel valued."
+      "notification_text::eng": "¿Qué fue lo que más se te dificultó al procurar la seguridad de @fields.child_name dentro y fuera de internet?\n\n"
     },
     {
       "id": "safety_t",
-      "notification_text::eng": "How did the budget planning go?",
-      "text_goal::eng": "Your goal was to plan a budget.",
-      "reply_happy::eng": "That’s amazing! 🎉 Keep doing this - your family will be better for it."
+      "notification_text::eng": "¿Cómo vas con el mantenerte al tanto de la vida social de tu adolescente?"
     },
     {
-      "id": "learn_c"
+      "id": "learn_c",
+      "notification_text::eng": "¿Qué fue lo que más se te dificultó al hacer actividades con @fields.child_name para apoyar su aprendizaje?"
     },
     {
-      "id": "learn_t"
+      "id": "learn_t",
+      "notification_text::eng": "¿Cómo va el apoyo al aprendizaje o a las actividades académicas de tu adolescente?",
+      "reply_happy::eng": "¡Excelente! Sigue así, apoyando el aprendizaje o las actividades académicas de tu adolescente.",
+      "reply_ok::eng": "Lamento que tengas dificultades para apoyar el aprendizaje y las tareas escolares de tu adolescente.",
+      "reply_sad::eng": "Lamento que tengas dificultades para apoyar el aprendizaje y las tareas escolares de tu adolescente."
     },
     {
-      "id": "ipv"
+      "id": "ipv",
+      "notification_text::eng": "¿Cómo vas con el reparto de actividades y tareas del hogar?",
+      "reply_happy::eng": "¡Excelente! Sigue con ese gran esfuerzo.",
+      "reply_ok::eng": "Lamento que esto sea difícil.",
+      "reply_sad::eng": "Lamento que esto sea difícil."
     }
   ]
 }

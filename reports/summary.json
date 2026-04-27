@@ -27,11 +27,11 @@
       },
       {
         "type": "button",
-        "count": 95
+        "count": 96
       },
       {
         "type": "combo_box",
-        "count": 10
+        "count": 14
       },
       {
         "type": "data_items",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 93
+        "count": 94
       },
       {
         "type": "drawer",
@@ -111,7 +111,7 @@
       },
       {
         "type": "round_button",
-        "count": 10
+        "count": 11
       },
       {
         "type": "select_text",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3415
+        "count": 3417
       },
       {
         "type": "simple_checkbox",
@@ -143,7 +143,7 @@
       },
       {
         "type": "text",
-        "count": 174
+        "count": 177
       },
       {
         "type": "text_area",
@@ -151,11 +151,11 @@
       },
       {
         "type": "text_box",
-        "count": 14
+        "count": 16
       },
       {
         "type": "text_bubble",
-        "count": 7
+        "count": 9
       },
       {
         "type": "title",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 652
+        "count": 653
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 658
+        "count": 659
       },
       {
         "type": "feedback",
@@ -259,7 +259,7 @@
       },
       {
         "type": "set_field",
-        "count": 130
+        "count": 133
       },
       {
         "type": "set_item",
@@ -291,13 +291,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "58568 KB",
-        "MB": "58.6 MB"
+        "KB": "58658 KB",
+        "MB": "58.7 MB"
       },
       {
         "assets": "unused",
-        "KB": "16011 KB",
-        "MB": "16 MB"
+        "KB": "15922 KB",
+        "MB": "15.9 MB"
       }
     ]
   },
@@ -832,10 +832,6 @@
         "size_kb": 21.6
       },
       {
-        "path": "images/facilitators/Angel_male.jpeg",
-        "size_kb": 60.5
-      },
-      {
         "path": "images/facilitators/Angela_female.jpg",
         "size_kb": 7857.1
       },
@@ -864,10 +860,6 @@
         "size_kb": 1.7
       },
       {
-        "path": "images/icons/clock_blue.png",
-        "size_kb": 4.5
-      },
-      {
         "path": "images/icons/diamond_blue.png",
         "size_kb": 4.7
       },
@@ -878,10 +870,6 @@
       {
         "path": "images/icons/expand_circle_right.svg",
         "size_kb": 0.5
-      },
-      {
-        "path": "images/icons/eye_blue.png",
-        "size_kb": 4.2
       },
       {
         "path": "images/icons/faces/angry.svg",
@@ -920,20 +908,12 @@
         "size_kb": 3.5
       },
       {
-        "path": "images/icons/football_blue.png",
-        "size_kb": 5.1
-      },
-      {
         "path": "images/icons/heart-outline.svg",
         "size_kb": 0.4
       },
       {
         "path": "images/icons/heart.svg",
         "size_kb": 0.6
-      },
-      {
-        "path": "images/icons/heart_filled_blue.png",
-        "size_kb": 4.9
       },
       {
         "path": "images/icons/hourglass_blue.png",
@@ -1006,14 +986,6 @@
       {
         "path": "images/icons/spark.png",
         "size_kb": 1.6
-      },
-      {
-        "path": "images/icons/speech_bubble_blue.png",
-        "size_kb": 4.2
-      },
-      {
-        "path": "images/icons/star_filled_blue.png",
-        "size_kb": 5.1
       },
       {
         "path": "images/icons/star_outline_white.svg",
@@ -1147,6 +1119,11 @@
         "missing": true
       },
       {
+        "path": "images/facilitators/Angela_female.jpeg",
+        "count": 2,
+        "missing": true
+      },
+      {
         "path": "images/homescreen/behave_c.svg",
         "count": 14,
         "missing": true
@@ -1222,6 +1199,11 @@
         "missing": true
       },
       {
+        "path": "images/icons/singe_speech_blue.png",
+        "count": 2,
+        "missing": true
+      },
+      {
         "path": "images/logos/MIDES.png",
         "count": 1,
         "missing": true
@@ -1237,17 +1219,17 @@
         "missing": true
       },
       {
-        "path": "images/onboarding/frustrated.svg",
+        "path": "images/onboarding/welcome_screen_1.svg",
         "count": 1,
         "missing": true
       },
       {
-        "path": "images/onboarding/join_parents.svg",
+        "path": "images/onboarding/welcome_screen_2.svg",
         "count": 1,
         "missing": true
       },
       {
-        "path": "images/onboarding/loving_parent.svg",
+        "path": "images/onboarding/welcome_screen_3.svg",
         "count": 1,
         "missing": true
       }
@@ -1262,7 +1244,7 @@
       },
       {
         "path": "audio/relax/relax_1.m4a",
-        "count": 40,
+        "count": 9,
         "size_kb": 213.2
       },
       {
@@ -1317,7 +1299,7 @@
       },
       {
         "path": "audio/relax/relax_2.m4a",
-        "count": 2,
+        "count": 9,
         "size_kb": 451.3
       },
       {
@@ -1342,17 +1324,17 @@
       },
       {
         "path": "audio/relax/relax_3.m4a",
-        "count": 2,
+        "count": 9,
         "size_kb": 244.5
       },
       {
         "path": "audio/relax/relax_4.m4a",
-        "count": 2,
+        "count": 7,
         "size_kb": 528.3
       },
       {
         "path": "audio/relax/relax_5.m4a",
-        "count": 2,
+        "count": 7,
         "size_kb": 278.5
       },
       {
@@ -1372,7 +1354,7 @@
       },
       {
         "path": "audio/relax/relax_9.m4a",
-        "count": 2,
+        "count": 9,
         "size_kb": 530.4
       },
       {
@@ -2656,6 +2638,11 @@
         "size_kb": 38
       },
       {
+        "path": "images/facilitators/Angel_male.jpeg",
+        "count": 2,
+        "size_kb": 60.5
+      },
+      {
         "path": "images/homescreen/courses/behave_c.svg",
         "count": 1,
         "size_kb": 1039
@@ -2721,6 +2708,11 @@
         "size_kb": 0.8
       },
       {
+        "path": "images/icons/clock_blue.png",
+        "count": 2,
+        "size_kb": 4.5
+      },
+      {
         "path": "images/icons/diamond-outline.svg",
         "count": 2,
         "size_kb": 0.6
@@ -2761,13 +2753,18 @@
         "size_kb": 2.1
       },
       {
+        "path": "images/icons/eye_blue.png",
+        "count": 2,
+        "size_kb": 4.2
+      },
+      {
         "path": "images/icons/faces/happy.svg",
         "count": 11,
         "size_kb": 0.6
       },
       {
         "path": "images/icons/faces/happy_face_new.svg",
-        "count": 31,
+        "count": 113,
         "size_kb": 1.4
       },
       {
@@ -2777,7 +2774,7 @@
       },
       {
         "path": "images/icons/faces/ok_face_new.svg",
-        "count": 31,
+        "count": 113,
         "size_kb": 0.5
       },
       {
@@ -2787,8 +2784,13 @@
       },
       {
         "path": "images/icons/faces/sad_face_new.svg",
-        "count": 31,
+        "count": 113,
         "size_kb": 1.5
+      },
+      {
+        "path": "images/icons/football_blue.png",
+        "count": 2,
+        "size_kb": 5.1
       },
       {
         "path": "images/icons/globe-outline.svg",
@@ -2819,6 +2821,11 @@
         "path": "images/icons/heart_filled_active.png",
         "count": 1,
         "size_kb": 1.5
+      },
+      {
+        "path": "images/icons/heart_filled_blue.png",
+        "count": 4,
+        "size_kb": 4.9
       },
       {
         "path": "images/icons/heart_filled_red.png",
@@ -2946,6 +2953,16 @@
         "size_kb": 1
       },
       {
+        "path": "images/icons/speech_bubble_blue.png",
+        "count": 2,
+        "size_kb": 4.2
+      },
+      {
+        "path": "images/icons/star_filled_blue.png",
+        "count": 2,
+        "size_kb": 5.1
+      },
+      {
         "path": "images/icons/star_outline_blue.svg",
         "count": 1,
         "size_kb": 1
@@ -3003,7 +3020,7 @@
       {
         "path": "lottie/checkmark.json",
         "count": 1,
-        "size_kb": 23.6
+        "size_kb": 24.6
       },
       {
         "path": "lottie/gift_box.json",
@@ -3012,27 +3029,27 @@
       },
       {
         "path": "lottie/relax/blue_dots.json",
-        "count": 5,
+        "count": 10,
         "size_kb": 14.7
       },
       {
         "path": "lottie/relax/heart.json",
-        "count": 5,
+        "count": 10,
         "size_kb": 46.7
       },
       {
         "path": "lottie/relax/looping_rings.json",
-        "count": 5,
+        "count": 12,
         "size_kb": 10.4
       },
       {
         "path": "lottie/relax/soothing_waves.json",
-        "count": 5,
+        "count": 12,
         "size_kb": 7.6
       },
       {
         "path": "lottie/relax/square_flow.json",
-        "count": 48,
+        "count": 24,
         "size_kb": 5.9
       }
     ]
@@ -3042,7 +3059,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 12
+        "total": 15
       },
       {
         "type": "data_list",
@@ -3317,12 +3334,12 @@
       {
         "type": "global",
         "subtype": "onboarding",
-        "total": 2
+        "total": 7
       },
       {
         "type": "template",
         "subtype": null,
-        "total": 165
+        "total": 166
       },
       {
         "type": "template",

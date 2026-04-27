@@ -98,7 +98,7 @@
     {
       "type": "text_bubble",
       "name": "text_bubble",
-      "value": "@global.facilitator_message_1",
+      "value": "@global.facilitator_message_avatar_intro",
       "_translations": {
         "value": {}
       },
@@ -110,10 +110,10 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@global.facilitator_message_1",
-            "matchedExpression": "@global.facilitator_message_1",
+            "fullExpression": "@global.facilitator_message_avatar_intro",
+            "matchedExpression": "@global.facilitator_message_avatar_intro",
             "type": "global",
-            "fieldName": "facilitator_message_1"
+            "fieldName": "facilitator_message_avatar_intro"
           }
         ],
         "parameter_list": {
@@ -136,7 +136,7 @@
         }
       },
       "_dynamicDependencies": {
-        "@global.facilitator_message_1": [
+        "@global.facilitator_message_avatar_intro": [
           "value"
         ],
         "@local.speaker_position": [
@@ -247,6 +247,6 @@
   "_source": {
     "name": "kids_teens_pa",
     "path": "templates/PA onboarding templates.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1PxQw6d4LcQC9aEaG8jXzEUWB9I3bZ7WrMuUW2DaT80A"
+    "url": "https://docs.google.com/spreadsheets/d/1Efq1duWdtaioK0tVhxuFSfdeFO_wMQzs5aDyl6hQ7_0"
   }
 }

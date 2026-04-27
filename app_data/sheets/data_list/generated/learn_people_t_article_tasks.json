@@ -4,28 +4,76 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_1",
+      "id": "relax_9",
       "in_library": "yes",
-      "title_eng": "Quick pause",
-      "title": "Pausa rápida",
+      "title_eng": "Body scan",
+      "title": "Escaneo corporal",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset_m": "audio/relax/relax_1.m4a",
+      "media_asset_m": "audio/relax/relax_9.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript_1_eng": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!",
+      "transcript_1_spanish": "Aquí tienes una actividad para relajar tu cuerpo:\n\nSiéntate cómodamente y cierra los ojos si puedes.\nImagina un aro dorado que escanea tu cuerpo desde los pies hasta la cabeza.\nPon atención mientras sube y baja por tu cuerpo. ¿Hay áreas que se sienten tensas? ¿Adormecidas? ¿Con dolor?\nConcéntrate en esas áreas por un momento. Respira hacia esa zona y, al exhalar, intenta soltar cualquier tensión o malestar.\nHazlo por algunas respiraciones.\n\nAbre los ojos. ¿Cómo se siente tu cuerpo ahora?\n\n¡También puedes probar esto la próxima vez que estés en la cama y no puedas dormir!",
       "category_id": "relax",
       "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_60",
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Cuidarte empieza por darte cuenta de cómo te sientes.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Cuidarte empieza por darte cuenta de cómo te sientes."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Fantástico! Y muy bien por invertir en ti y en tu familia. Has logrado mucho."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Lamento que hoy no esté siendo un buen día. Estás haciendo un gran trabajo al intentar entender lo que está pasando. @global.app_name está aquí para apoyarte."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "La crianza puede ser retadora. Toma una respiración profunda y piensa en todo lo que has hecho por tu familia. ¡Reconoce tus esfuerzos!"
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "quiz_1_feedback_1": "¡Fantástico! Y muy bien por invertir en ti y en tu familia. Has logrado mucho.",
+      "quiz_1_feedback_2": "Lamento que hoy no esté siendo un buen día. Estás haciendo un gran trabajo al intentar entender lo que está pasando. @global.app_name está aquí para apoyarte.",
+      "quiz_1_feedback_3": "La crianza puede ser retadora. Toma una respiración profunda y piensa en todo lo que has hecho por tu familia. ¡Reconoce tus esfuerzos!",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
       "completed": false
     },
     {
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Esta lección trata sobre cómo ayudar a tu adolescente a aprender a trabajar con otras personas. 🔄",
-      "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Esta lección trata sobre cómo ayudar a tu adolescente a aprender a trabajar con otras personas. 🔄"
@@ -34,6 +82,11 @@
           "eng": "Para poder obtener resultados positivos en casa, en la escuela y en el trabajo, tu adolescente tendrá que aprender a trabajar con otras personas. 🔑"
         }
       },
+      "text_1_facilitator": "Esta lección trata sobre cómo ayudar a tu adolescente a aprender a trabajar con otras personas. 🔄",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "Para poder obtener resultados positivos en casa, en la escuela y en el trabajo, tu adolescente tendrá que aprender a trabajar con otras personas. 🔑",
       "completed": false
     },
@@ -41,11 +94,6 @@
       "id": "explore_1",
       "category_id": "explore",
       "nested": false,
-      "text_1_facilitator": "Aquí tienes una historieta sobre cómo ayudar a tu adolescente a aprender a trabajar con otras personas:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Aquí tienes una historieta sobre cómo ayudar a tu adolescente a aprender a trabajar con otras personas:"
@@ -53,6 +101,11 @@
         "character_1_text": {
           "eng": "A mi nieta, @data.characters.f2_hija_17.name, le ha estado costando un poco de trabajo la clase de Historia. ¿Tienes alguna recomendación?"
         }
+      },
+      "text_1_facilitator": "Aquí tienes una historieta sobre cómo ayudar a tu adolescente a aprender a trabajar con otras personas:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
       },
       "image_asset": "images/comic/learn/learning_with_people_teen_1.svg",
       "character_1_id": "f2_abuelo",
@@ -127,14 +180,14 @@
       "media_type": "video",
       "category_id": "practical_tips",
       "nested": false,
-      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender sobre cómo ayudar a tu adolescente a trabajar con otras personas.\n\n1️⃣ **SER SOCIAL**\n2️⃣ **TRABAJAR EN EQUIPO**",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Da clic en reproducir ▶️ para aprender sobre cómo ayudar a tu adolescente a trabajar con otras personas.\n\n1️⃣ **SER SOCIAL**\n2️⃣ **TRABAJAR EN EQUIPO**"
         }
+      },
+      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender sobre cómo ayudar a tu adolescente a trabajar con otras personas.\n\n1️⃣ **SER SOCIAL**\n2️⃣ **TRABAJAR EN EQUIPO**",
+      "_translations": {
+        "text_1_facilitator": {}
       },
       "youtube_gb_en": "youtube link",
       "completed": false
@@ -143,15 +196,6 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "**_Actividad para casa_**⭐  \n\nConversa con tu adolescente e identifiquen quién podría ser su compañera o compañero de estudio para la próxima semana.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "**_Actividad para casa_**⭐  \n\nConversa con tu adolescente e identifiquen quién podría ser su compañera o compañero de estudio para la próxima semana."
@@ -172,11 +216,20 @@
           "eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana."
         }
       },
+      "quiz_1_feedback_1": "¡Genial! Usa las estrategias que has aprendido hoy, ¡y diviértete! Experimentar alegría y felicidad durante el aprendizaje con tu adolescente es una forma estupenda de motivarle para seguir aprendiendo. 💙",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana.",
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_feedback_1": "¡Genial! Usa las estrategias que has aprendido hoy, ¡y diviértete! Experimentar alegría y felicidad durante el aprendizaje con tu adolescente es una forma estupenda de motivarle para seguir aprendiendo. 💙",
       "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana.",
+      "text_1_facilitator": "**_Actividad para casa_**⭐  \n\nConversa con tu adolescente e identifiquen quién podría ser su compañera o compañero de estudio para la próxima semana.",
       "completed": false
     }
   ],

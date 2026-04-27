@@ -4,15 +4,15 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_1",
+      "id": "relax_2",
       "in_library": "yes",
-      "title_eng": "Quick pause",
-      "title": "Pausa rápida",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset_m": "audio/relax/relax_1.m4a",
+      "title_eng": "Power of three",
+      "title": "El poder del 3",
+      "lottie_asset": "lottie/relax/soothing_waves.json",
+      "media_asset_m": "audio/relax/relax_2.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript_1_eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be gratefful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
+      "transcript_1_spanish": "Cierra los ojos.\nVamos a usar el poder mágico del 3 para mantenernos presentes y relajarnos.\n\nNombra 3 sonidos que puedas escuchar ahora mismo.\nNombra 3 olores que puedas sentir ahora mismo.\nNombra tus 3 comidas favoritas.\n¿Cuáles son 3 cosas por las que puedes sentir gratitud ahora mismo?\n\nAl final de un día difícil, pensar en 3 cosas por las que estás agradecido(a) puede ayudarte a encontrar el valor para intentarlo de nuevo mañana.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -76,7 +76,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "¡Pasar tiempo juntos y conectados con {tu adolescente} es una forma increíble de construir una buena relación entre ustedes! Esto mostrará que te interesas por lo que hace. 💙 \nTambién fomentará la confianza y el respeto, y les ayudará a aprender cosas nuevas. ✨"
+          "eng": "¡Pasar tiempo juntos y conectados con @fields.child_name es una forma increíble de construir una buena relación entre ustedes! Esto mostrará que te interesas por lo que hace. 💙 \nTambién fomentará la confianza y el respeto, y les ayudará a aprender cosas nuevas. ✨"
         },
         "quiz_1_question": {
           "eng": "Cuando paso tiempo juntos y conectados con mi adolescente, necesito tener un plan y saber qué haremos juntos."
@@ -107,7 +107,7 @@
       "quiz_1_question": "Cuando paso tiempo juntos y conectados con mi adolescente, necesito tener un plan y saber qué haremos juntos.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
-      "text_1_facilitator": "¡Pasar tiempo juntos y conectados con {tu adolescente} es una forma increíble de construir una buena relación entre ustedes! Esto mostrará que te interesas por lo que hace. 💙 \nTambién fomentará la confianza y el respeto, y les ayudará a aprender cosas nuevas. ✨",
+      "text_1_facilitator": "¡Pasar tiempo juntos y conectados con @fields.child_name es una forma increíble de construir una buena relación entre ustedes! Esto mostrará que te interesas por lo que hace. 💙 \nTambién fomentará la confianza y el respeto, y les ayudará a aprender cosas nuevas. ✨",
       "completed": false
     },
     {
@@ -249,19 +249,19 @@
     },
     {
       "id": "practical_tips_1",
-      "media_type": "video",
+      "media_type": "youtube",
       "category_id": "practical_tips",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Aquí tienes un video para aprender 3️⃣ estrategias de crianza para pasar tiempo juntos y conectados con {tu adolescente}:\n1️⃣ PRACTICAR\n2️⃣ JUGAR\n3️⃣ ESTAR"
+          "eng": "Aquí tienes un video para aprender 3️⃣ estrategias de crianza para pasar tiempo juntos y conectados con @fields.child_name:\n1️⃣ PRACTICAR\n2️⃣ JUGAR\n3️⃣ ESTAR"
         }
       },
-      "text_1_facilitator": "Aquí tienes un video para aprender 3️⃣ estrategias de crianza para pasar tiempo juntos y conectados con {tu adolescente}:\n1️⃣ PRACTICAR\n2️⃣ JUGAR\n3️⃣ ESTAR",
+      "text_1_facilitator": "Aquí tienes un video para aprender 3️⃣ estrategias de crianza para pasar tiempo juntos y conectados con @fields.child_name:\n1️⃣ PRACTICAR\n2️⃣ JUGAR\n3️⃣ ESTAR",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en": "youtube link",
+      "youtube_gb_en_f": "youtube link",
       "completed": false
     },
     {
@@ -276,19 +276,19 @@
           "eng": "PRACTICAR"
         },
         "section_1_text": {
-          "eng": "Intenta hacerlo todos los días\n⏰ Dedícale 15 minutos al día (¡o más!) a {tu adolescente}"
+          "eng": "Intenta hacerlo todos los días\n⏰ Dedícale 15 minutos al día (¡o más!) a @fields.child_name"
         },
         "section_2_title": {
           "eng": "JUGAR"
         },
         "section_2_text": {
-          "eng": "Deja que escoja la actividad\n⏰ Intenta pasar tiempo con {tu adolescente}.\n⚽ Deja que escoja qué hacer o de qué conversar.\n🎈Prueben hacer diferentes actividades juntos.\n😃 ¡Diviértete!"
+          "eng": "Deja que escoja la actividad\n⏰ Intenta pasar tiempo con @fields.child_name.\n⚽ Deja que escoja qué hacer o de qué conversar.\n🎈Prueben hacer diferentes actividades juntos.\n😃 ¡Diviértete!"
         },
         "section_3_title": {
           "eng": "PERMANECER"
         },
         "section_3_text": {
-          "eng": "Enfócate en {tu adolescente}.\n📺 Apaga la tele, deja los teléfonos y elimina las distracciones.\n👀 Préstale atención. Afirma con la cabeza o usa frases como \"Entiendo\" para demostrar que realmente le estás poniendo atención.\n💛 Acéptale como es y evita juzgarle.\n 💡 Respóndele cada vez que se comunique contigo, esto demuestra que realmente les pones atención. El / Ella puede usar gestos, frases completas, movimientos y sonidos para comunicarse contigo, no necesariamente palabras, por eso es importante mirarle."
+          "eng": "Enfócate en @fields.child_name.\n📺 Apaga la tele, deja los teléfonos y elimina las distracciones.\n👀 Préstale atención. Afirma con la cabeza o usa frases como \"Entiendo\" para demostrar que realmente le estás poniendo atención.\n💛 Acéptale como es y evita juzgarle.\n 💡 Respóndele cada vez que se comunique contigo, esto demuestra que realmente les pones atención. El / Ella puede usar gestos, frases completas, movimientos y sonidos para comunicarse contigo, no necesariamente palabras, por eso es importante mirarle."
         }
       },
       "text_1_facilitator": "Recuerda las estrategias para pasar tiempo juntos y conectados con tu adolescente.",
@@ -301,15 +301,15 @@
         "section_3_title": {},
         "section_3_text": {}
       },
-      "section_1_icon_asset": "https://drive.google.com/file/d/19m7O3_jqHUfyLx4PRG1NnnwzXiYlAhwS/view?usp=drive_link",
-      "section_2_icon_asset": "https://drive.google.com/file/d/1M5CuT6Sl0sJy9NmcNsnQiEiJSmgbzWAZ/view?usp=drive_link",
-      "section_3_icon_asset": "https://drive.google.com/file/d/1b7ywkfyRt8DgqJrocfNefIOeE8oOW6bB/view?usp=drive_link",
+      "section_1_icon_asset": "images/icons/clock_blue.png",
+      "section_2_icon_asset": "images/icons/football_blue.png",
+      "section_3_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_title": "PRACTICAR",
-      "section_1_text": "Intenta hacerlo todos los días\n⏰ Dedícale 15 minutos al día (¡o más!) a {tu adolescente}",
+      "section_1_text": "Intenta hacerlo todos los días\n⏰ Dedícale 15 minutos al día (¡o más!) a @fields.child_name",
       "section_2_title": "JUGAR",
-      "section_2_text": "Deja que escoja la actividad\n⏰ Intenta pasar tiempo con {tu adolescente}.\n⚽ Deja que escoja qué hacer o de qué conversar.\n🎈Prueben hacer diferentes actividades juntos.\n😃 ¡Diviértete!",
+      "section_2_text": "Deja que escoja la actividad\n⏰ Intenta pasar tiempo con @fields.child_name.\n⚽ Deja que escoja qué hacer o de qué conversar.\n🎈Prueben hacer diferentes actividades juntos.\n😃 ¡Diviértete!",
       "section_3_title": "PERMANECER",
-      "section_3_text": "Enfócate en {tu adolescente}.\n📺 Apaga la tele, deja los teléfonos y elimina las distracciones.\n👀 Préstale atención. Afirma con la cabeza o usa frases como \"Entiendo\" para demostrar que realmente le estás poniendo atención.\n💛 Acéptale como es y evita juzgarle.\n 💡 Respóndele cada vez que se comunique contigo, esto demuestra que realmente les pones atención. El / Ella puede usar gestos, frases completas, movimientos y sonidos para comunicarse contigo, no necesariamente palabras, por eso es importante mirarle.",
+      "section_3_text": "Enfócate en @fields.child_name.\n📺 Apaga la tele, deja los teléfonos y elimina las distracciones.\n👀 Préstale atención. Afirma con la cabeza o usa frases como \"Entiendo\" para demostrar que realmente le estás poniendo atención.\n💛 Acéptale como es y evita juzgarle.\n 💡 Respóndele cada vez que se comunique contigo, esto demuestra que realmente les pones atención. El / Ella puede usar gestos, frases completas, movimientos y sonidos para comunicarse contigo, no necesariamente palabras, por eso es importante mirarle.",
       "completed": false
     },
     {
@@ -318,7 +318,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Esta semana, intenta pasar por lo menos 15 minutos de tiempo juntos y conectados con {tu adolescente} todos los días. ¡Hará una gran diferencia!"
+          "eng": "Esta semana, intenta pasar por lo menos 15 minutos de tiempo juntos y conectados con @fields.child_name todos los días. ¡Hará una gran diferencia!"
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy?"
@@ -349,7 +349,7 @@
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "Esta semana, intenta pasar por lo menos 15 minutos de tiempo juntos y conectados con {tu adolescente} todos los días. ¡Hará una gran diferencia!",
+      "text_1_facilitator": "Esta semana, intenta pasar por lo menos 15 minutos de tiempo juntos y conectados con @fields.child_name todos los días. ¡Hará una gran diferencia!",
       "completed": false
     }
   ],

@@ -18,14 +18,62 @@
       "completed": false
     },
     {
+      "id": "check_in_67",
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "¡Tú importas! Tómate un momento para conectar contigo.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "¡Tú importas! Tómate un momento para conectar contigo."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Que gusto saber que te sientes bien. ¡Eres una gran persona cuidadora!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Lamento que no esté siendo un buen día. Estás haciendo un gran trabajo intentando solucionarlo. Recuerda que nadie tiene todas las respuestas, y que estás haciendo lo mejor que puedes."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Siento que hoy no esté siendo un buen día. Estás haciendo un gran trabajo al seguir intentándolo, incluso cuando estás cansada/o. Eso es verdadera valentía y compromiso."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "quiz_1_feedback_1": "Que gusto saber que te sientes bien. ¡Eres una gran persona cuidadora!",
+      "quiz_1_feedback_2": "Lamento que no esté siendo un buen día. Estás haciendo un gran trabajo intentando solucionarlo. Recuerda que nadie tiene todas las respuestas, y que estás haciendo lo mejor que puedes.",
+      "quiz_1_feedback_3": "Siento que hoy no esté siendo un buen día. Estás haciendo un gran trabajo al seguir intentándolo, incluso cuando estás cansada/o. Eso es verdadera valentía y compromiso.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
+      "completed": false
+    },
+    {
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Es común que las madres, padres y personas cuidadoras sientan estrés o que no pueden con más cuando tienen tanto que hacer todos los días.\n\nEn esta lección, seguirás aprendiendo formas de regular el estrés al hacer un plan por adelantado.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Es común que las madres, padres y personas cuidadoras sientan estrés o que no pueden con más cuando tienen tanto que hacer todos los días.\n\nEn esta lección, seguirás aprendiendo formas de regular el estrés al hacer un plan por adelantado."
@@ -34,6 +82,11 @@
           "eng": "Crear un plan para cuando estés en una situación que te genera estrés puede ayudarte a planificar y gestionar las situaciones estresantes cuando se produzcan."
         }
       },
+      "text_1_facilitator": "Es común que las madres, padres y personas cuidadoras sientan estrés o que no pueden con más cuando tienen tanto que hacer todos los días.\n\nEn esta lección, seguirás aprendiendo formas de regular el estrés al hacer un plan por adelantado.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "Crear un plan para cuando estés en una situación que te genera estrés puede ayudarte a planificar y gestionar las situaciones estresantes cuando se produzcan.",
       "completed": false
     },
@@ -41,11 +94,6 @@
       "id": "explore_1",
       "category_id": "Explore",
       "nested": false,
-      "text_1_facilitator": "@data.characters.f1_padre.name se siente estresado por todas las cosas que tiene que hacer. Veamos cómo @data.characters.f1_padre.name crea un plan:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "@data.characters.f1_padre.name se siente estresado por todas las cosas que tiene que hacer. Veamos cómo @data.characters.f1_padre.name crea un plan:"
@@ -53,6 +101,11 @@
         "character_1_text": {
           "eng": "(Pensando): ¡Tengo demasiadas cosas que hacer! @data.characters.f1_hijo_5.name está enfermo y @data.characters.f1_hija_13.name necesita ayuda en su proyecto para la escuela. ¡¿Cómo le voy a hacer?!"
         }
+      },
+      "text_1_facilitator": "@data.characters.f1_padre.name se siente estresado por todas las cosas que tiene que hacer. Veamos cómo @data.characters.f1_padre.name crea un plan:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
       },
       "image_asset": "images/comic/understand/make_plan_yc_1.svg",
       "character_1_id": "f1_padre",
@@ -149,14 +202,14 @@
       "media_type": "video",
       "category_id": "practical_tips",
       "nested": false,
-      "text_1_facilitator": "Da Clic aquí ▶️ para aprender 5️⃣ estrategias que te ayudarán a elaborar un plan cuando estés en situaciones que te generen estrés porque tienes demasiadas cosas que hacer:\n\n1️⃣ **ESCRIBIR O DIBUJAR**\n2️⃣ **DECIDIR**\n3️⃣ **PRIORIZAR Y CLASIFICAR**\n4️⃣ **DIVIDIR**\n5️⃣ **TOMARLO UN PASO A LA VEZ**",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Da Clic aquí ▶️ para aprender 5️⃣ estrategias que te ayudarán a elaborar un plan cuando estés en situaciones que te generen estrés porque tienes demasiadas cosas que hacer:\n\n1️⃣ **ESCRIBIR O DIBUJAR**\n2️⃣ **DECIDIR**\n3️⃣ **PRIORIZAR Y CLASIFICAR**\n4️⃣ **DIVIDIR**\n5️⃣ **TOMARLO UN PASO A LA VEZ**"
         }
+      },
+      "text_1_facilitator": "Da Clic aquí ▶️ para aprender 5️⃣ estrategias que te ayudarán a elaborar un plan cuando estés en situaciones que te generen estrés porque tienes demasiadas cosas que hacer:\n\n1️⃣ **ESCRIBIR O DIBUJAR**\n2️⃣ **DECIDIR**\n3️⃣ **PRIORIZAR Y CLASIFICAR**\n4️⃣ **DIVIDIR**\n5️⃣ **TOMARLO UN PASO A LA VEZ**",
+      "_translations": {
+        "text_1_facilitator": {}
       },
       "youtube_gb_en": "youtube link",
       "completed": false
@@ -165,15 +218,6 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\n! Usa estas estrategias para crear un plan que te ayude a hacer todas las cosas que tienes que hacer hoy o en la semana.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "**_Actividad para casa_**⭐ \n\n! Usa estas estrategias para crear un plan que te ayude a hacer todas las cosas que tienes que hacer hoy o en la semana."
@@ -194,11 +238,20 @@
           "eng": "¡Está bien, no pasa nada! Puedes intentarlo mañana."
         }
       },
+      "quiz_1_feedback_1": "¡Excelente! 💙\n\n*_Puedes ayudar a controlar tu estrés al hacer una lista de todas las cosas que tienes que hacer, identificando lo que es más importante y lo que puede esperar, y dividiéndolo en pasos más pequeños y fáciles de lograr._*\n\nRecuerda tomar una pausa o pedir apoyo siempre que lo necesites. Escribe {PAUSAR} siempre que quieras tomar una pausa guiada.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "¡Está bien, no pasa nada! Puedes intentarlo mañana.",
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_feedback_1": "¡Excelente! 💙\n\n*_Puedes ayudar a controlar tu estrés al hacer una lista de todas las cosas que tienes que hacer, identificando lo que es más importante y lo que puede esperar, y dividiéndolo en pasos más pequeños y fáciles de lograr._*\n\nRecuerda tomar una pausa o pedir apoyo siempre que lo necesites. Escribe {PAUSAR} siempre que quieras tomar una pausa guiada.",
       "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "¡Está bien, no pasa nada! Puedes intentarlo mañana.",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\n! Usa estas estrategias para crear un plan que te ayude a hacer todas las cosas que tienes que hacer hoy o en la semana.",
       "completed": false
     }
   ],

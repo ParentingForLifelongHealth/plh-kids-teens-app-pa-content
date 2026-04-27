@@ -4,15 +4,15 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_1",
+      "id": "relax_4",
       "in_library": "yes",
-      "title_eng": "Quick pause",
-      "title": "Pausa rápida",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset_m": "audio/relax/relax_1.m4a",
+      "title_eng": "Breathe to three",
+      "title": "Respira hasta 3",
+      "lottie_asset": "lottie/relax/heart.json",
+      "media_asset_m": "audio/relax/relax_4.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript_1_eng": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!",
+      "transcript_1_spanish": "Cierra los ojos.\n\nUsa el poder mágico del tres para mantenerte conectado(a) y relajarte.\n\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\n\n¿Te sientes diferente? Respirar profundo ayuda a calmar el cuerpo y la mente.\n\nMuy bien. Ya estás listo(a) para comenzar tu lección.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -261,7 +261,6 @@
     },
     {
       "id": "practical_tips_1",
-      "media_type": "video",
       "category_id": "practical_tips",
       "nested": false,
       "_translatedFields": {
@@ -273,7 +272,7 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en": "youtube link",
+      "youtube_gb_en_f": "youtube link",
       "completed": false
     },
     {
@@ -282,7 +281,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con {tu niño}. Comparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos. ➡️"
+          "eng": "**_Actividad para casa_**⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con @fields.child_name. Comparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos. ➡️"
         },
         "quiz_1_question": {
           "eng": "¿Puedes compartir estas estrategias hoy?"
@@ -313,7 +312,7 @@
       "quiz_1_question": "¿Puedes compartir estas estrategias hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con {tu niño}. Comparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos. ➡️",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con @fields.child_name. Comparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos. ➡️",
       "completed": false
     }
   ],

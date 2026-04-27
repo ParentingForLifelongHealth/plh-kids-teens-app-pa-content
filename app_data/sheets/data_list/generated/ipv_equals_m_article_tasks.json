@@ -4,15 +4,15 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_1",
+      "id": "relax_2",
       "in_library": "yes",
-      "title_eng": "Quick pause",
-      "title": "Pausa rápida",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset_m": "audio/relax/relax_1.m4a",
+      "title_eng": "Power of three",
+      "title": "El poder del 3",
+      "lottie_asset": "lottie/relax/soothing_waves.json",
+      "media_asset_m": "audio/relax/relax_2.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript_1_eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be gratefful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
+      "transcript_1_spanish": "Cierra los ojos.\nVamos a usar el poder mágico del 3 para mantenernos presentes y relajarnos.\n\nNombra 3 sonidos que puedas escuchar ahora mismo.\nNombra 3 olores que puedas sentir ahora mismo.\nNombra tus 3 comidas favoritas.\n¿Cuáles son 3 cosas por las que puedes sentir gratitud ahora mismo?\n\nAl final de un día difícil, pensar en 3 cosas por las que estás agradecido(a) puede ayudarte a encontrar el valor para intentarlo de nuevo mañana.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -256,7 +256,7 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en": "youtube link",
+      "youtube_gb_en_f": "youtube link",
       "completed": false
     },
     {

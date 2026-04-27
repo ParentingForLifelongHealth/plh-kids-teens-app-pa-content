@@ -30,7 +30,7 @@
           "eng": "Hoy vamos a aprender acerca del papel de los hombres en la crianza compartida👋"
         },
         "text_2": {
-          "eng": "Ser un integrante activo en las responsabilidades del hogar y de cuidado puede mejorar tu relación con {tu niño} y hacer que la vida sea menos estresante para ti y tu pareja o familiar. También puede hacer que ser padre te resulte más agradable. 💚"
+          "eng": "Ser un integrante activo en las responsabilidades del hogar y de cuidado puede mejorar tu relación con @fields.child_name y hacer que la vida sea menos estresante para ti y tu pareja o familiar. También puede hacer que ser padre te resulte más agradable. 💚"
         },
         "quiz_1_question": {
           "eng": "¡Hagamos un ejercicio! Ejercicio 1. Participar en las responsabilidades de cuidado es parte del rol que tiene el hombre en la familia."
@@ -63,7 +63,7 @@
           "eng": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
         }
       },
-      "text_2": "Ser un integrante activo en las responsabilidades del hogar y de cuidado puede mejorar tu relación con {tu niño} y hacer que la vida sea menos estresante para ti y tu pareja o familiar. También puede hacer que ser padre te resulte más agradable. 💚",
+      "text_2": "Ser un integrante activo en las responsabilidades del hogar y de cuidado puede mejorar tu relación con @fields.child_name y hacer que la vida sea menos estresante para ti y tu pareja o familiar. También puede hacer que ser padre te resulte más agradable. 💚",
       "quiz_1_question": "¡Hagamos un ejercicio! Ejercicio 1. Participar en las responsabilidades de cuidado es parte del rol que tiene el hombre en la familia.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_feedback_1": "🎉 ¡Tienes razón!\n\nEs importante que los hombres sean miembros activos en los cuidados. Esto significa más que sólo jugar un rol de trabajo para traer dinero al hogar para alimentos, ropa y vivienda. \n\nSer un cuidador involucrado activamente fortalece la conexión y el bienestar entre tú, tus niñas, niños, adolescentes y pareja o familiares. \n\nParticipar en las tareas de cuidado y en el trabajo doméstico también demuestra respeto por la  igualdad en el hogar.",
@@ -199,7 +199,7 @@
       "id": "practical_tips_1",
       "category_id": "practical_tips",
       "media_type": "video",
-      "youtube_gb_en": "youtube link",
+      "youtube_gb_en_f": "youtube link",
       "nested": false,
       "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender algunas estrategias para la crianza compartida:\n\n1️⃣ **ESTABLECER UNA RUTINA**\n2️⃣ **CONVERSAR SOBRE LA CARGA DE TRABAJO EN EL HOGAR**\n3️⃣ **SER UN CUIDADOR QUE PARTICIPA ACTIVAMENTE**",
       "_translations": {

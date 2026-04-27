@@ -4,28 +4,76 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_1",
+      "id": "relax_2",
       "in_library": "yes",
-      "title_eng": "Quick pause",
-      "title": "Pausa rápida",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset_m": "audio/relax/relax_1.m4a",
+      "title_eng": "Power of three",
+      "title": "El poder del 3",
+      "lottie_asset": "lottie/relax/soothing_waves.json",
+      "media_asset_m": "audio/relax/relax_2.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript_1_eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be gratefful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
+      "transcript_1_spanish": "Cierra los ojos.\nVamos a usar el poder mágico del 3 para mantenernos presentes y relajarnos.\n\nNombra 3 sonidos que puedas escuchar ahora mismo.\nNombra 3 olores que puedas sentir ahora mismo.\nNombra tus 3 comidas favoritas.\n¿Cuáles son 3 cosas por las que puedes sentir gratitud ahora mismo?\n\nAl final de un día difícil, pensar en 3 cosas por las que estás agradecido(a) puede ayudarte a encontrar el valor para intentarlo de nuevo mañana.",
       "category_id": "relax",
       "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_56",
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "El autocuidado es una herramienta clave en la crianza. Comienza por reconocer cómo te sientes.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "El autocuidado es una herramienta clave en la crianza. Comienza por reconocer cómo te sientes."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Que bien! Y que valioso que estés usando esta aplicación, esto muestra tu compromiso con la crianza. Recuerda reconocerte por todo lo que estás haciendo."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Cada día tiene altas y bajas. Reconócete por estar aquí y seguir intentándolo: estás avanzando."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Lamento que las cosas estén siendo difíciles en este momento. Toma una respiración profunda y recuerda que eres valiosa/o."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "quiz_1_feedback_1": "¡Que bien! Y que valioso que estés usando esta aplicación, esto muestra tu compromiso con la crianza. Recuerda reconocerte por todo lo que estás haciendo.",
+      "quiz_1_feedback_2": "Cada día tiene altas y bajas. Reconócete por estar aquí y seguir intentándolo: estás avanzando.",
+      "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles en este momento. Toma una respiración profunda y recuerda que eres valiosa/o.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
       "completed": false
     },
     {
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Esta lección trata sobre cómo ayudar a {tu adolescente} a disfrutar de su aprendizaje para que sea algo que le guste y le sea divertido. 😃",
-      "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Esta lección trata sobre cómo ayudar a {tu adolescente} a disfrutar de su aprendizaje para que sea algo que le guste y le sea divertido. 😃"
@@ -34,6 +82,11 @@
           "eng": "Como madre, padre o persona cuidadora, desempeñas un papel importante en el modo en que {tu adolescente} aprende y se desarrolla dentro y fuera de la escuela."
         }
       },
+      "text_1_facilitator": "Esta lección trata sobre cómo ayudar a {tu adolescente} a disfrutar de su aprendizaje para que sea algo que le guste y le sea divertido. 😃",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "Como madre, padre o persona cuidadora, desempeñas un papel importante en el modo en que {tu adolescente} aprende y se desarrolla dentro y fuera de la escuela.",
       "completed": false
     },
@@ -41,12 +94,6 @@
       "id": "explore_1",
       "category_id": "explore",
       "nested": false,
-      "text_1_facilitator": "Aquí tienes una historieta que trata sobre cómo divertirte con tu adolescente mientras aprenden.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Aquí tienes una historieta que trata sobre cómo divertirte con tu adolescente mientras aprenden."
@@ -57,6 +104,12 @@
         "character_2_text": {
           "eng": "Me siento estresada, ya no puedo más. Ya no quiero hacer la tarea."
         }
+      },
+      "text_1_facilitator": "Aquí tienes una historieta que trata sobre cómo divertirte con tu adolescente mientras aprenden.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "image_asset": "images/comic/learn/fun_learning_teen_1.svg",
       "character_1_id": "f3_madre",
@@ -120,14 +173,14 @@
       "media_type": "video",
       "category_id": "practical_tips",
       "nested": false,
-      "text_1_facilitator": "Da Clic en Reproducir ▶️ para ver cómo apoyar a tu adolescente a disfrutar de su aprendizaje.\n\n1️⃣ **JUGAR**\n2️⃣ **UTILIZAR PALABRAS AFIRMATIVAS**\n3️⃣ **PERMITIR LA CREATIVIDAD**",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Da Clic en Reproducir ▶️ para ver cómo apoyar a tu adolescente a disfrutar de su aprendizaje.\n\n1️⃣ **JUGAR**\n2️⃣ **UTILIZAR PALABRAS AFIRMATIVAS**\n3️⃣ **PERMITIR LA CREATIVIDAD**"
         }
+      },
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para ver cómo apoyar a tu adolescente a disfrutar de su aprendizaje.\n\n1️⃣ **JUGAR**\n2️⃣ **UTILIZAR PALABRAS AFIRMATIVAS**\n3️⃣ **PERMITIR LA CREATIVIDAD**",
+      "_translations": {
+        "text_1_facilitator": {}
       },
       "youtube_gb_en": "youtube link",
       "completed": false
@@ -136,15 +189,6 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "**_¡Actividad para casa!_** ⭐ \n\nInvita a {tu adolescente} a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar fútbol, saltar o salir a correr. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "**_¡Actividad para casa!_** ⭐ \n\nInvita a {tu adolescente} a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar fútbol, saltar o salir a correr. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando."
@@ -165,11 +209,20 @@
           "eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana."
         }
       },
+      "quiz_1_feedback_1": "¡Genial! Usa las estrategias que has aprendido hoy, ¡y diviértete! Experimentar alegría y felicidad durante el aprendizaje con tu adolescente es una forma estupenda de motivarle para seguir aprendiendo. 💙",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana.",
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_feedback_1": "¡Genial! Usa las estrategias que has aprendido hoy, ¡y diviértete! Experimentar alegría y felicidad durante el aprendizaje con tu adolescente es una forma estupenda de motivarle para seguir aprendiendo. 💙",
       "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana.",
+      "text_1_facilitator": "**_¡Actividad para casa!_** ⭐ \n\nInvita a {tu adolescente} a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar fútbol, saltar o salir a correr. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando.",
       "completed": false
     }
   ],

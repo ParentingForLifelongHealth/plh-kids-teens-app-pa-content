@@ -7,39 +7,39 @@
     {
       "id": "man",
       "name": "man",
-      "text": "Man",
+      "text": "Hombre",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Man"
+          "eng": "Hombre"
         }
       }
     },
     {
       "id": "woman",
       "name": "woman",
-      "text": "Woman",
+      "text": "Mujer",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Woman"
+          "eng": "Mujer"
         }
       }
     },
     {
       "id": "opt_out",
       "name": "opt_out",
-      "text": "Prefer not to say",
+      "text": "Prefiero no decir",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Prefer not to say"
+          "eng": "Prefiero no decir"
         }
       }
     }

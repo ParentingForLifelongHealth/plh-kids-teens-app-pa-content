@@ -4,28 +4,76 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_1",
+      "id": "relax_3",
       "in_library": "yes",
-      "title_eng": "Quick pause",
-      "title": "Pausa rápida",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset_m": "audio/relax/relax_1.m4a",
+      "title_eng": "One thing today",
+      "title": "Nombra una cosa",
+      "lottie_asset": "lottie/relax/looping_rings.json",
+      "media_asset_m": "audio/relax/relax_3.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript_1_eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
+      "transcript_1_spanish": "Cierra los ojos y piensa en tu día.\n\nNombra una cosa por la que te sientes agradecido.\nNombra una cosa que hiciste bien.\nNombra una cosa que amas.\n\nMuy bien. Gracias por acompañarnos hoy en ParentApp.",
       "category_id": "relax",
       "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_69",
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Cuidarte es importante. ¡Y cómo te sientes, también lo es!",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Cuidarte es importante. ¡Y cómo te sientes, también lo es!"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Genial! Es bueno saber que hoy te sientes bien."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "A veces las cosas van muy bien, a veces no tanto, y otras veces, simplemente no sabemos qué pensar… y eso está bien. Recuerda que no estás sola/o."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Lamento que las cosas estén siendo difíciles en este momento. Mereces cosas buenas, y @global.app_name está aquí para acompañarte en cada paso."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "quiz_1_feedback_1": "¡Genial! Es bueno saber que hoy te sientes bien.",
+      "quiz_1_feedback_2": "A veces las cosas van muy bien, a veces no tanto, y otras veces, simplemente no sabemos qué pensar… y eso está bien. Recuerda que no estás sola/o.",
+      "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles en este momento. Mereces cosas buenas, y @global.app_name está aquí para acompañarte en cada paso.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
       "completed": false
     },
     {
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "En esta lección, seguirás aprendiendo formas de regular el estrés al hacer un plan por adelantado. Es común que las madres, padres y personas cuidadoras sientan estrés o que no pueden con más cuando tienen tanto que hacer todos los días.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "En esta lección, seguirás aprendiendo formas de regular el estrés al hacer un plan por adelantado. Es común que las madres, padres y personas cuidadoras sientan estrés o que no pueden con más cuando tienen tanto que hacer todos los días."
@@ -34,6 +82,11 @@
           "eng": "Crear un plan para cuando estés en una situación que te genera estrés puede ayudarte a planificar y gestionar las situaciones estresantes cuando se produzcan.\n\nEl estrés es parte de la vida y no necesariamente es malo. Es normal sentir estrés porque la vida a veces tiene dificultades y eso nos hace sentir tensos. Debemos prestar atención para regularlo mejor."
         }
       },
+      "text_1_facilitator": "En esta lección, seguirás aprendiendo formas de regular el estrés al hacer un plan por adelantado. Es común que las madres, padres y personas cuidadoras sientan estrés o que no pueden con más cuando tienen tanto que hacer todos los días.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "Crear un plan para cuando estés en una situación que te genera estrés puede ayudarte a planificar y gestionar las situaciones estresantes cuando se produzcan.\n\nEl estrés es parte de la vida y no necesariamente es malo. Es normal sentir estrés porque la vida a veces tiene dificultades y eso nos hace sentir tensos. Debemos prestar atención para regularlo mejor.",
       "completed": false
     },
@@ -41,11 +94,6 @@
       "id": "explore_1",
       "category_id": "explore",
       "nested": false,
-      "text_1_facilitator": "@data.characters.f1_padre.name se siente estresado por todas las cosas que tiene que hacer. Veamos cómo @data.characters.f1_padre.name crea un plan:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "@data.characters.f1_padre.name se siente estresado por todas las cosas que tiene que hacer. Veamos cómo @data.characters.f1_padre.name crea un plan:"
@@ -53,6 +101,11 @@
         "character_1_text": {
           "eng": "¡Tengo demasiadas cosas que hacer! @data.characters.f1_hijo_5.name está enfermo y @data.characters.f1_hija_13.name necesita ayuda en su proyecto para la escuela. ¡¿Cómo le voy a hacer?!"
         }
+      },
+      "text_1_facilitator": "@data.characters.f1_padre.name se siente estresado por todas las cosas que tiene que hacer. Veamos cómo @data.characters.f1_padre.name crea un plan:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
       },
       "image_asset": "images/comic/understand/make_plan_teen_1.svg",
       "character_1_id": "f1_padre",
@@ -155,14 +208,14 @@
       "media_type": "video",
       "category_id": "practical_tips",
       "nested": false,
-      "text_1_facilitator": "Da Clic aquí ▶️ para aprender 5️⃣ estrategias que te ayudarán a elaborar un plan cuando estés en situaciones que te generen estrés porque tienes demasiadas cosas que hacer:\n\n1️⃣ **ESCRIBIR O DIBUJAR**\n2️⃣ **DECIDIR**\n3️⃣ **PRIORIZAR Y CLASIFICAR**\n4️⃣ **DIVIDIR**\n5️⃣ **TOMARLO UN PASO A LA VEZ**",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Da Clic aquí ▶️ para aprender 5️⃣ estrategias que te ayudarán a elaborar un plan cuando estés en situaciones que te generen estrés porque tienes demasiadas cosas que hacer:\n\n1️⃣ **ESCRIBIR O DIBUJAR**\n2️⃣ **DECIDIR**\n3️⃣ **PRIORIZAR Y CLASIFICAR**\n4️⃣ **DIVIDIR**\n5️⃣ **TOMARLO UN PASO A LA VEZ**"
         }
+      },
+      "text_1_facilitator": "Da Clic aquí ▶️ para aprender 5️⃣ estrategias que te ayudarán a elaborar un plan cuando estés en situaciones que te generen estrés porque tienes demasiadas cosas que hacer:\n\n1️⃣ **ESCRIBIR O DIBUJAR**\n2️⃣ **DECIDIR**\n3️⃣ **PRIORIZAR Y CLASIFICAR**\n4️⃣ **DIVIDIR**\n5️⃣ **TOMARLO UN PASO A LA VEZ**",
+      "_translations": {
+        "text_1_facilitator": {}
       },
       "youtube_gb_en": "youtube link",
       "completed": false
@@ -171,15 +224,6 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nUsa estas estrategias para crear un plan que te ayude a hacer todas las cosas que tienes que hacer hoy o en la semana.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "**_Actividad para casa_**⭐ \n\nUsa estas estrategias para crear un plan que te ayude a hacer todas las cosas que tienes que hacer hoy o en la semana."
@@ -200,11 +244,20 @@
           "eng": "¡Está bien, no pasa nada! Puedes intentarlo mañana."
         }
       },
+      "quiz_1_feedback_1": "¡Maravilloso!",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "¡Está bien, no pasa nada! Puedes intentarlo mañana.",
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_feedback_1": "¡Maravilloso!",
       "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "¡Está bien, no pasa nada! Puedes intentarlo mañana.",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nUsa estas estrategias para crear un plan que te ayude a hacer todas las cosas que tienes que hacer hoy o en la semana.",
       "completed": false
     }
   ],

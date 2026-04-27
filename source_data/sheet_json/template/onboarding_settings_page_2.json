@@ -28,7 +28,7 @@
     {
       "type": "text_bubble",
       "name": "text_bubble",
-      "value": "@global.facilitator_message_1",
+      "value": "@global.facilitator_message_avatar_intro",
       "parameter_list": "speaker_position: @local.speaker_position;\nvariant: @local.variant;"
     },
     {

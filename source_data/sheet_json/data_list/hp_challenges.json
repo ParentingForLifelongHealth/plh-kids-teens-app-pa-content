@@ -20,151 +20,63 @@
     },
     {
       "id": "relation_c",
-      "question_text::eng": "What did you find difficult about spending time with your child? 🔑",
-      "text_challenge_1::eng": "I did not have enough time",
-      "reply_challenge_1::eng": "It can be hard to find time during your day, with work, chores, and everything else.\n\n✨Think of a time each day that you could spare 5 minutes. You can even make household chores into a game to do together.",
-      "text_challenge_2::eng": "My child did not want to spend time with me",
-      "reply_challenge_2::eng": "😔 It can hurt when your child does not want to spend one-on-one time with you.\n\n💡 Think to yourself: When are they more open to you? In the morning? Right before bedtime?\n\n💙 Try again so that your child can see that you care and want to spend this time with them.",
-      "text_challenge_3::eng": "All my child wanted to do was watch T.V. or play with a gadget",
-      "reply_challenge_3::eng": "📺 Children often want to spend time watching T.V. or playing with a gadget.\n\n❓ You could watch or play on the gadget with them.\n\n💚Caring about their interests is a great start!\n\n🌷 Once you begin spending time together you can suggest another activity.\n\n",
-      "text_challenge_4::eng": "My child wanted to do activities that I could not do",
-      "reply_challenge_4::eng": "☀️ If your child wants to do things that are too difficult for you to do, you could watch them.\n\n🏁 You could describe what they are doing like a sports announcer.\n\n💛 Praise them while they do it!",
-      "text_challenge_5::eng": "My child chose a competitive activity. I won and then they got angry",
-      "reply_challenge_5::eng": "⚽ Competitive games can be hard for children (and adults!) if they don’t like losing.\n\n🏆 When they have calmed down, talk with your children about what winning well and losing well might look like.\n\n📝 Suggest other activities that you can do to work together instead of against each other.\n\n",
-      "text_challenge_6::eng": "All my children wanted one-on-one time at the same time",
-      "reply_challenge_6::eng": "🔴 It can be difficult to spend one-on-one time with each child when you have more than one child.\n\n🌱 If possible, you can ask an adult or older sibling to look after the other children while you spend one-on-one time with your child.\n\n⏰ Think of when it would be easier to spend one-on-one time with each child. \n\n💛 You can also spend one-on-one time with all of your children at once!\n\n",
-      "text_challenge_7::eng": "Prefer not to say",
-      "reply_challenge_7::eng": "💛 We are sorry to hear that you have been finding it hard to spend one-on-one time with your child."
+      "question_text::eng": "¿Qué se te hacía difícil al pasar tiempo con tu niña o niño? 🔑",
+      "text_challenge_1::eng": "No tuve suficiente tiempo",
+      "reply_challenge_1::eng": "Puede ser difícil encontrar tiempo durante el día, con el trabajo, las tareas y todo lo demás.\n\n✨ Piensa en un momento al día en el que puedas dedicar 15 minutos. Incluso puedes convertir las tareas del hogar en un juego para hacer juntos.\n\nUsa el tiempo que ya compartes con tu niña o niño, como cuando van camino a la escuela, cuando van de regreso a casa después de la escuela, su tiempo en la mañana a la hora de despertarse o en la noche, cuando se dan las buenas noches para irse a dormir.",
+      "text_challenge_2::eng": "Mi niña o niño no quería pasar Tiempo para Estar Juntos y Conectados conmigo",
+      "reply_challenge_2::eng": "😔 Puede ser doloroso que tu niña o niño no quiera pasar Tiempo para Estar Juntos y Conectados contigo.\n\n💡 Piensa para ti: ¿Cuándo están más abiertos a convivir contigo? ¿En la mañana? ¿Justo antes de acostarse?\n\n💙 Inténtalo de nuevo para que tu niña o niño vea que te interesa y que quieres pasar ese tiempo con él o ella.",
+      "text_challenge_3::eng": "Lo único que querían hacer mis niñas y niños era ver la tele o jugar con algún dispositivo electrónico",
+      "reply_challenge_3::eng": "📺 Las niñas y niños frecuentemente quieren pasar el tiempo viendo la tele o jugando con un dispositivo electrónico.\n\n❓ Podrías mirar o jugar en los dispositivos electrónicos con ellas y ellos.\n\n💚 ¡Interesarse por lo que les gusta es un gran comienzo!\n\n🌷 Una vez que empiecen a pasar tiempo juntos, puedes sugerir otra actividad.",
+      "text_challenge_4::eng": "Mi niña o niño quería hacer actividades que yo no podía hacer",
+      "reply_challenge_4::eng": "☀️ Si tu niña o niño quiere hacer cosas que a ti se te hacen demasiado difíciles, podrías acompañarles.\n\n🏁 Podrías describir lo que están haciendo como un comentarista de deportes.\n\nTambién puedes expresar interés aplaudiendo, sonriendo u ofreciendo un pulgar hacia arriba.\n\n\n💛 ¡Halágalos mientras lo hacen!",
+      "text_challenge_5::eng": "Mi niña o niño eligió una actividad competitiva. Gané y se enojó",
+      "reply_challenge_5::eng": "⚽ Los juegos competitivos pueden ser difíciles para tus niñas y niños (¡y personas adultas!) si no les gusta perder.\n\n🏆 Cuando se hayan calmado, habla con tus niñas y niños sobre cómo sería responder de manera positiva al ganar y al perder.\n\n📝 Sugiere otras actividades que puedan hacer para trabajar juntos en lugar de unos contra otros.",
+      "text_challenge_6::eng": "Todas mis niñas y niños querían Tiempo para Estar Juntos y Conectados al mismo tiempo",
+      "reply_challenge_6::eng": "🔴 Puede ser difícil pasar Tiempo para Estar Juntos y Conectados con cada uno de tus niñas o niños cuando tienes más de uno.\n🌱 Si es posible, puedes pedir a una persona adulta o a un miembro de la familia mayor que cuide de los demás niñas y niños mientras tú pasas Tiempo para Estar Juntos y Conectados con alguno.\n\n⏰ Piensa cuándo sería más fácil pasar Tiempo para Estar Juntos y Conectados con cada uno de tus niñas y niños.\n\nSi lo haces, asegúrate de que todas y todos puedan participar durante ese tiempo.",
+      "text_challenge_7::eng": "Prefiero no decirlo",
+      "reply_challenge_7::eng": "💛 Lamentamos que se te haga difícil pasar Tiempo para Estar Juntos y Conectados con tu niña o niño. ¡Seguro pronto encontrarás una oportunidad!"
     },
     {
       "id": "relation_t",
-      "question_text::eng": "What did you find hard about doing activities with Your Child to help them learn?",
-      "text_challenge_1::eng": "I didn’t have any books to read with my child",
-      "reply_challenge_1::eng": "💡 That’s normal! Many parents don’t have books in the house. \n\n👀 You can also use anything that has pictures to interact with your child - magazines, newspapers, and even signs.",
-      "text_challenge_2::eng": "My child does not want to learn",
-      "reply_challenge_2::eng": "🎨 Try to make learning activities fun! Your child will be more likely to want to learn when the activity is fun with less pressure. \n\n⚽ Follow your child’s interests, even if you’re just talking together. This will help them learn. \n\n",
-      "text_challenge_3::eng": "I did not have the time to involve myself in my child's learning or education",
-      "reply_challenge_3::eng": "😣 It can be hard to find time during your day, with work, chores, and everything else. \n\n⏰ Can you think of a time each day that you can make 5 minutes - or a little more - to help Your Child with their learning? \n\n⚽ Perhaps start them off with an activity and then check in with them every few minutes. \n\n🍚 You can also make household work into learning moments - like cooking or sorting clothes. You can do this!",
-      "text_challenge_4::eng": "I am feeling overwhelmed",
-      "reply_challenge_4::eng": "💙 I’m sorry you’re feeling overwhelmed. \n\n💡 Try doing short, simple, and fun things that can fit in with your routine. \n\n🌈 For example, point at things like letters, numbers, colours, and objects and tell Your Child what they are. Start slowly and simply. \n\n🍚 If you’re busy, just involve Your Child in what you are doing.",
-      "text_challenge_5::eng": "Prefer not to say",
-      "reply_challenge_5::eng": "💚 I am sorry to hear that it has been hard to do learning activities with your child."
+      "question_text::eng": "¿Qué se te hacía difícil al pasar tiempo con tu adolescente? 🔑",
+      "text_challenge_1::eng": "No tuve suficiente tiempo",
+      "reply_challenge_1::eng": "Puede ser difícil encontrar tiempo durante el día, con el trabajo, las tareas y todo lo demás.\n\n✨ Piensa en un momento al día en el que puedas dedicar 5 minutos. Incluso puedes convertir las tareas del hogar en un juego para hacer juntos.\n\nUsa el tiempo que ya compartes con tus niñas o niños, como ir a la escuela, recogerles, despertarles o darles las buenas noches para dormir.\n\nIncluso puedes convertir las tareas del hogar en un juego para hacer juntos."
     },
     {
       "id": "understand_c",
-      "question_text::eng": "What did you find hard about doing activities with Your Child to help them learn?",
-      "text_challenge_1::eng": "I didn’t have any books to read with my child",
-      "reply_challenge_1::eng": "💡 That’s normal! Many parents don’t have books in the house. \n\n👀 You can also use anything that has pictures to interact with your child - magazines, newspapers, and even signs.",
-      "text_challenge_2::eng": "My child does not want to learn",
-      "reply_challenge_2::eng": "🎨 Try to make learning activities fun! your child will be more likely to want to learn when the activity is fun with less pressure. \n\n⚽ Follow your child’s interests, even if you’re just talking together. This will help them learn. \n\n",
-      "text_challenge_3::eng": "I did not have the time to involve myself in my child's learning or education",
-      "reply_challenge_3::eng": "😣 It can be hard to find time during your day, with work, chores, and everything else. \n\n⏰ Can you think of a time each day that you can make 5 minutes - or a little more - to help your child with their learning? \n\n⚽ Perhaps start them off with an activity and then check in with them every few minutes. \n\n🍚 You can also make household work into learning moments - like cooking or sorting clothes. You can do this!",
-      "text_challenge_4::eng": "I am feeling overwhelmed",
-      "reply_challenge_4::eng": "💙 I’m sorry you’re feeling overwhelmed. \n\n💡 Try doing short, simple, and fun things that can fit in with your routine. \n\n🌈 For example, point at things like letters, numbers, colours, and objects and tell your child what they are. Start slowly and simply. \n\n🍚 If you’re busy, just involve your child in what you are doing.",
-      "text_challenge_5::eng": "Prefer not to say",
-      "reply_challenge_5::eng": "💚 I am sorry to hear that it has been hard to do learning activities with your child."
+      "question_text::eng": "¿Qué es lo que has encontrado más difícil al apoyar a @fields.child_name en su desarrollo?"
     },
     {
       "id": "understand_t",
-      "question_text::eng": "What did you find difficult when supporting your child’s development?",
-      "text_challenge_1::eng": "I don’t have time to interact with my child",
-      "reply_challenge_1::eng": "It is okay to feel that way. But there are many small ways to spend time with your child!\n\n⏰ You can interact with your child while doing something else. For example, you can ask your child to describe the colours and objects they see around them while you are walking together or in transit on a bus.\n\n😃 Your child will appreciate the attention you are giving, even for a short while.",
-      "text_challenge_2::eng": "My child is not interested in spending time with me",
-      "reply_challenge_2::eng": "😣 You may be hurt because your child does not want to spend time with you.\n\n⏰ Sometimes, your child just needs time to engage with you. It helps to remain calm, patient, and kind while you try to connect with your child.\n\n🌱 As children grow, they may want independence from you. That’s normal! You can support them to find friends based on their interests.",
-      "text_challenge_3::eng": "My child keeps getting hurt from exploring or making new friends",
-      "reply_challenge_3::eng": "🧸 It must be hard to see your child getting injured or feeling sad often. \n\n🌷Children learn and grow from making mistakes. It is an important part of child development. They will be safe as long as you are aware of their activities and you can prevent anything dangerous.\n\n⭐ Build your child’s confidence about their abilities, values, and appearance so that they are comfortable trying new things.\n\n🎨 Encourage them to safely try out fun activities with other kids or adults. Praise them when they do it well!\n\n💚 Let your child know that you trust them to be safe and follow the rules that you have set.",
-      "text_challenge_4::eng": "My child likes competitive activities but gets angry when they lose or need to share the win",
-      "reply_challenge_4::eng": "⚽ Competitive games can be hard for children (and adults!) if they don’t like losing or sharing.\n\n🏆 When they have calmed down, talk with your child about what winning well and losing well might look like.\n\n📝 Suggest other activities that you can do to work together instead of against each other.\n\n",
-      "text_challenge_5::eng": "My child expresses negative emotions all the time",
-      "reply_challenge_5::eng": "💙 It must be difficult when your child is expressing negative feelings, but this is common because your child is also learning to manage their emotions.\n\n👂 Listen to your child’s emotions and acknowledge them.\n\n💡 Ask your child how to feel better and give your child advice on what you think would work well.\n\n🌱 While it is tempting to solve your child’s problems immediately with what you think is best, it will not help them grow.",
-      "text_challenge_6::eng": "Prefer not to say",
-      "reply_challenge_6::eng": "💚 We are sorry to hear that it has been hard for you to understand your child’s development."
+      "question_text::eng": "¿Qué fue lo que más se te dificultó a la hora de querer cuidar del bienestar de tu adolescente? 👂"
     },
     {
       "id": "behave_c",
-      "question_text::eng": "What did you find hard about involving your child when creating household rules and routines?",
-      "text_challenge_1::eng": "My child could not agree on one specific rule or routine",
-      "reply_challenge_1::eng": "📖 When creating rules, it is important to think about the age of each child, so you can come up with routines that are fair for their age.\n\n⏰ This is most important for bedtime, the time to come home, and household chores.",
-      "text_challenge_2::eng": "My child felt it was unfair that they have to follow the rule while I don’t have to follow it",
-      "reply_challenge_2::eng": "⭐ Our children learn best from us.\n\n✅ The more we follow the rules, the more they will follow the rules too.\n\n💛 You can adapt the rule to make sure that it is something everyone can follow.",
-      "text_challenge_3::eng": "I felt uncomfortable because I think an adult should create the rule, not my child",
-      "reply_challenge_3::eng": "🌷 When we create rules together with our children, we build trust and an open relationship with them.\n\n🔑 The rules we set will be more realistic and your child will be more willing and able to follow the rule.",
-      "text_challenge_4::eng": "Prefer not to say",
-      "reply_challenge_4::eng": "💚 We are sorry to hear that it has been hard to set and keep household rules."
+      "question_text::eng": "¿Qué fue lo que más se te dificultó a la hora de guiar el comportamiento de @fields.child_name?"
     },
     {
       "id": "behave_t",
-      "question_text::eng": "What did you find hard about managing your child’s behaviour?",
-      "text_challenge_1::eng": "I can’t redirect my child to a positive behaviour when they are misbehaving",
-      "reply_challenge_1::eng": "🌱 Next time, try to catch the misbehaviour early on, before it sets in or gets worse.\n\n👂 Talk to them about this behaviour when both of you feel calmer.",
-      "text_challenge_2::eng": "I get too angry at my child and find it difficult to be positive with them when they are no longer misbehaving",
-      "reply_challenge_2::eng": "🌱 It is normal to sometimes get angry at our children when they are misbehaving, especially when they are driving us crazy.\n\n⏸ Next time, take a deep breath and take some space.\n\n☀️ Later, find something small and clear that your child is doing and you wish they could do more of. Then, praise them when they do it.",
-      "text_challenge_3::eng": "My child misbehaves all the time",
-      "reply_challenge_3::eng": "💚 This must be very stressful for you. Please remind yourself that you are doing your best.\n\n🌷 You may need to spend more one-on-one time with your child to have a stronger relationship with them.\n\n⭐ Give more positive attention to them when they are behaving well - even the smallest good behaviour - and praise them for this behaviour.\n\n🌙 Be patient. Learning to manage our behaviour takes time!",
-      "text_challenge_4::eng": "I got very angry with my child and shouted at them",
-      "reply_challenge_4::eng": "🌷 It is normal to sometimes get angry at our children when they are misbehaving, especially when they are driving us crazy. The important thing is how we manage that anger.\n\n⏸ First, take a pause. You can go to Library at any time to review the Take a Pause lessons.\n\n💚 Be kind to yourself. You are both learning and it’s okay not to get it right all the time.\n\n🌱 When you feel calmer, you could apologise to your child for shouting and remind them that you love them. \n\n🎈 Repeat the core message of what you were trying to say in a calmer way.",
-      "text_challenge_5::eng": "I forgot to give my child a chance to do what I asked before giving the consequence",
-      "reply_challenge_5::eng": "💚 That’s okay, this is all about learning!\n\n💡 When you give your child a choice, you teach them decision-making skills.\n\n✨ It does not always work, but when it does, it helps avoid giving them a consequence later!",
-      "text_challenge_6::eng": "My child got very angry with me after I gave the consequence",
-      "reply_challenge_6::eng": "🌷 Sometimes, your child will react in a negative way when receiving a consequence.\n\n✨ Walk away until they calm down.\n\n💡 As long as the consequence is fair, it is important to follow through with it, even if they are angry.",
-      "text_challenge_7::eng": "Ignoring my child’s whining or tantrums is not working. They are still happening a lot",
-      "reply_challenge_7::eng": "Here are 3️⃣ three tips to remember if your child’s behaviour is persisting:\n\n1️⃣ Your child will act out negatively to get attention if they are not getting positive attention. Try to praise your child’s positive behaviour when you see it.\n\n2️⃣ Remain consistent when ignoring behaviours. Inconsistency may confuse children and reinforce negative attention seeking behaviours. \n\n3️⃣Consider whether the behaviour is age appropriate.Your child may be too young for difficult tasks, like remaining quiet while you are talking to a friend. \n\nRemember that building a positive relationship with your child and giving your child positive attention when they are behaving well is the best way to reduce negative behaviours!",
-      "challenge_8_tag_list": "Prefer not to say",
-      "reply_challenge_*::eng": "We are sorry to hear that it has been hard to manage your child’s behaviour."
+      "question_text::eng": "¿Qué fue lo que más se te dificultó a la hora de guiar el comportamiento de tu adolescente?"
     },
     {
       "id": "safety_c",
-      "question_text::eng": "What did you find hard about keeping your child safe online and offline?",
-      "text_challenge_1::eng": "My child is always on a gadget, even when I am working or doing house chores",
-      "reply_challenge_1::eng": "📺 It must be exhausting to always tell your child to turn off or put away the gadgets.\n\n📝 You can set rules with your child. Tell them that they cannot be on gadgets when you are busy. Your busy time is your child’s quiet play time with toys or reading time with books.\n\n🌷 Tell your child that sharing what they watch on T.V. or what they do on gadgets is a rule. \n\n👂 Be patient and kind while listening to them. Manage your anger if you find that they did something wrong online. Take a deep breath.\n\n💛 Praise your child when they follow the rules!",
-      "text_challenge_2::eng": "My child is refusing to eat vegetables and fruits, especially when they are out of the house",
-      "reply_challenge_2::eng": "🍅 It is common for children to refuse vegetables and fruits, especially when tastier but less healthy food options are available all around us.\n\n🌱 You could encourage your child to eat slightly sweeter fruits and vegetables for a start, such as mangoschilds and sweet potatoes. You can gradually introduce other vegetables and fruits.\n\n🎈 Praise you child even when they take one mouthful of vegetables or fruits!",
-      "text_challenge_3::eng": "My child and I could not agree on which areas were unsafe",
-      "reply_challenge_3::eng": "👂 That’s alright, even adults don’t agree on this sometimes. Listening to our children, even when we disagree, helps us understand their thinking.\n\n⏰ Find time to talk about safe unsafe areas again.\n\n💚 This time, really listen and show you understand their view before sharing your thoughts.\n\n📝 Tell your child that you appreciate their opinions and you are proud of them for being honest about how they feel.",
-      "text_challenge_4::eng": "My child told me that school or the house of someone I trust is an unsafe place. 🚩 I was shocked and did not know what to do",
-      "reply_challenge_4::eng": "😔 It is shocking to learn that people who we trust may cause discomfort to our children.\n\n👂 Listen to your child if they want to talk about why it seems dangerous or uncomfortable. Trust what they say - they will not say such things for no reason!\n\n🔔Talk with someone and get support.\n\n💙 Remember to take a pause when you are stressed.",
-      "text_challenge_5::eng": "It was hard to find safety resources because I don’t know my community so well",
-      "reply_challenge_5::eng": "🔵 Involve another family member or friend in your mapping activity. Asking for help will help you keep your child safe!\n\n🚗 Visit some of the services available, such as neighbourhood watch groups or clinics, and ask what they do.\n\n💛 The more we know, the better we can keep our families safe!",
-      "text_challenge_6::eng": "I am shy to talk to my young child about bodies and safe touch",
-      "reply_challenge_6::eng": "💙 It is slightly uncomfortable to talk to our children about male and female body parts.\n\n💡But it helps to keep our children safe. Your child will know that they can come to you about any questions related to the body.\n\n💚 While it may be uncomfortable to talk about some body parts, especially private parts, your child will know how to talk about it if anything happens.\n\n🔑 Answer any questions from your child honestly. You can do this to keep our children safe!🌷"
+      "question_text::eng": "¿Qué fue lo que más se te dificultó al procurar la seguridad de @fields.child_name dentro y fuera de internet?"
     },
     {
       "id": "safety_t",
-      "question_text::eng": "What did you find difficult about sharing tasks equally?",
-      "text_challenge_1::eng": "I didn’t know how to support my spouse",
-      "reply_challenge_1::eng": "🌱 Ask them! Telling your spouse you want to help but don’t know how, shows them you care and want to be involved.",
-      "text_challenge_2::eng": "I forgot to share the tasks equally or get involved",
-      "reply_challenge_2::eng": "⏰ Try creating a routine. Planning when to do household tasks or ways to share caregiving can be a helpful reminder.\n\n🔑 Once you start sharing tasks more often - it will will get easier to remember.",
-      "text_challenge_3::eng": "I forgot to ask for help",
-      "reply_challenge_3::eng": "🔑 It can be hard to ask for help. Sometimes we expect our spouses to know we need help even if we don’t ask them.\n\n🌱 Once you start telling, they are more likely to help again in the future.",
-      "text_challenge_4::eng": "I didn’t have the time to ask or give help",
-      "reply_challenge_4::eng": "🌱 Finding time to help, and ask for help, can be hard.\n\n⏰ Can you think of a time when you’re less busy? For example, maybe it is easier to do housework later in the evening when some of the children are asleep.",
-      "text_challenge_5::eng": "I felt uncomfortable doing tasks I don’t normally do",
-      "reply_challenge_5::eng": "⭐ Be kind to yourself - trying something new is often hard at first.\n\n🌱 Give yourself time to adjust.\n\n💡 Remember that helping your spouse with caregiving and household tasks benefits the whole family!",
-      "text_challenge_6::eng": "I asked my spouse for help but they refused",
-      "reply_challenge_6::eng": "Sorry to hear that your spouse did not react positively.\n\n🌱 Be proud of yourself for trying and be gentle with yourself."
+      "question_text::eng": "¿Qué fue lo que más se te dificultó al hablar con @fields.child_namesobre las personas con las que pasa su tiempo?"
     },
     {
       "id": "learn_c",
-      "question_text::eng": "What did you find difficult about planning your spending for the week?",
-      "text_challenge_1::eng": "I did not want to tell my family how much I earn",
-      "reply_challenge_1::eng": "💰 You do not have to reveal the exact amount you earn - give an estimate.\n\n💡 You could say, “In this household, we have this amount of money every month,” rather than, “I make this amount of money.”",
-      "text_challenge_2::eng": "When budgeting, we could not agree on what should fall under needs and what should fall under wants",
-      "reply_challenge_2::eng": "👋 People’s wants and needs can be different.\n\n🌷 Talking about them together can help you and your family to understand each other, respect your differences, and see where you can find agreement.",
-      "text_challenge_3::eng": "I did not understand what to do",
-      "reply_challenge_3::eng": "❓ Why don’t we go through the content again? You can review this skill any time!\n\n😃 Your family members can join and help you!",
-      "text_challenge_4::eng": "My family did not want to budget with me",
-      "reply_challenge_4::eng": "📝 Make a budget alone first, then see if you can include family members.\n\n🌷Remind them that budgeting can help the family save money and why this is important.",
-      "text_challenge_5::eng": "I did not have the time to talk about budgeting with my family",
-      "reply_challenge_5::eng": "💙 It can be hard to find time.\n\n⏰ This week, spend just 30 minutes on this activity. You can break each step up into shorter activities and spread it across the week.",
-      "text_challenge_6::eng": "Prefer not to say",
-      "reply_challenge_6::eng": "We are sorry to hear that it has been hard to budget with your family. You can review this skill any time! 📝"
+      "question_text::eng": "¿Qué fue lo que más se te dificultó al hacer actividades con @fields.child_name para apoyar su aprendizaje?"
     },
     {
-      "id": "learn_t"
+      "id": "learn_t",
+      "question_text::eng": "¿Qué fue lo que más se te dificultó a la hora de apoyar el aprendizaje o las actividades académicas de tu adolescente?"
     },
     {
-      "id": "ipv"
+      "id": "ipv",
+      "question_text::eng": "¿Qué ha sido lo más difícil a la hora de dividirse las actividades diarias y las tareas del hogar de manera equitativa o justa para todas y todos?"
     }
   ]
 }
