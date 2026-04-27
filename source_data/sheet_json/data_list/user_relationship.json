@@ -1,0 +1,38 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "user_relationship",
+  "status": "released",
+  "data_list_name": "user_relationship",
+  "rows": [
+    {
+      "id": "single",
+      "name": "single",
+      "text::eng": "Soltero o soltera (sin pareja)"
+    },
+    {
+      "id": "married",
+      "name": "married",
+      "text::eng": "Casado o casada"
+    },
+    {
+      "id": "partner",
+      "name": "partner",
+      "text::eng": "En pareja pero no casado"
+    },
+    {
+      "id": "divorced",
+      "name": "divorced",
+      "text::eng": "Divorciado o separado"
+    },
+    {
+      "id": "widow",
+      "name": "widow",
+      "text::eng": "Viudo o viuda"
+    },
+    {
+      "id": "opt_out",
+      "name": "opt_out",
+      "text::eng": "Prefiero no decir"
+    }
+  ]
+}

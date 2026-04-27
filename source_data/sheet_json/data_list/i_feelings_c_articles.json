@@ -13,7 +13,7 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1_facilitator::eng": "😃😣😔 Esta lección trata sobre identificar tus emociones y las de {tu niño}.",
+      "text_1_facilitator::eng": "😃😣😔 Esta lección trata sobre identificar tus emociones y las de @fields.child_name.",
       "text_2::eng": "Identificar nuestras propias emociones nos ayuda a tomar decisiones claras y a mejorar la forma en que interactuamos con nuestras niñas, niños o adolescentes y con nosotros mismos.\n\n⭐Identificar emociones y conversar sobre ellas con tu niña, niño y adolescente, le ayudará a aprender a expresarlas y a manejarlas.  \n\n👌Aprenderá que está bien experimentar cualquier emoción o sentimiento, incluso los incómodos o desagradables. \n\n🌷Puedes ayudar al escucharles, ponerte en su lugar y aceptar sus emociones.  \n\n🤗Esto también les ayudará a elogiar los sentimientos de las y los demás.",
       "quiz_1_question::eng": "Hagamos un ejercicio: Conversar de las emociones agradables es igual de importante que conversar de las emociones incómodas.",
       "quiz_1_option_1_text::eng": "Verdadero",
@@ -70,13 +70,12 @@
       "id": "practical_tips_1",
       "category_id": "practical_tips",
       "text_1_facilitator::eng": "Da clic en reproducir ▶️ para aprender las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:\n\n1️⃣ APRENDER\n2️⃣ IDENTIFICAR\n3️⃣ ABRIR TU MENTE\n4️⃣ HABLAR\n5️⃣ COMPARTIR\n6️⃣ MOSTRAR INTERÉS",
-      "media_type": "video",
-      "youtube_gb_en": "youtube link"
+      "youtube_gb_en_f": "youtube link"
     },
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "**_Actividad para casa_**⭐ \n\nDurante el tiempo juntos y conectados, practica identificar las emociones de {tu niño}. Conversa con él o ella describiendo tus propias emociones y las de {tu niño} ",
+      "text_1_facilitator::eng": "**_Actividad para casa_**⭐ \n\nDurante el tiempo juntos y conectados, practica identificar las emociones de @fields.child_name. Conversa con él o ella describiendo tus propias emociones y las de @fields.child_name ",
       "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy?",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Muy buen trabajo! ⭐\n\nEsto marcará una gran diferencia.",

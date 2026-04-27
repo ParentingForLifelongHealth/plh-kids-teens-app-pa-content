@@ -43,7 +43,7 @@
       ],
       "number": 2,
       "image_asset": "images/homescreen/relation_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_2",
       "title": "Dar Reconocimiento",
       "_translations": {
@@ -68,7 +68,7 @@
       ],
       "number": 3,
       "image_asset": "images/homescreen/understand_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_3",
       "title": "Crear Rutinas",
       "_translations": {
@@ -93,7 +93,7 @@
       ],
       "number": 4,
       "image_asset": "images/homescreen/understand_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_4",
       "title": "Identificar Emociones",
       "_translations": {
@@ -118,7 +118,7 @@
       ],
       "number": 5,
       "image_asset": "images/homescreen/behave_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_5",
       "title": "Mantener La Calma Cuando Hay Estrés",
       "_translations": {
@@ -138,15 +138,12 @@
         "female",
         "opt_out"
       ],
-      "caregiver_relationship_list_DELETE": [
-        "12q"
-      ],
       "tag_list": [
         "teen"
       ],
       "number": 6,
       "image_asset": "images/homescreen/behave_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_6",
       "title": "Pasar Tiempo Juntos y Conectados",
       "_translations": {
@@ -196,7 +193,7 @@
       ],
       "number": 8,
       "image_asset": "images/homescreen/safety_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_8",
       "title": "Crear Rutinas",
       "_translations": {
@@ -221,7 +218,7 @@
       ],
       "number": 9,
       "image_asset": "images/homescreen/learn_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_9",
       "title": "Identificar Emociones",
       "_translations": {
@@ -246,7 +243,7 @@
       ],
       "number": 10,
       "image_asset": "images/homescreen/learn_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_10",
       "title": "Mantener La Calma Cuando Hay Estrés",
       "_translations": {
@@ -272,7 +269,7 @@
       ],
       "number": 11,
       "image_asset": "images/homescreen/ipv.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_11",
       "title": "Escuchar y Conversar Efectivamente",
       "_translations": {
@@ -298,7 +295,7 @@
       ],
       "number": 12,
       "image_asset": "images/homescreen/relation_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_12",
       "title": "Tomar Decisiones en Equipo",
       "_translations": {
@@ -350,7 +347,7 @@
       ],
       "number": 14,
       "image_asset": "images/homescreen/understand_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_14",
       "title": "Papel de los Padres en la Crianza Compartida",
       "_translations": {
@@ -376,7 +373,7 @@
       ],
       "number": 15,
       "image_asset": "images/homescreen/understand_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_15",
       "title": "Resolver Conflictos Pacíficamente",
       "_translations": {
@@ -401,7 +398,7 @@
       ],
       "number": 16,
       "image_asset": "images/homescreen/behave_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_16",
       "title": "Enseñar sobre autocuidado y prevención del abuso a mi niño (2 a 5)",
       "_translations": {
@@ -426,7 +423,7 @@
       ],
       "number": 17,
       "image_asset": "images/homescreen/behave_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_17",
       "title": "Enseñar sobre autocuidado y prevención del abuso a mi niña (2 a 5)",
       "_translations": {
@@ -451,7 +448,7 @@
       ],
       "number": 18,
       "image_asset": "images/homescreen/safety_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_18",
       "title": "Enseñar sobre autocuidado y prevención del abuso a mi niña o niño (6 a 9)",
       "_translations": {
@@ -501,7 +498,7 @@
       ],
       "number": 20,
       "image_asset": "images/homescreen/learn_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_20",
       "title": "Crear un Plan de Seguridad con Mi Niña o Niño (5 a 9)",
       "_translations": {
@@ -526,7 +523,7 @@
       ],
       "number": 21,
       "image_asset": "images/homescreen/learn_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_21",
       "title": "Saber Responder Ante Alguna Crisis (2 a 6)",
       "_translations": {
@@ -551,7 +548,7 @@
       ],
       "number": 22,
       "image_asset": "images/homescreen/ipv.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_22",
       "title": "Saber Responder Ante Alguna Crisis (7 a 9)",
       "_translations": {
@@ -576,7 +573,7 @@
       ],
       "number": 23,
       "image_asset": "images/homescreen/relation_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_23",
       "title": "Usar con Responsabilidad y Seguridad los Dispositivos y Espacios Virtuales",
       "_translations": {
@@ -601,7 +598,7 @@
       ],
       "number": 24,
       "image_asset": "images/homescreen/relation_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_24",
       "title": "Desarrollar Confianza y Hábitos Seguros para el Uso de Internet y Redes Sociales",
       "_translations": {
@@ -651,7 +648,7 @@
       ],
       "number": 26,
       "image_asset": "images/homescreen/understand_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_26",
       "title": "Prevenir la Violencia Sexual",
       "_translations": {
@@ -676,7 +673,7 @@
       ],
       "number": 27,
       "image_asset": "images/homescreen/behave_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_27",
       "title": "Saber Responder Ante Alguna Crisis (fem)",
       "_translations": {
@@ -701,7 +698,7 @@
       ],
       "number": 28,
       "image_asset": "images/homescreen/behave_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_28",
       "title": "Saber Responder Ante Alguna Crisis (mas)",
       "_translations": {
@@ -726,7 +723,7 @@
       ],
       "number": 29,
       "image_asset": "images/homescreen/safety_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_29",
       "title": "Usar con Responsabilidad y Seguridad los Dispositivos y Espacios Virtuales",
       "_translations": {
@@ -751,7 +748,7 @@
       ],
       "number": 30,
       "image_asset": "images/homescreen/safety_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_30",
       "title": "Desarrollar Confianza y Hábitos Seguros para el Uso de Internet y Redes Sociales",
       "_translations": {
@@ -801,7 +798,7 @@
       ],
       "number": 32,
       "image_asset": "images/homescreen/learn_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_32",
       "title": "Enseñar Colaboración: Enfocarse en lo Positivo",
       "_translations": {
@@ -826,7 +823,7 @@
       ],
       "number": 33,
       "image_asset": "images/homescreen/ipv.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_33",
       "title": "Acordar Reglas En Familia",
       "_translations": {
@@ -851,7 +848,7 @@
       ],
       "number": 34,
       "image_asset": "images/homescreen/relation_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_34",
       "title": "Estrategias para Reducir Problemas de Comportamiento.",
       "_translations": {
@@ -876,7 +873,7 @@
       ],
       "number": 35,
       "image_asset": "images/homescreen/relation_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_35",
       "title": "Estrategias para Reducir Problemas de Comportamiento: Consecuencias Justas.",
       "_translations": {
@@ -901,7 +898,7 @@
       ],
       "number": 36,
       "image_asset": "images/homescreen/understand_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_36",
       "title": "Resolver Problemas con Mi Niña o Niño",
       "_translations": {
@@ -951,7 +948,7 @@
       ],
       "number": 38,
       "image_asset": "images/homescreen/behave_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_38",
       "title": "Estrategias para Regular la Ira",
       "_translations": {
@@ -976,7 +973,7 @@
       ],
       "number": 39,
       "image_asset": "images/homescreen/behave_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_39",
       "title": "Enseñar Colaboración: Enfocarse en lo Positivo",
       "_translations": {
@@ -1001,7 +998,7 @@
       ],
       "number": 40,
       "image_asset": "images/homescreen/safety_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_40",
       "title": "Acordar Reglas En Familia",
       "_translations": {
@@ -1026,7 +1023,7 @@
       ],
       "number": 41,
       "image_asset": "images/homescreen/safety_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_41",
       "title": "Estrategias para Reducir Problemas de Comportamiento: Consecuencias Justas.",
       "_translations": {
@@ -1051,7 +1048,7 @@
       ],
       "number": 42,
       "image_asset": "images/homescreen/learn_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_42",
       "title": "Resolver Problemas con Mi Adolescente",
       "_translations": {
@@ -1101,7 +1098,7 @@
       ],
       "number": 44,
       "image_asset": "images/homescreen/ipv.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_44",
       "title": "Estimular el Lenguaje de Mi Niña o Niño",
       "_translations": {
@@ -1126,7 +1123,7 @@
       ],
       "number": 45,
       "image_asset": "images/homescreen/relation_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_45",
       "title": "Disfrutar y Favorecer la Lectura (2 a 3)",
       "_translations": {
@@ -1151,7 +1148,7 @@
       ],
       "number": 46,
       "image_asset": "images/homescreen/relation_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_46",
       "title": "Disfrutar y Favorecer la Lectura: Parte 1 (4 a 6)",
       "_translations": {
@@ -1176,7 +1173,7 @@
       ],
       "number": 47,
       "image_asset": "images/homescreen/understand_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_47",
       "title": "Disfrutar y Favorecer la Lectura: Parte 2 (4 a 6)",
       "_translations": {
@@ -1201,7 +1198,7 @@
       ],
       "number": 48,
       "image_asset": "images/homescreen/understand_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_48",
       "title": "Enseñar Matemáticas Divertidas y Sencillas (2 a 3)",
       "_translations": {
@@ -1251,7 +1248,7 @@
       ],
       "number": 50,
       "image_asset": "images/homescreen/behave_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_50",
       "title": "Enseñar Matemáticas Divertidas y Sencillas: Parte 2 (4 a 6)",
       "_translations": {
@@ -1276,7 +1273,7 @@
       ],
       "number": 51,
       "image_asset": "images/homescreen/safety_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_51",
       "title": "Involucrarse en las Actividades Escolares (3 a 9)",
       "_translations": {
@@ -1301,7 +1298,7 @@
       ],
       "number": 52,
       "image_asset": "images/homescreen/safety_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_52",
       "title": "Hacer Divertido el Aprendizaje",
       "_translations": {
@@ -1326,7 +1323,7 @@
       ],
       "number": 53,
       "image_asset": "images/homescreen/learn_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_53",
       "title": "Apoyar el Aprendizaje de Mi Niña o Niño",
       "_translations": {
@@ -1351,7 +1348,7 @@
       ],
       "number": 54,
       "image_asset": "images/homescreen/learn_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_54",
       "title": "Crear un Ambiente Positivo para el Aprendizaje de Mi Niña o Niño",
       "_translations": {
@@ -1401,7 +1398,7 @@
       ],
       "number": 58,
       "image_asset": "images/homescreen/relation_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_56",
       "title": "Hacer Divertido el Aprendizaje",
       "_translations": {
@@ -1426,7 +1423,7 @@
       ],
       "number": 59,
       "image_asset": "images/homescreen/relation_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_57",
       "title": "Apoyar el Aprendizaje de Mi Adolescente",
       "_translations": {
@@ -1451,7 +1448,7 @@
       ],
       "number": 60,
       "image_asset": "images/homescreen/understand_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_58",
       "title": "Crear un Ambiente Positivo y de Aprendizaje para Mi Adolescente",
       "_translations": {
@@ -1476,7 +1473,7 @@
       ],
       "number": 61,
       "image_asset": "images/homescreen/understand_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_59",
       "title": "Aprender de la Experiencia",
       "_translations": {
@@ -1501,7 +1498,7 @@
       ],
       "number": 62,
       "image_asset": "images/homescreen/behave_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_60",
       "title": "Aprender a Trabajar en Equipo",
       "_translations": {
@@ -1551,7 +1548,7 @@
       ],
       "number": 66,
       "image_asset": "images/homescreen/safety_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_62",
       "title": "Estrategias para Aprender de la Experiencia",
       "_translations": {
@@ -1576,7 +1573,7 @@
       ],
       "number": 67,
       "image_asset": "images/homescreen/safety_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_63",
       "title": "Conocer los Cambios de Mi Niña o Niño (2 a 3)",
       "_translations": {
@@ -1601,7 +1598,7 @@
       ],
       "number": 68,
       "image_asset": "images/homescreen/learn_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_64",
       "title": "Conocer los Cambios de Mi Niña o Niño (4 a 6)",
       "_translations": {
@@ -1626,7 +1623,7 @@
       ],
       "number": 69,
       "image_asset": "images/homescreen/learn_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_65",
       "title": "Conocer los Cambios de Mi Niña o Niño (7 a 9)",
       "_translations": {
@@ -1651,7 +1648,7 @@
       ],
       "number": 56,
       "image_asset": "images/homescreen/ipv.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_66",
       "title": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 1",
       "_translations": {
@@ -1701,7 +1698,7 @@
       ],
       "number": 63,
       "image_asset": "images/homescreen/relation_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_68",
       "title": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 1",
       "_translations": {
@@ -1726,7 +1723,7 @@
       ],
       "number": 64,
       "image_asset": "images/homescreen/understand_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_69",
       "title": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 2",
       "_translations": {
@@ -1751,7 +1748,7 @@
       ],
       "number": 70,
       "image_asset": "images/homescreen/understand_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_70",
       "title": "Fomentar la Confianza de Mi Adolescente",
       "_translations": {
@@ -1776,7 +1773,7 @@
       ],
       "number": 71,
       "image_asset": "images/homescreen/behave_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_71",
       "title": "Cultivar la Motivación de Construir un Futuro en mi Adolescente",
       "_translations": {
@@ -1801,7 +1798,7 @@
       ],
       "number": 72,
       "image_asset": "images/homescreen/behave_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_72",
       "title": "Ayudar a Mi Adolescente a Enfrentar el Estrés",
       "_translations": {
@@ -1851,7 +1848,7 @@
       ],
       "number": 74,
       "image_asset": "images/homescreen/safety_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_74",
       "title": "Ansiedad: Qué Es y Cómo Actuar",
       "_translations": {
@@ -1876,7 +1873,7 @@
       ],
       "number": 75,
       "image_asset": "images/homescreen/learn_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_75",
       "title": "Conocer las Señales de Alarma para Detectar Situaciones de Riesgo",
       "_translations": {

@@ -1,0 +1,53 @@
+{
+  "flow_type": "global",
+  "flow_subtype": "onboarding",
+  "flow_name": "onboarding_page_5_child_info",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_message_one_child",
+      "value": "**Thanks @fields.user_name.**\n\nCan you tell me more about your child?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_message_multiple_children",
+      "value": "**Thanks @fields.user_name.**\n\nTo get started, let's focus on the child you have the most challenges with so I can give you the right guidance for their age."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_child_name",
+      "value": "¿Cómo se llama tu niña, niño o adolescente?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_child_name",
+      "value": "Enter name"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_child_gender",
+      "value": "¿Es niño o niña?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_child_gender",
+      "value": "Select gender"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_child_age",
+      "value": "¿Cuántos años tiene tu niña, niño o adolescente?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_child_age",
+      "value": "Enter age"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "child_age_input_restriction",
+      "value": "@global.app_name only supports parents of children between 2 and 17."
+    }
+  ]
+}

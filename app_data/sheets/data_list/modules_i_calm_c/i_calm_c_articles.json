@@ -192,8 +192,7 @@
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "media_type": "video",
-      "youtube_gb_en": "youtube link",
+      "youtube_gb_en_f": "youtube link",
       "nested": false,
       "text_1_facilitator": "Da clic en reproducir ▶️ para aprender las4️⃣ estrategias para saber cómo mantener la calma cuando tu niña o niño se porte mal. ☀️\n\n1️⃣ MANTENER LA CALMA\n2️⃣ ACTÚA RÁPIDO\n3️⃣ SER CLARO\n4️⃣ SER POSITIVO",
       "_translations": {
@@ -209,7 +208,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con {tu niño}. Comparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos. ➡️",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con @fields.child_name. Comparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos. ➡️",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -220,7 +219,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con {tu niño}. Comparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos. ➡️"
+          "eng": "**_Actividad para casa_**⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con @fields.child_name. Comparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos. ➡️"
         },
         "quiz_1_question": {
           "eng": "¿Puedes compartir estas estrategias hoy?"

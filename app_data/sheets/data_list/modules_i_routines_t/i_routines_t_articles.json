@@ -10,13 +10,13 @@
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Para seguir construyendo una relación positiva con {tu adolescente}, debemos incorporar el tiempo juntos y conectados en nuestro día a día. \n\nCrear rutinas diarias con {tu adolescente} también le ayudará a tener más seguridad y a cooperar contigo. 🔑 \n\nAyúdale a organizar sus tiempos para que pueda descansar, comer, ayudar en la casa, cumplir con la escuela y dormir. ⏰",
+      "text_1_facilitator": "Para seguir construyendo una relación positiva con @fields.child_name, debemos incorporar el tiempo juntos y conectados en nuestro día a día. \n\nCrear rutinas diarias con @fields.child_name también le ayudará a tener más seguridad y a cooperar contigo. 🔑 \n\nAyúdale a organizar sus tiempos para que pueda descansar, comer, ayudar en la casa, cumplir con la escuela y dormir. ⏰",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Para seguir construyendo una relación positiva con {tu adolescente}, debemos incorporar el tiempo juntos y conectados en nuestro día a día. \n\nCrear rutinas diarias con {tu adolescente} también le ayudará a tener más seguridad y a cooperar contigo. 🔑 \n\nAyúdale a organizar sus tiempos para que pueda descansar, comer, ayudar en la casa, cumplir con la escuela y dormir. ⏰"
+          "eng": "Para seguir construyendo una relación positiva con @fields.child_name, debemos incorporar el tiempo juntos y conectados en nuestro día a día. \n\nCrear rutinas diarias con @fields.child_name también le ayudará a tener más seguridad y a cooperar contigo. 🔑 \n\nAyúdale a organizar sus tiempos para que pueda descansar, comer, ayudar en la casa, cumplir con la escuela y dormir. ⏰"
         }
       }
     },
@@ -145,27 +145,27 @@
       "id": "practical_tips_1",
       "category_id": "practical_tips",
       "media_type": "video",
-      "youtube_gb_en": "youtube link",
+      "youtube_gb_en_f": "youtube link",
       "nested": false,
-      "text_1_facilitator": "Aquí tienes un video que te ayudará a crear rutinas diarias con {tu adolescente} por medio de 3️⃣ estrategias:\n1️⃣ SER UN EQUIPO\n2️⃣ SER CONSTANTES\n3️⃣ ELOGIAR, ELOGIAR, ELOGIAR",
+      "text_1_facilitator": "Aquí tienes un video que te ayudará a crear rutinas diarias con @fields.child_name por medio de 3️⃣ estrategias:\n1️⃣ SER UN EQUIPO\n2️⃣ SER CONSTANTES\n3️⃣ ELOGIAR, ELOGIAR, ELOGIAR",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Aquí tienes un video que te ayudará a crear rutinas diarias con {tu adolescente} por medio de 3️⃣ estrategias:\n1️⃣ SER UN EQUIPO\n2️⃣ SER CONSTANTES\n3️⃣ ELOGIAR, ELOGIAR, ELOGIAR"
+          "eng": "Aquí tienes un video que te ayudará a crear rutinas diarias con @fields.child_name por medio de 3️⃣ estrategias:\n1️⃣ SER UN EQUIPO\n2️⃣ SER CONSTANTES\n3️⃣ ELOGIAR, ELOGIAR, ELOGIAR"
         }
       }
     },
     {
       "id": "practical_tips_2",
       "category_id": "practical_tips",
-      "section_1_icon_asset": "https://drive.google.com/file/d/1hfWPX9i6ZpYVChhK8_6AafGeqSNCgYOg/view?usp=drive_link",
+      "section_1_icon_asset": "images/icons/speech_bubble_blue.png",
       "section_2_icon_asset": "https://drive.google.com/file/d/19m7O3_jqHUfyLx4PRG1NnnwzXiYlAhwS/view?usp=drive_link",
       "section_3_icon_asset": "https://drive.google.com/file/d/1b7ywkfyRt8DgqJrocfNefIOeE8oOW6bB/view?usp=drive_link",
       "section_4_icon_asset": "https://drive.google.com/file/d/1H0X72PVEhhmWbrzS5AMDtRQq37xnGWY_/view?usp=drive_link",
       "nested": false,
-      "text_1_facilitator": "Aquí tienes algunas estrategias que te ayudarán a crear rutinas con {tu adolescente}.",
+      "text_1_facilitator": "Aquí tienes algunas estrategias que te ayudarán a crear rutinas con @fields.child_name.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {},
@@ -180,7 +180,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Aquí tienes algunas estrategias que te ayudarán a crear rutinas con {tu adolescente}."
+          "eng": "Aquí tienes algunas estrategias que te ayudarán a crear rutinas con @fields.child_name."
         },
         "text_2": {
           "eng": "Estas estrategias pueden utilizarse para crear rutinas en torno a:\n✅ Hora de acostarse \n✅ Tareas escolares \n✅ Tareas del hogar \n✅ Hora de la comida \n✅ Tiempo libre \n✅ Tiempo de tele o uso de electrónicos (computadora, Tablet, celular)"
@@ -189,19 +189,19 @@
           "eng": "SER UN EQUIPO"
         },
         "section_1_text": {
-          "eng": "☕ Conversa con {tu adolescente} sobre cómo le gustaría que sean sus rutinas.\n✨ ¿Sabías que es más probable que {tu adolescente} siga las rutinas cuando ayuda a crearlas? ¡Inténtalo! 💚"
+          "eng": "☕ Conversa con @fields.child_name sobre cómo le gustaría que sean sus rutinas.\n✨ ¿Sabías que es más probable que @fields.child_name siga las rutinas cuando ayuda a crearlas? ¡Inténtalo! 💚"
         },
         "section_2_title": {
           "eng": "SER CONSTANTES"
         },
         "section_2_text": {
-          "eng": "👀 Asegúrate de que {tu adolescente} sigue sus rutinas todos los días.\n💙 Esto ayuda a que tu adolescente sienta seguridad porque sabe qué esperar.\n🌱Es más fácil llevar a cabo cualquier actividad cuando las y los adolescentes se aprenden una rutina y se acostumbran a ella. Esto ayudará a que aprendan a realizar sus actividades cotidianas y a organizar su tiempo."
+          "eng": "👀 Asegúrate de que @fields.child_name sigue sus rutinas todos los días.\n💙 Esto ayuda a que tu adolescente sienta seguridad porque sabe qué esperar.\n🌱Es más fácil llevar a cabo cualquier actividad cuando las y los adolescentes se aprenden una rutina y se acostumbran a ella. Esto ayudará a que aprendan a realizar sus actividades cotidianas y a organizar su tiempo."
         },
         "section_3_title": {
           "eng": "ELOGIAR, ELOGIAR, ELOGIAR"
         },
         "section_3_text": {
-          "eng": "🎈 Elogia a {tu adolescente} por haber establecido una rutina contigo.\n🌈 Elogia a {tu adolescente} cuando siga esa rutina."
+          "eng": "🎈 Elogia a @fields.child_name por haber establecido una rutina contigo.\n🌈 Elogia a @fields.child_name cuando siga esa rutina."
         },
         "section_4_title": {
           "eng": "MANTENERLO POSITIVO"
@@ -212,11 +212,11 @@
       },
       "text_2": "Estas estrategias pueden utilizarse para crear rutinas en torno a:\n✅ Hora de acostarse \n✅ Tareas escolares \n✅ Tareas del hogar \n✅ Hora de la comida \n✅ Tiempo libre \n✅ Tiempo de tele o uso de electrónicos (computadora, Tablet, celular)",
       "section_1_title": "SER UN EQUIPO",
-      "section_1_text": "☕ Conversa con {tu adolescente} sobre cómo le gustaría que sean sus rutinas.\n✨ ¿Sabías que es más probable que {tu adolescente} siga las rutinas cuando ayuda a crearlas? ¡Inténtalo! 💚",
+      "section_1_text": "☕ Conversa con @fields.child_name sobre cómo le gustaría que sean sus rutinas.\n✨ ¿Sabías que es más probable que @fields.child_name siga las rutinas cuando ayuda a crearlas? ¡Inténtalo! 💚",
       "section_2_title": "SER CONSTANTES",
-      "section_2_text": "👀 Asegúrate de que {tu adolescente} sigue sus rutinas todos los días.\n💙 Esto ayuda a que tu adolescente sienta seguridad porque sabe qué esperar.\n🌱Es más fácil llevar a cabo cualquier actividad cuando las y los adolescentes se aprenden una rutina y se acostumbran a ella. Esto ayudará a que aprendan a realizar sus actividades cotidianas y a organizar su tiempo.",
+      "section_2_text": "👀 Asegúrate de que @fields.child_name sigue sus rutinas todos los días.\n💙 Esto ayuda a que tu adolescente sienta seguridad porque sabe qué esperar.\n🌱Es más fácil llevar a cabo cualquier actividad cuando las y los adolescentes se aprenden una rutina y se acostumbran a ella. Esto ayudará a que aprendan a realizar sus actividades cotidianas y a organizar su tiempo.",
       "section_3_title": "ELOGIAR, ELOGIAR, ELOGIAR",
-      "section_3_text": "🎈 Elogia a {tu adolescente} por haber establecido una rutina contigo.\n🌈 Elogia a {tu adolescente} cuando siga esa rutina.",
+      "section_3_text": "🎈 Elogia a @fields.child_name por haber establecido una rutina contigo.\n🌈 Elogia a @fields.child_name cuando siga esa rutina.",
       "section_4_title": "MANTENERLO POSITIVO",
       "section_4_text": "💡 Enfoca tu atención en lo que tu adolescente esté haciendo adecuadamente. \n\n🙂 Acompaña tu elogio con una gran sonrisa, palabras amables o un abrazo. Esto le demuestra a tu adolescente tu amor y aprecio por lo que hace. \n\n☀️ Presta atención a lo que tu niña, niño o adolescente hace bien, le hará saber que te fijas en lo que hace y que te importa."
     },
@@ -224,7 +224,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "**_Actividad para casa_**\n\nHaz que el tiempo juntos y conectados con {tu adolescente} se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝",
+      "text_1_facilitator": "**_Actividad para casa_**\n\nHaz que el tiempo juntos y conectados con @fields.child_name se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -235,7 +235,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**\n\nHaz que el tiempo juntos y conectados con {tu adolescente} se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝"
+          "eng": "**_Actividad para casa_**\n\nHaz que el tiempo juntos y conectados con @fields.child_name se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝"
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy?"
@@ -244,7 +244,7 @@
           "eng": "Sí"
         },
         "quiz_1_feedback_1": {
-          "eng": "¡Muy bien! 🎉 Esto ayudará a mostrar interés en lo que hace {tu adolescente} y mejorará la relación entre ustedes."
+          "eng": "¡Muy bien! 🎉 Esto ayudará a mostrar interés en lo que hace @fields.child_name y mejorará la relación entre ustedes."
         },
         "quiz_1_option_2_text": {
           "eng": "No"
@@ -255,7 +255,7 @@
       },
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_feedback_1": "¡Muy bien! 🎉 Esto ayudará a mostrar interés en lo que hace {tu adolescente} y mejorará la relación entre ustedes.",
+      "quiz_1_feedback_1": "¡Muy bien! 🎉 Esto ayudará a mostrar interés en lo que hace @fields.child_name y mejorará la relación entre ustedes.",
       "quiz_1_option_2_text": "No",
       "quiz_1_feedback_2": "¡De acuerdo! Empezar algo nuevo lleva su tiempo. Si no puedes hacerlo todos los días, tal vez puedas empezar con un día sí y un día no. Otra idea es que en vez de 15 minutos al día, pruebes con 5. También puedes pedirle ideas a tu adolescente sobre las rutinas con las que podrían empezar y seleccionen una. ¡Puede que te sorprenda!"
     }

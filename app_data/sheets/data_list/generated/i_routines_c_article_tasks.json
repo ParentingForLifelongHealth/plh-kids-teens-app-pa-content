@@ -4,15 +4,15 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_1",
+      "id": "relax_9",
       "in_library": "yes",
-      "title_eng": "Quick pause",
-      "title": "Pausa rápida",
+      "title_eng": "Body scan",
+      "title": "Escaneo corporal",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset_m": "audio/relax/relax_1.m4a",
+      "media_asset_m": "audio/relax/relax_9.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript_1_eng": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!",
+      "transcript_1_spanish": "Aquí tienes una actividad para relajar tu cuerpo:\n\nSiéntate cómodamente y cierra los ojos si puedes.\nImagina un aro dorado que escanea tu cuerpo desde los pies hasta la cabeza.\nPon atención mientras sube y baja por tu cuerpo. ¿Hay áreas que se sienten tensas? ¿Adormecidas? ¿Con dolor?\nConcéntrate en esas áreas por un momento. Respira hacia esa zona y, al exhalar, intenta soltar cualquier tensión o malestar.\nHazlo por algunas respiraciones.\n\nAbre los ojos. ¿Cómo se siente tu cuerpo ahora?\n\n¡También puedes probar esto la próxima vez que estés en la cama y no puedas dormir!",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -76,18 +76,18 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Esta lección trata sobre crear rutinas para pasar tiempo juntos y conectados con {tu niño}. 🔄"
+          "eng": "Esta lección trata sobre crear rutinas para pasar tiempo juntos y conectados con @fields.child_name. 🔄"
         },
         "text_2": {
-          "eng": "Para seguir construyendo una relación positiva con {tu niño}, debemos incorporar el tiempo juntos y conectados en nuestro día a día.  \n\nCrear rutinas diarias con {tu niño} también le ayudará a tener más seguridad y a cooperar contigo. 🔑\n\nAyúdale a organizar sus tiempos para que pueda descansar, comer, ayudar en la casa, cumplir con la escuela y dormir. ⏰"
+          "eng": "Para seguir construyendo una relación positiva con @fields.child_name, debemos incorporar el tiempo juntos y conectados en nuestro día a día.  \n\nCrear rutinas diarias con @fields.child_name también le ayudará a tener más seguridad y a cooperar contigo. 🔑\n\nAyúdale a organizar sus tiempos para que pueda descansar, comer, ayudar en la casa, cumplir con la escuela y dormir. ⏰"
         }
       },
-      "text_1_facilitator": "Esta lección trata sobre crear rutinas para pasar tiempo juntos y conectados con {tu niño}. 🔄",
+      "text_1_facilitator": "Esta lección trata sobre crear rutinas para pasar tiempo juntos y conectados con @fields.child_name. 🔄",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {}
       },
-      "text_2": "Para seguir construyendo una relación positiva con {tu niño}, debemos incorporar el tiempo juntos y conectados en nuestro día a día.  \n\nCrear rutinas diarias con {tu niño} también le ayudará a tener más seguridad y a cooperar contigo. 🔑\n\nAyúdale a organizar sus tiempos para que pueda descansar, comer, ayudar en la casa, cumplir con la escuela y dormir. ⏰",
+      "text_2": "Para seguir construyendo una relación positiva con @fields.child_name, debemos incorporar el tiempo juntos y conectados en nuestro día a día.  \n\nCrear rutinas diarias con @fields.child_name también le ayudará a tener más seguridad y a cooperar contigo. 🔑\n\nAyúdale a organizar sus tiempos para que pueda descansar, comer, ayudar en la casa, cumplir con la escuela y dormir. ⏰",
       "completed": false
     },
     {
@@ -211,19 +211,18 @@
     },
     {
       "id": "practical_tips_1",
-      "media_type": "video",
       "category_id": "practical_tips",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da clic en Reproducir ▶️ para aprender las 3️⃣ estrategias para crear una rutina diaria de tiempo juntos y conectados con {tu niño}\n\n1️⃣ SER UN EQUIPO\n2️⃣ SER CONSTANTES\n3️⃣ ELOGIAR, ELOGIAR, ELOGIAR"
+          "eng": "Da clic en Reproducir ▶️ para aprender las 3️⃣ estrategias para crear una rutina diaria de tiempo juntos y conectados con @fields.child_name\n\n1️⃣ SER UN EQUIPO\n2️⃣ SER CONSTANTES\n3️⃣ ELOGIAR, ELOGIAR, ELOGIAR"
         }
       },
-      "text_1_facilitator": "Da clic en Reproducir ▶️ para aprender las 3️⃣ estrategias para crear una rutina diaria de tiempo juntos y conectados con {tu niño}\n\n1️⃣ SER UN EQUIPO\n2️⃣ SER CONSTANTES\n3️⃣ ELOGIAR, ELOGIAR, ELOGIAR",
+      "text_1_facilitator": "Da clic en Reproducir ▶️ para aprender las 3️⃣ estrategias para crear una rutina diaria de tiempo juntos y conectados con @fields.child_name\n\n1️⃣ SER UN EQUIPO\n2️⃣ SER CONSTANTES\n3️⃣ ELOGIAR, ELOGIAR, ELOGIAR",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en": "youtube link",
+      "youtube_gb_en_f": "youtube link",
       "completed": false
     },
     {
@@ -232,7 +231,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**⭐ \n\nHaz que el tiempo juntos y conectados con {tu niño} se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝"
+          "eng": "**_Actividad para casa_**⭐ \n\nHaz que el tiempo juntos y conectados con @fields.child_name se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝"
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy?"
@@ -241,16 +240,16 @@
           "eng": "Sí"
         },
         "quiz_1_feedback_1": {
-          "eng": "¡Muy bien! 🎉 Esto ayudará a mostrar interés en lo que hace {tu niño} y mejorará la relación entre ustedes."
+          "eng": "¡Muy bien! 🎉 Esto ayudará a mostrar interés en lo que hace @fields.child_name y mejorará la relación entre ustedes."
         },
         "quiz_1_option_2_text": {
           "eng": "No"
         },
         "quiz_1_feedback_2": {
-          "eng": "¡De acuerdo! Empezar algo nuevo lleva su tiempo. Tal vez puedes empezar con algo sencillo, como pasar un momento especial en alguna actividad que tú y {tu niño} ya hagan en el día. ⚽\n\nPor ejemplo, salir a cenar o a pasear. Pídele ideas a {tu niño} sobre las rutinas con las que podrían empezar y seleccionen una. ¡Puede que te sorprenda! ⏰🍚🚲"
+          "eng": "¡De acuerdo! Empezar algo nuevo lleva su tiempo. Tal vez puedes empezar con algo sencillo, como pasar un momento especial en alguna actividad que tú y @fields.child_name ya hagan en el día. ⚽\n\nPor ejemplo, salir a cenar o a pasear. Pídele ideas a @fields.child_name sobre las rutinas con las que podrían empezar y seleccionen una. ¡Puede que te sorprenda! ⏰🍚🚲"
         }
       },
-      "quiz_1_feedback_1": "¡Muy bien! 🎉 Esto ayudará a mostrar interés en lo que hace {tu niño} y mejorará la relación entre ustedes.",
+      "quiz_1_feedback_1": "¡Muy bien! 🎉 Esto ayudará a mostrar interés en lo que hace @fields.child_name y mejorará la relación entre ustedes.",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
@@ -259,11 +258,11 @@
         "quiz_1_option_2_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "¡De acuerdo! Empezar algo nuevo lleva su tiempo. Tal vez puedes empezar con algo sencillo, como pasar un momento especial en alguna actividad que tú y {tu niño} ya hagan en el día. ⚽\n\nPor ejemplo, salir a cenar o a pasear. Pídele ideas a {tu niño} sobre las rutinas con las que podrían empezar y seleccionen una. ¡Puede que te sorprenda! ⏰🍚🚲",
+      "quiz_1_feedback_2": "¡De acuerdo! Empezar algo nuevo lleva su tiempo. Tal vez puedes empezar con algo sencillo, como pasar un momento especial en alguna actividad que tú y @fields.child_name ya hagan en el día. ⚽\n\nPor ejemplo, salir a cenar o a pasear. Pídele ideas a @fields.child_name sobre las rutinas con las que podrían empezar y seleccionen una. ¡Puede que te sorprenda! ⏰🍚🚲",
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nHaz que el tiempo juntos y conectados con {tu niño} se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nHaz que el tiempo juntos y conectados con @fields.child_name se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝",
       "completed": false
     }
   ],

@@ -6,7 +6,7 @@
   "rows": [
     {
       "id": "slide_1",
-      "image_asset": "images/onboarding/frustrated.svg",
+      "image_asset": "images/onboarding/welcome_screen_1.svg",
       "duration_sec": 4,
       "text": "Raising children isn't easy",
       "_translations": {
@@ -20,7 +20,7 @@
     },
     {
       "id": "slide_2",
-      "image_asset": "images/onboarding/loving_parent.svg",
+      "image_asset": "images/onboarding/welcome_screen_2.svg",
       "duration_sec": 4,
       "text": "You are the best parent your child could have",
       "_translations": {
@@ -34,7 +34,7 @@
     },
     {
       "id": "slide_3",
-      "image_asset": "images/onboarding/join_parents.svg",
+      "image_asset": "images/onboarding/welcome_screen_3.svg",
       "duration_sec": 4,
       "text": "Join over 200 million parents who have used our resources",
       "_translations": {

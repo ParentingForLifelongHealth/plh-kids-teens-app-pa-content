@@ -14,9 +14,9 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1_facilitator::eng": "✨Buen trabajo por el esfuerzo que hiciste para aprender a mejorar la relación con {tu niño}. ¡Eso demuestra que realmente te importa! 💙\n;\n😃¿Cómo te hizo sentir el mensaje anterior?\n\n🌷 Todas y todos nos sentimos mejor cuando reconocen nuestros esfuerzos.",
-      "text_2::eng": "🏅Elogiar el buen comportamiento de {tu niño} hará que quiera comportarse así más seguido.\n\n⭐ También creará una relación positiva y cercana entre tú y {tu niño}.\n\nEmpieza por elogiar los logros y esfuerzos de {tu niño} cuando estén en su tiempo juntos y conectados.",
-      "quiz_1_question::eng": "¡Hagamos un ejercicio! La forma en que elogies a {tu niño} no importa porque cualquier manera de hacerlo es efectiva.",
+      "text_1_facilitator::eng": "✨Buen trabajo por el esfuerzo que hiciste para aprender a mejorar la relación con @fields.child_name. ¡Eso demuestra que realmente te importa! 💙\n;\n😃¿Cómo te hizo sentir el mensaje anterior?\n\n🌷 Todas y todos nos sentimos mejor cuando reconocen nuestros esfuerzos.",
+      "text_2::eng": "🏅Elogiar el buen comportamiento de @fields.child_name hará que quiera comportarse así más seguido.\n\n⭐ También creará una relación positiva y cercana entre tú y @fields.child_name.\n\nEmpieza por elogiar los logros y esfuerzos de @fields.child_name cuando estén en su tiempo juntos y conectados.",
+      "quiz_1_question::eng": "¡Hagamos un ejercicio! La forma en que elogies a @fields.child_name no importa porque cualquier manera de hacerlo es efectiva.",
       "quiz_1_option_1_text::eng": "Verdadero",
       "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n✨ La forma en que elogies es importante. El reconocimiento funciona si es inmediato y específico.  \n\n🌱 Puedes empezar reconociendo y elogiando cosas pequeñas, como que recoja sus juguetes luego de terminar de jugar. ",
       "quiz_1_option_2_text::eng": "Falso",
@@ -56,17 +56,16 @@
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "text_1_facilitator::eng": "⭐ Las niñas y los niños que reciben reconocimiento por sus esfuerzos, logros y comportamientos positivos querrán seguir portándose de esa forma y sabrán que son capaces de hacer muchas cosas.\n\nDa clic en reproducir ▶️ para aprender las 4️⃣ estrategias para dar reconocimiento a lo que hace {tu niño}.\n\n1️⃣ OBSERVAR\n2️⃣ COMUNICAR\n3️⃣ REPETIR\n4️⃣ MANTENERLO POSITIVO",
-      "media_type": "video",
-      "youtube_gb_en": "youtube link"
+      "text_1_facilitator::eng": "⭐ Las niñas y los niños que reciben reconocimiento por sus esfuerzos, logros y comportamientos positivos querrán seguir portándose de esa forma y sabrán que son capaces de hacer muchas cosas.\n\nDa clic en reproducir ▶️ para aprender las 4️⃣ estrategias para dar reconocimiento a lo que hace @fields.child_name.\n\n1️⃣ OBSERVAR\n2️⃣ COMUNICAR\n3️⃣ REPETIR\n4️⃣ MANTENERLO POSITIVO",
+      "youtube_gb_en_f": "youtube link"
     },
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "**_Actividad para casa_**⭐ \n\nPara hoy, tu actividad para casa es elogiar a {tu niño} durante su tiempo juntos y conectados. Intenta reconocer y elogiar a {tu niño} durante esos minutos.",
+      "text_1_facilitator::eng": "**_Actividad para casa_**⭐ \n\nPara hoy, tu actividad para casa es elogiar a @fields.child_name durante su tiempo juntos y conectados. Intenta reconocer y elogiar a @fields.child_name durante esos minutos.",
       "quiz_1_question::eng": "¿Tienes tiempo de hacerlo hoy?",
       "quiz_1_option_1_text::eng": "Sí",
-      "quiz_1_feedback_1::eng": "¡Increíble! 🎉 Intenta elogiar a {tu niño} al menos una vez durante su tiempo juntos y conectados. También puedes elogiar a {tu niño} en otros momentos del día. Fíjate cómo responde a lo que le dices.",
+      "quiz_1_feedback_1::eng": "¡Increíble! 🎉 Intenta elogiar a @fields.child_name al menos una vez durante su tiempo juntos y conectados. También puedes elogiar a @fields.child_name en otros momentos del día. Fíjate cómo responde a lo que le dices.",
       "quiz_1_option_2_text::eng": "No",
       "quiz_1_feedback_2::eng": "💚 ¡De acuerdo! A veces las cosas toman tiempo. Puedes volver a revisar esta lección en el menú principal en cualquier momento. Al final del día, piensa en todas las cosas positivas que pasaron así será más sencillo poderlas identificar. ☀️ \nPoco a poco, elogiar se irá haciendo más fácil."
     }

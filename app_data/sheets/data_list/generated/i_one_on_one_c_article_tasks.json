@@ -76,10 +76,10 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "La lección de hoy trata sobre cómo pasar tiempo juntos y conectados con {tu niño}😃"
+          "eng": "La lección de hoy trata sobre cómo pasar tiempo juntos y conectados con @fields.child_name😃"
         },
         "text_2": {
-          "eng": "¡Pasar tiempo juntos y conectados con {tu niño} es una forma increíble de construir una buena relación! Esto mostrará que te interesas por lo que hace. 💙\n\nTambién fomentará la confianza y el respeto, y ayudará a {tu niño} a aprender cosas nuevas. ✨"
+          "eng": "¡Pasar tiempo juntos y conectados con @fields.child_name es una forma increíble de construir una buena relación! Esto mostrará que te interesas por lo que hace. 💙\n\nTambién fomentará la confianza y el respeto, y ayudará a @fields.child_name a aprender cosas nuevas. ✨"
         },
         "quiz_1_question": {
           "eng": "Cuando paso tiempo juntos y conectados con mi niña o niño, necesito tener un plan y saber qué haremos juntos."
@@ -112,8 +112,8 @@
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Faltso",
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "text_1_facilitator": "La lección de hoy trata sobre cómo pasar tiempo juntos y conectados con {tu niño}😃",
-      "text_2": "¡Pasar tiempo juntos y conectados con {tu niño} es una forma increíble de construir una buena relación! Esto mostrará que te interesas por lo que hace. 💙\n\nTambién fomentará la confianza y el respeto, y ayudará a {tu niño} a aprender cosas nuevas. ✨",
+      "text_1_facilitator": "La lección de hoy trata sobre cómo pasar tiempo juntos y conectados con @fields.child_name😃",
+      "text_2": "¡Pasar tiempo juntos y conectados con @fields.child_name es una forma increíble de construir una buena relación! Esto mostrará que te interesas por lo que hace. 💙\n\nTambién fomentará la confianza y el respeto, y ayudará a @fields.child_name a aprender cosas nuevas. ✨",
       "completed": false
     },
     {
@@ -213,20 +213,20 @@
     },
     {
       "id": "practical_tips_1",
-      "media_type": "video",
+      "media_type": "youtube",
       "category_id": "practical_tips",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da clic en reproducir ▶️ para aprender las 3️⃣ estrategias de crianza para pasar \"Tiempo juntos y conectados\" con {tu niño}\n\n1️⃣ PRACTICAR – Intenta hacerlo todos los días\n2️⃣ JUGAR – Deja que escoja la actividad\n3️⃣ PERMANECER – Enfócate en tu niña o niño"
+          "eng": "Da clic en reproducir ▶️ para aprender las 3️⃣ estrategias de crianza para pasar \"Tiempo juntos y conectados\" con @fields.child_name\n\n1️⃣ PRACTICAR – Intenta hacerlo todos los días\n2️⃣ JUGAR – Deja que escoja la actividad\n3️⃣ PERMANECER – Enfócate en tu niña o niño"
         }
       },
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender las 3️⃣ estrategias de crianza para pasar \"Tiempo juntos y conectados\" con {tu niño}\n\n1️⃣ PRACTICAR – Intenta hacerlo todos los días\n2️⃣ JUGAR – Deja que escoja la actividad\n3️⃣ PERMANECER – Enfócate en tu niña o niño",
+      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender las 3️⃣ estrategias de crianza para pasar \"Tiempo juntos y conectados\" con @fields.child_name\n\n1️⃣ PRACTICAR – Intenta hacerlo todos los días\n2️⃣ JUGAR – Deja que escoja la actividad\n3️⃣ PERMANECER – Enfócate en tu niña o niño",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en": "youtube link",
+      "youtube_gb_en_f": "youtube link",
       "completed": false
     },
     {

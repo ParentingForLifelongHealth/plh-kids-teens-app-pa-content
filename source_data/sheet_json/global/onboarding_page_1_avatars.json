@@ -1,0 +1,28 @@
+{
+  "flow_type": "global",
+  "flow_subtype": "onboarding",
+  "flow_name": "onboarding_page_1_avatars",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_selection_intro",
+      "value": "Welcome to @global.app_name! We’re so happy you’re here! Let’s find the right guide to support you in your parenting journey."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_female_intro",
+      "value": "Ángela tiene 37 años y es mamá de tres. Es psicóloga y una mujer cálida y abierta. Desde su propia experiencia, acompaña a otras familias con empatía, compartiendo ideas y herramientas sencillas para criar con amor, respeto y mucha escucha."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_male_intro",
+      "value": "Ángel tiene 35 años y es papá de dos. Es psicólogo y ha aprendido a criar con firmeza y afecto, recibiendo apoyo de su esposa y su familia. Acompaña a otras familias con cercanía, compartiendo lo que la vida y la práctica le han enseñado."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_selection_question",
+      "value": "¿Quién te gustaría que fuera tu guía?"
+    }
+  ]
+}
