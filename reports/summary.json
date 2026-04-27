@@ -291,13 +291,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "58658 KB",
-        "MB": "58.7 MB"
+        "KB": "65984 KB",
+        "MB": "66 MB"
       },
       {
         "assets": "unused",
-        "KB": "15922 KB",
-        "MB": "15.9 MB"
+        "KB": "8595 KB",
+        "MB": "8.6 MB"
       }
     ]
   },
@@ -318,6 +318,10 @@
       {
         "path": "android/splash.png",
         "size_kb": 239
+      },
+      {
+        "path": "audio/relax/relax_9.m4a",
+        "size_kb": 530.4
       },
       {
         "path": "images/activities/narrador_c.svg",
@@ -832,10 +836,6 @@
         "size_kb": 21.6
       },
       {
-        "path": "images/facilitators/Angela_female.jpg",
-        "size_kb": 7857.1
-      },
-      {
         "path": "images/flags/gb.svg",
         "size_kb": 0.5
       },
@@ -1119,11 +1119,6 @@
         "missing": true
       },
       {
-        "path": "images/facilitators/Angela_female.jpeg",
-        "count": 2,
-        "missing": true
-      },
-      {
         "path": "images/homescreen/behave_c.svg",
         "count": 14,
         "missing": true
@@ -1351,11 +1346,6 @@
         "path": "audio/relax/relax_8.m4a",
         "count": 1,
         "size_kb": 284.2
-      },
-      {
-        "path": "audio/relax/relax_9.m4a",
-        "count": 9,
-        "size_kb": 530.4
       },
       {
         "path": "images/activities/aciegas_c.svg",
@@ -2639,8 +2629,13 @@
       },
       {
         "path": "images/facilitators/Angel_male.jpeg",
-        "count": 2,
+        "count": 3,
         "size_kb": 60.5
+      },
+      {
+        "path": "images/facilitators/Angela_female.jpg",
+        "count": 3,
+        "size_kb": 7857.1
       },
       {
         "path": "images/homescreen/courses/behave_c.svg",
