@@ -10,20 +10,20 @@
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Esta lección trata sobre cómo crear un espacio de aprendizaje positivo para  {tu adolescente}.",
+      "text_1_facilitator": "Esta lección trata sobre cómo crear un espacio de aprendizaje positivo para  @fields.child_name.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Esta lección trata sobre cómo crear un espacio de aprendizaje positivo para  {tu adolescente}."
+          "eng": "Esta lección trata sobre cómo crear un espacio de aprendizaje positivo para  @fields.child_name."
         },
         "text_2": {
-          "eng": "{Tu adolescente} aprenderá mucho mejor cuando se encuentre en un espacio que apoye y fomente su aprendizaje. 😃"
+          "eng": "@fields.child_name aprenderá mucho mejor cuando se encuentre en un espacio que apoye y fomente su aprendizaje. 😃"
         }
       },
-      "text_2": "{Tu adolescente} aprenderá mucho mejor cuando se encuentre en un espacio que apoye y fomente su aprendizaje. 😃"
+      "text_2": "@fields.child_name aprenderá mucho mejor cuando se encuentre en un espacio que apoye y fomente su aprendizaje. 😃"
     },
     {
       "id": "explore_1",
@@ -136,7 +136,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "**_¡Actividad para casa!_**⭐  \n\nConversa con tu adolescente para encontrar un lugar de estudio adecuado en tu casa.",
+      "text_1_facilitator": "**¡Actividad para casa!**⭐  \n\nConversa con tu adolescente para encontrar un lugar de estudio adecuado en tu casa.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -147,7 +147,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_¡Actividad para casa!_**⭐  \n\nConversa con tu adolescente para encontrar un lugar de estudio adecuado en tu casa."
+          "eng": "**¡Actividad para casa!**⭐  \n\nConversa con tu adolescente para encontrar un lugar de estudio adecuado en tu casa."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"

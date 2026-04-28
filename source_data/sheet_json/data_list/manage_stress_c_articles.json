@@ -33,7 +33,7 @@
     },
     {
       "id": "explore_1",
-      "category_id": "Explore",
+      "category_id": "explore",
       "text_1_facilitator::eng": "@data.characters.f3_madre.name es la única cuidadora de sus cuatro hijos en varios momentos del día. Tantas cosas que hacer en la casa y el hecho de tener poco dinero hacen que se sienta muy seguido abrumada y sin apoyo. También le resulta difícil estar presente con sus niñas y niños. No ayuda que @data.characters.f3_hija_7.name y @data.characters.f3_hijo_4.name se pelean mucho.",
       "image_asset": "images/comic/understand/manage_stress_yc_1.svg",
       "character_1_id": "f3_hijo_4",
@@ -45,14 +45,14 @@
     },
     {
       "id": "explore_2",
-      "category_id": "Explore",
+      "category_id": "explore",
       "image_asset": "images/comic/understand/manage_stress_yc_2.svg",
       "character_1_id": "f3_madre",
       "character_1_text::eng": "(Respira profundamente y piensa): Voy a tomar una pausa. Estoy haciendo lo mejor que puedo. Gritarles solamente empeorará las cosas."
     },
     {
       "id": "explore_3",
-      "category_id": "Explore",
+      "category_id": "explore",
       "image_asset": "images/comic/understand/manage_stress_yc_3.svg",
       "character_1_id": "f3_madre",
       "character_1_text::eng": "@data.characters.f3_hija_7.name y @data.characters.f3_hijo_4.name, por favor, compartan el teléfono y cada quién espere su turno.",
@@ -65,7 +65,7 @@
     },
     {
       "id": "explore_4",
-      "category_id": "Explore",
+      "category_id": "explore",
       "image_asset": "images/comic/understand/manage_stress_yc_4.svg",
       "character_1_id": "f3_madre",
       "character_1_text::eng": "Bien, ahora que estamos todos un poco más tranquilos, necesitamos establecer algunas reglas sobre el uso de mi teléfono. ¿Qué creen que deberíamos de hacer?",
@@ -74,7 +74,7 @@
     },
     {
       "id": "explore_5",
-      "category_id": "Explore",
+      "category_id": "explore",
       "image_asset": "images/comic/understand/manage_stress_yc_5.svg",
       "character_1_id": "f3_madre",
       "character_1_text::eng": "Suena bien, ¿y tú, @data.characters.f3_hijo_4.name, qué harás cuando tu hermana termine su tarea?",
@@ -85,7 +85,7 @@
     },
     {
       "id": "explore_6",
-      "category_id": "Explore",
+      "category_id": "explore",
       "image_asset": "images/comic/understand/manage_stress_yc_6.svg",
       "character_1_id": "f3_hijo_4",
       "character_1_text::eng": "De acuerdo…",

@@ -1,0 +1,321 @@
+{
+  "flow_name": "family_rules_c_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_3",
+      "in_library": "yes",
+      "title_eng": "One thing today",
+      "title": "Nombra una cosa",
+      "lottie_asset": "lottie/relax/looping_rings.json",
+      "media_asset": "audio/relax/relax_3.m4a",
+      "media_type": "audio",
+      "transcript_1_eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
+      "transcript_1_spanish": "Cierra los ojos y piensa en tu día.\n\nNombra una cosa por la que te sientes agradecido.\nNombra una cosa que hiciste bien.\nNombra una cosa que amas.\n\nMuy bien. Gracias por acompañarnos hoy en ParentApp.",
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_33",
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Toma un momento para conectar contigo.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Toma un momento para conectar contigo."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Maravilloso! Me da mucho gusto saber que las cosas van bien."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Habrá días retadores, y está bien. Vas por buen camino."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Lamento que las cosas estén siendo difíciles ahora. Es completamente normal tener momentos complicados. Recuerda que no estás sola/o."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "quiz_1_feedback_1": "¡Maravilloso! Me da mucho gusto saber que las cosas van bien.",
+      "quiz_1_feedback_2": "Habrá días retadores, y está bien. Vas por buen camino.",
+      "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles ahora. Es completamente normal tener momentos complicados. Recuerda que no estás sola/o.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Esta lección trata sobre Acordar relgas en familia.⏰⭐"
+        },
+        "text_2": {
+          "eng": "Las reglas familiares pueden ayudar a nuestras niñas, niños o adolescentes a mantenerse a salvo del peligro dentro de nuestras casas y en la comunidad. 🌷 \n\nEs más probable que tu niña, niño o adolescente siga estas reglas si se involucra en hacerlas. ⭐"
+        },
+        "quiz_1_question": {
+          "eng": "¡Hagamos un ejercicio!\n\nEjercicio 1. \n\nSólo las personas cuidadoras deben establecer reglas en el hogar porque nuestras niñas, niños o adolescentes son demasiado jóvenes para ayuda a tomar decisiones por sí mismos."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n📝Incluir a las niñas y los niños en la conversación  sobre las reglas en el hogar  les ayuda a sentir que se les aprecia y escucha.\n\n⏰ Es más probable que sigan las reglas si han participado en su elaboración."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 ¡Buen trabajo!\n\n📝Incluir a las niñas y los niños en la conversación  sobre las reglas en el hogar  les ayuda a sentir que se les aprecia y escucha. \n\n⏰ Es más probable que sigan las reglas si han participado en su elaboración."
+        },
+        "quiz_2_question": {
+          "eng": "¡Hagamos un ejercicio más!\n\nEjercicio 2: Poner límites a través de reglas en casa, rutinas diarias y un estilo de vida sano es malo para tu niña, niño o adolescente porque no le permite pensar por su cuenta."
+        },
+        "quiz_2_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n💚 *_Establecer límites razonables con tu niña o niño, es una buena forma de disciplina efectiva._* \n\n🧸 No estás controlando a tu niña o niño demasiado.  \n\n🌷 Le estás dando a tu niña o niño una estructura para mantener una relación sana y llena de amor entre ustedes para poder explorar el mundo con seguridad."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "🎉 ¡Tienes razón!\n\n💚 *_Establecer límites razonables con tu niña o niño, es una buena forma de disciplina efectiva._*\n\n🧸 No estás controlando a tu niña o niño demasiado.  \n\n🌷 Le estás dando a tu niña o niño una estructura para mantener una relación sana y llena de amor entre ustedes para poder explorar el mundo con seguridad."
+        }
+      },
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n📝Incluir a las niñas y los niños en la conversación  sobre las reglas en el hogar  les ayuda a sentir que se les aprecia y escucha.\n\n⏰ Es más probable que sigan las reglas si han participado en su elaboración.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {}
+      },
+      "quiz_1_feedback_2": "🎉 ¡Buen trabajo!\n\n📝Incluir a las niñas y los niños en la conversación  sobre las reglas en el hogar  les ayuda a sentir que se les aprecia y escucha. \n\n⏰ Es más probable que sigan las reglas si han participado en su elaboración.",
+      "quiz_1_question": "¡Hagamos un ejercicio!\n\nEjercicio 1. \n\nSólo las personas cuidadoras deben establecer reglas en el hogar porque nuestras niñas, niños o adolescentes son demasiado jóvenes para ayuda a tomar decisiones por sí mismos.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_option_2_text": "Falso",
+      "text_1_facilitator": "Esta lección trata sobre Acordar relgas en familia.⏰⭐",
+      "text_2": "Las reglas familiares pueden ayudar a nuestras niñas, niños o adolescentes a mantenerse a salvo del peligro dentro de nuestras casas y en la comunidad. 🌷 \n\nEs más probable que tu niña, niño o adolescente siga estas reglas si se involucra en hacerlas. ⭐",
+      "quiz_2_question": "¡Hagamos un ejercicio más!\n\nEjercicio 2: Poner límites a través de reglas en casa, rutinas diarias y un estilo de vida sano es malo para tu niña, niño o adolescente porque no le permite pensar por su cuenta.",
+      "quiz_2_option_1_text": "Verdadero",
+      "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n💚 *_Establecer límites razonables con tu niña o niño, es una buena forma de disciplina efectiva._* \n\n🧸 No estás controlando a tu niña o niño demasiado.  \n\n🌷 Le estás dando a tu niña o niño una estructura para mantener una relación sana y llena de amor entre ustedes para poder explorar el mundo con seguridad.",
+      "quiz_2_option_2_text": "Falso",
+      "quiz_2_feedback_2": "🎉 ¡Tienes razón!\n\n💚 *_Establecer límites razonables con tu niña o niño, es una buena forma de disciplina efectiva._*\n\n🧸 No estás controlando a tu niña o niño demasiado.  \n\n🌷 Le estás dando a tu niña o niño una estructura para mantener una relación sana y llena de amor entre ustedes para poder explorar el mundo con seguridad.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "@data.characters.f3_hija_7.name pasa demasiado tiempo viendo la tele antes de terminar su tarea. Veamos cómo su padre, @data.characters.f3_padre.name, le ayuda a crear una regla familiar al respecto:"
+        },
+        "character_1_text": {
+          "eng": "Es importante que hagas la tarea para que te vaya bien en la escuela. Vamos a establecer una regla sobre ver la televisión."
+        },
+        "character_2_text": {
+          "eng": "De acuerdo, papá."
+        }
+      },
+      "text_1_facilitator": "@data.characters.f3_hija_7.name pasa demasiado tiempo viendo la tele antes de terminar su tarea. Veamos cómo su padre, @data.characters.f3_padre.name, le ayuda a crear una regla familiar al respecto:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "image_asset": "images/comic/behave/create_family_rules_yc_1.svg",
+      "character_1_id": "f3_padre",
+      "character_2_id": "f3_hija_7",
+      "character_1_text": "Es importante que hagas la tarea para que te vaya bien en la escuela. Vamos a establecer una regla sobre ver la televisión.",
+      "character_2_text": "De acuerdo, papá.",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¿Cuál crees que sería una regla justa?"
+        },
+        "character_2_text": {
+          "eng": "Mmm… bueno, tal vez pueda ver la tele todo lo que quiera, pero solo después de hacer la tarea."
+        }
+      },
+      "image_asset": "images/comic/behave/create_family_rules_yc_2.svg",
+      "character_1_id": "f3_padre",
+      "character_2_id": "f3_hija_7",
+      "character_1_text": "¿Cuál crees que sería una regla justa?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "Mmm… bueno, tal vez pueda ver la tele todo lo que quiera, pero solo después de hacer la tarea.",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Me gusta esa idea, pero vamos a limitarlo a una hora al día. ¿Qué te parece?"
+        },
+        "character_2_text": {
+          "eng": "Está bien."
+        }
+      },
+      "image_asset": "images/comic/behave/create_family_rules_yc_3.svg",
+      "character_1_id": "f3_padre",
+      "character_2_id": "f3_hija_7",
+      "character_1_text": "Me gusta esa idea, pero vamos a limitarlo a una hora al día. ¿Qué te parece?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "Está bien.",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Gracias por hacer la tarea antes de ver la tele, @data.characters.f3_hija_7.name. ¡Te están dando estrellas en la escuela! ¡Tus calificaciones también han mejorado! ¡Estoy orgulloso de todos tus esfuerzos! Podemos aumentar tu tiempo a una hora y media cada día… ¡Siempre y cuando sigas haciendo la tarea primero!"
+        },
+        "character_2_text": {
+          "eng": "¡Gracias, papá!"
+        }
+      },
+      "image_asset": "images/comic/behave/create_family_rules_yc_4.svg",
+      "character_1_id": "f3_padre",
+      "character_2_id": "f3_hija_7",
+      "character_1_text": "Gracias por hacer la tarea antes de ver la tele, @data.characters.f3_hija_7.name. ¡Te están dando estrellas en la escuela! ¡Tus calificaciones también han mejorado! ¡Estoy orgulloso de todos tus esfuerzos! Podemos aumentar tu tiempo a una hora y media cada día… ¡Siempre y cuando sigas haciendo la tarea primero!",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "¡Gracias, papá!",
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "media_type": "video",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en Reproducir ▶️ para aprender 4️⃣ estrategias sencillas que te ayudarán a establecer reglas familiares con @fields.child_name:\n\n1️⃣ **SER UN EQUIPO**\n2️⃣ **MANTENERLO REALISTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**"
+        }
+      },
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender 4️⃣ estrategias sencillas que te ayudarán a establecer reglas familiares con @fields.child_name:\n\n1️⃣ **SER UN EQUIPO**\n2️⃣ **MANTENERLO REALISTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Recuerda las cuatro estrategias sencillas que te ayudarán a establecer reglas familiares con @fields.child_name"
+        }
+      },
+      "text_1_facilitator": "4️⃣ Recuerda las cuatro estrategias sencillas que te ayudarán a establecer reglas familiares con @fields.child_name",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "**_¡Actividad para casa!_** ⭐  \n\nCrea una regla familiar con @fields.child_name hoy. 🏆"
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes hacerlo hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Es muy bueno escucharlo! Crea una regla familiar con @fields.child_name hoy. Recuerda, *_cuando implicas a @fields.child_name en la creación de reglas, es más probable que las siga. ¡Es una receta para el éxito!_* 🏆"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡Está bien! Establecer reglas requiere tiempo y práctica. ⏰ Piensa en las reglas que te gustaría establecer y, cuando sientas más confianza, elige la más fácil y habla de esta regla con @fields.child_name.\n\n👂 ¡Recuerda que siempre puedes repasar esta estrategia en el Menú Principal!"
+        }
+      },
+      "quiz_1_feedback_1": "¡Es muy bueno escucharlo! Crea una regla familiar con @fields.child_name hoy. Recuerda, *_cuando implicas a @fields.child_name en la creación de reglas, es más probable que las siga. ¡Es una receta para el éxito!_* 🏆",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "¡Está bien! Establecer reglas requiere tiempo y práctica. ⏰ Piensa en las reglas que te gustaría establecer y, cuando sientas más confianza, elige la más fácil y habla de esta regla con @fields.child_name.\n\n👂 ¡Recuerda que siempre puedes repasar esta estrategia en el Menú Principal!",
+      "quiz_1_question": "¿Puedes hacerlo hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "**_¡Actividad para casa!_** ⭐  \n\nCrea una regla familiar con @fields.child_name hoy. 🏆",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

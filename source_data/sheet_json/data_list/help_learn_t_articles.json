@@ -13,8 +13,8 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1_facilitator::eng": "Esta lección trata sobre cómo ayudar a {tu adolescente} a aprender a través del establecimiento de metas y objetivos. 😃",
-      "text_2::eng": "Como madre, padre o persona cuidadora, desempeñas un papel importante en cómo {tu adolescente} aprende y le da sentido a su vida."
+      "text_1_facilitator::eng": "Esta lección trata sobre cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos. 😃",
+      "text_2::eng": "Como madre, padre o persona cuidadora, desempeñas un papel importante en cómo @fields.child_name aprende y le da sentido a su vida."
     },
     {
       "id": "explore_1",
@@ -54,17 +54,17 @@
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "text_1_facilitator::eng": "Da Clic en Reproducir ▶️ para ver cómo ayudar a {tu adolescente} a aprender a través del establecimiento de metas y objetivos:\n\n1️⃣ **ESTABLECER METAS**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **CONECTAR**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**",
+      "text_1_facilitator::eng": "Da Clic en Reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos:\n\n1️⃣ **ESTABLECER METAS**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **CONECTAR**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**",
       "media_type": "video",
       "youtube_gb_en": "youtube link"
     },
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "**_¡Actividad para casa!_**⭐\n\nDedícale 5 minutos a tu adolescente para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana.",
+      "text_1_facilitator::eng": "**¡Actividad para casa!**⭐\n\nDedícale 5 minutos a tu adolescente para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana.",
       "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰ ",
       "quiz_1_option_1_text::eng": "Sí",
-      "quiz_1_feedback_1::eng": "¡Excelente! Usa las estrategias que has aprendido hoy, ¡y diviértete! Sentir alegría y felicidad durante el aprendizaje con {tu adolescente} es una forma estupenda de motivarle para seguir aprendiendo. 💙",
+      "quiz_1_feedback_1::eng": "¡Excelente! Usa las estrategias que has aprendido hoy, ¡y diviértete! Sentir alegría y felicidad durante el aprendizaje con @fields.child_name es una forma estupenda de motivarle para seguir aprendiendo. 💙",
       "quiz_1_option_2_text::eng": "No",
       "quiz_1_feedback_2::eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana y ayudarle a estudiar o completar su trabajo escolar. ☀️"
     }

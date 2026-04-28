@@ -76,18 +76,18 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Esta lección trata sobre aprender a resolver problemas con {tu niño}. 🔄"
+          "eng": "Esta lección trata sobre aprender a resolver problemas con @fields.child_name. 🔄"
         },
         "text_2": {
-          "eng": "❗Aprender a resolver los problemas con {tu niño} puede ayudarte a no tener que recurrir a poner consecuencias.\n\n🌱 A medida que las niñas y los niños crecen, podrán resolver sus problemas por sí mismos más seguido.\n\n💡 Esto les preparará para el éxito a lo largo de su vida. ¡Qué buen regalo! 😃"
+          "eng": "❗Aprender a resolver los problemas con @fields.child_name puede ayudarte a no tener que recurrir a poner consecuencias.\n\n🌱 A medida que las niñas y los niños crecen, podrán resolver sus problemas por sí mismos más seguido.\n\n💡 Esto les preparará para el éxito a lo largo de su vida. ¡Qué buen regalo! 😃"
         }
       },
-      "text_1_facilitator": "Esta lección trata sobre aprender a resolver problemas con {tu niño}. 🔄",
+      "text_1_facilitator": "Esta lección trata sobre aprender a resolver problemas con @fields.child_name. 🔄",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {}
       },
-      "text_2": "❗Aprender a resolver los problemas con {tu niño} puede ayudarte a no tener que recurrir a poner consecuencias.\n\n🌱 A medida que las niñas y los niños crecen, podrán resolver sus problemas por sí mismos más seguido.\n\n💡 Esto les preparará para el éxito a lo largo de su vida. ¡Qué buen regalo! 😃",
+      "text_2": "❗Aprender a resolver los problemas con @fields.child_name puede ayudarte a no tener que recurrir a poner consecuencias.\n\n🌱 A medida que las niñas y los niños crecen, podrán resolver sus problemas por sí mismos más seguido.\n\n💡 Esto les preparará para el éxito a lo largo de su vida. ¡Qué buen regalo! 😃",
       "completed": false
     },
     {
@@ -234,7 +234,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**⭐\n\nHabla con {tu niño} sobre los cuatro pasos para resolver problemas: Conocerlo, Resolverlo, Intentarlo y Comprobarlo. ¡Saber resolver problemas es algo que podrán usar el resto de sus vidas!"
+          "eng": "**_Actividad para casa_**⭐\n\nHabla con @fields.child_name sobre los cuatro pasos para resolver problemas: Conocerlo, Resolverlo, Intentarlo y Comprobarlo. ¡Saber resolver problemas es algo que podrán usar el resto de sus vidas!"
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy?"
@@ -265,7 +265,7 @@
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**_Actividad para casa_**⭐\n\nHabla con {tu niño} sobre los cuatro pasos para resolver problemas: Conocerlo, Resolverlo, Intentarlo y Comprobarlo. ¡Saber resolver problemas es algo que podrán usar el resto de sus vidas!",
+      "text_1_facilitator": "**_Actividad para casa_**⭐\n\nHabla con @fields.child_name sobre los cuatro pasos para resolver problemas: Conocerlo, Resolverlo, Intentarlo y Comprobarlo. ¡Saber resolver problemas es algo que podrán usar el resto de sus vidas!",
       "completed": false
     }
   ],

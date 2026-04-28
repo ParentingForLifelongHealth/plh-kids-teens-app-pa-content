@@ -76,13 +76,13 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "La lección de estrategias de crianza para el día de hoy trata sobre cómo ayudar a {tu niño} a aprender de la experiencia."
+          "eng": "La lección de estrategias de crianza para el día de hoy trata sobre cómo ayudar a @fields.child_name a aprender de la experiencia."
         },
         "text_2": {
           "eng": "Aprender de nuestros errores puede ayudar a evitarlos en el futuro. También puede ayudar a tratarnos con más empatía y con menos dureza cuando las cosas no van bien. 😃"
         }
       },
-      "text_1_facilitator": "La lección de estrategias de crianza para el día de hoy trata sobre cómo ayudar a {tu niño} a aprender de la experiencia.",
+      "text_1_facilitator": "La lección de estrategias de crianza para el día de hoy trata sobre cómo ayudar a @fields.child_name a aprender de la experiencia.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {}
@@ -194,10 +194,10 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da Clic en Reproducir ▶️ para ver cómo ayudar a {tu niño} a aprender de la experiencia:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**"
+          "eng": "Da Clic en Reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender de la experiencia:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**"
         }
       },
-      "text_1_facilitator": "Da Clic en Reproducir ▶️ para ver cómo ayudar a {tu niño} a aprender de la experiencia:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**",
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender de la experiencia:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**",
       "_translations": {
         "text_1_facilitator": {}
       },
@@ -210,7 +210,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**⭐ \n\nCuéntale a {tu niño} sobre alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste."
+          "eng": "**Actividad para casa**⭐ \n\nCuéntale a @fields.child_name sobre alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
@@ -219,7 +219,7 @@
           "eng": "Sí"
         },
         "quiz_1_feedback_1": {
-          "eng": "¡Muy bien! 💡 Utiliza las estrategias que has aprendido hoy para ayudar a {tu niño} a prepararse académicamente y saber enfrentarse a la vida."
+          "eng": "¡Muy bien! 💡 Utiliza las estrategias que has aprendido hoy para ayudar a @fields.child_name a prepararse académicamente y saber enfrentarse a la vida."
         },
         "quiz_1_option_2_text": {
           "eng": "No"
@@ -228,7 +228,7 @@
           "eng": "¡Entendemos! Si hoy no tienes tiempo, puedes apartar un poco para mañana. ⏰"
         }
       },
-      "quiz_1_feedback_1": "¡Muy bien! 💡 Utiliza las estrategias que has aprendido hoy para ayudar a {tu niño} a prepararse académicamente y saber enfrentarse a la vida.",
+      "quiz_1_feedback_1": "¡Muy bien! 💡 Utiliza las estrategias que has aprendido hoy para ayudar a @fields.child_name a prepararse académicamente y saber enfrentarse a la vida.",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
@@ -241,7 +241,7 @@
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nCuéntale a {tu niño} sobre alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste.",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nCuéntale a @fields.child_name sobre alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste.",
       "completed": false
     }
   ],
