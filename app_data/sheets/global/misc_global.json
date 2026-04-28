@@ -530,6 +530,54 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "change_certificate_name",
+      "value": "Change name",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "certificate_name_question",
+      "value": "What name should be on your certificate?",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "library_certificates",
+      "value": "My Certificates",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "certificate_max_reprints_reached",
+      "value": "Sorry, but you can only update the name on your certificate for this course @global.max_n_cert_reprints times.",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "certificate_congrats",
+      "value": "Well done for completing the course!",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "certificates_location",
+      "value": "You can find your certificates in @global.library by selecting \"My Certificates\"",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_source": {

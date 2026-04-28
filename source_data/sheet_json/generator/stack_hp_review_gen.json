@@ -10,11 +10,18 @@
   "rows": [
     {
       "name": "underscore",
-      "value": "_"
+      "value": "_",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "deployment",
+      "value": "@globals.deployment_id",
+      "exclude_from_translation": true
     },
     {
       "name": "certificate_template",
-      "value": "@gen.id@local.underscore@fields._app_language"
+      "value": "@local.deployment@local.underscore@fields.cert_to_print@local.underscore@local.lang",
+      "exclude_from_translation": true
     },
     {
       "name": "certificate_data_list",
@@ -64,7 +71,7 @@
       "type": "begin_template",
       "name": "if_yes",
       "value": "hp_review",
-      "action_list": "completed | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @fields.user_name,\nid: @gen.id,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: @local.result;\ncompleted | set_field: cert_to_print: @item.id;\ncompleted | set_data | _list_id: hp_check_in, _id: @gen.id, unlocked_activity: TRUE;\ncompleted | nav_stack: close_top;\ncompleted | pop_up: show_certificate;\nuncompleted | nav_stack: close_top;",
+      "action_list": "completed | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @fields.certificate_name,\nid: @gen.id,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: @local.result;\ncompleted | set_field: cert_to_print: @item.id;\ncompleted | set_data | _list_id: hp_check_in, _id: @gen.id, unlocked_activity: TRUE;\ncompleted | set_data | _list_id: courses, _id: @gen.id, n_reprints: 0;\ncompleted | nav_stack: close_top;\ncompleted | pop_up: show_certificate;\nuncompleted | nav_stack: close_top;",
       "exclude_from_translation": true
     },
     {

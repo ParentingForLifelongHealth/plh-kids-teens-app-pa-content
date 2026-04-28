@@ -130,6 +130,11 @@
       "exclude_from_translation": true
     },
     {
+      "name": "child_age_tag",
+      "value": "@calc(@local.child_age_input <10 ? \"child\" : \"teen\")",
+      "exclude_from_translation": true
+    },
+    {
       "name": "completed_enabled",
       "value": "!!@local.child_name_input &&!!@local.child_age_input && @local.valid_child_age_input &&  !!@local.child_gender_input",
       "exclude_from_translation": true
@@ -152,7 +157,7 @@
       "type": "button",
       "name": "button_completed_2",
       "value": "@global.continue",
-      "action_list": "click | set_field: child_age: @local.child_age_input;\nclick | set_field: child_name: @local.child_name_input;\nclick | set_field: child_gender: @local.child_gender_input;\nclick | emit: completed;",
+      "action_list": "click | set_field: child_age: @local.child_age_input;\nclick | set_field: child_name: @local.child_name_input;\nclick | set_field: child_gender: @local.child_gender_input;\nclick | set_field: child_age_tag: @local.child_age_tag;\nclick | emit: completed;",
       "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
       "style_list": "flex: 1",
       "exclude_from_translation": true

@@ -64,7 +64,7 @@
       "type": "begin_display_group",
       "name": "dg_row",
       "exclude_from_translation": true,
-      "style_list": "padding: 12px 24px;\njustify-content: space-between;",
+      "style_list": "padding: 12px 0px 0 px;\njustify-content: space-between;",
       "comment": "margin-top: 24px;\nmargin-left: -24px;"
     },
     {

@@ -5,7 +5,6 @@
   "rows": [
     {
       "name": "n_reprints",
-      "value": 0,
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "n_reprints"
@@ -41,12 +40,23 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "underscore"
     },
     {
+      "name": "deployment",
+      "value": "@globals.deployment_id",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "deployment"
+    },
+    {
       "name": "certificate_template",
-      "value": "@fields.cert_to_print@local.underscore@local.lang",
+      "value": "@local.deployment@local.underscore@fields.cert_to_print@local.underscore@local.lang",
       "_translations": {
         "value": {}
       },
@@ -56,19 +66,31 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@fields.cert_to_print@local.underscore@local.lang",
-            "matchedExpression": "@fields.cert_to_print",
-            "type": "fields",
-            "fieldName": "cert_to_print"
+            "fullExpression": "@local.deployment@local.underscore@fields.cert_to_print@local.underscore@local.lang",
+            "matchedExpression": "@local.deployment",
+            "type": "local",
+            "fieldName": "deployment"
           },
           {
-            "fullExpression": "@fields.cert_to_print@local.underscore@local.lang",
+            "fullExpression": "@local.deployment@local.underscore@fields.cert_to_print@local.underscore@local.lang",
             "matchedExpression": "@local.underscore",
             "type": "local",
             "fieldName": "underscore"
           },
           {
-            "fullExpression": "@fields.cert_to_print@local.underscore@local.lang",
+            "fullExpression": "@local.deployment@local.underscore@fields.cert_to_print@local.underscore@local.lang",
+            "matchedExpression": "@fields.cert_to_print",
+            "type": "fields",
+            "fieldName": "cert_to_print"
+          },
+          {
+            "fullExpression": "@local.deployment@local.underscore@fields.cert_to_print@local.underscore@local.lang",
+            "matchedExpression": "@local.underscore",
+            "type": "local",
+            "fieldName": "underscore"
+          },
+          {
+            "fullExpression": "@local.deployment@local.underscore@fields.cert_to_print@local.underscore@local.lang",
             "matchedExpression": "@local.lang",
             "type": "local",
             "fieldName": "lang"
@@ -76,10 +98,14 @@
         ]
       },
       "_dynamicDependencies": {
-        "@fields.cert_to_print": [
+        "@local.deployment": [
           "value"
         ],
         "@local.underscore": [
+          "value",
+          "value"
+        ],
+        "@fields.cert_to_print": [
           "value"
         ],
         "@local.lang": [
@@ -122,10 +148,9 @@
         }
       ],
       "parameter_list": {
-        "filter": "@item._id == @fields.cert_to_print",
+        "filter": "@item.id == @fields.cert_to_print",
         "limit": "1"
       },
-      "condition": false,
       "exclude_from_translation": true,
       "_nested_name": "get_n_reprints",
       "_dynamicFields": {
@@ -140,13 +165,13 @@
         "parameter_list": {
           "filter": [
             {
-              "fullExpression": "@item._id == @fields.cert_to_print",
-              "matchedExpression": "@item._id",
+              "fullExpression": "@item.id == @fields.cert_to_print",
+              "matchedExpression": "@item.id",
               "type": "item",
-              "fieldName": "_id"
+              "fieldName": "id"
             },
             {
-              "fullExpression": "@item._id == @fields.cert_to_print",
+              "fullExpression": "@item.id == @fields.cert_to_print",
               "matchedExpression": "@fields.cert_to_print",
               "type": "fields",
               "fieldName": "cert_to_print"
@@ -158,7 +183,7 @@
         "@data.courses": [
           "value"
         ],
-        "@item._id": [
+        "@item.id": [
           "parameter_list.filter"
         ],
         "@fields.cert_to_print": [
@@ -167,27 +192,53 @@
       }
     },
     {
-      "name": "n_reprints",
-      "value": "@calc(@local.n_reprints + 1)",
+      "name": "n_reprints_or_zero",
+      "value": 0,
+      "condition": "!@local.n_reprints",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "n_reprints_or_zero",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "!@local.n_reprints",
+            "matchedExpression": "!@local.n_reprints",
+            "type": "local",
+            "fieldName": "n_reprints"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "!@local.n_reprints": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "n_reprints_or_zero",
+      "value": "@local.n_reprints",
       "_translations": {
         "value": {}
       },
-      "condition": false,
+      "condition": "!!@local.n_reprints",
+      "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "n_reprints",
+      "_nested_name": "n_reprints_or_zero",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@calc(@local.n_reprints + 1)",
+            "fullExpression": "@local.n_reprints",
             "matchedExpression": "@local.n_reprints",
             "type": "local",
             "fieldName": "n_reprints"
-          },
+          }
+        ],
+        "condition": [
           {
-            "fullExpression": "@calc(@local.n_reprints + 1)",
-            "matchedExpression": "@calc(@local.n_reprints + 1)",
-            "type": "calc",
-            "fieldName": "@local.n_reprints + 1"
+            "fullExpression": "!!@local.n_reprints",
+            "matchedExpression": "!@local.n_reprints",
+            "type": "local",
+            "fieldName": "n_reprints"
           }
         ]
       },
@@ -195,8 +246,8 @@
         "@local.n_reprints": [
           "value"
         ],
-        "@calc(@local.n_reprints + 1)": [
-          "value"
+        "!@local.n_reprints": [
+          "condition"
         ]
       }
     },
@@ -221,46 +272,6 @@
       },
       "_dynamicDependencies": {
         "@global.certificate_name_question": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "text",
-      "value": "reprints: @local.n_reprints\n+1: @calc(@local.n_reprints+1))",
-      "_translations": {
-        "value": {}
-      },
-      "name": "text_11",
-      "_nested_name": "text_11",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "reprints: @local.n_reprints\n+1: @calc(@local.n_reprints+1))",
-            "matchedExpression": "@local.n_reprints",
-            "type": "local",
-            "fieldName": "n_reprints"
-          },
-          {
-            "fullExpression": "reprints: @local.n_reprints\n+1: @calc(@local.n_reprints+1))",
-            "matchedExpression": "@local.n_reprints",
-            "type": "local",
-            "fieldName": "n_reprints"
-          },
-          {
-            "fullExpression": "reprints: @local.n_reprints\n+1: @calc(@local.n_reprints+1))",
-            "matchedExpression": "@calc(@local.n_reprints+1))",
-            "type": "calc",
-            "fieldName": "@local.n_reprints+1)"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.n_reprints": [
-          "value",
-          "value"
-        ],
-        "@calc(@local.n_reprints+1))": [
           "value"
         ]
       }
@@ -334,6 +345,31 @@
       }
     },
     {
+      "type": "text",
+      "value": "n: @local.n_reprints_or_zero",
+      "_translations": {
+        "value": {}
+      },
+      "condition": false,
+      "name": "text_15",
+      "_nested_name": "text_15",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "n: @local.n_reprints_or_zero",
+            "matchedExpression": "@local.n_reprints_or_zero",
+            "type": "local",
+            "fieldName": "n_reprints_or_zero"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.n_reprints_or_zero": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "button",
       "name": "button_completed",
       "value": "@global.continue",
@@ -370,11 +406,11 @@
           "trigger": "click",
           "action_id": "set_data",
           "args": [],
-          "_raw": "click | set_data | _list_id: courses, _id: @fields.cert_to_print, n_reprints: @local.n_reprints",
+          "_raw": "click | set_data | _list_id: courses, _id: @fields.cert_to_print, n_reprints: @local.n_reprints_or_zero +1",
           "params": {
             "_list_id": "courses",
             "_id": "@fields.cert_to_print",
-            "n_reprints": "@local.n_reprints"
+            "n_reprints": "@local.n_reprints_or_zero +1"
           }
         },
         {
@@ -504,16 +540,16 @@
           "2": {
             "_raw": [
               {
-                "fullExpression": "click | set_data | _list_id: courses, _id: @fields.cert_to_print, n_reprints: @local.n_reprints",
+                "fullExpression": "click | set_data | _list_id: courses, _id: @fields.cert_to_print, n_reprints: @local.n_reprints_or_zero +1",
                 "matchedExpression": "@fields.cert_to_print",
                 "type": "fields",
                 "fieldName": "cert_to_print"
               },
               {
-                "fullExpression": "click | set_data | _list_id: courses, _id: @fields.cert_to_print, n_reprints: @local.n_reprints",
-                "matchedExpression": "@local.n_reprints",
+                "fullExpression": "click | set_data | _list_id: courses, _id: @fields.cert_to_print, n_reprints: @local.n_reprints_or_zero +1",
+                "matchedExpression": "@local.n_reprints_or_zero",
                 "type": "local",
-                "fieldName": "n_reprints"
+                "fieldName": "n_reprints_or_zero"
               }
             ],
             "params": {
@@ -527,10 +563,10 @@
               ],
               "n_reprints": [
                 {
-                  "fullExpression": "@local.n_reprints",
-                  "matchedExpression": "@local.n_reprints",
+                  "fullExpression": "@local.n_reprints_or_zero +1",
+                  "matchedExpression": "@local.n_reprints_or_zero",
                   "type": "local",
-                  "fieldName": "n_reprints"
+                  "fieldName": "n_reprints_or_zero"
                 }
               ]
             }
@@ -575,7 +611,7 @@
           "action_list.1._raw",
           "action_list.1.params.certificate_data_list"
         ],
-        "@local.n_reprints": [
+        "@local.n_reprints_or_zero": [
           "action_list.2._raw",
           "action_list.2.params.n_reprints"
         ],
@@ -588,6 +624,6 @@
   "_source": {
     "name": "kids_teens_global V2",
     "path": "templates/certificates.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1VpI924QZ80Ilk2GsDMSWKGHBvSs67EsiD0mPR5GejN8"
+    "url": "https://docs.google.com/spreadsheets/d/1KKfrEtHpXm0sMNY21dYKMmZBOny_Vnum-zr1zgdPcmM"
   }
 }
