@@ -31,11 +31,11 @@
       },
       {
         "type": "combo_box",
-        "count": 14
+        "count": 16
       },
       {
         "type": "data_items",
-        "count": 154
+        "count": 158
       },
       {
         "type": "debug_toggle",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3417
+        "count": 3686
       },
       {
         "type": "simple_checkbox",
@@ -139,11 +139,11 @@
       },
       {
         "type": "template",
-        "count": 1034
+        "count": 1168
       },
       {
         "type": "text",
-        "count": 177
+        "count": 179
       },
       {
         "type": "text_area",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 653
+        "count": 787
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 659
+        "count": 793
       },
       {
         "type": "feedback",
@@ -259,7 +259,7 @@
       },
       {
         "type": "set_field",
-        "count": 133
+        "count": 134
       },
       {
         "type": "set_item",
@@ -267,7 +267,7 @@
       },
       {
         "type": "set_local",
-        "count": 64
+        "count": 65
       },
       {
         "type": "share",
@@ -291,13 +291,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "65984 KB",
-        "MB": "66 MB"
+        "KB": "68694 KB",
+        "MB": "68.7 MB"
       },
       {
         "assets": "unused",
-        "KB": "8595 KB",
-        "MB": "8.6 MB"
+        "KB": "5886 KB",
+        "MB": "5.9 MB"
       }
     ]
   },
@@ -342,198 +342,6 @@
       {
         "path": "images/backgrounds/progress_arc.png",
         "size_kb": 255.4
-      },
-      {
-        "path": "images/comic/behave/consequences_yc_1.svg",
-        "size_kb": 98
-      },
-      {
-        "path": "images/comic/behave/consequences_yc_2.svg",
-        "size_kb": 98.4
-      },
-      {
-        "path": "images/comic/behave/consequences_yc_3.svg",
-        "size_kb": 98.9
-      },
-      {
-        "path": "images/comic/behave/consequences_yc_4.svg",
-        "size_kb": 96.7
-      },
-      {
-        "path": "images/comic/behave/consequences_yc_5.svg",
-        "size_kb": 15.1
-      },
-      {
-        "path": "images/comic/behave/create_family_rules_yc_1.svg",
-        "size_kb": 23.4
-      },
-      {
-        "path": "images/comic/behave/create_family_rules_yc_2.svg",
-        "size_kb": 23.2
-      },
-      {
-        "path": "images/comic/behave/create_family_rules_yc_3.svg",
-        "size_kb": 30.4
-      },
-      {
-        "path": "images/comic/behave/create_family_rules_yc_4.svg",
-        "size_kb": 41.8
-      },
-      {
-        "path": "images/comic/behave/ignore_yc_1.svg",
-        "size_kb": 59.9
-      },
-      {
-        "path": "images/comic/behave/ignore_yc_2.svg",
-        "size_kb": 60.2
-      },
-      {
-        "path": "images/comic/behave/ignore_yc_3.svg",
-        "size_kb": 61.6
-      },
-      {
-        "path": "images/comic/behave/ignore_yc_4.svg",
-        "size_kb": 36.7
-      },
-      {
-        "path": "images/comic/behave/ignore_yc_5.svg",
-        "size_kb": 50.1
-      },
-      {
-        "path": "images/comic/behave/keeping_it_positive_yc_1.svg",
-        "size_kb": 45.9
-      },
-      {
-        "path": "images/comic/behave/keeping_it_positive_yc_2.svg",
-        "size_kb": 40.9
-      },
-      {
-        "path": "images/comic/behave/keeping_it_positive_yc_3.svg",
-        "size_kb": 43.8
-      },
-      {
-        "path": "images/comic/behave/keeping_it_positive_yc_4.svg",
-        "size_kb": 21.6
-      },
-      {
-        "path": "images/comic/behave/managing_anger_yc_1.svg",
-        "size_kb": 115.8
-      },
-      {
-        "path": "images/comic/behave/managing_anger_yc_2.svg",
-        "size_kb": 26.8
-      },
-      {
-        "path": "images/comic/behave/managing_anger_yc_3.svg",
-        "size_kb": 38.2
-      },
-      {
-        "path": "images/comic/behave/managing_anger_yc_4.svg",
-        "size_kb": 22.4
-      },
-      {
-        "path": "images/comic/behave/managing_anger_yc_5.svg",
-        "size_kb": 24.9
-      },
-      {
-        "path": "images/comic/behave/managing_anger_yc_6.svg",
-        "size_kb": 37.2
-      },
-      {
-        "path": "images/comic/learn/fun_learning_7to9_yc_1.svg",
-        "size_kb": 55.4
-      },
-      {
-        "path": "images/comic/learn/fun_learning_7to9_yc_2.svg",
-        "size_kb": 16.9
-      },
-      {
-        "path": "images/comic/learn/fun_learning_7to9_yc_3.svg",
-        "size_kb": 59.9
-      },
-      {
-        "path": "images/comic/learn/fun_learning_7to9_yc_4.svg",
-        "size_kb": 36.3
-      },
-      {
-        "path": "images/comic/learn/help_child_learn_7to9_yc_1.svg",
-        "size_kb": 31.7
-      },
-      {
-        "path": "images/comic/learn/help_child_learn_7to9_yc_2.svg",
-        "size_kb": 32.8
-      },
-      {
-        "path": "images/comic/learn/help_child_learn_7to9_yc_3.svg",
-        "size_kb": 26.7
-      },
-      {
-        "path": "images/comic/learn/help_child_learn_7to9_yc_4.svg",
-        "size_kb": 27.9
-      },
-      {
-        "path": "images/comic/learn/language_yc_1.svg",
-        "size_kb": 31
-      },
-      {
-        "path": "images/comic/learn/language_yc_2.svg",
-        "size_kb": 32.8
-      },
-      {
-        "path": "images/comic/learn/language_yc_3.svg",
-        "size_kb": 31.8
-      },
-      {
-        "path": "images/comic/learn/language_yc_4.svg",
-        "size_kb": 35.4
-      },
-      {
-        "path": "images/comic/learn/maths2_4to6_yc_1.svg",
-        "size_kb": 100.2
-      },
-      {
-        "path": "images/comic/learn/maths2_4to6_yc_2.svg",
-        "size_kb": 101.1
-      },
-      {
-        "path": "images/comic/learn/maths2_4to6_yc_3.svg",
-        "size_kb": 100.1
-      },
-      {
-        "path": "images/comic/learn/maths2_4to6_yc_4.svg",
-        "size_kb": 97.8
-      },
-      {
-        "path": "images/comic/learn/reading1_4to6_yc_1.svg",
-        "size_kb": 36.4
-      },
-      {
-        "path": "images/comic/learn/reading1_4to6_yc_2.svg",
-        "size_kb": 38
-      },
-      {
-        "path": "images/comic/learn/reading1_4to6_yc_3.svg",
-        "size_kb": 37.9
-      },
-      {
-        "path": "images/comic/learn/reading1_4to6_yc_4.svg",
-        "size_kb": 38
-      },
-      {
-        "path": "images/comic/learn/reading_2to3_yc_1.svg",
-        "size_kb": 37.7
-      },
-      {
-        "path": "images/comic/learn/reading_2to3_yc_2.svg",
-        "size_kb": 46.1
-      },
-      {
-        "path": "images/comic/learn/reading_2to3_yc_3.svg",
-        "size_kb": 39.3
-      },
-      {
-        "path": "images/comic/learn/reading_2to3_yc_4.svg",
-        "size_kb": 37.9
       },
       {
         "path": "images/comic/relation/calm_teen_5.svg",
@@ -776,26 +584,6 @@
         "size_kb": 16.5
       },
       {
-        "path": "images/comic/understand/anxiety_teen_1.svg",
-        "size_kb": 89.6
-      },
-      {
-        "path": "images/comic/understand/anxiety_teen_2.svg",
-        "size_kb": 32.2
-      },
-      {
-        "path": "images/comic/understand/anxiety_teen_3.svg",
-        "size_kb": 27.3
-      },
-      {
-        "path": "images/comic/understand/anxiety_teen_4.svg",
-        "size_kb": 26.5
-      },
-      {
-        "path": "images/comic/understand/anxiety_teen_5.svg",
-        "size_kb": 26.2
-      },
-      {
         "path": "images/comic/understand/play_yc_1.svg",
         "size_kb": 39.5
       },
@@ -810,30 +598,6 @@
       {
         "path": "images/comic/understand/play_yc_4.svg",
         "size_kb": 25.7
-      },
-      {
-        "path": "images/comic/understand/sadness_teen_1.svg",
-        "size_kb": 30.7
-      },
-      {
-        "path": "images/comic/understand/sadness_teen_2.svg",
-        "size_kb": 30.4
-      },
-      {
-        "path": "images/comic/understand/sadness_teen_3.svg",
-        "size_kb": 33.5
-      },
-      {
-        "path": "images/comic/understand/sadness_teen_4.svg",
-        "size_kb": 28.1
-      },
-      {
-        "path": "images/comic/understand/sadness_teen_5.svg",
-        "size_kb": 22.3
-      },
-      {
-        "path": "images/comic/understand/sadness_teen_6.svg",
-        "size_kb": 21.6
       },
       {
         "path": "images/flags/gb.svg",
@@ -1227,6 +991,11 @@
         "path": "images/onboarding/welcome_screen_3.svg",
         "count": 1,
         "missing": true
+      },
+      {
+        "path": "pencil.svg",
+        "count": 8,
+        "missing": true
       }
     ]
   },
@@ -1239,7 +1008,7 @@
       },
       {
         "path": "audio/relax/relax_1.m4a",
-        "count": 9,
+        "count": 12,
         "size_kb": 213.2
       },
       {
@@ -1294,7 +1063,7 @@
       },
       {
         "path": "audio/relax/relax_2.m4a",
-        "count": 9,
+        "count": 13,
         "size_kb": 451.3
       },
       {
@@ -1319,17 +1088,17 @@
       },
       {
         "path": "audio/relax/relax_3.m4a",
-        "count": 9,
+        "count": 13,
         "size_kb": 244.5
       },
       {
         "path": "audio/relax/relax_4.m4a",
-        "count": 7,
+        "count": 11,
         "size_kb": 528.3
       },
       {
         "path": "audio/relax/relax_5.m4a",
-        "count": 7,
+        "count": 11,
         "size_kb": 278.5
       },
       {
@@ -1843,6 +1612,76 @@
         "size_kb": 54.7
       },
       {
+        "path": "images/comic/behave/consequences_yc_1.svg",
+        "count": 2,
+        "size_kb": 98
+      },
+      {
+        "path": "images/comic/behave/consequences_yc_2.svg",
+        "count": 2,
+        "size_kb": 98.4
+      },
+      {
+        "path": "images/comic/behave/consequences_yc_3.svg",
+        "count": 2,
+        "size_kb": 98.9
+      },
+      {
+        "path": "images/comic/behave/consequences_yc_4.svg",
+        "count": 2,
+        "size_kb": 96.7
+      },
+      {
+        "path": "images/comic/behave/consequences_yc_5.svg",
+        "count": 2,
+        "size_kb": 15.1
+      },
+      {
+        "path": "images/comic/behave/create_family_rules_yc_1.svg",
+        "count": 2,
+        "size_kb": 23.4
+      },
+      {
+        "path": "images/comic/behave/create_family_rules_yc_2.svg",
+        "count": 2,
+        "size_kb": 23.2
+      },
+      {
+        "path": "images/comic/behave/create_family_rules_yc_3.svg",
+        "count": 2,
+        "size_kb": 30.4
+      },
+      {
+        "path": "images/comic/behave/create_family_rules_yc_4.svg",
+        "count": 2,
+        "size_kb": 41.8
+      },
+      {
+        "path": "images/comic/behave/ignore_yc_1.svg",
+        "count": 2,
+        "size_kb": 59.9
+      },
+      {
+        "path": "images/comic/behave/ignore_yc_2.svg",
+        "count": 2,
+        "size_kb": 60.2
+      },
+      {
+        "path": "images/comic/behave/ignore_yc_3.svg",
+        "count": 2,
+        "size_kb": 61.6
+      },
+      {
+        "path": "images/comic/behave/ignore_yc_4.svg",
+        "count": 2,
+        "size_kb": 36.7
+      },
+      {
+        "path": "images/comic/behave/ignore_yc_5.svg",
+        "count": 2,
+        "size_kb": 50.1
+      },
+      {
         "path": "images/comic/behave/keeping_it_positive_teen_1.svg",
         "count": 2,
         "size_kb": 62
@@ -1866,6 +1705,26 @@
         "path": "images/comic/behave/keeping_it_positive_teen_5.svg",
         "count": 2,
         "size_kb": 62.1
+      },
+      {
+        "path": "images/comic/behave/keeping_it_positive_yc_1.svg",
+        "count": 2,
+        "size_kb": 45.9
+      },
+      {
+        "path": "images/comic/behave/keeping_it_positive_yc_2.svg",
+        "count": 2,
+        "size_kb": 40.9
+      },
+      {
+        "path": "images/comic/behave/keeping_it_positive_yc_3.svg",
+        "count": 2,
+        "size_kb": 43.8
+      },
+      {
+        "path": "images/comic/behave/keeping_it_positive_yc_4.svg",
+        "count": 2,
+        "size_kb": 21.6
       },
       {
         "path": "images/comic/behave/managing_anger_teen_1.svg",
@@ -1896,6 +1755,36 @@
         "path": "images/comic/behave/managing_anger_teen_6.svg",
         "count": 2,
         "size_kb": 30.8
+      },
+      {
+        "path": "images/comic/behave/managing_anger_yc_1.svg",
+        "count": 2,
+        "size_kb": 115.8
+      },
+      {
+        "path": "images/comic/behave/managing_anger_yc_2.svg",
+        "count": 2,
+        "size_kb": 26.8
+      },
+      {
+        "path": "images/comic/behave/managing_anger_yc_3.svg",
+        "count": 2,
+        "size_kb": 38.2
+      },
+      {
+        "path": "images/comic/behave/managing_anger_yc_4.svg",
+        "count": 2,
+        "size_kb": 22.4
+      },
+      {
+        "path": "images/comic/behave/managing_anger_yc_5.svg",
+        "count": 2,
+        "size_kb": 24.9
+      },
+      {
+        "path": "images/comic/behave/managing_anger_yc_6.svg",
+        "count": 2,
+        "size_kb": 37.2
       },
       {
         "path": "images/comic/behave/rules_teen_1.svg",
@@ -2073,6 +1962,26 @@
         "size_kb": 37.3
       },
       {
+        "path": "images/comic/learn/fun_learning_7to9_yc_1.svg",
+        "count": 2,
+        "size_kb": 55.4
+      },
+      {
+        "path": "images/comic/learn/fun_learning_7to9_yc_2.svg",
+        "count": 2,
+        "size_kb": 16.9
+      },
+      {
+        "path": "images/comic/learn/fun_learning_7to9_yc_3.svg",
+        "count": 2,
+        "size_kb": 59.9
+      },
+      {
+        "path": "images/comic/learn/fun_learning_7to9_yc_4.svg",
+        "count": 2,
+        "size_kb": 36.3
+      },
+      {
         "path": "images/comic/learn/fun_learning_teen_1.svg",
         "count": 2,
         "size_kb": 54
@@ -2093,6 +2002,26 @@
         "size_kb": 36.2
       },
       {
+        "path": "images/comic/learn/help_child_learn_7to9_yc_1.svg",
+        "count": 2,
+        "size_kb": 31.7
+      },
+      {
+        "path": "images/comic/learn/help_child_learn_7to9_yc_2.svg",
+        "count": 2,
+        "size_kb": 32.8
+      },
+      {
+        "path": "images/comic/learn/help_child_learn_7to9_yc_3.svg",
+        "count": 2,
+        "size_kb": 26.7
+      },
+      {
+        "path": "images/comic/learn/help_child_learn_7to9_yc_4.svg",
+        "count": 2,
+        "size_kb": 27.9
+      },
+      {
         "path": "images/comic/learn/help_learn_teen_1.svg",
         "count": 2,
         "size_kb": 33
@@ -2111,6 +2040,26 @@
         "path": "images/comic/learn/help_learn_teen_4.svg",
         "count": 2,
         "size_kb": 29.2
+      },
+      {
+        "path": "images/comic/learn/language_yc_1.svg",
+        "count": 2,
+        "size_kb": 31
+      },
+      {
+        "path": "images/comic/learn/language_yc_2.svg",
+        "count": 2,
+        "size_kb": 32.8
+      },
+      {
+        "path": "images/comic/learn/language_yc_3.svg",
+        "count": 2,
+        "size_kb": 31.8
+      },
+      {
+        "path": "images/comic/learn/language_yc_4.svg",
+        "count": 2,
+        "size_kb": 35.4
       },
       {
         "path": "images/comic/learn/learning_mistakes_7to9_yc_1.svg",
@@ -2173,6 +2122,26 @@
         "size_kb": 30.7
       },
       {
+        "path": "images/comic/learn/maths2_4to6_yc_1.svg",
+        "count": 2,
+        "size_kb": 100.2
+      },
+      {
+        "path": "images/comic/learn/maths2_4to6_yc_2.svg",
+        "count": 2,
+        "size_kb": 101.1
+      },
+      {
+        "path": "images/comic/learn/maths2_4to6_yc_3.svg",
+        "count": 2,
+        "size_kb": 100.1
+      },
+      {
+        "path": "images/comic/learn/maths2_4to6_yc_4.svg",
+        "count": 2,
+        "size_kb": 97.8
+      },
+      {
         "path": "images/comic/learn/positive_learning_7to9_yc_1.svg",
         "count": 2,
         "size_kb": 23.3
@@ -2221,6 +2190,46 @@
         "path": "images/comic/learn/positive_learning_teen_5.svg",
         "count": 2,
         "size_kb": 21.3
+      },
+      {
+        "path": "images/comic/learn/reading1_4to6_yc_1.svg",
+        "count": 2,
+        "size_kb": 36.4
+      },
+      {
+        "path": "images/comic/learn/reading1_4to6_yc_2.svg",
+        "count": 2,
+        "size_kb": 38
+      },
+      {
+        "path": "images/comic/learn/reading1_4to6_yc_3.svg",
+        "count": 2,
+        "size_kb": 37.9
+      },
+      {
+        "path": "images/comic/learn/reading1_4to6_yc_4.svg",
+        "count": 2,
+        "size_kb": 38
+      },
+      {
+        "path": "images/comic/learn/reading_2to3_yc_1.svg",
+        "count": 2,
+        "size_kb": 37.7
+      },
+      {
+        "path": "images/comic/learn/reading_2to3_yc_2.svg",
+        "count": 2,
+        "size_kb": 46.1
+      },
+      {
+        "path": "images/comic/learn/reading_2to3_yc_3.svg",
+        "count": 2,
+        "size_kb": 39.3
+      },
+      {
+        "path": "images/comic/learn/reading_2to3_yc_4.svg",
+        "count": 2,
+        "size_kb": 37.9
       },
       {
         "path": "images/comic/relation/calm_teen_1.svg",
@@ -2433,6 +2442,31 @@
         "size_kb": 36
       },
       {
+        "path": "images/comic/understand/anxiety_teen_1.svg",
+        "count": 2,
+        "size_kb": 89.6
+      },
+      {
+        "path": "images/comic/understand/anxiety_teen_2.svg",
+        "count": 2,
+        "size_kb": 32.2
+      },
+      {
+        "path": "images/comic/understand/anxiety_teen_3.svg",
+        "count": 2,
+        "size_kb": 27.3
+      },
+      {
+        "path": "images/comic/understand/anxiety_teen_4.svg",
+        "count": 2,
+        "size_kb": 26.5
+      },
+      {
+        "path": "images/comic/understand/anxiety_teen_5.svg",
+        "count": 2,
+        "size_kb": 26.2
+      },
+      {
         "path": "images/comic/understand/child_change_yc_1.svg",
         "count": 2,
         "size_kb": 32.2
@@ -2586,6 +2620,36 @@
         "path": "images/comic/understand/manage_stress_yc_6.svg",
         "count": 2,
         "size_kb": 45.5
+      },
+      {
+        "path": "images/comic/understand/sadness_teen_1.svg",
+        "count": 2,
+        "size_kb": 30.7
+      },
+      {
+        "path": "images/comic/understand/sadness_teen_2.svg",
+        "count": 2,
+        "size_kb": 30.4
+      },
+      {
+        "path": "images/comic/understand/sadness_teen_3.svg",
+        "count": 2,
+        "size_kb": 33.5
+      },
+      {
+        "path": "images/comic/understand/sadness_teen_4.svg",
+        "count": 2,
+        "size_kb": 28.1
+      },
+      {
+        "path": "images/comic/understand/sadness_teen_5.svg",
+        "count": 2,
+        "size_kb": 22.3
+      },
+      {
+        "path": "images/comic/understand/sadness_teen_6.svg",
+        "count": 2,
+        "size_kb": 21.6
       },
       {
         "path": "images/comic/understand/toddler_change_yc_1.svg",
@@ -2759,7 +2823,7 @@
       },
       {
         "path": "images/icons/faces/happy_face_new.svg",
-        "count": 113,
+        "count": 134,
         "size_kb": 1.4
       },
       {
@@ -2769,7 +2833,7 @@
       },
       {
         "path": "images/icons/faces/ok_face_new.svg",
-        "count": 113,
+        "count": 134,
         "size_kb": 0.5
       },
       {
@@ -2779,7 +2843,7 @@
       },
       {
         "path": "images/icons/faces/sad_face_new.svg",
-        "count": 113,
+        "count": 134,
         "size_kb": 1.5
       },
       {
@@ -3024,27 +3088,27 @@
       },
       {
         "path": "lottie/relax/blue_dots.json",
-        "count": 10,
+        "count": 14,
         "size_kb": 14.7
       },
       {
         "path": "lottie/relax/heart.json",
-        "count": 10,
+        "count": 14,
         "size_kb": 46.7
       },
       {
         "path": "lottie/relax/looping_rings.json",
-        "count": 12,
+        "count": 16,
         "size_kb": 10.4
       },
       {
         "path": "lottie/relax/soothing_waves.json",
-        "count": 12,
+        "count": 16,
         "size_kb": 7.6
       },
       {
         "path": "lottie/relax/square_flow.json",
-        "count": 24,
+        "count": 29,
         "size_kb": 5.9
       }
     ]
@@ -3054,7 +3118,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 15
+        "total": 16
       },
       {
         "type": "data_list",
@@ -3074,7 +3138,7 @@
       {
         "type": "data_list",
         "subtype": "generated",
-        "total": 117
+        "total": 138
       },
       {
         "type": "data_list",
@@ -3133,7 +3197,37 @@
       },
       {
         "type": "data_list",
+        "subtype": "modules_anxiety_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_consequences_c",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_family_rules_c",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_fun_l_7to9_c",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_help_l_7to9_c",
+        "total": 1
+      },
+      {
+        "type": "data_list",
         "subtype": "modules_help_learn_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_hope_future_t",
         "total": 1
       },
       {
@@ -3188,6 +3282,11 @@
       },
       {
         "type": "data_list",
+        "subtype": "modules_ignore_c",
+        "total": 1
+      },
+      {
+        "type": "data_list",
         "subtype": "modules_ipv_conflicts_m",
         "total": 1
       },
@@ -3209,6 +3308,11 @@
       {
         "type": "data_list",
         "subtype": "modules_ipv_supportive_m",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_keep_positive_c",
         "total": 1
       },
       {
@@ -3253,12 +3357,32 @@
       },
       {
         "type": "data_list",
+        "subtype": "modules_manage_anger_c",
+        "total": 1
+      },
+      {
+        "type": "data_list",
         "subtype": "modules_manage_stress_c",
         "total": 1
       },
       {
         "type": "data_list",
         "subtype": "modules_manage_stress_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_maths1_4to6_c",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_maths2_4to6_c",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_maths_2to3_c",
         "total": 1
       },
       {
@@ -3273,12 +3397,57 @@
       },
       {
         "type": "data_list",
+        "subtype": "modules_s_language_c",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_s_read1_4to6_c",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_s_read2_4to6_c",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_s_read_2to3_c",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_sadness_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_school_3to9_c",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_self_esteem_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
         "subtype": "modules_solve_problem_c",
         "total": 1
       },
       {
         "type": "data_list",
         "subtype": "modules_solve_problem_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_stress_signs_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_stress_t",
         "total": 1
       },
       {
@@ -3309,12 +3478,12 @@
       {
         "type": "data_pipe",
         "subtype": "generated",
-        "total": 113
+        "total": 134
       },
       {
         "type": "generator",
         "subtype": null,
-        "total": 49
+        "total": 70
       },
       {
         "type": "global",
@@ -3339,7 +3508,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 776
+        "total": 910
       },
       {
         "type": "template",

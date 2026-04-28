@@ -1,0 +1,250 @@
+{
+  "flow_name": "help_l_7to9_c_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_5",
+      "in_library": "yes",
+      "title_eng": "In and out",
+      "title": "Inhala y exhala",
+      "lottie_asset": "lottie/relax/blue_dots.json",
+      "media_asset": "audio/relax/relax_5.m4a",
+      "media_type": "audio",
+      "transcript_1_eng": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
+      "transcript_1_spanish": "Cierra los ojos.\n\nEscucha tu respiración mientras entra y sale cinco veces.\n\nNota cómo te sientes.\n\nCuando estés listo(a), abre los ojos otra vez. ¡Tú tienes el control!",
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_53",
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Cuidarte es importante. ¡Y cómo te sientes, también lo es!",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Cuidarte es importante. ¡Y cómo te sientes, también lo es!"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Genial! Es bueno saber que hoy te sientes bien."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "A veces las cosas van muy bien, a veces no tanto, y otras veces, simplemente no sabemos qué pensar… y eso está bien. Recuerda que no estás sola/o."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Lamento que las cosas estén siendo difíciles en este momento. Mereces cosas buenas, y @global.app_name está aquí para acompañarte en cada paso."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "quiz_1_feedback_1": "¡Genial! Es bueno saber que hoy te sientes bien.",
+      "quiz_1_feedback_2": "A veces las cosas van muy bien, a veces no tanto, y otras veces, simplemente no sabemos qué pensar… y eso está bien. Recuerda que no estás sola/o.",
+      "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles en este momento. Mereces cosas buenas, y @global.app_name está aquí para acompañarte en cada paso.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Tú desempeñas un papel importante en el aprendizaje de @fields.child_name y en cómo le da sentido a la vida."
+        },
+        "text_2": {
+          "eng": "Esta lección trata sobre cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos. 😃"
+        }
+      },
+      "text_1_facilitator": "Tú desempeñas un papel importante en el aprendizaje de @fields.child_name y en cómo le da sentido a la vida.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "text_2": "Esta lección trata sobre cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos. 😃",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Aquí tienes una historieta que trata sobre el establecimiento de metas y objetivos:"
+        },
+        "character_1_text": {
+          "eng": "@data.characters.f2_hijo_8.name, ya vas a empezar un nuevo año en la escuela y estoy muy emocionado por ti. ¿Cuáles son tus metas para este año?"
+        },
+        "character_2_text": {
+          "eng": "¡Quiero ser el mejor leyendo y contando historias!"
+        }
+      },
+      "text_1_facilitator": "Aquí tienes una historieta que trata sobre el establecimiento de metas y objetivos:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "image_asset": "images/comic/learn/help_child_learn_7to9_yc_1.svg",
+      "character_1_id": "f2_abuelo",
+      "character_2_id": "f2_hijo_8",
+      "character_1_text": "@data.characters.f2_hijo_8.name, ya vas a empezar un nuevo año en la escuela y estoy muy emocionado por ti. ¿Cuáles son tus metas para este año?",
+      "character_2_text": "¡Quiero ser el mejor leyendo y contando historias!",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Tu meta es buenísima, @data.characters.f2_hijo_8.name. ¿Qué crees que tendrás que hacer para llegar a ella?"
+        },
+        "character_2_text": {
+          "eng": "Mmm... ¡Quizá tenga que leer mínimo 15 minutos todos los días de este año!"
+        }
+      },
+      "image_asset": "images/comic/learn/help_child_learn_7to9_yc_2.svg",
+      "character_1_id": "f2_abuelo",
+      "character_2_id": "f2_hijo_8",
+      "character_1_text": "Tu meta es buenísima, @data.characters.f2_hijo_8.name. ¿Qué crees que tendrás que hacer para llegar a ella?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "Mmm... ¡Quizá tenga que leer mínimo 15 minutos todos los días de este año!",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Muy buena idea! ¡Podríamos hacerlo a la hora de dormir! ¿Y qué otra cosa puedes hacer para mejorar tus habilidades para contar historias?"
+        },
+        "character_2_text": {
+          "eng": "Bueno, tal vez podríamos inventar historias juntos, y tú podrías ayudarme con las palabras que no conozca, ¿sí?"
+        }
+      },
+      "image_asset": "images/comic/learn/help_child_learn_7to9_yc_3.svg",
+      "character_1_id": "f2_abuelo",
+      "character_2_id": "f2_hijo_8",
+      "character_1_text": "¡Muy buena idea! ¡Podríamos hacerlo a la hora de dormir! ¿Y qué otra cosa puedes hacer para mejorar tus habilidades para contar historias?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "Bueno, tal vez podríamos inventar historias juntos, y tú podrías ayudarme con las palabras que no conozca, ¿sí?",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "¡Haré lo mejor que pueda! Si trabajas duro y mantienes tu rutina de lectura todos los días, ¡Estoy seguro de que podrás lograr tu objetivo!"
+        }
+      },
+      "image_asset": "images/comic/learn/help_child_learn_7to9_yc_4.svg",
+      "character_1_id": "f2_abuelo",
+      "character_1_text": "¡Haré lo mejor que pueda! Si trabajas duro y mantienes tu rutina de lectura todos los días, ¡Estoy seguro de que podrás lograr tu objetivo!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "media_type": "video",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en Reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos:\n\n1️⃣ **ESTABLECER METAS**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **CONECTAR**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**"
+        }
+      },
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos:\n\n1️⃣ **ESTABLECER METAS**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **CONECTAR**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "**¡Actividad para casa!** ⭐ \n\nDedícale 5 minutos a @fields.child_name para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana."
+        },
+        "quiz_1_question": {
+          "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Excelente! Usa las estrategias que has aprendido hoy y ¡diviértete! Sentir alegría y felicidad durante el aprendizaje con @fields.child_name es una forma estupenda de motivarle para seguir aprendiendo. 💙"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana y ayudarle a estudiar o completar su trabajo escolar. ☀️"
+        }
+      },
+      "quiz_1_feedback_1": "¡Excelente! Usa las estrategias que has aprendido hoy y ¡diviértete! Sentir alegría y felicidad durante el aprendizaje con @fields.child_name es una forma estupenda de motivarle para seguir aprendiendo. 💙",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana y ayudarle a estudiar o completar su trabajo escolar. ☀️",
+      "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "**¡Actividad para casa!** ⭐ \n\nDedícale 5 minutos a @fields.child_name para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

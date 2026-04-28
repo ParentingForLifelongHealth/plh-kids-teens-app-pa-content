@@ -13,17 +13,17 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1_facilitator::eng": "La lección de habilidades de crianza para el día de hoy trata sobre cómo ayudar a {tu niño} a aprender de sus errores. 💚",
+      "text_1_facilitator::eng": "La lección de habilidades de crianza para el día de hoy trata sobre cómo ayudar a @fields.child_name a aprender de sus errores. 💚",
       "text_2::eng": "Aprender de nuestros errores puede ayudarnos a evitarlos en el futuro. 🌷\n\nTambién nos ayuda a ser personas más comprensivas y menos duras con nosotras mismas cuando las cosas no salen bien. 😃",
       "quiz_1_question::eng": "¡Hagamos un ejercicio! Ejercicio 1.\n\nSi mi niña o niño comprende su error y pide perdón, significa que puedo sacar a relucir otros errores que haya cometido para que aprenda.",
       "quiz_1_option_1_text::eng": "Verdadero",
-      "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n✨ {Tu niño} probablemente se sienta muy mal por haber cometido un error.\nFelicítale por haberse disculpado y demuéstrale que te da mucho orgullo que lo haya hecho. 💙\n\n😔 Si {tu niño} no siente tu apoyo, puede que tenga la tentación de ocultarte sus errores por miedo.",
+      "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n✨ @fields.child_name probablemente se sienta muy mal por haber cometido un error.\nFelicítale por haberse disculpado y demuéstrale que te da mucho orgullo que lo haya hecho. 💙\n\n😔 Si @fields.child_name no siente tu apoyo, puede que tenga la tentación de ocultarte sus errores por miedo.",
       "quiz_1_option_2_text::eng": "Falso",
-      "quiz_1_feedback_2::eng": "🌷 ¡Muy bien!\n\n✨ {Tu niño} probablemente se sienta muy mal por haber cometido un error.\nFelicítalo por haberse disculpado y demuéstrale que te da mucho orgullo que se haya dado cuenta y que haya pedido perdón. 💙\n\n😔 Si {tu niño} no siente tu apoyo, puede que tenga la tentación de ocultarte sus errores por miedo."
+      "quiz_1_feedback_2::eng": "🌷 ¡Muy bien!\n\n✨ @fields.child_name probablemente se sienta muy mal por haber cometido un error.\nFelicítalo por haberse disculpado y demuéstrale que te da mucho orgullo que se haya dado cuenta y que haya pedido perdón. 💙\n\n😔 Si @fields.child_name no siente tu apoyo, puede que tenga la tentación de ocultarte sus errores por miedo."
     },
     {
       "id": "explore_1",
-      "category_id": "Explore",
+      "category_id": "explore",
       "text_1_facilitator::eng": "@data.characters.f2_hijo_8.name está demasiado activo dentro de la casa el día de hoy. Veamos cómo reacciona su abuelo, @data.characters.f2_abuelo.name:",
       "image_asset": "images/comic/understand/learn_experience_yc_1.svg",
       "character_1_id": "f2_abuelo",
@@ -33,13 +33,13 @@
     },
     {
       "id": "explore_2",
-      "category_id": "Explore",
+      "category_id": "explore",
       "image_asset": "images/comic/understand/learn_experience_yc_2.svg",
       "text_2::eng": "@data.characters.f2_hijo_8.name choca contra una mesa y rompe un florero. @data.characters.f2_abuelo.name lo ve y se preocupa."
     },
     {
       "id": "explore_3",
-      "category_id": "Explore",
+      "category_id": "explore",
       "image_asset": "images/comic/understand/learn_experience_yc_3.svg",
       "character_1_id": "f2_abuelo",
       "character_1_text::eng": "¿Te lastimaste?",
@@ -48,7 +48,7 @@
     },
     {
       "id": "explore_4",
-      "category_id": "Explore",
+      "category_id": "explore",
       "image_asset": "images/comic/understand/learn_experience_yc_4.svg",
       "character_1_id": "f2_abuelo",
       "character_1_text::eng": "Gracias por darte cuenta de tu error y por disculparte. ¿Sabes cómo podrías haber evitado que esto pasara?",
@@ -57,7 +57,7 @@
     },
     {
       "id": "explore_5",
-      "category_id": "Explore",
+      "category_id": "explore",
       "image_asset": "images/comic/understand/learn_experience_yc_5.svg",
       "character_1_id": "f2_abuelo",
       "character_1_text::eng": "Está bien, @data.characters.f2_hijo_8.name. Estoy orgulloso de que seas capaz de aprender de tus errores. Vamos a buscar una escoba y un trapo para recoger esto. Igual y se puede arreglar el florero con un poco de pegamento.",
@@ -67,17 +67,17 @@
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "text_1_facilitator::eng": "Da clic en Reproducir ▶️ para aprender ️algunas estrategias que puedes seguir para ayudar a {tu niño} a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**",
+      "text_1_facilitator::eng": "Da clic en Reproducir ▶️ para aprender ️algunas estrategias que puedes seguir para ayudar a @fields.child_name a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**",
       "media_type": "video",
       "youtube_gb_en": "youtube link"
     },
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "**_Actividad para casa_**⭐ \n\nComparte una historia con {tu niño} sobre un momento en el que aprendiste de un error. Puede ser algo de cuando tú eras menor u otra lección de vida que hayas tenido.",
+      "text_1_facilitator::eng": "**_Actividad para casa_**⭐ \n\nComparte una historia con @fields.child_name sobre un momento en el que aprendiste de un error. Puede ser algo de cuando tú eras menor u otra lección de vida que hayas tenido.",
       "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text::eng": "Sí",
-      "quiz_1_feedback_1::eng": "¡Maravilloso!\n💙 Usa estas estrategias que aprendiste hoy para ayudar a {tu niño} a fortalecer sus habilidades mentales y emocionales.",
+      "quiz_1_feedback_1::eng": "¡Maravilloso!\n💙 Usa estas estrategias que aprendiste hoy para ayudar a @fields.child_name a fortalecer sus habilidades mentales y emocionales.",
       "quiz_1_option_2_text::eng": "No",
       "quiz_1_feedback_2::eng": "Si hoy no puedes, aparta un tiempo para mañana u otro día de la semana."
     }

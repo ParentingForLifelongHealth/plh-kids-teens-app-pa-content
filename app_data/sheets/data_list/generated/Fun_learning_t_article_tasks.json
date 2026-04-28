@@ -76,18 +76,18 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Esta lección trata sobre cómo ayudar a {tu adolescente} a disfrutar de su aprendizaje para que sea algo que le guste y le sea divertido. 😃"
+          "eng": "Esta lección trata sobre cómo ayudar a @fields.child_name a disfrutar de su aprendizaje para que sea algo que le guste y le sea divertido. 😃"
         },
         "text_2": {
-          "eng": "Como madre, padre o persona cuidadora, desempeñas un papel importante en el modo en que {tu adolescente} aprende y se desarrolla dentro y fuera de la escuela."
+          "eng": "Como madre, padre o persona cuidadora, desempeñas un papel importante en el modo en que @fields.child_name aprende y se desarrolla dentro y fuera de la escuela."
         }
       },
-      "text_1_facilitator": "Esta lección trata sobre cómo ayudar a {tu adolescente} a disfrutar de su aprendizaje para que sea algo que le guste y le sea divertido. 😃",
+      "text_1_facilitator": "Esta lección trata sobre cómo ayudar a @fields.child_name a disfrutar de su aprendizaje para que sea algo que le guste y le sea divertido. 😃",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {}
       },
-      "text_2": "Como madre, padre o persona cuidadora, desempeñas un papel importante en el modo en que {tu adolescente} aprende y se desarrolla dentro y fuera de la escuela.",
+      "text_2": "Como madre, padre o persona cuidadora, desempeñas un papel importante en el modo en que @fields.child_name aprende y se desarrolla dentro y fuera de la escuela.",
       "completed": false
     },
     {
@@ -191,7 +191,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_¡Actividad para casa!_** ⭐ \n\nInvita a {tu adolescente} a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar fútbol, saltar o salir a correr. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando."
+          "eng": "**¡Actividad para casa!** ⭐ \n\nInvita a @fields.child_name a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar fútbol, saltar o salir a correr. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
@@ -222,7 +222,7 @@
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**_¡Actividad para casa!_** ⭐ \n\nInvita a {tu adolescente} a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar fútbol, saltar o salir a correr. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando.",
+      "text_1_facilitator": "**¡Actividad para casa!** ⭐ \n\nInvita a @fields.child_name a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar fútbol, saltar o salir a correr. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando.",
       "completed": false
     }
   ],

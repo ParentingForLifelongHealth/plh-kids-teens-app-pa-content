@@ -10,14 +10,14 @@
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "La lección de estrategias de crianza para el día de hoy trata sobre cómo ayudar a {tu adolescente} a aprender de sus errores.",
+      "text_1_facilitator": "La lección de estrategias de crianza para el día de hoy trata sobre cómo ayudar a @fields.child_name a aprender de sus errores.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "La lección de estrategias de crianza para el día de hoy trata sobre cómo ayudar a {tu adolescente} a aprender de sus errores."
+          "eng": "La lección de estrategias de crianza para el día de hoy trata sobre cómo ayudar a @fields.child_name a aprender de sus errores."
         },
         "text_2": {
           "eng": "Aprender de nuestros errores puede ayudar a evitarlos en el futuro. También puede ayudar a tratarnos con más empatía y con menos dureza cuando las cosas no van bien. 😃"
@@ -124,13 +124,13 @@
       "media_type": "video",
       "youtube_gb_en": "youtube link",
       "nested": false,
-      "text_1_facilitator": "Da clic en reproducir ▶️ para ver cómo ayudar a {tu adolescente} a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**",
+      "text_1_facilitator": "Da clic en reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da clic en reproducir ▶️ para ver cómo ayudar a {tu adolescente} a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**"
+          "eng": "Da clic en reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**"
         }
       }
     },
@@ -138,7 +138,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "**_¡Actividad para casa!_** ⭐ \n\nComparte con tu adolescente alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste.",
+      "text_1_facilitator": "**¡Actividad para casa!** ⭐ \n\nComparte con tu adolescente alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -149,7 +149,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_¡Actividad para casa!_** ⭐ \n\nComparte con tu adolescente alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste."
+          "eng": "**¡Actividad para casa!** ⭐ \n\nComparte con tu adolescente alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"

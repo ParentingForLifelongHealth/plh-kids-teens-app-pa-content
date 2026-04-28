@@ -13,13 +13,13 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1_facilitator::eng": "Esta lección trata sobre cómo crear un ambiente positivo para el aprendizaje de {tu niño}.",
-      "text_2::eng": "{Tu niño} aprenderá mucho mejor estando en un ambiente que apoye y fomente su aprendizaje. 😃"
+      "text_1_facilitator::eng": "Esta lección trata sobre cómo crear un ambiente positivo para el aprendizaje de @fields.child_name.",
+      "text_2::eng": "@fields.child_name aprenderá mucho mejor estando en un ambiente que apoye y fomente su aprendizaje. 😃"
     },
     {
       "id": "explore_1",
       "category_id": "explore",
-      "text_1_facilitator::eng": "Aquí tienes una historieta sobre crear ambientes positivos para {tu niño}:",
+      "text_1_facilitator::eng": "Aquí tienes una historieta sobre crear ambientes positivos para @fields.child_name:",
       "image_asset": "images/comic/learn/positive_learning_7to9_yc_1.svg",
       "character_1_id": "f3_hija_7",
       "character_1_text::eng": "Papá, ¡ya llegué!",
@@ -57,17 +57,17 @@
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "text_1_facilitator::eng": "Da Clic en Reproducir ▶️ para ver cómo a apoyar a {tu niño} a crear un ambiente positivo para su aprendizaje:\n\n1️⃣ **PROCURAR SILENCIO**\n2️⃣ **CREAR RUTINAS**\n3️⃣ **APOYAR**",
+      "text_1_facilitator::eng": "Da Clic en Reproducir ▶️ para ver cómo a apoyar a @fields.child_name a crear un ambiente positivo para su aprendizaje:\n\n1️⃣ **PROCURAR SILENCIO**\n2️⃣ **CREAR RUTINAS**\n3️⃣ **APOYAR**",
       "media_type": "video",
       "youtube_gb_en": "youtube link"
     },
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "**_Actividad para casa_**⭐\n\nPlatica con {tu niño} para encontrar un lugar de estudio adecuado en tu casa.",
+      "text_1_facilitator::eng": "**Actividad para casa**⭐\n\nPlatica con @fields.child_name para encontrar un lugar de estudio adecuado en tu casa.",
       "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text::eng": "Sí",
-      "quiz_1_feedback_1::eng": "¡Muy bien! Utiliza las estrategias que has aprendido hoy para impulsar a {tu niño} hacia un mejor aprovechamiento académico. 💙",
+      "quiz_1_feedback_1::eng": "¡Muy bien! Utiliza las estrategias que has aprendido hoy para impulsar a @fields.child_name hacia un mejor aprovechamiento académico. 💙",
       "quiz_1_option_2_text::eng": "No",
       "quiz_1_feedback_2::eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana."
     }

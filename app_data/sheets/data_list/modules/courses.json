@@ -42,74 +42,21 @@
       }
     },
     {
-      "id": "understand_c",
+      "id": "ipv",
       "core": false,
       "tag_list": [
-        "child"
-      ],
-      "image_asset": "images/homescreen/courses/understand_c.svg",
-      "completed": false,
-      "title": "Entender el desarrollo de mi niña o niño",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Entender el desarrollo de mi niña o niño"
-        }
-      }
-    },
-    {
-      "id": "understand_t",
-      "core": false,
-      "tag_list": [
+        "child",
         "teen"
       ],
-      "image_asset": "images/homescreen/courses/understand_t.svg",
+      "image_asset": "images/homescreen/courses/ipv.svg",
       "completed": false,
-      "title": "Cuidar del bienestar de mi adolescente y del mío",
+      "title": "Responsabilidad e involucramiento en la crianza compartida",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Cuidar del bienestar de mi adolescente y del mío"
-        }
-      }
-    },
-    {
-      "id": "behave_c",
-      "core": false,
-      "tag_list": [
-        "child"
-      ],
-      "image_asset": "images/homescreen/courses/behave_c.svg",
-      "completed": false,
-      "title": "Guiar el buen comportamiento de mi niña o niño",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Guiar el buen comportamiento de mi niña o niño"
-        }
-      }
-    },
-    {
-      "id": "behave_t",
-      "core": false,
-      "tag_list": [
-        "teen"
-      ],
-      "image_asset": "images/homescreen/courses/behave_t.svg",
-      "completed": false,
-      "title": "Guiar el buen comportamiento de mi adolescente",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Guiar el buen comportamiento de mi adolescente"
+          "eng": "Responsabilidad e involucramiento en la crianza compartida"
         }
       }
     },
@@ -150,6 +97,42 @@
       }
     },
     {
+      "id": "behave_c",
+      "core": false,
+      "tag_list": [
+        "child"
+      ],
+      "image_asset": "images/homescreen/courses/behave_c.svg",
+      "completed": false,
+      "title": "Guiar el buen comportamiento de mi niña o niño",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Guiar el buen comportamiento de mi niña o niño"
+        }
+      }
+    },
+    {
+      "id": "behave_t",
+      "core": false,
+      "tag_list": [
+        "teen"
+      ],
+      "image_asset": "images/homescreen/courses/behave_t.svg",
+      "completed": false,
+      "title": "Guiar el buen comportamiento de mi adolescente",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Guiar el buen comportamiento de mi adolescente"
+        }
+      }
+    },
+    {
       "id": "learn_c",
       "core": false,
       "tag_list": [
@@ -186,21 +169,38 @@
       }
     },
     {
-      "id": "ipv",
+      "id": "understand_c",
       "core": false,
       "tag_list": [
-        "child",
-        "teen"
+        "child"
       ],
-      "image_asset": "images/homescreen/courses/ipv.svg",
+      "image_asset": "images/homescreen/courses/understand_c.svg",
       "completed": false,
-      "title": "Responsabilidad e involucramiento en la crianza compartida",
+      "title": "Entender el desarrollo de mi niña o niño",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Responsabilidad e involucramiento en la crianza compartida"
+          "eng": "Entender el desarrollo de mi niña o niño"
+        }
+      }
+    },
+    {
+      "id": "understand_t",
+      "core": false,
+      "tag_list": [
+        "teen"
+      ],
+      "image_asset": "images/homescreen/courses/understand_t.svg",
+      "completed": false,
+      "title": "Cuidar del bienestar de mi adolescente y del mío",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Cuidar del bienestar de mi adolescente y del mío"
         }
       }
     }

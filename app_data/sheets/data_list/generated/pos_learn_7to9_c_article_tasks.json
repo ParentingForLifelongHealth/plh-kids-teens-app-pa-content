@@ -76,18 +76,18 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Esta lección trata sobre cómo crear un ambiente positivo para el aprendizaje de {tu niño}."
+          "eng": "Esta lección trata sobre cómo crear un ambiente positivo para el aprendizaje de @fields.child_name."
         },
         "text_2": {
-          "eng": "{Tu niño} aprenderá mucho mejor estando en un ambiente que apoye y fomente su aprendizaje. 😃"
+          "eng": "@fields.child_name aprenderá mucho mejor estando en un ambiente que apoye y fomente su aprendizaje. 😃"
         }
       },
-      "text_1_facilitator": "Esta lección trata sobre cómo crear un ambiente positivo para el aprendizaje de {tu niño}.",
+      "text_1_facilitator": "Esta lección trata sobre cómo crear un ambiente positivo para el aprendizaje de @fields.child_name.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {}
       },
-      "text_2": "{Tu niño} aprenderá mucho mejor estando en un ambiente que apoye y fomente su aprendizaje. 😃",
+      "text_2": "@fields.child_name aprenderá mucho mejor estando en un ambiente que apoye y fomente su aprendizaje. 😃",
       "completed": false
     },
     {
@@ -96,7 +96,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Aquí tienes una historieta sobre crear ambientes positivos para {tu niño}:"
+          "eng": "Aquí tienes una historieta sobre crear ambientes positivos para @fields.child_name:"
         },
         "character_1_text": {
           "eng": "Papá, ¡ya llegué!"
@@ -105,7 +105,7 @@
           "eng": "Bienvenida a casa, @data.characters.f3_hija_7.name. ¿Tuviste un buen día en la escuela?"
         }
       },
-      "text_1_facilitator": "Aquí tienes una historieta sobre crear ambientes positivos para {tu niño}:",
+      "text_1_facilitator": "Aquí tienes una historieta sobre crear ambientes positivos para @fields.child_name:",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
@@ -193,10 +193,10 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da Clic en Reproducir ▶️ para ver cómo a apoyar a {tu niño} a crear un ambiente positivo para su aprendizaje:\n\n1️⃣ **PROCURAR SILENCIO**\n2️⃣ **CREAR RUTINAS**\n3️⃣ **APOYAR**"
+          "eng": "Da Clic en Reproducir ▶️ para ver cómo a apoyar a @fields.child_name a crear un ambiente positivo para su aprendizaje:\n\n1️⃣ **PROCURAR SILENCIO**\n2️⃣ **CREAR RUTINAS**\n3️⃣ **APOYAR**"
         }
       },
-      "text_1_facilitator": "Da Clic en Reproducir ▶️ para ver cómo a apoyar a {tu niño} a crear un ambiente positivo para su aprendizaje:\n\n1️⃣ **PROCURAR SILENCIO**\n2️⃣ **CREAR RUTINAS**\n3️⃣ **APOYAR**",
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para ver cómo a apoyar a @fields.child_name a crear un ambiente positivo para su aprendizaje:\n\n1️⃣ **PROCURAR SILENCIO**\n2️⃣ **CREAR RUTINAS**\n3️⃣ **APOYAR**",
       "_translations": {
         "text_1_facilitator": {}
       },
@@ -209,7 +209,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**⭐\n\nPlatica con {tu niño} para encontrar un lugar de estudio adecuado en tu casa."
+          "eng": "**Actividad para casa**⭐\n\nPlatica con @fields.child_name para encontrar un lugar de estudio adecuado en tu casa."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
@@ -218,7 +218,7 @@
           "eng": "Sí"
         },
         "quiz_1_feedback_1": {
-          "eng": "¡Muy bien! Utiliza las estrategias que has aprendido hoy para impulsar a {tu niño} hacia un mejor aprovechamiento académico. 💙"
+          "eng": "¡Muy bien! Utiliza las estrategias que has aprendido hoy para impulsar a @fields.child_name hacia un mejor aprovechamiento académico. 💙"
         },
         "quiz_1_option_2_text": {
           "eng": "No"
@@ -227,7 +227,7 @@
           "eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana."
         }
       },
-      "quiz_1_feedback_1": "¡Muy bien! Utiliza las estrategias que has aprendido hoy para impulsar a {tu niño} hacia un mejor aprovechamiento académico. 💙",
+      "quiz_1_feedback_1": "¡Muy bien! Utiliza las estrategias que has aprendido hoy para impulsar a @fields.child_name hacia un mejor aprovechamiento académico. 💙",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
@@ -240,7 +240,7 @@
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**_Actividad para casa_**⭐\n\nPlatica con {tu niño} para encontrar un lugar de estudio adecuado en tu casa.",
+      "text_1_facilitator": "**Actividad para casa**⭐\n\nPlatica con @fields.child_name para encontrar un lugar de estudio adecuado en tu casa.",
       "completed": false
     }
   ],

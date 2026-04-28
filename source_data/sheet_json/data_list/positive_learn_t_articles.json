@@ -13,8 +13,8 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1_facilitator::eng": "Esta lección trata sobre cómo crear un espacio de aprendizaje positivo para  {tu adolescente}.",
-      "text_2::eng": "{Tu adolescente} aprenderá mucho mejor cuando se encuentre en un espacio que apoye y fomente su aprendizaje. 😃"
+      "text_1_facilitator::eng": "Esta lección trata sobre cómo crear un espacio de aprendizaje positivo para  @fields.child_name.",
+      "text_2::eng": "@fields.child_name aprenderá mucho mejor cuando se encuentre en un espacio que apoye y fomente su aprendizaje. 😃"
     },
     {
       "id": "explore_1",
@@ -64,7 +64,7 @@
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "**_¡Actividad para casa!_**⭐  \n\nConversa con tu adolescente para encontrar un lugar de estudio adecuado en tu casa.",
+      "text_1_facilitator::eng": "**¡Actividad para casa!**⭐  \n\nConversa con tu adolescente para encontrar un lugar de estudio adecuado en tu casa.",
       "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰ ",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Muy bien! Utiliza las estrategias que has aprendido hoy para impulsar a tu adolescente hacia el aprovechamiento académico. 💙",

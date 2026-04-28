@@ -113,8 +113,93 @@
       "exclude_from_translation": true
     },
     {
+      "name": "district_name"
+    },
+    {
+      "type": "data_items",
+      "name": "get_district_name",
+      "value": "@data.user_location",
+      "action_list": "data_changed | set_local : district_name: @items[0]?.text::eng;",
+      "parameter_list": "filter:  @item.id == @local.user_location_select;\nlimit: 1;",
+      "__EMPTY": true
+    },
+    {
+      "type": "text",
+      "name": "question_user_district_undef",
+      "value": "@global.question_user_district_undefined",
+      "parameter_list": "style: emphasised;",
+      "condition": "!@local.user_location_select"
+    },
+    {
+      "type": "text",
+      "name": "question_user_district",
+      "value": "@global.question_user_district",
+      "parameter_list": "style: emphasised;",
+      "condition": "!!@local.user_location_select"
+    },
+    {
+      "type": "begin_combo_box",
+      "name": "user_district_select",
+      "value": "@fields.user_location_district",
+      "parameter_list": "placeholder: @global.placeholder_user_district;\nvariant: dropdown;",
+      "condition": "!!@fields.user_location_district",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_data_items",
+      "value": "user_location_district",
+      "parameter_list": "filter: @item.province == @local.user_location_select",
+      "condition": "!!@fields.user_location_district",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_data_items",
+      "condition": "!!@fields.user_location_district",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_combo_box",
+      "condition": "!!@fields.user_location_district",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_combo_box",
+      "name": "user_district_select",
+      "parameter_list": "placeholder: @global.placeholder_user_district;\nvariant: dropdown;",
+      "condition": "!@fields.user_location_district",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_data_items",
+      "value": "user_location_district",
+      "parameter_list": "filter: @item.province == @local.user_location_select",
+      "condition": "!@fields.user_location_district && !!@local.user_location_select",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_data_items",
+      "condition": "!@fields.user_location_district && !!@local.user_location_select",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_data_items",
+      "value": "user_location_district",
+      "condition": "!@fields.user_location_district && !@local.user_location_select",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_data_items",
+      "condition": "!@fields.user_location_district && !@local.user_location_select",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_combo_box",
+      "condition": "!@fields.user_location_district",
+      "exclude_from_translation": true
+    },
+    {
       "name": "completed_enabled",
-      "value": "!!@local.user_name_input && !!@local.user_gender_select && !!@local.user_location_select",
+      "value": "!!@local.user_name_input && !!@local.user_gender_select && !!@local.user_location_select && !!@local.user_district_select",
       "exclude_from_translation": true
     },
     {
@@ -133,7 +218,7 @@
       "type": "button",
       "name": "button_completed",
       "value": "@global.continue",
-      "action_list": "click | set_field: user_name: @local.user_name_input;\nclick | set_field: certificate_name: @local.user_name_input;\nclick | set_field: user_gender: @local.user_gender_select;\nclick | set_field: user_location: @local.user_location_select;\nclick | emit: completed;",
+      "action_list": "click | set_field: user_name: @local.user_name_input;\nclick | set_field: certificate_name: @local.user_name_input;\nclick | set_field: user_gender: @local.user_gender_select;\nclick | set_field: user_location: @local.user_location_select;\nclick | set_field: user_location_district: @local.user_district_select;\nclick | emit: completed;",
       "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
       "style_list": "flex: 1"
     },

@@ -1,0 +1,306 @@
+{
+  "flow_name": "consequences_c_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_5",
+      "in_library": "yes",
+      "title_eng": "In and out",
+      "title": "Inhala y exhala",
+      "lottie_asset": "lottie/relax/blue_dots.json",
+      "media_asset": "audio/relax/relax_5.m4a",
+      "media_type": "audio",
+      "transcript_1_eng": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
+      "transcript_1_spanish": "Cierra los ojos.\n\nEscucha tu respiración mientras entra y sale cinco veces.\n\nNota cómo te sientes.\n\nCuando estés listo(a), abre los ojos otra vez. ¡Tú tienes el control!",
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_35",
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "¡Tú importas! Tómate un momento para conectar contigo.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "¡Tú importas! Tómate un momento para conectar contigo."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Que gusto saber que te sientes bien. ¡Eres una gran persona cuidadora!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Lamento que no esté siendo un buen día. Estás haciendo un gran trabajo intentando solucionarlo. Recuerda que nadie tiene todas las respuestas, y que estás haciendo lo mejor que puedes."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Siento que hoy no esté siendo un buen día. Estás haciendo un gran trabajo al seguir intentándolo, incluso cuando estás cansada/o. Eso es verdadera valentía y compromiso."
+        },
+        "quiz_1_question": {
+          "eng": "¿Cómo te sientes el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feliz"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Bien"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Triste"
+        }
+      },
+      "quiz_1_feedback_1": "Que gusto saber que te sientes bien. ¡Eres una gran persona cuidadora!",
+      "quiz_1_feedback_2": "Lamento que no esté siendo un buen día. Estás haciendo un gran trabajo intentando solucionarlo. Recuerda que nadie tiene todas las respuestas, y que estás haciendo lo mejor que puedes.",
+      "quiz_1_feedback_3": "Siento que hoy no esté siendo un buen día. Estás haciendo un gran trabajo al seguir intentándolo, incluso cuando estás cansada/o. Eso es verdadera valentía y compromiso.",
+      "quiz_1_question": "¿Cómo te sientes el día de hoy?",
+      "quiz_1_option_1_text": "Feliz",
+      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_3_text": "Triste",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Hoy aprenderás qué hacer cuando tu niña o niño se niegue a seguir una instrucción, olvide una regla familiar o se comporte de manera agresiva o riesgosa. 😔"
+        },
+        "text_2": {
+          "eng": "Las niñas y los niños siguen aprendiendo qué acciones son apropiadas en distintas situaciones y cuáles no. 👀\n\nLas consecuencias les enseñan que sus acciones les afectan a ellas, ellos y a las demás personas. ❗\n\nEs importante que nuestras niñas y niños aprendan esto a medida que van creciendo. 🌱\n\nAsignar consecuencias claras es más efectivo para enseñarles a las niñas y los niños a responsabilizarse de sus acciones en vez de los gritos y los golpes. 💙"
+        },
+        "quiz_1_question": {
+          "eng": "¡Hagamos un ejercicio!\n\nEjercicio 1. \n\nPuedo elegir cualquier consecuencia para mi niña o niño."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Verdadero"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n💡 Es más fácil que tu niña o niño siga la regla si la consecuencia está relacionada con la regla.\n\n📺 Por ejemplo, si @fields.child_name no quiere dejar de ver el celular o la Tablet, @fields.child_name no podrá usarlos mañana."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Falso"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 ¡Buen trabajo!\n\n💡 Es más fácil que tu niña o niño siga la regla si la consecuencia está relacionada con la regla.\n\n📺 Por ejemplo, si @fields.child_name no quiere dejar de ver el celular o la Tablet, @fields.child_name no podrá usarlos mañana."
+        }
+      },
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n💡 Es más fácil que tu niña o niño siga la regla si la consecuencia está relacionada con la regla.\n\n📺 Por ejemplo, si @fields.child_name no quiere dejar de ver el celular o la Tablet, @fields.child_name no podrá usarlos mañana.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "quiz_1_feedback_2": "🎉 ¡Buen trabajo!\n\n💡 Es más fácil que tu niña o niño siga la regla si la consecuencia está relacionada con la regla.\n\n📺 Por ejemplo, si @fields.child_name no quiere dejar de ver el celular o la Tablet, @fields.child_name no podrá usarlos mañana.",
+      "quiz_1_question": "¡Hagamos un ejercicio!\n\nEjercicio 1. \n\nPuedo elegir cualquier consecuencia para mi niña o niño.",
+      "quiz_1_option_1_text": "Verdadero",
+      "quiz_1_option_2_text": "Falso",
+      "text_1_facilitator": "Hoy aprenderás qué hacer cuando tu niña o niño se niegue a seguir una instrucción, olvide una regla familiar o se comporte de manera agresiva o riesgosa. 😔",
+      "text_2": "Las niñas y los niños siguen aprendiendo qué acciones son apropiadas en distintas situaciones y cuáles no. 👀\n\nLas consecuencias les enseñan que sus acciones les afectan a ellas, ellos y a las demás personas. ❗\n\nEs importante que nuestras niñas y niños aprendan esto a medida que van creciendo. 🌱\n\nAsignar consecuencias claras es más efectivo para enseñarles a las niñas y los niños a responsabilizarse de sus acciones en vez de los gritos y los golpes. 💙",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Es hora de cenar pero @data.characters.f3_hija_7.name prefiere jugar. Mira cómo responde su madre, @data.characters.f3_madre.name"
+        },
+        "character_1_text": {
+          "eng": "Estás jugando muy bien y de manera muy creativa, @data.characters.f3_hija_7.name. Dentro de 5 minutos, será hora de levantar tus juguetes."
+        }
+      },
+      "text_1_facilitator": "Es hora de cenar pero @data.characters.f3_hija_7.name prefiere jugar. Mira cómo responde su madre, @data.characters.f3_madre.name",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
+      },
+      "image_asset": "images/comic/behave/consequences_yc_1.svg",
+      "character_1_id": "f3_madre",
+      "character_1_text": "Estás jugando muy bien y de manera muy creativa, @data.characters.f3_hija_7.name. Dentro de 5 minutos, será hora de levantar tus juguetes.",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Pasan los 5 minutos."
+        },
+        "character_1_text": {
+          "eng": "Es hora de guardar los juguetes en la canasta."
+        },
+        "character_2_text": {
+          "eng": "No."
+        }
+      },
+      "text_2": "Pasan los 5 minutos.",
+      "_translations": {
+        "text_2": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "image_asset": "images/comic/behave/consequences_yc_2.svg",
+      "character_1_id": "f3_madre",
+      "character_1_text": "Es hora de guardar los juguetes en la canasta.",
+      "character_2_id": "f3_hija_7",
+      "character_2_text": "No.",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Por favor guarda los juguetes ahora, para que puedas jugar con ellos después de cenar."
+        },
+        "character_2_text": {
+          "eng": "¡No mamá, no quiero!"
+        }
+      },
+      "image_asset": "images/comic/behave/consequences_yc_3.svg",
+      "character_1_id": "f3_madre",
+      "character_1_text": "Por favor guarda los juguetes ahora, para que puedas jugar con ellos después de cenar.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_id": "f3_hija_7",
+      "character_2_text": "¡No mamá, no quiero!",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Como no hiciste caso, @data.characters.f3_hija_7.name, mañana en la mañana no podrás jugar con tus juguetes. Ahora ven a lavarte las manos."
+        }
+      },
+      "image_asset": "images/comic/behave/consequences_yc_4.svg",
+      "character_1_id": "f3_madre",
+      "character_1_text": "Como no hiciste caso, @data.characters.f3_hija_7.name, mañana en la mañana no podrás jugar con tus juguetes. Ahora ven a lavarte las manos.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Gracias por lavarte las manos, @data.characters.f3_hija_7.name."
+        }
+      },
+      "image_asset": "images/comic/behave/consequences_yc_5.svg",
+      "character_1_id": "f3_madre",
+      "character_1_text": "Gracias por lavarte las manos, @data.characters.f3_hija_7.name.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "practical_tips_1",
+      "media_type": "video",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da Clic en Reproducir ▶️ para aprender 4️⃣ cuatro pasos para asignar consecuencias con tu niña o niño:\n\n1️⃣ **MANTENER LA CALMA**\n2️⃣ **ACTUAR DE FORMA JUSTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **MANTENERLO POSITIVO**"
+        }
+      },
+      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender 4️⃣ cuatro pasos para asignar consecuencias con tu niña o niño:\n\n1️⃣ **MANTENER LA CALMA**\n2️⃣ **ACTUAR DE FORMA JUSTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **MANTENERLO POSITIVO**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "youtube link",
+      "completed": false
+    },
+    {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Recuerda las cuatro estrategias para poder asignar consecuencias cuando tu niña o niño presente un comportamiento que pueda generar problemas"
+        }
+      },
+      "text_1_facilitator": "4️⃣ Recuerda las cuatro estrategias para poder asignar consecuencias cuando tu niña o niño presente un comportamiento que pueda generar problemas",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "**_Actividad para casa_**⭐ \n\nTu Actividad para casa de hoy consiste en elogiar a @fields.child_name por una cosa que te gustaría que siguiera haciendo. Si @fields.child_name se niega a seguir instrucciones u olvida una regla de la casa, puedes darle una consecuencia relacionada con el comportamiento. Recuerda que es importante ser equitativos, constantes y mantener la calma al dar una consecuencia.\n\nSi el comportamiento de tu niña o niño sigue siendo negativo, dile cómo te sientes, con un tono tranquilo, y dale una consecuencia justa por su comportamiento.⭐"
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes elogiar a @fields.child_name por su comportamiento positivo el día de hoy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Bien hecho! 🎉 elogiar a @fields.child_name por sus acciones, aumenta la probabilidad de que vuelva a repetir este comportamiento positivo. De este modo, ¡es menos probable que tengas que recurrir a las consecuencias! 😃\n\nSi el comportamiento de @fields.child_name sigue siendo negativo, dile cómo te sientes, con un tono tranquilo, y dale una consecuencia justa por su comportamiento. ⭐"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "¡Aprender a manejar el comportamiento de tu niña o niño es algo difícil! 😣\n\nLos golpes y los gritos son dañinos para el bienestar de tu niña o niño y pueden afectar tu relación con @fields.child_name a lo largo del tiempo.❗\n\nLa próxima vez que @fields.child_name se porte bien, reconócele por ello, ¡aunque sea algo pequeño! De este modo, puede que ni siquiera sea necesario el aplicar consecuencias en el futuro.\n\nSi @fields.child_name se sigue portando mal, tranquilamente dile cómo te sientes y aplica una consecuencia justa por su comportamiento. Puede que en el futuro veas cómo cambia su comportamiento. ⭐"
+        }
+      },
+      "quiz_1_feedback_1": "¡Bien hecho! 🎉 elogiar a @fields.child_name por sus acciones, aumenta la probabilidad de que vuelva a repetir este comportamiento positivo. De este modo, ¡es menos probable que tengas que recurrir a las consecuencias! 😃\n\nSi el comportamiento de @fields.child_name sigue siendo negativo, dile cómo te sientes, con un tono tranquilo, y dale una consecuencia justa por su comportamiento. ⭐",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "¡Aprender a manejar el comportamiento de tu niña o niño es algo difícil! 😣\n\nLos golpes y los gritos son dañinos para el bienestar de tu niña o niño y pueden afectar tu relación con @fields.child_name a lo largo del tiempo.❗\n\nLa próxima vez que @fields.child_name se porte bien, reconócele por ello, ¡aunque sea algo pequeño! De este modo, puede que ni siquiera sea necesario el aplicar consecuencias en el futuro.\n\nSi @fields.child_name se sigue portando mal, tranquilamente dile cómo te sientes y aplica una consecuencia justa por su comportamiento. Puede que en el futuro veas cómo cambia su comportamiento. ⭐",
+      "quiz_1_question": "¿Puedes elogiar a @fields.child_name por su comportamiento positivo el día de hoy?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nTu Actividad para casa de hoy consiste en elogiar a @fields.child_name por una cosa que te gustaría que siguiera haciendo. Si @fields.child_name se niega a seguir instrucciones u olvida una regla de la casa, puedes darle una consecuencia relacionada con el comportamiento. Recuerda que es importante ser equitativos, constantes y mantener la calma al dar una consecuencia.\n\nSi el comportamiento de tu niña o niño sigue siendo negativo, dile cómo te sientes, con un tono tranquilo, y dale una consecuencia justa por su comportamiento.⭐",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

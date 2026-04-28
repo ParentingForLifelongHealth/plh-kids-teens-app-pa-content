@@ -76,10 +76,10 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Es normal que te sientas mal cuando {tu adolescente} no cumple tus expectativas o se porta mal.\n\nEn esta lección, aprenderemos cómo responderle a nuestro adolescente cuando estamos en una situación que nos hace sentir molestos o enojados."
+          "eng": "Es normal que te sientas mal cuando @fields.child_name no cumple tus expectativas o se porta mal.\n\nEn esta lección, aprenderemos cómo responderle a nuestro adolescente cuando estamos en una situación que nos hace sentir molestos o enojados."
         },
         "text_2": {
-          "eng": "El enojo es una emoción importante porque nos permite expresarnos y poner límites. En lugar de ignorarla, deberíamos aprender a ELOGIARla y regularla de manera saludable.\n\n🌱 Cuando logras regular tu enojo, cuidas de ti. Escucha tus sentimientos, toma mejores decisiones y enséñale a {tu adolescente} a regular su propio enojo."
+          "eng": "El enojo es una emoción importante porque nos permite expresarnos y poner límites. En lugar de ignorarla, deberíamos aprender a ELOGIARla y regularla de manera saludable.\n\n🌱 Cuando logras regular tu enojo, cuidas de ti. Escucha tus sentimientos, toma mejores decisiones y enséñale a @fields.child_name a regular su propio enojo."
         },
         "quiz_1_question": {
           "eng": "Hagamos un ejercicio:\n\nResponde: ¿Verdadero o falso?\n\nEstá bien alzarle la voz o gritarle a mi adolescente cuando siento enojo."
@@ -97,19 +97,19 @@
           "eng": "🎉 ¡Genial!\n\n🎨 Nuestras reacciones ante situaciones difíciles se ven afectadas por nuestros propios pensamientos y sentimientos y no solamente por las acciones de otras personas.\n\nEstá bien sentir enojo, a veces, pero es importante aprender a responder con calma incluso cuando sentimos mucho enojo.\n\nLa mayoría de las veces, cuando reaccionamos con ira o enojo, puede hacer que nuestras niñas, niños y adolescentes sientan miedo o estrés y se porten peor o se comporten de manera agresiva."
         },
         "quiz_2_question": {
-          "eng": "Una más. Responde ¿Verdadero o Falso?\n\nNo está bien que {tu adolescente} se enoje contigo."
+          "eng": "Una más. Responde ¿Verdadero o Falso?\n\nNo está bien que @fields.child_name se enoje contigo."
         },
         "quiz_2_option_1_text": {
           "eng": "Verdadero"
         },
         "quiz_2_feedback_1": {
-          "eng": "👀 ¡Ups! ¡Buen intento!\n\n{tu adolescente} va a experimentar muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi {tu adolescente} está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu adolescente a darse cuenta de sus emociones de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo."
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n@fields.child_name va a experimentar muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi @fields.child_name está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu adolescente a darse cuenta de sus emociones de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo."
         },
         "quiz_2_option_2_text": {
           "eng": "Falso"
         },
         "quiz_2_feedback_2": {
-          "eng": "🎉 ¡Buen trabajo!\n\n{tu adolescente} va a experimentar muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi {tu adolescente} está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu adolescente a darse cuenta de sus emociones de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo."
+          "eng": "🎉 ¡Buen trabajo!\n\n@fields.child_name va a experimentar muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi @fields.child_name está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu adolescente a darse cuenta de sus emociones de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo."
         }
       },
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🎨 Nuestras reacciones ante situaciones difíciles se ven afectadas por nuestros propios pensamientos y sentimientos y no solamente por las acciones de otras personas.\n\nEstá bien sentir enojo, a veces, pero es importante aprender a responder con calma incluso cuando sentimos mucho enojo.\n\nLa mayoría de las veces, cuando reaccionamos con ira o enojo, puede hacer que nuestras niñas, niños y adolescentes sientan miedo o estrés y se porten peor o se comporten de manera agresiva.",
@@ -131,13 +131,13 @@
       "quiz_1_question": "Hagamos un ejercicio:\n\nResponde: ¿Verdadero o falso?\n\nEstá bien alzarle la voz o gritarle a mi adolescente cuando siento enojo.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
-      "text_1_facilitator": "Es normal que te sientas mal cuando {tu adolescente} no cumple tus expectativas o se porta mal.\n\nEn esta lección, aprenderemos cómo responderle a nuestro adolescente cuando estamos en una situación que nos hace sentir molestos o enojados.",
-      "text_2": "El enojo es una emoción importante porque nos permite expresarnos y poner límites. En lugar de ignorarla, deberíamos aprender a ELOGIARla y regularla de manera saludable.\n\n🌱 Cuando logras regular tu enojo, cuidas de ti. Escucha tus sentimientos, toma mejores decisiones y enséñale a {tu adolescente} a regular su propio enojo.",
-      "quiz_2_question": "Una más. Responde ¿Verdadero o Falso?\n\nNo está bien que {tu adolescente} se enoje contigo.",
+      "text_1_facilitator": "Es normal que te sientas mal cuando @fields.child_name no cumple tus expectativas o se porta mal.\n\nEn esta lección, aprenderemos cómo responderle a nuestro adolescente cuando estamos en una situación que nos hace sentir molestos o enojados.",
+      "text_2": "El enojo es una emoción importante porque nos permite expresarnos y poner límites. En lugar de ignorarla, deberíamos aprender a ELOGIARla y regularla de manera saludable.\n\n🌱 Cuando logras regular tu enojo, cuidas de ti. Escucha tus sentimientos, toma mejores decisiones y enséñale a @fields.child_name a regular su propio enojo.",
+      "quiz_2_question": "Una más. Responde ¿Verdadero o Falso?\n\nNo está bien que @fields.child_name se enoje contigo.",
       "quiz_2_option_1_text": "Verdadero",
-      "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n{tu adolescente} va a experimentar muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi {tu adolescente} está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu adolescente a darse cuenta de sus emociones de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo.",
+      "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n@fields.child_name va a experimentar muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi @fields.child_name está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu adolescente a darse cuenta de sus emociones de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo.",
       "quiz_2_option_2_text": "Falso",
-      "quiz_2_feedback_2": "🎉 ¡Buen trabajo!\n\n{tu adolescente} va a experimentar muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi {tu adolescente} está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu adolescente a darse cuenta de sus emociones de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo.",
+      "quiz_2_feedback_2": "🎉 ¡Buen trabajo!\n\n@fields.child_name va a experimentar muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi @fields.child_name está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu adolescente a darse cuenta de sus emociones de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo.",
       "completed": false
     },
     {
@@ -271,10 +271,10 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Lidiar con el enojo no es fácil 😔. Quizá nadie nos enseñó a gestionar nuestras emociones.\n\n▶️ Da Clic en Reproducir para aprender las 4️⃣ estrategias que puedes usar para controlar tu enojo y comunicarte mejor con {tu adolescente}:\n\n1️⃣ **IDENTIFICAR**\n2️⃣ **ENTENDER**\n3️⃣ **REGULAR**\n4️⃣ **COMUNICAR**"
+          "eng": "Lidiar con el enojo no es fácil 😔. Quizá nadie nos enseñó a gestionar nuestras emociones.\n\n▶️ Da Clic en Reproducir para aprender las 4️⃣ estrategias que puedes usar para controlar tu enojo y comunicarte mejor con @fields.child_name:\n\n1️⃣ **IDENTIFICAR**\n2️⃣ **ENTENDER**\n3️⃣ **REGULAR**\n4️⃣ **COMUNICAR**"
         }
       },
-      "text_1_facilitator": "Lidiar con el enojo no es fácil 😔. Quizá nadie nos enseñó a gestionar nuestras emociones.\n\n▶️ Da Clic en Reproducir para aprender las 4️⃣ estrategias que puedes usar para controlar tu enojo y comunicarte mejor con {tu adolescente}:\n\n1️⃣ **IDENTIFICAR**\n2️⃣ **ENTENDER**\n3️⃣ **REGULAR**\n4️⃣ **COMUNICAR**",
+      "text_1_facilitator": "Lidiar con el enojo no es fácil 😔. Quizá nadie nos enseñó a gestionar nuestras emociones.\n\n▶️ Da Clic en Reproducir para aprender las 4️⃣ estrategias que puedes usar para controlar tu enojo y comunicarte mejor con @fields.child_name:\n\n1️⃣ **IDENTIFICAR**\n2️⃣ **ENTENDER**\n3️⃣ **REGULAR**\n4️⃣ **COMUNICAR**",
       "_translations": {
         "text_1_facilitator": {}
       },
@@ -287,7 +287,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**⭐\n\nHabla con {tu adolescente} de lo que has aprendido sobre el enojo en esta lección. Elige una estrategia que puedas usar cuando sientas enojo. Por ejemplo, puedes practicar el escuchar música mientras llevas a cabo tu rutina de la tarde."
+          "eng": "**_Actividad para casa_**⭐\n\nHabla con @fields.child_name de lo que has aprendido sobre el enojo en esta lección. Elige una estrategia que puedas usar cuando sientas enojo. Por ejemplo, puedes practicar el escuchar música mientras llevas a cabo tu rutina de la tarde."
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy?⏰"
@@ -318,7 +318,7 @@
       "quiz_1_question": "¿Puedes hacerlo hoy?⏰",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**_Actividad para casa_**⭐\n\nHabla con {tu adolescente} de lo que has aprendido sobre el enojo en esta lección. Elige una estrategia que puedas usar cuando sientas enojo. Por ejemplo, puedes practicar el escuchar música mientras llevas a cabo tu rutina de la tarde.",
+      "text_1_facilitator": "**_Actividad para casa_**⭐\n\nHabla con @fields.child_name de lo que has aprendido sobre el enojo en esta lección. Elige una estrategia que puedas usar cuando sientas enojo. Por ejemplo, puedes practicar el escuchar música mientras llevas a cabo tu rutina de la tarde.",
       "completed": false
     }
   ],

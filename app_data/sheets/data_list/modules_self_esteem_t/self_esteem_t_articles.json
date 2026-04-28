@@ -1,0 +1,213 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "self_esteem_t_articles",
+  "data_list_name": "self_esteem_t_articles",
+  "status": "released",
+  "flow_subtype": "modules_self_esteem_t",
+  "module": "self_esteem_t",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Hoy aprenderás cómo pueden hacer tu adolescente y tú para sentirse bien y pensar positivamente sobre ustedes mismos o mismas.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {},
+        "quiz_3_question": {},
+        "quiz_3_option_1_text": {},
+        "quiz_3_feedback_1": {},
+        "quiz_3_option_2_text": {},
+        "quiz_3_feedback_2": {},
+        "quiz_3_option_3_text": {},
+        "quiz_3_feedback_3": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Hoy aprenderás cómo pueden hacer tu adolescente y tú para sentirse bien y pensar positivamente sobre ustedes mismos o mismas."
+        },
+        "text_2": {
+          "eng": "✨ Cuando te sientes bien contigo mismo o misma es más fácil enfrentar los retos y pedir ayuda cuando la necesitas. Además, ¡contribuirás al bienestar y al crecimiento de tu adolescente!  \n\n😔 A medida que las y los adolescentes van creciendo, es normal que a veces tengan pensamientos desagradables sobre ellas y ellos mismos. \n\n💛 Esto puede dificultar que hagan cosas por su cuenta, que enfrenten los problemas y que tengan relaciones sanas. Como madre, padre o persona cuidadora, puedes ayudar a tu adolescente a sentir más confianza en sí mismo o misma."
+        },
+        "quiz_1_question": {
+          "eng": "📝 Aprendamos cómo puedes ayudar a tu adolescente:\n\nEjercicio 1: Si @fields.child_name te dice que no le gusta algo de sí mismo, ¿qué debes de decir? ¿Cuál de las tres opciones es la correcta?:"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "1. \"¡Eres excelente tal y como eres!\""
+        },
+        "quiz_1_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n🚩 Al responderle a tu adolescente cosas como que todo está perfecto o que no debería de preocuparse tanto, puedes hacer que se sienta como que realmente no te interesa lo que le preocupa.  \n\n😃 Cuando le preguntas a tu adolescente por qué se siente así, le demuestras que te interesa su punto de vista. Esto le ayuda a sentir que le valoras y comprendes.  \n\n🏁 Además, te ayuda a identificar cuál es el Sí problema y a encontrar maneras de ayudarlo."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "2. \"¿Por qué te sientes así?\""
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 ¡Buen trabajo!\n\n🚩 Al responderle a tu adolescente cosas como que todo está perfecto o que no debería de preocuparse tanto, puedes hacer que se sienta como que realmente no te interesa lo que le preocupa.  \n\n😃 Cuando le preguntas a tu adolescente por qué se siente así, le demuestras que te interesa su punto de vista. Esto le ayuda a sentir que le valoras y comprendes.  \n\n🏁 Además, te ayuda a identificar cuál es el Sí problema y a encontrar maneras de ayudarlo."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "3. \"¡No te preocupes tanto!\""
+        },
+        "quiz_1_feedback_3": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n🚩 Al responderle a tu adolescente cosas como que todo está perfecto o que no debería de preocuparse tanto, puedes hacer que se sienta como que realmente no te interesa lo que le preocupa.  \n\n😃 Cuando le preguntas a tu adolescente por qué se siente así, le demuestras que te interesa su punto de vista. Esto le ayuda a sentir que le valoras y comprendes.  \n\n🏁 Además, te ayuda a identificar cuál es el Sí problema y a encontrar maneras de ayudarlo."
+        },
+        "quiz_2_question": {
+          "eng": "Ejercicio 2: ¿Cómo puedes ayudar a tu adolescente a sentirse mejor consigo mismo cuando siente que ha cometido un error o que fracasó? ¿Qué opción es la correcta?:"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "1. Al buscar la perfección en todo momento"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n \n👀 Tu adolescente siempre está aprendiendo de ti, aunque no lo parezca. \n\n💚 Cuando hablas de tus errores y de cómo has aprendido de ellos, le demuestras a tu adolescente que  es normal equivocarnos y que de ellos podemos aprender.  \n\n😣 Intentar llegar a la perfección todo el tiempo puede hacer que tu adolescente se sienta bajo mucha presión. Evitar los retos para no cometer errores no dejará que tu adolescente aprenda y crezca."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "2. Al conversar de tus errores y de cómo has aprendido de ellos"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "🎉 ¡Buen trabajo!\n\n👀 Tu adolescente siempre está aprendiendo de ti, aunque no lo parezca. \n\n💚 Cuando hablas de tus errores y de cómo has aprendido de ellos, le demuestras a tu adolescente que  es normal equivocarnos y que de ellos podemos aprender.  \n\n😣 Intentar llegar a la perfección todo el tiempo puede hacer que tu adolescente se sienta bajo mucha presión. Evitar los retos para no cometer errores no dejará que tu adolescente aprenda y crezca."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "3. Al ayudarles a evitar todas las dificultades para que no cometan tantos errores"
+        },
+        "quiz_2_feedback_3": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n \n👀 Tu adolescente siempre está aprendiendo de ti, aunque no lo parezca. \n\n💚 Cuando hablas de tus errores y de cómo has aprendido de ellos, le demuestras a tu adolescente que  es normal equivocarnos y que de ellos podemos aprender.  \n\n😣 Intentar llegar a la perfección todo el tiempo puede hacer que tu adolescente se sienta bajo mucha presión. Evitar los retos para no cometer errores no dejará que tu adolescente aprenda y crezca."
+        },
+        "quiz_3_question": {
+          "eng": "¿Qué podrías decir para ayudar a @fields.child_name cuando sienta que se esforzó mucho pero aún así fracasó?"
+        },
+        "quiz_3_option_1_text": {
+          "eng": "1. \"¡Esto no es para ti, tienes demasiado talento para muchas otras cosas!\""
+        },
+        "quiz_3_feedback_1": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n💙 Elogiar a tu adolescente por intentarlo, incluso cuando las cosas son difíciles, ayudará a construir su confianza para poder enfrentar cualquier problema que se le presente en el futuro.  \n\n😣Decirle a tu adolescente que es #1 en todo, puede hacer que sienta que tiene que llegar a la perfección siempre, lo que puede hacer que sienta demasiada presión. Cuando le dices a tu adolescente que podría haberlo hecho mejor, puede llegar a sentir que sus esfuerzos no son lo suficientemente buenos.  \n\n🌷 *_¡Es importante animar a tu adolescente a crecer, pero también es importante reconocer y elogiar sus esfuerzos e intentos!_*"
+        },
+        "quiz_3_option_2_text": {
+          "eng": "2. \"Lo hiciste bien, pero pudiste haberlo hecho mejor.\""
+        },
+        "quiz_3_feedback_2": {
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n💙 Elogiar a tu adolescente por intentarlo, incluso cuando las cosas son difíciles, ayudará a construir su confianza para poder enfrentar cualquier problema que se le presente en el futuro.  \n\n😣Decirle a tu adolescente que es #1 en todo, puede hacer que sienta que tiene que llegar a la perfección siempre, lo que puede hacer que sienta demasiada presión. Cuando le dices a tu adolescente que podría haberlo hecho mejor, puede llegar a sentir que sus esfuerzos no son lo suficientemente buenos.  \n\n🌷 *_¡Es importante animar a tu adolescente a crecer, pero también es importante reconocer y elogiar sus esfuerzos e intentos!_*"
+        },
+        "quiz_3_option_3_text": {
+          "eng": "3. \"Me da mucho orgullo que lo hayas intentado incluso cuando las cosas se pusieron más difíciles. ¿Qué crees que puedas aprender de todo esto?\""
+        },
+        "quiz_3_feedback_3": {
+          "eng": "🎉 ¡Buen trabajo! \n\n💙 Elogiar a tu adolescente por intentarlo, incluso cuando las cosas son difíciles, ayudará a construir su confianza para poder enfrentar cualquier problema que se le presente en el futuro.  \n\n😣Decirle a tu adolescente que es #1 en todo, puede hacer que sienta que tiene que llegar a la perfección siempre, lo que puede hacer que sienta demasiada presión. Cuando le dices a tu adolescente que podría haberlo hecho mejor, puede llegar a sentir que sus esfuerzos no son lo suficientemente buenos.  \n\n🌷 *_¡Es importante animar a tu adolescente a crecer, pero también es importante reconocer y elogiar sus esfuerzos e intentos!_*"
+        }
+      },
+      "text_2": "✨ Cuando te sientes bien contigo mismo o misma es más fácil enfrentar los retos y pedir ayuda cuando la necesitas. Además, ¡contribuirás al bienestar y al crecimiento de tu adolescente!  \n\n😔 A medida que las y los adolescentes van creciendo, es normal que a veces tengan pensamientos desagradables sobre ellas y ellos mismos. \n\n💛 Esto puede dificultar que hagan cosas por su cuenta, que enfrenten los problemas y que tengan relaciones sanas. Como madre, padre o persona cuidadora, puedes ayudar a tu adolescente a sentir más confianza en sí mismo o misma.",
+      "quiz_1_question": "📝 Aprendamos cómo puedes ayudar a tu adolescente:\n\nEjercicio 1: Si @fields.child_name te dice que no le gusta algo de sí mismo, ¿qué debes de decir? ¿Cuál de las tres opciones es la correcta?:",
+      "quiz_1_option_1_text": "1. \"¡Eres excelente tal y como eres!\"",
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🚩 Al responderle a tu adolescente cosas como que todo está perfecto o que no debería de preocuparse tanto, puedes hacer que se sienta como que realmente no te interesa lo que le preocupa.  \n\n😃 Cuando le preguntas a tu adolescente por qué se siente así, le demuestras que te interesa su punto de vista. Esto le ayuda a sentir que le valoras y comprendes.  \n\n🏁 Además, te ayuda a identificar cuál es el Sí problema y a encontrar maneras de ayudarlo.",
+      "quiz_1_option_2_text": "2. \"¿Por qué te sientes así?\"",
+      "quiz_1_feedback_2": "🎉 ¡Buen trabajo!\n\n🚩 Al responderle a tu adolescente cosas como que todo está perfecto o que no debería de preocuparse tanto, puedes hacer que se sienta como que realmente no te interesa lo que le preocupa.  \n\n😃 Cuando le preguntas a tu adolescente por qué se siente así, le demuestras que te interesa su punto de vista. Esto le ayuda a sentir que le valoras y comprendes.  \n\n🏁 Además, te ayuda a identificar cuál es el Sí problema y a encontrar maneras de ayudarlo.",
+      "quiz_1_option_3_text": "3. \"¡No te preocupes tanto!\"",
+      "quiz_1_feedback_3": "👀 ¡Ups! ¡Buen intento!\n\n🚩 Al responderle a tu adolescente cosas como que todo está perfecto o que no debería de preocuparse tanto, puedes hacer que se sienta como que realmente no te interesa lo que le preocupa.  \n\n😃 Cuando le preguntas a tu adolescente por qué se siente así, le demuestras que te interesa su punto de vista. Esto le ayuda a sentir que le valoras y comprendes.  \n\n🏁 Además, te ayuda a identificar cuál es el Sí problema y a encontrar maneras de ayudarlo.",
+      "quiz_2_question": "Ejercicio 2: ¿Cómo puedes ayudar a tu adolescente a sentirse mejor consigo mismo cuando siente que ha cometido un error o que fracasó? ¿Qué opción es la correcta?:",
+      "quiz_2_option_1_text": "1. Al buscar la perfección en todo momento",
+      "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n \n👀 Tu adolescente siempre está aprendiendo de ti, aunque no lo parezca. \n\n💚 Cuando hablas de tus errores y de cómo has aprendido de ellos, le demuestras a tu adolescente que  es normal equivocarnos y que de ellos podemos aprender.  \n\n😣 Intentar llegar a la perfección todo el tiempo puede hacer que tu adolescente se sienta bajo mucha presión. Evitar los retos para no cometer errores no dejará que tu adolescente aprenda y crezca.",
+      "quiz_2_option_2_text": "2. Al conversar de tus errores y de cómo has aprendido de ellos",
+      "quiz_2_feedback_2": "🎉 ¡Buen trabajo!\n\n👀 Tu adolescente siempre está aprendiendo de ti, aunque no lo parezca. \n\n💚 Cuando hablas de tus errores y de cómo has aprendido de ellos, le demuestras a tu adolescente que  es normal equivocarnos y que de ellos podemos aprender.  \n\n😣 Intentar llegar a la perfección todo el tiempo puede hacer que tu adolescente se sienta bajo mucha presión. Evitar los retos para no cometer errores no dejará que tu adolescente aprenda y crezca.",
+      "quiz_2_option_3_text": "3. Al ayudarles a evitar todas las dificultades para que no cometan tantos errores",
+      "quiz_2_feedback_3": "👀 ¡Ups! ¡Buen intento!\n \n👀 Tu adolescente siempre está aprendiendo de ti, aunque no lo parezca. \n\n💚 Cuando hablas de tus errores y de cómo has aprendido de ellos, le demuestras a tu adolescente que  es normal equivocarnos y que de ellos podemos aprender.  \n\n😣 Intentar llegar a la perfección todo el tiempo puede hacer que tu adolescente se sienta bajo mucha presión. Evitar los retos para no cometer errores no dejará que tu adolescente aprenda y crezca.",
+      "quiz_3_question": "¿Qué podrías decir para ayudar a @fields.child_name cuando sienta que se esforzó mucho pero aún así fracasó?",
+      "quiz_3_option_1_text": "1. \"¡Esto no es para ti, tienes demasiado talento para muchas otras cosas!\"",
+      "quiz_3_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n💙 Elogiar a tu adolescente por intentarlo, incluso cuando las cosas son difíciles, ayudará a construir su confianza para poder enfrentar cualquier problema que se le presente en el futuro.  \n\n😣Decirle a tu adolescente que es #1 en todo, puede hacer que sienta que tiene que llegar a la perfección siempre, lo que puede hacer que sienta demasiada presión. Cuando le dices a tu adolescente que podría haberlo hecho mejor, puede llegar a sentir que sus esfuerzos no son lo suficientemente buenos.  \n\n🌷 *_¡Es importante animar a tu adolescente a crecer, pero también es importante reconocer y elogiar sus esfuerzos e intentos!_*",
+      "quiz_3_option_2_text": "2. \"Lo hiciste bien, pero pudiste haberlo hecho mejor.\"",
+      "quiz_3_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\n💙 Elogiar a tu adolescente por intentarlo, incluso cuando las cosas son difíciles, ayudará a construir su confianza para poder enfrentar cualquier problema que se le presente en el futuro.  \n\n😣Decirle a tu adolescente que es #1 en todo, puede hacer que sienta que tiene que llegar a la perfección siempre, lo que puede hacer que sienta demasiada presión. Cuando le dices a tu adolescente que podría haberlo hecho mejor, puede llegar a sentir que sus esfuerzos no son lo suficientemente buenos.  \n\n🌷 *_¡Es importante animar a tu adolescente a crecer, pero también es importante reconocer y elogiar sus esfuerzos e intentos!_*",
+      "quiz_3_option_3_text": "3. \"Me da mucho orgullo que lo hayas intentado incluso cuando las cosas se pusieron más difíciles. ¿Qué crees que puedas aprender de todo esto?\"",
+      "quiz_3_feedback_3": "🎉 ¡Buen trabajo! \n\n💙 Elogiar a tu adolescente por intentarlo, incluso cuando las cosas son difíciles, ayudará a construir su confianza para poder enfrentar cualquier problema que se le presente en el futuro.  \n\n😣Decirle a tu adolescente que es #1 en todo, puede hacer que sienta que tiene que llegar a la perfección siempre, lo que puede hacer que sienta demasiada presión. Cuando le dices a tu adolescente que podría haberlo hecho mejor, puede llegar a sentir que sus esfuerzos no son lo suficientemente buenos.  \n\n🌷 *_¡Es importante animar a tu adolescente a crecer, pero también es importante reconocer y elogiar sus esfuerzos e intentos!_*"
+    },
+    {
+      "id": "practical_tips_1",
+      "category_id": "explore",
+      "media_type": "video",
+      "youtube_gb_en": "youtube link",
+      "nested": false,
+      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender 4️⃣ estrategias de crianza para fomentar la confianza de @fields.child_name:\n\n1️⃣ **ACEPTAR A TU ADOLESCENTE**\n2️⃣ **HACER PREGUNTAS, ¿QUÉ TE DIRÍA UNA AMIGA O AMIGO?**\n3️⃣ **SER UN EJEMPLO A SEGUIR**\n4️⃣ **INCLINAR LA BALANZA**",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Da clic en reproducir ▶️ para aprender 4️⃣ estrategias de crianza para fomentar la confianza de @fields.child_name:\n\n1️⃣ **ACEPTAR A TU ADOLESCENTE**\n2️⃣ **HACER PREGUNTAS, ¿QUÉ TE DIRÍA UNA AMIGA O AMIGO?**\n3️⃣ **SER UN EJEMPLO A SEGUIR**\n4️⃣ **INCLINAR LA BALANZA**"
+        }
+      }
+    },
+    {
+      "id": "practical_tips_2",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Aprender a sentirnos bien con nosotros mismos es parte de crecer y puede ser un Sí reto durante la adolescencia, ¡hasta para las y los adultos es algo difícil!.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Aprender a sentirnos bien con nosotros mismos es parte de crecer y puede ser un Sí reto durante la adolescencia, ¡hasta para las y los adultos es algo difícil!."
+        }
+      }
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\n👀 @fields.child_name y tú pueden apoyarse para aprender cómo pensar positivamente sobre ustedes mismos o mismas. Intenta esto la próxima vez que tu adolescente exprese un pensamiento o  una emoción negativa sobre su persona:  \n\nPregúntale qué le hace sentir así y conecta con esa emoción . \n\nHazle saber a tu adolescente que estarás ahí para lo que necesite. \n\nHazle preguntas para entender su situación.  \n\nAyúdale a modificar ese pensamiento por otro que le beneficie más al preguntarle: \"¿Qué te diría una amiga o amigo o alguien a quien quieres mucho?\".  \n\nElogia a @fields.child_name por comunicarse contigo y pedirte apoyo para superar sus pensamientos o emociones negativas.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "**_Actividad para casa_**⭐ \n\n👀 @fields.child_name y tú pueden apoyarse para aprender cómo pensar positivamente sobre ustedes mismos o mismas. Intenta esto la próxima vez que tu adolescente exprese un pensamiento o  una emoción negativa sobre su persona:  \n\nPregúntale qué le hace sentir así y conecta con esa emoción . \n\nHazle saber a tu adolescente que estarás ahí para lo que necesite. \n\nHazle preguntas para entender su situación.  \n\nAyúdale a modificar ese pensamiento por otro que le beneficie más al preguntarle: \"¿Qué te diría una amiga o amigo o alguien a quien quieres mucho?\".  \n\nElogia a @fields.child_name por comunicarse contigo y pedirte apoyo para superar sus pensamientos o emociones negativas."
+        },
+        "quiz_1_question": {
+          "eng": "¿Puedes intentarlo la próxima vez?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sí"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "¡Maravilloso!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Entendemos. Intenta tener esta plática el día de mañana o en esta semana."
+        }
+      },
+      "quiz_1_question": "¿Puedes intentarlo la próxima vez?",
+      "quiz_1_option_1_text": "Sí",
+      "quiz_1_feedback_1": "¡Maravilloso!",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "Entendemos. Intenta tener esta plática el día de mañana o en esta semana."
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA modules - understand (65 - 75).xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1mWNhZqCfGOub-6mE1pRygNQ2hZV7C8CUW8L3ifKAVGQ"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

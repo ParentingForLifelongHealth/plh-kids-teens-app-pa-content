@@ -13,7 +13,7 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1_facilitator::eng": "La lección de estrategias de crianza para el día de hoy trata sobre cómo ayudar a {tu niño} a aprender de la experiencia.",
+      "text_1_facilitator::eng": "La lección de estrategias de crianza para el día de hoy trata sobre cómo ayudar a @fields.child_name a aprender de la experiencia.",
       "text_2::eng": "Aprender de nuestros errores puede ayudar a evitarlos en el futuro. También puede ayudar a tratarnos con más empatía y con menos dureza cuando las cosas no van bien. 😃"
     },
     {
@@ -56,17 +56,17 @@
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "text_1_facilitator::eng": "Da Clic en Reproducir ▶️ para ver cómo ayudar a {tu niño} a aprender de la experiencia:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**",
+      "text_1_facilitator::eng": "Da Clic en Reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender de la experiencia:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**",
       "media_type": "video",
       "youtube_gb_en": "youtube link"
     },
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "**_Actividad para casa_**⭐ \n\nCuéntale a {tu niño} sobre alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste.",
+      "text_1_facilitator::eng": "**Actividad para casa**⭐ \n\nCuéntale a @fields.child_name sobre alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste.",
       "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text::eng": "Sí",
-      "quiz_1_feedback_1::eng": "¡Muy bien! 💡 Utiliza las estrategias que has aprendido hoy para ayudar a {tu niño} a prepararse académicamente y saber enfrentarse a la vida.",
+      "quiz_1_feedback_1::eng": "¡Muy bien! 💡 Utiliza las estrategias que has aprendido hoy para ayudar a @fields.child_name a prepararse académicamente y saber enfrentarse a la vida.",
       "quiz_1_option_2_text::eng": "No",
       "quiz_1_feedback_2::eng": "¡Entendemos! Si hoy no tienes tiempo, puedes apartar un poco para mañana. ⏰"
     }
