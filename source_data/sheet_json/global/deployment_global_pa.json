@@ -12,6 +12,12 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "deployment_id",
+      "value": "panama",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
       "name": "app_name_full",
       "value": "Crianza Responsable y Amorosa"
     },

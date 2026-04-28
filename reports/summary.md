@@ -33,12 +33,12 @@
 | round_button | 11 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 3686 |
+| set_variable | 3700 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 1168 |
-| text | 179 |
+| text | 178 |
 | text_area | 3 |
 | text_box | 16 |
 | text_bubble | 9 |
@@ -72,8 +72,8 @@
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 1 |
-| set_data | 112 |
-| set_field | 134 |
+| set_data | 123 |
+| set_field | 135 |
 | set_item | 99 |
 | set_local | 65 |
 | share | 3 |
@@ -87,7 +87,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 68694 KB | 68.7 MB |
+| total | 68699 KB | 68.7 MB |
 | unused | 5886 KB | 5.9 MB |
 </details>
 
@@ -263,8 +263,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/homescreen/safety_t.svg | 14 |
 | images/homescreen/understand_c.svg | 14 |
 | images/homescreen/understand_t.svg | 14 |
-| images/icons/download.svg | 1 |
-| images/icons/share.svg | 3 |
 | images/icons/singe_speech_blue.png | 2 |
 | images/logos/MIDES.png | 1 |
 | images/logos/app_logo.png | 1 |
@@ -642,6 +640,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/document-lock-outline.svg | 0.7 | 1 |
 | images/icons/document-text-outline-thin.svg | 0.5 | 1 |
 | images/icons/document-text-outline.svg | 0.5 | 1 |
+| images/icons/download.svg | 0.7 | 1 |
 | images/icons/expand_circle_right.png | 0.9 | 1 |
 | images/icons/expand_circle_right_blue.svg | 2.1 | 2 |
 | images/icons/eye_blue.png | 4.2 | 2 |
@@ -682,6 +681,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/settings.svg | 2.4 | 1 |
 | images/icons/settings_active.svg | 2.4 | 1 |
 | images/icons/settings_white.svg | 2.4 | 1 |
+| images/icons/share.svg | 4.2 | 3 |
 | images/icons/smile_eyes_down.svg | 0.9 | 78 |
 | images/icons/smile_eyes_up.svg | 1 | 152 |
 | images/icons/speech_bubble_blue.png | 4.2 | 2 |

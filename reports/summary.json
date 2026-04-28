@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3686
+        "count": 3700
       },
       {
         "type": "simple_checkbox",
@@ -143,7 +143,7 @@
       },
       {
         "type": "text",
-        "count": 179
+        "count": 178
       },
       {
         "type": "text_area",
@@ -255,11 +255,11 @@
       },
       {
         "type": "set_data",
-        "count": 112
+        "count": 123
       },
       {
         "type": "set_field",
-        "count": 134
+        "count": 135
       },
       {
         "type": "set_item",
@@ -291,7 +291,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "68694 KB",
+        "KB": "68699 KB",
         "MB": "68.7 MB"
       },
       {
@@ -945,16 +945,6 @@
       {
         "path": "images/homescreen/understand_t.svg",
         "count": 14,
-        "missing": true
-      },
-      {
-        "path": "images/icons/download.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/icons/share.svg",
-        "count": 3,
         "missing": true
       },
       {
@@ -2802,6 +2792,11 @@
         "size_kb": 0.5
       },
       {
+        "path": "images/icons/download.svg",
+        "count": 1,
+        "size_kb": 0.7
+      },
+      {
         "path": "images/icons/expand_circle_right.png",
         "count": 1,
         "size_kb": 0.9
@@ -3000,6 +2995,11 @@
         "path": "images/icons/settings_white.svg",
         "count": 1,
         "size_kb": 2.4
+      },
+      {
+        "path": "images/icons/share.svg",
+        "count": 3,
+        "size_kb": 4.2
       },
       {
         "path": "images/icons/smile_eyes_down.svg",

@@ -332,6 +332,36 @@
       "type": "declare_global_constant",
       "name": "tap_and_type",
       "value": "Toca para escribir"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "change_certificate_name",
+      "value": "Change name"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "certificate_name_question",
+      "value": "What name should be on your certificate?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "library_certificates",
+      "value": "My Certificates"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "certificate_max_reprints_reached",
+      "value": "Sorry, but you can only update the name on your certificate for this course @global.max_n_cert_reprints times."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "certificate_congrats",
+      "value": "Well done for completing the course!"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "certificates_location",
+      "value": "You can find your certificates in @global.library by selecting \"My Certificates\""
     }
   ]
 }
