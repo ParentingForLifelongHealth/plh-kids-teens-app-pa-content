@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 96
+        "count": 97
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 158
+        "count": 160
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 94
+        "count": 95
       },
       {
         "type": "drawer",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3700
+        "count": 3713
       },
       {
         "type": "simple_checkbox",
@@ -139,11 +139,11 @@
       },
       {
         "type": "template",
-        "count": 1168
+        "count": 1169
       },
       {
         "type": "text",
-        "count": 178
+        "count": 179
       },
       {
         "type": "text_area",
@@ -163,7 +163,7 @@
       },
       {
         "type": "toggle_bar",
-        "count": 5
+        "count": 6
       },
       {
         "type": "update_action_list",
@@ -255,11 +255,11 @@
       },
       {
         "type": "set_data",
-        "count": 123
+        "count": 125
       },
       {
         "type": "set_field",
-        "count": 135
+        "count": 146
       },
       {
         "type": "set_item",
@@ -279,7 +279,7 @@
       },
       {
         "type": "toast",
-        "count": 1
+        "count": 12
       },
       {
         "type": "user",
@@ -291,13 +291,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "68699 KB",
-        "MB": "68.7 MB"
+        "KB": "69646 KB",
+        "MB": "69.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "5886 KB",
-        "MB": "5.9 MB"
+        "KB": "7380 KB",
+        "MB": "7.4 MB"
       }
     ]
   },
@@ -342,6 +342,50 @@
       {
         "path": "images/backgrounds/progress_arc.png",
         "size_kb": 255.4
+      },
+      {
+        "path": "images/certificates/PA_certificate_Apoyar a mi adolescente en su aprendizaje.pptx.png",
+        "size_kb": 135.9
+      },
+      {
+        "path": "images/certificates/PA_certificate_Apoyar a mi niña o niño en su aprendizaje.pptx.png",
+        "size_kb": 135.8
+      },
+      {
+        "path": "images/certificates/PA_certificate_Cuidar del bienestar de mi adolescente y del mio.png",
+        "size_kb": 136.2
+      },
+      {
+        "path": "images/certificates/PA_certificate_Entender el desarrollo de mi niña o niño.png",
+        "size_kb": 135.5
+      },
+      {
+        "path": "images/certificates/PA_certificate_Guiar el buen comportamiento de mi adolescente.png",
+        "size_kb": 136.2
+      },
+      {
+        "path": "images/certificates/PA_certificate_Guiar el buen comportamiento de mi niña o niño.png",
+        "size_kb": 136.1
+      },
+      {
+        "path": "images/certificates/PA_certificate_Mejorar la relación con mi adolescente.png",
+        "size_kb": 135.7
+      },
+      {
+        "path": "images/certificates/PA_certificate_Mejorar la relación con mi niña o niño.png",
+        "size_kb": 135.5
+      },
+      {
+        "path": "images/certificates/PA_certificate_Responsabilidad e involucramiento en la crianza compartida.png",
+        "size_kb": 136.9
+      },
+      {
+        "path": "images/certificates/PA_certificate_Seguridad de mi adolescente.png",
+        "size_kb": 135
+      },
+      {
+        "path": "images/certificates/PA_certificate_Seguridad de mi niña o niño.png",
+        "size_kb": 134.8
       },
       {
         "path": "images/comic/relation/calm_teen_5.svg",
@@ -884,12 +928,12 @@
       },
       {
         "path": "images/homescreen/behave_c.svg",
-        "count": 14,
+        "count": 12,
         "missing": true
       },
       {
         "path": "images/homescreen/behave_t.svg",
-        "count": 14,
+        "count": 12,
         "missing": true
       },
       {
@@ -903,48 +947,98 @@
         "missing": true
       },
       {
+        "path": "images/homescreen/i_calm_c.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/i_calm_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/i_feelings_c.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/i_feelings_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/i_give_praise_c.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/i_give_praise_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/i_one_on_one_c.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/i_one_on_one_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/i_routines_c.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/i_routines_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
         "path": "images/homescreen/ipv.svg",
         "count": 12,
         "missing": true
       },
       {
         "path": "images/homescreen/learn_c.svg",
-        "count": 14,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/learn_t.svg",
         "count": 12,
         "missing": true
       },
       {
+        "path": "images/homescreen/learn_t.svg",
+        "count": 10,
+        "missing": true
+      },
+      {
         "path": "images/homescreen/relation_c.svg",
-        "count": 14,
+        "count": 12,
         "missing": true
       },
       {
         "path": "images/homescreen/relation_t.svg",
-        "count": 14,
+        "count": 12,
         "missing": true
       },
       {
         "path": "images/homescreen/safety_c.svg",
-        "count": 14,
+        "count": 12,
         "missing": true
       },
       {
         "path": "images/homescreen/safety_t.svg",
-        "count": 14,
+        "count": 12,
         "missing": true
       },
       {
         "path": "images/homescreen/understand_c.svg",
-        "count": 14,
+        "count": 12,
         "missing": true
       },
       {
         "path": "images/homescreen/understand_t.svg",
-        "count": 14,
+        "count": 12,
         "missing": true
       },
       {
@@ -964,21 +1058,6 @@
       },
       {
         "path": "images/logos/plh_logomark.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/onboarding/welcome_screen_1.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/onboarding/welcome_screen_2.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/onboarding/welcome_screen_3.svg",
         "count": 1,
         "missing": true
       },
@@ -3072,6 +3151,21 @@
         "size_kb": 68.8
       },
       {
+        "path": "images/onboarding/welcome_screen_1.svg",
+        "count": 1,
+        "size_kb": 239.7
+      },
+      {
+        "path": "images/onboarding/welcome_screen_2.svg",
+        "count": 1,
+        "size_kb": 347.1
+      },
+      {
+        "path": "images/onboarding/welcome_screen_3.svg",
+        "count": 1,
+        "size_kb": 360.4
+      },
+      {
         "path": "lottie/bulging_circles.json",
         "count": 2,
         "size_kb": 11.8
@@ -3503,7 +3597,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 166
+        "total": 168
       },
       {
         "type": "template",

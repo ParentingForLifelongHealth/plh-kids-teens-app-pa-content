@@ -7,7 +7,7 @@
     {
       "type": "declare_global_constant",
       "name": "facilitator_message_user_info",
-      "value": "**Let’s get started!**\n \nCan you tell me a little about yourself?"
+      "value": "**¡Comencemos!**\n \nCuéntame un poco sobre ti."
     },
     {
       "type": "declare_global_constant",
@@ -17,17 +17,17 @@
     {
       "type": "declare_global_constant",
       "name": "placeholder_user_name",
-      "value": "Enter name"
+      "value": "Escribe tu nombre"
     },
     {
       "type": "declare_global_constant",
       "name": "question_user_gender",
-      "value": "¿Eres hombre o mujer?"
+      "value": "¿Con qué género te identificas?"
     },
     {
       "type": "declare_global_constant",
       "name": "placeholder_user_gender",
-      "value": "Select gender"
+      "value": "Selecciona una opción"
     },
     {
       "type": "declare_global_constant",
@@ -37,7 +37,7 @@
     {
       "type": "declare_global_constant",
       "name": "placeholder_user_location",
-      "value": "Select location"
+      "value": "Selecciona una locación"
     },
     {
       "type": "declare_global_constant",
@@ -52,7 +52,7 @@
     {
       "type": "declare_global_constant",
       "name": "placeholder_user_district",
-      "value": "Select district"
+      "value": "Selecciona un distrito"
     }
   ]
 }

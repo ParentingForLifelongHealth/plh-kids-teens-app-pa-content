@@ -4,27 +4,27 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_4",
+      "id": "relax_5",
       "in_library": "yes",
-      "title_eng": "Breathe to three",
-      "title": "Respira hasta 3",
-      "lottie_asset": "lottie/relax/heart.json",
-      "media_asset": "audio/relax/relax_4.m4a",
+      "title_eng": "In and out",
+      "title": "Inhala y exhala",
+      "lottie_asset": "lottie/relax/blue_dots.json",
+      "media_asset": "audio/relax/relax_5.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!",
-      "transcript_1_spanish": "Cierra los ojos.\n\nUsa el poder mágico del tres para mantenerte conectado(a) y relajarte.\n\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\n\n¿Te sientes diferente? Respirar profundo ayuda a calmar el cuerpo y la mente.\n\nMuy bien. Ya estás listo(a) para comenzar tu lección.",
+      "transcript_1_eng": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
+      "transcript_1_spanish": "Cierra los ojos.\n\nEscucha tu respiración mientras entra y sale cinco veces.\n\nNota cómo te sientes.\n\nCuando estés listo(a), abre los ojos otra vez. ¡Tú tienes el control!",
       "category_id": "relax",
       "nested": false,
       "completed": false
     },
     {
-      "id": "check_in_10",
+      "id": "check_in_5",
       "category_id": "check_in",
       "nested": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Ser una gran madre, padre o persona cuidadora también implica dedicar tiempo para ti. Comienza por reconocer cómo te sientes.",
+      "text_1": "Cuidarte es importante. ¡Y cómo te sientes, también lo es!",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -37,16 +37,16 @@
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Ser una gran madre, padre o persona cuidadora también implica dedicar tiempo para ti. Comienza por reconocer cómo te sientes."
+          "eng": "Cuidarte es importante. ¡Y cómo te sientes, también lo es!"
         },
         "quiz_1_feedback_1": {
-          "eng": "Que gusto saber que hoy te sientes bien. ¡Eres increíble!"
+          "eng": "¡Genial! Es bueno saber que hoy te sientes bien."
         },
         "quiz_1_feedback_2": {
-          "eng": "Hay días en los que simplemente no sabemos qué hacer, y eso está bien. Estás aquí, y eso es lo que importa."
+          "eng": "A veces las cosas van muy bien, a veces no tanto, y otras veces, simplemente no sabemos qué pensar… y eso está bien. Recuerda que no estás sola/o."
         },
         "quiz_1_feedback_3": {
-          "eng": "La crianza puede ser desafiante. Pero estar aquí muestra que quieres seguir mejorando, y eso ya es un gran logro."
+          "eng": "Lamento que las cosas estén siendo difíciles en este momento. Mereces cosas buenas, y @global.app_name está aquí para acompañarte en cada paso."
         },
         "quiz_1_question": {
           "eng": "¿Cómo te sientes el día de hoy?"
@@ -61,9 +61,9 @@
           "eng": "Triste"
         }
       },
-      "quiz_1_feedback_1": "Que gusto saber que hoy te sientes bien. ¡Eres increíble!",
-      "quiz_1_feedback_2": "Hay días en los que simplemente no sabemos qué hacer, y eso está bien. Estás aquí, y eso es lo que importa.",
-      "quiz_1_feedback_3": "La crianza puede ser desafiante. Pero estar aquí muestra que quieres seguir mejorando, y eso ya es un gran logro.",
+      "quiz_1_feedback_1": "¡Genial! Es bueno saber que hoy te sientes bien.",
+      "quiz_1_feedback_2": "A veces las cosas van muy bien, a veces no tanto, y otras veces, simplemente no sabemos qué pensar… y eso está bien. Recuerda que no estás sola/o.",
+      "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles en este momento. Mereces cosas buenas, y @global.app_name está aquí para acompañarte en cada paso.",
       "quiz_1_question": "¿Cómo te sientes el día de hoy?",
       "quiz_1_option_1_text": "Feliz",
       "quiz_1_option_2_text": "Bien",

@@ -4,27 +4,27 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_9",
+      "id": "relax_3",
       "in_library": "yes",
-      "title_eng": "Body scan",
-      "title": "Escaneo corporal",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_9.mp3",
+      "title_eng": "One thing today",
+      "title": "Nombra una cosa",
+      "lottie_asset": "lottie/relax/looping_rings.json",
+      "media_asset": "audio/relax/relax_3.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!",
-      "transcript_1_spanish": "Aquí tienes una actividad para relajar tu cuerpo:\n\nSiéntate cómodamente y cierra los ojos si puedes.\nImagina un aro dorado que escanea tu cuerpo desde los pies hasta la cabeza.\nPon atención mientras sube y baja por tu cuerpo. ¿Hay áreas que se sienten tensas? ¿Adormecidas? ¿Con dolor?\nConcéntrate en esas áreas por un momento. Respira hacia esa zona y, al exhalar, intenta soltar cualquier tensión o malestar.\nHazlo por algunas respiraciones.\n\nAbre los ojos. ¿Cómo se siente tu cuerpo ahora?\n\n¡También puedes probar esto la próxima vez que estés en la cama y no puedas dormir!",
+      "transcript_1_eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
+      "transcript_1_spanish": "Cierra los ojos y piensa en tu día.\n\nNombra una cosa por la que te sientes agradecido.\nNombra una cosa que hiciste bien.\nNombra una cosa que amas.\n\nMuy bien. Gracias por acompañarnos hoy en ParentApp.",
       "category_id": "relax",
       "nested": false,
       "completed": false
     },
     {
-      "id": "check_in_6",
+      "id": "check_in_3",
       "category_id": "check_in",
       "nested": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Cuidarte es fundamental. Cuando reconoces cómo te sientes, puedes identificar lo que necesitas.",
+      "text_1": "¡Tú importas! Tómate un momento para conectar contigo.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -37,16 +37,16 @@
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Cuidarte es fundamental. Cuando reconoces cómo te sientes, puedes identificar lo que necesitas."
+          "eng": "¡Tú importas! Tómate un momento para conectar contigo."
         },
         "quiz_1_feedback_1": {
-          "eng": "¡Que alegría! Me da mucho gusto saber que las cosas van bien. Sigue así."
+          "eng": "Que gusto saber que te sientes bien. ¡Eres una gran persona cuidadora!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Todas las personas tenemos días buenos y días malos. El hecho de que estés aquí muestra tu compromiso y valentía."
+          "eng": "Lamento que no esté siendo un buen día. Estás haciendo un gran trabajo intentando solucionarlo. Recuerda que nadie tiene todas las respuestas, y que estás haciendo lo mejor que puedes."
         },
         "quiz_1_feedback_3": {
-          "eng": "Lamento que las cosas estén siendo difíciles. Es completamente normal pasar por momentos así. Recuerda que no estás sola/o."
+          "eng": "Siento que hoy no esté siendo un buen día. Estás haciendo un gran trabajo al seguir intentándolo, incluso cuando estás cansada/o. Eso es verdadera valentía y compromiso."
         },
         "quiz_1_question": {
           "eng": "¿Cómo te sientes el día de hoy?"
@@ -61,9 +61,9 @@
           "eng": "Triste"
         }
       },
-      "quiz_1_feedback_1": "¡Que alegría! Me da mucho gusto saber que las cosas van bien. Sigue así.",
-      "quiz_1_feedback_2": "Todas las personas tenemos días buenos y días malos. El hecho de que estés aquí muestra tu compromiso y valentía.",
-      "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles. Es completamente normal pasar por momentos así. Recuerda que no estás sola/o.",
+      "quiz_1_feedback_1": "Que gusto saber que te sientes bien. ¡Eres una gran persona cuidadora!",
+      "quiz_1_feedback_2": "Lamento que no esté siendo un buen día. Estás haciendo un gran trabajo intentando solucionarlo. Recuerda que nadie tiene todas las respuestas, y que estás haciendo lo mejor que puedes.",
+      "quiz_1_feedback_3": "Siento que hoy no esté siendo un buen día. Estás haciendo un gran trabajo al seguir intentándolo, incluso cuando estás cansada/o. Eso es verdadera valentía y compromiso.",
       "quiz_1_question": "¿Cómo te sientes el día de hoy?",
       "quiz_1_option_1_text": "Feliz",
       "quiz_1_option_2_text": "Bien",

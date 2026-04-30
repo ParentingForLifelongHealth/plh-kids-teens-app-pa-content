@@ -55,7 +55,7 @@
     {
       "type": "declare_global_constant",
       "name": "deployment_terms_text",
-      "value": "5 December 2024"
+      "value": "5 de Diciembre de 2024"
     },
     {
       "type": "declare_global_constant",
@@ -77,7 +77,7 @@
     {
       "type": "declare_global_constant",
       "name": "combo_box_placeholder",
-      "value": "Tap and choose"
+      "value": "Selecciona una opción"
     },
     {
       "type": "declare_global_constant",
@@ -136,17 +136,17 @@
     {
       "type": "declare_global_constant",
       "name": "greeting",
-      "value": "Hello,"
+      "value": "Hola"
     },
     {
       "type": "declare_global_constant",
       "name": "unlock_course_title",
-      "value": "Courses"
+      "value": "Cursos"
     },
     {
       "type": "declare_global_constant",
       "name": "unlock_course_text",
-      "value": "Finish the first course to unlock more"
+      "value": "Completa el primer curso para desbloquear más contenido"
     },
     {
       "type": "declare_global_constant",
@@ -155,12 +155,12 @@
     {
       "type": "declare_global_constant",
       "name": "lock_course_text",
-      "value": "Additional courses will be available once your complete all available Parenting Skills"
+      "value": "Podrás acceder a cursos adicionales una vez que completes las sesiones disponibles."
     },
     {
       "type": "declare_global_constant",
       "name": "complete_course_title",
-      "value": "Completed courses"
+      "value": "Cursos completados"
     },
     {
       "type": "declare_global_constant",
@@ -169,7 +169,7 @@
     {
       "type": "declare_global_constant",
       "name": "all_unlock_course_title",
-      "value": "Explore Courses"
+      "value": "Explorar cursos"
     },
     {
       "type": "declare_global_constant",
@@ -178,47 +178,47 @@
     {
       "type": "declare_global_constant",
       "name": "completed_text",
-      "value": "COMPLETED"
+      "value": "COMPLETO"
     },
     {
       "type": "declare_global_constant",
       "name": "locked_text",
-      "value": "LOCKED"
+      "value": "AUN NO DISPONIBLE"
     },
     {
       "type": "declare_global_constant",
       "name": "sub_items_name",
-      "value": "skills"
+      "value": "estrategias"
     },
     {
       "type": "declare_global_constant",
       "name": "course_action_text",
-      "value": "Continue"
+      "value": "Continuar"
     },
     {
       "type": "declare_global_constant",
       "name": "course_badge_text",
-      "value": "Skills"
+      "value": "Estrategias"
     },
     {
       "type": "declare_global_constant",
       "name": "review_action_text",
-      "value": "Continue"
+      "value": "Continuar"
     },
     {
       "type": "declare_global_constant",
       "name": "review_badge_text",
-      "value": "Review"
+      "value": "Reflexionemos"
     },
     {
       "type": "declare_global_constant",
       "name": "all_complete_title",
-      "value": "Hooray, Congratulations"
+      "value": "Lo lograste, ¡Felicidades!"
     },
     {
       "type": "declare_global_constant",
       "name": "all_complete_text",
-      "value": "You have completed all your parenting skills. Well done!"
+      "value": "Has completado todas las sesiones. ¡Bien hecho!"
     },
     {
       "type": "declare_global_constant",
@@ -229,17 +229,17 @@
     {
       "type": "declare_global_constant",
       "name": "back_to_home",
-      "value": "Back to Courses"
+      "value": "Volver a los cursos"
     },
     {
       "type": "declare_global_constant",
       "name": "restart",
-      "value": "Restart Skill"
+      "value": "Reiniciar"
     },
     {
       "type": "declare_global_constant",
       "name": "feedback",
-      "value": "Feedback"
+      "value": "Comentarios"
     }
   ]
 }

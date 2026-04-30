@@ -16,12 +16,16 @@
     },
     {
       "name": "deployment",
-      "value": "@globals.deployment_id",
+      "value": "@global.deployment_id",
       "exclude_from_translation": true
     },
     {
+      "name": "course",
+      "value": "@gen.id"
+    },
+    {
       "name": "certificate_template",
-      "value": "@local.deployment@local.underscore@fields.cert_to_print@local.underscore@local.lang",
+      "value": "@local.deployment@local.underscore@local.course@local.underscore@fields._app_language",
       "exclude_from_translation": true
     },
     {
@@ -118,6 +122,15 @@
             },
             {
               "trigger": "completed",
+              "action_id": "set_field",
+              "args": [
+                "debugcert",
+                "@local.certificate_template"
+              ],
+              "_raw": "completed | set_field: debugcert: @local.certificate_template"
+            },
+            {
+              "trigger": "completed",
               "action_id": "set_data",
               "args": [],
               "_raw": "completed | set_data | _list_id: hp_check_in, _id: @gen.id, unlocked_activity: TRUE",
@@ -153,6 +166,15 @@
                 "show_certificate"
               ],
               "_raw": "completed | pop_up: show_certificate"
+            },
+            {
+              "trigger": "completed",
+              "action_id": "toast",
+              "args": [],
+              "_raw": "completed | toast | message: @global.certificates_location",
+              "params": {
+                "message": "@global.certificates_location"
+              }
             },
             {
               "trigger": "uncompleted",

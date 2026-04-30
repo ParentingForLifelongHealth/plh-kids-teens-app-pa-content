@@ -9,12 +9,12 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 96 |
+| button | 97 |
 | combo_box | 16 |
-| data_items | 158 |
+| data_items | 160 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 94 |
+| display_group | 95 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 22 |
@@ -33,17 +33,17 @@
 | round_button | 11 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 3700 |
+| set_variable | 3713 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 1168 |
-| text | 178 |
+| template | 1169 |
+| text | 179 |
 | text_area | 3 |
 | text_box | 16 |
 | text_bubble | 9 |
 | title | 53 |
-| toggle_bar | 5 |
+| toggle_bar | 6 |
 | update_action_list | 1 |
 | video | 3 |
 | youtube | 4 |
@@ -72,13 +72,13 @@
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 1 |
-| set_data | 123 |
-| set_field | 135 |
+| set_data | 125 |
+| set_field | 146 |
 | set_item | 99 |
 | set_local | 65 |
 | share | 3 |
 | task | 2 |
-| toast | 1 |
+| toast | 12 |
 | user | 3 |
 </details>
 
@@ -87,8 +87,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 68699 KB | 68.7 MB |
-| unused | 5886 KB | 5.9 MB |
+| total | 69646 KB | 69.6 MB |
+| unused | 7380 KB | 7.4 MB |
 </details>
 
 <details open>
@@ -108,6 +108,17 @@ Assets that appear in app-data but do not have references within sheets
 | images/activities/personajes_t.svg | 54 |
 | images/backgrounds/homescreen_pattern.svg | 156.3 |
 | images/backgrounds/progress_arc.png | 255.4 |
+| images/certificates/PA_certificate_Apoyar a mi adolescente en su aprendizaje.pptx.png | 135.9 |
+| images/certificates/PA_certificate_Apoyar a mi niña o niño en su aprendizaje.pptx.png | 135.8 |
+| images/certificates/PA_certificate_Cuidar del bienestar de mi adolescente y del mio.png | 136.2 |
+| images/certificates/PA_certificate_Entender el desarrollo de mi niña o niño.png | 135.5 |
+| images/certificates/PA_certificate_Guiar el buen comportamiento de mi adolescente.png | 136.2 |
+| images/certificates/PA_certificate_Guiar el buen comportamiento de mi niña o niño.png | 136.1 |
+| images/certificates/PA_certificate_Mejorar la relación con mi adolescente.png | 135.7 |
+| images/certificates/PA_certificate_Mejorar la relación con mi niña o niño.png | 135.5 |
+| images/certificates/PA_certificate_Responsabilidad e involucramiento en la crianza compartida.png | 136.9 |
+| images/certificates/PA_certificate_Seguridad de mi adolescente.png | 135 |
+| images/certificates/PA_certificate_Seguridad de mi niña o niño.png | 134.8 |
 | images/comic/relation/calm_teen_5.svg | 37.3 |
 | images/comic/safe/com_safety_2to4_yc_1.svg | 34.1 |
 | images/comic/safe/com_safety_2to4_yc_2.svg | 36.4 |
@@ -250,26 +261,33 @@ Assets that have references within sheets but do not appear in app-data
 | images/activities/narracion_c.svg | 2 |
 | images/activities/narracion_t.svg | 2 |
 | images/comic/relation/calm_teen_3.svg | 2 |
-| images/homescreen/behave_c.svg | 14 |
-| images/homescreen/behave_t.svg | 14 |
+| images/homescreen/behave_c.svg | 12 |
+| images/homescreen/behave_t.svg | 12 |
 | images/homescreen/check_in/traditional_rondavel_closed.svg | 1 |
 | images/homescreen/check_in/traditional_rondavel_open.svg | 1 |
+| images/homescreen/i_calm_c.svg | 2 |
+| images/homescreen/i_calm_t.svg | 2 |
+| images/homescreen/i_feelings_c.svg | 2 |
+| images/homescreen/i_feelings_t.svg | 2 |
+| images/homescreen/i_give_praise_c.svg | 2 |
+| images/homescreen/i_give_praise_t.svg | 2 |
+| images/homescreen/i_one_on_one_c.svg | 2 |
+| images/homescreen/i_one_on_one_t.svg | 2 |
+| images/homescreen/i_routines_c.svg | 2 |
+| images/homescreen/i_routines_t.svg | 2 |
 | images/homescreen/ipv.svg | 12 |
-| images/homescreen/learn_c.svg | 14 |
-| images/homescreen/learn_t.svg | 12 |
-| images/homescreen/relation_c.svg | 14 |
-| images/homescreen/relation_t.svg | 14 |
-| images/homescreen/safety_c.svg | 14 |
-| images/homescreen/safety_t.svg | 14 |
-| images/homescreen/understand_c.svg | 14 |
-| images/homescreen/understand_t.svg | 14 |
+| images/homescreen/learn_c.svg | 12 |
+| images/homescreen/learn_t.svg | 10 |
+| images/homescreen/relation_c.svg | 12 |
+| images/homescreen/relation_t.svg | 12 |
+| images/homescreen/safety_c.svg | 12 |
+| images/homescreen/safety_t.svg | 12 |
+| images/homescreen/understand_c.svg | 12 |
+| images/homescreen/understand_t.svg | 12 |
 | images/icons/singe_speech_blue.png | 2 |
 | images/logos/MIDES.png | 1 |
 | images/logos/app_logo.png | 1 |
 | images/logos/plh_logomark.png | 1 |
-| images/onboarding/welcome_screen_1.svg | 1 |
-| images/onboarding/welcome_screen_2.svg | 1 |
-| images/onboarding/welcome_screen_3.svg | 1 |
 | pencil.svg | 8 |
 </details>
 
@@ -696,6 +714,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/IDEMS.png | 42.7 | 1 |
 | images/logos/PLH.png | 33.9 | 1 |
 | images/logos/UNICEF.png | 68.8 | 1 |
+| images/onboarding/welcome_screen_1.svg | 239.7 | 1 |
+| images/onboarding/welcome_screen_2.svg | 347.1 | 1 |
+| images/onboarding/welcome_screen_3.svg | 360.4 | 1 |
 | lottie/bulging_circles.json | 11.8 | 2 |
 | lottie/checkmark.json | 24.6 | 1 |
 | lottie/gift_box.json | 674.5 | 1 |
@@ -788,7 +809,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 6 |
 | global | legal_terms | 1 |
 | global | onboarding | 7 |
-| template |  | 166 |
+| template |  | 168 |
 | template | generated | 910 |
 | template | legal_terms | 4 |
 </details>

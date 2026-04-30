@@ -4,27 +4,27 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_3",
+      "id": "relax_4",
       "in_library": "yes",
-      "title_eng": "One thing today",
-      "title": "Nombra una cosa",
-      "lottie_asset": "lottie/relax/looping_rings.json",
-      "media_asset": "audio/relax/relax_3.m4a",
+      "title_eng": "Breathe to three",
+      "title": "Respira hasta 3",
+      "lottie_asset": "lottie/relax/heart.json",
+      "media_asset": "audio/relax/relax_4.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
-      "transcript_1_spanish": "Cierra los ojos y piensa en tu día.\n\nNombra una cosa por la que te sientes agradecido.\nNombra una cosa que hiciste bien.\nNombra una cosa que amas.\n\nMuy bien. Gracias por acompañarnos hoy en ParentApp.",
+      "transcript_1_eng": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!",
+      "transcript_1_spanish": "Cierra los ojos.\n\nUsa el poder mágico del tres para mantenerte conectado(a) y relajarte.\n\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\n\n¿Te sientes diferente? Respirar profundo ayuda a calmar el cuerpo y la mente.\n\nMuy bien. Ya estás listo(a) para comenzar tu lección.",
       "category_id": "relax",
       "nested": false,
       "completed": false
     },
     {
-      "id": "check_in_9",
+      "id": "check_in_10",
       "category_id": "check_in",
       "nested": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Reconocer cómo te sientes es clave para vivir con mayor bienestar. Sé amable contigo.",
+      "text_1": "Ser una gran madre, padre o persona cuidadora también implica dedicar tiempo para ti. Comienza por reconocer cómo te sientes.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -37,16 +37,16 @@
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Reconocer cómo te sientes es clave para vivir con mayor bienestar. Sé amable contigo."
+          "eng": "Ser una gran madre, padre o persona cuidadora también implica dedicar tiempo para ti. Comienza por reconocer cómo te sientes."
         },
         "quiz_1_feedback_1": {
-          "eng": "Eres increíble y estás marcando una gran diferencia. Puedes sentirte orgullosa/o de ti."
+          "eng": "Que gusto saber que hoy te sientes bien. ¡Eres increíble!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Todas las personas tenemos días buenos y días complicados. Muy bien por usar esta aplicación; eso muestra tu compromiso con la crianza. Recuerda reconocerte por ello."
+          "eng": "Hay días en los que simplemente no sabemos qué hacer, y eso está bien. Estás aquí, y eso es lo que importa."
         },
         "quiz_1_feedback_3": {
-          "eng": "Lamento que hoy las cosas no estén siendo fáciles. Todas las madres, padres y personas cuidadoras pasan por días así. Estás intentando y avanzando."
+          "eng": "La crianza puede ser desafiante. Pero estar aquí muestra que quieres seguir mejorando, y eso ya es un gran logro."
         },
         "quiz_1_question": {
           "eng": "¿Cómo te sientes el día de hoy?"
@@ -61,9 +61,9 @@
           "eng": "Triste"
         }
       },
-      "quiz_1_feedback_1": "Eres increíble y estás marcando una gran diferencia. Puedes sentirte orgullosa/o de ti.",
-      "quiz_1_feedback_2": "Todas las personas tenemos días buenos y días complicados. Muy bien por usar esta aplicación; eso muestra tu compromiso con la crianza. Recuerda reconocerte por ello.",
-      "quiz_1_feedback_3": "Lamento que hoy las cosas no estén siendo fáciles. Todas las madres, padres y personas cuidadoras pasan por días así. Estás intentando y avanzando.",
+      "quiz_1_feedback_1": "Que gusto saber que hoy te sientes bien. ¡Eres increíble!",
+      "quiz_1_feedback_2": "Hay días en los que simplemente no sabemos qué hacer, y eso está bien. Estás aquí, y eso es lo que importa.",
+      "quiz_1_feedback_3": "La crianza puede ser desafiante. Pero estar aquí muestra que quieres seguir mejorando, y eso ya es un gran logro.",
       "quiz_1_question": "¿Cómo te sientes el día de hoy?",
       "quiz_1_option_1_text": "Feliz",
       "quiz_1_option_2_text": "Bien",
