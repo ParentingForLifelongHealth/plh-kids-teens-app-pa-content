@@ -73,7 +73,8 @@
       "action_list": "click | pop_up: no_more_reprints;",
       "parameter_list": "variant: card;\nstyle: no-background;",
       "condition": "(@local.n_reprints >=@global.max_n_cert_reprints)",
-      "exclude_from_translation": true
+      "exclude_from_translation": true,
+      "comments": "@global.certificate_congrats\ncert debugcert"
     }
   ]
 }

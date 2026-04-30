@@ -4,27 +4,27 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_2",
+      "id": "relax_4",
       "in_library": "yes",
-      "title_eng": "Power of three",
-      "title": "El poder del 3",
-      "lottie_asset": "lottie/relax/soothing_waves.json",
-      "media_asset": "audio/relax/relax_2.m4a",
+      "title_eng": "Breathe to three",
+      "title": "Respira hasta 3",
+      "lottie_asset": "lottie/relax/heart.json",
+      "media_asset": "audio/relax/relax_4.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be gratefful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
-      "transcript_1_spanish": "Cierra los ojos.\nVamos a usar el poder mágico del 3 para mantenernos presentes y relajarnos.\n\nNombra 3 sonidos que puedas escuchar ahora mismo.\nNombra 3 olores que puedas sentir ahora mismo.\nNombra tus 3 comidas favoritas.\n¿Cuáles son 3 cosas por las que puedes sentir gratitud ahora mismo?\n\nAl final de un día difícil, pensar en 3 cosas por las que estás agradecido(a) puede ayudarte a encontrar el valor para intentarlo de nuevo mañana.",
+      "transcript_1_eng": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!",
+      "transcript_1_spanish": "Cierra los ojos.\n\nUsa el poder mágico del tres para mantenerte conectado(a) y relajarte.\n\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\n\n¿Te sientes diferente? Respirar profundo ayuda a calmar el cuerpo y la mente.\n\nMuy bien. Ya estás listo(a) para comenzar tu lección.",
       "category_id": "relax",
       "nested": false,
       "completed": false
     },
     {
-      "id": "check_in_8",
+      "id": "check_in_4",
       "category_id": "check_in",
       "nested": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "El autocuidado es una herramienta clave en la crianza. Comienza por reconocer cómo te sientes.",
+      "text_1": "Cuida de ti reconociendo cómo te sientes. Te lo mereces.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -37,16 +37,16 @@
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "El autocuidado es una herramienta clave en la crianza. Comienza por reconocer cómo te sientes."
+          "eng": "Cuida de ti reconociendo cómo te sientes. Te lo mereces."
         },
         "quiz_1_feedback_1": {
-          "eng": "¡Que bien! Y que valioso que estés usando esta aplicación, esto muestra tu compromiso con la crianza. Recuerda reconocerte por todo lo que estás haciendo."
+          "eng": "¡Que bien! Me da mucha alegría. Sigue así, lo estás haciendo muy bien."
         },
         "quiz_1_feedback_2": {
-          "eng": "Cada día tiene altas y bajas. Reconócete por estar aquí y seguir intentándolo: estás avanzando."
+          "eng": "Siento mucho que las cosas estén siendo difíciles. Todas las familias pasan por momentos complicados. @global.app_name está aquí para acompañarte."
         },
         "quiz_1_feedback_3": {
-          "eng": "Lamento que las cosas estén siendo difíciles en este momento. Toma una respiración profunda y recuerda que eres valiosa/o."
+          "eng": "Lo que haya salido “mal” hoy, suéltalo y vuelve a intentarlo mañana. Está bien."
         },
         "quiz_1_question": {
           "eng": "¿Cómo te sientes el día de hoy?"
@@ -61,9 +61,9 @@
           "eng": "Triste"
         }
       },
-      "quiz_1_feedback_1": "¡Que bien! Y que valioso que estés usando esta aplicación, esto muestra tu compromiso con la crianza. Recuerda reconocerte por todo lo que estás haciendo.",
-      "quiz_1_feedback_2": "Cada día tiene altas y bajas. Reconócete por estar aquí y seguir intentándolo: estás avanzando.",
-      "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles en este momento. Toma una respiración profunda y recuerda que eres valiosa/o.",
+      "quiz_1_feedback_1": "¡Que bien! Me da mucha alegría. Sigue así, lo estás haciendo muy bien.",
+      "quiz_1_feedback_2": "Siento mucho que las cosas estén siendo difíciles. Todas las familias pasan por momentos complicados. @global.app_name está aquí para acompañarte.",
+      "quiz_1_feedback_3": "Lo que haya salido “mal” hoy, suéltalo y vuelve a intentarlo mañana. Está bien.",
       "quiz_1_question": "¿Cómo te sientes el día de hoy?",
       "quiz_1_option_1_text": "Feliz",
       "quiz_1_option_2_text": "Bien",

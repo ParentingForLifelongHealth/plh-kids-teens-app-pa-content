@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_i_feelings_c_relax_2",
+  "flow_name": "article_i_routines_t_relax_2",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -73,7 +73,7 @@
         },
         {
           "name": "progress_data_list",
-          "value": "i_feelings_c@local.articles",
+          "value": "i_routines_t@local.articles",
           "_translations": {
             "value": {}
           },
@@ -82,7 +82,7 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "i_feelings_c@local.articles",
+                "fullExpression": "i_routines_t@local.articles",
                 "matchedExpression": "@local.articles",
                 "type": "local",
                 "fieldName": "articles"

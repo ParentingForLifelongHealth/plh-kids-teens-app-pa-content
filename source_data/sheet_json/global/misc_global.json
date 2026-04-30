@@ -300,6 +300,16 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "share",
+      "value": "Share"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "download",
+      "value": "Download"
+    },
+    {
+      "type": "declare_global_constant",
       "name": "language",
       "value": "Idioma"
     },
@@ -342,11 +352,6 @@
       "type": "declare_global_constant",
       "name": "certificate_name_question",
       "value": "What name should be on your certificate?"
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "library_certificates",
-      "value": "My Certificates"
     },
     {
       "type": "declare_global_constant",

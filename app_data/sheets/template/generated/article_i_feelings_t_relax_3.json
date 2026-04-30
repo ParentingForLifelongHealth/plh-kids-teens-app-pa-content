@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_i_give_praise_c_relax_4",
+  "flow_name": "article_i_feelings_t_relax_3",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -73,7 +73,7 @@
         },
         {
           "name": "progress_data_list",
-          "value": "i_give_praise_c@local.articles",
+          "value": "i_feelings_t@local.articles",
           "_translations": {
             "value": {}
           },
@@ -82,7 +82,7 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "i_give_praise_c@local.articles",
+                "fullExpression": "i_feelings_t@local.articles",
                 "matchedExpression": "@local.articles",
                 "type": "local",
                 "fieldName": "articles"
@@ -123,7 +123,7 @@
       "rows": [
         {
           "name": "id",
-          "value": "relax_4",
+          "value": "relax_3",
           "_translations": {
             "value": {}
           },

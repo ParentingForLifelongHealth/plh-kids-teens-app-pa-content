@@ -7,7 +7,7 @@
     {
       "type": "declare_global_constant",
       "name": "facilitator_message_user_family",
-      "value": "**Thank you @fields.user_name.**\n \nCan you tell us a bit about your family? This helps us share the right tips for you.",
+      "value": "**Gracias @fields.user_name.**\n \nCuéntanos un poco sobre tu familia. Así podremos compartirte consejos que se adapten a ti.",
       "_translations": {
         "value": {}
       }
@@ -23,7 +23,7 @@
     {
       "type": "declare_global_constant",
       "name": "placeholder_user_relationship",
-      "value": "Select relationship status",
+      "value": "Selecciona un estado civil",
       "_translations": {
         "value": {}
       }
@@ -31,7 +31,7 @@
     {
       "type": "declare_global_constant",
       "name": "question_household_children",
-      "value": "How many children do you care for in your home?",
+      "value": "¿Cuántas niñas, niños o adolescentes están a tu cuidado?",
       "_translations": {
         "value": {}
       }
@@ -39,7 +39,7 @@
     {
       "type": "declare_global_constant",
       "name": "placeholder_household_children",
-      "value": "Enter number of children",
+      "value": "Ingresa un número",
       "_translations": {
         "value": {}
       }
@@ -47,7 +47,7 @@
     {
       "type": "declare_global_constant",
       "name": "household_children_input_restriction",
-      "value": "Please enter a number between 1 and 20.",
+      "value": "Poe favor ingresa un número entre 1 y 20.",
       "_translations": {
         "value": {}
       }

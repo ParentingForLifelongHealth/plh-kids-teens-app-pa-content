@@ -46,13 +46,28 @@
     },
     {
       "name": "deployment",
-      "value": "@globals.deployment_id",
+      "value": "@global.deployment_id",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "deployment"
+      "_nested_name": "deployment",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.deployment_id",
+            "matchedExpression": "@global.deployment_id",
+            "type": "global",
+            "fieldName": "deployment_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.deployment_id": [
+          "value"
+        ]
+      }
     },
     {
       "name": "certificate_template",

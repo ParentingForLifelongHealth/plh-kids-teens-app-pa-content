@@ -19,7 +19,7 @@
     },
     {
       "name": "deployment",
-      "value": "@globals.deployment_id",
+      "value": "@global.deployment_id",
       "exclude_from_translation": true
     },
     {

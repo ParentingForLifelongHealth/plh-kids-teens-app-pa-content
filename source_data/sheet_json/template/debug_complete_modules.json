@@ -1,0 +1,35 @@
+{
+  "flow_type": "template",
+  "flow_name": "debug_complete_modules",
+  "status": "released",
+  "rows": [
+    {
+      "name": "course_id"
+    },
+    {
+      "type": "begin_data_items",
+      "value": "@data.module_tasks",
+      "parameter_list": "filter: @item.tag_course.includes(@local.course_id)",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group"
+    },
+    {
+      "type": "toggle_bar",
+      "name": "toggle_@item.id",
+      "value": "@item.completed",
+      "action_list": "changed | set_data | _list_id: module_tasks, _id: @item.id, completed: !completed, completed_ts: @calc(now());"
+    },
+    {
+      "type": "text",
+      "value": "@item.id"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_data_items"
+    }
+  ]
+}
