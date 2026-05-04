@@ -478,7 +478,7 @@
     {
       "type": "declare_global_constant",
       "name": "share",
-      "value": "Share",
+      "value": "Compartir",
       "_translations": {
         "value": {}
       }
@@ -486,7 +486,7 @@
     {
       "type": "declare_global_constant",
       "name": "download",
-      "value": "Download",
+      "value": "Descargar",
       "_translations": {
         "value": {}
       }
@@ -550,7 +550,7 @@
     {
       "type": "declare_global_constant",
       "name": "change_certificate_name",
-      "value": "Change name",
+      "value": "Cambiar nombre",
       "_translations": {
         "value": {}
       }
@@ -558,7 +558,7 @@
     {
       "type": "declare_global_constant",
       "name": "certificate_name_question",
-      "value": "What name should be on your certificate?",
+      "value": "¿Qué nombre debe aparecer en tu certificado?",
       "_translations": {
         "value": {}
       }
@@ -566,7 +566,7 @@
     {
       "type": "declare_global_constant",
       "name": "certificate_max_reprints_reached",
-      "value": "Sorry, but you can only update the name on your certificate for this course @global.max_n_cert_reprints times.",
+      "value": "Lo siento, pero solo puedes actualizar el nombre en tu certificado para este curso @global.max_n_cert_reprints veces.",
       "_translations": {
         "value": {}
       }
@@ -574,7 +574,7 @@
     {
       "type": "declare_global_constant",
       "name": "certificate_congrats",
-      "value": "Well done for completing the course!",
+      "value": "¡Felicidades por haber completado el curso!",
       "_translations": {
         "value": {}
       }
@@ -582,7 +582,7 @@
     {
       "type": "declare_global_constant",
       "name": "certificates_location",
-      "value": "You can find your certificates in @global.library by selecting \"My Certificates\"",
+      "value": "Puedes encontrar tus certificados en @global.library seleccionando “Mis certificados”.",
       "_translations": {
         "value": {}
       }
