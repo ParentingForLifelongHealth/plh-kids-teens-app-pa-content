@@ -87,8 +87,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 61728 KB | 61.7 MB |
-| unused | 27505 KB | 27.5 MB |
+| total | 72657 KB | 72.7 MB |
+| unused | 16576 KB | 16.6 MB |
 </details>
 
 <details open>
@@ -102,7 +102,6 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 58.3 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
-| audio/relax/relax_9.m4a | 530.4 |
 | images/activities/narrador_c.svg | 98.4 |
 | images/activities/narrador_t.svg | 60.2 |
 | images/activities/personajes_t.svg | 54 |
@@ -119,8 +118,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/certificates/PA_certificate_Responsabilidad e involucramiento en la crianza compartida.png | 136.4 |
 | images/certificates/PA_certificate_Seguridad de mi adolescente.png | 134.5 |
 | images/certificates/PA_certificate_Seguridad de mi niña o niño.png | 134.2 |
-| images/character_icons/ANGEL.svg | 921.4 |
-| images/character_icons/ANGELA.svg | 9477.2 |
 | images/character_icons/ANGELA_comic.svg | 909.5 |
 | images/character_icons/ANGEL_comic.svg | 910.1 |
 | images/comic/relation/calm_teen_5.svg | 37.3 |
@@ -267,8 +264,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/activities/narracion_c.svg | 2 |
 | images/activities/narracion_t.svg | 2 |
 | images/comic/relation/calm_teen_3.svg | 2 |
-| images/facilitators/ANGEL.svg | 3 |
-| images/facilitators/ANGELA.svg | 3 |
 | images/homescreen/behave_c.svg | 12 |
 | images/homescreen/behave_t.svg | 12 |
 | images/homescreen/check_in/traditional_rondavel_closed.svg | 1 |
@@ -329,6 +324,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/relax_6.m4a | 214.9 | 1 |
 | audio/relax/relax_7.m4a | 303 | 1 |
 | audio/relax/relax_8.m4a | 284.2 | 1 |
+| audio/relax/relax_9.m4a | 530.4 | 11 |
 | images/activities/aciegas_c.svg | 32.8 | 2 |
 | images/activities/aciegas_t.svg | 27.2 | 2 |
 | images/activities/activate_c.svg | 34.1 | 2 |
@@ -403,6 +399,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/backgrounds/mountains_trees.svg | 23.2 | 1 |
 | images/character_icons/AMIGA_MUJER_1.svg | 978.5 | 1 |
 | images/character_icons/AMIGA_MUJER_2.svg | 1412.5 | 1 |
+| images/character_icons/ANGELA_facilitator.svg | 9477.2 | 3 |
+| images/character_icons/ANGEL_facilitator.svg | 921.4 | 3 |
 | images/character_icons/F1_HIJA_13.svg | 1907.1 | 1 |
 | images/character_icons/F1_HIJA_16.svg | 1876.8 | 1 |
 | images/character_icons/F1_HIJA_6.svg | 1876.9 | 1 |
