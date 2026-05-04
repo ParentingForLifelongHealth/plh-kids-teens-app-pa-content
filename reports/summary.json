@@ -291,13 +291,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "61728 KB",
-        "MB": "61.7 MB"
+        "KB": "72657 KB",
+        "MB": "72.7 MB"
       },
       {
         "assets": "unused",
-        "KB": "27505 KB",
-        "MB": "27.5 MB"
+        "KB": "16576 KB",
+        "MB": "16.6 MB"
       }
     ]
   },
@@ -318,10 +318,6 @@
       {
         "path": "android/splash.png",
         "size_kb": 239
-      },
-      {
-        "path": "audio/relax/relax_9.m4a",
-        "size_kb": 530.4
       },
       {
         "path": "images/activities/narrador_c.svg",
@@ -386,14 +382,6 @@
       {
         "path": "images/certificates/PA_certificate_Seguridad de mi niña o niño.png",
         "size_kb": 134.2
-      },
-      {
-        "path": "images/character_icons/ANGEL.svg",
-        "size_kb": 921.4
-      },
-      {
-        "path": "images/character_icons/ANGELA.svg",
-        "size_kb": 9477.2
       },
       {
         "path": "images/character_icons/ANGELA_comic.svg",
@@ -951,16 +939,6 @@
         "missing": true
       },
       {
-        "path": "images/facilitators/ANGEL.svg",
-        "count": 3,
-        "missing": true
-      },
-      {
-        "path": "images/facilitators/ANGELA.svg",
-        "count": 3,
-        "missing": true
-      },
-      {
         "path": "images/homescreen/behave_c.svg",
         "count": 12,
         "missing": true
@@ -1218,6 +1196,11 @@
         "path": "audio/relax/relax_8.m4a",
         "count": 1,
         "size_kb": 284.2
+      },
+      {
+        "path": "audio/relax/relax_9.m4a",
+        "count": 11,
+        "size_kb": 530.4
       },
       {
         "path": "images/activities/aciegas_c.svg",
@@ -1588,6 +1571,16 @@
         "path": "images/character_icons/AMIGA_MUJER_2.svg",
         "count": 1,
         "size_kb": 1412.5
+      },
+      {
+        "path": "images/character_icons/ANGELA_facilitator.svg",
+        "count": 3,
+        "size_kb": 9477.2
+      },
+      {
+        "path": "images/character_icons/ANGEL_facilitator.svg",
+        "count": 3,
+        "size_kb": 921.4
       },
       {
         "path": "images/character_icons/F1_HIJA_13.svg",
