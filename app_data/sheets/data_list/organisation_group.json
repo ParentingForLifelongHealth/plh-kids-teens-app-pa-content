@@ -6,25 +6,25 @@
   "rows": [
     {
       "id": "partners",
-      "name": "Partners",
+      "name": "Aliados",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Partners"
+          "eng": "Aliados"
         }
       }
     },
     {
       "id": "funders",
-      "name": "Donors",
+      "name": "Donantes",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Donors"
+          "eng": "Donantes"
         }
       }
     }

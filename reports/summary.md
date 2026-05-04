@@ -87,8 +87,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 69646 KB | 69.6 MB |
-| unused | 7380 KB | 7.4 MB |
+| total | 61728 KB | 61.7 MB |
+| unused | 27505 KB | 27.5 MB |
 </details>
 
 <details open>
@@ -108,17 +108,21 @@ Assets that appear in app-data but do not have references within sheets
 | images/activities/personajes_t.svg | 54 |
 | images/backgrounds/homescreen_pattern.svg | 156.3 |
 | images/backgrounds/progress_arc.png | 255.4 |
-| images/certificates/PA_certificate_Apoyar a mi adolescente en su aprendizaje.pptx.png | 135.9 |
-| images/certificates/PA_certificate_Apoyar a mi niña o niño en su aprendizaje.pptx.png | 135.8 |
-| images/certificates/PA_certificate_Cuidar del bienestar de mi adolescente y del mio.png | 136.2 |
-| images/certificates/PA_certificate_Entender el desarrollo de mi niña o niño.png | 135.5 |
-| images/certificates/PA_certificate_Guiar el buen comportamiento de mi adolescente.png | 136.2 |
-| images/certificates/PA_certificate_Guiar el buen comportamiento de mi niña o niño.png | 136.1 |
-| images/certificates/PA_certificate_Mejorar la relación con mi adolescente.png | 135.7 |
-| images/certificates/PA_certificate_Mejorar la relación con mi niña o niño.png | 135.5 |
-| images/certificates/PA_certificate_Responsabilidad e involucramiento en la crianza compartida.png | 136.9 |
-| images/certificates/PA_certificate_Seguridad de mi adolescente.png | 135 |
-| images/certificates/PA_certificate_Seguridad de mi niña o niño.png | 134.8 |
+| images/certificates/PA_certificate_Apoyar a mi adolescente en su aprendizaje.pptx.png | 135.3 |
+| images/certificates/PA_certificate_Apoyar a mi niña o niño en su aprendizaje.pptx.png | 135 |
+| images/certificates/PA_certificate_Cuidar del bienestar de mi adolescente y del mio.png | 135.6 |
+| images/certificates/PA_certificate_Entender el desarrollo de mi niña o niño.png | 134.8 |
+| images/certificates/PA_certificate_Guiar el buen comportamiento de mi adolescente.png | 135.6 |
+| images/certificates/PA_certificate_Guiar el buen comportamiento de mi niña o niño.png | 135.4 |
+| images/certificates/PA_certificate_Mejorar la relación con mi adolescente.png | 135.1 |
+| images/certificates/PA_certificate_Mejorar la relación con mi niña o niño.png | 131 |
+| images/certificates/PA_certificate_Responsabilidad e involucramiento en la crianza compartida.png | 136.4 |
+| images/certificates/PA_certificate_Seguridad de mi adolescente.png | 134.5 |
+| images/certificates/PA_certificate_Seguridad de mi niña o niño.png | 134.2 |
+| images/character_icons/ANGEL.svg | 921.4 |
+| images/character_icons/ANGELA.svg | 9477.2 |
+| images/character_icons/ANGELA_comic.svg | 909.5 |
+| images/character_icons/ANGEL_comic.svg | 910.1 |
 | images/comic/relation/calm_teen_5.svg | 37.3 |
 | images/comic/safe/com_safety_2to4_yc_1.svg | 34.1 |
 | images/comic/safe/com_safety_2to4_yc_2.svg | 36.4 |
@@ -183,6 +187,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/comic/understand/play_yc_2.svg | 38.7 |
 | images/comic/understand/play_yc_3.svg | 25.9 |
 | images/comic/understand/play_yc_4.svg | 25.7 |
+| images/facilitators/Angel_male.jpeg | 60.5 |
+| images/facilitators/Angela_female.jpg | 7857.1 |
 | images/flags/gb.svg | 0.5 |
 | images/icons/balance_blue.png | 4.7 |
 | images/icons/book_outline_blue.svg | 0.7 |
@@ -261,6 +267,8 @@ Assets that have references within sheets but do not appear in app-data
 | images/activities/narracion_c.svg | 2 |
 | images/activities/narracion_t.svg | 2 |
 | images/comic/relation/calm_teen_3.svg | 2 |
+| images/facilitators/ANGEL.svg | 3 |
+| images/facilitators/ANGELA.svg | 3 |
 | images/homescreen/behave_c.svg | 12 |
 | images/homescreen/behave_t.svg | 12 |
 | images/homescreen/check_in/traditional_rondavel_closed.svg | 1 |
@@ -636,8 +644,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/comic/understand/young_child_change_yc_2.svg | 40.9 | 2 |
 | images/comic/understand/young_child_change_yc_3.svg | 37 | 2 |
 | images/comic/understand/young_child_change_yc_4.svg | 38 | 2 |
-| images/facilitators/Angel_male.jpeg | 60.5 | 3 |
-| images/facilitators/Angela_female.jpg | 7857.1 | 3 |
 | images/homescreen/courses/behave_c.svg | 1039 | 1 |
 | images/homescreen/courses/behave_t.svg | 518.5 | 1 |
 | images/homescreen/courses/ipv.svg | 691.3 | 1 |

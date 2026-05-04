@@ -7,52 +7,52 @@
     {
       "id": "parent",
       "name": "parent",
-      "text": "Parent or caregiver",
+      "text": "Madre, padre o persona cuidadora",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Parent or caregiver"
+          "eng": "Madre, padre o persona cuidadora"
         }
       }
     },
     {
       "id": "facilitator",
       "name": "facilitator",
-      "text": "Facilitator",
+      "text": "Persona facilitadora",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Facilitator"
+          "eng": "Persona facilitadora"
         }
       }
     },
     {
       "id": "tester",
       "name": "tester",
-      "text": "System tester",
+      "text": "Persona evaluadora del sistema",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "System tester"
+          "eng": "Persona evaluadora del sistema"
         }
       }
     },
     {
       "id": "other",
       "name": "other",
-      "text": "None of the above",
+      "text": "Ninguna de las anteriores",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "None of the above"
+          "eng": "Ninguna de las anteriores"
         }
       }
     }

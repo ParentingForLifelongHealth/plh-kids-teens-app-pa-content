@@ -8,64 +8,64 @@
     {
       "id": "support",
       "image": "images/icons/question_mark_blue.svg",
-      "title": "Support Contacts",
+      "title": "Red de apoyo",
       "_translations": {
         "title": {},
         "introduction": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Support Contacts"
+          "eng": "Red de apoyo"
         },
         "introduction": {
-          "eng": "I need help with:"
+          "eng": "¿En qué necesitas ayuda?"
         }
       },
-      "introduction": "I need help with:"
+      "introduction": "¿En qué necesitas ayuda?"
     },
     {
       "id": "essential_tools",
       "image": "images/icons/star_outline_blue.svg",
-      "title": "Essential Tools",
+      "title": "Recursos útiles",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Essential Tools"
+          "eng": "Recursos útiles"
         }
       }
     },
     {
       "id": "relax",
       "image": "images/icons/smile_eyes_down.svg",
-      "title": "Take a Pause",
+      "title": "Toma una pausa",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Take a Pause"
+          "eng": "Toma una pausa"
         }
       }
     },
     {
       "id": "certificate",
       "image": "images/icons/document-text-outline-thin.svg",
-      "title": "My Certificates",
+      "title": "Mis certificados",
       "_translations": {
         "title": {},
         "introduction": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "My Certificates"
+          "eng": "Mis certificados"
         },
         "introduction": {
-          "eng": "Complete your course and tell us how your home practice went to unlock your certificate."
+          "eng": "Completa el curso y cuéntanos cómo te fue practicando en casa para obtener tu certificado."
         }
       },
-      "introduction": "Complete your course and tell us how your home practice went to unlock your certificate."
+      "introduction": "Completa el curso y cuéntanos cómo te fue practicando en casa para obtener tu certificado."
     }
   ],
   "_source": {

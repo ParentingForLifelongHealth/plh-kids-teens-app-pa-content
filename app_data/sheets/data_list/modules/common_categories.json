@@ -9,91 +9,91 @@
       "id": "relax",
       "icon_asset": "images/icons/smile_eyes_down.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1FFkho-7gOPLNo29UNuV2z-bGpJ5_2Q8jGSKcC1Mou38",
-      "title": "Relax",
+      "title": "Toma una pausa",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Relax"
+          "eng": "Toma una pausa"
         }
       }
     },
     {
       "id": "check_in",
       "icon_asset": "images/icons/smile_eyes_up.svg",
-      "title": "Check-in",
+      "title": "¿Cómo estás hoy?",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Check-in"
+          "eng": "¿Cómo estás hoy?"
         }
       }
     },
     {
       "id": "intro",
       "icon_asset": "images/icons/picture_book.svg",
-      "title": "Today's Topic",
+      "title": "El tema de hoy",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Today's Topic"
+          "eng": "El tema de hoy"
         }
       }
     },
     {
       "id": "explore",
       "icon_asset": "images/icons/magnifying_glass.svg",
-      "title": "Explore",
+      "title": "Descubre",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Explore"
+          "eng": "Descubre"
         }
       }
     },
     {
       "id": "practical_tips",
       "icon_asset": "images/icons/thought_bubble.svg",
-      "title": "Review",
+      "title": "Reflexiona",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Review"
+          "eng": "Reflexiona"
         }
       }
     },
     {
       "id": "practise",
       "icon_asset": "images/icons/pencil.svg",
-      "title": "Practise",
+      "title": "Ponlo en práctica",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Practise"
+          "eng": "Ponlo en práctica"
         }
       }
     },
     {
       "id": "notice",
       "icon_asset": "images/icons/pause.svg",
-      "title": "Content Notice",
+      "title": "Aviso sobre el contenido",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Content Notice"
+          "eng": "Aviso sobre el contenido"
         }
       }
     }

@@ -7,65 +7,65 @@
     {
       "id": "single",
       "name": "single",
-      "text": "Soltero o soltera (sin pareja)",
+      "text": "Soltera o soltero (sin pareja)",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Soltero o soltera (sin pareja)"
+          "eng": "Soltera o soltero (sin pareja)"
         }
       }
     },
     {
       "id": "married",
       "name": "married",
-      "text": "Casado o casada",
+      "text": "Casada o casado",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Casado o casada"
+          "eng": "Casada o casado"
         }
       }
     },
     {
       "id": "partner",
       "name": "partner",
-      "text": "En pareja pero no casado",
+      "text": "En pareja (sin matrimonio)",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "En pareja pero no casado"
+          "eng": "En pareja (sin matrimonio)"
         }
       }
     },
     {
       "id": "divorced",
       "name": "divorced",
-      "text": "Divorciado o separado",
+      "text": "Separación o divorcio",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Divorciado o separado"
+          "eng": "Separación o divorcio"
         }
       }
     },
     {
       "id": "widow",
       "name": "widow",
-      "text": "Viudo o viuda",
+      "text": "Viuda o viudo",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Viudo o viuda"
+          "eng": "Viuda o viudo"
         }
       }
     },

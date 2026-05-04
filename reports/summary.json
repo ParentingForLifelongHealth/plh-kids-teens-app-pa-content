@@ -291,13 +291,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "69646 KB",
-        "MB": "69.6 MB"
+        "KB": "61728 KB",
+        "MB": "61.7 MB"
       },
       {
         "assets": "unused",
-        "KB": "7380 KB",
-        "MB": "7.4 MB"
+        "KB": "27505 KB",
+        "MB": "27.5 MB"
       }
     ]
   },
@@ -345,47 +345,63 @@
       },
       {
         "path": "images/certificates/PA_certificate_Apoyar a mi adolescente en su aprendizaje.pptx.png",
-        "size_kb": 135.9
+        "size_kb": 135.3
       },
       {
         "path": "images/certificates/PA_certificate_Apoyar a mi niña o niño en su aprendizaje.pptx.png",
-        "size_kb": 135.8
-      },
-      {
-        "path": "images/certificates/PA_certificate_Cuidar del bienestar de mi adolescente y del mio.png",
-        "size_kb": 136.2
-      },
-      {
-        "path": "images/certificates/PA_certificate_Entender el desarrollo de mi niña o niño.png",
-        "size_kb": 135.5
-      },
-      {
-        "path": "images/certificates/PA_certificate_Guiar el buen comportamiento de mi adolescente.png",
-        "size_kb": 136.2
-      },
-      {
-        "path": "images/certificates/PA_certificate_Guiar el buen comportamiento de mi niña o niño.png",
-        "size_kb": 136.1
-      },
-      {
-        "path": "images/certificates/PA_certificate_Mejorar la relación con mi adolescente.png",
-        "size_kb": 135.7
-      },
-      {
-        "path": "images/certificates/PA_certificate_Mejorar la relación con mi niña o niño.png",
-        "size_kb": 135.5
-      },
-      {
-        "path": "images/certificates/PA_certificate_Responsabilidad e involucramiento en la crianza compartida.png",
-        "size_kb": 136.9
-      },
-      {
-        "path": "images/certificates/PA_certificate_Seguridad de mi adolescente.png",
         "size_kb": 135
       },
       {
-        "path": "images/certificates/PA_certificate_Seguridad de mi niña o niño.png",
+        "path": "images/certificates/PA_certificate_Cuidar del bienestar de mi adolescente y del mio.png",
+        "size_kb": 135.6
+      },
+      {
+        "path": "images/certificates/PA_certificate_Entender el desarrollo de mi niña o niño.png",
         "size_kb": 134.8
+      },
+      {
+        "path": "images/certificates/PA_certificate_Guiar el buen comportamiento de mi adolescente.png",
+        "size_kb": 135.6
+      },
+      {
+        "path": "images/certificates/PA_certificate_Guiar el buen comportamiento de mi niña o niño.png",
+        "size_kb": 135.4
+      },
+      {
+        "path": "images/certificates/PA_certificate_Mejorar la relación con mi adolescente.png",
+        "size_kb": 135.1
+      },
+      {
+        "path": "images/certificates/PA_certificate_Mejorar la relación con mi niña o niño.png",
+        "size_kb": 131
+      },
+      {
+        "path": "images/certificates/PA_certificate_Responsabilidad e involucramiento en la crianza compartida.png",
+        "size_kb": 136.4
+      },
+      {
+        "path": "images/certificates/PA_certificate_Seguridad de mi adolescente.png",
+        "size_kb": 134.5
+      },
+      {
+        "path": "images/certificates/PA_certificate_Seguridad de mi niña o niño.png",
+        "size_kb": 134.2
+      },
+      {
+        "path": "images/character_icons/ANGEL.svg",
+        "size_kb": 921.4
+      },
+      {
+        "path": "images/character_icons/ANGELA.svg",
+        "size_kb": 9477.2
+      },
+      {
+        "path": "images/character_icons/ANGELA_comic.svg",
+        "size_kb": 909.5
+      },
+      {
+        "path": "images/character_icons/ANGEL_comic.svg",
+        "size_kb": 910.1
       },
       {
         "path": "images/comic/relation/calm_teen_5.svg",
@@ -642,6 +658,14 @@
       {
         "path": "images/comic/understand/play_yc_4.svg",
         "size_kb": 25.7
+      },
+      {
+        "path": "images/facilitators/Angel_male.jpeg",
+        "size_kb": 60.5
+      },
+      {
+        "path": "images/facilitators/Angela_female.jpg",
+        "size_kb": 7857.1
       },
       {
         "path": "images/flags/gb.svg",
@@ -924,6 +948,16 @@
       {
         "path": "images/comic/relation/calm_teen_3.svg",
         "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/facilitators/ANGEL.svg",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "images/facilitators/ANGELA.svg",
+        "count": 3,
         "missing": true
       },
       {
@@ -2759,16 +2793,6 @@
         "path": "images/comic/understand/young_child_change_yc_4.svg",
         "count": 2,
         "size_kb": 38
-      },
-      {
-        "path": "images/facilitators/Angel_male.jpeg",
-        "count": 3,
-        "size_kb": 60.5
-      },
-      {
-        "path": "images/facilitators/Angela_female.jpg",
-        "count": 3,
-        "size_kb": 7857.1
       },
       {
         "path": "images/homescreen/courses/behave_c.svg",
