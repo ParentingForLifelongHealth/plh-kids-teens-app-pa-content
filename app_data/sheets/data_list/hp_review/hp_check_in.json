@@ -11,25 +11,31 @@
       "ok_image_asset": "images/icons/faces/neutral.svg",
       "sad_image_asset": "images/icons/faces/sad.svg",
       "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
-      "notification_text": "¿Cómo va el Tiempo Juntos y Conectados?",
+      "notification_text": "¿Cómo les ha ido con su tiempo juntos y conectados?",
       "_translations": {
         "notification_text": {},
         "text_goal": {},
+        "question_done": {},
+        "reply_no": {},
         "reply_happy": {},
         "reply_ok": {},
         "reply_sad": {},
         "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
         "question_how": {},
         "outro_text": {}
       },
       "_translatedFields": {
         "notification_text": {
-          "eng": "¿Cómo va el Tiempo Juntos y Conectados?"
+          "eng": "¿Cómo les ha ido con su tiempo juntos y conectados?"
         },
         "text_goal": {
           "eng": "Tu objetivo era pasar al menos 15 minutos de tiempo juntos y conectados todos los días."
+        },
+        "question_done": {
+          "eng": "En las últimas 24 horas, ¿pasaste al menos 15 minutos de tiempo juntos y conectados con tu niña o niño?"
+        },
+        "reply_no": {
+          "eng": "Está bien, no pasa nada. En este curso aprenderás más sobre la importancia de pasar tiempo juntos y conectados con tu niña o niño."
         },
         "reply_happy": {
           "eng": "¡Excelente! Sigue trabajando para mejorar tu relación con tu niña o niño."
@@ -41,30 +47,24 @@
           "eng": "Lamento escuchar que el Tiempo para estar Juntos y Conectados ha sido más difícil de lo esperado."
         },
         "activity_title": {
-          "eng": "Let’s check in on your home activity!"
-        },
-        "question_done": {
-          "eng": "Did you have a chance to try this?"
-        },
-        "reply_no": {
-          "eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can."
+          "eng": "¡Veamos cómo te fue con la actividad para casa!"
         },
         "question_how": {
-          "eng": "How did it go?"
+          "eng": "¿Cómo te fue?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+          "eng": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
         }
       },
       "text_goal": "Tu objetivo era pasar al menos 15 minutos de tiempo juntos y conectados todos los días.",
+      "question_done": "En las últimas 24 horas, ¿pasaste al menos 15 minutos de tiempo juntos y conectados con tu niña o niño?",
+      "reply_no": "Está bien, no pasa nada. En este curso aprenderás más sobre la importancia de pasar tiempo juntos y conectados con tu niña o niño.",
       "reply_happy": "¡Excelente! Sigue trabajando para mejorar tu relación con tu niña o niño.",
       "reply_ok": "Lamento escuchar que el Tiempo para estar Juntos y Conectados ha sido más difícil de lo esperado.",
       "reply_sad": "Lamento escuchar que el Tiempo para estar Juntos y Conectados ha sido más difícil de lo esperado.",
-      "activity_title": "Let’s check in on your home activity!",
-      "question_done": "Did you have a chance to try this?",
-      "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
-      "question_how": "How did it go?",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+      "activity_title": "¡Veamos cómo te fue con la actividad para casa!",
+      "question_how": "¿Cómo te fue?",
+      "outro_text": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
     },
     {
       "id": "relation_t",
@@ -72,24 +72,31 @@
       "ok_image_asset": "images/icons/faces/neutral.svg",
       "sad_image_asset": "images/icons/faces/sad.svg",
       "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
-      "notification_text": "¿Cómo va el Tiempo de estar Juntos y Conectados?",
+      "notification_text": "¿Cómo les ha ido con su tiempo juntos y conectados?",
       "_translations": {
         "notification_text": {},
+        "text_goal": {},
+        "question_done": {},
         "reply_happy": {},
         "reply_ok": {},
         "reply_sad": {},
         "activity_title": {},
-        "question_done": {},
         "reply_no": {},
         "question_how": {},
         "outro_text": {}
       },
       "_translatedFields": {
         "notification_text": {
-          "eng": "¿Cómo va el Tiempo de estar Juntos y Conectados?"
+          "eng": "¿Cómo les ha ido con su tiempo juntos y conectados?"
+        },
+        "text_goal": {
+          "eng": "Tu objetivo era pasar al menos 15 minutos de tiempo juntos y conectados todos los días."
+        },
+        "question_done": {
+          "eng": "En las últimas 24 horas, ¿pasaste al menos 15 minutos de tiempo juntos y conectados con tu adolescente?"
         },
         "reply_happy": {
-          "eng": "¡Excelente! Sigue trabajando para mejorar tu relación con tu niña o niño."
+          "eng": "¡Excelente! Sigue trabajando para mejorar tu relación con tu adolescente."
         },
         "reply_ok": {
           "eng": "Lamento escuchar que el Tiempo de estar Juntos y Conectados ha sido más difícil de lo esperado."
@@ -98,29 +105,27 @@
           "eng": "Lamento escuchar que el Tiempo de estar Juntos y Conectados ha sido más difícil de lo esperado."
         },
         "activity_title": {
-          "eng": "Let’s check in on your home activity!"
-        },
-        "question_done": {
-          "eng": "Did you have a chance to try this?"
+          "eng": "¡Veamos cómo te fue con la actividad para casa!"
         },
         "reply_no": {
-          "eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can."
+          "eng": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad."
         },
         "question_how": {
-          "eng": "How did it go?"
+          "eng": "¿Cómo te fue?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+          "eng": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
         }
       },
-      "reply_happy": "¡Excelente! Sigue trabajando para mejorar tu relación con tu niña o niño.",
+      "text_goal": "Tu objetivo era pasar al menos 15 minutos de tiempo juntos y conectados todos los días.",
+      "question_done": "En las últimas 24 horas, ¿pasaste al menos 15 minutos de tiempo juntos y conectados con tu adolescente?",
+      "reply_happy": "¡Excelente! Sigue trabajando para mejorar tu relación con tu adolescente.",
       "reply_ok": "Lamento escuchar que el Tiempo de estar Juntos y Conectados ha sido más difícil de lo esperado.",
       "reply_sad": "Lamento escuchar que el Tiempo de estar Juntos y Conectados ha sido más difícil de lo esperado.",
-      "activity_title": "Let’s check in on your home activity!",
-      "question_done": "Did you have a chance to try this?",
-      "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
-      "question_how": "How did it go?",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+      "activity_title": "¡Veamos cómo te fue con la actividad para casa!",
+      "reply_no": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad.",
+      "question_how": "¿Cómo te fue?",
+      "outro_text": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
     },
     {
       "id": "understand_c",
@@ -154,29 +159,29 @@
           "eng": "Lamento escuchar que las actividades para apoyar el desarrollo de @fields.child_name no van bien."
         },
         "activity_title": {
-          "eng": "Let’s check in on your home activity!"
+          "eng": "¡Veamos cómo te fue con la actividad para casa!"
         },
         "question_done": {
-          "eng": "Did you have a chance to try this?"
+          "eng": "¿Tuviste oportunidad de ponerlo en práctica?"
         },
         "reply_no": {
-          "eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can."
+          "eng": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad."
         },
         "question_how": {
-          "eng": "How did it go?"
+          "eng": "¿Cómo te fue?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+          "eng": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
         }
       },
       "reply_happy": "¡Excelente! Sigue así, apoyando el desarrollo de @fields.child_name.",
       "reply_ok": "Lamento escuchar que las actividades para apoyar el desarrollo de @fields.child_name no van bien.",
       "reply_sad": "Lamento escuchar que las actividades para apoyar el desarrollo de @fields.child_name no van bien.",
-      "activity_title": "Let’s check in on your home activity!",
-      "question_done": "Did you have a chance to try this?",
-      "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
-      "question_how": "How did it go?",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+      "activity_title": "¡Veamos cómo te fue con la actividad para casa!",
+      "question_done": "¿Tuviste oportunidad de ponerlo en práctica?",
+      "reply_no": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad.",
+      "question_how": "¿Cómo te fue?",
+      "outro_text": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
     },
     {
       "id": "understand_t",
@@ -210,29 +215,29 @@
           "eng": "Lamento que esto sea difícil."
         },
         "activity_title": {
-          "eng": "Let’s check in on your home activity!"
+          "eng": "¡Veamos cómo te fue con la actividad para casa!"
         },
         "question_done": {
-          "eng": "Did you have a chance to try this?"
+          "eng": "¿Tuviste oportunidad de ponerlo en práctica?"
         },
         "reply_no": {
-          "eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can."
+          "eng": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad."
         },
         "question_how": {
-          "eng": "How did it go?"
+          "eng": "¿Cómo te fue?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+          "eng": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
         }
       },
       "reply_happy": "¡Excelente! Sigue con ese gran esfuerzo.",
       "reply_ok": "Lamento que esto sea difícil.",
       "reply_sad": "Lamento que esto sea difícil.",
-      "activity_title": "Let’s check in on your home activity!",
-      "question_done": "Did you have a chance to try this?",
-      "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
-      "question_how": "How did it go?",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+      "activity_title": "¡Veamos cómo te fue con la actividad para casa!",
+      "question_done": "¿Tuviste oportunidad de ponerlo en práctica?",
+      "reply_no": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad.",
+      "question_how": "¿Cómo te fue?",
+      "outro_text": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
     },
     {
       "id": "behave_c",
@@ -243,52 +248,52 @@
       "notification_text": "¿Cómo va el intentar guiar el buen comportamiento de @fields.child_name?",
       "_translations": {
         "notification_text": {},
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "activity_title": {},
         "question_done": {},
         "reply_no": {},
         "question_how": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
         "outro_text": {}
       },
       "_translatedFields": {
         "notification_text": {
           "eng": "¿Cómo va el intentar guiar el buen comportamiento de @fields.child_name?"
         },
-        "activity_title": {
-          "eng": "Let’s check in on your home activity!"
-        },
-        "question_done": {
-          "eng": "Did you have a chance to try this?"
-        },
-        "reply_no": {
-          "eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can."
-        },
-        "question_how": {
-          "eng": "How did it go?"
-        },
         "reply_happy": {
-          "eng": "Great to hear it went well. You are a star!"
+          "eng": "¡Excelente! Sigue así, guiando el buen comportamiento de {tu niño}."
         },
         "reply_ok": {
-          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+          "eng": "Lamentamos escuchar no ha sido fácil guiar el comportamiento de @fields.child_name.\nPuedes encontrar más recursos de apoyo aquí: {structure resources}"
         },
         "reply_sad": {
-          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+          "eng": "Lamentamos escuchar no ha sido fácil guiar el comportamiento de @fields.child_name.\nPuedes encontrar más recursos de apoyo aquí: {structure resources}"
+        },
+        "activity_title": {
+          "eng": "¡Veamos cómo te fue con la actividad para casa!"
+        },
+        "question_done": {
+          "eng": "¿Tuviste oportunidad de ponerlo en práctica?"
+        },
+        "reply_no": {
+          "eng": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad."
+        },
+        "question_how": {
+          "eng": "¿Cómo te fue?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+          "eng": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
         }
       },
-      "activity_title": "Let’s check in on your home activity!",
-      "question_done": "Did you have a chance to try this?",
-      "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
-      "question_how": "How did it go?",
-      "reply_happy": "Great to hear it went well. You are a star!",
-      "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
-      "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+      "reply_happy": "¡Excelente! Sigue así, guiando el buen comportamiento de {tu niño}.",
+      "reply_ok": "Lamentamos escuchar no ha sido fácil guiar el comportamiento de @fields.child_name.\nPuedes encontrar más recursos de apoyo aquí: {structure resources}",
+      "reply_sad": "Lamentamos escuchar no ha sido fácil guiar el comportamiento de @fields.child_name.\nPuedes encontrar más recursos de apoyo aquí: {structure resources}",
+      "activity_title": "¡Veamos cómo te fue con la actividad para casa!",
+      "question_done": "¿Tuviste oportunidad de ponerlo en práctica?",
+      "reply_no": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad.",
+      "question_how": "¿Cómo te fue?",
+      "outro_text": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
     },
     {
       "id": "behave_t",
@@ -296,55 +301,55 @@
       "ok_image_asset": "images/icons/faces/neutral.svg",
       "sad_image_asset": "images/icons/faces/sad.svg",
       "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
-      "notification_text": "¿Cómo va el intentar Guiar el Buen Comportamiento de tu Adolescente?",
+      "notification_text": "¿Cómo va el intentar guiar el buen comportamiento de tu adolescente?",
       "_translations": {
         "notification_text": {},
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "activity_title": {},
         "question_done": {},
         "reply_no": {},
         "question_how": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
         "outro_text": {}
       },
       "_translatedFields": {
         "notification_text": {
-          "eng": "¿Cómo va el intentar Guiar el Buen Comportamiento de tu Adolescente?"
-        },
-        "activity_title": {
-          "eng": "Let’s check in on your home activity!"
-        },
-        "question_done": {
-          "eng": "Did you have a chance to try this?"
-        },
-        "reply_no": {
-          "eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can."
-        },
-        "question_how": {
-          "eng": "How did it go?"
+          "eng": "¿Cómo va el intentar guiar el buen comportamiento de tu adolescente?"
         },
         "reply_happy": {
-          "eng": "Great to hear it went well. You are a star!"
+          "eng": "¡Excelente! Sigue así, guiando el buen comportamiento de tu adolescente."
         },
         "reply_ok": {
-          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+          "eng": "Lamento que el guiar el buen comportamiento de tu adolescente no vaya muy bien."
         },
         "reply_sad": {
-          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+          "eng": "Lamento que el guiar el buen comportamiento de tu adolescente no vaya muy bien."
+        },
+        "activity_title": {
+          "eng": "¡Veamos cómo te fue con la actividad para casa!"
+        },
+        "question_done": {
+          "eng": "¿Tuviste oportunidad de ponerlo en práctica?"
+        },
+        "reply_no": {
+          "eng": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad."
+        },
+        "question_how": {
+          "eng": "¿Cómo te fue?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+          "eng": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
         }
       },
-      "activity_title": "Let’s check in on your home activity!",
-      "question_done": "Did you have a chance to try this?",
-      "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
-      "question_how": "How did it go?",
-      "reply_happy": "Great to hear it went well. You are a star!",
-      "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
-      "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+      "reply_happy": "¡Excelente! Sigue así, guiando el buen comportamiento de tu adolescente.",
+      "reply_ok": "Lamento que el guiar el buen comportamiento de tu adolescente no vaya muy bien.",
+      "reply_sad": "Lamento que el guiar el buen comportamiento de tu adolescente no vaya muy bien.",
+      "activity_title": "¡Veamos cómo te fue con la actividad para casa!",
+      "question_done": "¿Tuviste oportunidad de ponerlo en práctica?",
+      "reply_no": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad.",
+      "question_how": "¿Cómo te fue?",
+      "outro_text": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
     },
     {
       "id": "safety_c",
@@ -355,52 +360,52 @@
       "notification_text": "¿Qué fue lo que más se te dificultó al procurar la seguridad de @fields.child_name dentro y fuera de internet?",
       "_translations": {
         "notification_text": {},
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "activity_title": {},
         "question_done": {},
         "reply_no": {},
         "question_how": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
         "outro_text": {}
       },
       "_translatedFields": {
         "notification_text": {
           "eng": "¿Qué fue lo que más se te dificultó al procurar la seguridad de @fields.child_name dentro y fuera de internet?"
         },
-        "activity_title": {
-          "eng": "Let’s check in on your home activity!"
-        },
-        "question_done": {
-          "eng": "Did you have a chance to try this?"
-        },
-        "reply_no": {
-          "eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can."
-        },
-        "question_how": {
-          "eng": "How did it go?"
-        },
         "reply_happy": {
-          "eng": "Great to hear it went well. You are a star!"
+          "eng": "📺 ¡Excelente! Sigue así, trabajando para mantener la seguridad de tu niña, niño o adolescente dentro y fuera de internet."
         },
         "reply_ok": {
-          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+          "eng": "😔 Lamentamos escuchar que te está costando trabajo mantener la seguridad de @fields.child_name dentro y fuera del internet.\n\n💡 Si necesitas apoyo, considera la posibilidad de pedir ayuda en la escuela de @fields.child_name, con la familia o con amistades  a quienes se les facilité la tecnología.\n \nRecuerda que el bienestar de @fields.child_name es importante, así como el de tu familia."
         },
         "reply_sad": {
-          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+          "eng": "😔 Lamentamos escuchar que te está costando trabajo mantener la seguridad de @fields.child_name dentro y fuera del internet.\n\n💡 Si necesitas apoyo, considera la posibilidad de pedir ayuda en la escuela de @fields.child_name, con la familia o con amistades  a quienes se les facilité la tecnología.\n \nRecuerda que el bienestar de @fields.child_name es importante, así como el de tu familia."
+        },
+        "activity_title": {
+          "eng": "¡Veamos cómo te fue con la actividad para casa!"
+        },
+        "question_done": {
+          "eng": "¿Tuviste oportunidad de ponerlo en práctica?"
+        },
+        "reply_no": {
+          "eng": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad."
+        },
+        "question_how": {
+          "eng": "¿Cómo te fue?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+          "eng": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
         }
       },
-      "activity_title": "Let’s check in on your home activity!",
-      "question_done": "Did you have a chance to try this?",
-      "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
-      "question_how": "How did it go?",
-      "reply_happy": "Great to hear it went well. You are a star!",
-      "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
-      "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+      "reply_happy": "📺 ¡Excelente! Sigue así, trabajando para mantener la seguridad de tu niña, niño o adolescente dentro y fuera de internet.",
+      "reply_ok": "😔 Lamentamos escuchar que te está costando trabajo mantener la seguridad de @fields.child_name dentro y fuera del internet.\n\n💡 Si necesitas apoyo, considera la posibilidad de pedir ayuda en la escuela de @fields.child_name, con la familia o con amistades  a quienes se les facilité la tecnología.\n \nRecuerda que el bienestar de @fields.child_name es importante, así como el de tu familia.",
+      "reply_sad": "😔 Lamentamos escuchar que te está costando trabajo mantener la seguridad de @fields.child_name dentro y fuera del internet.\n\n💡 Si necesitas apoyo, considera la posibilidad de pedir ayuda en la escuela de @fields.child_name, con la familia o con amistades  a quienes se les facilité la tecnología.\n \nRecuerda que el bienestar de @fields.child_name es importante, así como el de tu familia.",
+      "activity_title": "¡Veamos cómo te fue con la actividad para casa!",
+      "question_done": "¿Tuviste oportunidad de ponerlo en práctica?",
+      "reply_no": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad.",
+      "question_how": "¿Cómo te fue?",
+      "outro_text": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
     },
     {
       "id": "safety_t",
@@ -411,52 +416,52 @@
       "notification_text": "¿Cómo vas con el mantenerte al tanto de la vida social de tu adolescente?",
       "_translations": {
         "notification_text": {},
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "activity_title": {},
         "question_done": {},
         "reply_no": {},
         "question_how": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
         "outro_text": {}
       },
       "_translatedFields": {
         "notification_text": {
           "eng": "¿Cómo vas con el mantenerte al tanto de la vida social de tu adolescente?"
         },
-        "activity_title": {
-          "eng": "Let’s check in on your home activity!"
-        },
-        "question_done": {
-          "eng": "Did you have a chance to try this?"
-        },
-        "reply_no": {
-          "eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can."
-        },
-        "question_how": {
-          "eng": "How did it go?"
-        },
         "reply_happy": {
-          "eng": "Great to hear it went well. You are a star!"
+          "eng": "¡Excelente! Sigue con ese gran esfuerzo."
         },
         "reply_ok": {
-          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+          "eng": "Lamento que esto sea difícil."
         },
         "reply_sad": {
-          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+          "eng": "Lamento que esto sea difícil."
+        },
+        "activity_title": {
+          "eng": "¡Veamos cómo te fue con la actividad para casa!"
+        },
+        "question_done": {
+          "eng": "¿Tuviste oportunidad de ponerlo en práctica?"
+        },
+        "reply_no": {
+          "eng": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad."
+        },
+        "question_how": {
+          "eng": "¿Cómo te fue?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+          "eng": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
         }
       },
-      "activity_title": "Let’s check in on your home activity!",
-      "question_done": "Did you have a chance to try this?",
-      "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
-      "question_how": "How did it go?",
-      "reply_happy": "Great to hear it went well. You are a star!",
-      "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
-      "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+      "reply_happy": "¡Excelente! Sigue con ese gran esfuerzo.",
+      "reply_ok": "Lamento que esto sea difícil.",
+      "reply_sad": "Lamento que esto sea difícil.",
+      "activity_title": "¡Veamos cómo te fue con la actividad para casa!",
+      "question_done": "¿Tuviste oportunidad de ponerlo en práctica?",
+      "reply_no": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad.",
+      "question_how": "¿Cómo te fue?",
+      "outro_text": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
     },
     {
       "id": "learn_c",
@@ -467,52 +472,52 @@
       "notification_text": "¿Qué fue lo que más se te dificultó al hacer actividades con @fields.child_name para apoyar su aprendizaje?",
       "_translations": {
         "notification_text": {},
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "activity_title": {},
         "question_done": {},
         "reply_no": {},
         "question_how": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
         "outro_text": {}
       },
       "_translatedFields": {
         "notification_text": {
           "eng": "¿Qué fue lo que más se te dificultó al hacer actividades con @fields.child_name para apoyar su aprendizaje?"
         },
-        "activity_title": {
-          "eng": "Let’s check in on your home activity!"
-        },
-        "question_done": {
-          "eng": "Did you have a chance to try this?"
-        },
-        "reply_no": {
-          "eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can."
-        },
-        "question_how": {
-          "eng": "How did it go?"
-        },
         "reply_happy": {
-          "eng": "Great to hear it went well. You are a star!"
+          "eng": "¡Excelente! Sigue así, apoyando el aprendizaje de tu niña o niño."
         },
         "reply_ok": {
-          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+          "eng": "Lamentamos escuchar que tienes dificultades para apoyar el aprendizaje o las actividades académicas de @fields.child_name"
         },
         "reply_sad": {
-          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+          "eng": "Lamentamos escuchar que tienes dificultades para apoyar el aprendizaje o las actividades académicas de @fields.child_name"
+        },
+        "activity_title": {
+          "eng": "¡Veamos cómo te fue con la actividad para casa!"
+        },
+        "question_done": {
+          "eng": "¿Tuviste oportunidad de ponerlo en práctica?"
+        },
+        "reply_no": {
+          "eng": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad."
+        },
+        "question_how": {
+          "eng": "¿Cómo te fue?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+          "eng": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
         }
       },
-      "activity_title": "Let’s check in on your home activity!",
-      "question_done": "Did you have a chance to try this?",
-      "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
-      "question_how": "How did it go?",
-      "reply_happy": "Great to hear it went well. You are a star!",
-      "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
-      "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+      "reply_happy": "¡Excelente! Sigue así, apoyando el aprendizaje de tu niña o niño.",
+      "reply_ok": "Lamentamos escuchar que tienes dificultades para apoyar el aprendizaje o las actividades académicas de @fields.child_name",
+      "reply_sad": "Lamentamos escuchar que tienes dificultades para apoyar el aprendizaje o las actividades académicas de @fields.child_name",
+      "activity_title": "¡Veamos cómo te fue con la actividad para casa!",
+      "question_done": "¿Tuviste oportunidad de ponerlo en práctica?",
+      "reply_no": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad.",
+      "question_how": "¿Cómo te fue?",
+      "outro_text": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
     },
     {
       "id": "learn_t",
@@ -546,29 +551,29 @@
           "eng": "Lamento que tengas dificultades para apoyar el aprendizaje y las tareas escolares de tu adolescente."
         },
         "activity_title": {
-          "eng": "Let’s check in on your home activity!"
+          "eng": "¡Veamos cómo te fue con la actividad para casa!"
         },
         "question_done": {
-          "eng": "Did you have a chance to try this?"
+          "eng": "¿Tuviste oportunidad de ponerlo en práctica?"
         },
         "reply_no": {
-          "eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can."
+          "eng": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad."
         },
         "question_how": {
-          "eng": "How did it go?"
+          "eng": "¿Cómo te fue?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+          "eng": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
         }
       },
       "reply_happy": "¡Excelente! Sigue así, apoyando el aprendizaje o las actividades académicas de tu adolescente.",
       "reply_ok": "Lamento que tengas dificultades para apoyar el aprendizaje y las tareas escolares de tu adolescente.",
       "reply_sad": "Lamento que tengas dificultades para apoyar el aprendizaje y las tareas escolares de tu adolescente.",
-      "activity_title": "Let’s check in on your home activity!",
-      "question_done": "Did you have a chance to try this?",
-      "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
-      "question_how": "How did it go?",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+      "activity_title": "¡Veamos cómo te fue con la actividad para casa!",
+      "question_done": "¿Tuviste oportunidad de ponerlo en práctica?",
+      "reply_no": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad.",
+      "question_how": "¿Cómo te fue?",
+      "outro_text": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
     },
     {
       "id": "ipv",
@@ -602,29 +607,29 @@
           "eng": "Lamento que esto sea difícil."
         },
         "activity_title": {
-          "eng": "Let’s check in on your home activity!"
+          "eng": "¡Veamos cómo te fue con la actividad para casa!"
         },
         "question_done": {
-          "eng": "Did you have a chance to try this?"
+          "eng": "¿Tuviste oportunidad de ponerlo en práctica?"
         },
         "reply_no": {
-          "eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can."
+          "eng": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad."
         },
         "question_how": {
-          "eng": "How did it go?"
+          "eng": "¿Cómo te fue?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+          "eng": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
         }
       },
       "reply_happy": "¡Excelente! Sigue con ese gran esfuerzo.",
       "reply_ok": "Lamento que esto sea difícil.",
       "reply_sad": "Lamento que esto sea difícil.",
-      "activity_title": "Let’s check in on your home activity!",
-      "question_done": "Did you have a chance to try this?",
-      "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
-      "question_how": "How did it go?",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+      "activity_title": "¡Veamos cómo te fue con la actividad para casa!",
+      "question_done": "¿Tuviste oportunidad de ponerlo en práctica?",
+      "reply_no": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad.",
+      "question_how": "¿Cómo te fue?",
+      "outro_text": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
     }
   ],
   "_source": {

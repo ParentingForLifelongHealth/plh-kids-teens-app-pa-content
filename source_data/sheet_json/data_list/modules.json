@@ -8,7 +8,7 @@
     {
       "id": "i_one_on_one_c",
       "tag_course": "relation_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 1,
       "title::eng": "Pasar Tiempo Juntos y Conectados",
@@ -19,7 +19,7 @@
     {
       "id": "i_give_praise_c",
       "tag_course": "relation_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 2,
       "title::eng": "Dar Reconocimiento",
@@ -30,7 +30,7 @@
     {
       "id": "i_routines_c",
       "tag_course": "relation_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 3,
       "title::eng": "Crear Rutinas",
@@ -41,7 +41,7 @@
     {
       "id": "i_feelings_c",
       "tag_course": "relation_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 4,
       "title::eng": "Identificar Emociones",
@@ -52,7 +52,7 @@
     {
       "id": "i_calm_c",
       "tag_course": "relation_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 5,
       "title::eng": "Mantener La Calma Cuando Hay Estrés",
@@ -63,7 +63,7 @@
     {
       "id": "i_one_on_one_t",
       "tag_course": "relation_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 6,
       "title::eng": "Pasar Tiempo Juntos y Conectados",
@@ -74,7 +74,7 @@
     {
       "id": "i_give_praise_t",
       "tag_course": "relation_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 7,
       "title::eng": "Dar Reconocimiento",
@@ -85,7 +85,7 @@
     {
       "id": "i_routines_t",
       "tag_course": "relation_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 8,
       "title::eng": "Crear Rutinas",
@@ -96,7 +96,7 @@
     {
       "id": "i_feelings_t",
       "tag_course": "relation_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 9,
       "title::eng": "Identificar Emociones",
@@ -107,7 +107,7 @@
     {
       "id": "i_calm_t",
       "tag_course": "relation_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 10,
       "title::eng": "Mantener La Calma Cuando Hay Estrés",
@@ -118,7 +118,7 @@
     {
       "id": "ipv_sharing_m",
       "tag_course": "ipv",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child; teen;",
       "number": 11,
       "title::eng": "Escuchar y Conversar Efectivamente",
@@ -129,7 +129,7 @@
     {
       "id": "ipv_supportive_m",
       "tag_course": "ipv",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child; teen;",
       "number": 12,
       "title::eng": "Tomar Decisiones en Equipo",
@@ -140,7 +140,7 @@
     {
       "id": "ipv_listen_m",
       "tag_course": "ipv",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child; teen;",
       "number": 13,
       "title::eng": "Ser una Figura de Apoyo en la Crianza y con la Pareja",
@@ -151,7 +151,7 @@
     {
       "id": "ipv_equals_m",
       "tag_course": "ipv",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child; teen;",
       "number": 14,
       "title::eng": "Papel de los Padres en la Crianza Compartida",
@@ -162,7 +162,7 @@
     {
       "id": "ipv_conflicts_m",
       "tag_course": "ipv",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child; teen;",
       "number": 15,
       "title::eng": "Resolver Conflictos Pacíficamente",
@@ -173,8 +173,8 @@
     {
       "id": "safe_2to5_yc_m",
       "tag_course": "safety_c",
-      "age_list_DELETE": "2;3;4;5",
-      "child_gender_list_DELETE": "male",
+      "age_list": "2;3;4;5",
+      "child_gender_list": "male",
       "tag_list": "child",
       "number": 16,
       "title::eng": "Enseñar sobre autocuidado y prevención del abuso a mi niño (2 a 5)",
@@ -185,8 +185,8 @@
     {
       "id": "safe_2to5_yc_f",
       "tag_course": "safety_c",
-      "age_list_DELETE": "2;3;4;5",
-      "child_gender_list_DELETE": "female; opt_out;",
+      "age_list": "2;3;4;5",
+      "child_gender_list": "female; opt_out;",
       "tag_list": "child",
       "number": 17,
       "title::eng": "Enseñar sobre autocuidado y prevención del abuso a mi niña (2 a 5)",
@@ -197,8 +197,8 @@
     {
       "id": "safe_6to9_yc",
       "tag_course": "safety_c",
-      "age_list_DELETE": "6;7;8;9",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "6;7;8;9",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 18,
       "title::eng": "Enseñar sobre autocuidado y prevención del abuso a mi niña o niño (6 a 9)",
@@ -209,8 +209,8 @@
     {
       "id": "com_safe_2to4_yc",
       "tag_course": "safety_c",
-      "age_list_DELETE": "2;3;4",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "2;3;4",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 19,
       "title::eng": "Crear un Plan de Seguridad con Mi Niña o Niño (2 a 4)",
@@ -221,8 +221,8 @@
     {
       "id": "com_safe_5to9_yc",
       "tag_course": "safety_c",
-      "age_list_DELETE": "5;6;7;8;9",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "5;6;7;8;9",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 20,
       "title::eng": "Crear un Plan de Seguridad con Mi Niña o Niño (5 a 9)",
@@ -233,8 +233,8 @@
     {
       "id": "crises_2to6_yc",
       "tag_course": "safety_c",
-      "age_list_DELETE": "2;3;4;5;6",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "2;3;4;5;6",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 21,
       "title::eng": "Saber Responder Ante Alguna Crisis (2 a 6)",
@@ -245,8 +245,8 @@
     {
       "id": "crises_7to9_yc",
       "tag_course": "safety_c",
-      "age_list_DELETE": "7;8;9",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "7;8;9",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 22,
       "title::eng": "Saber Responder Ante Alguna Crisis (7 a 9)",
@@ -257,7 +257,7 @@
     {
       "id": "online_safety_yc",
       "tag_course": "safety_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 23,
       "title::eng": "Usar con Responsabilidad y Seguridad los Dispositivos y Espacios Virtuales",
@@ -268,7 +268,7 @@
     {
       "id": "habits_online_yc",
       "tag_course": "safety_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 24,
       "title::eng": "Desarrollar Confianza y Hábitos Seguros para el Uso de Internet y Redes Sociales",
@@ -279,7 +279,7 @@
     {
       "id": "ks_c_safe_t",
       "tag_course": "safety_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 25,
       "title::eng": "Crear un Plan de Seguridad para Mi Adolescente",
@@ -290,7 +290,7 @@
     {
       "id": "ks_s_violence_t",
       "tag_course": "safety_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 26,
       "title::eng": "Prevenir la Violencia Sexual",
@@ -301,7 +301,7 @@
     {
       "id": "ks_crises_m_t",
       "tag_course": "safety_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 27,
       "title::eng": "Saber Responder Ante Alguna Crisis (fem)",
@@ -312,7 +312,7 @@
     {
       "id": "ks_crises_f_t",
       "tag_course": "safety_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 28,
       "title::eng": "Saber Responder Ante Alguna Crisis (mas)",
@@ -323,7 +323,7 @@
     {
       "id": "ks_online_saf_t",
       "tag_course": "safety_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 29,
       "title::eng": "Usar con Responsabilidad y Seguridad los Dispositivos y Espacios Virtuales",
@@ -334,7 +334,7 @@
     {
       "id": "ks_online_hab_t",
       "tag_course": "safety_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 30,
       "title::eng": "Desarrollar Confianza y Hábitos Seguros para el Uso de Internet y Redes Sociales",
@@ -345,7 +345,7 @@
     {
       "id": "manage_anger_c",
       "tag_course": "behave_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 31,
       "title::eng": "Estrategias para Regular la Ira",
@@ -356,7 +356,7 @@
     {
       "id": "keep_positive_c",
       "tag_course": "behave_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 32,
       "title::eng": "Enseñar Colaboración: Enfocarse en lo Positivo",
@@ -367,7 +367,7 @@
     {
       "id": "family_rules_c",
       "tag_course": "behave_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 33,
       "title::eng": "Acordar Reglas En Familia",
@@ -378,7 +378,7 @@
     {
       "id": "ignore_c",
       "tag_course": "behave_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 34,
       "title::eng": "Estrategias para Reducir Problemas de Comportamiento.",
@@ -389,7 +389,7 @@
     {
       "id": "consequences_c",
       "tag_course": "behave_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 35,
       "title::eng": "Estrategias para Reducir Problemas de Comportamiento: Consecuencias Justas.",
@@ -400,7 +400,7 @@
     {
       "id": "solve_problem_c",
       "tag_course": "behave_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 36,
       "title::eng": "Resolver Problemas con Mi Niña o Niño",
@@ -411,7 +411,7 @@
     {
       "id": "know_role_c",
       "tag_course": "behave_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 37,
       "title::eng": "Conocer el Papel de las Personas en la Familia: Todas y Todos Importamos",
@@ -422,7 +422,7 @@
     {
       "id": "Manage_anger_t",
       "tag_course": "behave_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 38,
       "title::eng": "Estrategias para Regular la Ira",
@@ -433,7 +433,7 @@
     {
       "id": "keep_positive_t",
       "tag_course": "behave_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 39,
       "title::eng": "Enseñar Colaboración: Enfocarse en lo Positivo",
@@ -444,7 +444,7 @@
     {
       "id": "Rules_t",
       "tag_course": "behave_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 40,
       "title::eng": "Acordar Reglas En Familia",
@@ -455,7 +455,7 @@
     {
       "id": "Consequences_t",
       "tag_course": "behave_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 41,
       "title::eng": "Estrategias para Reducir Problemas de Comportamiento: Consecuencias Justas.",
@@ -466,7 +466,7 @@
     {
       "id": "solve_problem_t",
       "tag_course": "behave_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 42,
       "title::eng": "Resolver Problemas con Mi Adolescente",
@@ -477,7 +477,7 @@
     {
       "id": "Know_role_t",
       "tag_course": "behave_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 43,
       "title::eng": "Conocer el Papel de las Personas en la Familia: Todas y Todos Importamos",
@@ -488,7 +488,7 @@
     {
       "id": "s_language_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 44,
       "title::eng": "Estimular el Lenguaje de Mi Niña o Niño",
@@ -499,7 +499,8 @@
     {
       "id": "s_read_2to3_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "2;3",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 45,
       "title::eng": "Disfrutar y Favorecer la Lectura (2 a 3)",
@@ -510,7 +511,8 @@
     {
       "id": "s_read1_4to6_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "4;5;6",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 46,
       "title::eng": "Disfrutar y Favorecer la Lectura: Parte 1 (4 a 6)",
@@ -521,7 +523,8 @@
     {
       "id": "s_read2_4to6_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "4;5;6",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 47,
       "title::eng": "Disfrutar y Favorecer la Lectura: Parte 2 (4 a 6)",
@@ -532,7 +535,8 @@
     {
       "id": "maths_2to3_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "2;3",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 48,
       "title::eng": "Enseñar Matemáticas Divertidas y Sencillas (2 a 3)",
@@ -543,7 +547,8 @@
     {
       "id": "maths1_4to6_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "4;5;6",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 49,
       "title::eng": "Enseñar Matemáticas Divertidas y Sencillas: Parte 1 (4 a 6)",
@@ -554,7 +559,8 @@
     {
       "id": "maths2_4to6_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "4;5;6",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 50,
       "title::eng": "Enseñar Matemáticas Divertidas y Sencillas: Parte 2 (4 a 6)",
@@ -565,7 +571,8 @@
     {
       "id": "school_3to9_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "3;4;5;6;7;8;9",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 51,
       "title::eng": "Involucrarse en las Actividades Escolares (3 a 9)",
@@ -576,7 +583,8 @@
     {
       "id": "fun_l_7to9_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "7;8;9",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 52,
       "title::eng": "Hacer Divertido el Aprendizaje",
@@ -587,7 +595,8 @@
     {
       "id": "help_l_7to9_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "7;8;9",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 53,
       "title::eng": "Apoyar el Aprendizaje de Mi Niña o Niño",
@@ -598,7 +607,8 @@
     {
       "id": "pos_learn_7to9_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "7;8;9",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 54,
       "title::eng": "Crear un Ambiente Positivo para el Aprendizaje de Mi Niña o Niño",
@@ -609,7 +619,8 @@
     {
       "id": "learn_mis_7to9_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "7;8;9",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 55,
       "title::eng": "Aprender de la Experiencia",
@@ -620,7 +631,7 @@
     {
       "id": "Fun_learning_t",
       "tag_course": "learn_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 58,
       "title::eng": "Hacer Divertido el Aprendizaje",
@@ -631,7 +642,7 @@
     {
       "id": "help_learn_t",
       "tag_course": "learn_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 59,
       "title::eng": "Apoyar el Aprendizaje de Mi Adolescente",
@@ -642,7 +653,7 @@
     {
       "id": "positive_learn_t",
       "tag_course": "learn_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 60,
       "title::eng": "Crear un Ambiente Positivo y de Aprendizaje para Mi Adolescente",
@@ -653,7 +664,7 @@
     {
       "id": "learn_mistakes_t",
       "tag_course": "learn_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 61,
       "title::eng": "Aprender de la Experiencia",
@@ -664,7 +675,7 @@
     {
       "id": "learn_people_t",
       "tag_course": "learn_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 62,
       "title::eng": "Aprender a Trabajar en Equipo",
@@ -675,7 +686,7 @@
     {
       "id": "Play_c",
       "tag_course": "understand_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 65,
       "title::eng": "El Poder del Juego",
@@ -686,7 +697,7 @@
     {
       "id": "learn_exp_c",
       "tag_course": "understand_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 66,
       "title::eng": "Estrategias para Aprender de la Experiencia",
@@ -697,7 +708,8 @@
     {
       "id": "toddler_change_c",
       "tag_course": "understand_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "2;3",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 67,
       "title::eng": "Conocer los Cambios de Mi Niña o Niño (2 a 3)",
@@ -708,7 +720,8 @@
     {
       "id": "young_change_c",
       "tag_course": "understand_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "4;5;6",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 68,
       "title::eng": "Conocer los Cambios de Mi Niña o Niño (4 a 6)",
@@ -719,7 +732,8 @@
     {
       "id": "Child_change_c",
       "tag_course": "understand_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "age_list": "7;8;9",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 69,
       "title::eng": "Conocer los Cambios de Mi Niña o Niño (7 a 9)",
@@ -730,7 +744,7 @@
     {
       "id": "manage_stress_c",
       "tag_course": "understand_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 56,
       "title::eng": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 1",
@@ -741,7 +755,7 @@
     {
       "id": "make_plan_c",
       "tag_course": "understand_c",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 57,
       "title::eng": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 2",
@@ -752,7 +766,7 @@
     {
       "id": "manage_stress_t",
       "tag_course": "understand_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 63,
       "title::eng": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 1",
@@ -763,7 +777,7 @@
     {
       "id": "make_plan_t",
       "tag_course": "understand_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 64,
       "title::eng": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 2",
@@ -774,7 +788,7 @@
     {
       "id": "self_esteem_t",
       "tag_course": "understand_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 70,
       "title::eng": "Fomentar la Confianza de Mi Adolescente",
@@ -785,7 +799,7 @@
     {
       "id": "hope_future_t",
       "tag_course": "understand_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 71,
       "title::eng": "Cultivar la Motivación de Construir un Futuro en mi Adolescente",
@@ -796,7 +810,7 @@
     {
       "id": "stress_t",
       "tag_course": "understand_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 72,
       "title::eng": "Ayudar a Mi Adolescente a Enfrentar el Estrés",
@@ -807,7 +821,7 @@
     {
       "id": "stress_signs_t",
       "tag_course": "understand_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 73,
       "title::eng": "Tristeza y Depresión: Diferencias y Cómo Actuar",
@@ -818,7 +832,7 @@
     {
       "id": "anxiety_t",
       "tag_course": "understand_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 74,
       "title::eng": "Ansiedad: Qué Es y Cómo Actuar",
@@ -829,7 +843,7 @@
     {
       "id": "sadness_t",
       "tag_course": "understand_t",
-      "child_gender_list_DELETE": "male; female; opt_out;",
+      "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 75,
       "title::eng": "Conocer las Señales de Alarma para Detectar Situaciones de Riesgo",

@@ -715,6 +715,7 @@
         "filter": "@item.id == @local.user_location_select",
         "limit": "1"
       },
+      "exclude_from_translation": true,
       "_nested_name": "get_district_name",
       "_dynamicFields": {
         "value": [

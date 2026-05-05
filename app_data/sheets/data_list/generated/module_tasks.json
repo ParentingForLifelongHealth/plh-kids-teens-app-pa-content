@@ -6,7 +6,7 @@
     {
       "id": "i_one_on_one_c",
       "tag_course": "relation_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -33,7 +33,7 @@
     {
       "id": "i_give_praise_c",
       "tag_course": "relation_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -60,7 +60,7 @@
     {
       "id": "i_routines_c",
       "tag_course": "relation_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -87,7 +87,7 @@
     {
       "id": "i_feelings_c",
       "tag_course": "relation_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -114,7 +114,7 @@
     {
       "id": "i_calm_c",
       "tag_course": "relation_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -141,7 +141,7 @@
     {
       "id": "i_one_on_one_t",
       "tag_course": "relation_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -168,7 +168,7 @@
     {
       "id": "i_give_praise_t",
       "tag_course": "relation_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -195,7 +195,7 @@
     {
       "id": "i_routines_t",
       "tag_course": "relation_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -222,7 +222,7 @@
     {
       "id": "i_feelings_t",
       "tag_course": "relation_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -249,7 +249,7 @@
     {
       "id": "i_calm_t",
       "tag_course": "relation_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -276,7 +276,7 @@
     {
       "id": "ipv_sharing_m",
       "tag_course": "ipv",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -304,7 +304,7 @@
     {
       "id": "ipv_supportive_m",
       "tag_course": "ipv",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -332,7 +332,7 @@
     {
       "id": "ipv_listen_m",
       "tag_course": "ipv",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -360,7 +360,7 @@
     {
       "id": "ipv_equals_m",
       "tag_course": "ipv",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -388,7 +388,7 @@
     {
       "id": "ipv_conflicts_m",
       "tag_course": "ipv",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -416,7 +416,7 @@
     {
       "id": "safe_2to5_yc_m",
       "tag_course": "safety_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male"
       ],
       "tag_list": [
@@ -435,7 +435,7 @@
           "eng": "Enseñar sobre autocuidado y prevención del abuso a mi niño (2 a 5)"
         }
       },
-      "age_list_DELETE": [
+      "age_list": [
         "2",
         "3",
         "4",
@@ -447,7 +447,7 @@
     {
       "id": "safe_2to5_yc_f",
       "tag_course": "safety_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "female",
         "opt_out"
       ],
@@ -467,7 +467,7 @@
           "eng": "Enseñar sobre autocuidado y prevención del abuso a mi niña (2 a 5)"
         }
       },
-      "age_list_DELETE": [
+      "age_list": [
         "2",
         "3",
         "4",
@@ -479,7 +479,7 @@
     {
       "id": "safe_6to9_yc",
       "tag_course": "safety_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -500,7 +500,7 @@
           "eng": "Enseñar sobre autocuidado y prevención del abuso a mi niña o niño (6 a 9)"
         }
       },
-      "age_list_DELETE": [
+      "age_list": [
         "6",
         "7",
         "8",
@@ -512,7 +512,7 @@
     {
       "id": "com_safe_2to4_yc",
       "tag_course": "safety_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -533,7 +533,7 @@
           "eng": "Crear un Plan de Seguridad con Mi Niña o Niño (2 a 4)"
         }
       },
-      "age_list_DELETE": [
+      "age_list": [
         "2",
         "3",
         "4"
@@ -544,7 +544,7 @@
     {
       "id": "com_safe_5to9_yc",
       "tag_course": "safety_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -565,7 +565,7 @@
           "eng": "Crear un Plan de Seguridad con Mi Niña o Niño (5 a 9)"
         }
       },
-      "age_list_DELETE": [
+      "age_list": [
         "5",
         "6",
         "7",
@@ -578,7 +578,7 @@
     {
       "id": "crises_2to6_yc",
       "tag_course": "safety_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -599,7 +599,7 @@
           "eng": "Saber Responder Ante Alguna Crisis (2 a 6)"
         }
       },
-      "age_list_DELETE": [
+      "age_list": [
         "2",
         "3",
         "4",
@@ -612,7 +612,7 @@
     {
       "id": "crises_7to9_yc",
       "tag_course": "safety_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -633,7 +633,7 @@
           "eng": "Saber Responder Ante Alguna Crisis (7 a 9)"
         }
       },
-      "age_list_DELETE": [
+      "age_list": [
         "7",
         "8",
         "9"
@@ -644,7 +644,7 @@
     {
       "id": "online_safety_yc",
       "tag_course": "safety_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -671,7 +671,7 @@
     {
       "id": "habits_online_yc",
       "tag_course": "safety_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -698,7 +698,7 @@
     {
       "id": "ks_c_safe_t",
       "tag_course": "safety_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -725,7 +725,7 @@
     {
       "id": "ks_s_violence_t",
       "tag_course": "safety_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -752,7 +752,7 @@
     {
       "id": "ks_crises_m_t",
       "tag_course": "safety_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -779,7 +779,7 @@
     {
       "id": "ks_crises_f_t",
       "tag_course": "safety_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -806,7 +806,7 @@
     {
       "id": "ks_online_saf_t",
       "tag_course": "safety_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -833,7 +833,7 @@
     {
       "id": "ks_online_hab_t",
       "tag_course": "safety_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -860,7 +860,7 @@
     {
       "id": "manage_anger_c",
       "tag_course": "behave_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -887,7 +887,7 @@
     {
       "id": "keep_positive_c",
       "tag_course": "behave_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -914,7 +914,7 @@
     {
       "id": "family_rules_c",
       "tag_course": "behave_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -941,7 +941,7 @@
     {
       "id": "ignore_c",
       "tag_course": "behave_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -968,7 +968,7 @@
     {
       "id": "consequences_c",
       "tag_course": "behave_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -995,7 +995,7 @@
     {
       "id": "solve_problem_c",
       "tag_course": "behave_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1022,7 +1022,7 @@
     {
       "id": "know_role_c",
       "tag_course": "behave_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1049,7 +1049,7 @@
     {
       "id": "Manage_anger_t",
       "tag_course": "behave_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1076,7 +1076,7 @@
     {
       "id": "keep_positive_t",
       "tag_course": "behave_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1103,7 +1103,7 @@
     {
       "id": "Rules_t",
       "tag_course": "behave_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1130,7 +1130,7 @@
     {
       "id": "Consequences_t",
       "tag_course": "behave_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1157,7 +1157,7 @@
     {
       "id": "solve_problem_t",
       "tag_course": "behave_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1184,7 +1184,7 @@
     {
       "id": "Know_role_t",
       "tag_course": "behave_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1211,7 +1211,7 @@
     {
       "id": "s_language_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1238,7 +1238,7 @@
     {
       "id": "s_read_2to3_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1259,13 +1259,17 @@
           "eng": "Disfrutar y Favorecer la Lectura (2 a 3)"
         }
       },
+      "age_list": [
+        "2",
+        "3"
+      ],
       "completed": false,
       "task_child": "s_read_2to3_c_article_tasks"
     },
     {
       "id": "s_read1_4to6_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1286,13 +1290,18 @@
           "eng": "Disfrutar y Favorecer la Lectura: Parte 1 (4 a 6)"
         }
       },
+      "age_list": [
+        "4",
+        "5",
+        "6"
+      ],
       "completed": false,
       "task_child": "s_read1_4to6_c_article_tasks"
     },
     {
       "id": "s_read2_4to6_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1313,13 +1322,18 @@
           "eng": "Disfrutar y Favorecer la Lectura: Parte 2 (4 a 6)"
         }
       },
+      "age_list": [
+        "4",
+        "5",
+        "6"
+      ],
       "completed": false,
       "task_child": "s_read2_4to6_c_article_tasks"
     },
     {
       "id": "maths_2to3_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1340,13 +1354,17 @@
           "eng": "Enseñar Matemáticas Divertidas y Sencillas (2 a 3)"
         }
       },
+      "age_list": [
+        "2",
+        "3"
+      ],
       "completed": false,
       "task_child": "maths_2to3_c_article_tasks"
     },
     {
       "id": "maths1_4to6_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1367,13 +1385,18 @@
           "eng": "Enseñar Matemáticas Divertidas y Sencillas: Parte 1 (4 a 6)"
         }
       },
+      "age_list": [
+        "4",
+        "5",
+        "6"
+      ],
       "completed": false,
       "task_child": "maths1_4to6_c_article_tasks"
     },
     {
       "id": "maths2_4to6_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1394,13 +1417,18 @@
           "eng": "Enseñar Matemáticas Divertidas y Sencillas: Parte 2 (4 a 6)"
         }
       },
+      "age_list": [
+        "4",
+        "5",
+        "6"
+      ],
       "completed": false,
       "task_child": "maths2_4to6_c_article_tasks"
     },
     {
       "id": "school_3to9_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1421,13 +1449,22 @@
           "eng": "Involucrarse en las Actividades Escolares (3 a 9)"
         }
       },
+      "age_list": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
       "completed": false,
       "task_child": "school_3to9_c_article_tasks"
     },
     {
       "id": "fun_l_7to9_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1448,13 +1485,18 @@
           "eng": "Hacer Divertido el Aprendizaje"
         }
       },
+      "age_list": [
+        "7",
+        "8",
+        "9"
+      ],
       "completed": false,
       "task_child": "fun_l_7to9_c_article_tasks"
     },
     {
       "id": "help_l_7to9_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1475,13 +1517,18 @@
           "eng": "Apoyar el Aprendizaje de Mi Niña o Niño"
         }
       },
+      "age_list": [
+        "7",
+        "8",
+        "9"
+      ],
       "completed": false,
       "task_child": "help_l_7to9_c_article_tasks"
     },
     {
       "id": "pos_learn_7to9_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1502,13 +1549,18 @@
           "eng": "Crear un Ambiente Positivo para el Aprendizaje de Mi Niña o Niño"
         }
       },
+      "age_list": [
+        "7",
+        "8",
+        "9"
+      ],
       "completed": false,
       "task_child": "pos_learn_7to9_c_article_tasks"
     },
     {
       "id": "learn_mis_7to9_c",
       "tag_course": "learn_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1529,13 +1581,18 @@
           "eng": "Aprender de la Experiencia"
         }
       },
+      "age_list": [
+        "7",
+        "8",
+        "9"
+      ],
       "completed": false,
       "task_child": "learn_mis_7to9_c_article_tasks"
     },
     {
       "id": "Fun_learning_t",
       "tag_course": "learn_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1562,7 +1619,7 @@
     {
       "id": "help_learn_t",
       "tag_course": "learn_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1589,7 +1646,7 @@
     {
       "id": "positive_learn_t",
       "tag_course": "learn_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1616,7 +1673,7 @@
     {
       "id": "learn_mistakes_t",
       "tag_course": "learn_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1643,7 +1700,7 @@
     {
       "id": "learn_people_t",
       "tag_course": "learn_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1670,7 +1727,7 @@
     {
       "id": "Play_c",
       "tag_course": "understand_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1697,7 +1754,7 @@
     {
       "id": "learn_exp_c",
       "tag_course": "understand_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1724,7 +1781,7 @@
     {
       "id": "toddler_change_c",
       "tag_course": "understand_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1745,13 +1802,17 @@
           "eng": "Conocer los Cambios de Mi Niña o Niño (2 a 3)"
         }
       },
+      "age_list": [
+        "2",
+        "3"
+      ],
       "completed": false,
       "task_child": "toddler_change_c_article_tasks"
     },
     {
       "id": "young_change_c",
       "tag_course": "understand_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1772,13 +1833,18 @@
           "eng": "Conocer los Cambios de Mi Niña o Niño (4 a 6)"
         }
       },
+      "age_list": [
+        "4",
+        "5",
+        "6"
+      ],
       "completed": false,
       "task_child": "young_change_c_article_tasks"
     },
     {
       "id": "Child_change_c",
       "tag_course": "understand_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1799,13 +1865,18 @@
           "eng": "Conocer los Cambios de Mi Niña o Niño (7 a 9)"
         }
       },
+      "age_list": [
+        "7",
+        "8",
+        "9"
+      ],
       "completed": false,
       "task_child": "Child_change_c_article_tasks"
     },
     {
       "id": "manage_stress_c",
       "tag_course": "understand_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1832,7 +1903,7 @@
     {
       "id": "make_plan_c",
       "tag_course": "understand_c",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1859,7 +1930,7 @@
     {
       "id": "manage_stress_t",
       "tag_course": "understand_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1886,7 +1957,7 @@
     {
       "id": "make_plan_t",
       "tag_course": "understand_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1913,7 +1984,7 @@
     {
       "id": "self_esteem_t",
       "tag_course": "understand_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1940,7 +2011,7 @@
     {
       "id": "hope_future_t",
       "tag_course": "understand_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1967,7 +2038,7 @@
     {
       "id": "stress_t",
       "tag_course": "understand_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -1994,7 +2065,7 @@
     {
       "id": "stress_signs_t",
       "tag_course": "understand_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -2021,7 +2092,7 @@
     {
       "id": "anxiety_t",
       "tag_course": "understand_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
@@ -2048,7 +2119,7 @@
     {
       "id": "sadness_t",
       "tag_course": "understand_t",
-      "child_gender_list_DELETE": [
+      "child_gender_list": [
         "male",
         "female",
         "opt_out"
