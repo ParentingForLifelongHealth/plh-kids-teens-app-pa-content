@@ -7,32 +7,36 @@
   "rows": [
     {
       "id": "@default",
-      "notification_text::eng": "Let’s check in on your home activity!",
-      "activity_title::eng": "Let’s check in on your home activity!",
-      "question_done::eng": "Did you have a chance to try this?",
-      "reply_no::eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
-      "question_how::eng": "How did it go?",
+      "notification_text::eng": "¡Veamos cómo te fue con la actividad para casa!",
+      "activity_title::eng": "¡Veamos cómo te fue con la actividad para casa!",
+      "question_done::eng": "¿Tuviste oportunidad de ponerlo en práctica?",
+      "reply_no::eng": "No pasa nada, sé amable contigo. Puedes intentarlo cuando tengas oportunidad.",
+      "question_how::eng": "¿Cómo te fue?",
       "happy_image_asset": "images/icons/faces/happy.svg",
-      "reply_happy::eng": "Great to hear it went well. You are a star!\n",
+      "reply_happy::eng": "¡Qué gusto saber que te fue bien! ¡Lo hiciste muy bien!",
       "ok_image_asset": "images/icons/faces/neutral.svg",
-      "reply_ok::eng": "Sorry to hear it was difficult for you. Well done for trying.",
+      "reply_ok::eng": "Lamento que haya sido difícil. Aun así, hiciste muy bien en intentarlo.",
       "sad_image_asset": "images/icons/faces/sad.svg",
-      "reply_sad::eng": "Sorry to hear it was difficult for you. Well done for trying.",
-      "outro_text::eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!",
+      "reply_sad::eng": "Lamento que haya sido difícil. Aun así, hiciste muy bien en intentarlo.",
+      "outro_text::eng": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día.",
       "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac"
     },
     {
       "id": "relation_c",
-      "notification_text::eng": "¿Cómo va el Tiempo Juntos y Conectados?",
+      "notification_text::eng": "¿Cómo les ha ido con su tiempo juntos y conectados?",
       "text_goal::eng": "Tu objetivo era pasar al menos 15 minutos de tiempo juntos y conectados todos los días. ",
+      "question_done::eng": "En las últimas 24 horas, ¿pasaste al menos 15 minutos de tiempo juntos y conectados con tu niña o niño?",
+      "reply_no::eng": "Está bien, no pasa nada. En este curso aprenderás más sobre la importancia de pasar tiempo juntos y conectados con tu niña o niño.",
       "reply_happy::eng": "¡Excelente! Sigue trabajando para mejorar tu relación con tu niña o niño.",
       "reply_ok::eng": "Lamento escuchar que el Tiempo para estar Juntos y Conectados ha sido más difícil de lo esperado.",
       "reply_sad::eng": "Lamento escuchar que el Tiempo para estar Juntos y Conectados ha sido más difícil de lo esperado."
     },
     {
       "id": "relation_t",
-      "notification_text::eng": "¿Cómo va el Tiempo de estar Juntos y Conectados?",
-      "reply_happy::eng": "¡Excelente! Sigue trabajando para mejorar tu relación con tu niña o niño.",
+      "notification_text::eng": "¿Cómo les ha ido con su tiempo juntos y conectados?",
+      "text_goal::eng": "Tu objetivo era pasar al menos 15 minutos de tiempo juntos y conectados todos los días. ",
+      "question_done::eng": "En las últimas 24 horas, ¿pasaste al menos 15 minutos de tiempo juntos y conectados con tu adolescente?",
+      "reply_happy::eng": "¡Excelente! Sigue trabajando para mejorar tu relación con tu adolescente.",
       "reply_ok::eng": "Lamento escuchar que el Tiempo de estar Juntos y Conectados ha sido más difícil de lo esperado.",
       "reply_sad::eng": "Lamento escuchar que el Tiempo de estar Juntos y Conectados ha sido más difícil de lo esperado."
     },
@@ -52,23 +56,38 @@
     },
     {
       "id": "behave_c",
-      "notification_text::eng": "¿Cómo va el intentar guiar el buen comportamiento de @fields.child_name?"
+      "notification_text::eng": "¿Cómo va el intentar guiar el buen comportamiento de @fields.child_name?",
+      "reply_happy::eng": "¡Excelente! Sigue así, guiando el buen comportamiento de {tu niño}.",
+      "reply_ok::eng": "Lamentamos escuchar no ha sido fácil guiar el comportamiento de @fields.child_name.\nPuedes encontrar más recursos de apoyo aquí: {structure resources}",
+      "reply_sad::eng": "Lamentamos escuchar no ha sido fácil guiar el comportamiento de @fields.child_name.\nPuedes encontrar más recursos de apoyo aquí: {structure resources}"
     },
     {
       "id": "behave_t",
-      "notification_text::eng": "¿Cómo va el intentar Guiar el Buen Comportamiento de tu Adolescente?"
+      "notification_text::eng": "¿Cómo va el intentar guiar el buen comportamiento de tu adolescente?",
+      "reply_happy::eng": "¡Excelente! Sigue así, guiando el buen comportamiento de tu adolescente.",
+      "reply_ok::eng": "Lamento que el guiar el buen comportamiento de tu adolescente no vaya muy bien.",
+      "reply_sad::eng": "Lamento que el guiar el buen comportamiento de tu adolescente no vaya muy bien."
     },
     {
       "id": "safety_c",
-      "notification_text::eng": "¿Qué fue lo que más se te dificultó al procurar la seguridad de @fields.child_name dentro y fuera de internet?\n\n"
+      "notification_text::eng": "¿Qué fue lo que más se te dificultó al procurar la seguridad de @fields.child_name dentro y fuera de internet?\n\n",
+      "reply_happy::eng": "📺 ¡Excelente! Sigue así, trabajando para mantener la seguridad de tu niña, niño o adolescente dentro y fuera de internet.",
+      "reply_ok::eng": "😔 Lamentamos escuchar que te está costando trabajo mantener la seguridad de @fields.child_name dentro y fuera del internet.\n\n💡 Si necesitas apoyo, considera la posibilidad de pedir ayuda en la escuela de @fields.child_name, con la familia o con amistades  a quienes se les facilité la tecnología.\n \nRecuerda que el bienestar de @fields.child_name es importante, así como el de tu familia.",
+      "reply_sad::eng": "😔 Lamentamos escuchar que te está costando trabajo mantener la seguridad de @fields.child_name dentro y fuera del internet.\n\n💡 Si necesitas apoyo, considera la posibilidad de pedir ayuda en la escuela de @fields.child_name, con la familia o con amistades  a quienes se les facilité la tecnología.\n \nRecuerda que el bienestar de @fields.child_name es importante, así como el de tu familia."
     },
     {
       "id": "safety_t",
-      "notification_text::eng": "¿Cómo vas con el mantenerte al tanto de la vida social de tu adolescente?"
+      "notification_text::eng": "¿Cómo vas con el mantenerte al tanto de la vida social de tu adolescente?",
+      "reply_happy::eng": "¡Excelente! Sigue con ese gran esfuerzo.",
+      "reply_ok::eng": "Lamento que esto sea difícil.",
+      "reply_sad::eng": "Lamento que esto sea difícil."
     },
     {
       "id": "learn_c",
-      "notification_text::eng": "¿Qué fue lo que más se te dificultó al hacer actividades con @fields.child_name para apoyar su aprendizaje?"
+      "notification_text::eng": "¿Qué fue lo que más se te dificultó al hacer actividades con @fields.child_name para apoyar su aprendizaje?",
+      "reply_happy::eng": "¡Excelente! Sigue así, apoyando el aprendizaje de tu niña o niño.",
+      "reply_ok::eng": "Lamentamos escuchar que tienes dificultades para apoyar el aprendizaje o las actividades académicas de @fields.child_name",
+      "reply_sad::eng": "Lamentamos escuchar que tienes dificultades para apoyar el aprendizaje o las actividades académicas de @fields.child_name"
     },
     {
       "id": "learn_t",
