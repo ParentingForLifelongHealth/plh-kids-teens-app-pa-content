@@ -43,7 +43,7 @@
           "eng": "Muy bien por reconocer cómo te sientes. Que gusto saber que hoy te encuentras bien."
         },
         "quiz_1_feedback_2": {
-          "eng": "Todas las personas tenemos días buenos y días difíciles. Recuerda: eres la mejor madre, padre o persona cuidadora para tu adolescente, y mereces reconocimiento."
+          "eng": "Todas las personas tenemos días buenos y días difíciles. Recuerda: eres la mejor madre, padre o persona cuidadora para @fields.child_name, y mereces reconocimiento."
         },
         "quiz_1_feedback_3": {
           "eng": "A veces es difícil manejar todo lo que pasa en nuestra vida. Recuerda: eres más fuerte de lo que imaginas."
@@ -62,7 +62,7 @@
         }
       },
       "quiz_1_feedback_1": "Muy bien por reconocer cómo te sientes. Que gusto saber que hoy te encuentras bien.",
-      "quiz_1_feedback_2": "Todas las personas tenemos días buenos y días difíciles. Recuerda: eres la mejor madre, padre o persona cuidadora para tu adolescente, y mereces reconocimiento.",
+      "quiz_1_feedback_2": "Todas las personas tenemos días buenos y días difíciles. Recuerda: eres la mejor madre, padre o persona cuidadora para @fields.child_name, y mereces reconocimiento.",
       "quiz_1_feedback_3": "A veces es difícil manejar todo lo que pasa en nuestra vida. Recuerda: eres más fuerte de lo que imaginas.",
       "quiz_1_question": "¿Cómo te sientes el día de hoy?",
       "quiz_1_option_1_text": "Feliz",
@@ -233,19 +233,20 @@
     },
     {
       "id": "practical_tips_1",
-      "media_type": "video",
+      "media_type": "youtube",
       "category_id": "practical_tips",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da clic en reproducir ▶️ para aprender algunas estrategias que puedes seguir para favorecer el desarrollo saludable de @fields.child_name:\n\n1️⃣ **SER PACIENTE**\n2️⃣ **EXPLORAR CON CUIDADO**\n3️⃣ **ANIMAR A COMPARTIR**"
+          "eng": "Selecciona reproducir ▶️ para aprender algunas estrategias que puedes seguir para favorecer el desarrollo saludable de @fields.child_name:\n\n1️⃣ **SER PACIENTE**\n2️⃣ **EXPLORAR CON CUIDADO**\n3️⃣ **ANIMAR A COMPARTIR**"
         }
       },
-      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender algunas estrategias que puedes seguir para favorecer el desarrollo saludable de @fields.child_name:\n\n1️⃣ **SER PACIENTE**\n2️⃣ **EXPLORAR CON CUIDADO**\n3️⃣ **ANIMAR A COMPARTIR**",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender algunas estrategias que puedes seguir para favorecer el desarrollo saludable de @fields.child_name:\n\n1️⃣ **SER PACIENTE**\n2️⃣ **EXPLORAR CON CUIDADO**\n3️⃣ **ANIMAR A COMPARTIR**",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en": "youtube link",
+      "youtube_gb_en_f": "https://youtu.be/Gu1DYOxjuyk",
+      "youtube_gb_en_m": "https://youtu.be/pdjCHxXl23w",
       "completed": false
     },
     {

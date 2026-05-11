@@ -4,6 +4,145 @@
   "flow_type": "template",
   "rows": [
     {
+      "name": "not_completed_count",
+      "value": 0,
+      "type": "set_variable",
+      "_nested_name": "not_completed_count"
+    },
+    {
+      "type": "data_items",
+      "name": "count_modules",
+      "value": "@data.module_tasks",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "data_changed",
+          "action_id": "set_local",
+          "args": [
+            "not_completed_count",
+            "@items.length"
+          ],
+          "_raw": "data_changed | set_local: not_completed_count: @items.length"
+        }
+      ],
+      "parameter_list": {
+        "filter": "!@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))"
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "count_modules",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.module_tasks",
+            "matchedExpression": "@data.module_tasks",
+            "type": "data",
+            "fieldName": "module_tasks"
+          }
+        ],
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "!@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "!@item.completed",
+              "type": "item",
+              "fieldName": "completed"
+            },
+            {
+              "fullExpression": "!@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "!@item.age_list",
+              "type": "item",
+              "fieldName": "age_list"
+            },
+            {
+              "fullExpression": "!@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "@item.age_list.includes",
+              "type": "item",
+              "fieldName": "age_list"
+            },
+            {
+              "fullExpression": "!@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "@fields.child_age",
+              "type": "fields",
+              "fieldName": "child_age"
+            },
+            {
+              "fullExpression": "!@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "!@item.child_gender_list",
+              "type": "item",
+              "fieldName": "child_gender_list"
+            },
+            {
+              "fullExpression": "!@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "@item.child_gender_list.includes",
+              "type": "item",
+              "fieldName": "child_gender_list"
+            },
+            {
+              "fullExpression": "!@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "@fields.child_gender",
+              "type": "fields",
+              "fieldName": "child_gender"
+            },
+            {
+              "fullExpression": "!@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "!@item.caregiver_relationship_list",
+              "type": "item",
+              "fieldName": "caregiver_relationship_list"
+            },
+            {
+              "fullExpression": "!@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "@item.caregiver_relationship_list.includes",
+              "type": "item",
+              "fieldName": "caregiver_relationship_list"
+            },
+            {
+              "fullExpression": "!@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "@fields.user_relationship",
+              "type": "fields",
+              "fieldName": "user_relationship"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@data.module_tasks": [
+          "value"
+        ],
+        "!@item.completed": [
+          "parameter_list.filter"
+        ],
+        "!@item.age_list": [
+          "parameter_list.filter"
+        ],
+        "@item.age_list.includes": [
+          "parameter_list.filter"
+        ],
+        "@fields.child_age": [
+          "parameter_list.filter"
+        ],
+        "!@item.child_gender_list": [
+          "parameter_list.filter"
+        ],
+        "@item.child_gender_list.includes": [
+          "parameter_list.filter"
+        ],
+        "@fields.child_gender": [
+          "parameter_list.filter"
+        ],
+        "!@item.caregiver_relationship_list": [
+          "parameter_list.filter"
+        ],
+        "@item.caregiver_relationship_list.includes": [
+          "parameter_list.filter"
+        ],
+        "@fields.user_relationship": [
+          "parameter_list.filter"
+        ]
+      }
+    },
+    {
       "type": "data_items",
       "name": "pick_random_locked_activity",
       "value": "@data.activity_tasks",
@@ -17,17 +156,8 @@
         {
           "type": "template",
           "name": "module_start_at_id",
-          "value": "module_start_at_id",
+          "value": "module_start_at_id_get_unlock",
           "action_list": [
-            {
-              "trigger": "completed",
-              "action_id": "set_item",
-              "args": [],
-              "_raw": "completed | set_item | locked: false",
-              "params": {
-                "locked": false
-              }
-            },
             {
               "trigger": "completed",
               "action_id": "set_data",
@@ -76,8 +206,31 @@
               "_raw": "uncompleted | nav_stack: close_top"
             }
           ],
-          "exclude_from_translation": true,
           "rows": [
+            {
+              "name": "activity_id",
+              "value": "@item.id",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "pick_random_locked_activity.module_start_at_id.activity_id",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "value"
+                ]
+              }
+            },
             {
               "name": "module_id",
               "value": "s_read1_4to6_c",
@@ -86,30 +239,6 @@
               },
               "type": "set_variable",
               "_nested_name": "pick_random_locked_activity.module_start_at_id.module_id"
-            },
-            {
-              "name": "article_id",
-              "value": "@fields.current_start_article_id",
-              "_translations": {
-                "value": {}
-              },
-              "type": "set_variable",
-              "_nested_name": "pick_random_locked_activity.module_start_at_id.article_id",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@fields.current_start_article_id",
-                    "matchedExpression": "@fields.current_start_article_id",
-                    "type": "fields",
-                    "fieldName": "current_start_article_id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@fields.current_start_article_id": [
-                  "value"
-                ]
-              }
             },
             {
               "name": "course_id",
@@ -121,32 +250,43 @@
               "_nested_name": "pick_random_locked_activity.module_start_at_id.course_id"
             },
             {
-              "type": "nested_properties",
-              "name": "module",
-              "rows": [
-                {
-                  "name": "show_progress_bar",
-                  "value": false,
-                  "type": "set_variable",
-                  "_nested_name": "pick_random_locked_activity.module_start_at_id.module.show_progress_bar"
-                },
-                {
-                  "name": "course_id",
-                  "value": "learn_c",
-                  "_translations": {
-                    "value": {}
+              "name": "unlock_all",
+              "value": "@calc(@local.not_completed_count == 1)",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "pick_random_locked_activity.module_start_at_id.unlock_all",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@calc(@local.not_completed_count == 1)",
+                    "matchedExpression": "@local.not_completed_count",
+                    "type": "local",
+                    "fieldName": "not_completed_count"
                   },
-                  "type": "set_variable",
-                  "_nested_name": "pick_random_locked_activity.module_start_at_id.module.course_id"
-                }
-              ],
-              "_nested_name": "pick_random_locked_activity.module_start_at_id.module"
+                  {
+                    "fullExpression": "@calc(@local.not_completed_count == 1)",
+                    "matchedExpression": "@calc(@local.not_completed_count == 1)",
+                    "type": "calc",
+                    "fieldName": "@local.not_completed_count == 1"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.not_completed_count": [
+                  "value"
+                ],
+                "@calc(@local.not_completed_count == 1)": [
+                  "value"
+                ]
+              }
             }
           ],
           "_nested_name": "pick_random_locked_activity.module_start_at_id",
           "_dynamicFields": {
             "action_list": {
-              "2": {
+              "1": {
                 "args": {
                   "1": [
                     {
@@ -170,8 +310,8 @@
           },
           "_dynamicDependencies": {
             "@item.id": [
-              "action_list.2.args.1",
-              "action_list.2._raw"
+              "action_list.1.args.1",
+              "action_list.1._raw"
             ]
           }
         }

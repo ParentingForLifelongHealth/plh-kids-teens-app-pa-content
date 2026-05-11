@@ -24,7 +24,7 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "text_1_facilitator::eng": "Veamos cómo @data.characters.f3_madre.name practica los números con su hijo, @data.characters.f3_hijo_4.name, en la cocina:",
+      "text_1_facilitator::eng": "Veamos cómo @data.characters.f3_madre.name practica los números con su hijo @data.characters.f3_hijo_4.name en la cocina:",
       "image_asset": "images/comic/learn/maths2_4to6_yc_1.svg",
       "character_1_id": "f3_madre",
       "character_1_text::eng": "Gracias por cocinar conmigo. ¡Me ayudas mucho! ¿Qué tienes ahí?",
@@ -61,9 +61,9 @@
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "text_1_facilitator::eng": "Da Clic en Reproducir ▶️ para aprender cuatro estrategias sobre cómo animar a @fields.child_name a practicar sus habilidades matemáticas:\n\n1️⃣ **CLASIFICAR Y ORGANIZAR**\n2️⃣ **PONER Y QUITAR**\n3️⃣ **HACER UN NÚMERO DE DISTINTAS MANERAS**\n4️⃣ **ANIMAR Y DIVERTIRSE**",
-      "media_type": "video",
-      "youtube_gb_en": "youtube link"
+      "text_1_facilitator::eng": "Selecciona reproducir ▶️ para aprender cuatro estrategias sobre cómo animar a @fields.child_name a practicar sus habilidades matemáticas:\n\n1️⃣ **CLASIFICAR Y ORGANIZAR**\n2️⃣ **PONER Y QUITAR**\n3️⃣ **HACER UN NÚMERO DE DISTINTAS MANERAS**\n4️⃣ **ANIMAR Y DIVERTIRSE**",
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=ue3fgXwp2Bo"
     },
     {
       "id": "practical_tips_2",
@@ -71,16 +71,7 @@
       "text_1_facilitator::eng": "Una vez que @fields.child_name tenga una mejor noción de los números y los grupos de cosas, podrá empezar a desarrollar más habilidades matemáticas.⭐\n\n¡Recuerda ir poco a poco y divertirte al hacer las cosas que @fields.child_name está a punto de lograr! 😃",
       "section_1_title::eng": "USAR LIBROS PARA APRENDER",
       "section_1_icon_asset": "https://drive.google.com/file/d/1hfWPX9i6ZpYVChhK8_6AafGeqSNCgYOg/view?usp=drive_link",
-      "section_1_text::eng": "💡 Los libros sin palabras ayudan con la imaginación, las ideas y el aprendizaje de palabras nuevas. En conjunto, nombren y describan lo que hay en los dibujos.\n\n⭐ Los libros con palabras ayudan a tener una noción de las letras, los sonidos y cómo se ven distintas palabras.\n\n🎵 Enfócate en palabras o frases cortas que rimen, se repitan y empiecen por la misma letra o terminen con el mismo sonido, como \"piña para la niña\", \"el león comelón\", o \"el zorro pide socorro\".\n\n➡️ ¡Señala cada palabra y dila en voz alta para ayudar a @fields.child_name a reconocer algunas letras y sonidos!",
-      "section_2_title::eng": "IDENTIFICAR LETRAS",
-      "section_2_icon_asset": "https://drive.google.com/file/d/1JYdcbkVuoMB64KZFOtWUd01yErpe19ac/view?usp=drive_link",
-      "section_2_text::eng": "👀 Busca letras por todas partes, como en carteles y paquetes.\n\n💡 Señálale las letras a @fields.child_name y nómbralas.\n\n👂 ¡Pídele que encuentre letras y que también las nombre! Acuérdate de elogiar cuando lo haga bien.",
-      "section_3_title::eng": "JUGAR JUEGOS DE PALABRAS",
-      "section_3_icon_asset": "https://drive.google.com/file/d/1H0X72PVEhhmWbrzS5AMDtRQq37xnGWY_/view?usp=drive_link",
-      "section_3_text::eng": "🎵 Canta y haz rimas con @fields.child_name para ayudarle a aprender los distintos sonidos que forman a las palabras.\n\n👋 Divide los nombres o las palabras en sílabas. Aplaude con @fields.child_name mientras dices cada sílaba: ¡empieza con solo 2!\n\n🔄 Cambia algunos sonidos o letras de las palabras para formar palabras nuevas, como \"casa, pasa, masa\". Luego, repite los sonidos que se cambiaron: \"c\", \"p\", \"m\"\n\n👀 Ayúdale a @fields.child_name a identificar los \"sonidos iniciales\", los \"sonidos medios\" y los \"sonidos finales\", y las letras que los forman.\n\n✅ Una vez que @fields.child_name entienda las letras y los sonidos en distintos lugares de las palabras, ¡ayúdale a unir las partes de una palabra para formar la palabra completa!",
-      "section_4_title::eng": "EMPEZAR A ESCRIBIR",
-      "section_4_icon_asset": "pencil.svg",
-      "section_4_text::eng": "🧸🌷 Anima a tu niña o niño a dibujar. Puede empezar dibujando cosas que le gusten, como animales o flores.\n\n▶️ Ayúdale a identificar su mano dominante preguntándole: \"¿Con qué mano prefieres dibujar?\" Si su respuesta es que usa las dos manos, permítele dibujar con ambas.\n\n🎨 A continuación, enséñale a dibujar figuras que parezcan letras: 🔵🔶\n\n👋 Ayúdale a practicar el trazado de letras en el aire y sobre una superficie usando sus dedos.\n\n😃 Después, ayúdale a escribir letras sencillas con crayones. ¡Empieza practicando con la primera letra de su nombre!\n\n🔄 Practica y ve agregando letras hasta que pueda escribir su nombre completo. Después, ¡aprendan más letras usando diferentes palabras! "
+      "section_1_text::eng": "💡 Los libros sin palabras ayudan con la imaginación, las ideas y el aprendizaje de palabras nuevas. En conjunto, nombren y describan lo que hay en los dibujos.\n\n⭐ Los libros con palabras ayudan a tener una noción de las letras, los sonidos y cómo se ven distintas palabras.\n\n🎵 Enfócate en palabras o frases cortas que rimen, se repitan y empiecen por la misma letra o terminen con el mismo sonido, como \"piña para la niña\", \"el león comelón\", o \"el zorro pide socorro\".\n\n➡️ ¡Señala cada palabra y dila en voz alta para ayudar a @fields.child_name a reconocer algunas letras y sonidos!"
     },
     {
       "id": "practise_1",

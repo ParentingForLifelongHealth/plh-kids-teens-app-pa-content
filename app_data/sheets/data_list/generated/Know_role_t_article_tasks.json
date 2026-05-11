@@ -24,7 +24,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "¡Tomarte un momento para TI hace una gran diferencia para todas y todos!",
+      "text_1": "¡Tomarte un momento para ti hace una gran diferencia para todas y todos!",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -37,7 +37,7 @@
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "¡Tomarte un momento para TI hace una gran diferencia para todas y todos!"
+          "eng": "¡Tomarte un momento para ti hace una gran diferencia para todas y todos!"
         },
         "quiz_1_feedback_1": {
           "eng": "¡Que bien que hoy esté siendo un buen día! ¿Puedes pensar en algo que ha salido bien hoy? Recuerda reconocerte por ello."
@@ -142,19 +142,19 @@
     },
     {
       "id": "practical_tips_1",
-      "media_type": "video",
+      "media_type": "youtube",
       "category_id": "practical_tips",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "\"Da Clic en Reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como persona cuidadora de tu adolescente y a enseñarle también el suyo:\n\n1️⃣ **CONOCER TU ROL**\n2️⃣ **ENSEÑAR**\n3️⃣ **ENSEÑAR CON EL EJEMPLO**\n4️⃣ **NOTAR**\""
+          "eng": "Selecciona reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como persona cuidadora de tu adolescente y a enseñarle también el suyo:\n\n1️⃣ **CONOCER TU ROL**\n2️⃣ **ENSEÑAR**\n3️⃣ **ENSEÑAR CON EL EJEMPLO**\n4️⃣ **NOTAR**\""
         }
       },
-      "text_1_facilitator": "\"Da Clic en Reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como persona cuidadora de tu adolescente y a enseñarle también el suyo:\n\n1️⃣ **CONOCER TU ROL**\n2️⃣ **ENSEÑAR**\n3️⃣ **ENSEÑAR CON EL EJEMPLO**\n4️⃣ **NOTAR**\"",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como persona cuidadora de tu adolescente y a enseñarle también el suyo:\n\n1️⃣ **CONOCER TU ROL**\n2️⃣ **ENSEÑAR**\n3️⃣ **ENSEÑAR CON EL EJEMPLO**\n4️⃣ **NOTAR**\"",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en": "youtube link",
+      "youtube_gb_en_f": "youtube link",
       "completed": false
     },
     {
@@ -163,7 +163,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**⭐ \n\nHabla con @fields.child_name sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es una persona valiosa en el hogar."
+          "eng": "**Actividad para casa**⭐ \n\nHabla con @fields.child_name sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es una persona valiosa en el hogar."
         },
         "quiz_1_question": {
           "eng": "💛 ¿Tienes tiempo para hacerlo hoy?"
@@ -194,7 +194,7 @@
       "quiz_1_question": "💛 ¿Tienes tiempo para hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nHabla con @fields.child_name sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es una persona valiosa en el hogar.",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nHabla con @fields.child_name sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es una persona valiosa en el hogar.",
       "completed": false
     }
   ],

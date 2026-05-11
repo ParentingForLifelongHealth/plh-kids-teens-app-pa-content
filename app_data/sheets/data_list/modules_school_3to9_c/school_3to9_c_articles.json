@@ -34,7 +34,7 @@
           "eng": "Verdadero"
         },
         "quiz_1_feedback_1": {
-          "eng": "👀 ¡Ups! ¡Buen intento!\n\n🎉 Estás en lo correcto.\n\n💡 Si tienes una idea de lo que @fields.child_name está aprendiendo en la escuela, ¡podrás apoyarle a repasarlo y practicarlo en casa!"
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n💡 Si tienes una idea de lo que @fields.child_name está aprendiendo en la escuela, ¡podrás apoyarle a repasarlo y practicarlo en casa!"
         },
         "quiz_1_option_2_text": {
           "eng": "Falso"
@@ -46,23 +46,24 @@
       "text_2": "Conversar con las maestras y los maestros de @fields.child_name te ayudará a saber lo que @fields.child_name hace en la escuela. ⭐\n\n¡También sabrás qué tipo de cosas puedes hacer en casa con @fields.child_name para facilitar su aprendizaje y qué cosas puedes hacer tú para apoyar a @fields.child_name! 🎓",
       "quiz_1_question": "📝 Hagamos un ejercicio. Ejercicio 1 \n\nSaber lo que @fields.child_name hace en la escuela no le ayudará a aprender.",
       "quiz_1_option_1_text": "Verdadero",
-      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🎉 Estás en lo correcto.\n\n💡 Si tienes una idea de lo que @fields.child_name está aprendiendo en la escuela, ¡podrás apoyarle a repasarlo y practicarlo en casa!",
+      "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n💡 Si tienes una idea de lo que @fields.child_name está aprendiendo en la escuela, ¡podrás apoyarle a repasarlo y practicarlo en casa!",
       "quiz_1_option_2_text": "Falso",
       "quiz_1_feedback_2": "🎉 Estás en lo correcto.\n\n💡 Si tienes una idea de lo que @fields.child_name está aprendiendo en la escuela, ¡podrás apoyarle a repasarlo y practicarlo en casa!"
     },
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "media_type": "video",
-      "youtube_gb_en": "youtube link",
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=lX5S_l2c5zk",
+      "youtube_gb_en_m": "https://youtu.be/7nY8lx2zubs",
       "nested": false,
-      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender cuatro estrategias para involucrarte con la escuela de @fields.child_name y con lo que está aprendiendo:\n\n1️⃣ **CONECTAR**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **PRACTICAR**\n4️⃣ **PROMOVER EL INVOLUCRAMIENTO**",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender cuatro estrategias para involucrarte con la escuela de @fields.child_name y con lo que está aprendiendo:\n\n1️⃣ **CONECTAR**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **PRACTICAR**\n4️⃣ **PROMOVER EL INVOLUCRAMIENTO**",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da Clic en Reproducir ▶️ para aprender cuatro estrategias para involucrarte con la escuela de @fields.child_name y con lo que está aprendiendo:\n\n1️⃣ **CONECTAR**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **PRACTICAR**\n4️⃣ **PROMOVER EL INVOLUCRAMIENTO**"
+          "eng": "Selecciona reproducir ▶️ para aprender cuatro estrategias para involucrarte con la escuela de @fields.child_name y con lo que está aprendiendo:\n\n1️⃣ **CONECTAR**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **PRACTICAR**\n4️⃣ **PROMOVER EL INVOLUCRAMIENTO**"
         }
       }
     },
@@ -96,14 +97,14 @@
           "eng": "No"
         },
         "quiz_1_feedback_2": {
-          "eng": "Entendemos. No siempre disponemos del tiempo adecuado para Conversar de la escuela. La próxima vez, pregúntale sobre su día en la escuela, ¡aunque solo platiquen un par de minutos durante el día o durante la comida! 😃"
+          "eng": "Entendemos. No siempre disponemos del tiempo adecuado para conversar de la escuela. La próxima vez, pregúntale sobre su día en la escuela, ¡aunque solo platiquen un par de minutos durante el día o durante la comida! 😃"
         }
       },
       "quiz_1_question": "¿Pueden practicarlo en casa hoy? ⭐",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_feedback_1": "¡Excelente! ¡Intenten practicar en casa lo que ya ha aprendido en la escuela! 😃",
       "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "Entendemos. No siempre disponemos del tiempo adecuado para Conversar de la escuela. La próxima vez, pregúntale sobre su día en la escuela, ¡aunque solo platiquen un par de minutos durante el día o durante la comida! 😃"
+      "quiz_1_feedback_2": "Entendemos. No siempre disponemos del tiempo adecuado para conversar de la escuela. La próxima vez, pregúntale sobre su día en la escuela, ¡aunque solo platiquen un par de minutos durante el día o durante la comida! 😃"
     }
   ],
   "_source": {

@@ -112,16 +112,17 @@
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "media_type": "video",
-      "youtube_gb_en": "youtube link",
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://youtu.be/NvRCU_3l5xU",
+      "youtube_gb_en_m": "https://youtu.be/BJs8s0gWLI0",
       "nested": false,
-      "text_1_facilitator": "Da Clic en ▶️ para aprender tres estrategias sobre cómo ayudar a @fields.child_name a seguir instrucciones con mayor frecuencia:\n\n1️⃣ **ESPECIFICAR LO QUE QUIERES**\n2️⃣ **SER REALISTA**\n3️⃣ **USAR PALABRAS AFIRMATIVAS**",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender tres estrategias sobre cómo ayudar a @fields.child_name a seguir instrucciones con mayor frecuencia:\n\n1️⃣ **ESPECIFICAR LO QUE QUIERES**\n2️⃣ **SER REALISTA**\n3️⃣ **USAR PALABRAS AFIRMATIVAS**",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da Clic en ▶️ para aprender tres estrategias sobre cómo ayudar a @fields.child_name a seguir instrucciones con mayor frecuencia:\n\n1️⃣ **ESPECIFICAR LO QUE QUIERES**\n2️⃣ **SER REALISTA**\n3️⃣ **USAR PALABRAS AFIRMATIVAS**"
+          "eng": "Selecciona reproducir ▶️ para aprender tres estrategias sobre cómo ayudar a @fields.child_name a seguir instrucciones con mayor frecuencia:\n\n1️⃣ **ESPECIFICAR LO QUE QUIERES**\n2️⃣ **SER REALISTA**\n3️⃣ **USAR PALABRAS AFIRMATIVAS**"
         }
       }
     },
@@ -129,7 +130,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a tu adolescente.",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a tu adolescente.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -140,7 +141,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a tu adolescente."
+          "eng": "**Actividad para casa**⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a tu adolescente."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"

@@ -20,13 +20,13 @@
       "image_asset": "images/homescreen/i_one_on_one_c.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_1",
-      "title": "Pasar Tiempo Juntos y Conectados",
+      "title": "Pasar tiempo juntos y conectados",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Pasar Tiempo Juntos y Conectados"
+          "eng": "Pasar tiempo juntos y conectados"
         }
       }
     },
@@ -45,13 +45,13 @@
       "image_asset": "images/homescreen/i_give_praise_c.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_2",
-      "title": "Dar Reconocimiento",
+      "title": "Dar reconocimiento",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Dar Reconocimiento"
+          "eng": "Dar reconocimiento"
         }
       }
     },
@@ -70,13 +70,13 @@
       "image_asset": "images/homescreen/i_routines_c.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_3",
-      "title": "Crear Rutinas",
+      "title": "Crear rutinas",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Crear Rutinas"
+          "eng": "Crear rutinas"
         }
       }
     },
@@ -95,13 +95,13 @@
       "image_asset": "images/homescreen/i_feelings_c.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_4",
-      "title": "Identificar Emociones",
+      "title": "Identificar emociones",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Identificar Emociones"
+          "eng": "Identificar emociones"
         }
       }
     },
@@ -120,13 +120,13 @@
       "image_asset": "images/homescreen/i_calm_c.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_5",
-      "title": "Mantener La Calma Cuando Hay Estrés",
+      "title": "Mantener la calma cuando hay estrés",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Mantener La Calma Cuando Hay Estrés"
+          "eng": "Mantener la calma cuando hay estrés"
         }
       }
     },
@@ -145,13 +145,13 @@
       "image_asset": "images/homescreen/i_one_on_one_t.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_6",
-      "title": "Pasar Tiempo Juntos y Conectados",
+      "title": "Pasar tiempo juntos y conectados",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Pasar Tiempo Juntos y Conectados"
+          "eng": "Pasar tiempo juntos y conectados"
         }
       }
     },
@@ -170,13 +170,13 @@
       "image_asset": "images/homescreen/i_give_praise_t.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_7",
-      "title": "Dar Reconocimiento",
+      "title": "Dar reconocimiento",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Dar Reconocimiento"
+          "eng": "Dar reconocimiento"
         }
       }
     },
@@ -195,13 +195,13 @@
       "image_asset": "images/homescreen/i_routines_t.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_8",
-      "title": "Crear Rutinas",
+      "title": "Crear rutinas",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Crear Rutinas"
+          "eng": "Crear rutinas"
         }
       }
     },
@@ -220,13 +220,13 @@
       "image_asset": "images/homescreen/i_feelings_t.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_9",
-      "title": "Identificar Emociones",
+      "title": "Identificar emociones",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Identificar Emociones"
+          "eng": "Identificar emociones"
         }
       }
     },
@@ -245,65 +245,13 @@
       "image_asset": "images/homescreen/i_calm_t.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_10",
-      "title": "Mantener La Calma Cuando Hay Estrés",
+      "title": "Mantener la calma cuando hay estrés",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Mantener La Calma Cuando Hay Estrés"
-        }
-      }
-    },
-    {
-      "id": "ipv_sharing_m",
-      "tag_course": "ipv",
-      "child_gender_list": [
-        "male",
-        "female",
-        "opt_out"
-      ],
-      "tag_list": [
-        "child",
-        "teen"
-      ],
-      "number": 11,
-      "image_asset": "images/homescreen/ipv.svg",
-      "relax_id": "relax_5",
-      "check_in_id": "check_in_11",
-      "title": "Escuchar y Conversar Efectivamente",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Escuchar y Conversar Efectivamente"
-        }
-      }
-    },
-    {
-      "id": "ipv_supportive_m",
-      "tag_course": "ipv",
-      "child_gender_list": [
-        "male",
-        "female",
-        "opt_out"
-      ],
-      "tag_list": [
-        "child",
-        "teen"
-      ],
-      "number": 12,
-      "image_asset": "images/homescreen/relation_c.svg",
-      "relax_id": "relax_9",
-      "check_in_id": "check_in_12",
-      "title": "Tomar Decisiones en Equipo",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Tomar Decisiones en Equipo"
+          "eng": "Mantener la calma cuando hay estrés"
         }
       }
     },
@@ -319,17 +267,17 @@
         "child",
         "teen"
       ],
-      "number": 13,
-      "image_asset": "images/homescreen/relation_t.svg",
-      "relax_id": "relax_1",
-      "check_in_id": "check_in_13",
-      "title": "Ser una Figura de Apoyo en la Crianza y con la Pareja",
+      "number": 11,
+      "image_asset": "images/homescreen/ipv.svg",
+      "relax_id": "relax_5",
+      "check_in_id": "check_in_11",
+      "title": "Escuchar y conversar efectivamente",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Ser una Figura de Apoyo en la Crianza y con la Pareja"
+          "eng": "Escuchar y conversar efectivamente"
         }
       }
     },
@@ -345,17 +293,69 @@
         "child",
         "teen"
       ],
-      "number": 14,
-      "image_asset": "images/homescreen/understand_c.svg",
-      "relax_id": "relax_2",
-      "check_in_id": "check_in_14",
-      "title": "Papel de los Padres en la Crianza Compartida",
+      "number": 12,
+      "image_asset": "images/homescreen/relation_c.svg",
+      "relax_id": "relax_9",
+      "check_in_id": "check_in_12",
+      "title": "Tomar decisiones en equipo",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Papel de los Padres en la Crianza Compartida"
+          "eng": "Tomar decisiones en equipo"
+        }
+      }
+    },
+    {
+      "id": "ipv_supportive_m",
+      "tag_course": "ipv",
+      "child_gender_list": [
+        "male",
+        "female",
+        "opt_out"
+      ],
+      "tag_list": [
+        "child",
+        "teen"
+      ],
+      "number": 13,
+      "image_asset": "images/homescreen/relation_t.svg",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_13",
+      "title": "Ser una figura de apoyo en la crianza y con la pareja",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Ser una figura de apoyo en la crianza y con la pareja"
+        }
+      }
+    },
+    {
+      "id": "ipv_sharing_m",
+      "tag_course": "ipv",
+      "child_gender_list": [
+        "male",
+        "female",
+        "opt_out"
+      ],
+      "tag_list": [
+        "child",
+        "teen"
+      ],
+      "number": 14,
+      "image_asset": "images/homescreen/understand_c.svg",
+      "relax_id": "relax_2",
+      "check_in_id": "check_in_14",
+      "title": "Papel de los padres en la crianza compartida",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Papel de los padres en la crianza compartida"
         }
       }
     },
@@ -375,13 +375,13 @@
       "image_asset": "images/homescreen/understand_t.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_15",
-      "title": "Resolver Conflictos Pacíficamente",
+      "title": "Resolver conflictos pacíficamente",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Resolver Conflictos Pacíficamente"
+          "eng": "Resolver conflictos pacíficamente"
         }
       }
     },
@@ -495,13 +495,13 @@
       "image_asset": "images/homescreen/safety_t.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_19",
-      "title": "Crear un Plan de Seguridad con Mi Niña o Niño (2 a 4)",
+      "title": "Crear un plan de seguridad con mi niña o niño (2 a 4)",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Crear un Plan de Seguridad con Mi Niña o Niño (2 a 4)"
+          "eng": "Crear un plan de seguridad con mi niña o niño (2 a 4)"
         }
       }
     },
@@ -527,13 +527,13 @@
       "image_asset": "images/homescreen/learn_c.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_20",
-      "title": "Crear un Plan de Seguridad con Mi Niña o Niño (5 a 9)",
+      "title": "Crear un plan de seguridad con mi niña o niño (5 a 9)",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Crear un Plan de Seguridad con Mi Niña o Niño (5 a 9)"
+          "eng": "Crear un plan de seguridad con mi niña o niño (5 a 9)"
         }
       }
     },
@@ -559,13 +559,13 @@
       "image_asset": "images/homescreen/learn_t.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_21",
-      "title": "Saber Responder Ante Alguna Crisis (2 a 6)",
+      "title": "Saber responder ante alguna crisis (2 a 6)",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Saber Responder Ante Alguna Crisis (2 a 6)"
+          "eng": "Saber responder ante alguna crisis (2 a 6)"
         }
       }
     },
@@ -589,13 +589,13 @@
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_22",
-      "title": "Saber Responder Ante Alguna Crisis (7 a 9)",
+      "title": "Saber responder ante alguna crisis (7 a 9)",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Saber Responder Ante Alguna Crisis (7 a 9)"
+          "eng": "Saber responder ante alguna crisis (7 a 9)"
         }
       }
     },
@@ -614,13 +614,13 @@
       "image_asset": "images/homescreen/relation_c.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_23",
-      "title": "Usar con Responsabilidad y Seguridad los Dispositivos y Espacios Virtuales",
+      "title": "Usar con responsabilidad y seguridad los dispositivos y espacios virtuales",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Usar con Responsabilidad y Seguridad los Dispositivos y Espacios Virtuales"
+          "eng": "Usar con responsabilidad y seguridad los dispositivos y espacios virtuales"
         }
       }
     },
@@ -639,13 +639,13 @@
       "image_asset": "images/homescreen/relation_t.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_24",
-      "title": "Desarrollar Confianza y Hábitos Seguros para el Uso de Internet y Redes Sociales",
+      "title": "Desarrollar confianza y hábitos seguros para el uso de internet y redes sociales",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Desarrollar Confianza y Hábitos Seguros para el Uso de Internet y Redes Sociales"
+          "eng": "Desarrollar confianza y hábitos seguros para el uso de internet y redes sociales"
         }
       }
     },
@@ -664,13 +664,13 @@
       "image_asset": "images/homescreen/understand_c.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_25",
-      "title": "Crear un Plan de Seguridad para Mi Adolescente",
+      "title": "Crear un plan de seguridad para mi adolescente",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Crear un Plan de Seguridad para Mi Adolescente"
+          "eng": "Crear un plan de seguridad para mi adolescente"
         }
       }
     },
@@ -689,13 +689,13 @@
       "image_asset": "images/homescreen/understand_t.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_26",
-      "title": "Prevenir la Violencia Sexual",
+      "title": "Prevenir la violencia sexual",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prevenir la Violencia Sexual"
+          "eng": "Prevenir la violencia sexual"
         }
       }
     },
@@ -703,9 +703,7 @@
       "id": "ks_crises_m_t",
       "tag_course": "safety_t",
       "child_gender_list": [
-        "male",
-        "female",
-        "opt_out"
+        "male"
       ],
       "tag_list": [
         "teen"
@@ -714,13 +712,13 @@
       "image_asset": "images/homescreen/behave_c.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_27",
-      "title": "Saber Responder Ante Alguna Crisis (fem)",
+      "title": "Saber responder ante alguna crisis (fem)",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Saber Responder Ante Alguna Crisis (fem)"
+          "eng": "Saber responder ante alguna crisis (fem)"
         }
       }
     },
@@ -728,7 +726,6 @@
       "id": "ks_crises_f_t",
       "tag_course": "safety_t",
       "child_gender_list": [
-        "male",
         "female",
         "opt_out"
       ],
@@ -739,13 +736,13 @@
       "image_asset": "images/homescreen/behave_t.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_28",
-      "title": "Saber Responder Ante Alguna Crisis (mas)",
+      "title": "Saber responder ante alguna crisis (mas)",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Saber Responder Ante Alguna Crisis (mas)"
+          "eng": "Saber responder ante alguna crisis (mas)"
         }
       }
     },
@@ -764,13 +761,13 @@
       "image_asset": "images/homescreen/safety_c.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_29",
-      "title": "Usar con Responsabilidad y Seguridad los Dispositivos y Espacios Virtuales",
+      "title": "Usar con responsabilidad y seguridad los dispositivos y espacios virtuales",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Usar con Responsabilidad y Seguridad los Dispositivos y Espacios Virtuales"
+          "eng": "Usar con responsabilidad y seguridad los dispositivos y espacios virtuales"
         }
       }
     },
@@ -789,13 +786,13 @@
       "image_asset": "images/homescreen/safety_t.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_30",
-      "title": "Desarrollar Confianza y Hábitos Seguros para el Uso de Internet y Redes Sociales",
+      "title": "Desarrollar confianza y hábitos seguros para el uso de internet y redes sociales",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Desarrollar Confianza y Hábitos Seguros para el Uso de Internet y Redes Sociales"
+          "eng": "Desarrollar confianza y hábitos seguros para el uso de internet y redes sociales"
         }
       }
     },
@@ -814,13 +811,13 @@
       "image_asset": "images/homescreen/learn_c.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_31",
-      "title": "Estrategias para Regular la Ira",
+      "title": "Estrategias para regular la ira",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Estrategias para Regular la Ira"
+          "eng": "Estrategias para regular la ira"
         }
       }
     },
@@ -839,13 +836,13 @@
       "image_asset": "images/homescreen/learn_t.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_32",
-      "title": "Enseñar Colaboración: Enfocarse en lo Positivo",
+      "title": "Enseñar colaboración: enfocarse en lo positivo",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Enseñar Colaboración: Enfocarse en lo Positivo"
+          "eng": "Enseñar colaboración: enfocarse en lo positivo"
         }
       }
     },
@@ -864,13 +861,13 @@
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_33",
-      "title": "Acordar Reglas En Familia",
+      "title": "Acordar reglas en familia",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Acordar Reglas En Familia"
+          "eng": "Acordar reglas en familia"
         }
       }
     },
@@ -889,13 +886,13 @@
       "image_asset": "images/homescreen/relation_c.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_34",
-      "title": "Estrategias para Reducir Problemas de Comportamiento.",
+      "title": "Estrategias para reducir problemas de comportamiento.",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Estrategias para Reducir Problemas de Comportamiento."
+          "eng": "Estrategias para reducir problemas de comportamiento."
         }
       }
     },
@@ -914,13 +911,13 @@
       "image_asset": "images/homescreen/relation_t.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_35",
-      "title": "Estrategias para Reducir Problemas de Comportamiento: Consecuencias Justas.",
+      "title": "Estrategias para reducir problemas de comportamiento: consecuencias justas.",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Estrategias para Reducir Problemas de Comportamiento: Consecuencias Justas."
+          "eng": "Estrategias para reducir problemas de comportamiento: consecuencias justas."
         }
       }
     },
@@ -939,13 +936,13 @@
       "image_asset": "images/homescreen/understand_c.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_36",
-      "title": "Resolver Problemas con Mi Niña o Niño",
+      "title": "Resolver problemas con mi niña o niño",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Resolver Problemas con Mi Niña o Niño"
+          "eng": "Resolver problemas con mi niña o niño"
         }
       }
     },
@@ -964,13 +961,13 @@
       "image_asset": "images/homescreen/understand_t.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_37",
-      "title": "Conocer el Papel de las Personas en la Familia: Todas y Todos Importamos",
+      "title": "Conocer el papel de las personas en la familia: todas y todos importamos",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Conocer el Papel de las Personas en la Familia: Todas y Todos Importamos"
+          "eng": "Conocer el papel de las personas en la familia: todas y todos importamos"
         }
       }
     },
@@ -989,13 +986,13 @@
       "image_asset": "images/homescreen/behave_c.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_38",
-      "title": "Estrategias para Regular la Ira",
+      "title": "Estrategias para regular la ira",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Estrategias para Regular la Ira"
+          "eng": "Estrategias para regular la ira"
         }
       }
     },
@@ -1014,13 +1011,13 @@
       "image_asset": "images/homescreen/behave_t.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_39",
-      "title": "Enseñar Colaboración: Enfocarse en lo Positivo",
+      "title": "Enseñar colaboración: enfocarse en lo positivo",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Enseñar Colaboración: Enfocarse en lo Positivo"
+          "eng": "Enseñar colaboración: enfocarse en lo positivo"
         }
       }
     },
@@ -1039,13 +1036,13 @@
       "image_asset": "images/homescreen/safety_c.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_40",
-      "title": "Acordar Reglas En Familia",
+      "title": "Acordar reglas en familia",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Acordar Reglas En Familia"
+          "eng": "Acordar reglas en familia"
         }
       }
     },
@@ -1064,13 +1061,13 @@
       "image_asset": "images/homescreen/safety_t.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_41",
-      "title": "Estrategias para Reducir Problemas de Comportamiento: Consecuencias Justas.",
+      "title": "Estrategias para reducir problemas de comportamiento: consecuencias justas.",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Estrategias para Reducir Problemas de Comportamiento: Consecuencias Justas."
+          "eng": "Estrategias para reducir problemas de comportamiento: consecuencias justas."
         }
       }
     },
@@ -1089,13 +1086,13 @@
       "image_asset": "images/homescreen/learn_c.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_42",
-      "title": "Resolver Problemas con Mi Adolescente",
+      "title": "Resolver problemas con mi adolescente",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Resolver Problemas con Mi Adolescente"
+          "eng": "Resolver problemas con mi adolescente"
         }
       }
     },
@@ -1114,13 +1111,13 @@
       "image_asset": "images/homescreen/learn_t.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_43",
-      "title": "Conocer el Papel de las Personas en la Familia: Todas y Todos Importamos",
+      "title": "Conocer el papel de las personas en la familia: todas y todos importamos",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Conocer el Papel de las Personas en la Familia: Todas y Todos Importamos"
+          "eng": "Conocer el papel de las personas en la familia: todas y todos importamos"
         }
       }
     },
@@ -1139,13 +1136,13 @@
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_44",
-      "title": "Estimular el Lenguaje de Mi Niña o Niño",
+      "title": "Estimular el lenguaje de mi niña o niño",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Estimular el Lenguaje de Mi Niña o Niño"
+          "eng": "Estimular el lenguaje de mi niña o niño"
         }
       }
     },
@@ -1168,13 +1165,13 @@
       "image_asset": "images/homescreen/relation_c.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_45",
-      "title": "Disfrutar y Favorecer la Lectura (2 a 3)",
+      "title": "Disfrutar y favorecer la lectura (2 a 3)",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Disfrutar y Favorecer la Lectura (2 a 3)"
+          "eng": "Disfrutar y favorecer la lectura (2 a 3)"
         }
       }
     },
@@ -1198,13 +1195,13 @@
       "image_asset": "images/homescreen/relation_t.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_46",
-      "title": "Disfrutar y Favorecer la Lectura: Parte 1 (4 a 6)",
+      "title": "Disfrutar y favorecer la lectura: parte 1 (4 a 6)",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Disfrutar y Favorecer la Lectura: Parte 1 (4 a 6)"
+          "eng": "Disfrutar y favorecer la lectura: parte 1 (4 a 6)"
         }
       }
     },
@@ -1228,13 +1225,13 @@
       "image_asset": "images/homescreen/understand_c.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_47",
-      "title": "Disfrutar y Favorecer la Lectura: Parte 2 (4 a 6)",
+      "title": "Disfrutar y favorecer la lectura: parte 2 (4 a 6)",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Disfrutar y Favorecer la Lectura: Parte 2 (4 a 6)"
+          "eng": "Disfrutar y favorecer la lectura: parte 2 (4 a 6)"
         }
       }
     },
@@ -1257,13 +1254,13 @@
       "image_asset": "images/homescreen/understand_t.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_48",
-      "title": "Enseñar Matemáticas Divertidas y Sencillas (2 a 3)",
+      "title": "Enseñar matemáticas divertidas y sencillas (2 a 3)",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Enseñar Matemáticas Divertidas y Sencillas (2 a 3)"
+          "eng": "Enseñar matemáticas divertidas y sencillas (2 a 3)"
         }
       }
     },
@@ -1287,13 +1284,13 @@
       "image_asset": "images/homescreen/behave_c.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_49",
-      "title": "Enseñar Matemáticas Divertidas y Sencillas: Parte 1 (4 a 6)",
+      "title": "Enseñar matemáticas divertidas y sencillas: parte 1 (4 a 6)",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Enseñar Matemáticas Divertidas y Sencillas: Parte 1 (4 a 6)"
+          "eng": "Enseñar matemáticas divertidas y sencillas: parte 1 (4 a 6)"
         }
       }
     },
@@ -1317,13 +1314,13 @@
       "image_asset": "images/homescreen/behave_t.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_50",
-      "title": "Enseñar Matemáticas Divertidas y Sencillas: Parte 2 (4 a 6)",
+      "title": "Enseñar matemáticas divertidas y sencillas: parte 2 (4 a 6)",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Enseñar Matemáticas Divertidas y Sencillas: Parte 2 (4 a 6)"
+          "eng": "Enseñar matemáticas divertidas y sencillas: parte 2 (4 a 6)"
         }
       }
     },
@@ -1351,13 +1348,13 @@
       "image_asset": "images/homescreen/safety_c.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_51",
-      "title": "Involucrarse en las Actividades Escolares (3 a 9)",
+      "title": "Involucrarse en las actividades escolares (3 a 9)",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Involucrarse en las Actividades Escolares (3 a 9)"
+          "eng": "Involucrarse en las actividades escolares (3 a 9)"
         }
       }
     },
@@ -1381,13 +1378,13 @@
       "image_asset": "images/homescreen/safety_t.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_52",
-      "title": "Hacer Divertido el Aprendizaje",
+      "title": "Hacer divertido el aprendizaje",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Hacer Divertido el Aprendizaje"
+          "eng": "Hacer divertido el aprendizaje"
         }
       }
     },
@@ -1411,13 +1408,13 @@
       "image_asset": "images/homescreen/learn_c.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_53",
-      "title": "Apoyar el Aprendizaje de Mi Niña o Niño",
+      "title": "Apoyar el aprendizaje de mi niña o niño",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Apoyar el Aprendizaje de Mi Niña o Niño"
+          "eng": "Apoyar el aprendizaje de mi niña o niño"
         }
       }
     },
@@ -1441,13 +1438,13 @@
       "image_asset": "images/homescreen/learn_t.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_54",
-      "title": "Crear un Ambiente Positivo para el Aprendizaje de Mi Niña o Niño",
+      "title": "Crear un ambiente positivo para el aprendizaje de mi niña o niño",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Crear un Ambiente Positivo para el Aprendizaje de Mi Niña o Niño"
+          "eng": "Crear un ambiente positivo para el aprendizaje de mi niña o niño"
         }
       }
     },
@@ -1471,13 +1468,13 @@
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_55",
-      "title": "Aprender de la Experiencia",
+      "title": "Aprender de la experiencia",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Aprender de la Experiencia"
+          "eng": "Aprender de la experiencia"
         }
       }
     },
@@ -1496,13 +1493,13 @@
       "image_asset": "images/homescreen/relation_c.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_56",
-      "title": "Hacer Divertido el Aprendizaje",
+      "title": "Hacer divertido el aprendizaje",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Hacer Divertido el Aprendizaje"
+          "eng": "Hacer divertido el aprendizaje"
         }
       }
     },
@@ -1521,13 +1518,13 @@
       "image_asset": "images/homescreen/relation_t.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_57",
-      "title": "Apoyar el Aprendizaje de Mi Adolescente",
+      "title": "Apoyar el aprendizaje de mi adolescente",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Apoyar el Aprendizaje de Mi Adolescente"
+          "eng": "Apoyar el aprendizaje de mi adolescente"
         }
       }
     },
@@ -1546,13 +1543,13 @@
       "image_asset": "images/homescreen/understand_c.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_58",
-      "title": "Crear un Ambiente Positivo y de Aprendizaje para Mi Adolescente",
+      "title": "Crear un ambiente positivo y de aprendizaje para mi adolescente",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Crear un Ambiente Positivo y de Aprendizaje para Mi Adolescente"
+          "eng": "Crear un ambiente positivo y de aprendizaje para mi adolescente"
         }
       }
     },
@@ -1571,13 +1568,13 @@
       "image_asset": "images/homescreen/understand_t.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_59",
-      "title": "Aprender de la Experiencia",
+      "title": "Aprender de la experiencia",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Aprender de la Experiencia"
+          "eng": "Aprender de la experiencia"
         }
       }
     },
@@ -1596,13 +1593,13 @@
       "image_asset": "images/homescreen/behave_c.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_60",
-      "title": "Aprender a Trabajar en Equipo",
+      "title": "Aprender a trabajar en equipo",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Aprender a Trabajar en Equipo"
+          "eng": "Aprender a trabajar en equipo"
         }
       }
     },
@@ -1621,13 +1618,13 @@
       "image_asset": "images/homescreen/behave_t.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_61",
-      "title": "El Poder del Juego",
+      "title": "El poder del juego",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "El Poder del Juego"
+          "eng": "El poder del juego"
         }
       }
     },
@@ -1646,13 +1643,13 @@
       "image_asset": "images/homescreen/safety_c.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_62",
-      "title": "Estrategias para Aprender de la Experiencia",
+      "title": "Estrategias para aprender de la experiencia",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Estrategias para Aprender de la Experiencia"
+          "eng": "Estrategias para aprender de la experiencia"
         }
       }
     },
@@ -1675,13 +1672,13 @@
       "image_asset": "images/homescreen/safety_t.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_63",
-      "title": "Conocer los Cambios de Mi Niña o Niño (2 a 3)",
+      "title": "Conocer los cambios de mi niña o niño (2 a 3)",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Conocer los Cambios de Mi Niña o Niño (2 a 3)"
+          "eng": "Conocer los cambios de mi niña o niño (2 a 3)"
         }
       }
     },
@@ -1705,13 +1702,13 @@
       "image_asset": "images/homescreen/learn_c.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_64",
-      "title": "Conocer los Cambios de Mi Niña o Niño (4 a 6)",
+      "title": "Conocer los cambios de mi niña o niño (4 a 6)",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Conocer los Cambios de Mi Niña o Niño (4 a 6)"
+          "eng": "Conocer los cambios de mi niña o niño (4 a 6)"
         }
       }
     },
@@ -1735,13 +1732,13 @@
       "image_asset": "images/homescreen/learn_t.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_65",
-      "title": "Conocer los Cambios de Mi Niña o Niño (7 a 9)",
+      "title": "Conocer los cambios de mi niña o niño (7 a 9)",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Conocer los Cambios de Mi Niña o Niño (7 a 9)"
+          "eng": "Conocer los cambios de mi niña o niño (7 a 9)"
         }
       }
     },
@@ -1760,13 +1757,13 @@
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_66",
-      "title": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 1",
+      "title": "Regular tu estrés como madre, padre o persona cuidadora - parte 1",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 1"
+          "eng": "Regular tu estrés como madre, padre o persona cuidadora - parte 1"
         }
       }
     },
@@ -1785,13 +1782,13 @@
       "image_asset": "images/homescreen/relation_c.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_67",
-      "title": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 2",
+      "title": "Regular tu estrés como madre, padre o persona cuidadora - parte 2",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 2"
+          "eng": "Regular tu estrés como madre, padre o persona cuidadora - parte 2"
         }
       }
     },
@@ -1810,13 +1807,13 @@
       "image_asset": "images/homescreen/relation_t.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_68",
-      "title": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 1",
+      "title": "Regular tu estrés como madre, padre o persona cuidadora - parte 1",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 1"
+          "eng": "Regular tu estrés como madre, padre o persona cuidadora - parte 1"
         }
       }
     },
@@ -1835,13 +1832,13 @@
       "image_asset": "images/homescreen/understand_c.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_69",
-      "title": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 2",
+      "title": "Regular tu estrés como madre, padre o persona cuidadora - parte 2",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 2"
+          "eng": "Regular tu estrés como madre, padre o persona cuidadora - parte 2"
         }
       }
     },
@@ -1860,13 +1857,13 @@
       "image_asset": "images/homescreen/understand_t.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_70",
-      "title": "Fomentar la Confianza de Mi Adolescente",
+      "title": "Fomentar la confianza de mi adolescente",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Fomentar la Confianza de Mi Adolescente"
+          "eng": "Fomentar la confianza de mi adolescente"
         }
       }
     },
@@ -1885,13 +1882,13 @@
       "image_asset": "images/homescreen/behave_c.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_71",
-      "title": "Cultivar la Motivación de Construir un Futuro en mi Adolescente",
+      "title": "Cultivar la motivación de construir un futuro en mi adolescente",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Cultivar la Motivación de Construir un Futuro en mi Adolescente"
+          "eng": "Cultivar la motivación de construir un futuro en mi adolescente"
         }
       }
     },
@@ -1910,13 +1907,13 @@
       "image_asset": "images/homescreen/behave_t.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_72",
-      "title": "Ayudar a Mi Adolescente a Enfrentar el Estrés",
+      "title": "Ayudar a mi adolescente a enfrentar el estrés",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Ayudar a Mi Adolescente a Enfrentar el Estrés"
+          "eng": "Ayudar a mi adolescente a enfrentar el estrés"
         }
       }
     },
@@ -1935,13 +1932,13 @@
       "image_asset": "images/homescreen/safety_c.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_73",
-      "title": "Tristeza y Depresión: Diferencias y Cómo Actuar",
+      "title": "Tristeza y depresión: diferencias y cómo actuar",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Tristeza y Depresión: Diferencias y Cómo Actuar"
+          "eng": "Tristeza y depresión: diferencias y cómo actuar"
         }
       }
     },
@@ -1960,13 +1957,13 @@
       "image_asset": "images/homescreen/safety_t.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_74",
-      "title": "Ansiedad: Qué Es y Cómo Actuar",
+      "title": "Ansiedad: qué es y cómo actuar",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Ansiedad: Qué Es y Cómo Actuar"
+          "eng": "Ansiedad: qué es y cómo actuar"
         }
       }
     },
@@ -1985,13 +1982,13 @@
       "image_asset": "images/homescreen/learn_c.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_75",
-      "title": "Conocer las Señales de Alarma para Detectar Situaciones de Riesgo",
+      "title": "Conocer las señales de alarma para detectar situaciones de riesgo",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Conocer las Señales de Alarma para Detectar Situaciones de Riesgo"
+          "eng": "Conocer las señales de alarma para detectar situaciones de riesgo"
         }
       }
     }

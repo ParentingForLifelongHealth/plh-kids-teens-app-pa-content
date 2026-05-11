@@ -76,7 +76,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Esta lección trata sobre Acordar relgas en familia.⏰⭐"
+          "eng": "Esta lección trata sobre acordar reglas en familia.⏰⭐"
         },
         "text_2": {
           "eng": "Las reglas familiares pueden ayudar a nuestras niñas, niños o adolescentes a mantenerse a salvo del peligro dentro de nuestras casas y en la comunidad. 🌷 \n\nEs más probable que tu niña, niño o adolescente siga estas reglas si se involucra en hacerlas. ⭐"
@@ -131,7 +131,7 @@
       "quiz_1_question": "¡Hagamos un ejercicio!\n\nEjercicio 1. \n\nSólo las personas cuidadoras deben establecer reglas en el hogar porque nuestras niñas, niños o adolescentes son demasiado jóvenes para ayuda a tomar decisiones por sí mismos.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
-      "text_1_facilitator": "Esta lección trata sobre Acordar relgas en familia.⏰⭐",
+      "text_1_facilitator": "Esta lección trata sobre acordar reglas en familia.⏰⭐",
       "text_2": "Las reglas familiares pueden ayudar a nuestras niñas, niños o adolescentes a mantenerse a salvo del peligro dentro de nuestras casas y en la comunidad. 🌷 \n\nEs más probable que tu niña, niño o adolescente siga estas reglas si se involucra en hacerlas. ⭐",
       "quiz_2_question": "¡Hagamos un ejercicio más!\n\nEjercicio 2: Poner límites a través de reglas en casa, rutinas diarias y un estilo de vida sano es malo para tu niña, niño o adolescente porque no le permite pensar por su cuenta.",
       "quiz_2_option_1_text": "Verdadero",
@@ -239,19 +239,20 @@
     },
     {
       "id": "practical_tips_1",
-      "media_type": "video",
+      "media_type": "youtube",
       "category_id": "practical_tips",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da Clic en Reproducir ▶️ para aprender 4️⃣ estrategias sencillas que te ayudarán a establecer reglas familiares con @fields.child_name:\n\n1️⃣ **SER UN EQUIPO**\n2️⃣ **MANTENERLO REALISTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**"
+          "eng": "Selecciona reproducir ▶️ para aprender 4️⃣ estrategias sencillas que te ayudarán a establecer reglas familiares con @fields.child_name:\n\n1️⃣ **SER UN EQUIPO**\n2️⃣ **MANTENERLO REALISTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**"
         }
       },
-      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender 4️⃣ estrategias sencillas que te ayudarán a establecer reglas familiares con @fields.child_name:\n\n1️⃣ **SER UN EQUIPO**\n2️⃣ **MANTENERLO REALISTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender 4️⃣ estrategias sencillas que te ayudarán a establecer reglas familiares con @fields.child_name:\n\n1️⃣ **SER UN EQUIPO**\n2️⃣ **MANTENERLO REALISTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en": "youtube link",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=3dKfChjDxDg",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=5pFvpUuM3ts",
       "completed": false
     },
     {
@@ -275,7 +276,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_¡Actividad para casa!_** ⭐  \n\nCrea una regla familiar con @fields.child_name hoy. 🏆"
+          "eng": "**¡Actividad para casa!** ⭐  \n\nCrea una regla familiar con @fields.child_name hoy. 🏆"
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy?"
@@ -306,7 +307,7 @@
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**_¡Actividad para casa!_** ⭐  \n\nCrea una regla familiar con @fields.child_name hoy. 🏆",
+      "text_1_facilitator": "**¡Actividad para casa!** ⭐  \n\nCrea una regla familiar con @fields.child_name hoy. 🏆",
       "completed": false
     }
   ],

@@ -24,7 +24,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "¡Tomarte un momento para TI hace una gran diferencia para todas y todos!",
+      "text_1": "¡Tomarte un momento para ti hace una gran diferencia para todas y todos!",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -37,7 +37,7 @@
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "¡Tomarte un momento para TI hace una gran diferencia para todas y todos!"
+          "eng": "¡Tomarte un momento para ti hace una gran diferencia para todas y todos!"
         },
         "quiz_1_feedback_1": {
           "eng": "¡Que bien que hoy esté siendo un buen día! ¿Puedes pensar en algo que ha salido bien hoy? Recuerda reconocerte por ello."
@@ -189,19 +189,20 @@
     },
     {
       "id": "practical_tips_1",
-      "media_type": "video",
+      "media_type": "youtube",
       "category_id": "practical_tips",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da clic en reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**"
+          "eng": "Selecciona reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**"
         }
       },
-      "text_1_facilitator": "Da clic en reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en": "youtube link",
+      "youtube_gb_en_f": "youtube link",
+      "youtube_gb_en_m": "https://youtu.be/16A33t17YNo",
       "completed": false
     },
     {

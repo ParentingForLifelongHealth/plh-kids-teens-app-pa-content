@@ -121,7 +121,12 @@
       "flow_type": "data_pipe"
     },
     {
-      "flow_name": "prep_ipv_sharing_m_articles",
+      "flow_name": "prep_ipv_listen_m_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_ipv_equals_m_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     },
@@ -131,12 +136,7 @@
       "flow_type": "data_pipe"
     },
     {
-      "flow_name": "prep_ipv_listen_m_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
-    },
-    {
-      "flow_name": "prep_ipv_equals_m_articles",
+      "flow_name": "prep_ipv_sharing_m_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     },

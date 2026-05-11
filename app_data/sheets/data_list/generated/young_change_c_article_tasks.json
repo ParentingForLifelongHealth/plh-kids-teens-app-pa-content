@@ -24,7 +24,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Toma un momento para TI. Cuidarte empieza por notar cómo te sientes.",
+      "text_1": "Toma un momento para ti. Cuidarte empieza por notar cómo te sientes.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -37,7 +37,7 @@
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Toma un momento para TI. Cuidarte empieza por notar cómo te sientes."
+          "eng": "Toma un momento para ti. Cuidarte empieza por notar cómo te sientes."
         },
         "quiz_1_feedback_1": {
           "eng": "¡Increíble! La vida se siente mejor cuando nos sentimos bien."
@@ -245,19 +245,20 @@
     },
     {
       "id": "practical_tips_1",
-      "media_type": "video",
+      "media_type": "youtube",
       "category_id": "practical_tips",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da clic en reproducir ▶️ para aprender algunas estrategias que puedes seguir para favorecer el desarrollo saludable de @fields.child_name:\n\n1️⃣ **APRENDER JUGANDO**\n2️⃣ **APOYAR LA CURIOSIDAD**"
+          "eng": "Selecciona reproducir ▶️ para aprender algunas estrategias que puedes seguir para favorecer el desarrollo saludable de @fields.child_name:\n\n1️⃣ **APRENDER JUGANDO**\n2️⃣ **APOYAR LA CURIOSIDAD**"
         }
       },
-      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender algunas estrategias que puedes seguir para favorecer el desarrollo saludable de @fields.child_name:\n\n1️⃣ **APRENDER JUGANDO**\n2️⃣ **APOYAR LA CURIOSIDAD**",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender algunas estrategias que puedes seguir para favorecer el desarrollo saludable de @fields.child_name:\n\n1️⃣ **APRENDER JUGANDO**\n2️⃣ **APOYAR LA CURIOSIDAD**",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en": "youtube link",
+      "youtube_gb_en_f": "https://youtu.be/jpJypLnpGfM",
+      "youtube_gb_en_m": "https://youtu.be/b2oAWMssVkg",
       "completed": false
     },
     {
@@ -281,7 +282,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de @fields.child_name. Para empezar, escribe {CRECER}."
+          "eng": "**Actividad para casa**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de @fields.child_name. Para empezar, escribe {CRECER}."
         },
         "quiz_1_question": {
           "eng": "¿Puedes completar la evaluación hoy? ⭐"
@@ -312,7 +313,7 @@
       "quiz_1_question": "¿Puedes completar la evaluación hoy? ⭐",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de @fields.child_name. Para empezar, escribe {CRECER}.",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de @fields.child_name. Para empezar, escribe {CRECER}.",
       "completed": false
     }
   ],

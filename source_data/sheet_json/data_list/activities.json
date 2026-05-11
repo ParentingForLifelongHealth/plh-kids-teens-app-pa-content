@@ -33,7 +33,7 @@
       "resources_text::eng": "🛠️ Materiales: papel, lápiz o pluma, revistas para recortar, tijeras, folders o cartulina",
       "steps_text::eng": "📝 Crea un álbum de las seis emociones con tu niña o niño: alegría, tristeza, enojo, disgusto, sorpresa y miedo.\n \n🎨 Pueden dibujar, recortar imágenes de revistas o tomar fotos de personas de la familia que representen distintas emociones.\n \n🏷️ Nombren cada emoción y agreguen palabras sobre cómo se experimenta en cada caso.\n \n📍 Coloca el álbum en un lugar visible y accesible, y utilízalo a lo largo del día para expresar cómo se siente cada integrante de la familia. Por ejemplo, al regresar de la escuela, se puede señalar la emoción que se está experimentando.",
       "tips_text::eng": "🌱 A medida que surjan nuevas emociones, pueden incorporarlas al álbum. Si resulta difícil identificar lo que se siente, acompaña el proceso explorando las sensaciones del cuerpo y buscando una palabra que lo describa.",
-      "attribution::eng": "Fuente: \"I am Safe, Loved, and Learning by Save the Children\".",
+      "attribution::eng": "\"I am Safe, Loved, and Learning by Save the Children\".",
       "activity_group_list": "calm",
       "child_age_list": "2; 3; 4; 5; 6; 7; 8; 9"
     },
@@ -45,7 +45,7 @@
       "resources_text::eng": "🛠️ Materiales: papel, lápiz o pluma, revistas para recortar, tijeras, folders o cartulina",
       "steps_text::eng": "📝 Crea un álbum de las seis emociones con tu adolescente: alegría, tristeza, enojo, disgusto, sorpresa y miedo.\n \n🎨 Pueden dibujar, recortar imágenes de revistas o tomar fotos de personas de la familia que representen distintas emociones.\n \n🏷️ Nombren cada emoción y agreguen palabras sobre cómo se experimenta en cada caso.\n \n📍 Coloca el álbum en un lugar visible y accesible, y utilízalo a lo largo del día para expresar cómo se siente cada integrante de la familia. Por ejemplo, al regresar de la escuela, se puede señalar la emoción que se está experimentando.",
       "tips_text::eng": "🌱 A medida que surjan nuevas emociones, pueden incorporarlas al álbum. Si resulta difícil identificar lo que se siente, acompaña el proceso explorando las sensaciones del cuerpo y buscando una palabra que lo describa.",
-      "attribution::eng": "Fuente: \"I am Safe, Loved, and Learning by Save the Children\".",
+      "attribution::eng": "\"I am Safe, Loved, and Learning by Save the Children\".",
       "activity_group_list": "calm",
       "child_age_list": "10; 11; 12; 13; 14; 15; 16; 17"
     },
@@ -201,8 +201,8 @@
       "id": "Activate_c",
       "title::eng": "¡Actívate! 🏃‍♀️✨",
       "image_asset": "images/activities/activate_c.svg",
-      "intro_text::eng": "¡Felicidades! Has desbloqueado una nueva actividad. El ejercicio es una forma increíble de pasar tiempo con tu niña o niño y es muy bueno para la salud. 🌱 ¡Encuentren un deporte o ejercicio que quieran hacer y pruébenlo juntos!",
-      "steps_text::eng": "⏰ Incluso caminar 10 minutos al día es bueno.\n \n⚽ Pueden caminar, correr, jugar fútbol, nadar, bailar o hacer cualquier otro deporte...\n \n🏆 Piensen en formas de hacerlo aún más divertido. ¿Pueden trotar hasta un punto determinado? ¿Tomar turnos para liderar? ¿Puede haber una pequeña recompensa gratuita, como decidir la siguiente actividad?\n \n🌈 El ejercicio se hace más fácil y agradable cuanto más lo haces.",
+      "intro_text::eng": "¡Felicidades! Has desbloqueado una nueva actividad. El ejercicio es una forma increíble de pasar tiempo con tu niña o niño y es muy bueno para la salud. 🌱 ",
+      "steps_text::eng": "¡Encuentren un deporte o ejercicio que quieran hacer y pruébenlo juntos!\n\n⏰ Incluso caminar 10 minutos al día es bueno.\n \n⚽ Pueden caminar, correr, jugar fútbol, nadar, bailar o hacer cualquier otro deporte...\n \n🏆 Piensen en formas de hacerlo aún más divertido. ¿Pueden trotar hasta un punto determinado? ¿Tomar turnos para liderar? ¿Puede haber una pequeña recompensa gratuita, como decidir la siguiente actividad?\n \n🌈 El ejercicio se hace más fácil y agradable cuanto más lo haces.",
       "tips_text::eng": "🔄 Si a ti o a tu niña o niño no les gusta el primer ejercicio que elijan, prueben uno nuevo.",
       "activity_group_list": "active",
       "child_age_list": "2; 3; 4; 5; 6; 7; 8; 9"
@@ -245,7 +245,7 @@
       "image_asset": "images/activities/artista_c.svg",
       "intro_text::eng": "¡Felicidades! Has desbloqueado una nueva actividad. ",
       "resources_text::eng": "🛠️ Materiales: papel, pluma o lápices, colores",
-      "steps_text::eng": "📝 Dale a {tu niño} papel y una pluma o un lápiz, o varias plumas o lápices diferentes.\n\n😃 ¡Deja que tu niña o niño dibuje lo que quiera!\n\n👀 Haz preguntas sobre lo que dibuja, el tamaño de lo que dibuja y los colores que usa.",
+      "steps_text::eng": "📝 Dale a @fields.child_name papel y una pluma o un lápiz, o varias plumas o lápices diferentes.\n\n😃 ¡Deja que tu niña o niño dibuje lo que quiera!\n\n👀 Haz preguntas sobre lo que dibuja, el tamaño de lo que dibuja y los colores que usa.",
       "tips_text::eng": "🏆 Si es posible, cuelga el dibujo de tu niña o niño en la pared cuando hayan terminado. ¡Reconoce su creatividad y esfuerzos!",
       "activity_group_list": "calm",
       "child_age_list": "2; 3; 4; 5; 6; 7; 8; 9"
@@ -314,7 +314,7 @@
       "image_asset": "images/activities/escritor_c.svg",
       "intro_text::eng": "¡Felicidades! Has desbloqueado una nueva actividad.",
       "resources_text::eng": "🛠️ Materiales: lápiz y papel; opcional: palo, arena o tierra.",
-      "steps_text::eng": "📝 Tú y {tu niño} pueden divertirse escribiendo con un lápiz y papel, ¡o con un palo y la arena! Si tu niña o niño no sabe escribir letras, anímalos a dibujar formas, e intenta copiar las formas de las letras. 🔵▶️\n\nCuando tenga más confianza, anímale a escribir letras e incluso palabras. 😃 Empieza a enseñarle a escribir su nombre y otras palabras que le importen, como mamá, pelota o leche.",
+      "steps_text::eng": "📝 Tú y @fields.child_name pueden divertirse escribiendo con un lápiz y papel, ¡o con un palo y la arena! Si tu niña o niño no sabe escribir letras, anímalos a dibujar formas, e intenta copiar las formas de las letras. 🔵▶️\n\nCuando tenga más confianza, anímale a escribir letras e incluso palabras. 😃 Empieza a enseñarle a escribir su nombre y otras palabras que le importen, como mamá, pelota o leche.",
       "tips_text::eng": "Enséñale las cosas sencillas que escribes, ¡como las listas del súper! Vean las palabras y cada una de las letras. ¡Puedes dejar que intente copiar las palabras! 📖",
       "activity_group_list": "quick",
       "child_age_list": "2; 3; 4; 5; 6; 7; 8; 9"
@@ -333,7 +333,7 @@
     {
       "id": "Narracion_creativa_c",
       "title::eng": "¡Narración creativa! 🎙️✨",
-      "image_asset": "images/activities/narracion_c.svg",
+      "image_asset": "images/activities/narrador_c.svg",
       "intro_text::eng": "¡Felicidades! Has desbloqueado una nueva actividad. Una forma divertida de fortalecer la comunicación, la reflexión y la expresión.",
       "steps_text::eng": "👀 Di lo que hace tu niña o niño mientras juegan\n \n👂 Esto les ayudará a aprender las palabras para describir sus acciones.\n \n😃 Puedes hacerlo de una forma sencilla, o de una forma graciosa, como un comentarista de deportes, un presentador de noticias, o un presentador de un programa de juegos",
       "tips_text::eng": "💡 Haz preguntas como \"¿qué vas a hacer ahora?\" o \"veo que quieres meter la pelota en el tarro. ¿Hay otra forma de hacerlo?\"",
@@ -343,7 +343,7 @@
     {
       "id": "Narracion_creativa_t",
       "title::eng": "¡Narración creativa! 🎙️✨",
-      "image_asset": "images/activities/narracion_t.svg",
+      "image_asset": "images/activities/narrador_t.svg",
       "intro_text::eng": "¡Felicidades! Has desbloqueado una nueva actividad. Una forma divertida de fortalecer la comunicación, la reflexión y la expresión.",
       "steps_text::eng": "👀 Observa alguna actividad que esté realizando tu adolescente (puede ser un juego, deporte, tarea o actividad cotidiana) y descríbela en voz alta.\n \n🎭 Prueba distintos estilos: como comentarista deportivo, presentador de noticias o narrador de un programa 🎤\n \n💬 Invita a participar haciendo preguntas como:\n “¿Qué estás haciendo ahora?”\n “¿Qué sigue?”\n “¿Por qué elegiste hacerlo así?”\n \n🔄 También se pueden intercambiar roles y permitir que tu adolescente narre.",
       "tips_text::eng": "🎯 Si hay interés, pueden hacerlo más dinámico narrando videos, escenas de series o incluso situaciones imaginadas.",
@@ -635,7 +635,7 @@
       "image_asset": "images/activities/personajes_c.svg",
       "intro_text::eng": "¡Felicidades! Has desbloqueado una nueva actividad. Una forma divertida de dejar volar la imaginación y crear algo en equipo 💙",
       "resources_text::eng": "🛠️ Materiales: papel y lápiz.",
-      "steps_text::eng": "Colóquense de forma que nadie pueda ver lo que las demás personas están dibujando 👀\n \n🎭 Una persona comienza dibujando la parte superior del personaje (cabeza, cabello, sombrero…). Puede ser tan creativo o gracioso como quieran 😄\n \n📄 Al terminar, doblen esa parte del papel para ocultarla, dejando solo unas pequeñas líneas como guía ✂️\n \n🔄 Pasen el papel a la siguiente persona, quien dibujará la siguiente parte (hombros o torso) sin ver lo anterior. Repitan el proceso hasta completar todo el cuerpo\n \n😲 Al final, desplieguen el papel y descubran el personaje que crearon en conjunto",
+      "steps_text::eng": "Colóquense de forma que nadie pueda ver lo que las demás personas están dibujando 👀\n \n🎭 Una persona comienza dibujando la parte superior del personaje (cabeza, cabello, sombrero…). Puede ser tan creativo o gracioso como quieran 😄\n \n📄 Al terminar, doblen esa parte del papel para ocultarla, dejando solo unas pequeñas líneas como guía ✂️\n \n🔄 Pasen el papel a la siguiente persona, quien dibujará la siguiente parte (hombros o torso) sin ver lo anterior. Repitan el proceso hasta completar todo el cuerpo\n \n😲 Al final, desplieguen el papel y descubran el personaje que crearon en conjunto.",
       "tips_text::eng": "👏 Reconoce las ideas y la creatividad de cada persona: “¡Qué personaje tan original!”.",
       "attribution::eng": "Adaptado de [Learning through Play](https://learningthroughplay.com/let-s-play/co-drawing)",
       "activity_group_list": "group",
@@ -728,7 +728,7 @@
       "title::eng": "Juegos de lógica 🔽▶️🔼",
       "image_asset": "images/activities/logica.svg",
       "intro_text::eng": "¡Felicidades! Has desbloqueado una nueva actividad.",
-      "steps_text::eng": "❗ ¡Mamá/Papá dice! Juega a dar instrucciones:\n Mamá/papá dice que te toques la cabeza. Mamá/papá dice que abras la boca. Mamá/papá dice que des una vuelta. Mamá/papá dice que te toques las rodillas. Mamá/papá dice que saltes dos veces. Mamá/papá dice salta, luego aplaude y siéntate.\n \n👂 Caminar y detenerse: Juega con {tu niño}\n Di: Cuando diga \"alto\", nos quedamos quietos. Cuando diga \"avanza\", podemos volver a caminar.\n Una vez que {tu niño} esté familiarizado con el juego, {tu niño} te guiará.\n \n🔵 🔴 Azul-Rojo - ¡ahora juega este juego!\n Si digo que toques algo azul, tienes que tocar algo rojo. Si digo que toques algo rojo, tienes que tocar algo azul.",
+      "steps_text::eng": "❗ ¡Mamá/Papá dice! Juega a dar instrucciones:\n Mamá/papá dice que te toques la cabeza. Mamá/papá dice que abras la boca. Mamá/papá dice que des una vuelta. Mamá/papá dice que te toques las rodillas. Mamá/papá dice que saltes dos veces. Mamá/papá dice salta, luego aplaude y siéntate.\n \n👂 Caminar y detenerse: Juega con @fields.child_name\n Di: Cuando diga \"alto\", nos quedamos quietos. Cuando diga \"avanza\", podemos volver a caminar.\n Una vez que @fields.child_name esté familiarizado con el juego, @fields.child_name te guiará.\n \n🔵 🔴 Azul-Rojo - ¡ahora juega este juego!\n Si digo que toques algo azul, tienes que tocar algo rojo. Si digo que toques algo rojo, tienes que tocar algo azul.",
       "activity_group_list": "active",
       "child_age_list": "2; 3; 4; 5; 6; 7; 8; 9"
     },
@@ -771,7 +771,7 @@
       "image_asset": "images/activities/canciones.svg",
       "intro_text::eng": "¡Felicidades! Has desbloqueado una nueva actividad. Las canciones con movimiento son una forma divertida de jugar, seguir instrucciones y mantenerse en actividad.",
       "resources_text::eng": "🛠️ Materiales: dispositivo para reproducir música o algo con qué crearla.",
-      "steps_text::eng": "😃 A niñas y niños les gusta moverse, y las canciones pueden ayudar a guiar cómo hacerlo de forma lúdica cuando en sus letras tienen instrucciones sobre cómo moverse🎵 \n \nCanta canciones a {tu niño} en las que tengan que:\n ▶️ Iniciar y detenerse ⏸️\n 🐢 Ir lento y luego más rápido 🐇\n 💃 También se pueden incluir movimientos como saltar, girar, aplaudir o agacharse.",
+      "steps_text::eng": "😃 A niñas y niños les gusta moverse, y las canciones pueden ayudar a guiar cómo hacerlo de forma lúdica cuando en sus letras tienen instrucciones sobre cómo moverse🎵 \n \nCanta canciones a @fields.child_name en las que tengan que:\n ▶️ Iniciar y detenerse ⏸️\n 🐢 Ir lento y luego más rápido 🐇\n 💃 También se pueden incluir movimientos como saltar, girar, aplaudir o agacharse.",
       "tips_text::eng": " ✨ Esta actividad favorece la coordinación, la atención y el disfrute a través del juego y la música.",
       "activity_group_list": "active",
       "child_age_list": "2; 3; 4; 5; 6; 7; 8; 9"

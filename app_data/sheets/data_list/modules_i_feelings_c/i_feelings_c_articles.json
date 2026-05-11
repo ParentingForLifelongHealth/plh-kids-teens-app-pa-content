@@ -118,13 +118,13 @@
           "eng": "Veamos cómo @data.characters.f3_madre.name ayuda a su niña a persistir en una actividad difícil durante el tiempo juntos y conectados."
         },
         "character_1_text": {
-          "eng": "@data.characters.f3.hija_7.name, Quiero pasar tiempo contigo. ¿Qué quieres hacer?"
+          "eng": "@data.characters.f3_hija_7.name Quiero pasar tiempo contigo. ¿Qué te gustaría hacer?"
         },
         "character_2_text": {
           "eng": "¡Vamos a jugar afuera con la pelota!"
         }
       },
-      "character_1_text": "@data.characters.f3.hija_7.name, Quiero pasar tiempo contigo. ¿Qué quieres hacer?",
+      "character_1_text": "@data.characters.f3_hija_7.name Quiero pasar tiempo contigo. ¿Qué te gustaría hacer?",
       "character_2_text": "¡Vamos a jugar afuera con la pelota!"
     },
     {
@@ -134,20 +134,20 @@
       "character_1_id": "f3_hija_7",
       "character_2_id": "f3_madre",
       "nested": false,
-      "character_1_text": "¡No soy buena con la pelota!.",
+      "character_1_text": "¡No soy buena con la pelota!",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "¡No soy buena con la pelota!."
+          "eng": "¡No soy buena con la pelota!"
         },
         "character_2_text": {
-          "eng": "Veo que tienes tus manos apretadas y estás levantando la voz. Parece que estás molesta, @data.characters.f3.hija_7.name. Sé que puede ser algo frustrante, tomemos una pausa y  cuándo estés lista para continuar avísame."
+          "eng": "Veo que tienes tus manos apretadas y estás levantando la voz. Parece que estás molesta, @data.characters.f3_hija_7.name. Sé que puede ser algo frustrante, tomemos una pausa y  cuándo estés lista para continuar avísame."
         }
       },
-      "character_2_text": "Veo que tienes tus manos apretadas y estás levantando la voz. Parece que estás molesta, @data.characters.f3.hija_7.name. Sé que puede ser algo frustrante, tomemos una pausa y  cuándo estés lista para continuar avísame."
+      "character_2_text": "Veo que tienes tus manos apretadas y estás levantando la voz. Parece que estás molesta, @data.characters.f3_hija_7.name. Sé que puede ser algo frustrante, tomemos una pausa y  cuándo estés lista para continuar avísame."
     },
     {
       "id": "explore_3",
@@ -156,14 +156,14 @@
       "character_1_id": "f3_madre",
       "character_2_id": "f3_hija_7",
       "nested": false,
-      "character_1_text": "¡Ya van cinco veces que la atrapas, @data.characters.f3.hija_7.name! ¡Debes de estar orgullosa de haber llegado a cinco!",
+      "character_1_text": "¡Ya van cinco veces que la atrapas, @data.characters.f3_hija_7.name! ¡Debes de estar orgullosa de haber llegado a cinco!",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "¡Ya van cinco veces que la atrapas, @data.characters.f3.hija_7.name! ¡Debes de estar orgullosa de haber llegado a cinco!"
+          "eng": "¡Ya van cinco veces que la atrapas, @data.characters.f3_hija_7.name! ¡Debes de estar orgullosa de haber llegado a cinco!"
         },
         "character_2_text": {
           "eng": "¡Vamos por 10!"
@@ -177,13 +177,13 @@
       "image_asset": "images/comic/relation/feelings_yc_4.svg",
       "character_1_id": "f3_madre",
       "nested": false,
-      "character_1_text": "Me hace muy feliz poder pasar este tiempo especial contigo, @data.characters.f3.hija_7.name.",
+      "character_1_text": "Me hace muy feliz poder pasar este tiempo especial contigo, @data.characters.f3_hija_7.name.",
       "_translations": {
         "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Me hace muy feliz poder pasar este tiempo especial contigo, @data.characters.f3.hija_7.name."
+          "eng": "Me hace muy feliz poder pasar este tiempo especial contigo, @data.characters.f3_hija_7.name."
         }
       }
     },
@@ -191,16 +191,16 @@
       "id": "practical_tips_1",
       "category_id": "practical_tips",
       "media_type": "youtube",
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=zb8R8HCHu2s&list=PLSUp-fKSYJUbs4FIMvxFUtdKZZEVPNEbY&index=1",
-      "youtube_gb_en_m": "https://youtu.be/-qd5aVE-pc0?si=Vt-TuF80GoRK36PD",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=zb8R8HCHu2s",
+      "youtube_gb_en_m": "https://youtu.be/-qd5aVE-pc0",
       "nested": false,
-      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:\n\n1️⃣ APRENDER\n2️⃣ IDENTIFICAR\n3️⃣ ABRIR TU MENTE\n4️⃣ HABLAR\n5️⃣ COMPARTIR\n6️⃣ MOSTRAR INTERÉS",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:\n\n1️⃣ APRENDER\n2️⃣ IDENTIFICAR\n3️⃣ ABRIR TU MENTE\n4️⃣ HABLAR\n5️⃣ COMPARTIR\n6️⃣ MOSTRAR INTERÉS",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da clic en reproducir ▶️ para aprender las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:\n\n1️⃣ APRENDER\n2️⃣ IDENTIFICAR\n3️⃣ ABRIR TU MENTE\n4️⃣ HABLAR\n5️⃣ COMPARTIR\n6️⃣ MOSTRAR INTERÉS"
+          "eng": "Selecciona reproducir ▶️ para aprender las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:\n\n1️⃣ APRENDER\n2️⃣ IDENTIFICAR\n3️⃣ ABRIR TU MENTE\n4️⃣ HABLAR\n5️⃣ COMPARTIR\n6️⃣ MOSTRAR INTERÉS"
         }
       }
     },

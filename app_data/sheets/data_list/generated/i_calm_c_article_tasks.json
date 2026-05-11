@@ -96,21 +96,6 @@
         "quiz_1_feedback_2": {
           "eng": "🎉 ¡Buen trabajo!\n\n💛 Puede ser muy difícil cuando tu niña o niño se porta mal. Intenta regular tu estrés y tu enojo antes de hacer cualquier cosa.  \n\n🌱 Respirar profundo te ayudará. Reaccionar cuando sientes enojo puede hacer que digas o hagas cosas de las que te puedes arrepentir después."
         },
-        "quiz_2_question": {
-          "eng": "Los niños y los hombres no deben conversar sobre cómo se sienten cuando están tristes o con miedo."
-        },
-        "quiz_2_option_1_text": {
-          "eng": "Verdadero"
-        },
-        "quiz_2_feedback_1": {
-          "eng": "👀 ¡Ups! ¡Buen intento! \n\n⭐ Es importante que niños, niñas, hombres y mujeres por igual aprendan a compartir sus sentimientos.  \n\n💙 Las niñas, niños y adolescentes deben aprender que es válido sentirse tristes o asustados y que pueden pedir ayuda cuando la necesiten, sin importar la edad y el género"
-        },
-        "quiz_2_option_2_text": {
-          "eng": "Falso"
-        },
-        "quiz_2_feedback_2": {
-          "eng": "🎉 ¡Tienes razón! \n\n⭐ Es importante que niños, niñas, hombres y mujeres por igual aprendan a compartir sus sentimientos.  \n\n💙 Las niñas, niños y adolescentes deben aprender que es válido sentirse tristes o asustados y que pueden pedir ayuda cuando la necesiten, sin importar la edad y el género."
-        },
         "quiz_3_question": {
           "eng": "Como madres, padres o personas cuidadoras también podemos compartir nuestros sentimientos con nuestras niñas, niños o adolescentes."
         },
@@ -136,11 +121,6 @@
         "quiz_1_option_2_text": {},
         "text_1_facilitator": {},
         "text_2": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
         "quiz_3_question": {},
         "quiz_3_option_1_text": {},
         "quiz_3_feedback_1": {},
@@ -153,11 +133,6 @@
       "quiz_1_option_2_text": "Falso",
       "text_1_facilitator": "Esta lección trata sobre cómo podemos mantener la calma cuando hay estrés y regular nuestro enojo cuando enfrentamos situaciones frustrantes con nuestras niñas y niños. 💚",
       "text_2": "🌷 Conforme empieces a observar tus sentimientos y emociones, podrías notar alguno de ellos, como enojo, frustración o tristeza.  \n\nEs verdad que amamos a nuestras niñas, niños y adolescentes, y también es cierto que el estrés de cuidarles y otros eventos del día a día pueden llevarnos a sentir enojo. ¡Esto es parte de la vida!  \n\n💡 Es importante que intentemos mantener la calma cuando hay estrés para poder regular nuestro enojo y evitar lastimar o herir a las y los demás.",
-      "quiz_2_question": "Los niños y los hombres no deben conversar sobre cómo se sienten cuando están tristes o con miedo.",
-      "quiz_2_option_1_text": "Verdadero",
-      "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento! \n\n⭐ Es importante que niños, niñas, hombres y mujeres por igual aprendan a compartir sus sentimientos.  \n\n💙 Las niñas, niños y adolescentes deben aprender que es válido sentirse tristes o asustados y que pueden pedir ayuda cuando la necesiten, sin importar la edad y el género",
-      "quiz_2_option_2_text": "Falso",
-      "quiz_2_feedback_2": "🎉 ¡Tienes razón! \n\n⭐ Es importante que niños, niñas, hombres y mujeres por igual aprendan a compartir sus sentimientos.  \n\n💙 Las niñas, niños y adolescentes deben aprender que es válido sentirse tristes o asustados y que pueden pedir ayuda cuando la necesiten, sin importar la edad y el género.",
       "quiz_3_question": "Como madres, padres o personas cuidadoras también podemos compartir nuestros sentimientos con nuestras niñas, niños o adolescentes.",
       "quiz_3_option_1_text": "Verdadero",
       "quiz_3_feedback_1": "🎉 ¡Correcto! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les modela cómo pueden hacerlo.",
@@ -174,7 +149,7 @@
           "eng": "@data.characters.f2_abuelo.name está a punto de pasar tiempo juntos y conectados con @data.characters.f2_hijo_8.name, pero al llegar ve que la sala está hecha un desastre. Se da cuenta de que esta situación lo hace sentir enojado."
         },
         "character_1_text": {
-          "eng": "@data.characters.f2_abuelo.name está pensando: Me estoy sintiendo muy enojado. Estoy cansado y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a mi nieto @data.characters.f2_hijo_8.name."
+          "eng": "Pensando: Me estoy sintiendo muy enojado. Estoy cansado y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a mi nieto @data.characters.f2_hijo_8.name."
         }
       },
       "text_1_facilitator": "@data.characters.f2_abuelo.name está a punto de pasar tiempo juntos y conectados con @data.characters.f2_hijo_8.name, pero al llegar ve que la sala está hecha un desastre. Se da cuenta de que esta situación lo hace sentir enojado.",
@@ -184,7 +159,7 @@
       },
       "image_asset": "images/comic/relation/calm_yc_1.svg",
       "character_1_id": "f2_abuelo",
-      "character_1_text": "@data.characters.f2_abuelo.name está pensando: Me estoy sintiendo muy enojado. Estoy cansado y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a mi nieto @data.characters.f2_hijo_8.name.",
+      "character_1_text": "Pensando: Me estoy sintiendo muy enojado. Estoy cansado y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a mi nieto @data.characters.f2_hijo_8.name.",
       "completed": false
     },
     {
@@ -193,12 +168,12 @@
       "nested": false,
       "_translatedFields": {
         "character_1_text": {
-          "eng": "@data.characters.f2_abuelo.name está pensando: Haré una pausa y pondré mi canción favorita."
+          "eng": "Pensando: Haré una pausa y pondré mi canción favorita."
         }
       },
       "image_asset": "images/comic/relation/calm_yc_2.svg",
       "character_1_id": "f2_abuelo",
-      "character_1_text": "@data.characters.f2_abuelo.name está pensando: Haré una pausa y pondré mi canción favorita.",
+      "character_1_text": "Pensando: Haré una pausa y pondré mi canción favorita.",
       "_translations": {
         "character_1_text": {}
       },
@@ -213,7 +188,7 @@
           "eng": "Un momento después."
         },
         "character_1_text": {
-          "eng": "@data.characters.f2_abuelo.name está pensando: Me siento más tranquilo. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto."
+          "eng": "Pensando: Me siento más tranquilo. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto."
         }
       },
       "text_2": "Un momento después.",
@@ -221,8 +196,9 @@
         "text_2": {},
         "character_1_text": {}
       },
+      "image_asset": "images/comic/relation/calm_yc_3.svg",
       "character_1_id": "f2_abuelo",
-      "character_1_text": "@data.characters.f2_abuelo.name está pensando: Me siento más tranquilo. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto.",
+      "character_1_text": "Pensando: Me siento más tranquilo. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto.",
       "completed": false
     },
     {
@@ -266,15 +242,15 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da clic en reproducir ▶️ para aprender las4️⃣ estrategias para saber cómo mantener la calma cuando tu niña o niño se porte mal. ☀️\n\n1️⃣ MANTENER LA CALMA\n2️⃣ ACTÚA RÁPIDO\n3️⃣ SER CLARO\n4️⃣ SER POSITIVO"
+          "eng": "Selecciona reproducir ▶️ para aprender las4️⃣ estrategias para saber cómo mantener la calma cuando tu niña o niño se porte mal. ☀️\n\n1️⃣ MANTENER LA CALMA\n2️⃣ ACTÚA RÁPIDO\n3️⃣ SER CLARO\n4️⃣ SER POSITIVO"
         }
       },
-      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender las4️⃣ estrategias para saber cómo mantener la calma cuando tu niña o niño se porte mal. ☀️\n\n1️⃣ MANTENER LA CALMA\n2️⃣ ACTÚA RÁPIDO\n3️⃣ SER CLARO\n4️⃣ SER POSITIVO",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender las4️⃣ estrategias para saber cómo mantener la calma cuando tu niña o niño se porte mal. ☀️\n\n1️⃣ MANTENER LA CALMA\n2️⃣ ACTÚA RÁPIDO\n3️⃣ SER CLARO\n4️⃣ SER POSITIVO",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "https://youtu.be/YiXJWujCEPs?si=bhpA-Za9to5O1VIE",
-      "youtube_gb_en_m": "https://youtu.be/yu1EgsovYdg?si=R5_9mrPni_9hpz2h",
+      "youtube_gb_en_f": "https://youtu.be/YiXJWujCEPs",
+      "youtube_gb_en_m": "https://youtu.be/yu1EgsovYdg",
       "completed": false
     },
     {

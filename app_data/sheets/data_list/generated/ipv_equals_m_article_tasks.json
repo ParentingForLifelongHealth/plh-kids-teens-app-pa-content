@@ -4,27 +4,27 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_2",
+      "id": "relax_9",
       "in_library": "yes",
-      "title_eng": "Power of three",
-      "title": "El poder del 3",
-      "lottie_asset": "lottie/relax/soothing_waves.json",
-      "media_asset": "audio/relax/relax_2.m4a",
+      "title_eng": "Body scan",
+      "title": "Escaneo corporal",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_9.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be gratefful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
-      "transcript_1_spanish": "Cierra los ojos.\nVamos a usar el poder mágico del 3 para mantenernos presentes y relajarnos.\n\nNombra 3 sonidos que puedas escuchar ahora mismo.\nNombra 3 olores que puedas sentir ahora mismo.\nNombra tus 3 comidas favoritas.\n¿Cuáles son 3 cosas por las que puedes sentir gratitud ahora mismo?\n\nAl final de un día difícil, pensar en 3 cosas por las que estás agradecido(a) puede ayudarte a encontrar el valor para intentarlo de nuevo mañana.",
+      "transcript_1_eng": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!",
+      "transcript_1_spanish": "Aquí tienes una actividad para relajar tu cuerpo:\n\nSiéntate cómodamente y cierra los ojos si puedes.\nImagina un aro dorado que escanea tu cuerpo desde los pies hasta la cabeza.\nPon atención mientras sube y baja por tu cuerpo. ¿Hay áreas que se sienten tensas? ¿Adormecidas? ¿Con dolor?\nConcéntrate en esas áreas por un momento. Respira hacia esa zona y, al exhalar, intenta soltar cualquier tensión o malestar.\nHazlo por algunas respiraciones.\n\nAbre los ojos. ¿Cómo se siente tu cuerpo ahora?\n\n¡También puedes probar esto la próxima vez que estés en la cama y no puedas dormir!",
       "category_id": "relax",
       "nested": false,
       "completed": false
     },
     {
-      "id": "check_in_14",
+      "id": "check_in_12",
       "category_id": "check_in",
       "nested": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Toma un momento para notar cómo estás.",
+      "text_1": "Cuidarte empieza por darte cuenta de cómo te sientes.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -37,16 +37,16 @@
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Toma un momento para notar cómo estás."
+          "eng": "Cuidarte empieza por darte cuenta de cómo te sientes."
         },
         "quiz_1_feedback_1": {
-          "eng": "¡Genial! Que gusto saber que hoy estás bien."
+          "eng": "¡Fantástico! Y muy bien por invertir en ti y en tu familia. Has logrado mucho."
         },
         "quiz_1_feedback_2": {
-          "eng": "Habrá días retadores, y está bien. Vas por buen camino."
+          "eng": "Lamento que hoy no esté siendo un buen día. Estás haciendo un gran trabajo al intentar entender lo que está pasando. @global.app_name está aquí para apoyarte."
         },
         "quiz_1_feedback_3": {
-          "eng": "Lamento que las cosas estén siendo difíciles ahora. Es completamente normal pasar por momentos así. Recuerda que no estás sola/o."
+          "eng": "La crianza puede ser retadora. Toma una respiración profunda y piensa en todo lo que has hecho por tu familia. ¡Reconoce tus esfuerzos!"
         },
         "quiz_1_question": {
           "eng": "¿Cómo te sientes el día de hoy?"
@@ -61,9 +61,9 @@
           "eng": "Triste"
         }
       },
-      "quiz_1_feedback_1": "¡Genial! Que gusto saber que hoy estás bien.",
-      "quiz_1_feedback_2": "Habrá días retadores, y está bien. Vas por buen camino.",
-      "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles ahora. Es completamente normal pasar por momentos así. Recuerda que no estás sola/o.",
+      "quiz_1_feedback_1": "¡Fantástico! Y muy bien por invertir en ti y en tu familia. Has logrado mucho.",
+      "quiz_1_feedback_2": "Lamento que hoy no esté siendo un buen día. Estás haciendo un gran trabajo al intentar entender lo que está pasando. @global.app_name está aquí para apoyarte.",
+      "quiz_1_feedback_3": "La crianza puede ser retadora. Toma una respiración profunda y piensa en todo lo que has hecho por tu familia. ¡Reconoce tus esfuerzos!",
       "quiz_1_question": "¿Cómo te sientes el día de hoy?",
       "quiz_1_option_1_text": "Feliz",
       "quiz_1_option_2_text": "Bien",
@@ -82,7 +82,7 @@
           "eng": "Al tomar decisiones en conjunto, refuerzan su relación de pareja o de familia. \n\nEsto también tiene un gran impacto en cómo te sientes y puede ayudar a que tu niña, niño o adolescente perciba tu amor y protección con mayor claridad. \n\nAsí les enseñarás también a compartir sus pensamientos y escuchar a las demás personas. 😃"
         },
         "quiz_1_question": {
-          "eng": "¡Hagamos un ejercicio! Ejercicio 1. Las decisiones importantes que afectan a toda la familia o a la relación de pareja, deben de ser tomadas por una sola persona."
+          "eng": "¡Hagamos un ejercicio! Las decisiones importantes que afectan a toda la familia o a la relación de pareja, deben de ser tomadas por una sola persona."
         },
         "quiz_1_option_1_text": {
           "eng": "Verdadero"
@@ -95,21 +95,6 @@
         },
         "quiz_1_feedback_2": {
           "eng": "🎉 ¡Tienes razón!\n\n🔑 La comunicación y tomar decisiones importantes junto con tu pareja o familiar es una parte importante de tener una relación sana. Involucra a todos en la decisión para tener todos los puntos de vista."
-        },
-        "quiz_3_question": {
-          "eng": "Como madres, padres o personas cuidadoras también podemos compartir nuestros sentimientos con nuestras niñas, niños o adolescentes."
-        },
-        "quiz_3_option_1_text": {
-          "eng": "Verdadero"
-        },
-        "quiz_3_feedback_1": {
-          "eng": "🎉 ¡Correcto! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les modela cómo pueden hacerlo."
-        },
-        "quiz_3_option_2_text": {
-          "eng": "Falso"
-        },
-        "quiz_3_feedback_2": {
-          "eng": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
         }
       },
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🔑 La comunicación y tomar decisiones importantes junto con tu pareja o familiar es una parte importante de tener una relación sana. Involucra a todos en la decisión para tener todos los puntos de vista.",
@@ -120,24 +105,14 @@
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "text_1_facilitator": {},
-        "text_2": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {}
+        "text_2": {}
       },
       "quiz_1_feedback_2": "🎉 ¡Tienes razón!\n\n🔑 La comunicación y tomar decisiones importantes junto con tu pareja o familiar es una parte importante de tener una relación sana. Involucra a todos en la decisión para tener todos los puntos de vista.",
-      "quiz_1_question": "¡Hagamos un ejercicio! Ejercicio 1. Las decisiones importantes que afectan a toda la familia o a la relación de pareja, deben de ser tomadas por una sola persona.",
+      "quiz_1_question": "¡Hagamos un ejercicio! Las decisiones importantes que afectan a toda la familia o a la relación de pareja, deben de ser tomadas por una sola persona.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
       "text_1_facilitator": "⭐ La familia y las amistades pueden decirte cómo piensan que debe actuar una pareja o una figura parental. Sin embargo, tanto las mujeres como los hombres, se benefician cuando platican entre sí y toman decisiones en conjunto. Por ejemplo, la próxima vez que tengas que tomar una decisión, involucra a tu pareja o familiar con quien compartes la crianza y pregúntale qué piensa.",
       "text_2": "Al tomar decisiones en conjunto, refuerzan su relación de pareja o de familia. \n\nEsto también tiene un gran impacto en cómo te sientes y puede ayudar a que tu niña, niño o adolescente perciba tu amor y protección con mayor claridad. \n\nAsí les enseñarás también a compartir sus pensamientos y escuchar a las demás personas. 😃",
-      "quiz_3_question": "Como madres, padres o personas cuidadoras también podemos compartir nuestros sentimientos con nuestras niñas, niños o adolescentes.",
-      "quiz_3_option_1_text": "Verdadero",
-      "quiz_3_feedback_1": "🎉 ¡Correcto! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les modela cómo pueden hacerlo.",
-      "quiz_3_option_2_text": "Falso",
-      "quiz_3_feedback_2": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo.",
       "completed": false
     },
     {
@@ -244,15 +219,15 @@
     },
     {
       "id": "practical_tips_1",
-      "media_type": "video",
+      "media_type": "youtube",
       "category_id": "practical_tips",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "\"Da clic en reproducir ▶️ para conocer algunas estrategias para tomar decisiones en equipo:\n\n1️⃣ **COMPARTIR LA TOMA DE DECISIONES**\n2️⃣ **INVOLUCRAR A TU PAREJA**\n3️⃣ **ESTAR EN SINCRONÍA HACE LA DIFERENCIA**\n4️⃣ **PRACTICAR AYUDA A MEJORAR**"
+          "eng": "Selecciona reproducir ▶️ para conocer algunas estrategias para tomar decisiones en equipo:\n\n1️⃣ **COMPARTIR LA TOMA DE DECISIONES**\n2️⃣ **INVOLUCRAR A TU PAREJA**\n3️⃣ **ESTAR EN SINCRONÍA HACE LA DIFERENCIA**\n4️⃣ **PRACTICAR AYUDA A MEJORAR**"
         }
       },
-      "text_1_facilitator": "\"Da clic en reproducir ▶️ para conocer algunas estrategias para tomar decisiones en equipo:\n\n1️⃣ **COMPARTIR LA TOMA DE DECISIONES**\n2️⃣ **INVOLUCRAR A TU PAREJA**\n3️⃣ **ESTAR EN SINCRONÍA HACE LA DIFERENCIA**\n4️⃣ **PRACTICAR AYUDA A MEJORAR**",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para conocer algunas estrategias para tomar decisiones en equipo:\n\n1️⃣ **COMPARTIR LA TOMA DE DECISIONES**\n2️⃣ **INVOLUCRAR A TU PAREJA**\n3️⃣ **ESTAR EN SINCRONÍA HACE LA DIFERENCIA**\n4️⃣ **PRACTICAR AYUDA A MEJORAR**",
       "_translations": {
         "text_1_facilitator": {}
       },
@@ -265,7 +240,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**⭐ \n\nTu actividad para casa consiste en involucrar a tu pareja o familiar en una decisión que deban tomar hoy.  \n\nPor ejemplo, puedes preguntar \"¿Qué te gustaría cenar hoy?\""
+          "eng": "**Actividad para casa**⭐ \n\nTu actividad para casa consiste en involucrar a tu pareja o familiar en una decisión que deban tomar hoy.  \n\nPor ejemplo, puedes preguntar \"¿Qué te gustaría cenar hoy?\""
         },
         "quiz_1_question": {
           "eng": "¿Crees que pueden hacerlo?  ⏰"
@@ -296,7 +271,7 @@
       "quiz_1_question": "¿Crees que pueden hacerlo?  ⏰",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nTu actividad para casa consiste en involucrar a tu pareja o familiar en una decisión que deban tomar hoy.  \n\nPor ejemplo, puedes preguntar \"¿Qué te gustaría cenar hoy?\"",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nTu actividad para casa consiste en involucrar a tu pareja o familiar en una decisión que deban tomar hoy.  \n\nPor ejemplo, puedes preguntar \"¿Qué te gustaría cenar hoy?\"",
       "completed": false
     }
   ],

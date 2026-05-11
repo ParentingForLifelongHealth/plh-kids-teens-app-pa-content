@@ -80,19 +80,17 @@
         },
         {
           "type": "button",
-          "value": "Complete course @item.id",
+          "value": "Complete course @item.title",
           "_translations": {
             "value": {}
           },
           "action_list": [
             {
               "trigger": "click",
-              "action_id": "set_data",
+              "action_id": "set_item",
               "args": [],
-              "_raw": "click | set_data | _list_id: courses, _id: @item.id, completed: true, completed_ts: @calc(now())",
+              "_raw": "click | set_item | completed: true, completed_ts: @calc(now())",
               "params": {
-                "_list_id": "courses",
-                "_id": "@item.id",
                 "completed": true,
                 "completed_ts": "@calc(now())"
               }
@@ -101,43 +99,30 @@
           "parameter_list": {
             "variant": "orange"
           },
+          "condition": "!@item.completed",
           "exclude_from_translation": true,
           "name": "button_2_@item.id",
           "_nested_name": "data_items_2.button_2_@item.id",
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "Complete course @item.id",
-                "matchedExpression": "@item.id",
+                "fullExpression": "Complete course @item.title",
+                "matchedExpression": "@item.title",
                 "type": "item",
-                "fieldName": "id"
+                "fieldName": "title"
               }
             ],
             "action_list": {
               "0": {
                 "_raw": [
                   {
-                    "fullExpression": "click | set_data | _list_id: courses, _id: @item.id, completed: true, completed_ts: @calc(now())",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  },
-                  {
-                    "fullExpression": "click | set_data | _list_id: courses, _id: @item.id, completed: true, completed_ts: @calc(now())",
+                    "fullExpression": "click | set_item | completed: true, completed_ts: @calc(now())",
                     "matchedExpression": "@calc(now())",
                     "type": "calc",
                     "fieldName": "now()"
                   }
                 ],
                 "params": {
-                  "_id": [
-                    {
-                      "fullExpression": "@item.id",
-                      "matchedExpression": "@item.id",
-                      "type": "item",
-                      "fieldName": "id"
-                    }
-                  ],
                   "completed_ts": [
                     {
                       "fullExpression": "@calc(now())",
@@ -149,6 +134,14 @@
                 }
               }
             },
+            "condition": [
+              {
+                "fullExpression": "!@item.completed",
+                "matchedExpression": "!@item.completed",
+                "type": "item",
+                "fieldName": "completed"
+              }
+            ],
             "name": [
               {
                 "fullExpression": "button_2_@item.id",
@@ -167,16 +160,90 @@
             ]
           },
           "_dynamicDependencies": {
-            "@item.id": [
-              "value",
-              "action_list.0._raw",
-              "action_list.0.params._id",
-              "name",
-              "_nested_name"
+            "@item.title": [
+              "value"
             ],
             "@calc(now())": [
               "action_list.0._raw",
               "action_list.0.params.completed_ts"
+            ],
+            "!@item.completed": [
+              "condition"
+            ],
+            "@item.id": [
+              "name",
+              "_nested_name"
+            ]
+          }
+        },
+        {
+          "type": "button",
+          "value": "uncomplete course @item.title",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "set_item",
+              "args": [],
+              "_raw": "click | set_item | completed: false, completed_ts:",
+              "params": {
+                "completed": false,
+                "completed_ts": ""
+              }
+            }
+          ],
+          "parameter_list": {
+            "variant": "orange"
+          },
+          "condition": "@item.completed",
+          "name": "button_3_@item.id",
+          "_nested_name": "data_items_2.button_3_@item.id",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "uncomplete course @item.title",
+                "matchedExpression": "@item.title",
+                "type": "item",
+                "fieldName": "title"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "@item.completed",
+                "matchedExpression": "@item.completed",
+                "type": "item",
+                "fieldName": "completed"
+              }
+            ],
+            "name": [
+              {
+                "fullExpression": "button_3_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "data_items_2.button_3_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.title": [
+              "value"
+            ],
+            "@item.completed": [
+              "condition"
+            ],
+            "@item.id": [
+              "name",
+              "_nested_name"
             ]
           }
         }

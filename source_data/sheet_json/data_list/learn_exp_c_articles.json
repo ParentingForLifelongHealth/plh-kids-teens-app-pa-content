@@ -19,12 +19,12 @@
       "quiz_1_option_1_text::eng": "Verdadero",
       "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n✨ @fields.child_name probablemente se sienta muy mal por haber cometido un error.\nFelicítale por haberse disculpado y demuéstrale que te da mucho orgullo que lo haya hecho. 💙\n\n😔 Si @fields.child_name no siente tu apoyo, puede que tenga la tentación de ocultarte sus errores por miedo.",
       "quiz_1_option_2_text::eng": "Falso",
-      "quiz_1_feedback_2::eng": "🌷 ¡Muy bien!\n\n✨ @fields.child_name probablemente se sienta muy mal por haber cometido un error.\nFelicítalo por haberse disculpado y demuéstrale que te da mucho orgullo que se haya dado cuenta y que haya pedido perdón. 💙\n\n😔 Si @fields.child_name no siente tu apoyo, puede que tenga la tentación de ocultarte sus errores por miedo."
+      "quiz_1_feedback_2::eng": "🌷 ¡Muy bien!\n\n✨ @fields.child_name probablemente se sienta muy mal por haber cometido un error.\nFelicítale por haberse disculpado y demuéstrale que te da mucho orgullo que se haya dado cuenta y que haya pedido perdón. 💙\n\n😔 Si @fields.child_name no siente tu apoyo, puede que tenga la tentación de ocultarte sus errores por miedo."
     },
     {
       "id": "explore_1",
       "category_id": "explore",
-      "text_1_facilitator::eng": "@data.characters.f2_hijo_8.name está demasiado activo dentro de la casa el día de hoy. Veamos cómo reacciona su abuelo, @data.characters.f2_abuelo.name:",
+      "text_1_facilitator::eng": "@data.characters.f2_hijo_8.name está demasiado activo dentro de la casa el día de hoy. Veamos cómo reacciona su @data.characters.f2_abuelo.name:",
       "image_asset": "images/comic/understand/learn_experience_yc_1.svg",
       "character_1_id": "f2_abuelo",
       "character_1_text::eng": "@data.characters.f2_hijo_8.name, ¡fíjate bien por dónde vas! Vas a romper algo.",
@@ -67,14 +67,15 @@
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "text_1_facilitator::eng": "Da clic en Reproducir ▶️ para aprender ️algunas estrategias que puedes seguir para ayudar a @fields.child_name a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**",
-      "media_type": "video",
-      "youtube_gb_en": "youtube link"
+      "text_1_facilitator::eng": "Selecciona reproducir ▶️ para aprender ️algunas estrategias que puedes seguir para ayudar a @fields.child_name a aprender de sus errores:\n\n1️⃣ **CONVERSAR**\n2️⃣ **ELOGIAR EL ESFUERZO**\n3️⃣ **PERMITIR QUE LOS ERRORES SUCEDAN**\n4️⃣ **COMPARTIR**",
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://youtu.be/F74-jAc4cBg",
+      "youtube_gb_en_m": "https://youtu.be/lNn8cOitnmQ"
     },
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "**_Actividad para casa_**⭐ \n\nComparte una historia con @fields.child_name sobre un momento en el que aprendiste de un error. Puede ser algo de cuando tú eras menor u otra lección de vida que hayas tenido.",
+      "text_1_facilitator::eng": "**Actividad para casa**⭐ \n\nComparte una historia con @fields.child_name sobre un momento en el que aprendiste de un error. Puede ser algo de cuando tú eras menor u otra lección de vida que hayas tenido.",
       "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Maravilloso!\n💙 Usa estas estrategias que aprendiste hoy para ayudar a @fields.child_name a fortalecer sus habilidades mentales y emocionales.",

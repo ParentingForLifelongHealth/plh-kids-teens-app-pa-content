@@ -126,14 +126,14 @@
       "character_1_id": "f2_hijo_15",
       "character_2_id": "f2_abuelo",
       "nested": false,
-      "character_1_text": "De acuerdo, Abue. Eso me gustaría.",
+      "character_1_text": "De acuerdo, Abuelo. Eso me gustaría.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "De acuerdo, Abue. Eso me gustaría."
+          "eng": "De acuerdo, Abuelo. Eso me gustaría."
         },
         "character_2_text": {
           "eng": "Gracias, @data.characters.f2_hijo_15.name. Me gustó mucho haber pasado este ratito contigo. Significa mucho para mí."
@@ -145,8 +145,8 @@
       "id": "practical_tips_1",
       "category_id": "practical_tips",
       "media_type": "youtube",
-      "youtube_gb_en_f": "https://youtu.be/p2hB-9QDflA?si=LD4x-DpagyBrZ8nY",
-      "youtube_gb_en_m": "https://youtu.be/1-b6OP8qi3k?si=qZjMNyHxNYQqyl40",
+      "youtube_gb_en_f": "https://youtu.be/p2hB-9QDflA",
+      "youtube_gb_en_m": "https://youtu.be/1-b6OP8qi3k",
       "nested": false,
       "text_1_facilitator": "Aquí tienes un video que te ayudará a crear rutinas diarias con @fields.child_name por medio de 3️⃣ estrategias:\n1️⃣ SER UN EQUIPO\n2️⃣ SER CONSTANTES\n3️⃣ ELOGIAR, ELOGIAR, ELOGIAR",
       "_translations": {
@@ -162,9 +162,9 @@
       "id": "practical_tips_2",
       "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/speech_bubble_blue.png",
-      "section_2_icon_asset": "https://drive.google.com/file/d/19m7O3_jqHUfyLx4PRG1NnnwzXiYlAhwS/view?usp=drive_link",
-      "section_3_icon_asset": "https://drive.google.com/file/d/1b7ywkfyRt8DgqJrocfNefIOeE8oOW6bB/view?usp=drive_link",
-      "section_4_icon_asset": "https://drive.google.com/file/d/1H0X72PVEhhmWbrzS5AMDtRQq37xnGWY_/view?usp=drive_link",
+      "section_2_icon_asset": "images/icons/clock_blue.png",
+      "section_3_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_4_icon_asset": "images/icons/star_filled_blue.png",
       "nested": false,
       "text_1_facilitator": "Aquí tienes algunas estrategias que te ayudarán a crear rutinas con @fields.child_name.",
       "_translations": {

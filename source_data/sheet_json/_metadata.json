@@ -1791,6 +1791,15 @@
   },
   {
     "flow_type": "global",
+    "flow_name": "app_menu_globals",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "templates/PA app_menu.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1I0l4ODs2PXgVYIjFJaAGI0_HVE0eIQpFqHI4vFrNDr8"
+    }
+  },
+  {
+    "flow_type": "global",
     "flow_name": "auth_globals",
     "_source": {
       "name": "library_app_menu",
@@ -1990,6 +1999,15 @@
   },
   {
     "flow_type": "template",
+    "flow_name": "app_about",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "templates/PA app_menu.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1I0l4ODs2PXgVYIjFJaAGI0_HVE0eIQpFqHI4vFrNDr8"
+    }
+  },
+  {
+    "flow_type": "template",
     "flow_name": "app_launch_calculations",
     "_source": {
       "name": "library_app_menu",
@@ -2013,6 +2031,15 @@
       "name": "kids_teens_global V2",
       "path": "templates/module_list.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1SkxfFFUzSjkUaxGKvYxiec-mx0szbeR6TaqBwfbBJyQ"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_name": "app_menu",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "templates/PA app_menu.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1I0l4ODs2PXgVYIjFJaAGI0_HVE0eIQpFqHI4vFrNDr8"
     }
   },
   {
@@ -2136,11 +2163,29 @@
   },
   {
     "flow_type": "template",
+    "flow_name": "enter_dev_mode",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "templates/PA app_menu.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1I0l4ODs2PXgVYIjFJaAGI0_HVE0eIQpFqHI4vFrNDr8"
+    }
+  },
+  {
+    "flow_type": "template",
     "flow_name": "exit_dev_mode",
     "_source": {
       "name": "library_app_menu",
       "path": "app_menu.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1SqgpcbW5RNRKq6NIKZre5Pc406U4z3VJHcfSNUBmTTs"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_name": "exit_dev_mode",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "templates/PA app_menu.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1I0l4ODs2PXgVYIjFJaAGI0_HVE0eIQpFqHI4vFrNDr8"
     }
   },
   {
@@ -2307,6 +2352,15 @@
   },
   {
     "flow_type": "template",
+    "flow_name": "import_user_data",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "templates/PA app_menu.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1I0l4ODs2PXgVYIjFJaAGI0_HVE0eIQpFqHI4vFrNDr8"
+    }
+  },
+  {
+    "flow_type": "template",
     "flow_name": "intro_element",
     "_source": {
       "name": "kids_teens_global V2",
@@ -2429,6 +2483,15 @@
       "name": "kids_teens_global V2",
       "path": "templates/PLH module_navigation.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1upg0i3Kz-ccJ44ZfbV49SWmehVpvHW3r9kBtc-bDRFI"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_name": "module",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "templates/PA module_navigation.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1FCNpNqtwb_kYUVmll3ynUoe-0-qTU27H8CfKciEAyeA"
     }
   },
   {
@@ -3162,6 +3225,15 @@
   },
   {
     "flow_type": "template",
+    "flow_name": "module_start_at_id_get_unlock",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/PLH module_navigation.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1upg0i3Kz-ccJ44ZfbV49SWmehVpvHW3r9kBtc-bDRFI"
+    }
+  },
+  {
+    "flow_type": "template",
     "flow_name": "nav_buttons",
     "_source": {
       "name": "kids_teens_global V2",
@@ -3518,6 +3590,15 @@
       "name": "library_app_menu",
       "path": "app_menu.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1SqgpcbW5RNRKq6NIKZre5Pc406U4z3VJHcfSNUBmTTs"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_name": "user_id",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "templates/PA app_menu.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1I0l4ODs2PXgVYIjFJaAGI0_HVE0eIQpFqHI4vFrNDr8"
     }
   },
   {
