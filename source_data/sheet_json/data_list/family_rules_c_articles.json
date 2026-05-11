@@ -13,7 +13,7 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1_facilitator::eng": "Esta lección trata sobre Acordar relgas en familia.⏰⭐",
+      "text_1_facilitator::eng": "Esta lección trata sobre acordar reglas en familia.⏰⭐",
       "text_2::eng": "Las reglas familiares pueden ayudar a nuestras niñas, niños o adolescentes a mantenerse a salvo del peligro dentro de nuestras casas y en la comunidad. 🌷 \n\nEs más probable que tu niña, niño o adolescente siga estas reglas si se involucra en hacerlas. ⭐",
       "quiz_1_question::eng": "¡Hagamos un ejercicio!\n\nEjercicio 1. \n\nSólo las personas cuidadoras deben establecer reglas en el hogar porque nuestras niñas, niños o adolescentes son demasiado jóvenes para ayuda a tomar decisiones por sí mismos.",
       "quiz_1_option_1_text::eng": "Verdadero",
@@ -66,9 +66,10 @@
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "text_1_facilitator::eng": "Da Clic en Reproducir ▶️ para aprender 4️⃣ estrategias sencillas que te ayudarán a establecer reglas familiares con @fields.child_name:\n\n1️⃣ **SER UN EQUIPO**\n2️⃣ **MANTENERLO REALISTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**",
-      "media_type": "video",
-      "youtube_gb_en": "youtube link"
+      "text_1_facilitator::eng": "Selecciona reproducir ▶️ para aprender 4️⃣ estrategias sencillas que te ayudarán a establecer reglas familiares con @fields.child_name:\n\n1️⃣ **SER UN EQUIPO**\n2️⃣ **MANTENERLO REALISTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**",
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=3dKfChjDxDg",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=5pFvpUuM3ts"
     },
     {
       "id": "practical_tips_2",
@@ -78,7 +79,7 @@
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "**_¡Actividad para casa!_** ⭐  \n\nCrea una regla familiar con @fields.child_name hoy. 🏆",
+      "text_1_facilitator::eng": "**¡Actividad para casa!** ⭐  \n\nCrea una regla familiar con @fields.child_name hoy. 🏆",
       "quiz_1_question::eng": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Es muy bueno escucharlo! Crea una regla familiar con @fields.child_name hoy. Recuerda, *_cuando implicas a @fields.child_name en la creación de reglas, es más probable que las siga. ¡Es una receta para el éxito!_* 🏆",

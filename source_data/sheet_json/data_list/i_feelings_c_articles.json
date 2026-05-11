@@ -37,7 +37,7 @@
       "text_1_facilitator::eng": "Veamos cómo @data.characters.f3_madre.name ayuda a su niña a persistir en una actividad difícil durante el tiempo juntos y conectados.",
       "image_asset": "images/comic/relation/feelings_yc_1.svg",
       "character_1_id": "f3_madre",
-      "character_1_text::eng": "@data.characters.f3.hija_7.name, Quiero pasar tiempo contigo. ¿Qué quieres hacer?",
+      "character_1_text::eng": "@data.characters.f3_hija_7.name Quiero pasar tiempo contigo. ¿Qué te gustaría hacer?",
       "character_2_id": "f3_hija_7",
       "character_2_text::eng": "¡Vamos a jugar afuera con la pelota!"
     },
@@ -46,16 +46,16 @@
       "category_id": "explore",
       "image_asset": "images/comic/relation/feelings_yc_2.svg",
       "character_1_id": "f3_hija_7",
-      "character_1_text::eng": "¡No soy buena con la pelota!.",
+      "character_1_text::eng": "¡No soy buena con la pelota!",
       "character_2_id": "f3_madre",
-      "character_2_text::eng": "Veo que tienes tus manos apretadas y estás levantando la voz. Parece que estás molesta, @data.characters.f3.hija_7.name. Sé que puede ser algo frustrante, tomemos una pausa y  cuándo estés lista para continuar avísame."
+      "character_2_text::eng": "Veo que tienes tus manos apretadas y estás levantando la voz. Parece que estás molesta, @data.characters.f3_hija_7.name. Sé que puede ser algo frustrante, tomemos una pausa y  cuándo estés lista para continuar avísame."
     },
     {
       "id": "explore_3",
       "category_id": "explore",
       "image_asset": "images/comic/relation/feelings_yc_3.svg",
       "character_1_id": "f3_madre",
-      "character_1_text::eng": "¡Ya van cinco veces que la atrapas, @data.characters.f3.hija_7.name! ¡Debes de estar orgullosa de haber llegado a cinco!",
+      "character_1_text::eng": "¡Ya van cinco veces que la atrapas, @data.characters.f3_hija_7.name! ¡Debes de estar orgullosa de haber llegado a cinco!",
       "character_2_id": "f3_hija_7",
       "character_2_text::eng": "¡Vamos por 10!"
     },
@@ -64,15 +64,15 @@
       "category_id": "explore",
       "image_asset": "images/comic/relation/feelings_yc_4.svg",
       "character_1_id": "f3_madre",
-      "character_1_text::eng": "Me hace muy feliz poder pasar este tiempo especial contigo, @data.characters.f3.hija_7.name."
+      "character_1_text::eng": "Me hace muy feliz poder pasar este tiempo especial contigo, @data.characters.f3_hija_7.name."
     },
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "text_1_facilitator::eng": "Da clic en reproducir ▶️ para aprender las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:\n\n1️⃣ APRENDER\n2️⃣ IDENTIFICAR\n3️⃣ ABRIR TU MENTE\n4️⃣ HABLAR\n5️⃣ COMPARTIR\n6️⃣ MOSTRAR INTERÉS",
+      "text_1_facilitator::eng": "Selecciona reproducir ▶️ para aprender las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:\n\n1️⃣ APRENDER\n2️⃣ IDENTIFICAR\n3️⃣ ABRIR TU MENTE\n4️⃣ HABLAR\n5️⃣ COMPARTIR\n6️⃣ MOSTRAR INTERÉS",
       "media_type": "youtube",
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=zb8R8HCHu2s&list=PLSUp-fKSYJUbs4FIMvxFUtdKZZEVPNEbY&index=1",
-      "youtube_gb_en_m": "https://youtu.be/-qd5aVE-pc0?si=Vt-TuF80GoRK36PD"
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=zb8R8HCHu2s",
+      "youtube_gb_en_m": "https://youtu.be/-qd5aVE-pc0"
     },
     {
       "id": "practise_1",

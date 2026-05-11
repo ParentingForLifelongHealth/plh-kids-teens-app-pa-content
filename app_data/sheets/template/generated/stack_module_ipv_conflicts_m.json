@@ -47,6 +47,12 @@
           "_nested_name": "module.course_id"
         },
         {
+          "name": "is_already_completed",
+          "value": true,
+          "type": "set_variable",
+          "_nested_name": "module.is_already_completed"
+        },
+        {
           "name": "show_progress_bar",
           "value": true,
           "exclude_from_translation": true,

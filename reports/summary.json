@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 97
+        "count": 104
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 160
+        "count": 236
       },
       {
         "type": "debug_toggle",
@@ -71,7 +71,7 @@
       },
       {
         "type": "nested_properties",
-        "count": 459
+        "count": 386
       },
       {
         "type": "number_selector",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3724
+        "count": 3823
       },
       {
         "type": "simple_checkbox",
@@ -139,7 +139,7 @@
       },
       {
         "type": "template",
-        "count": 1180
+        "count": 1182
       },
       {
         "type": "text",
@@ -163,7 +163,7 @@
       },
       {
         "type": "toggle_bar",
-        "count": 6
+        "count": 5
       },
       {
         "type": "update_action_list",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 787
+        "count": 789
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 804
+        "count": 806
       },
       {
         "type": "feedback",
@@ -227,7 +227,7 @@
       },
       {
         "type": "go_to",
-        "count": 16
+        "count": 19
       },
       {
         "type": "nav_stack",
@@ -259,15 +259,15 @@
       },
       {
         "type": "set_field",
-        "count": 146
+        "count": 152
       },
       {
         "type": "set_item",
-        "count": 99
+        "count": 30
       },
       {
         "type": "set_local",
-        "count": 65
+        "count": 141
       },
       {
         "type": "share",
@@ -291,13 +291,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "72657 KB",
-        "MB": "72.7 MB"
+        "KB": "72870 KB",
+        "MB": "72.9 MB"
       },
       {
         "assets": "unused",
-        "KB": "16576 KB",
-        "MB": "16.6 MB"
+        "KB": "16363 KB",
+        "MB": "16.4 MB"
       }
     ]
   },
@@ -318,14 +318,6 @@
       {
         "path": "android/splash.png",
         "size_kb": 239
-      },
-      {
-        "path": "images/activities/narrador_c.svg",
-        "size_kb": 98.4
-      },
-      {
-        "path": "images/activities/narrador_t.svg",
-        "size_kb": 60.2
       },
       {
         "path": "images/activities/personajes_t.svg",
@@ -390,10 +382,6 @@
       {
         "path": "images/character_icons/ANGEL_comic.svg",
         "size_kb": 910.1
-      },
-      {
-        "path": "images/comic/relation/calm_teen_5.svg",
-        "size_kb": 37.3
       },
       {
         "path": "images/comic/safe/com_safety_2to4_yc_1.svg",
@@ -660,20 +648,12 @@
         "size_kb": 0.5
       },
       {
-        "path": "images/icons/balance_blue.png",
-        "size_kb": 4.7
-      },
-      {
         "path": "images/icons/book_outline_blue.svg",
         "size_kb": 0.7
       },
       {
         "path": "images/icons/book_outline_white.svg",
         "size_kb": 0.7
-      },
-      {
-        "path": "images/icons/brain_blue.png",
-        "size_kb": 5.2
       },
       {
         "path": "images/icons/cancel.svg",
@@ -748,10 +728,6 @@
         "size_kb": 5.5
       },
       {
-        "path": "images/icons/lightbulb_blue.png",
-        "size_kb": 3.6
-      },
-      {
         "path": "images/icons/lock-closed-outline.svg",
         "size_kb": 0.4
       },
@@ -798,10 +774,6 @@
       {
         "path": "images/icons/repeat_blue.png",
         "size_kb": 5.4
-      },
-      {
-        "path": "images/icons/single_speech_blue.png",
-        "size_kb": 3.3
       },
       {
         "path": "images/icons/spark.png",
@@ -924,28 +896,8 @@
   "assets_missing": {
     "data": [
       {
-        "path": "images/activities/narracion_c.svg",
+        "path": "images/comic/relation/calm_yc_3.svg",
         "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/activities/narracion_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/comic/relation/calm_teen_3.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/behave_c.svg",
-        "count": 12,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/behave_t.svg",
-        "count": 12,
         "missing": true
       },
       {
@@ -1009,56 +961,6 @@
         "missing": true
       },
       {
-        "path": "images/homescreen/ipv.svg",
-        "count": 12,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/learn_c.svg",
-        "count": 12,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/learn_t.svg",
-        "count": 10,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/relation_c.svg",
-        "count": 12,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/relation_t.svg",
-        "count": 12,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/safety_c.svg",
-        "count": 12,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/safety_t.svg",
-        "count": 12,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/understand_c.svg",
-        "count": 12,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/understand_t.svg",
-        "count": 12,
-        "missing": true
-      },
-      {
-        "path": "images/icons/singe_speech_blue.png",
-        "count": 2,
-        "missing": true
-      },
-      {
         "path": "images/logos/MIDES.png",
         "count": 1,
         "missing": true
@@ -1075,7 +977,7 @@
       },
       {
         "path": "pencil.svg",
-        "count": 8,
+        "count": 4,
         "missing": true
       }
     ]
@@ -1451,6 +1353,16 @@
         "path": "images/activities/logica.svg",
         "count": 2,
         "size_kb": 28
+      },
+      {
+        "path": "images/activities/narrador_c.svg",
+        "count": 2,
+        "size_kb": 98.4
+      },
+      {
+        "path": "images/activities/narrador_t.svg",
+        "count": 2,
+        "size_kb": 60.2
       },
       {
         "path": "images/activities/naturaleza_c.svg",
@@ -2343,6 +2255,11 @@
         "size_kb": 41.1
       },
       {
+        "path": "images/comic/relation/calm_teen_5.svg",
+        "count": 2,
+        "size_kb": 37.3
+      },
+      {
         "path": "images/comic/relation/calm_yc_1.svg",
         "count": 2,
         "size_kb": 45.5
@@ -2788,59 +2705,69 @@
         "size_kb": 38
       },
       {
-        "path": "images/homescreen/courses/behave_c.svg",
-        "count": 1,
+        "path": "images/homescreen/behave_c.svg",
+        "count": 13,
         "size_kb": 1039
       },
       {
-        "path": "images/homescreen/courses/behave_t.svg",
-        "count": 1,
+        "path": "images/homescreen/behave_t.svg",
+        "count": 13,
         "size_kb": 518.5
       },
       {
-        "path": "images/homescreen/courses/ipv.svg",
-        "count": 1,
+        "path": "images/homescreen/ipv.svg",
+        "count": 13,
         "size_kb": 691.3
       },
       {
-        "path": "images/homescreen/courses/learn_c.svg",
-        "count": 1,
+        "path": "images/homescreen/learn_c.svg",
+        "count": 13,
         "size_kb": 450.4
       },
       {
-        "path": "images/homescreen/courses/learn_t.svg",
-        "count": 1,
+        "path": "images/homescreen/learn_t.svg",
+        "count": 11,
         "size_kb": 618.7
       },
       {
-        "path": "images/homescreen/courses/relation_c.svg",
-        "count": 1,
+        "path": "images/homescreen/relation_c.svg",
+        "count": 13,
         "size_kb": 760
       },
       {
-        "path": "images/homescreen/courses/relation_t.svg",
-        "count": 1,
+        "path": "images/homescreen/relation_t.svg",
+        "count": 13,
         "size_kb": 622.7
       },
       {
-        "path": "images/homescreen/courses/safety_c.svg",
-        "count": 1,
+        "path": "images/homescreen/safety_c.svg",
+        "count": 13,
         "size_kb": 595.9
       },
       {
-        "path": "images/homescreen/courses/safety_t.svg",
-        "count": 1,
+        "path": "images/homescreen/safety_t.svg",
+        "count": 13,
         "size_kb": 699.7
       },
       {
-        "path": "images/homescreen/courses/understand_c.svg",
-        "count": 1,
+        "path": "images/homescreen/understand_c.svg",
+        "count": 13,
         "size_kb": 598.3
       },
       {
-        "path": "images/homescreen/courses/understand_t.svg",
-        "count": 1,
+        "path": "images/homescreen/understand_t.svg",
+        "count": 13,
         "size_kb": 549.4
+      },
+      {
+        "path": "images/icons/balance_blue.png",
+        "count": 2,
+        "size_kb": 4.7
+      },
+      {
+        "path": "images/icons/brain_blue.png",
+        "count": 2,
+        "size_kb": 5.2
       },
       {
         "path": "images/icons/celebration.svg",
@@ -2854,7 +2781,7 @@
       },
       {
         "path": "images/icons/clock_blue.png",
-        "count": 2,
+        "count": 6,
         "size_kb": 4.5
       },
       {
@@ -2904,7 +2831,7 @@
       },
       {
         "path": "images/icons/eye_blue.png",
-        "count": 2,
+        "count": 4,
         "size_kb": 4.2
       },
       {
@@ -2974,7 +2901,7 @@
       },
       {
         "path": "images/icons/heart_filled_blue.png",
-        "count": 4,
+        "count": 8,
         "size_kb": 4.9
       },
       {
@@ -3011,6 +2938,11 @@
         "path": "images/icons/information-circle-outline.svg",
         "count": 1,
         "size_kb": 0.6
+      },
+      {
+        "path": "images/icons/lightbulb_blue.png",
+        "count": 4,
+        "size_kb": 3.6
       },
       {
         "path": "images/icons/local_library.svg",
@@ -3098,6 +3030,11 @@
         "size_kb": 4.2
       },
       {
+        "path": "images/icons/single_speech_blue.png",
+        "count": 4,
+        "size_kb": 3.3
+      },
+      {
         "path": "images/icons/smile_eyes_down.svg",
         "count": 78,
         "size_kb": 0.9
@@ -3109,12 +3046,12 @@
       },
       {
         "path": "images/icons/speech_bubble_blue.png",
-        "count": 2,
+        "count": 4,
         "size_kb": 4.2
       },
       {
         "path": "images/icons/star_filled_blue.png",
-        "count": 2,
+        "count": 6,
         "size_kb": 5.1
       },
       {
@@ -3614,7 +3551,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 168
+        "total": 169
       },
       {
         "type": "template",

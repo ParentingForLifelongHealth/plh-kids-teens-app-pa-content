@@ -78,16 +78,16 @@
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "media_type": "video",
-      "youtube_gb_en": "youtube link",
+      "media_type": "youtube",
+      "youtube_gb_en_f": "youtube link",
       "nested": false,
-      "text_1_facilitator": "\"Da Clic en Reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como persona cuidadora de tu adolescente y a enseñarle también el suyo:\n\n1️⃣ **CONOCER TU ROL**\n2️⃣ **ENSEÑAR**\n3️⃣ **ENSEÑAR CON EL EJEMPLO**\n4️⃣ **NOTAR**\"",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como persona cuidadora de tu adolescente y a enseñarle también el suyo:\n\n1️⃣ **CONOCER TU ROL**\n2️⃣ **ENSEÑAR**\n3️⃣ **ENSEÑAR CON EL EJEMPLO**\n4️⃣ **NOTAR**\"",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "\"Da Clic en Reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como persona cuidadora de tu adolescente y a enseñarle también el suyo:\n\n1️⃣ **CONOCER TU ROL**\n2️⃣ **ENSEÑAR**\n3️⃣ **ENSEÑAR CON EL EJEMPLO**\n4️⃣ **NOTAR**\""
+          "eng": "Selecciona reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como persona cuidadora de tu adolescente y a enseñarle también el suyo:\n\n1️⃣ **CONOCER TU ROL**\n2️⃣ **ENSEÑAR**\n3️⃣ **ENSEÑAR CON EL EJEMPLO**\n4️⃣ **NOTAR**\""
         }
       }
     },
@@ -95,7 +95,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nHabla con @fields.child_name sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es una persona valiosa en el hogar.",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nHabla con @fields.child_name sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es una persona valiosa en el hogar.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -106,7 +106,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**⭐ \n\nHabla con @fields.child_name sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es una persona valiosa en el hogar."
+          "eng": "**Actividad para casa**⭐ \n\nHabla con @fields.child_name sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. Esto le demuestra que es una persona valiosa en el hogar."
         },
         "quiz_1_question": {
           "eng": "💛 ¿Tienes tiempo para hacerlo hoy?"

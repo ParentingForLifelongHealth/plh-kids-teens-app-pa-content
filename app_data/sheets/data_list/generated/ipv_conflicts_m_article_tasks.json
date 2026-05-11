@@ -43,7 +43,7 @@
           "eng": "Muy bien por reconocer cómo te sientes. Que gusto saber que hoy te encuentras bien."
         },
         "quiz_1_feedback_2": {
-          "eng": "Todas las personas tenemos días buenos y días difíciles. Recuerda: eres la mejor madre, padre o persona cuidadora para tu adolescente, y mereces reconocimiento."
+          "eng": "Todas las personas tenemos días buenos y días difíciles. Recuerda: eres la mejor madre, padre o persona cuidadora para @fields.child_name, y mereces reconocimiento."
         },
         "quiz_1_feedback_3": {
           "eng": "A veces es difícil manejar todo lo que pasa en nuestra vida. Recuerda: eres más fuerte de lo que imaginas."
@@ -62,7 +62,7 @@
         }
       },
       "quiz_1_feedback_1": "Muy bien por reconocer cómo te sientes. Que gusto saber que hoy te encuentras bien.",
-      "quiz_1_feedback_2": "Todas las personas tenemos días buenos y días difíciles. Recuerda: eres la mejor madre, padre o persona cuidadora para tu adolescente, y mereces reconocimiento.",
+      "quiz_1_feedback_2": "Todas las personas tenemos días buenos y días difíciles. Recuerda: eres la mejor madre, padre o persona cuidadora para @fields.child_name, y mereces reconocimiento.",
       "quiz_1_feedback_3": "A veces es difícil manejar todo lo que pasa en nuestra vida. Recuerda: eres más fuerte de lo que imaginas.",
       "quiz_1_question": "¿Cómo te sientes el día de hoy?",
       "quiz_1_option_1_text": "Feliz",
@@ -79,10 +79,10 @@
           "eng": "Esta lección  trata sobre la resolución pacífica de conflictos entre tu pareja o familiares y tú. 💚"
         },
         "text_2": {
-          "eng": "<span>Todas las personas adultas tenemos desacuerdos a veces. Pelear no es una forma adecuada de resolver los problemas.<br/><br/> **_</span><span><b><i>Aprender a responder de forma más calmada cuando tengas desacuerdos con tu pareja o familiar puede ayudarte a crear un hogar más tranquilo._** </b></i></span><span>🌷 </span>"
+          "eng": "<span>Todas las personas adultas tenemos desacuerdos a veces. Pelear no es una forma adecuada de resolver los problemas.<br/><br/></span><span><b><i>Aprender a responder de forma más calmada cuando tengas desacuerdos con tu pareja o familiar puede ayudarte a crear un hogar más tranquilo. </b></i></span><span>🌷 </span>"
         },
         "quiz_1_question": {
-          "eng": "¡Hagamos un ejercicio! Ejercicio 1. Ante un desacuerdo, tomar una pausa antes de responder puede ayudarte a mantener la calma y actuar mejor."
+          "eng": "¡Hagamos un ejercicio! \n\nAnte un desacuerdo, tomar una pausa antes de responder puede ayudarte a mantener la calma y actuar mejor."
         },
         "quiz_1_option_1_text": {
           "eng": "Verdadero"
@@ -95,21 +95,6 @@
         },
         "quiz_1_feedback_2": {
           "eng": "👀 ¡Ups! ¡Buen intento!\n\nPuede ser muy difícil mantener la calma cuando tienes un desacuerdo con otras personas. Tomar una pausa, por ejemplo, respirando profundamente un par de veces, puede ser una forma útil de ayudarte a responder mejor."
-        },
-        "quiz_3_question": {
-          "eng": "Como madres, padres o personas cuidadoras también podemos compartir nuestros sentimientos con nuestras niñas, niños o adolescentes."
-        },
-        "quiz_3_option_1_text": {
-          "eng": "Verdadero"
-        },
-        "quiz_3_feedback_1": {
-          "eng": "🎉 ¡Correcto! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les modela cómo pueden hacerlo."
-        },
-        "quiz_3_option_2_text": {
-          "eng": "Falso"
-        },
-        "quiz_3_feedback_2": {
-          "eng": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
         }
       },
       "quiz_1_feedback_1": "🎉 ¡Buen trabajo!\n\nPuede ser muy difícil mantener la calma cuando tienes un desacuerdo con otras personas. Tomar una pausa, por ejemplo, respirando profundamente un par de veces, puede ser una forma útil de ayudarte a responder mejor.",
@@ -120,24 +105,14 @@
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "text_1_facilitator": {},
-        "text_2": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {}
+        "text_2": {}
       },
       "quiz_1_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\nPuede ser muy difícil mantener la calma cuando tienes un desacuerdo con otras personas. Tomar una pausa, por ejemplo, respirando profundamente un par de veces, puede ser una forma útil de ayudarte a responder mejor.",
-      "quiz_1_question": "¡Hagamos un ejercicio! Ejercicio 1. Ante un desacuerdo, tomar una pausa antes de responder puede ayudarte a mantener la calma y actuar mejor.",
+      "quiz_1_question": "¡Hagamos un ejercicio! \n\nAnte un desacuerdo, tomar una pausa antes de responder puede ayudarte a mantener la calma y actuar mejor.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
       "text_1_facilitator": "Esta lección  trata sobre la resolución pacífica de conflictos entre tu pareja o familiares y tú. 💚",
-      "text_2": "<span>Todas las personas adultas tenemos desacuerdos a veces. Pelear no es una forma adecuada de resolver los problemas.<br/><br/> **_</span><span><b><i>Aprender a responder de forma más calmada cuando tengas desacuerdos con tu pareja o familiar puede ayudarte a crear un hogar más tranquilo._** </b></i></span><span>🌷 </span>",
-      "quiz_3_question": "Como madres, padres o personas cuidadoras también podemos compartir nuestros sentimientos con nuestras niñas, niños o adolescentes.",
-      "quiz_3_option_1_text": "Verdadero",
-      "quiz_3_feedback_1": "🎉 ¡Correcto! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les modela cómo pueden hacerlo.",
-      "quiz_3_option_2_text": "Falso",
-      "quiz_3_feedback_2": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo.",
+      "text_2": "<span>Todas las personas adultas tenemos desacuerdos a veces. Pelear no es una forma adecuada de resolver los problemas.<br/><br/></span><span><b><i>Aprender a responder de forma más calmada cuando tengas desacuerdos con tu pareja o familiar puede ayudarte a crear un hogar más tranquilo. </b></i></span><span>🌷 </span>",
       "completed": false
     },
     {
@@ -245,15 +220,15 @@
     },
     {
       "id": "practical_tips_1",
-      "media_type": "video",
+      "media_type": "youtube",
       "category_id": "practical_tips",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da clic en reproducir ▶️ para aprender algunas estrategias que puedes probar para resolver conflictos pacíficamente:\n\n1️⃣ **TOMAR UNA PAUSA**\n2️⃣ **COMPARTIR CÓMO TE SIENTES DE FORMA TRANQUILA**\n3️⃣ **ALEJARSE SI ES NECESARIO**"
+          "eng": "Selecciona reproducir ▶️ para aprender algunas estrategias que puedes probar para resolver conflictos pacíficamente:\n\n1️⃣ **TOMAR UNA PAUSA**\n2️⃣ **COMPARTIR CÓMO TE SIENTES DE FORMA TRANQUILA**\n3️⃣ **ALEJARSE SI ES NECESARIO**"
         }
       },
-      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender algunas estrategias que puedes probar para resolver conflictos pacíficamente:\n\n1️⃣ **TOMAR UNA PAUSA**\n2️⃣ **COMPARTIR CÓMO TE SIENTES DE FORMA TRANQUILA**\n3️⃣ **ALEJARSE SI ES NECESARIO**",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender algunas estrategias que puedes probar para resolver conflictos pacíficamente:\n\n1️⃣ **TOMAR UNA PAUSA**\n2️⃣ **COMPARTIR CÓMO TE SIENTES DE FORMA TRANQUILA**\n3️⃣ **ALEJARSE SI ES NECESARIO**",
       "_translations": {
         "text_1_facilitator": {}
       },
@@ -266,7 +241,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**⭐ \n\nPractica el \"Tomar una pausa\" cuando te encuentres en una situación de conflicto."
+          "eng": "**Actividad para casa**⭐ \n\nPractica el tomar una pausa cuando te encuentres en una situación de conflicto."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy?"
@@ -297,7 +272,7 @@
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nPractica el \"Tomar una pausa\" cuando te encuentres en una situación de conflicto.",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nPractica el tomar una pausa cuando te encuentres en una situación de conflicto.",
       "completed": false
     }
   ],

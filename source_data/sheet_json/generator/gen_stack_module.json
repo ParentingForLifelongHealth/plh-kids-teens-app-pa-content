@@ -25,6 +25,10 @@
       "value": "@gen.tag_course"
     },
     {
+      "name": "is_already_completed",
+      "value": true
+    },
+    {
       "name": "show_progress_bar",
       "value": true,
       "exclude_from_translation": true

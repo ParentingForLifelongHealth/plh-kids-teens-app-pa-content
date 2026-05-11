@@ -124,7 +124,7 @@
           "eng": "Aquí tienes un ejemplo de cómo empezar a ayudar a tu niña o niño a leer."
         },
         "text_2": {
-          "eng": "Veamos cómo lee @data.characters.f1_padre.name con su hija, @data.characters.f1_hija_6.name. Nota cómo usa las imágenes del libro para enseñarle."
+          "eng": "Veamos cómo lee @data.characters.f3_padre.name con su hija, @data.characters.f3_hija_7.name. Nota cómo usa las imágenes del libro para enseñarle."
         },
         "character_1_text": {
           "eng": "¡Guau, este libro se ve interesante! ¿Puedes ver el dibujo? Tiene un tigre que sonríe. ¿De qué crees que trata el libro?"
@@ -136,9 +136,9 @@
         "text_2": {},
         "character_1_text": {}
       },
-      "text_2": "Veamos cómo lee @data.characters.f1_padre.name con su hija, @data.characters.f1_hija_6.name. Nota cómo usa las imágenes del libro para enseñarle.",
+      "text_2": "Veamos cómo lee @data.characters.f3_padre.name con su hija, @data.characters.f3_hija_7.name. Nota cómo usa las imágenes del libro para enseñarle.",
       "image_asset": "images/comic/learn/reading1_4to6_yc_1.svg",
-      "character_1_id": "f1_padre",
+      "character_1_id": "f3_padre",
       "character_1_text": "¡Guau, este libro se ve interesante! ¿Puedes ver el dibujo? Tiene un tigre que sonríe. ¿De qué crees que trata el libro?",
       "completed": false
     },
@@ -161,7 +161,7 @@
         }
       },
       "image_asset": "images/comic/learn/reading1_4to6_yc_2.svg",
-      "character_1_id": "f1_padre",
+      "character_1_id": "f3_padre",
       "character_1_text": "¡Uy! ¿Qué está pasando aquí? ¿Qué sostiene el tigre?",
       "_translations": {
         "character_1_text": {},
@@ -169,9 +169,9 @@
         "character_3_text": {},
         "character_4_text": {}
       },
-      "character_2_id": "f1_hija_6",
-      "character_3_id": "f1_padre",
-      "character_4_id": "f1_hija_6",
+      "character_2_id": "f3_hija_7",
+      "character_3_id": "f3_padre",
+      "character_4_id": "f3_hija_7",
       "character_2_text": "¡Un globo!",
       "character_3_text": "Así es, es un globo. ¿De qué color es?",
       "character_4_text": "¡Rojo!",
@@ -196,7 +196,7 @@
         }
       },
       "image_asset": "images/comic/learn/reading1_4to6_yc_3.svg",
-      "character_1_id": "f1_padre",
+      "character_1_id": "f3_padre",
       "character_1_text": "¡Sí, es un globo rojo! ¿Por qué crees que el tigre sostiene ese globo rojo? ¿Crees que es su cumpleaños?",
       "_translations": {
         "character_1_text": {},
@@ -204,9 +204,9 @@
         "character_3_text": {},
         "character_4_text": {}
       },
-      "character_2_id": "f1_hija_6",
-      "character_3_id": "f1_padre",
-      "character_4_id": "f1_hija_6",
+      "character_2_id": "f3_hija_7",
+      "character_3_id": "f3_padre",
+      "character_4_id": "f3_hija_7",
       "character_2_text": "¡Sí, el tigre sostiene el globo rojo porque es su cumpleaños!",
       "character_3_text": "¿Cómo suena la primera letra de la palabra \"globo\"?",
       "character_4_text": "¿\"G\"?",
@@ -228,34 +228,35 @@
         }
       },
       "image_asset": "images/comic/learn/reading1_4to6_yc_4.svg",
-      "character_1_id": "f1_padre",
+      "character_1_id": "f3_padre",
       "character_1_text": "Así es, ¡esta letra produce el sonido \"G\"! ¿Se te ocurre alguna otra palabra que empiece con \"G\"?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {},
         "character_3_text": {}
       },
-      "character_2_id": "f1_hija_6",
-      "character_3_id": "f1_padre",
+      "character_2_id": "f3_hija_7",
+      "character_3_id": "f3_padre",
       "character_2_text": "¡Gato!",
       "character_3_text": "¡Sí! Gato también empieza con G. Si no se te ocurre otra, ¡te puedo ayudar! ¿Qué tal \"gallina\"?",
       "completed": false
     },
     {
       "id": "practical_tips_1",
-      "media_type": "video",
+      "media_type": "youtube",
       "category_id": "practical_tips",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da clic en reproducir ▶️ para aprender las cuatro estrategias que pueden ayudar a @fields.child_name a desarrollar habilidades lectoras:\n \n1️⃣CREAR RUTINAS\n2️⃣HACER PREGUNTAS\n3️⃣RESPONDER Y EXPLORAR\n4️⃣CONSTRUIR Y CONECTAR"
+          "eng": "Selecciona reproducir ▶️ para aprender las cuatro estrategias que pueden ayudar a @fields.child_name a desarrollar habilidades lectoras:\n \n1️⃣CREAR RUTINAS\n2️⃣HACER PREGUNTAS\n3️⃣RESPONDER Y EXPLORAR\n4️⃣CONSTRUIR Y CONECTAR"
         }
       },
-      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender las cuatro estrategias que pueden ayudar a @fields.child_name a desarrollar habilidades lectoras:\n \n1️⃣CREAR RUTINAS\n2️⃣HACER PREGUNTAS\n3️⃣RESPONDER Y EXPLORAR\n4️⃣CONSTRUIR Y CONECTAR",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender las cuatro estrategias que pueden ayudar a @fields.child_name a desarrollar habilidades lectoras:\n \n1️⃣CREAR RUTINAS\n2️⃣HACER PREGUNTAS\n3️⃣RESPONDER Y EXPLORAR\n4️⃣CONSTRUIR Y CONECTAR",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en": "youtube link",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=fsw8wwe_kD4",
+      "youtube_gb_en_m": "https://youtu.be/nG2Ok3MLRE4",
       "completed": false
     },
     {

@@ -145,16 +145,16 @@
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "media_type": "video",
+      "media_type": "youtube",
       "youtube_gb_en_f": "youtube link",
       "nested": false,
-      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender 3️⃣ estrategias sobre cómo ayudar a @fields.child_name a seguir instrucciones con mayor frecuencia:\n\n1️⃣ **ESPECIFICAR LO QUE QUIERES**\n2️⃣ **SER REALISTA**\n3️⃣ **USAR PALABRAS AFIRMATIVAS**",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender 3️⃣ estrategias sobre cómo ayudar a @fields.child_name a seguir instrucciones con mayor frecuencia:\n\n1️⃣ **ESPECIFICAR LO QUE QUIERES**\n2️⃣ **SER REALISTA**\n3️⃣ **USAR PALABRAS AFIRMATIVAS**",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da Clic en Reproducir ▶️ para aprender 3️⃣ estrategias sobre cómo ayudar a @fields.child_name a seguir instrucciones con mayor frecuencia:\n\n1️⃣ **ESPECIFICAR LO QUE QUIERES**\n2️⃣ **SER REALISTA**\n3️⃣ **USAR PALABRAS AFIRMATIVAS**"
+          "eng": "Selecciona reproducir ▶️ para aprender 3️⃣ estrategias sobre cómo ayudar a @fields.child_name a seguir instrucciones con mayor frecuencia:\n\n1️⃣ **ESPECIFICAR LO QUE QUIERES**\n2️⃣ **SER REALISTA**\n3️⃣ **USAR PALABRAS AFIRMATIVAS**"
         }
       }
     },
@@ -162,7 +162,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a @fields.child_name.",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a @fields.child_name.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -173,7 +173,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a @fields.child_name."
+          "eng": "**Actividad para casa**⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a @fields.child_name."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"

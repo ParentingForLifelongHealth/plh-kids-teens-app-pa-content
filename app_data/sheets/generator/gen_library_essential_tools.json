@@ -96,7 +96,12 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "library_article_ipv_sharing_m_tips_1",
+      "flow_name": "library_article_ipv_listen_m_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "library_article_ipv_equals_m_tips_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -106,12 +111,7 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "library_article_ipv_listen_m_tips_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "library_article_ipv_equals_m_tips_1",
+      "flow_name": "library_article_ipv_sharing_m_tips_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

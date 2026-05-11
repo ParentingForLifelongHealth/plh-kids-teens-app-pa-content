@@ -4,27 +4,27 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_5",
+      "id": "relax_2",
       "in_library": "yes",
-      "title_eng": "In and out",
-      "title": "Inhala y exhala",
-      "lottie_asset": "lottie/relax/blue_dots.json",
-      "media_asset": "audio/relax/relax_5.m4a",
+      "title_eng": "Power of three",
+      "title": "El poder del 3",
+      "lottie_asset": "lottie/relax/soothing_waves.json",
+      "media_asset": "audio/relax/relax_2.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
-      "transcript_1_spanish": "Cierra los ojos.\n\nEscucha tu respiración mientras entra y sale cinco veces.\n\nNota cómo te sientes.\n\nCuando estés listo(a), abre los ojos otra vez. ¡Tú tienes el control!",
+      "transcript_1_eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be gratefful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
+      "transcript_1_spanish": "Cierra los ojos.\nVamos a usar el poder mágico del 3 para mantenernos presentes y relajarnos.\n\nNombra 3 sonidos que puedas escuchar ahora mismo.\nNombra 3 olores que puedas sentir ahora mismo.\nNombra tus 3 comidas favoritas.\n¿Cuáles son 3 cosas por las que puedes sentir gratitud ahora mismo?\n\nAl final de un día difícil, pensar en 3 cosas por las que estás agradecido(a) puede ayudarte a encontrar el valor para intentarlo de nuevo mañana.",
       "category_id": "relax",
       "nested": false,
       "completed": false
     },
     {
-      "id": "check_in_11",
+      "id": "check_in_14",
       "category_id": "check_in",
       "nested": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "¡Tomarte un momento para TI hace una gran diferencia para todas y todos!",
+      "text_1": "Toma un momento para notar cómo estás.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -37,16 +37,16 @@
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "¡Tomarte un momento para TI hace una gran diferencia para todas y todos!"
+          "eng": "Toma un momento para notar cómo estás."
         },
         "quiz_1_feedback_1": {
-          "eng": "¡Que bien que hoy esté siendo un buen día! ¿Puedes pensar en algo que ha salido bien hoy? Recuerda reconocerte por ello."
+          "eng": "¡Genial! Que gusto saber que hoy estás bien."
         },
         "quiz_1_feedback_2": {
-          "eng": "Cada día tiene cosas buenas y malas. Reconócete por todo lo que has hecho hasta ahora: eres increíble."
+          "eng": "Habrá días retadores, y está bien. Vas por buen camino."
         },
         "quiz_1_feedback_3": {
-          "eng": "Lamento que hoy estés sintiendo emociones difíciles. Buen trabajo por reconocerlas y por intentar ser amable contigo. Estás dando un gran ejemplo a tu familia."
+          "eng": "Lamento que las cosas estén siendo difíciles ahora. Es completamente normal pasar por momentos así. Recuerda que no estás sola/o."
         },
         "quiz_1_question": {
           "eng": "¿Cómo te sientes el día de hoy?"
@@ -61,9 +61,9 @@
           "eng": "Triste"
         }
       },
-      "quiz_1_feedback_1": "¡Que bien que hoy esté siendo un buen día! ¿Puedes pensar en algo que ha salido bien hoy? Recuerda reconocerte por ello.",
-      "quiz_1_feedback_2": "Cada día tiene cosas buenas y malas. Reconócete por todo lo que has hecho hasta ahora: eres increíble.",
-      "quiz_1_feedback_3": "Lamento que hoy estés sintiendo emociones difíciles. Buen trabajo por reconocerlas y por intentar ser amable contigo. Estás dando un gran ejemplo a tu familia.",
+      "quiz_1_feedback_1": "¡Genial! Que gusto saber que hoy estás bien.",
+      "quiz_1_feedback_2": "Habrá días retadores, y está bien. Vas por buen camino.",
+      "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles ahora. Es completamente normal pasar por momentos así. Recuerda que no estás sola/o.",
       "quiz_1_question": "¿Cómo te sientes el día de hoy?",
       "quiz_1_option_1_text": "Feliz",
       "quiz_1_option_2_text": "Bien",
@@ -82,7 +82,7 @@
           "eng": "Ser un integrante activo en las responsabilidades del hogar y de cuidado puede mejorar tu relación con @fields.child_name y hacer que la vida sea menos estresante para ti y tu pareja o familiar. También puede hacer que ser padre te resulte más agradable. 💚"
         },
         "quiz_1_question": {
-          "eng": "¡Hagamos un ejercicio! Ejercicio 1. Participar en las responsabilidades de cuidado es parte del rol que tiene el hombre en la familia."
+          "eng": "¡Hagamos un ejercicio! Participar en las responsabilidades de cuidado es parte del rol que tiene el hombre en la familia."
         },
         "quiz_1_option_1_text": {
           "eng": "Verdadero"
@@ -95,21 +95,6 @@
         },
         "quiz_1_feedback_2": {
           "eng": "👀 ¡Ups! ¡Buen intento!\n\nEs importante que los hombres sean miembros activos en los cuidados. Esto significa más que sólo jugar un rol de trabajo para traer dinero al hogar para alimentos, ropa y vivienda. \n\nSer un cuidador involucrado activamente fortalece la conexión y el bienestar entre tú, tus niñas, niños, adolescentes y pareja o familiares. \n\nParticipar en las tareas de cuidado y en el trabajo doméstico también demuestra respeto por la  igualdad en el hogar."
-        },
-        "quiz_3_question": {
-          "eng": "Como madres, padres o personas cuidadoras también podemos compartir nuestros sentimientos con nuestras niñas, niños o adolescentes."
-        },
-        "quiz_3_option_1_text": {
-          "eng": "Verdadero"
-        },
-        "quiz_3_feedback_1": {
-          "eng": "🎉 ¡Correcto! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les modela cómo pueden hacerlo."
-        },
-        "quiz_3_option_2_text": {
-          "eng": "Falso"
-        },
-        "quiz_3_feedback_2": {
-          "eng": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo."
         }
       },
       "quiz_1_feedback_1": "🎉 ¡Tienes razón!\n\nEs importante que los hombres sean miembros activos en los cuidados. Esto significa más que sólo jugar un rol de trabajo para traer dinero al hogar para alimentos, ropa y vivienda. \n\nSer un cuidador involucrado activamente fortalece la conexión y el bienestar entre tú, tus niñas, niños, adolescentes y pareja o familiares. \n\nParticipar en las tareas de cuidado y en el trabajo doméstico también demuestra respeto por la  igualdad en el hogar.",
@@ -120,24 +105,14 @@
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "text_1_facilitator": {},
-        "text_2": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {}
+        "text_2": {}
       },
       "quiz_1_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\nEs importante que los hombres sean miembros activos en los cuidados. Esto significa más que sólo jugar un rol de trabajo para traer dinero al hogar para alimentos, ropa y vivienda. \n\nSer un cuidador involucrado activamente fortalece la conexión y el bienestar entre tú, tus niñas, niños, adolescentes y pareja o familiares. \n\nParticipar en las tareas de cuidado y en el trabajo doméstico también demuestra respeto por la  igualdad en el hogar.",
-      "quiz_1_question": "¡Hagamos un ejercicio! Ejercicio 1. Participar en las responsabilidades de cuidado es parte del rol que tiene el hombre en la familia.",
+      "quiz_1_question": "¡Hagamos un ejercicio! Participar en las responsabilidades de cuidado es parte del rol que tiene el hombre en la familia.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
       "text_1_facilitator": "Hoy vamos a aprender acerca del papel de los hombres en la crianza compartida👋",
       "text_2": "Ser un integrante activo en las responsabilidades del hogar y de cuidado puede mejorar tu relación con @fields.child_name y hacer que la vida sea menos estresante para ti y tu pareja o familiar. También puede hacer que ser padre te resulte más agradable. 💚",
-      "quiz_3_question": "Como madres, padres o personas cuidadoras también podemos compartir nuestros sentimientos con nuestras niñas, niños o adolescentes.",
-      "quiz_3_option_1_text": "Verdadero",
-      "quiz_3_feedback_1": "🎉 ¡Correcto! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les modela cómo pueden hacerlo.",
-      "quiz_3_option_2_text": "Falso",
-      "quiz_3_feedback_2": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo.",
       "completed": false
     },
     {
@@ -173,7 +148,7 @@
       "category_id": "explore",
       "nested": false,
       "_translatedFields": {
-        "text_1_facilitator": {
+        "text_2": {
           "eng": "@data.characters.f1_madre.name está haciendo sus artesanías en el fondo."
         },
         "character_1_text": {
@@ -183,9 +158,9 @@
           "eng": "Es para las gallinas."
         }
       },
-      "text_1_facilitator": "@data.characters.f1_madre.name está haciendo sus artesanías en el fondo.",
+      "text_2": "@data.characters.f1_madre.name está haciendo sus artesanías en el fondo.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_2": {},
         "character_1_text": {},
         "character_2_text": {}
       },
@@ -267,15 +242,15 @@
     },
     {
       "id": "practical_tips_1",
-      "media_type": "video",
+      "media_type": "youtube",
       "category_id": "practical_tips",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da Clic en Reproducir ▶️ para aprender algunas estrategias para la crianza compartida:\n\n1️⃣ **ESTABLECER UNA RUTINA**\n2️⃣ **CONVERSAR SOBRE LA CARGA DE TRABAJO EN EL HOGAR**\n3️⃣ **SER UN CUIDADOR QUE PARTICIPA ACTIVAMENTE**"
+          "eng": "Selecciona reproducir ▶️ para aprender algunas estrategias para la crianza compartida:\n\n1️⃣ **ESTABLECER UNA RUTINA**\n2️⃣ **CONVERSAR SOBRE LA CARGA DE TRABAJO EN EL HOGAR**\n3️⃣ **SER UN CUIDADOR QUE PARTICIPA ACTIVAMENTE**"
         }
       },
-      "text_1_facilitator": "Da Clic en Reproducir ▶️ para aprender algunas estrategias para la crianza compartida:\n\n1️⃣ **ESTABLECER UNA RUTINA**\n2️⃣ **CONVERSAR SOBRE LA CARGA DE TRABAJO EN EL HOGAR**\n3️⃣ **SER UN CUIDADOR QUE PARTICIPA ACTIVAMENTE**",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender algunas estrategias para la crianza compartida:\n\n1️⃣ **ESTABLECER UNA RUTINA**\n2️⃣ **CONVERSAR SOBRE LA CARGA DE TRABAJO EN EL HOGAR**\n3️⃣ **SER UN CUIDADOR QUE PARTICIPA ACTIVAMENTE**",
       "_translations": {
         "text_1_facilitator": {}
       },

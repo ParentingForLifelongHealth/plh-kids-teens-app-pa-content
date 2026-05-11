@@ -43,6 +43,10 @@
           "value": "@gen.tag_course"
         },
         {
+          "name": "is_already_completed",
+          "value": true
+        },
+        {
           "name": "show_progress_bar",
           "value": true,
           "exclude_from_translation": true
@@ -133,7 +137,12 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "stack_module_ipv_sharing_m",
+      "flow_name": "stack_module_ipv_listen_m",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "stack_module_ipv_equals_m",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -143,12 +152,7 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "stack_module_ipv_listen_m",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "stack_module_ipv_equals_m",
+      "flow_name": "stack_module_ipv_sharing_m",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

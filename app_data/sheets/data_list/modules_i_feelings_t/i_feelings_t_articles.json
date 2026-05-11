@@ -127,14 +127,14 @@
       "character_1_id": "f1_padre",
       "character_2_id": "f1_hija_16",
       "nested": false,
-      "character_1_text": "@data.characters.f16_hija_16.name, he notado que hoy tienes menos energía y pareces triste. ¿Quieres hablarlo?",
+      "character_1_text": "@data.characters.f1_hija_16.name he notado que hoy tienes menos energía y pareces triste. ¿Quieres hablarlo?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "@data.characters.f16_hija_16.name, he notado que hoy tienes menos energía y pareces triste. ¿Quieres hablarlo?"
+          "eng": "@data.characters.f1_hija_16.name he notado que hoy tienes menos energía y pareces triste. ¿Quieres hablarlo?"
         },
         "character_2_text": {
           "eng": "Ay, Papá. Lo que pasa es que fracasé el examen de matemáticas y me pone triste y me frustra porque estudié mucho."
@@ -189,28 +189,28 @@
       "id": "practical_tips_1",
       "category_id": "practical_tips",
       "media_type": "youtube",
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=zb8R8HCHu2s&list=PLSUp-fKSYJUbs4FIMvxFUtdKZZEVPNEbY&index=1",
-      "youtube_gb_en_m": "https://youtu.be/-qd5aVE-pc0?si=Vt-TuF80GoRK36PD",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=zb8R8HCHu2s",
+      "youtube_gb_en_m": "https://youtu.be/-qd5aVE-pc0",
       "nested": false,
-      "text_1_facilitator": "Da clic en reproducir ▶️ para aprender las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:\n1️⃣ APRENDER\n2️⃣ IDENTIFICAR\n3️⃣ ABRIR TU MENTE\n4️⃣ HABLAR\n5️⃣ COMPARTIR\n6️⃣ MOSTRAR INTERÉS",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:\n1️⃣ APRENDER\n2️⃣ IDENTIFICAR\n3️⃣ ABRIR TU MENTE\n4️⃣ HABLAR\n5️⃣ COMPARTIR\n6️⃣ MOSTRAR INTERÉS",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da clic en reproducir ▶️ para aprender las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:\n1️⃣ APRENDER\n2️⃣ IDENTIFICAR\n3️⃣ ABRIR TU MENTE\n4️⃣ HABLAR\n5️⃣ COMPARTIR\n6️⃣ MOSTRAR INTERÉS"
+          "eng": "Selecciona reproducir ▶️ para aprender las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:\n1️⃣ APRENDER\n2️⃣ IDENTIFICAR\n3️⃣ ABRIR TU MENTE\n4️⃣ HABLAR\n5️⃣ COMPARTIR\n6️⃣ MOSTRAR INTERÉS"
         }
       }
     },
     {
       "id": "practical_tips_2",
       "category_id": "practical_tips",
-      "section_1_icon_asset": "https://drive.google.com/file/d/1yuMaNGzZNRXTUkoIoYGxcyps__hKv0KX/view?usp=drive_link",
-      "section_2_icon_asset": "https://drive.google.com/file/d/1JYdcbkVuoMB64KZFOtWUd01yErpe19ac/view?usp=drive_link",
-      "section_3_icon_asset": "https://drive.google.com/file/d/1JAFH1-oC7uiHzP21YsvFalbBq5iMcbVW/view?usp=drive_link",
-      "section_4_icon_asset": "https://drive.google.com/file/d/1GGu-Iy1PmdyDtB2h_Q23fxyUsR0FqGhn/view?usp=drive_link",
-      "section_5_icon_asset": "https://drive.google.com/file/d/1hfWPX9i6ZpYVChhK8_6AafGeqSNCgYOg/view?usp=drive_link",
-      "section_6_icon_asset": "https://drive.google.com/file/d/1b7ywkfyRt8DgqJrocfNefIOeE8oOW6bB/view?usp=drive_link",
+      "section_1_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_2_icon_asset": "images/icons/eye_blue.png",
+      "section_3_icon_asset": "images/icons/brain_blue.png",
+      "section_4_icon_asset": "images/icons/single_speech_blue.png",
+      "section_5_icon_asset": "images/icons/speech_bubble_blue.png",
+      "section_6_icon_asset": "images/icons/heart_filled_blue.png",
       "nested": false,
       "text_1_facilitator": "Recuerda las 6️⃣ estrategias para ayudar a @fields.child_name a aprender a manejar sus emociones:",
       "_translations": {

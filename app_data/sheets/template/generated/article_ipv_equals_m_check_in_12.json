@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_ipv_equals_m_check_in_14",
+  "flow_name": "article_ipv_equals_m_check_in_12",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -39,7 +39,7 @@
         },
         {
           "name": "article_id",
-          "value": "check_in_14",
+          "value": "check_in_12",
           "_translations": {
             "value": {}
           },

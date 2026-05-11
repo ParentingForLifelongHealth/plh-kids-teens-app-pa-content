@@ -24,7 +24,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Toma un momento para TI. Cuidarte empieza por notar cómo te sientes.",
+      "text_1": "Toma un momento para ti. Cuidarte empieza por notar cómo te sientes.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -37,7 +37,7 @@
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Toma un momento para TI. Cuidarte empieza por notar cómo te sientes."
+          "eng": "Toma un momento para ti. Cuidarte empieza por notar cómo te sientes."
         },
         "quiz_1_feedback_1": {
           "eng": "¡Genial! Que bien saber que estás en un buen momento."
@@ -76,7 +76,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "✨Buen trabajo por el esfuerzo que hiciste para aprender a mejorar la relación con @fields.child_name. ¡Eso demuestra que realmente te importa! 💙\n;\n😃¿Cómo te hizo sentir el mensaje anterior?\n\n🌷 Todas y todos nos sentimos mejor cuando reconocen nuestros esfuerzos."
+          "eng": "✨Buen trabajo por el esfuerzo que hiciste para aprender a mejorar la relación con @fields.child_name. ¡Eso demuestra que realmente te importa! 💙\n\n😃¿Cómo te hizo sentir el mensaje anterior?\n\n🌷 Todas y todos nos sentimos mejor cuando reconocen nuestros esfuerzos."
         },
         "text_2": {
           "eng": "🏅Elogiar el buen comportamiento de @fields.child_name hará que quiera comportarse así más seguido.\n\n⭐ También creará una relación positiva y cercana entre tú y @fields.child_name.\n\nEmpieza por elogiar los logros y esfuerzos de @fields.child_name cuando estén en su tiempo juntos y conectados."
@@ -112,7 +112,7 @@
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "text_1_facilitator": "✨Buen trabajo por el esfuerzo que hiciste para aprender a mejorar la relación con @fields.child_name. ¡Eso demuestra que realmente te importa! 💙\n;\n😃¿Cómo te hizo sentir el mensaje anterior?\n\n🌷 Todas y todos nos sentimos mejor cuando reconocen nuestros esfuerzos.",
+      "text_1_facilitator": "✨Buen trabajo por el esfuerzo que hiciste para aprender a mejorar la relación con @fields.child_name. ¡Eso demuestra que realmente te importa! 💙\n\n😃¿Cómo te hizo sentir el mensaje anterior?\n\n🌷 Todas y todos nos sentimos mejor cuando reconocen nuestros esfuerzos.",
       "text_2": "🏅Elogiar el buen comportamiento de @fields.child_name hará que quiera comportarse así más seguido.\n\n⭐ También creará una relación positiva y cercana entre tú y @fields.child_name.\n\nEmpieza por elogiar los logros y esfuerzos de @fields.child_name cuando estén en su tiempo juntos y conectados.",
       "completed": false
     },
@@ -166,7 +166,7 @@
           "eng": "Estás siendo muy paciente y buscando con mucha atención"
         },
         "character_2_text": {
-          "eng": "@data.characters.f3_hijo_4.name ¡Muy bien!"
+          "eng": "¡Sí, mamá!"
         }
       },
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
@@ -178,7 +178,7 @@
         "character_2_text": {}
       },
       "character_2_id": "f3_hijo_4",
-      "character_2_text": "@data.characters.f3_hijo_4.name ¡Muy bien!",
+      "character_2_text": "¡Sí, mamá!",
       "completed": false
     },
     {
@@ -187,13 +187,13 @@
       "nested": false,
       "_translatedFields": {
         "character_1_text": {
-          "eng": "¡Encontraste los calcetines que combinan con su par! ¡Hiciste un gran esfuerzo intentando @data.characters.f3_hijo_4.name!"
+          "eng": "¡Encontraste los calcetines que combinan con su par! ¡Hiciste un gran esfuerzo intentando, @data.characters.f3_hijo_4.name!"
         }
       },
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "image_asset": "images/comic/relation/give_praise_yc_4.svg",
       "character_1_id": "f3_madre",
-      "character_1_text": "¡Encontraste los calcetines que combinan con su par! ¡Hiciste un gran esfuerzo intentando @data.characters.f3_hijo_4.name!",
+      "character_1_text": "¡Encontraste los calcetines que combinan con su par! ¡Hiciste un gran esfuerzo intentando, @data.characters.f3_hijo_4.name!",
       "_translations": {
         "character_1_text": {}
       },
@@ -206,16 +206,16 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "⭐ Las niñas y los niños que reciben reconocimiento por sus esfuerzos, logros y comportamientos positivos querrán seguir portándose de esa forma y sabrán que son capaces de hacer muchas cosas.\n\nDa clic en reproducir ▶️ para aprender las 4️⃣ estrategias para dar reconocimiento a lo que hace @fields.child_name.\n\n1️⃣ OBSERVAR\n2️⃣ COMUNICAR\n3️⃣ REPETIR\n4️⃣ MANTENERLO POSITIVO"
+          "eng": "⭐ Las niñas y los niños que reciben reconocimiento por sus esfuerzos, logros y comportamientos positivos querrán seguir portándose de esa forma y sabrán que son capaces de hacer muchas cosas.\n\nSelecciona reproducir ▶️ para aprender las 4️⃣ estrategias para dar reconocimiento a lo que hace @fields.child_name.\n\n1️⃣ OBSERVAR\n2️⃣ COMUNICAR\n3️⃣ REPETIR\n4️⃣ MANTENERLO POSITIVO"
         }
       },
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "text_1_facilitator": "⭐ Las niñas y los niños que reciben reconocimiento por sus esfuerzos, logros y comportamientos positivos querrán seguir portándose de esa forma y sabrán que son capaces de hacer muchas cosas.\n\nDa clic en reproducir ▶️ para aprender las 4️⃣ estrategias para dar reconocimiento a lo que hace @fields.child_name.\n\n1️⃣ OBSERVAR\n2️⃣ COMUNICAR\n3️⃣ REPETIR\n4️⃣ MANTENERLO POSITIVO",
+      "text_1_facilitator": "⭐ Las niñas y los niños que reciben reconocimiento por sus esfuerzos, logros y comportamientos positivos querrán seguir portándose de esa forma y sabrán que son capaces de hacer muchas cosas.\n\nSelecciona reproducir ▶️ para aprender las 4️⃣ estrategias para dar reconocimiento a lo que hace @fields.child_name.\n\n1️⃣ OBSERVAR\n2️⃣ COMUNICAR\n3️⃣ REPETIR\n4️⃣ MANTENERLO POSITIVO",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "https://youtube/LyOAstb972w?si=xmOEHo1AJoM0rGCF",
-      "youtube_gb_en_m": "https://youtube/Ni_bSiVjbFQ?si=qD2mudN7zNp-jAB2",
+      "youtube_gb_en_f": "https://youtube/LyOAstb972w",
+      "youtube_gb_en_m": "https://youtube/Ni_bSiVjbFQ",
       "completed": false
     },
     {
@@ -224,7 +224,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**⭐ \n\nPara hoy, tu actividad para casa es elogiar a @fields.child_name durante su tiempo juntos y conectados. Intenta reconocer y elogiar a @fields.child_name durante esos minutos."
+          "eng": "***_Actividad para casa_***⭐ \n\nHoy, tu actividad para casa es elogiar a @fields.child_name durante su tiempo juntos y conectados. Intenta reconocer y elogiar a @fields.child_name durante esos minutos."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo de hacerlo hoy?"
@@ -256,7 +256,7 @@
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nPara hoy, tu actividad para casa es elogiar a @fields.child_name durante su tiempo juntos y conectados. Intenta reconocer y elogiar a @fields.child_name durante esos minutos.",
+      "text_1_facilitator": "***_Actividad para casa_***⭐ \n\nHoy, tu actividad para casa es elogiar a @fields.child_name durante su tiempo juntos y conectados. Intenta reconocer y elogiar a @fields.child_name durante esos minutos.",
       "completed": false
     }
   ],

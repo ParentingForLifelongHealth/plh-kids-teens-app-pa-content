@@ -18,25 +18,6 @@
         },
         {
           "type": "button",
-          "name": "button_delay_days",
-          "value": "Change countdown days",
-          "_translations": {
-            "value": {}
-          },
-          "action_list": [
-            {
-              "trigger": "click",
-              "action_id": "go_to",
-              "args": [
-                "countdown_days"
-              ],
-              "_raw": "click | go_to: countdown_days"
-            }
-          ],
-          "_nested_name": "dg_dev.button_delay_days"
-        },
-        {
-          "type": "button",
           "name": "button_templates",
           "value": "Templates",
           "_translations": {
@@ -52,6 +33,7 @@
               "_raw": "click | go_to:/template"
             }
           ],
+          "exclude_from_translation": true,
           "_nested_name": "dg_dev.button_templates"
         },
         {
@@ -71,6 +53,7 @@
               "_raw": "click | go_to:/user"
             }
           ],
+          "exclude_from_translation": true,
           "_nested_name": "dg_dev.button_dynamic_data"
         },
         {
@@ -88,6 +71,7 @@
               "_raw": "click | reset_app"
             }
           ],
+          "exclude_from_translation": true,
           "_nested_name": "dg_dev.button_reset"
         },
         {
@@ -116,6 +100,7 @@
             }
           ],
           "condition": "!@fields._feedback_sidebar_open",
+          "exclude_from_translation": true,
           "_nested_name": "dg_dev.button_open_feedback",
           "_dynamicFields": {
             "condition": [
@@ -159,6 +144,7 @@
             }
           ],
           "condition": "@fields._feedback_sidebar_open",
+          "exclude_from_translation": true,
           "_nested_name": "dg_dev.button_close_feedback",
           "_dynamicFields": {
             "condition": [
@@ -210,6 +196,166 @@
       "_dynamicDependencies": {
         "!@fields.user_mode": [
           "condition"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button_about",
+      "value": "@global.about_this_app",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "app_about"
+          ],
+          "_raw": "click | go_to: app_about"
+        }
+      ],
+      "_nested_name": "button_about",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.about_this_app",
+            "matchedExpression": "@global.about_this_app",
+            "type": "global",
+            "fieldName": "about_this_app"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.about_this_app": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button_terms",
+      "value": "@global.terms_and_conditions",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "app_menu_terms"
+          ],
+          "_raw": "click | go_to: app_menu_terms"
+        }
+      ],
+      "_nested_name": "button_terms",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.terms_and_conditions",
+            "matchedExpression": "@global.terms_and_conditions",
+            "type": "global",
+            "fieldName": "terms_and_conditions"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.terms_and_conditions": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button_privacy",
+      "value": "@global.privacy_policy",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "app_menu_privacy_policy"
+          ],
+          "_raw": "click | go_to: app_menu_privacy_policy"
+        }
+      ],
+      "_nested_name": "button_privacy",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.privacy_policy",
+            "matchedExpression": "@global.privacy_policy",
+            "type": "global",
+            "fieldName": "privacy_policy"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.privacy_policy": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button_language",
+      "value": "@global.language",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "language_select"
+          ],
+          "_raw": "click | go_to: language_select"
+        }
+      ],
+      "_nested_name": "button_language",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.language",
+            "matchedExpression": "@global.language",
+            "type": "global",
+            "fieldName": "language"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.language": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button_user_id",
+      "value": "@global.user_id_text",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "button_user_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.user_id_text",
+            "matchedExpression": "@global.user_id_text",
+            "type": "global",
+            "fieldName": "user_id_text"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.user_id_text": [
+          "value"
         ]
       }
     },
@@ -285,8 +431,8 @@
     }
   ],
   "_source": {
-    "name": "kids_teens_global V2",
-    "path": "templates/module_list.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1SkxfFFUzSjkUaxGKvYxiec-mx0szbeR6TaqBwfbBJyQ"
+    "name": "kids_teens_pa",
+    "path": "templates/PA app_menu.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1I0l4ODs2PXgVYIjFJaAGI0_HVE0eIQpFqHI4vFrNDr8"
   }
 }

@@ -11,7 +11,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 1,
-      "title::eng": "Pasar Tiempo Juntos y Conectados",
+      "title::eng": "Pasar tiempo juntos y conectados",
       "image_asset": "images/homescreen/i_one_on_one_c.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_1"
@@ -22,7 +22,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 2,
-      "title::eng": "Dar Reconocimiento",
+      "title::eng": "Dar reconocimiento",
       "image_asset": "images/homescreen/i_give_praise_c.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_2"
@@ -33,7 +33,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 3,
-      "title::eng": "Crear Rutinas",
+      "title::eng": "Crear rutinas",
       "image_asset": "images/homescreen/i_routines_c.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_3"
@@ -44,7 +44,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 4,
-      "title::eng": "Identificar Emociones",
+      "title::eng": "Identificar emociones",
       "image_asset": "images/homescreen/i_feelings_c.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_4"
@@ -55,7 +55,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 5,
-      "title::eng": "Mantener La Calma Cuando Hay Estrés",
+      "title::eng": "Mantener la calma cuando hay estrés",
       "image_asset": "images/homescreen/i_calm_c.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_5"
@@ -66,7 +66,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 6,
-      "title::eng": "Pasar Tiempo Juntos y Conectados",
+      "title::eng": "Pasar tiempo juntos y conectados",
       "image_asset": "images/homescreen/i_one_on_one_t.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_6"
@@ -77,7 +77,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 7,
-      "title::eng": "Dar Reconocimiento",
+      "title::eng": "Dar reconocimiento",
       "image_asset": "images/homescreen/i_give_praise_t.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_7"
@@ -88,7 +88,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 8,
-      "title::eng": "Crear Rutinas",
+      "title::eng": "Crear rutinas",
       "image_asset": "images/homescreen/i_routines_t.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_8"
@@ -99,7 +99,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 9,
-      "title::eng": "Identificar Emociones",
+      "title::eng": "Identificar emociones",
       "image_asset": "images/homescreen/i_feelings_t.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_9"
@@ -110,51 +110,51 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 10,
-      "title::eng": "Mantener La Calma Cuando Hay Estrés",
+      "title::eng": "Mantener la calma cuando hay estrés",
       "image_asset": "images/homescreen/i_calm_t.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_10"
-    },
-    {
-      "id": "ipv_sharing_m",
-      "tag_course": "ipv",
-      "child_gender_list": "male; female; opt_out;",
-      "tag_list": "child; teen;",
-      "number": 11,
-      "title::eng": "Escuchar y Conversar Efectivamente",
-      "image_asset": "images/homescreen/ipv.svg",
-      "relax_id": "relax_5",
-      "check_in_id": "check_in_11"
-    },
-    {
-      "id": "ipv_supportive_m",
-      "tag_course": "ipv",
-      "child_gender_list": "male; female; opt_out;",
-      "tag_list": "child; teen;",
-      "number": 12,
-      "title::eng": "Tomar Decisiones en Equipo",
-      "image_asset": "images/homescreen/relation_c.svg",
-      "relax_id": "relax_9",
-      "check_in_id": "check_in_12"
     },
     {
       "id": "ipv_listen_m",
       "tag_course": "ipv",
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child; teen;",
-      "number": 13,
-      "title::eng": "Ser una Figura de Apoyo en la Crianza y con la Pareja",
-      "image_asset": "images/homescreen/relation_t.svg",
-      "relax_id": "relax_1",
-      "check_in_id": "check_in_13"
+      "number": 11,
+      "title::eng": "Escuchar y conversar efectivamente",
+      "image_asset": "images/homescreen/ipv.svg",
+      "relax_id": "relax_5",
+      "check_in_id": "check_in_11"
     },
     {
       "id": "ipv_equals_m",
       "tag_course": "ipv",
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child; teen;",
+      "number": 12,
+      "title::eng": "Tomar decisiones en equipo",
+      "image_asset": "images/homescreen/relation_c.svg",
+      "relax_id": "relax_9",
+      "check_in_id": "check_in_12"
+    },
+    {
+      "id": "ipv_supportive_m",
+      "tag_course": "ipv",
+      "child_gender_list": "male; female; opt_out;",
+      "tag_list": "child; teen;",
+      "number": 13,
+      "title::eng": "Ser una figura de apoyo en la crianza y con la pareja",
+      "image_asset": "images/homescreen/relation_t.svg",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_13"
+    },
+    {
+      "id": "ipv_sharing_m",
+      "tag_course": "ipv",
+      "child_gender_list": "male; female; opt_out;",
+      "tag_list": "child; teen;",
       "number": 14,
-      "title::eng": "Papel de los Padres en la Crianza Compartida",
+      "title::eng": "Papel de los padres en la crianza compartida",
       "image_asset": "images/homescreen/understand_c.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_14"
@@ -165,7 +165,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child; teen;",
       "number": 15,
-      "title::eng": "Resolver Conflictos Pacíficamente",
+      "title::eng": "Resolver conflictos pacíficamente",
       "image_asset": "images/homescreen/understand_t.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_15"
@@ -213,7 +213,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 19,
-      "title::eng": "Crear un Plan de Seguridad con Mi Niña o Niño (2 a 4)",
+      "title::eng": "Crear un plan de seguridad con mi niña o niño (2 a 4)",
       "image_asset": "images/homescreen/safety_t.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_19"
@@ -225,7 +225,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 20,
-      "title::eng": "Crear un Plan de Seguridad con Mi Niña o Niño (5 a 9)",
+      "title::eng": "Crear un plan de seguridad con mi niña o niño (5 a 9)",
       "image_asset": "images/homescreen/learn_c.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_20"
@@ -237,7 +237,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 21,
-      "title::eng": "Saber Responder Ante Alguna Crisis (2 a 6)",
+      "title::eng": "Saber responder ante alguna crisis (2 a 6)",
       "image_asset": "images/homescreen/learn_t.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_21"
@@ -249,7 +249,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 22,
-      "title::eng": "Saber Responder Ante Alguna Crisis (7 a 9)",
+      "title::eng": "Saber responder ante alguna crisis (7 a 9)",
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_22"
@@ -260,7 +260,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 23,
-      "title::eng": "Usar con Responsabilidad y Seguridad los Dispositivos y Espacios Virtuales",
+      "title::eng": "Usar con responsabilidad y seguridad los dispositivos y espacios virtuales",
       "image_asset": "images/homescreen/relation_c.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_23"
@@ -271,7 +271,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 24,
-      "title::eng": "Desarrollar Confianza y Hábitos Seguros para el Uso de Internet y Redes Sociales",
+      "title::eng": "Desarrollar confianza y hábitos seguros para el uso de internet y redes sociales",
       "image_asset": "images/homescreen/relation_t.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_24"
@@ -282,7 +282,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 25,
-      "title::eng": "Crear un Plan de Seguridad para Mi Adolescente",
+      "title::eng": "Crear un plan de seguridad para mi adolescente",
       "image_asset": "images/homescreen/understand_c.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_25"
@@ -293,7 +293,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 26,
-      "title::eng": "Prevenir la Violencia Sexual",
+      "title::eng": "Prevenir la violencia sexual",
       "image_asset": "images/homescreen/understand_t.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_26"
@@ -301,10 +301,10 @@
     {
       "id": "ks_crises_m_t",
       "tag_course": "safety_t",
-      "child_gender_list": "male; female; opt_out;",
+      "child_gender_list": "male;",
       "tag_list": "teen",
       "number": 27,
-      "title::eng": "Saber Responder Ante Alguna Crisis (fem)",
+      "title::eng": "Saber responder ante alguna crisis (fem)",
       "image_asset": "images/homescreen/behave_c.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_27"
@@ -312,10 +312,10 @@
     {
       "id": "ks_crises_f_t",
       "tag_course": "safety_t",
-      "child_gender_list": "male; female; opt_out;",
+      "child_gender_list": "female; opt_out;",
       "tag_list": "teen",
       "number": 28,
-      "title::eng": "Saber Responder Ante Alguna Crisis (mas)",
+      "title::eng": "Saber responder ante alguna crisis (mas)",
       "image_asset": "images/homescreen/behave_t.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_28"
@@ -326,7 +326,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 29,
-      "title::eng": "Usar con Responsabilidad y Seguridad los Dispositivos y Espacios Virtuales",
+      "title::eng": "Usar con responsabilidad y seguridad los dispositivos y espacios virtuales",
       "image_asset": "images/homescreen/safety_c.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_29"
@@ -337,7 +337,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 30,
-      "title::eng": "Desarrollar Confianza y Hábitos Seguros para el Uso de Internet y Redes Sociales",
+      "title::eng": "Desarrollar confianza y hábitos seguros para el uso de internet y redes sociales",
       "image_asset": "images/homescreen/safety_t.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_30"
@@ -348,7 +348,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 31,
-      "title::eng": "Estrategias para Regular la Ira",
+      "title::eng": "Estrategias para regular la ira",
       "image_asset": "images/homescreen/learn_c.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_31"
@@ -359,7 +359,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 32,
-      "title::eng": "Enseñar Colaboración: Enfocarse en lo Positivo",
+      "title::eng": "Enseñar colaboración: enfocarse en lo positivo",
       "image_asset": "images/homescreen/learn_t.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_32"
@@ -370,7 +370,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 33,
-      "title::eng": "Acordar Reglas En Familia",
+      "title::eng": "Acordar reglas en familia",
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_33"
@@ -381,7 +381,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 34,
-      "title::eng": "Estrategias para Reducir Problemas de Comportamiento.",
+      "title::eng": "Estrategias para reducir problemas de comportamiento.",
       "image_asset": "images/homescreen/relation_c.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_34"
@@ -392,7 +392,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 35,
-      "title::eng": "Estrategias para Reducir Problemas de Comportamiento: Consecuencias Justas.",
+      "title::eng": "Estrategias para reducir problemas de comportamiento: consecuencias justas.",
       "image_asset": "images/homescreen/relation_t.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_35"
@@ -403,7 +403,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 36,
-      "title::eng": "Resolver Problemas con Mi Niña o Niño",
+      "title::eng": "Resolver problemas con mi niña o niño",
       "image_asset": "images/homescreen/understand_c.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_36"
@@ -414,7 +414,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 37,
-      "title::eng": "Conocer el Papel de las Personas en la Familia: Todas y Todos Importamos",
+      "title::eng": "Conocer el papel de las personas en la familia: todas y todos importamos",
       "image_asset": "images/homescreen/understand_t.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_37"
@@ -425,7 +425,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 38,
-      "title::eng": "Estrategias para Regular la Ira",
+      "title::eng": "Estrategias para regular la ira",
       "image_asset": "images/homescreen/behave_c.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_38"
@@ -436,7 +436,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 39,
-      "title::eng": "Enseñar Colaboración: Enfocarse en lo Positivo",
+      "title::eng": "Enseñar colaboración: enfocarse en lo positivo",
       "image_asset": "images/homescreen/behave_t.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_39"
@@ -447,7 +447,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 40,
-      "title::eng": "Acordar Reglas En Familia",
+      "title::eng": "Acordar reglas en familia",
       "image_asset": "images/homescreen/safety_c.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_40"
@@ -458,7 +458,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 41,
-      "title::eng": "Estrategias para Reducir Problemas de Comportamiento: Consecuencias Justas.",
+      "title::eng": "Estrategias para reducir problemas de comportamiento: consecuencias justas.",
       "image_asset": "images/homescreen/safety_t.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_41"
@@ -469,7 +469,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 42,
-      "title::eng": "Resolver Problemas con Mi Adolescente",
+      "title::eng": "Resolver problemas con mi adolescente",
       "image_asset": "images/homescreen/learn_c.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_42"
@@ -480,7 +480,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 43,
-      "title::eng": "Conocer el Papel de las Personas en la Familia: Todas y Todos Importamos",
+      "title::eng": "Conocer el papel de las personas en la familia: todas y todos importamos",
       "image_asset": "images/homescreen/learn_t.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_43"
@@ -491,7 +491,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 44,
-      "title::eng": "Estimular el Lenguaje de Mi Niña o Niño",
+      "title::eng": "Estimular el lenguaje de mi niña o niño",
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_44"
@@ -503,7 +503,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 45,
-      "title::eng": "Disfrutar y Favorecer la Lectura (2 a 3)",
+      "title::eng": "Disfrutar y favorecer la lectura (2 a 3)",
       "image_asset": "images/homescreen/relation_c.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_45"
@@ -515,7 +515,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 46,
-      "title::eng": "Disfrutar y Favorecer la Lectura: Parte 1 (4 a 6)",
+      "title::eng": "Disfrutar y favorecer la lectura: parte 1 (4 a 6)",
       "image_asset": "images/homescreen/relation_t.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_46"
@@ -527,7 +527,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 47,
-      "title::eng": "Disfrutar y Favorecer la Lectura: Parte 2 (4 a 6)",
+      "title::eng": "Disfrutar y favorecer la lectura: parte 2 (4 a 6)",
       "image_asset": "images/homescreen/understand_c.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_47"
@@ -539,7 +539,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 48,
-      "title::eng": "Enseñar Matemáticas Divertidas y Sencillas (2 a 3)",
+      "title::eng": "Enseñar matemáticas divertidas y sencillas (2 a 3)",
       "image_asset": "images/homescreen/understand_t.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_48"
@@ -551,7 +551,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 49,
-      "title::eng": "Enseñar Matemáticas Divertidas y Sencillas: Parte 1 (4 a 6)",
+      "title::eng": "Enseñar matemáticas divertidas y sencillas: parte 1 (4 a 6)",
       "image_asset": "images/homescreen/behave_c.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_49"
@@ -563,7 +563,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 50,
-      "title::eng": "Enseñar Matemáticas Divertidas y Sencillas: Parte 2 (4 a 6)",
+      "title::eng": "Enseñar matemáticas divertidas y sencillas: parte 2 (4 a 6)",
       "image_asset": "images/homescreen/behave_t.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_50"
@@ -575,7 +575,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 51,
-      "title::eng": "Involucrarse en las Actividades Escolares (3 a 9)",
+      "title::eng": "Involucrarse en las actividades escolares (3 a 9)",
       "image_asset": "images/homescreen/safety_c.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_51"
@@ -587,7 +587,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 52,
-      "title::eng": "Hacer Divertido el Aprendizaje",
+      "title::eng": "Hacer divertido el aprendizaje",
       "image_asset": "images/homescreen/safety_t.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_52"
@@ -599,7 +599,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 53,
-      "title::eng": "Apoyar el Aprendizaje de Mi Niña o Niño",
+      "title::eng": "Apoyar el aprendizaje de mi niña o niño",
       "image_asset": "images/homescreen/learn_c.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_53"
@@ -611,7 +611,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 54,
-      "title::eng": "Crear un Ambiente Positivo para el Aprendizaje de Mi Niña o Niño",
+      "title::eng": "Crear un ambiente positivo para el aprendizaje de mi niña o niño",
       "image_asset": "images/homescreen/learn_t.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_54"
@@ -623,7 +623,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 55,
-      "title::eng": "Aprender de la Experiencia",
+      "title::eng": "Aprender de la experiencia",
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_55"
@@ -634,7 +634,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 58,
-      "title::eng": "Hacer Divertido el Aprendizaje",
+      "title::eng": "Hacer divertido el aprendizaje",
       "image_asset": "images/homescreen/relation_c.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_56"
@@ -645,7 +645,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 59,
-      "title::eng": "Apoyar el Aprendizaje de Mi Adolescente",
+      "title::eng": "Apoyar el aprendizaje de mi adolescente",
       "image_asset": "images/homescreen/relation_t.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_57"
@@ -656,7 +656,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 60,
-      "title::eng": "Crear un Ambiente Positivo y de Aprendizaje para Mi Adolescente",
+      "title::eng": "Crear un ambiente positivo y de aprendizaje para mi adolescente",
       "image_asset": "images/homescreen/understand_c.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_58"
@@ -667,7 +667,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 61,
-      "title::eng": "Aprender de la Experiencia",
+      "title::eng": "Aprender de la experiencia",
       "image_asset": "images/homescreen/understand_t.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_59"
@@ -678,7 +678,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 62,
-      "title::eng": "Aprender a Trabajar en Equipo",
+      "title::eng": "Aprender a trabajar en equipo",
       "image_asset": "images/homescreen/behave_c.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_60"
@@ -689,7 +689,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 65,
-      "title::eng": "El Poder del Juego",
+      "title::eng": "El poder del juego",
       "image_asset": "images/homescreen/behave_t.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_61"
@@ -700,7 +700,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 66,
-      "title::eng": "Estrategias para Aprender de la Experiencia",
+      "title::eng": "Estrategias para aprender de la experiencia",
       "image_asset": "images/homescreen/safety_c.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_62"
@@ -712,7 +712,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 67,
-      "title::eng": "Conocer los Cambios de Mi Niña o Niño (2 a 3)",
+      "title::eng": "Conocer los cambios de mi niña o niño (2 a 3)",
       "image_asset": "images/homescreen/safety_t.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_63"
@@ -724,7 +724,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 68,
-      "title::eng": "Conocer los Cambios de Mi Niña o Niño (4 a 6)",
+      "title::eng": "Conocer los cambios de mi niña o niño (4 a 6)",
       "image_asset": "images/homescreen/learn_c.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_64"
@@ -736,7 +736,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 69,
-      "title::eng": "Conocer los Cambios de Mi Niña o Niño (7 a 9)",
+      "title::eng": "Conocer los cambios de mi niña o niño (7 a 9)",
       "image_asset": "images/homescreen/learn_t.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_65"
@@ -747,7 +747,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 56,
-      "title::eng": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 1",
+      "title::eng": "Regular tu estrés como madre, padre o persona cuidadora - parte 1",
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_66"
@@ -758,7 +758,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "child",
       "number": 57,
-      "title::eng": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 2",
+      "title::eng": "Regular tu estrés como madre, padre o persona cuidadora - parte 2",
       "image_asset": "images/homescreen/relation_c.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_67"
@@ -769,7 +769,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 63,
-      "title::eng": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 1",
+      "title::eng": "Regular tu estrés como madre, padre o persona cuidadora - parte 1",
       "image_asset": "images/homescreen/relation_t.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_68"
@@ -780,7 +780,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 64,
-      "title::eng": "Regular tu Estrés como Madre, Padre o Persona Cuidadora - Parte 2",
+      "title::eng": "Regular tu estrés como madre, padre o persona cuidadora - parte 2",
       "image_asset": "images/homescreen/understand_c.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_69"
@@ -791,7 +791,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 70,
-      "title::eng": "Fomentar la Confianza de Mi Adolescente",
+      "title::eng": "Fomentar la confianza de mi adolescente",
       "image_asset": "images/homescreen/understand_t.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_70"
@@ -802,7 +802,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 71,
-      "title::eng": "Cultivar la Motivación de Construir un Futuro en mi Adolescente",
+      "title::eng": "Cultivar la motivación de construir un futuro en mi adolescente",
       "image_asset": "images/homescreen/behave_c.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_71"
@@ -813,7 +813,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 72,
-      "title::eng": "Ayudar a Mi Adolescente a Enfrentar el Estrés",
+      "title::eng": "Ayudar a mi adolescente a enfrentar el estrés",
       "image_asset": "images/homescreen/behave_t.svg",
       "relax_id": "relax_9",
       "check_in_id": "check_in_72"
@@ -824,7 +824,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 73,
-      "title::eng": "Tristeza y Depresión: Diferencias y Cómo Actuar",
+      "title::eng": "Tristeza y depresión: diferencias y cómo actuar",
       "image_asset": "images/homescreen/safety_c.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_73"
@@ -835,7 +835,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 74,
-      "title::eng": "Ansiedad: Qué Es y Cómo Actuar",
+      "title::eng": "Ansiedad: qué es y cómo actuar",
       "image_asset": "images/homescreen/safety_t.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_74"
@@ -846,7 +846,7 @@
       "child_gender_list": "male; female; opt_out;",
       "tag_list": "teen",
       "number": 75,
-      "title::eng": "Conocer las Señales de Alarma para Detectar Situaciones de Riesgo",
+      "title::eng": "Conocer las señales de alarma para detectar situaciones de riesgo",
       "image_asset": "images/homescreen/learn_c.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_75"

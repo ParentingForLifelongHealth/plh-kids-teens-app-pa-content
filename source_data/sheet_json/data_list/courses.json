@@ -10,7 +10,7 @@
       "core": true,
       "tag_list": "child",
       "title::eng": "Mejorar la relación con mi niña o niño",
-      "image_asset": "images/homescreen/courses/relation_c.svg",
+      "image_asset": "images/homescreen/relation_c.svg",
       "completed": false
     },
     {
@@ -18,7 +18,7 @@
       "core": true,
       "tag_list": "teen",
       "title::eng": "Mejorar la relación con mi adolescente",
-      "image_asset": "images/homescreen/courses/relation_t.svg",
+      "image_asset": "images/homescreen/relation_t.svg",
       "completed": false
     },
     {
@@ -26,7 +26,7 @@
       "core": false,
       "tag_list": "child; teen;",
       "title::eng": "Responsabilidad e involucramiento en la crianza compartida",
-      "image_asset": "images/homescreen/courses/ipv.svg",
+      "image_asset": "images/homescreen/ipv.svg",
       "completed": false
     },
     {
@@ -34,7 +34,7 @@
       "core": false,
       "tag_list": "child",
       "title::eng": "Seguridad de mi niña o niño",
-      "image_asset": "images/homescreen/courses/safety_c.svg",
+      "image_asset": "images/homescreen/safety_c.svg",
       "completed": false
     },
     {
@@ -42,7 +42,7 @@
       "core": false,
       "tag_list": "teen",
       "title::eng": "Seguridad de mi adolescente",
-      "image_asset": "images/homescreen/courses/safety_t.svg",
+      "image_asset": "images/homescreen/safety_t.svg",
       "completed": false
     },
     {
@@ -50,7 +50,7 @@
       "core": false,
       "tag_list": "child",
       "title::eng": "Guiar el buen comportamiento de mi niña o niño",
-      "image_asset": "images/homescreen/courses/behave_c.svg",
+      "image_asset": "images/homescreen/behave_c.svg",
       "completed": false
     },
     {
@@ -58,7 +58,7 @@
       "core": false,
       "tag_list": "teen",
       "title::eng": "Guiar el buen comportamiento de mi adolescente",
-      "image_asset": "images/homescreen/courses/behave_t.svg",
+      "image_asset": "images/homescreen/behave_t.svg",
       "completed": false
     },
     {
@@ -66,7 +66,7 @@
       "core": false,
       "tag_list": "child",
       "title::eng": "Apoyar a mi niña o niño en su aprendizaje ",
-      "image_asset": "images/homescreen/courses/learn_c.svg",
+      "image_asset": "images/homescreen/learn_c.svg",
       "completed": false
     },
     {
@@ -74,7 +74,7 @@
       "core": false,
       "tag_list": "teen",
       "title::eng": "Apoyar a mi adolescente en su aprendizaje",
-      "image_asset": "images/homescreen/courses/learn_t.svg",
+      "image_asset": "images/homescreen/learn_t.svg",
       "completed": false
     },
     {
@@ -82,7 +82,7 @@
       "core": false,
       "tag_list": "child",
       "title::eng": "Entender el desarrollo de mi niña o niño",
-      "image_asset": "images/homescreen/courses/understand_c.svg",
+      "image_asset": "images/homescreen/understand_c.svg",
       "completed": false
     },
     {
@@ -90,7 +90,7 @@
       "core": false,
       "tag_list": "teen",
       "title::eng": "Cuidar del bienestar de mi adolescente y del mío",
-      "image_asset": "images/homescreen/courses/understand_t.svg",
+      "image_asset": "images/homescreen/understand_t.svg",
       "completed": false
     }
   ]

@@ -22,10 +22,18 @@
     },
     {
       "type": "button",
-      "value": "Complete course @item.id",
-      "action_list": "click | set_data | _list_id: courses, _id: @item.id, completed: true, completed_ts: @calc(now());",
+      "value": "Complete course @item.title",
+      "action_list": "click | set_item | completed: true, completed_ts: @calc(now());",
       "parameter_list": "variant: orange;",
+      "condition": "!@item.completed",
       "exclude_from_translation": true
+    },
+    {
+      "type": "button",
+      "value": "uncomplete course @item.title",
+      "action_list": "click | set_item | completed: false, completed_ts: ;",
+      "parameter_list": "variant: orange;",
+      "condition": "@item.completed"
     },
     {
       "type": "end_data_items"

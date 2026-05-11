@@ -115,16 +115,17 @@
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "media_type": "video",
-      "youtube_gb_en": "youtube link",
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=eoPiTrGyiZE",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=u4v7DBw6CUk",
       "nested": false,
-      "text_1_facilitator": "Da Clic en Reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos:\n\n1️⃣ **ESTABLECER METAS**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **CONECTAR**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos:\n\n1️⃣ **ESTABLECER METAS**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **CONECTAR**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Da Clic en Reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos:\n\n1️⃣ **ESTABLECER METAS**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **CONECTAR**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**"
+          "eng": "Selecciona reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos:\n\n1️⃣ **ESTABLECER METAS**\n2️⃣ **HACER PREGUNTAS**\n3️⃣ **CONECTAR**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**"
         }
       }
     },
@@ -132,7 +133,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "**¡Actividad para casa!** ⭐ \n\nDedícale 5 minutos a @fields.child_name para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana.",
+      "text_1_facilitator": "**¡Actividad para casa!** ⭐ \n\nDedícale 15 minutos a @fields.child_name para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -143,7 +144,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**¡Actividad para casa!** ⭐ \n\nDedícale 5 minutos a @fields.child_name para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana."
+          "eng": "**¡Actividad para casa!** ⭐ \n\nDedícale 15 minutos a @fields.child_name para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"

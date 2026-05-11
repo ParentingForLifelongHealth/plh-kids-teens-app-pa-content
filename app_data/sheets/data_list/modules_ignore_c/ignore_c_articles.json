@@ -10,7 +10,7 @@
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Esta lección  trata sobre qué hacer cuando las niñas y los niños buscan atención con comportamientos exagerados . 🚩",
+      "text_1_facilitator": "Esta lección  trata sobre qué hacer cuando las niñas y los niños buscan atención con comportamientos exagerados. 🚩",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {},
@@ -27,7 +27,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Esta lección  trata sobre qué hacer cuando las niñas y los niños buscan atención con comportamientos exagerados . 🚩"
+          "eng": "Esta lección  trata sobre qué hacer cuando las niñas y los niños buscan atención con comportamientos exagerados. 🚩"
         },
         "text_2": {
           "eng": "*_Las niñas y los niños necesitan atención positiva desde muy temprana edad._* 💛\n\nEs una forma estupenda de ayudarles a sentirse bien consigo mismos. ¡Hace más probable que hagan lo que se les pide! 🔄"
@@ -163,10 +163,10 @@
           "eng": "¡Buaaaaaa! ¡Buaaaaaa! ¡BUAAAAAA!"
         },
         "character_2_text": {
-          "eng": "(Pensando) Respira hondo. Puedo hacerlo…\n\nVeo tu frustración @data.characters.f3_hijo_4.name. Vamos a respirar como si sopláramos las velas de un pastel."
+          "eng": "(Pensando) Respira hondo. Puedo hacerlo…\n\nVeo tu frustración, @data.characters.f3_hijo_4.name. Vamos a respirar como si sopláramos las velas de un pastel."
         }
       },
-      "character_2_text": "(Pensando) Respira hondo. Puedo hacerlo…\n\nVeo tu frustración @data.characters.f3_hijo_4.name. Vamos a respirar como si sopláramos las velas de un pastel."
+      "character_2_text": "(Pensando) Respira hondo. Puedo hacerlo…\n\nVeo tu frustración, @data.characters.f3_hijo_4.name. Vamos a respirar como si sopláramos las velas de un pastel."
     },
     {
       "id": "explore_5",
@@ -187,16 +187,16 @@
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "media_type": "video",
-      "youtube_gb_en": "youtube link",
+      "media_type": "youtube",
+      "youtube_gb_en_f": "youtube link",
       "nested": false,
-      "text_1_facilitator": "▶️ Da Clic en Reproducir para aprender los 5️⃣ cinco pasos que debes de seguir cuando tu niña o niño se queje o haga un berrinche:\n\n1️⃣ **REDIRIGIR**\n2️⃣ **MANTENER LA CALMA**\n3️⃣ **OBSERVAR**\n4️⃣ **CUIDAR**\n5️⃣ **SER CONSTANTES**",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender los 5️⃣ cinco pasos que debes de seguir cuando tu niña o niño se queje o haga un berrinche:\n\n1️⃣ **REDIRIGIR**\n2️⃣ **MANTENER LA CALMA**\n3️⃣ **OBSERVAR**\n4️⃣ **CUIDAR**\n5️⃣ **SER CONSTANTES**",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "▶️ Da Clic en Reproducir para aprender los 5️⃣ cinco pasos que debes de seguir cuando tu niña o niño se queje o haga un berrinche:\n\n1️⃣ **REDIRIGIR**\n2️⃣ **MANTENER LA CALMA**\n3️⃣ **OBSERVAR**\n4️⃣ **CUIDAR**\n5️⃣ **SER CONSTANTES**"
+          "eng": "Selecciona reproducir ▶️ para aprender los 5️⃣ cinco pasos que debes de seguir cuando tu niña o niño se queje o haga un berrinche:\n\n1️⃣ **REDIRIGIR**\n2️⃣ **MANTENER LA CALMA**\n3️⃣ **OBSERVAR**\n4️⃣ **CUIDAR**\n5️⃣ **SER CONSTANTES**"
         }
       }
     },
@@ -204,7 +204,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "**_¡Actividad para casa!_** ⭐ \n\nBusca una cosa positiva que @fields.child_name haga el día de hoy y elógiale por ello. Si @fields.child_name se empieza a quejar por algo o a hacer berrinche, intenta usar las estrategias de esta lección para redirigir, mantener la calma, observar y cuidar. Puede que al principio no sea facil, ¡pero síguele, tú puedes hacerlo!",
+      "text_1_facilitator": "**¡Actividad para casa!** ⭐ \n\nBusca una cosa positiva que @fields.child_name haga el día de hoy y elógiale por ello. Si @fields.child_name se empieza a quejar por algo o a hacer berrinche, intenta usar las estrategias de esta lección para redirigir, mantener la calma, observar y cuidar. Puede que al principio no sea facil, ¡pero síguele, tú puedes hacerlo!",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -215,7 +215,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_¡Actividad para casa!_** ⭐ \n\nBusca una cosa positiva que @fields.child_name haga el día de hoy y elógiale por ello. Si @fields.child_name se empieza a quejar por algo o a hacer berrinche, intenta usar las estrategias de esta lección para redirigir, mantener la calma, observar y cuidar. Puede que al principio no sea facil, ¡pero síguele, tú puedes hacerlo!"
+          "eng": "**¡Actividad para casa!** ⭐ \n\nBusca una cosa positiva que @fields.child_name haga el día de hoy y elógiale por ello. Si @fields.child_name se empieza a quejar por algo o a hacer berrinche, intenta usar las estrategias de esta lección para redirigir, mantener la calma, observar y cuidar. Puede que al principio no sea facil, ¡pero síguele, tú puedes hacerlo!"
         },
         "quiz_1_question": {
           "eng": "¿Puedes encontrar algo por lo que puedas elogiar a @fields.child_name hoy? ⏰"
@@ -230,14 +230,14 @@
           "eng": "No"
         },
         "quiz_1_feedback_2": {
-          "eng": "¡Está bien! 💙 Mantener la calma cuando tu niña o niño está haciendo berrinche puede ser difícil. ¡elogiar a nuestras niñas y niños por su comportamiento positivo hace más probable que lo repitan! Siempre puedes volver a revisar lo que aprendiste hoy en el Menu Princial para construir y fortalecer tu confianza. ¡Tú puedes!"
+          "eng": "¡Está bien! 💙 Mantener la calma cuando tu niña o niño está haciendo berrinche puede ser difícil. ¡elogiar a nuestras niñas y niños por su comportamiento positivo hace más probable que lo repitan! \n\nSiempre puedes volver a revisar lo que aprendiste hoy en el Menú Principal para construir y fortalecer tu confianza. ¡Tú puedes!"
         }
       },
       "quiz_1_question": "¿Puedes encontrar algo por lo que puedas elogiar a @fields.child_name hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_feedback_1": "¡Genial! 💙 elogiar a nuestras niñas y niños significa que es más probable que repitan este comportamiento positivo. Mantener la calma cuando tu niña o niño está haciendo berrinche puede ser difícil, pero si tienes paciencia y le das tiempo, realmente funciona.",
       "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "¡Está bien! 💙 Mantener la calma cuando tu niña o niño está haciendo berrinche puede ser difícil. ¡elogiar a nuestras niñas y niños por su comportamiento positivo hace más probable que lo repitan! Siempre puedes volver a revisar lo que aprendiste hoy en el Menu Princial para construir y fortalecer tu confianza. ¡Tú puedes!"
+      "quiz_1_feedback_2": "¡Está bien! 💙 Mantener la calma cuando tu niña o niño está haciendo berrinche puede ser difícil. ¡elogiar a nuestras niñas y niños por su comportamiento positivo hace más probable que lo repitan! \n\nSiempre puedes volver a revisar lo que aprendiste hoy en el Menú Principal para construir y fortalecer tu confianza. ¡Tú puedes!"
     }
   ],
   "_source": {
