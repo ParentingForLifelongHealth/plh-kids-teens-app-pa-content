@@ -5,6 +5,22 @@
   "rows": [
     {
       "type": "declare_global_constant",
+      "name": "yes",
+      "value": "Sí",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "no",
+      "value": "No",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
       "name": "list",
       "value": "Lista",
       "_translations": {

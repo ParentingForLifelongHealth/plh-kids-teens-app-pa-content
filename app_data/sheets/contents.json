@@ -11086,12 +11086,12 @@
     },
     "legal_terms_global": {
       "flow_type": "global",
-      "flow_subtype": "legal_terms",
       "flow_name": "legal_terms_global",
+      "data_list_name": "legal_terms_global",
       "_source": {
-        "name": "library_app_menu",
-        "path": "app_legal_terms.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1_WiNl2D_Ne4tJq_HNNr1ONP0fdrQcM3uiGk_EW34RzI"
+        "name": "kids_teens_pa",
+        "path": "data/deployment_data_pa.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1a_PDtnQiKKzNSBNJcVh_TFk0kB7YbtWE22mh87mqMdI"
       }
     },
     "misc_global": {
