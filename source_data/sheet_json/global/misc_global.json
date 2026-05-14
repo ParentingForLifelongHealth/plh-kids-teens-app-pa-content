@@ -5,6 +5,16 @@
   "rows": [
     {
       "type": "declare_global_constant",
+      "name": "yes",
+      "value": "Sí"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "no",
+      "value": "No"
+    },
+    {
+      "type": "declare_global_constant",
       "name": "list",
       "value": "Lista"
     },

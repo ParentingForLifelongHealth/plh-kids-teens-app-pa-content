@@ -1864,6 +1864,15 @@
   },
   {
     "flow_type": "global",
+    "flow_name": "legal_terms_global",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "data/deployment_data_pa.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1a_PDtnQiKKzNSBNJcVh_TFk0kB7YbtWE22mh87mqMdI"
+    }
+  },
+  {
+    "flow_type": "global",
     "flow_name": "misc_global",
     "_source": {
       "name": "kids_teens_pa",

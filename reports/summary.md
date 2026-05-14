@@ -799,8 +799,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_pipe |  | 4 |
 | data_pipe | generated | 134 |
 | generator |  | 70 |
-| global |  | 7 |
-| global | legal_terms | 1 |
+| global |  | 8 |
 | global | onboarding | 7 |
 | template |  | 169 |
 | template | generated | 959 |
