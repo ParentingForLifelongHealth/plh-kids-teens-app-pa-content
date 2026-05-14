@@ -35,7 +35,7 @@
           "eng": "🌱 Las niñas y los niños tienen diferentes habilidades en las distintas etapas de su desarrollo.\n\n⚽ Es importante conocer las habilidades de @fields.child_name en esta etapa de su desarrollo.\n\n✨ Esto te ayudará a planificar sus actividades para que se ajusten a lo que puede hacer y también te ayuda a tener objetivos realistas para ellas y ellos."
         },
         "quiz_1_question": {
-          "eng": "¡Hagamos un ejercicio! Ejercicio 1.\n\nTodas las niñas y los niños se desarrollan a la misma velocidad."
+          "eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nTodas las niñas y los niños se desarrollan a la misma velocidad."
         },
         "quiz_1_option_1_text": {
           "eng": "Verdadero"
@@ -50,7 +50,7 @@
           "eng": "🎉 ¡Buen trabajo!\n\n✨ Cada niña y cada niño son únicos y se desarrollarán a su propio ritmo.\nAlgunas niñas y niños pueden desarrollarse más rápido que otros en ciertas áreas, mientras que a otros les puede tomar más tiempo.\n\n💚 *_Es importante que las madres, los padres y las personas cuidadoras sean pacientes y actuén con comprensión, reconociendo que cada niña y cada niño tiene su propio camino individual de desarrollo._*\n\nRecuerda que cada persona crece a su propio ritmo. Es importante que las niñas y los niños no comparen su crecimiento con el de otras niñas y niños, aunque tengan la misma edad.\n\n🚩 Si tienes alguna preocupación sobre el desarrollo de @fields.child_name, debes consultar a un profesional para obtener apoyo y asesoramiento."
         },
         "quiz_2_question": {
-          "eng": "¡Hagamos otro ejercicio! \n\nEjercicio 2. ¿Cómo puedes responderle a @fields.child_name si de repente expresa interés en cambiar su forma de vestir o de peinarse?"
+          "eng": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\n¿Cómo puedes responderle a @fields.child_name si de repente expresa interés en cambiar su forma de vestir o de peinarse?"
         },
         "quiz_2_option_1_text": {
           "eng": "Rechaza todas sus peticiones y di que no es necesario."
@@ -72,12 +72,12 @@
         }
       },
       "text_2": "🌱 Las niñas y los niños tienen diferentes habilidades en las distintas etapas de su desarrollo.\n\n⚽ Es importante conocer las habilidades de @fields.child_name en esta etapa de su desarrollo.\n\n✨ Esto te ayudará a planificar sus actividades para que se ajusten a lo que puede hacer y también te ayuda a tener objetivos realistas para ellas y ellos.",
-      "quiz_1_question": "¡Hagamos un ejercicio! Ejercicio 1.\n\nTodas las niñas y los niños se desarrollan a la misma velocidad.",
+      "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nTodas las niñas y los niños se desarrollan a la misma velocidad.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n✨ Cada niña y cada niño son únicos y se desarrollarán a su propio ritmo.\nAlgunas niñas y niños pueden desarrollarse más rápido que otros en ciertas áreas, mientras que a otros les puede tomar más tiempo.\n\n💚 *_Es importante que las madres, los padres y las personas cuidadoras sean pacientes y actuén con comprensión, reconociendo que cada niña y cada niño tiene su propio camino individual de desarrollo._*\n\nRecuerda que cada persona crece a su propio ritmo. Es importante que las niñas y los niños no comparen su crecimiento con el de otras niñas y niños, aunque tengan la misma edad.\n\n🚩 Si tienes alguna preocupación sobre el desarrollo de @fields.child_name, debes consultar a un profesional para obtener apoyo y asesoramiento.",
       "quiz_1_option_2_text": "Falso",
       "quiz_1_feedback_2": "🎉 ¡Buen trabajo!\n\n✨ Cada niña y cada niño son únicos y se desarrollarán a su propio ritmo.\nAlgunas niñas y niños pueden desarrollarse más rápido que otros en ciertas áreas, mientras que a otros les puede tomar más tiempo.\n\n💚 *_Es importante que las madres, los padres y las personas cuidadoras sean pacientes y actuén con comprensión, reconociendo que cada niña y cada niño tiene su propio camino individual de desarrollo._*\n\nRecuerda que cada persona crece a su propio ritmo. Es importante que las niñas y los niños no comparen su crecimiento con el de otras niñas y niños, aunque tengan la misma edad.\n\n🚩 Si tienes alguna preocupación sobre el desarrollo de @fields.child_name, debes consultar a un profesional para obtener apoyo y asesoramiento.",
-      "quiz_2_question": "¡Hagamos otro ejercicio! \n\nEjercicio 2. ¿Cómo puedes responderle a @fields.child_name si de repente expresa interés en cambiar su forma de vestir o de peinarse?",
+      "quiz_2_question": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\n¿Cómo puedes responderle a @fields.child_name si de repente expresa interés en cambiar su forma de vestir o de peinarse?",
       "quiz_2_option_1_text": "Rechaza todas sus peticiones y di que no es necesario.",
       "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n💚 Al preguntarle de manera cálida a @fields.child_name sobre sus intereses, sentirá seguridad y comodidad para compartir de las influencias que le rodean.\n\n🌷 Puedes darle tus opiniones sobre sus intereses pero hazlo con gentileza.",
       "quiz_2_option_2_text": "Con mucho cariño, pregúntale más sobre qué influyó en su interés por el cambio y por qué.",
@@ -193,6 +193,8 @@
     {
       "id": "practical_tips_2",
       "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png",
       "nested": false,
       "text_1_facilitator": "En esta etapa, las niñas y los niños empezarán a expresarse deseando independencia y confianza. 🎈\n\nEmpiezan a tomar sus propias decisiones y puede que le contesten a los adultos para demostrar que conocen las respuestas correctas. 🎨⚽\n\nAl mismo tiempo, mostrarán sus emociones a su manera. 😃😒😔😣\n\nRecuerda las estrategias para favorecer el desarrollo sano de @fields.child_name a esta edad. 💚",
       "_translations": {
@@ -208,7 +210,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de @fields.child_name. Para empezar, escribe {CRECER}.",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de @fields.child_name. Para empezar, escribe {CRECER}.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -219,7 +221,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de @fields.child_name. Para empezar, escribe {CRECER}."
+          "eng": "**Actividad para casa**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de @fields.child_name. Para empezar, escribe {CRECER}."
         },
         "quiz_1_question": {
           "eng": "¿Puedes completar la evaluación hoy? ⭐"

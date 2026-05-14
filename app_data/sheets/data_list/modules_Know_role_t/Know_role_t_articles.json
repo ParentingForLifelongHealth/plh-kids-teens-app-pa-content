@@ -33,7 +33,7 @@
           "eng": "Si @fields.child_name siente amor y apoyo en casa, ¡es más probable que haga las actividades del hogar con alegría y que, eventualmente, se convierta en una persona adulta sana! 😃💚"
         },
         "quiz_1_question": {
-          "eng": "Hagamos un ejercicio:\n\nResponde: ¿Verdadero o falso?\n\nSi cometo un error o hago algo que moleste a mi adolescente, debo fingir que no ha pasado nada, sonreírle y hacer una actividad positiva con ella o él."
+          "eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nSi cometo un error o hago algo que moleste a mi adolescente, debo fingir que no ha pasado nada, sonreírle y hacer una actividad positiva con ella o él."
         },
         "quiz_1_option_1_text": {
           "eng": "Verdadero"
@@ -48,7 +48,7 @@
           "eng": "🎉 ¡Correcto!\n\n💛 *_Admitir nuestros errores y disculparnos les enseña a respetar a los demás y que a veces está bien equivocarse._*\n\n❗Ignorar un error cuando afecta a tu adolescente le enseña que no necesita responsabilizarse de sus actos."
         },
         "quiz_2_question": {
-          "eng": "Una más. Responde ¿Verdadero o Falso?\n\nNo está bien que @fields.child_name se enoje contigo."
+          "eng": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\nNo está bien que @fields.child_name se enoje contigo."
         },
         "quiz_2_option_1_text": {
           "eng": "Verdadero"
@@ -64,12 +64,12 @@
         }
       },
       "text_2": "Si @fields.child_name siente amor y apoyo en casa, ¡es más probable que haga las actividades del hogar con alegría y que, eventualmente, se convierta en una persona adulta sana! 😃💚",
-      "quiz_1_question": "Hagamos un ejercicio:\n\nResponde: ¿Verdadero o falso?\n\nSi cometo un error o hago algo que moleste a mi adolescente, debo fingir que no ha pasado nada, sonreírle y hacer una actividad positiva con ella o él.",
+      "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nSi cometo un error o hago algo que moleste a mi adolescente, debo fingir que no ha pasado nada, sonreírle y hacer una actividad positiva con ella o él.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n💛 *_Admitir nuestros errores y disculparnos les enseña a respetar a los demás y que a veces está bien equivocarse._*\n\n❗Ignorar un error cuando afecta a tu adolescente le enseña que no necesita responsabilizarse de sus actos.",
       "quiz_1_option_2_text": "Falso",
       "quiz_1_feedback_2": "🎉 ¡Correcto!\n\n💛 *_Admitir nuestros errores y disculparnos les enseña a respetar a los demás y que a veces está bien equivocarse._*\n\n❗Ignorar un error cuando afecta a tu adolescente le enseña que no necesita responsabilizarse de sus actos.",
-      "quiz_2_question": "Una más. Responde ¿Verdadero o Falso?\n\nNo está bien que @fields.child_name se enoje contigo.",
+      "quiz_2_question": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\nNo está bien que @fields.child_name se enoje contigo.",
       "quiz_2_option_1_text": "Verdadero",
       "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n@fields.child_name va a experimentar muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi @fields.child_name está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu adolescente a darse cuenta de sus emociones de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo.",
       "quiz_2_option_2_text": "Falso",
@@ -88,6 +88,22 @@
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Selecciona reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como persona cuidadora de tu adolescente y a enseñarle también el suyo:\n\n1️⃣ **CONOCER TU ROL**\n2️⃣ **ENSEÑAR**\n3️⃣ **ENSEÑAR CON EL EJEMPLO**\n4️⃣ **NOTAR**\""
+        }
+      }
+    },
+    {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "nested": false,
+      "text_1_facilitator": "Recuerda:",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Recuerda:"
         }
       }
     },

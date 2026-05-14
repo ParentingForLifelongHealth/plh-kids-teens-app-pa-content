@@ -82,7 +82,7 @@
           "eng": "Aprender a comparar, sumar y restar ayudará a @fields.child_name a entender más sobre las matemáticas. Esto será un apoyo continuo en el aprendizaje de habilidades numéricas. 🔟/🔟 ⭐"
         },
         "quiz_1_question": {
-          "eng": "📝 Hagamos un ejercicio. Ejercicio 1 \n\nSumar y Restar son cosas que las niñas y los niños deben aprender en la escuela."
+          "eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nSumar y Restar son cosas que las niñas y los niños deben aprender en la escuela."
         },
         "quiz_1_option_1_text": {
           "eng": "Verdadero"
@@ -108,7 +108,7 @@
         "text_2": {}
       },
       "quiz_1_feedback_2": "✨ ¡Estás en lo correcto!\n\n🎉  Las niñas y los niños pueden aprender a sumar y restar haciendo actividades cotidianas y mientras juegan.\n\n💡 Entre más pronto empiecen, más fácil será cuando vayan a la escuela.",
-      "quiz_1_question": "📝 Hagamos un ejercicio. Ejercicio 1 \n\nSumar y Restar son cosas que las niñas y los niños deben aprender en la escuela.",
+      "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nSumar y Restar son cosas que las niñas y los niños deben aprender en la escuela.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
       "text_1_facilitator": "Hoy continuaremos con la lección para ayudar a @fields.child_name a prepararse para las matemáticas. ✨\n\nEn esta parte, nos enfocaremos en actividades un poco más retadoras que puedes hacer con @fields.child_name para cuando sientas que ya tiene el dominio y la confianza para intentarlas. 💡",
@@ -227,6 +227,7 @@
         "text_1_facilitator": {}
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=ue3fgXwp2Bo",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
       "completed": false
     },
     {
@@ -261,7 +262,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**¡Actividad para casa!** ⭐ \n\n⭐ ¿Puedes hacer una actividad de sumar y restar con @fields.child_name? Pueden hacerlo mientras cocinas, camino a la escuela o en el bus, o con otros objetos también, ¡como con piedras mientras juegan afuera! \n\n¡Estas actividades ayudarán a @fields.child_name a aprender!"
+          "eng": "**Actividad para casa**⭐ \n\n¿Puedes hacer una actividad de sumar y restar con @fields.child_name? Pueden hacerlo mientras cocinas, camino a la escuela o en el bus, o con otros objetos también, ¡como con piedras mientras juegan afuera! \n\n¡Estas actividades ayudarán a @fields.child_name a aprender!"
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy? ⭐"
@@ -292,7 +293,7 @@
       "quiz_1_question": "¿Puedes hacerlo hoy? ⭐",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**¡Actividad para casa!** ⭐ \n\n⭐ ¿Puedes hacer una actividad de sumar y restar con @fields.child_name? Pueden hacerlo mientras cocinas, camino a la escuela o en el bus, o con otros objetos también, ¡como con piedras mientras juegan afuera! \n\n¡Estas actividades ayudarán a @fields.child_name a aprender!",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\n¿Puedes hacer una actividad de sumar y restar con @fields.child_name? Pueden hacerlo mientras cocinas, camino a la escuela o en el bus, o con otros objetos también, ¡como con piedras mientras juegan afuera! \n\n¡Estas actividades ayudarán a @fields.child_name a aprender!",
       "completed": false
     }
   ],

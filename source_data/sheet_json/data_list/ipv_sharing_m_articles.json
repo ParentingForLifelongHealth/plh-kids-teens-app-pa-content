@@ -15,7 +15,7 @@
       "category_id": "intro",
       "text_1_facilitator::eng": "Hoy vamos a aprender acerca del papel de los hombres en la crianza compartida👋",
       "text_2::eng": "Ser un integrante activo en las responsabilidades del hogar y de cuidado puede mejorar tu relación con @fields.child_name y hacer que la vida sea menos estresante para ti y tu pareja o familiar. También puede hacer que ser padre te resulte más agradable. 💚",
-      "quiz_1_question::eng": "¡Hagamos un ejercicio! Participar en las responsabilidades de cuidado es parte del rol que tiene el hombre en la familia.",
+      "quiz_1_question::eng": "**¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nParticipar en las responsabilidades de cuidado es parte del rol que tiene el hombre en la familia.",
       "quiz_1_option_1_text::eng": "Verdadero",
       "quiz_1_feedback_1::eng": "🎉 ¡Tienes razón!\n\nEs importante que los hombres sean miembros activos en los cuidados. Esto significa más que sólo jugar un rol de trabajo para traer dinero al hogar para alimentos, ropa y vivienda. \n\nSer un cuidador involucrado activamente fortalece la conexión y el bienestar entre tú, tus niñas, niños, adolescentes y pareja o familiares. \n\nParticipar en las tareas de cuidado y en el trabajo doméstico también demuestra respeto por la  igualdad en el hogar. ",
       "quiz_1_option_2_text::eng": "Falso",
@@ -76,9 +76,23 @@
       "youtube_gb_en_f": "youtube link"
     },
     {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "Recuerda",
+      "section_1_title::eng": "ESTABLECER UNA RUTINA",
+      "section_1_icon_asset": "images/icons/picture_blue.svg",
+      "section_1_text::eng": "⏰ ¡Esto puede ser difícil de recordar! A veces puede ser útil establecer una rutina en torno a las actividades de la casa o de crianza.  \n\n😃 Incluso cinco minutos al día con cada niña, niño o adolescente pueden hacer la diferencia. ",
+      "section_2_title::eng": "CONVERSAR SOBRE LA CARGA DE TRABAJO EN EL HOGAR",
+      "section_2_icon_asset": "images/icons/home_active.svg",
+      "section_2_text::eng": "😃 Conversa con tu pareja o familiar con quien compartes la crianza sobre cómo quieres involucrarte más en los cuidados y la crianza. Ayudará a que ambos se entiendan mejor. \n\n¡Demuestra que realmente te importa!",
+      "section_3_title::eng": "SER UN CUIDADOR QUE PARTICIPA ACTIVAMENTE",
+      "section_3_icon_asset": "images/icons/parent_child.svg",
+      "section_3_text::eng": "😒 Puede resultar un poco difícil ser un cuidador que participa activamente en las responsabilidades del hogar y los cuidados. \n\n🌷Sé amable contigo si te olvidas de preguntar y vuelve a intentarlo en otra ocasión.  \n\n¡Tener voluntad para involucrarse más en las responsabilidades del cuidado y de la crianza beneficia a toda la familia! "
+    },
+    {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "**_Actividad para casa_**⭐ \n\nConsiste en conversar con tu pareja o familiar y dialogar sobre las diversas maneras de involucrarte en el cuidado, en la crianza y en las responsabilidades del hogar activamente.",
+      "text_1_facilitator::eng": "**Actividad para casa**⭐ \n\nConsiste en conversar con tu pareja o familiar y dialogar sobre las diversas maneras de involucrarte en el cuidado, en la crianza y en las responsabilidades del hogar activamente.",
       "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy?",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Excelente! Ser responsable, involucrarse y ser activo en el tiempo familiar beneficia a toda la familia. 🎉",

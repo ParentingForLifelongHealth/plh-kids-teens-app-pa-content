@@ -22,13 +22,18 @@
       "check_in_id": "check_in_1",
       "title": "Pasar tiempo juntos y conectados",
       "_translations": {
-        "title": {}
+        "title": {},
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Pasar tiempo juntos y conectados"
+        },
+        "home_activity": {
+          "eng": "¡Excelente trabajo!\n\nAhora es momento de practicar pasar al menos 15 minutos al día conectando y compartiendo tiempo especial juntos con @fields.child_name."
         }
-      }
+      },
+      "home_activity": "¡Excelente trabajo!\n\nAhora es momento de practicar pasar al menos 15 minutos al día conectando y compartiendo tiempo especial juntos con @fields.child_name."
     },
     {
       "id": "i_give_praise_c",
@@ -147,13 +152,18 @@
       "check_in_id": "check_in_6",
       "title": "Pasar tiempo juntos y conectados",
       "_translations": {
-        "title": {}
+        "title": {},
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Pasar tiempo juntos y conectados"
+        },
+        "home_activity": {
+          "eng": "¡Muy bien!  \n\nEs momento de dedicar al menos 15 minutos del día para compartir, jugar o conversar con @fields.child_name y disfrutar un momento especial juntos."
         }
-      }
+      },
+      "home_activity": "¡Muy bien!  \n\nEs momento de dedicar al menos 15 minutos del día para compartir, jugar o conversar con @fields.child_name y disfrutar un momento especial juntos."
     },
     {
       "id": "i_give_praise_t",
@@ -172,13 +182,18 @@
       "check_in_id": "check_in_7",
       "title": "Dar reconocimiento",
       "_translations": {
-        "title": {}
+        "title": {},
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Dar reconocimiento"
+        },
+        "home_activity": {
+          "eng": "Continúa practicando el reconocer y valorar las cosas positivas que hace @fields.child_name, incluso en los pequeños esfuerzos del día a día."
         }
-      }
+      },
+      "home_activity": "Continúa practicando el reconocer y valorar las cosas positivas que hace @fields.child_name, incluso en los pequeños esfuerzos del día a día."
     },
     {
       "id": "i_routines_t",
@@ -273,13 +288,18 @@
       "check_in_id": "check_in_11",
       "title": "Escuchar y conversar efectivamente",
       "_translations": {
-        "title": {}
+        "title": {},
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Escuchar y conversar efectivamente"
+        },
+        "home_activity": {
+          "eng": "¡Excelente trabajo!\n\nAhora dedica un momento para conversar con tu pareja o familiar sobre cómo apoyarse mutuamente en la crianza, el cuidado y las responsabilidades del hogar."
         }
-      }
+      },
+      "home_activity": "¡Excelente trabajo!\n\nAhora dedica un momento para conversar con tu pareja o familiar sobre cómo apoyarse mutuamente en la crianza, el cuidado y las responsabilidades del hogar."
     },
     {
       "id": "ipv_equals_m",
@@ -406,13 +426,18 @@
       "check_in_id": "check_in_16",
       "title": "Enseñar sobre autocuidado y prevención del abuso a mi niño (2 a 5)",
       "_translations": {
-        "title": {}
+        "title": {},
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Enseñar sobre autocuidado y prevención del abuso a mi niño (2 a 5)"
+        },
+        "home_activity": {
+          "eng": "¡Muy bien!\n\nContinúa acompañando a @fields.child_name a crear o revisar su mapa de seguridad y conversar sobre las personas y lugares seguros a los que puede acudir."
         }
-      }
+      },
+      "home_activity": "¡Muy bien!\n\nContinúa acompañando a @fields.child_name a crear o revisar su mapa de seguridad y conversar sobre las personas y lugares seguros a los que puede acudir."
     },
     {
       "id": "safe_2to5_yc_f",
@@ -641,13 +666,18 @@
       "check_in_id": "check_in_24",
       "title": "Desarrollar confianza y hábitos seguros para el uso de internet y redes sociales",
       "_translations": {
-        "title": {}
+        "title": {},
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Desarrollar confianza y hábitos seguros para el uso de internet y redes sociales"
+        },
+        "home_activity": {
+          "eng": "¡Excelente trabajo!\n\nEs momento de poner en práctica lo aprendido. Conversa con @fields.child_name sobre cómo usar internet y las redes sociales de forma segura y responsable."
         }
-      }
+      },
+      "home_activity": "¡Excelente trabajo!\n\nEs momento de poner en práctica lo aprendido. Conversa con @fields.child_name sobre cómo usar internet y las redes sociales de forma segura y responsable."
     },
     {
       "id": "ks_c_safe_t",
@@ -666,13 +696,18 @@
       "check_in_id": "check_in_25",
       "title": "Crear un plan de seguridad para mi adolescente",
       "_translations": {
-        "title": {}
+        "title": {},
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Crear un plan de seguridad para mi adolescente"
+        },
+        "home_activity": {
+          "eng": "¡Muy bien!\n\nEs tiempo de aplicar esta nueva habilidad. Conversa con @fields.child_name sobre personas, lugares y acciones que pueden ayudarle a mantenerse seguro/a ante situaciones de riesgo."
         }
-      }
+      },
+      "home_activity": "¡Muy bien!\n\nEs tiempo de aplicar esta nueva habilidad. Conversa con @fields.child_name sobre personas, lugares y acciones que pueden ayudarle a mantenerse seguro/a ante situaciones de riesgo."
     },
     {
       "id": "ks_s_violence_t",
@@ -788,13 +823,18 @@
       "check_in_id": "check_in_30",
       "title": "Desarrollar confianza y hábitos seguros para el uso de internet y redes sociales",
       "_translations": {
-        "title": {}
+        "title": {},
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Desarrollar confianza y hábitos seguros para el uso de internet y redes sociales"
+        },
+        "home_activity": {
+          "eng": "¡Excelente trabajo!\n\nHoy puedes intentar aplicar esta estrategia. Conversa con @fields.child_name sobre hábitos seguros y responsables para usar internet, las redes sociales y los dispositivos digitales."
         }
-      }
+      },
+      "home_activity": "¡Excelente trabajo!\n\nHoy puedes intentar aplicar esta estrategia. Conversa con @fields.child_name sobre hábitos seguros y responsables para usar internet, las redes sociales y los dispositivos digitales."
     },
     {
       "id": "manage_anger_c",
@@ -813,13 +853,18 @@
       "check_in_id": "check_in_31",
       "title": "Estrategias para regular la ira",
       "_translations": {
-        "title": {}
+        "title": {},
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Estrategias para regular la ira"
+        },
+        "home_activity": {
+          "eng": "¡Muy bien!\n\nUn pequeño momento de práctica puede hacer una gran diferencia. Conversa con @fields.child_name sobre el enojo y practiquen juntos una estrategia que ayude a calmarse y sentirse mejor en momentos difíciles."
         }
-      }
+      },
+      "home_activity": "¡Muy bien!\n\nUn pequeño momento de práctica puede hacer una gran diferencia. Conversa con @fields.child_name sobre el enojo y practiquen juntos una estrategia que ayude a calmarse y sentirse mejor en momentos difíciles."
     },
     {
       "id": "keep_positive_c",
@@ -988,13 +1033,18 @@
       "check_in_id": "check_in_38",
       "title": "Estrategias para regular la ira",
       "_translations": {
-        "title": {}
+        "title": {},
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Estrategias para regular la ira"
+        },
+        "home_activity": {
+          "eng": "¡Excelente trabajo!\n\nAhora puedes practicar lo que aprendiste. Conversa con tu adolescente sobre lo que siente cuando se enoja y practiquen juntos una estrategia que le ayude a manejar sus emociones de forma positiva."
         }
-      }
+      },
+      "home_activity": "¡Excelente trabajo!\n\nAhora puedes practicar lo que aprendiste. Conversa con tu adolescente sobre lo que siente cuando se enoja y practiquen juntos una estrategia que le ayude a manejar sus emociones de forma positiva."
     },
     {
       "id": "keep_positive_t",
@@ -1138,13 +1188,18 @@
       "check_in_id": "check_in_44",
       "title": "Estimular el lenguaje de mi niña o niño",
       "_translations": {
-        "title": {}
+        "title": {},
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Estimular el lenguaje de mi niña o niño"
+        },
+        "home_activity": {
+          "eng": "¡Muy bien!\n\nPongamos en práctica lo aprendido. Dedica 15 minutos para acompañar a @fields.child_name en una actividad de aprendizaje, como leer, jugar, conversar o apoyarle con una tarea."
         }
-      }
+      },
+      "home_activity": "¡Muy bien!\n\nPongamos en práctica lo aprendido. Dedica 15 minutos para acompañar a @fields.child_name en una actividad de aprendizaje, como leer, jugar, conversar o apoyarle con una tarea."
     },
     {
       "id": "s_read_2to3_c",
@@ -1495,13 +1550,18 @@
       "check_in_id": "check_in_56",
       "title": "Hacer divertido el aprendizaje",
       "_translations": {
-        "title": {}
+        "title": {},
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Hacer divertido el aprendizaje"
+        },
+        "home_activity": {
+          "eng": "¡Lleva este aprendizaje a tu día a día! \n\nApoya a @fields.child_name a fijar un objetivo de estudio o para completar su tarea de la semana."
         }
-      }
+      },
+      "home_activity": "¡Lleva este aprendizaje a tu día a día! \n\nApoya a @fields.child_name a fijar un objetivo de estudio o para completar su tarea de la semana."
     },
     {
       "id": "help_learn_t",
@@ -1620,13 +1680,18 @@
       "check_in_id": "check_in_61",
       "title": "El poder del juego",
       "_translations": {
-        "title": {}
+        "title": {},
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "El poder del juego"
+        },
+        "home_activity": {
+          "eng": "¡Excelente trabajo!\n\nRecuerda que aprender toma tiempo y práctica. Puedes comenzar hoy dedicando un momento para apoyar a tu adolescente con una meta, una actividad escolar o una tarea, acompañándole con interés y motivación."
         }
-      }
+      },
+      "home_activity": "¡Excelente trabajo!\n\nRecuerda que aprender toma tiempo y práctica. Puedes comenzar hoy dedicando un momento para apoyar a tu adolescente con una meta, una actividad escolar o una tarea, acompañándole con interés y motivación."
     },
     {
       "id": "learn_exp_c",
@@ -1809,13 +1874,18 @@
       "check_in_id": "check_in_68",
       "title": "Regular tu estrés como madre, padre o persona cuidadora - parte 1",
       "_translations": {
-        "title": {}
+        "title": {},
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Regular tu estrés como madre, padre o persona cuidadora - parte 1"
+        },
+        "home_activity": {
+          "eng": "¡Muy bien!\n\nHoy puedes intentar aplicar esta estrategia. Dedica un momento para conversar con tu adolescente sobre las situaciones que le generan estrés y escúchale con atención y calma."
         }
-      }
+      },
+      "home_activity": "¡Muy bien!\n\nHoy puedes intentar aplicar esta estrategia. Dedica un momento para conversar con tu adolescente sobre las situaciones que le generan estrés y escúchale con atención y calma."
     },
     {
       "id": "make_plan_t",

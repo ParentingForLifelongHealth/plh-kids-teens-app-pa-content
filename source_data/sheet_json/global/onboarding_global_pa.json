@@ -57,6 +57,81 @@
       "name": "onboarding_completed_lottie_asset",
       "value": "lottie/checkmark.json",
       "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_splash_skip",
+      "value": "Omitir"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "welcome_message",
+      "value": "¡Te damos la bienvenida a\n@global.app_name!"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "login",
+      "value": "Iniciar sesión"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "login_optional_why",
+      "value": "Crear una cuenta te permite guardar tu progreso en distintos dispositivos. Es opcional."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "login_google",
+      "value": "Continuar con Google"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "login_skip",
+      "value": "Continuar sin una cuenta"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "agree_terms",
+      "value": "Al continuar, aceptas nuestros:\n"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "logout",
+      "value": "Cerrar sesión"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "logged_in_existing_user",
+      "value": "¡Que gusto verte de nuevo @fields._auth_user_given_name!"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "logged_in_existing",
+      "value": "¡Que gusto verte otra vez!"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "logged_in_new_user",
+      "value": "¡Nos alegra que estés de regreso, @fields._auth_user_given_name!"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "logged_in_new",
+      "value": "¡Te damos la bienvenida!"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "continue_onb",
+      "value": "Continuar"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_completed_title",
+      "value": "¡Todo listo!"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_completed_text",
+      "value": "Tu perfil está completo, ¡comencemos!"
     }
   ]
 }

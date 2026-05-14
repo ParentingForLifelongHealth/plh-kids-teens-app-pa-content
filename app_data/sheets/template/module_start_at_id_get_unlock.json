@@ -239,6 +239,15 @@
         },
         {
           "trigger": "completed",
+          "action_id": "set_field",
+          "args": [],
+          "_raw": "completed | set_field | completed_all : true",
+          "params": {
+            "completed_all ": true
+          }
+        },
+        {
+          "trigger": "completed",
           "action_id": "emit",
           "args": [
             "completed"

@@ -15,7 +15,7 @@
       "category_id": "intro",
       "text_1_facilitator::eng": "Tanto las personas cuidadoras como las niñas y niños tienen un rol que desempeñar en el hogar. 📝\n\nEl rol de @fields.child_name es aprender, de las personas que le cuidan, qué puede hacer y qué no debe hacer. Puede empezar a hacer actividades en la casa que sean adecuadas para su edad. ⭐\n\nComo persona cuidadora, tu rol es cuidar de @fields.child_name, mantenerle a salvo y enseñarle cómo comportarse en el mundo. 🌱\n\n**Tu papel más importante es ayudarle a @fields.child_name a sentir tu amor y tu apoyo, ¡pase lo que pase!** 💙",
       "text_2::eng": "Si @fields.child_name siente amor y apoyo en casa, ¡es más probable que haga las actividades del hogar con alegría y que se convierta en una niña o niño sano, y, eventualmente, en una persona adulta sana! 😃💚",
-      "quiz_1_question::eng": "¡Hagamos un ejercicio!\n\nEjercicio 1.\n\nSi cometo un error o hago algo que moleste a mi niña, niño o adolescente, debo fingir que no ha pasado nada, sonreírle y hacer una actividad más positiva con ella o él.",
+      "quiz_1_question::eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nSi cometo un error o hago algo que moleste a mi niña, niño o adolescente, debo fingir que no ha pasado nada, sonreírle y hacer una actividad más positiva con ella o él.",
       "quiz_1_option_1_text::eng": "Verdadero",
       "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n💛 *_Admitir nuestros errores y disculparnos les enseña a respetar a los demás y que a veces está bien equivocarse._*\n\n❗ Ignorar un error cuando afecta a tu niña o niño le enseña que no necesita responsabilizarse de sus actos.",
       "quiz_1_option_2_text::eng": "Falso",
@@ -28,6 +28,13 @@
       "media_type": "youtube",
       "youtube_gb_en_f": "youtube link",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=bZjf4HmmuZ4"
+    },
+    {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "Recuerda:",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png"
     },
     {
       "id": "practise_1",

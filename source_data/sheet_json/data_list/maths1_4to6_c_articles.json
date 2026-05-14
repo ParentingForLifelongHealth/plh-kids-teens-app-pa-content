@@ -15,7 +15,7 @@
       "category_id": "intro",
       "text_1_facilitator::eng": "Esta lección trata sobre cómo puedes empezar a enseñarle a @fields.child_name los números y las matemáticas. 1️⃣2️⃣3️⃣",
       "text_2::eng": "⭐ Aprender sobre números, figuras geométricas y grupos ayudará a @fields.child_name a entender las matemáticas básicas.\n\n🎓 Esto le preparará para tener aprovechamiento en la escuela y en la vida.",
-      "quiz_1_question::eng": "📝 Hagamos un ejercicio. Ejercicio 1 \n\n¿Dónde aprenden matemáticas las niñas y los niños?",
+      "quiz_1_question::eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\n¿Dónde aprenden matemáticas las niñas y los niños?",
       "quiz_1_option_1_text::eng": "En la escuela",
       "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n🌷  Las niñas y los niños no solo aprenden matemáticas en la escuela.\n\n💙 Pueden aprender matemáticas de muchas maneras, ¡y tú puedes ayudarles!",
       "quiz_1_option_2_text::eng": "Con sus amistades",
@@ -31,19 +31,21 @@
       "id": "practical_tips_1",
       "category_id": "practical_tips",
       "text_1_facilitator::eng": "Selecciona reproducir ▶️ para aprender tres estrategias que pueden ayudar a @fields.child_name a desarrollar habilidades matemáticas: Contar, Buscar Números y Aprender con Figuras Geométricas.\n\nRecuerda: ¡las matemáticas, los números, las cantidades y las figuras están en todas partes! 🔶🌷🔵\n\nPuedes usar lo que te rodea y tus rutinas diarias para conversar de matemáticas con @fields.child_name. ⏰ Esto le preparará para tener mejor aprovechamiento en la escuela y en la vida. ⭐",
-      "media_type": "video",
+      "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=eNrzki9EXW8",
       "youtube_gb_en_m": "https://youtu.be/NTO1g3pJeco"
     },
     {
       "id": "practical_tips_2",
       "category_id": "practical_tips",
-      "text_1_facilitator::eng": "Recuerda las tres estrategias para ayudar a @fields.child_name a desarrollar habilidades matemáticas."
+      "text_1_facilitator::eng": "Recuerda las tres estrategias para ayudar a @fields.child_name a desarrollar habilidades matemáticas.",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png"
     },
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "**¡Actividad para casa!** ⭐ \n\nIntenta involucrar a @fields.child_name en una actividad en donde tenga que usar números. Por ejemplo, contar la cantidad de ingredientes cuando estés cocinando.",
+      "text_1_facilitator::eng": "**Actividad para casa**⭐ \n\nIntenta involucrar a @fields.child_name en una actividad en donde tenga que usar números. Por ejemplo, contar la cantidad de ingredientes cuando estés cocinando.",
       "quiz_1_question::eng": "¿Puedes hacerlo hoy? ⭐",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "💙 ¡Muy bien! ¡Involucrar a @fields.child_name en actividades como esta y conversar sobre números y las cantidades de las cosas, le ayudará en su aprendizaje! 1️⃣2️⃣3️⃣",

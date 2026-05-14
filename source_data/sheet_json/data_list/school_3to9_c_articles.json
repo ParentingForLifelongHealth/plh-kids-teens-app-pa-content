@@ -15,7 +15,7 @@
       "category_id": "intro",
       "text_1_facilitator::eng": "Esta lección trata sobre construir una relación con la escuela de @fields.child_name y con sus maestras y maestros. 📖✨",
       "text_2::eng": "Conversar con las maestras y los maestros de @fields.child_name te ayudará a saber lo que @fields.child_name hace en la escuela. ⭐\n\n¡También sabrás qué tipo de cosas puedes hacer en casa con @fields.child_name para facilitar su aprendizaje y qué cosas puedes hacer tú para apoyar a @fields.child_name! 🎓",
-      "quiz_1_question::eng": "📝 Hagamos un ejercicio. Ejercicio 1 \n\nSaber lo que @fields.child_name hace en la escuela no le ayudará a aprender.",
+      "quiz_1_question::eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nSaber lo que @fields.child_name hace en la escuela no le ayudará a aprender.",
       "quiz_1_option_1_text::eng": "Verdadero",
       "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n💡 Si tienes una idea de lo que @fields.child_name está aprendiendo en la escuela, ¡podrás apoyarle a repasarlo y practicarlo en casa!",
       "quiz_1_option_2_text::eng": "Falso",
@@ -28,6 +28,13 @@
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=lX5S_l2c5zk",
       "youtube_gb_en_m": "https://youtu.be/7nY8lx2zubs"
+    },
+    {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "Recuerda:",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png"
     },
     {
       "id": "practise_1",

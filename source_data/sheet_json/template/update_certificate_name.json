@@ -76,7 +76,8 @@
     {
       "type": "text",
       "value": "n: @local.n_reprints_or_zero ",
-      "condition": false
+      "condition": false,
+      "exclude_from_translation": true
     },
     {
       "type": "button",
