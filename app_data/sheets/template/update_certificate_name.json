@@ -366,6 +366,7 @@
         "value": {}
       },
       "condition": false,
+      "exclude_from_translation": true,
       "name": "text_15",
       "_nested_name": "text_15",
       "_dynamicFields": {

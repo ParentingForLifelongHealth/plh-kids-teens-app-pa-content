@@ -82,7 +82,7 @@
           "eng": "Las niñas y los niños tienen capacidades diferentes en las distintas etapas de su desarrollo. 🌱\n\nEs importante conocer las habilidades de @fields.child_name en esta etapa de su desarrollo. ⚽\n\nEsto te ayudará a planificar sus actividades para que se ajusten a lo que puede hacer y también te ayuda a tener objetivos realistas. ✨"
         },
         "quiz_1_question": {
-          "eng": "¡Hagamos un ejercicio! Ejercicio 1.\n\nTodas las niñas y los niños se desarrollan a la misma velocidad."
+          "eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nTodas las niñas y los niños se desarrollan a la misma velocidad."
         },
         "quiz_1_option_1_text": {
           "eng": "Verdadero"
@@ -97,7 +97,7 @@
           "eng": "🌷 ¡Muy bien!\n\n✨ @fields.child_name probablemente se sienta muy mal por haber cometido un error.\nFelicítalo por haberse disculpado y demuéstrale que te da mucho orgullo que se haya dado cuenta y que haya pedido perdón. 💙\n\n😔 Si @fields.child_name no siente tu apoyo, puede que tenga la tentación de ocultarte sus errores por miedo."
         },
         "quiz_2_question": {
-          "eng": "Ejercicio 2: Está bien dejar que @fields.child_name siga intentando hacer algo unas cuantas veces aunque no lo haga correctamente."
+          "eng": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\nEstá bien dejar que @fields.child_name siga intentando hacer algo unas cuantas veces aunque no lo haga correctamente."
         },
         "quiz_2_option_1_text": {
           "eng": "Verdadero"
@@ -128,12 +128,12 @@
         "quiz_2_feedback_2": {}
       },
       "quiz_1_feedback_2": "🌷 ¡Muy bien!\n\n✨ @fields.child_name probablemente se sienta muy mal por haber cometido un error.\nFelicítalo por haberse disculpado y demuéstrale que te da mucho orgullo que se haya dado cuenta y que haya pedido perdón. 💙\n\n😔 Si @fields.child_name no siente tu apoyo, puede que tenga la tentación de ocultarte sus errores por miedo.",
-      "quiz_1_question": "¡Hagamos un ejercicio! Ejercicio 1.\n\nTodas las niñas y los niños se desarrollan a la misma velocidad.",
+      "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nTodas las niñas y los niños se desarrollan a la misma velocidad.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
       "text_1_facilitator": "La lección de hoy trata sobre cómo favorecer el desarrollo saludable de @fields.child_name a medida que crece y va cambiando. ✨",
       "text_2": "Las niñas y los niños tienen capacidades diferentes en las distintas etapas de su desarrollo. 🌱\n\nEs importante conocer las habilidades de @fields.child_name en esta etapa de su desarrollo. ⚽\n\nEsto te ayudará a planificar sus actividades para que se ajusten a lo que puede hacer y también te ayuda a tener objetivos realistas. ✨",
-      "quiz_2_question": "Ejercicio 2: Está bien dejar que @fields.child_name siga intentando hacer algo unas cuantas veces aunque no lo haga correctamente.",
+      "quiz_2_question": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\nEstá bien dejar que @fields.child_name siga intentando hacer algo unas cuantas veces aunque no lo haga correctamente.",
       "quiz_2_option_1_text": "Verdadero",
       "quiz_2_feedback_1": "✨ ¡Estás en lo correcto!\n\n🚲 @fields.child_name quiere aprender y debemos darle nuestro apoyo para que lo siga intentando aún cuando se equivoque.\n\n⭐ *_¡Felicítalo por persistir! @fields.child_name sentirá el apoyo. El esfuerzo es más importante que dominar una habilidad._*",
       "quiz_2_option_2_text": "Falso",
@@ -262,6 +262,8 @@
       "_translations": {
         "text_1_facilitator": {}
       },
+      "section_1_icon_asset": "images/icons/balance_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png",
       "completed": false
     },
     {
@@ -270,7 +272,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de @fields.child_name. Para empezar, escribe {CRECER}."
+          "eng": "**Actividad para casa**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de @fields.child_name. Para empezar, escribe {CRECER}."
         },
         "quiz_1_question": {
           "eng": "¿Puedes completar la evaluación hoy? ⭐"
@@ -301,7 +303,7 @@
       "quiz_1_question": "¿Puedes completar la evaluación hoy? ⭐",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**_Actividad para casa_**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de @fields.child_name. Para empezar, escribe {CRECER}.",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de @fields.child_name. Para empezar, escribe {CRECER}.",
       "completed": false
     }
   ],

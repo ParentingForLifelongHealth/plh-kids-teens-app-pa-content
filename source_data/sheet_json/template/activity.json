@@ -157,19 +157,19 @@
     },
     {
       "name": "resources_title",
-      "value": "What you need"
+      "value": "@global.resources_title"
     },
     {
       "name": "steps_title",
-      "value": "Steps"
+      "value": "@global.steps_title"
     },
     {
       "name": "tips_title",
-      "value": "More tips"
+      "value": "@global.tips_title"
     },
     {
       "name": "extension_title",
-      "value": "Try also"
+      "value": "@global.extension_title"
     },
     {
       "type": "begin_accordion"

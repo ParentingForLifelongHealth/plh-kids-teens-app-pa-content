@@ -130,10 +130,26 @@
       }
     },
     {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "nested": false,
+      "text_1_facilitator": "Recuerda:",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Recuerda:"
+        }
+      }
+    },
+    {
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "**¡Actividad para casa!**⭐\n\nDedícale 15 minutos a tu adolescente para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana.",
+      "text_1_facilitator": "**Actividad para casa**⭐\n\nDedícale 15 minutos a tu adolescente para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -144,7 +160,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**¡Actividad para casa!**⭐\n\nDedícale 15 minutos a tu adolescente para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana."
+          "eng": "**Actividad para casa**⭐\n\nDedícale 15 minutos a tu adolescente para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"

@@ -15,12 +15,12 @@
       "category_id": "intro",
       "text_1_facilitator::eng": "Esta lección trata sobre acordar reglas en familia.⏰⭐",
       "text_2::eng": "Las reglas familiares pueden ayudar a nuestras niñas, niños o adolescentes a mantenerse a salvo del peligro dentro de nuestras casas y en la comunidad. 🌷 \n\nEs más probable que tu niña, niño o adolescente siga estas reglas si se involucra en hacerlas. ⭐",
-      "quiz_1_question::eng": "¡Hagamos un ejercicio!\n\nEjercicio 1. \n\nSólo las personas cuidadoras deben establecer reglas en el hogar porque nuestras niñas, niños o adolescentes son demasiado jóvenes para ayuda a tomar decisiones por sí mismos.",
+      "quiz_1_question::eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nSólo las personas cuidadoras deben establecer reglas en el hogar porque nuestras niñas, niños o adolescentes son demasiado jóvenes para ayuda a tomar decisiones por sí mismos.",
       "quiz_1_option_1_text::eng": "Verdadero",
       "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n📝Incluir a las niñas y los niños en la conversación  sobre las reglas en el hogar  les ayuda a sentir que se les aprecia y escucha.\n\n⏰ Es más probable que sigan las reglas si han participado en su elaboración.",
       "quiz_1_option_2_text::eng": "Falso",
       "quiz_1_feedback_2::eng": "🎉 ¡Buen trabajo!\n\n📝Incluir a las niñas y los niños en la conversación  sobre las reglas en el hogar  les ayuda a sentir que se les aprecia y escucha. \n\n⏰ Es más probable que sigan las reglas si han participado en su elaboración. ",
-      "quiz_2_question::eng": "¡Hagamos un ejercicio más!\n\nEjercicio 2: Poner límites a través de reglas en casa, rutinas diarias y un estilo de vida sano es malo para tu niña, niño o adolescente porque no le permite pensar por su cuenta.",
+      "quiz_2_question::eng": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\nPoner límites a través de reglas en casa, rutinas diarias y un estilo de vida sano es malo para tu niña, niño o adolescente porque no le permite pensar por su cuenta.",
       "quiz_2_option_1_text::eng": "Verdadero",
       "quiz_2_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n💚 *_Establecer límites razonables con tu niña o niño, es una buena forma de disciplina efectiva._* \n\n🧸 No estás controlando a tu niña o niño demasiado.  \n\n🌷 Le estás dando a tu niña o niño una estructura para mantener una relación sana y llena de amor entre ustedes para poder explorar el mundo con seguridad.",
       "quiz_2_option_2_text::eng": "Falso",
@@ -74,12 +74,14 @@
     {
       "id": "practical_tips_2",
       "category_id": "practical_tips",
-      "text_1_facilitator::eng": "4️⃣ Recuerda las cuatro estrategias sencillas que te ayudarán a establecer reglas familiares con @fields.child_name"
+      "text_1_facilitator::eng": "4️⃣ Recuerda las cuatro estrategias sencillas que te ayudarán a establecer reglas familiares con @fields.child_name",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png"
     },
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "**¡Actividad para casa!** ⭐  \n\nCrea una regla familiar con @fields.child_name hoy. 🏆",
+      "text_1_facilitator::eng": "**Actividad para casa** ⭐  \n\nCrea una regla familiar con @fields.child_name hoy. 🏆",
       "quiz_1_question::eng": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Es muy bueno escucharlo! Crea una regla familiar con @fields.child_name hoy. Recuerda, *_cuando implicas a @fields.child_name en la creación de reglas, es más probable que las siga. ¡Es una receta para el éxito!_* 🏆",

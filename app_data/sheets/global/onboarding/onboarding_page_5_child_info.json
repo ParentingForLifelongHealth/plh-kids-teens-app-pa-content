@@ -75,6 +75,22 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "family_relation",
+      "value": "¿Cuál es tu relación con tu niña, niño o adolescente?",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_family_relation",
+      "value": "Selecciona una opción",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_source": {

@@ -78,11 +78,8 @@
         "text_1_facilitator": {
           "eng": "En esta lección vamos a aprender más sobre cómo ayudar a @fields.child_name para que mejore en la lectura a través de los juegos de palabras y la escritura. 📝\n\nAprender a leer empieza con la noción del lenguaje, las letras y los sonidos. 🎵\n\nEntender los sonidos de las palabras y empezar a escribir las letras ayudará a @fields.child_name a aprender a leer. 📖⭐"
         },
-        "text_2": {
-          "eng": "¡Hagamos un ejercicio!📝"
-        },
         "quiz_1_question": {
-          "eng": "Deberías comenzar a leer libros con @fields.child_name solamente cuando ya haya empezado a aprender a leer en la escuela."
+          "eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nDeberías comenzar a leer libros con @fields.child_name solamente cuando ya haya empezado a aprender a leer en la escuela."
         },
         "quiz_1_option_1_text": {
           "eng": "Verdadero"
@@ -104,15 +101,13 @@
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {}
       },
       "quiz_1_feedback_2": "🎉 Estás en lo correcto.\n\n⭐ Madres, padres y personas cuidadoras deberían leer con sus niñas o niños desde una edad temprana. De hecho, ¡puedes empezar desde que nacen!\n\n🏆 Leer con @fields.child_name es una forma estupenda de prepararle para el aprovechamiento escolar y de establecer una relación llena de afecto y cariño.",
-      "quiz_1_question": "Deberías comenzar a leer libros con @fields.child_name solamente cuando ya haya empezado a aprender a leer en la escuela.",
+      "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nDeberías comenzar a leer libros con @fields.child_name solamente cuando ya haya empezado a aprender a leer en la escuela.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
       "text_1_facilitator": "En esta lección vamos a aprender más sobre cómo ayudar a @fields.child_name para que mejore en la lectura a través de los juegos de palabras y la escritura. 📝\n\nAprender a leer empieza con la noción del lenguaje, las letras y los sonidos. 🎵\n\nEntender los sonidos de las palabras y empezar a escribir las letras ayudará a @fields.child_name a aprender a leer. 📖⭐",
-      "text_2": "¡Hagamos un ejercicio!📝",
       "completed": false
     },
     {
@@ -130,6 +125,7 @@
         "text_1_facilitator": {}
       },
       "youtube_gb_en_f": "youtube link",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
       "completed": false
     },
     {
@@ -197,7 +193,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa**\n\nDurante su tiempo juntos y conectados, ayuda a @fields.child_name a dibujar o escribir para practicar ✍️"
+          "eng": "**Actividad para casa**⭐ \n\nDurante su tiempo juntos y conectados, ayuda a @fields.child_name a dibujar o escribir para practicar ✍️"
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy?"
@@ -228,7 +224,7 @@
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**Actividad para casa**\n\nDurante su tiempo juntos y conectados, ayuda a @fields.child_name a dibujar o escribir para practicar ✍️",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nDurante su tiempo juntos y conectados, ayuda a @fields.child_name a dibujar o escribir para practicar ✍️",
       "completed": false
     }
   ],

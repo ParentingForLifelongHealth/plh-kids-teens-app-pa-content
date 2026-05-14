@@ -82,7 +82,7 @@
           "eng": "👂Es normal sentir ansiedad de vez en cuando. Puede ayudarnos a estar en alerta y a actuar con cautela. Sin embargo, a veces la ansiedad puede durar mucho tiempo o hacerse demasiado grande, afectando tu vida diaria o la de @fields.child_name.  \n\n💡 Cuando la ansiedad empieza a afectar la vida cotidiana, puede convertirse en un problema que requiere de apoyo adicional. \n\n✨ Saber regular los sentimientos de ansiedad te ayudará a ti y también a tu adolescente a sentir que tienen más control sobre la situación y a estar más a gusto con ustedes mismos o mismas."
         },
         "quiz_1_question": {
-          "eng": "📝 ¡Hagamos un ejercicio!\n\nEjercicio 1: @fields.child_name no debe de sentir ansiedad por nada."
+          "eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\n@fields.child_name no debe de sentir ansiedad por nada."
         },
         "quiz_1_option_1_text": {
           "eng": "Verdadero"
@@ -97,19 +97,19 @@
           "eng": "✨ ¡Tienes razón!\n\nEs normal que @fields.child_name sienta ansiedad de vez en cuando. Puede ayudarle a estar alerta y a prepararse para las cosas que puedan salir mal.  \n\n🔴 La ansiedad se convierte en algo perjudicial cuando le afecta en su día a día."
         },
         "quiz_2_question": {
-          "eng": "Ejercicio 2. \n\nSi @fields.child_name experimenta ansiedad, no hay nada que podamos hacer."
+          "eng": "📝 **¡Un ejercicio más!**\n\n_Ejercicio no.2_ \n\nSi @fields.child_name experimenta ansiedad, no hay nada que podamos hacer."
         },
         "quiz_2_option_1_text": {
           "eng": "Verdadero"
         },
         "quiz_2_feedback_1": {
-          "eng": "👀 ¡Ups! ¡Buen intento!\n\n⏸ La ansiedad puede desaparecer por sí sola, pero a veces se puede requerir del apoyo de familiares, amistades o profesionales capacitados. En esta lección, encontrarás estrategias para regular los sentimientos de ansiedad.  \n\n❗Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con  @fields.child_name, puedes hacer enviar a palabra *_AYUDA_* para recibir una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo."
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n⏸ La ansiedad puede desaparecer por sí sola, pero a veces se puede requerir del apoyo de familiares, amistades o profesionales capacitados. En esta lección, encontrarás estrategias para regular los sentimientos de ansiedad.  \n\n❗Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con  @fields.child_name, puedes ir a la biblioteca de la aplicación, en donde encontrarás una lista de recursos telefónicos y vía chat donde puedes pedir apoyo."
         },
         "quiz_2_option_2_text": {
           "eng": "Falso"
         },
         "quiz_2_feedback_2": {
-          "eng": "🎉 ¡Es correcto!\n\n⏸ La ansiedad puede desaparecer por sí sola, pero a veces se puede requerir del apoyo de familiares, amistades o profesionales capacitados. En esta lección, encontrarás estrategias para regular los sentimientos de ansiedad.  \n\n❗Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con  @fields.child_name, puedes hacer enviar a palabra *_AYUDA_* para recibir una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo."
+          "eng": "🎉 ¡Es correcto!\n\n⏸ La ansiedad puede desaparecer por sí sola, pero a veces se puede requerir del apoyo de familiares, amistades o profesionales capacitados. En esta lección, encontrarás estrategias para regular los sentimientos de ansiedad.  \n\n❗Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con  @fields.child_name, puedes ir a la biblioteca de la aplicación, en donde encontrarás una lista de recursos telefónicos y vía chat donde puedes pedir apoyo."
         }
       },
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\nEs normal que @fields.child_name sienta ansiedad de vez en cuando. Puede ayudarle a estar alerta y a prepararse para las cosas que puedan salir mal.  \n\n🔴 La ansiedad se convierte en algo perjudicial cuando le afecta en su día a día.",
@@ -128,16 +128,16 @@
         "quiz_2_feedback_2": {}
       },
       "quiz_1_feedback_2": "✨ ¡Tienes razón!\n\nEs normal que @fields.child_name sienta ansiedad de vez en cuando. Puede ayudarle a estar alerta y a prepararse para las cosas que puedan salir mal.  \n\n🔴 La ansiedad se convierte en algo perjudicial cuando le afecta en su día a día.",
-      "quiz_1_question": "📝 ¡Hagamos un ejercicio!\n\nEjercicio 1: @fields.child_name no debe de sentir ansiedad por nada.",
+      "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\n@fields.child_name no debe de sentir ansiedad por nada.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
       "text_1_facilitator": "⚽ En la lección de hoy, conversaremos sobre cómo detectar en qué momento la ansiedad empieza a causar molestias con la vida cotidiana.",
       "text_2": "👂Es normal sentir ansiedad de vez en cuando. Puede ayudarnos a estar en alerta y a actuar con cautela. Sin embargo, a veces la ansiedad puede durar mucho tiempo o hacerse demasiado grande, afectando tu vida diaria o la de @fields.child_name.  \n\n💡 Cuando la ansiedad empieza a afectar la vida cotidiana, puede convertirse en un problema que requiere de apoyo adicional. \n\n✨ Saber regular los sentimientos de ansiedad te ayudará a ti y también a tu adolescente a sentir que tienen más control sobre la situación y a estar más a gusto con ustedes mismos o mismas.",
-      "quiz_2_question": "Ejercicio 2. \n\nSi @fields.child_name experimenta ansiedad, no hay nada que podamos hacer.",
+      "quiz_2_question": "📝 **¡Un ejercicio más!**\n\n_Ejercicio no.2_ \n\nSi @fields.child_name experimenta ansiedad, no hay nada que podamos hacer.",
       "quiz_2_option_1_text": "Verdadero",
-      "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n⏸ La ansiedad puede desaparecer por sí sola, pero a veces se puede requerir del apoyo de familiares, amistades o profesionales capacitados. En esta lección, encontrarás estrategias para regular los sentimientos de ansiedad.  \n\n❗Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con  @fields.child_name, puedes hacer enviar a palabra *_AYUDA_* para recibir una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo.",
+      "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n⏸ La ansiedad puede desaparecer por sí sola, pero a veces se puede requerir del apoyo de familiares, amistades o profesionales capacitados. En esta lección, encontrarás estrategias para regular los sentimientos de ansiedad.  \n\n❗Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con  @fields.child_name, puedes ir a la biblioteca de la aplicación, en donde encontrarás una lista de recursos telefónicos y vía chat donde puedes pedir apoyo.",
       "quiz_2_option_2_text": "Falso",
-      "quiz_2_feedback_2": "🎉 ¡Es correcto!\n\n⏸ La ansiedad puede desaparecer por sí sola, pero a veces se puede requerir del apoyo de familiares, amistades o profesionales capacitados. En esta lección, encontrarás estrategias para regular los sentimientos de ansiedad.  \n\n❗Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con  @fields.child_name, puedes hacer enviar a palabra *_AYUDA_* para recibir una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo.",
+      "quiz_2_feedback_2": "🎉 ¡Es correcto!\n\n⏸ La ansiedad puede desaparecer por sí sola, pero a veces se puede requerir del apoyo de familiares, amistades o profesionales capacitados. En esta lección, encontrarás estrategias para regular los sentimientos de ansiedad.  \n\n❗Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con  @fields.child_name, puedes ir a la biblioteca de la aplicación, en donde encontrarás una lista de recursos telefónicos y vía chat donde puedes pedir apoyo.",
       "completed": false
     },
     {
@@ -320,12 +320,29 @@
       "completed": false
     },
     {
+      "id": "practical_tips_2",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Recuerda:"
+        }
+      },
+      "text_1_facilitator": "Recuerda:",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "section_1_icon_asset": "images/icons/balance_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "completed": false
+    },
+    {
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**_Actividad para casa_**⭐   \n\n💡 Prueba la actividad de 5-4-3-2-1 cuando te encuentres en una situación que te genere estrés esta semana. ¡Enséñasela a @fields.child_name también!"
+          "eng": "**Actividad para casa**⭐   \n\n💡 Prueba la actividad de 5-4-3-2-1 cuando te encuentres en una situación que te genere estrés esta semana. ¡Enséñasela a @fields.child_name también!"
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy?"
@@ -334,16 +351,16 @@
           "eng": "Sí"
         },
         "quiz_1_feedback_1": {
-          "eng": "¡Estupendo! ⭐ Usar estas estrategias que has aprendido para afrontar la preocupación excesiva realmente hace la diferencia. ¡Sigue así! \n\nRecuerda escribir {AYUDA} para obtener recursos de apoyo al terminar la lección, ya sean para ti o para @fields.child_name, por ejemplo:\n\n1️⃣ Es difícil controlar los sentimientos de preocupación.\n2️⃣ Si los sentimientos de preocupación no te dejan enfocarte en tus actividades cotidianas.\n3️⃣ Ya no disfrutas de las cosas que solías hacer antes porque sientes mucha preocupación."
+          "eng": "¡Estupendo! ⭐ Usar estas estrategias que has aprendido para afrontar la preocupación excesiva realmente hace la diferencia. ¡Sigue así! \n\nRecuerda que puedes ir a la biblioteca de la aplicación, en donde encontrarás recursos de apoyo al terminar la lección, ya sean para ti o para @fields.child_name, por ejemplo:\n\n1️⃣ Es difícil controlar los sentimientos de preocupación.\n2️⃣ Si los sentimientos de preocupación no te dejan enfocarte en tus actividades cotidianas.\n3️⃣ Ya no disfrutas de las cosas que solías hacer antes porque sientes mucha preocupación."
         },
         "quiz_1_option_2_text": {
           "eng": "No"
         },
         "quiz_1_feedback_2": {
-          "eng": "¡Está bien!⭐ Puedes practicar en otro momento cuando tengas más tranquilidad y mayor comodidad. Utilizar las estrategias que has aprendido para afrontar los sentimientos de preocupación puede hacer una gran diferencia. ¡Sigue así!\n\nRecuerda escribir {AYUDA} para obtener recursos de apoyo al terminar la lección, ya sean para ti o para @fields.child_name, por ejemplo:\n\n1️⃣ Es difícil controlar los sentimientos de preocupación.\n2️⃣ Si los sentimientos de preocupación no te dejan enfocarte en tus actividades cotidianas.\n3️⃣ Ya no disfrutas de las cosas que solías hacer antes porque sientes mucha preocupación."
+          "eng": "¡Está bien!⭐ Puedes practicar en otro momento cuando tengas más tranquilidad y mayor comodidad. Utilizar las estrategias que has aprendido para afrontar los sentimientos de preocupación puede hacer una gran diferencia. ¡Sigue así!\n\nRecuerda que puedes ir a la biblioteca de la aplicación, en donde encontrarás recursos de apoyo al terminar la lección, ya sean para ti o para @fields.child_name, por ejemplo:\n\n1️⃣ Es difícil controlar los sentimientos de preocupación.\n2️⃣ Si los sentimientos de preocupación no te dejan enfocarte en tus actividades cotidianas.\n3️⃣ Ya no disfrutas de las cosas que solías hacer antes porque sientes mucha preocupación."
         }
       },
-      "quiz_1_feedback_1": "¡Estupendo! ⭐ Usar estas estrategias que has aprendido para afrontar la preocupación excesiva realmente hace la diferencia. ¡Sigue así! \n\nRecuerda escribir {AYUDA} para obtener recursos de apoyo al terminar la lección, ya sean para ti o para @fields.child_name, por ejemplo:\n\n1️⃣ Es difícil controlar los sentimientos de preocupación.\n2️⃣ Si los sentimientos de preocupación no te dejan enfocarte en tus actividades cotidianas.\n3️⃣ Ya no disfrutas de las cosas que solías hacer antes porque sientes mucha preocupación.",
+      "quiz_1_feedback_1": "¡Estupendo! ⭐ Usar estas estrategias que has aprendido para afrontar la preocupación excesiva realmente hace la diferencia. ¡Sigue así! \n\nRecuerda que puedes ir a la biblioteca de la aplicación, en donde encontrarás recursos de apoyo al terminar la lección, ya sean para ti o para @fields.child_name, por ejemplo:\n\n1️⃣ Es difícil controlar los sentimientos de preocupación.\n2️⃣ Si los sentimientos de preocupación no te dejan enfocarte en tus actividades cotidianas.\n3️⃣ Ya no disfrutas de las cosas que solías hacer antes porque sientes mucha preocupación.",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
@@ -352,11 +369,11 @@
         "quiz_1_option_2_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "¡Está bien!⭐ Puedes practicar en otro momento cuando tengas más tranquilidad y mayor comodidad. Utilizar las estrategias que has aprendido para afrontar los sentimientos de preocupación puede hacer una gran diferencia. ¡Sigue así!\n\nRecuerda escribir {AYUDA} para obtener recursos de apoyo al terminar la lección, ya sean para ti o para @fields.child_name, por ejemplo:\n\n1️⃣ Es difícil controlar los sentimientos de preocupación.\n2️⃣ Si los sentimientos de preocupación no te dejan enfocarte en tus actividades cotidianas.\n3️⃣ Ya no disfrutas de las cosas que solías hacer antes porque sientes mucha preocupación.",
+      "quiz_1_feedback_2": "¡Está bien!⭐ Puedes practicar en otro momento cuando tengas más tranquilidad y mayor comodidad. Utilizar las estrategias que has aprendido para afrontar los sentimientos de preocupación puede hacer una gran diferencia. ¡Sigue así!\n\nRecuerda que puedes ir a la biblioteca de la aplicación, en donde encontrarás recursos de apoyo al terminar la lección, ya sean para ti o para @fields.child_name, por ejemplo:\n\n1️⃣ Es difícil controlar los sentimientos de preocupación.\n2️⃣ Si los sentimientos de preocupación no te dejan enfocarte en tus actividades cotidianas.\n3️⃣ Ya no disfrutas de las cosas que solías hacer antes porque sientes mucha preocupación.",
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**_Actividad para casa_**⭐   \n\n💡 Prueba la actividad de 5-4-3-2-1 cuando te encuentres en una situación que te genere estrés esta semana. ¡Enséñasela a @fields.child_name también!",
+      "text_1_facilitator": "**Actividad para casa**⭐   \n\n💡 Prueba la actividad de 5-4-3-2-1 cuando te encuentres en una situación que te genere estrés esta semana. ¡Enséñasela a @fields.child_name también!",
       "completed": false
     }
   ],

@@ -20,6 +20,9 @@
       "value": "Escribe tu nombre"
     },
     {
+      "value": " ¿Cuántos años tienes?"
+    },
+    {
       "type": "declare_global_constant",
       "name": "question_user_gender",
       "value": "¿Con qué género te identificas?"

@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 104
+        "count": 102
       },
       {
         "type": "combo_box",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3823
+        "count": 3899
       },
       {
         "type": "simple_checkbox",
@@ -139,7 +139,7 @@
       },
       {
         "type": "template",
-        "count": 1182
+        "count": 1220
       },
       {
         "type": "text",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 789
+        "count": 827
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 806
+        "count": 844
       },
       {
         "type": "feedback",
@@ -227,7 +227,7 @@
       },
       {
         "type": "go_to",
-        "count": 19
+        "count": 18
       },
       {
         "type": "nav_stack",
@@ -259,7 +259,7 @@
       },
       {
         "type": "set_field",
-        "count": 152
+        "count": 153
       },
       {
         "type": "set_item",
@@ -291,13 +291,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "72870 KB",
-        "MB": "72.9 MB"
+        "KB": "64301 KB",
+        "MB": "64.3 MB"
       },
       {
         "assets": "unused",
-        "KB": "16363 KB",
-        "MB": "16.4 MB"
+        "KB": "25405 KB",
+        "MB": "25.4 MB"
       }
     ]
   },
@@ -376,12 +376,12 @@
         "size_kb": 134.2
       },
       {
-        "path": "images/character_icons/ANGELA_comic.svg",
-        "size_kb": 909.5
+        "path": "images/character_icons/ANGELA_facilitator.svg",
+        "size_kb": 9477.2
       },
       {
-        "path": "images/character_icons/ANGEL_comic.svg",
-        "size_kb": 910.1
+        "path": "images/character_icons/ANGEL_facilitator.svg",
+        "size_kb": 921.4
       },
       {
         "path": "images/comic/safe/com_safety_2to4_yc_1.svg",
@@ -644,6 +644,10 @@
         "size_kb": 7857.1
       },
       {
+        "path": "images/facilitators/Presenters illustrations.pdf",
+        "size_kb": 473
+      },
+      {
         "path": "images/flags/gb.svg",
         "size_kb": 0.5
       },
@@ -744,14 +748,6 @@
         "size_kb": 0.9
       },
       {
-        "path": "images/icons/parent_child.svg",
-        "size_kb": 2
-      },
-      {
-        "path": "images/icons/parent_child_heart.svg",
-        "size_kb": 3
-      },
-      {
         "path": "images/icons/pause_white.svg",
         "size_kb": 0.7
       },
@@ -790,10 +786,6 @@
       {
         "path": "images/icons/tick_white.svg",
         "size_kb": 0.3
-      },
-      {
-        "path": "images/icons/trophy_blue.png",
-        "size_kb": 5.1
       },
       {
         "path": "images/icons/trophy_footer.svg",
@@ -957,6 +949,16 @@
       },
       {
         "path": "images/homescreen/i_routines_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/icons/diamond_blue.svg",
+        "count": 4,
+        "missing": true
+      },
+      {
+        "path": "images/icons/picture_blue.svg",
         "count": 2,
         "missing": true
       },
@@ -1485,14 +1487,14 @@
         "size_kb": 1412.5
       },
       {
-        "path": "images/character_icons/ANGELA_facilitator.svg",
+        "path": "images/character_icons/ANGELA_comic.svg",
         "count": 3,
-        "size_kb": 9477.2
+        "size_kb": 909.5
       },
       {
-        "path": "images/character_icons/ANGEL_facilitator.svg",
+        "path": "images/character_icons/ANGEL_comic.svg",
         "count": 3,
-        "size_kb": 921.4
+        "size_kb": 910.1
       },
       {
         "path": "images/character_icons/F1_HIJA_13.svg",
@@ -2761,12 +2763,12 @@
       },
       {
         "path": "images/icons/balance_blue.png",
-        "count": 2,
+        "count": 168,
         "size_kb": 4.7
       },
       {
         "path": "images/icons/brain_blue.png",
-        "count": 2,
+        "count": 4,
         "size_kb": 5.2
       },
       {
@@ -2781,7 +2783,7 @@
       },
       {
         "path": "images/icons/clock_blue.png",
-        "count": 6,
+        "count": 12,
         "size_kb": 4.5
       },
       {
@@ -2831,7 +2833,7 @@
       },
       {
         "path": "images/icons/eye_blue.png",
-        "count": 4,
+        "count": 10,
         "size_kb": 4.2
       },
       {
@@ -2866,7 +2868,7 @@
       },
       {
         "path": "images/icons/football_blue.png",
-        "count": 2,
+        "count": 4,
         "size_kb": 5.1
       },
       {
@@ -2901,7 +2903,7 @@
       },
       {
         "path": "images/icons/heart_filled_blue.png",
-        "count": 8,
+        "count": 16,
         "size_kb": 4.9
       },
       {
@@ -2921,7 +2923,7 @@
       },
       {
         "path": "images/icons/home_active.svg",
-        "count": 1,
+        "count": 3,
         "size_kb": 0.4
       },
       {
@@ -2941,7 +2943,7 @@
       },
       {
         "path": "images/icons/lightbulb_blue.png",
-        "count": 4,
+        "count": 10,
         "size_kb": 3.6
       },
       {
@@ -2985,8 +2987,18 @@
         "size_kb": 0.9
       },
       {
+        "path": "images/icons/parent_child.svg",
+        "count": 2,
+        "size_kb": 2
+      },
+      {
+        "path": "images/icons/parent_child_heart.svg",
+        "count": 78,
+        "size_kb": 3
+      },
+      {
         "path": "images/icons/pause.svg",
-        "count": 76,
+        "count": 78,
         "size_kb": 0.7
       },
       {
@@ -3031,27 +3043,27 @@
       },
       {
         "path": "images/icons/single_speech_blue.png",
-        "count": 4,
+        "count": 8,
         "size_kb": 3.3
       },
       {
         "path": "images/icons/smile_eyes_down.svg",
-        "count": 78,
+        "count": 80,
         "size_kb": 0.9
       },
       {
         "path": "images/icons/smile_eyes_up.svg",
-        "count": 152,
+        "count": 154,
         "size_kb": 1
       },
       {
         "path": "images/icons/speech_bubble_blue.png",
-        "count": 4,
+        "count": 12,
         "size_kb": 4.2
       },
       {
         "path": "images/icons/star_filled_blue.png",
-        "count": 6,
+        "count": 14,
         "size_kb": 5.1
       },
       {
@@ -3066,7 +3078,7 @@
       },
       {
         "path": "images/icons/tick.svg",
-        "count": 1,
+        "count": 3,
         "size_kb": 0.3
       },
       {
@@ -3078,6 +3090,11 @@
         "path": "images/icons/trophy_active.png",
         "count": 1,
         "size_kb": 1.7
+      },
+      {
+        "path": "images/icons/trophy_blue.png",
+        "count": 4,
+        "size_kb": 5.1
       },
       {
         "path": "images/icons/trophy_large.svg",
@@ -3166,7 +3183,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 16
+        "total": 17
       },
       {
         "type": "data_list",
@@ -3536,7 +3553,7 @@
       {
         "type": "global",
         "subtype": null,
-        "total": 6
+        "total": 7
       },
       {
         "type": "global",
@@ -3556,7 +3573,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 921
+        "total": 959
       },
       {
         "type": "template",

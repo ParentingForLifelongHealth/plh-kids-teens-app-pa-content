@@ -28,7 +28,7 @@
           "eng": "Si @fields.child_name siente amor y apoyo en casa, ¡es más probable que haga las actividades del hogar con alegría y que se convierta en una niña o niño sano, y, eventualmente, en una persona adulta sana! 😃💚"
         },
         "quiz_1_question": {
-          "eng": "¡Hagamos un ejercicio!\n\nEjercicio 1.\n\nSi cometo un error o hago algo que moleste a mi niña, niño o adolescente, debo fingir que no ha pasado nada, sonreírle y hacer una actividad más positiva con ella o él."
+          "eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nSi cometo un error o hago algo que moleste a mi niña, niño o adolescente, debo fingir que no ha pasado nada, sonreírle y hacer una actividad más positiva con ella o él."
         },
         "quiz_1_option_1_text": {
           "eng": "Verdadero"
@@ -44,7 +44,7 @@
         }
       },
       "text_2": "Si @fields.child_name siente amor y apoyo en casa, ¡es más probable que haga las actividades del hogar con alegría y que se convierta en una niña o niño sano, y, eventualmente, en una persona adulta sana! 😃💚",
-      "quiz_1_question": "¡Hagamos un ejercicio!\n\nEjercicio 1.\n\nSi cometo un error o hago algo que moleste a mi niña, niño o adolescente, debo fingir que no ha pasado nada, sonreírle y hacer una actividad más positiva con ella o él.",
+      "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nSi cometo un error o hago algo que moleste a mi niña, niño o adolescente, debo fingir que no ha pasado nada, sonreírle y hacer una actividad más positiva con ella o él.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n💛 *_Admitir nuestros errores y disculparnos les enseña a respetar a los demás y que a veces está bien equivocarse._*\n\n❗ Ignorar un error cuando afecta a tu niña o niño le enseña que no necesita responsabilizarse de sus actos.",
       "quiz_1_option_2_text": "Falso",
@@ -64,6 +64,22 @@
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Selecciona reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como la persona cuidadora de tus niñas y niños y a enseñarles también el suyo:\n\n1️⃣ **CONOCER TU ROL**\n2️⃣ **ENSEÑAR**\n3️⃣ **ENSEÑAR CON EL EJEMPLO**\n4️⃣ **NOTAR**"
+        }
+      }
+    },
+    {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "nested": false,
+      "text_1_facilitator": "Recuerda:",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Recuerda:"
         }
       }
     },

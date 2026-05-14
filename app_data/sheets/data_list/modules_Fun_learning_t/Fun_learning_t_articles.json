@@ -117,10 +117,26 @@
       }
     },
     {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "nested": false,
+      "text_1_facilitator": "Recuerda:",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Recuerda:"
+        }
+      }
+    },
+    {
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "**¡Actividad para casa!** ⭐ \n\nInvita a @fields.child_name a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar fútbol, saltar o salir a correr. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando.",
+      "text_1_facilitator": "**Actividad para casa** ⭐ \n\nInvita a @fields.child_name a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar fútbol, saltar o salir a correr. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -131,7 +147,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**¡Actividad para casa!** ⭐ \n\nInvita a @fields.child_name a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar fútbol, saltar o salir a correr. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando."
+          "eng": "**Actividad para casa** ⭐ \n\nInvita a @fields.child_name a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar fútbol, saltar o salir a correr. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"

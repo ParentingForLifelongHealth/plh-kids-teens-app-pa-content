@@ -82,7 +82,7 @@
           "eng": "Empecemos con un ejercicio 📝"
         },
         "quiz_1_question": {
-          "eng": "Cualquier niña o niño, independientemente de su crecimiento, puede aprender y desarrollar habilidades."
+          "eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nCualquier niña o niño, independientemente de su crecimiento, puede aprender y desarrollar habilidades."
         },
         "quiz_1_option_1_text": {
           "eng": "Verdadero"
@@ -97,7 +97,7 @@
           "eng": "👀 ¡Ups! ¡Buen intento!\n\n🎉 Las niñas y los niños, independientemente de su crecimiento, son capaces de aprender y desarrollar habilidades, ya que se encuentran en un proceso de formación constante lo que les permite adquirir toda información que se les brinde \n\n🔑 Cada niña o niño es diferente. Aprenden a ritmos distintos y las cosas que pueden hacer van cambiando con su edad."
         },
         "quiz_2_question": {
-          "eng": "Conversarle a tu niña o niño es lo mismo que mantener una conversación."
+          "eng": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\nConversarle a tu niña o niño es lo mismo que mantener una conversación."
         },
         "quiz_2_option_1_text": {
           "eng": "Verdadero"
@@ -128,12 +128,12 @@
         "quiz_2_feedback_2": {}
       },
       "quiz_1_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\n🎉 Las niñas y los niños, independientemente de su crecimiento, son capaces de aprender y desarrollar habilidades, ya que se encuentran en un proceso de formación constante lo que les permite adquirir toda información que se les brinde \n\n🔑 Cada niña o niño es diferente. Aprenden a ritmos distintos y las cosas que pueden hacer van cambiando con su edad.",
-      "quiz_1_question": "Cualquier niña o niño, independientemente de su crecimiento, puede aprender y desarrollar habilidades.",
+      "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nCualquier niña o niño, independientemente de su crecimiento, puede aprender y desarrollar habilidades.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
       "text_1_facilitator": "🔑 Este curso trata sobre cómo preparar a @fields.child_name para el aprovechamiento escolar. Las estrategias que te compartiremos son una guía: úsalas en la medida que @fields.child_name vaya mostrando disposición.\n\n👂 Esta primera lección consiste en ayudar a @fields.child_name a aprender palabras nuevas y mejorar sus habilidades del habla!\n\n🎓 ¡Aprender a conversar y a mantener una conversación es importante para aprender a leer y lograr un buen desempeño escolar!",
       "text_2": "Empecemos con un ejercicio 📝",
-      "quiz_2_question": "Conversarle a tu niña o niño es lo mismo que mantener una conversación.",
+      "quiz_2_question": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\nConversarle a tu niña o niño es lo mismo que mantener una conversación.",
       "quiz_2_option_1_text": "Verdadero",
       "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🎈 Las niñas y los niños aprenden palabras nuevas y adquieren confianza en sus capacidades lingüísticas cuando intentamos mantener una conversación con ellas y ellos. \n\n🌷 Puede que las niñas y los niños no sepan pronunciar muchas palabras, ¡pero es importante seguir animándolos!",
       "quiz_2_option_2_text": "Falso",
@@ -245,6 +245,7 @@
         "text_1_facilitator": {}
       },
       "youtube_gb_en_f": "youtube link",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
       "completed": false
     },
     {
@@ -323,7 +324,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa**\n\nDurante su tiempo juntos y conectados, intenta usar palabras y gestos para describir sus actividades. Asegúrate de que te comunicas de forma que @fields.child_name pueda entenderte."
+          "eng": "**Actividad para casa**⭐\n\nDurante su tiempo juntos y conectados, intenta usar palabras y gestos para describir sus actividades. Asegúrate de que te comunicas de forma que @fields.child_name pueda entenderte."
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy?"
@@ -354,7 +355,7 @@
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**Actividad para casa**\n\nDurante su tiempo juntos y conectados, intenta usar palabras y gestos para describir sus actividades. Asegúrate de que te comunicas de forma que @fields.child_name pueda entenderte.",
+      "text_1_facilitator": "**Actividad para casa**⭐\n\nDurante su tiempo juntos y conectados, intenta usar palabras y gestos para describir sus actividades. Asegúrate de que te comunicas de forma que @fields.child_name pueda entenderte.",
       "completed": false
     }
   ],

@@ -15,7 +15,7 @@
       "category_id": "intro",
       "text_1_facilitator::eng": "Hoy aprenderás qué hacer cuando tu niña o niño se niegue a seguir una instrucción, olvide una regla familiar o se comporte de manera agresiva o riesgosa. 😔",
       "text_2::eng": "Las niñas y los niños siguen aprendiendo qué acciones son apropiadas en distintas situaciones y cuáles no. 👀\n\nLas consecuencias les enseñan que sus acciones les afectan a ellas, ellos y a las demás personas. ❗\n\nEs importante que nuestras niñas y niños aprendan esto a medida que van creciendo. 🌱\n\nAsignar consecuencias claras es más efectivo para enseñarles a las niñas y los niños a responsabilizarse de sus acciones en vez de los gritos y los golpes. 💙",
-      "quiz_1_question::eng": "¡Hagamos un ejercicio!\n\nEjercicio 1. \n\nPuedo elegir cualquier consecuencia para mi niña o niño.",
+      "quiz_1_question::eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nPuedo elegir cualquier consecuencia para mi niña o niño.",
       "quiz_1_option_1_text::eng": "Verdadero",
       "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n💡 Es más fácil que tu niña o niño siga la regla si la consecuencia está relacionada con la regla.\n\n📺 Por ejemplo, si @fields.child_name no quiere dejar de ver el celular o la Tablet, @fields.child_name no podrá usarlos mañana.",
       "quiz_1_option_2_text::eng": "Falso",
@@ -72,7 +72,9 @@
     {
       "id": "practical_tips_2",
       "category_id": "practical_tips",
-      "text_1_facilitator::eng": "4️⃣ Recuerda las cuatro estrategias para poder asignar consecuencias cuando tu niña o niño presente un comportamiento que pueda generar problemas"
+      "text_1_facilitator::eng": "4️⃣ Recuerda las cuatro estrategias para poder asignar consecuencias cuando tu niña o niño presente un comportamiento que pueda generar problemas",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png"
     },
     {
       "id": "practise_1",

@@ -14,8 +14,7 @@
       "id": "intro_1",
       "category_id": "intro",
       "text_1_facilitator::eng": "📖Esta es la primera de dos lecciones sobre cómo ayudar a @fields.child_name a aprender a leer. \n\n⭐Nuestra primera lección  para el día de hoy trata sobre cómo disfrutar los libros con @fields.child_name. Leer con @fields.child_name es la mejor manera de ayudarle a aprender a leer. 🔑\n\nLas niñas y los niños aprenden observando, escuchando y copiando. Cuando les lees de pequeños, aprenden palabras nuevas. Cuando van creciendo, aprenden las letras y sus sonidos. ¡Leer juntos puede ayudarles a aprender sobre cualquier cosa que les interese! 💡 ",
-      "text_2::eng": "¡Hagamos un ejercicio!📝",
-      "quiz_1_question::eng": "Leer con @fields.child_name solo implica ser expresivo y usar las emociones correctas al leer. ",
+      "quiz_1_question::eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nLeer con @fields.child_name solo implica ser expresivo y usar las emociones correctas al leer. ",
       "quiz_1_option_1_text::eng": "Verdadero",
       "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n👂 Aunque es divertido ser expresivo al leer, también puede ayudar el hacerle preguntas a @fields.child_name y explorar la historia juntos. \n\n🔑 @fields.child_name practicará la pronunciación de palabras nuevas y desarrollará el interés por la lectura.",
       "quiz_1_option_2_text::eng": "Falso",
@@ -73,7 +72,8 @@
       "text_1_facilitator::eng": "Selecciona reproducir ▶️ para aprender las cuatro estrategias que pueden ayudar a @fields.child_name a desarrollar habilidades lectoras:\n \n1️⃣CREAR RUTINAS\n2️⃣HACER PREGUNTAS\n3️⃣RESPONDER Y EXPLORAR\n4️⃣CONSTRUIR Y CONECTAR",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=fsw8wwe_kD4",
-      "youtube_gb_en_m": "https://youtu.be/nG2Ok3MLRE4"
+      "youtube_gb_en_m": "https://youtu.be/nG2Ok3MLRE4",
+      "section_1_icon_asset": "images/icons/balance_blue.png"
     },
     {
       "id": "practical_tips_2",
@@ -95,7 +95,7 @@
     {
       "id": "practise_1",
       "category_id": "practise",
-      "text_1_facilitator::eng": "**Actividad para casa**\n\n📚 Trata de dedicar el tiempo juntos y conectados de hoy a leer y comentar un libro con @fields.child_name.\n",
+      "text_1_facilitator::eng": "**Actividad para casa**⭐ \n\n📚 Trata de dedicar el tiempo juntos y conectados de hoy a leer y comentar un libro con @fields.child_name.\n",
       "quiz_1_question::eng": "¿Puedes hacerlo hoy? ",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "😃 📖 ¡Excelente! ¡Leer con @fields.child_name es una forma estupenda de ayudarle a aprender!",

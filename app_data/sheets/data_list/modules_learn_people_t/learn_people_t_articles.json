@@ -41,10 +41,10 @@
           "eng": "Aquí tienes una historieta sobre cómo ayudar a tu adolescente a aprender a trabajar con otras personas:"
         },
         "character_1_text": {
-          "eng": "A mi nieta, @data.characters.f2_hija_17.name, le ha estado costando un poco de trabajo la clase de Historia. ¿Tienes alguna recomendación?"
+          "eng": "A mi nieta, @data.characters.f2_hija_17.name, le ha estado costando un poco de trabajo la clase de Historia. ¿Tiene alguna recomendación?"
         }
       },
-      "character_1_text": "A mi nieta, @data.characters.f2_hija_17.name, le ha estado costando un poco de trabajo la clase de Historia. ¿Tienes alguna recomendación?"
+      "character_1_text": "A mi nieta, @data.characters.f2_hija_17.name, le ha estado costando un poco de trabajo la clase de Historia. ¿Tiene alguna recomendación?"
     },
     {
       "id": "explore_2",
@@ -53,14 +53,14 @@
       "character_1_id": "PROFESORA_1",
       "character_2_id": "f2_abuelo",
       "nested": false,
-      "character_1_text": "Claro que sí, ¿qué tal si organizas un grupo de estudio para tu nieta y sus amigas y amigos en donde puedan leer, revisar y discutir los temas de las clases?",
+      "character_1_text": "Claro que sí, ¿qué tal si organiza un grupo de estudio para su nieta y sus amigas y amigos en donde puedan leer, revisar y discutir los temas de las clases?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Claro que sí, ¿qué tal si organizas un grupo de estudio para tu nieta y sus amigas y amigos en donde puedan leer, revisar y discutir los temas de las clases?"
+          "eng": "Claro que sí, ¿qué tal si organiza un grupo de estudio para su nieta y sus amigas y amigos en donde puedan leer, revisar y discutir los temas de las clases?"
         },
         "character_2_text": {
           "eng": "¡Eso suena muy bien! Excelente idea."
@@ -91,14 +91,14 @@
       "character_1_id": "f2_hija_17",
       "character_2_id": "f2_abuelo",
       "nested": false,
-      "character_1_text": "Muchas gracias por sugerirme el grupo de estudio, abue. Los trabajos que nos piden y nuestras tareas son más divertidas y fáciles de entender cuando las hago con mis amigas y amigos.",
+      "character_1_text": "Muchas gracias por sugerirme el grupo de estudio, abuelo. Los trabajos que nos piden y nuestras tareas son más divertidas y fáciles de entender cuando las hago con mis amigas y amigos.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Muchas gracias por sugerirme el grupo de estudio, abue. Los trabajos que nos piden y nuestras tareas son más divertidas y fáciles de entender cuando las hago con mis amigas y amigos."
+          "eng": "Muchas gracias por sugerirme el grupo de estudio, abuelo. Los trabajos que nos piden y nuestras tareas son más divertidas y fáciles de entender cuando las hago con mis amigas y amigos."
         },
         "character_2_text": {
           "eng": "Me da gusto que te esté funcionando. Hasta yo, que soy una persona adulta, ¡sigo aprendiendo mucho de otras personas! Justo la semana pasada, tu abuela me enseñó a hacer este delicioso arroz con pollo que estoy preparando para la comida."
@@ -120,6 +120,22 @@
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Selecciona reproducir ▶️ para aprender sobre cómo ayudar a tu adolescente a trabajar con otras personas.\n\n1️⃣ **SER SOCIAL**\n2️⃣ **TRABAJAR EN EQUIPO**"
+        }
+      }
+    },
+    {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "nested": false,
+      "text_1_facilitator": "Recuerda:",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Recuerda:"
         }
       }
     },

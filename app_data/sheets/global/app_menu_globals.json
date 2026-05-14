@@ -45,15 +45,7 @@
     {
       "type": "declare_global_constant",
       "name": "about_this_app",
-      "value": "About @global.app_name",
-      "_translations": {
-        "value": {}
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "language",
-      "value": "Language",
+      "value": "Acerca de @global.app_name",
       "_translations": {
         "value": {}
       }
@@ -73,7 +65,7 @@
     {
       "type": "declare_global_constant",
       "name": "user_id_text",
-      "value": "User ID",
+      "value": "ID de usuario",
       "_translations": {
         "value": {}
       }
@@ -81,7 +73,7 @@
     {
       "type": "declare_global_constant",
       "name": "skip",
-      "value": "Skip",
+      "value": "Omitir",
       "_translations": {
         "value": {}
       }

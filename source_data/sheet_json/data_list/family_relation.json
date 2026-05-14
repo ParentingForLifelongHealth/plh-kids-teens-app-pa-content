@@ -1,0 +1,48 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "family_relation",
+  "status": "released",
+  "data_list_name": "family_relation",
+  "rows": [
+    {
+      "id": "mother",
+      "name": "mother",
+      "text::eng": "Mamá"
+    },
+    {
+      "id": "father",
+      "name": "father",
+      "text::eng": "Papá"
+    },
+    {
+      "id": "grandfather",
+      "name": "grandfather",
+      "text::eng": "Abuelo"
+    },
+    {
+      "id": "grandmother",
+      "name": "grandmother",
+      "text::eng": "Abuela"
+    },
+    {
+      "id": "uncle",
+      "name": "uncle",
+      "text::eng": "Tío"
+    },
+    {
+      "id": "aunt",
+      "name": "aunt",
+      "text::eng": "Tía"
+    },
+    {
+      "id": "other",
+      "name": "other",
+      "text::eng": "Otro"
+    },
+    {
+      "id": "opt_out",
+      "name": "opt_out",
+      "text::eng": "Prefiero no decir"
+    }
+  ]
+}

@@ -13,7 +13,6 @@
       "text_1_facilitator": "En esta lección vamos a aprender más sobre cómo ayudar a @fields.child_name para que mejore en la lectura a través de los juegos de palabras y la escritura. 📝\n\nAprender a leer empieza con la noción del lenguaje, las letras y los sonidos. 🎵\n\nEntender los sonidos de las palabras y empezar a escribir las letras ayudará a @fields.child_name a aprender a leer. 📖⭐",
       "_translations": {
         "text_1_facilitator": {},
-        "text_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
@@ -24,11 +23,8 @@
         "text_1_facilitator": {
           "eng": "En esta lección vamos a aprender más sobre cómo ayudar a @fields.child_name para que mejore en la lectura a través de los juegos de palabras y la escritura. 📝\n\nAprender a leer empieza con la noción del lenguaje, las letras y los sonidos. 🎵\n\nEntender los sonidos de las palabras y empezar a escribir las letras ayudará a @fields.child_name a aprender a leer. 📖⭐"
         },
-        "text_2": {
-          "eng": "¡Hagamos un ejercicio!📝"
-        },
         "quiz_1_question": {
-          "eng": "Deberías comenzar a leer libros con @fields.child_name solamente cuando ya haya empezado a aprender a leer en la escuela."
+          "eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nDeberías comenzar a leer libros con @fields.child_name solamente cuando ya haya empezado a aprender a leer en la escuela."
         },
         "quiz_1_option_1_text": {
           "eng": "Verdadero"
@@ -43,8 +39,7 @@
           "eng": "🎉 Estás en lo correcto.\n\n⭐ Madres, padres y personas cuidadoras deberían leer con sus niñas o niños desde una edad temprana. De hecho, ¡puedes empezar desde que nacen!\n\n🏆 Leer con @fields.child_name es una forma estupenda de prepararle para el aprovechamiento escolar y de establecer una relación llena de afecto y cariño."
         }
       },
-      "text_2": "¡Hagamos un ejercicio!📝",
-      "quiz_1_question": "Deberías comenzar a leer libros con @fields.child_name solamente cuando ya haya empezado a aprender a leer en la escuela.",
+      "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nDeberías comenzar a leer libros con @fields.child_name solamente cuando ya haya empezado a aprender a leer en la escuela.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n⭐ Madres, padres y personas cuidadoras deberían leer con sus niñas o niños desde una edad temprana. De hecho, ¡puedes empezar desde que nacen!\n\n🏆 Leer con @fields.child_name es una forma estupenda de prepararle para el aprovechamiento escolar y de establecer una relación llena de afecto y cariño.",
       "quiz_1_option_2_text": "Falso",
@@ -55,6 +50,7 @@
       "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "youtube link",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
       "nested": false,
       "text_1_facilitator": "Selecciona reproducir ▶️ para aprender ️cuatro estrategias más para ayudar a @fields.child_name a aprender a leer:\n\n1️⃣USAR LIBROS PARA APRENDER\n2️⃣IDENTIFICAR LETRAS\n3️⃣JUGAR JUEGOS DE PALABRAS\n4️⃣EMPEZAR A ESCRIBIR",
       "_translations": {
@@ -128,7 +124,7 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "**Actividad para casa**\n\nDurante su tiempo juntos y conectados, ayuda a @fields.child_name a dibujar o escribir para practicar ✍️",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nDurante su tiempo juntos y conectados, ayuda a @fields.child_name a dibujar o escribir para practicar ✍️",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -139,7 +135,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa**\n\nDurante su tiempo juntos y conectados, ayuda a @fields.child_name a dibujar o escribir para practicar ✍️"
+          "eng": "**Actividad para casa**⭐ \n\nDurante su tiempo juntos y conectados, ayuda a @fields.child_name a dibujar o escribir para practicar ✍️"
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy?"

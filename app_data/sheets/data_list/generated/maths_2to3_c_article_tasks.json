@@ -82,7 +82,7 @@
           "eng": "⭐ Aprender sobre números, figuras geométricas y grupos ayudará a @fields.child_name a entender las matemáticas básicas.\n\n🎓 Esto le preparará para tener aprovechamiento en la escuela y en la vida."
         },
         "quiz_1_question": {
-          "eng": "📝 Hagamos un ejercicio. Ejercicio 1 \n\n¿Dónde aprenden matemáticas las niñas y los niños?"
+          "eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\n¿Dónde aprenden matemáticas las niñas y los niños?"
         },
         "quiz_1_option_1_text": {
           "eng": "En la escuela"
@@ -133,7 +133,7 @@
       },
       "quiz_1_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\n🌷  Las niñas y los niños no solo aprenden matemáticas en la escuela.\n\n💙 Pueden aprender matemáticas de muchas maneras, ¡y tú puedes ayudarles!",
       "quiz_1_feedback_3": "👀 ¡Ups! ¡Buen intento!\n\n🌷  Las niñas y los niños no solo aprenden matemáticas en la escuela.\n\n💙 Pueden aprender matemáticas de muchas maneras, ¡y tú puedes ayudarles!",
-      "quiz_1_question": "📝 Hagamos un ejercicio. Ejercicio 1 \n\n¿Dónde aprenden matemáticas las niñas y los niños?",
+      "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\n¿Dónde aprenden matemáticas las niñas y los niños?",
       "quiz_1_option_1_text": "En la escuela",
       "quiz_1_option_2_text": "Con sus amistades",
       "quiz_1_option_3_text": "En casa",
@@ -160,6 +160,7 @@
         "text_1_facilitator": {}
       },
       "youtube_gb_en": "youtube link",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
       "completed": false
     },
     {
@@ -227,7 +228,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**¡Actividad para casa!** ⭐ \n\nIntenta involucrar a @fields.child_name en una actividad en donde tenga que usar números. Por ejemplo, contar la cantidad de ingredientes cuando estés cocinando."
+          "eng": "**Actividad para casa**⭐ \n\nIntenta involucrar a @fields.child_name en una actividad en donde tenga que usar números. Por ejemplo, contar la cantidad de ingredientes cuando estés cocinando."
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy?"
@@ -258,7 +259,7 @@
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**¡Actividad para casa!** ⭐ \n\nIntenta involucrar a @fields.child_name en una actividad en donde tenga que usar números. Por ejemplo, contar la cantidad de ingredientes cuando estés cocinando.",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nIntenta involucrar a @fields.child_name en una actividad en donde tenga que usar números. Por ejemplo, contar la cantidad de ingredientes cuando estés cocinando.",
       "completed": false
     }
   ],
