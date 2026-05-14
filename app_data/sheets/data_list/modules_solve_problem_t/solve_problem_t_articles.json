@@ -154,10 +154,26 @@
       }
     },
     {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "nested": false,
+      "text_1_facilitator": "Recuerda:",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Recuerda:"
+        }
+      }
+    },
+    {
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "**Actividad para casa**⭐ \nHabla con tu adolescente sobre los cuatro pasos para resolver problemas y revisen la lección juntos. ¡Saber resolver problemas es una habilidad que podrán usar el resto de sus vidas!",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nHabla con tu adolescente sobre los cuatro pasos para resolver problemas y revisen la lección juntos. ¡Saber resolver problemas es una habilidad que podrán usar el resto de sus vidas!",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -168,7 +184,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa**⭐ \nHabla con tu adolescente sobre los cuatro pasos para resolver problemas y revisen la lección juntos. ¡Saber resolver problemas es una habilidad que podrán usar el resto de sus vidas!"
+          "eng": "**Actividad para casa**⭐ \n\nHabla con tu adolescente sobre los cuatro pasos para resolver problemas y revisen la lección juntos. ¡Saber resolver problemas es una habilidad que podrán usar el resto de sus vidas!"
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy?"

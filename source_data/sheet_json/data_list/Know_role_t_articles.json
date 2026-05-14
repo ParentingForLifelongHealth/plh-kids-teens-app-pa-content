@@ -15,12 +15,12 @@
       "category_id": "intro",
       "text_1_facilitator::eng": "Tanto las personas cuidadoras como las niñas, niños o adolescentes tienen un rol que desempeñar en el hogar. 📝\n\nEl rol de @fields.child_name es aprender, de las personas que le cuidan, qué puede hacer y qué no debe hacer. Puede empezar a hacer actividades en la casa que sean adecuadas para su edad. ⭐\n;\nComo persona cuidadora, tu rol es cuidar de @fields.child_name, mantenerle a salvo y enseñarle cómo comportarse en el mundo. 🌱\n\n*_Tu papel más importante es ayudarle a @fields.child_name a sentir tu amor y tu apoyo, ¡pase lo que pase!_* 💙",
       "text_2::eng": "Si @fields.child_name siente amor y apoyo en casa, ¡es más probable que haga las actividades del hogar con alegría y que, eventualmente, se convierta en una persona adulta sana! 😃💚",
-      "quiz_1_question::eng": "Hagamos un ejercicio:\n\nResponde: ¿Verdadero o falso?\n\nSi cometo un error o hago algo que moleste a mi adolescente, debo fingir que no ha pasado nada, sonreírle y hacer una actividad positiva con ella o él.",
+      "quiz_1_question::eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nSi cometo un error o hago algo que moleste a mi adolescente, debo fingir que no ha pasado nada, sonreírle y hacer una actividad positiva con ella o él.",
       "quiz_1_option_1_text::eng": "Verdadero",
       "quiz_1_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n💛 *_Admitir nuestros errores y disculparnos les enseña a respetar a los demás y que a veces está bien equivocarse._*\n\n❗Ignorar un error cuando afecta a tu adolescente le enseña que no necesita responsabilizarse de sus actos.",
       "quiz_1_option_2_text::eng": "Falso",
       "quiz_1_feedback_2::eng": "🎉 ¡Correcto!\n\n💛 *_Admitir nuestros errores y disculparnos les enseña a respetar a los demás y que a veces está bien equivocarse._*\n\n❗Ignorar un error cuando afecta a tu adolescente le enseña que no necesita responsabilizarse de sus actos.",
-      "quiz_2_question::eng": "Una más. Responde ¿Verdadero o Falso?\n\nNo está bien que @fields.child_name se enoje contigo.",
+      "quiz_2_question::eng": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\nNo está bien que @fields.child_name se enoje contigo.",
       "quiz_2_option_1_text::eng": "Verdadero",
       "quiz_2_feedback_1::eng": "👀 ¡Ups! ¡Buen intento!\n\n@fields.child_name va a experimentar muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi @fields.child_name está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu adolescente a darse cuenta de sus emociones de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo.",
       "quiz_2_option_2_text::eng": "Falso",
@@ -32,6 +32,13 @@
       "text_1_facilitator::eng": "Selecciona reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como persona cuidadora de tu adolescente y a enseñarle también el suyo:\n\n1️⃣ **CONOCER TU ROL**\n2️⃣ **ENSEÑAR**\n3️⃣ **ENSEÑAR CON EL EJEMPLO**\n4️⃣ **NOTAR**\"",
       "media_type": "youtube",
       "youtube_gb_en_f": "youtube link"
+    },
+    {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "text_1_facilitator::eng": "Recuerda:",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png"
     },
     {
       "id": "practise_1",

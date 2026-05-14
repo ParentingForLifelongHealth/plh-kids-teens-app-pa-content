@@ -33,7 +33,7 @@
           "eng": "El enojo es una emoción importante porque nos permite expresarnos y poner límites. En lugar de ignorarla, deberíamos aprender a reconocerla y regularla de manera saludable.\n\n🌱 Cuando logras regular tu enojo, cuidas de ti. Escucha tus emociones, toma mejores decisiones y permítes a @fields.child_name a manejar su propio enojo."
         },
         "quiz_1_question": {
-          "eng": "¡Hagamos un ejercicio!\n\nEjercicio 1. \n\nEstá bien alzarle la voz o gritarle a mi niña o niño cuando siento enojo."
+          "eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nEstá bien alzarle la voz o gritarle a mi niña o niño cuando siento enojo."
         },
         "quiz_1_option_1_text": {
           "eng": "Verdadero"
@@ -48,7 +48,7 @@
           "eng": "🎉 ¡Genial!\n\n🎨 Nuestras reacciones ante situaciones difíciles se ven afectadas por nuestros propios pensamientos y sentimientos y no solamente por las acciones de otras personas.\n\nEstá bien sentir enojo, a veces, pero es importante aprender a responder con calma incluso cuando sentimos mucho enojo.\n\nLa mayoría de las veces, cuando reaccionamos con ira o enojo, puede hacer que nuestras niñas y niños sientan miedo o estrés y se porten peor o se comporten de manera agresiva."
         },
         "quiz_2_question": {
-          "eng": "Ejercicio 2: No está bien que @fields.child_name se enoje contigo."
+          "eng": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\nNo está bien que @fields.child_name se enoje contigo."
         },
         "quiz_2_option_1_text": {
           "eng": "Verdadero"
@@ -64,12 +64,12 @@
         }
       },
       "text_2": "El enojo es una emoción importante porque nos permite expresarnos y poner límites. En lugar de ignorarla, deberíamos aprender a reconocerla y regularla de manera saludable.\n\n🌱 Cuando logras regular tu enojo, cuidas de ti. Escucha tus emociones, toma mejores decisiones y permítes a @fields.child_name a manejar su propio enojo.",
-      "quiz_1_question": "¡Hagamos un ejercicio!\n\nEjercicio 1. \n\nEstá bien alzarle la voz o gritarle a mi niña o niño cuando siento enojo.",
+      "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nEstá bien alzarle la voz o gritarle a mi niña o niño cuando siento enojo.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🎨 Nuestras reacciones ante situaciones difíciles se ven afectadas por nuestros propios pensamientos y sentimientos y no solamente por las acciones de otras personas.\n\nEstá bien sentir enojo, a veces, pero es importante aprender a responder con calma incluso cuando sentimos mucho enojo.\n\nLa mayoría de las veces, cuando reaccionamos con ira o enojo, puede hacer que nuestras niñas y niños sientan miedo o estrés y se porten peor o se comporten de manera agresiva.",
       "quiz_1_option_2_text": "Falso",
       "quiz_1_feedback_2": "🎉 ¡Genial!\n\n🎨 Nuestras reacciones ante situaciones difíciles se ven afectadas por nuestros propios pensamientos y sentimientos y no solamente por las acciones de otras personas.\n\nEstá bien sentir enojo, a veces, pero es importante aprender a responder con calma incluso cuando sentimos mucho enojo.\n\nLa mayoría de las veces, cuando reaccionamos con ira o enojo, puede hacer que nuestras niñas y niños sientan miedo o estrés y se porten peor o se comporten de manera agresiva.",
-      "quiz_2_question": "Ejercicio 2: No está bien que @fields.child_name se enoje contigo.",
+      "quiz_2_question": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\nNo está bien que @fields.child_name se enoje contigo.",
       "quiz_2_option_1_text": "Verdadero",
       "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n@fields.child_name va a experimentar   muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi @fields.child_name está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu niña, niño o adolescente a darse cuenta de sus emociones  de ira y ayúdale a regular sus emociones utilizando las estrategias de esta lección.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo.",
       "quiz_2_option_2_text": "Falso",
@@ -212,6 +212,8 @@
     {
       "id": "practical_tips_2",
       "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/balance_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png",
       "nested": false,
       "text_1_facilitator": "Lidiar con el enojo no es algo fácil 😔. Quizá nadie nos enseñó a regular nuestras emociones y a expresarlas de manera sana. \n\nRecuerda las 4️⃣ estrategias que puedes usar para regular la ira y comunicarte mejor con @fields.child_name:",
       "_translations": {

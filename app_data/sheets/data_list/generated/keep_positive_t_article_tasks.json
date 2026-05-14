@@ -198,6 +198,23 @@
       "completed": false
     },
     {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Recuerda:"
+        }
+      },
+      "text_1_facilitator": "Recuerda:",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "section_1_icon_asset": "images/icons/balance_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "completed": false
+    },
+    {
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
