@@ -212,14 +212,56 @@
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
+        },
+        "section_1_title": {
+          "eng": "CONVERSA"
+        },
+        "section_1_text": {
+          "eng": "👂 Dedica un espacio y un momento para que tu adolescente hable contigo sobre su vida.\n\n💙 Si tuvo un día difícil, escucha con atención y dale un espacio en donde pueda compartir lo que siente y piensa.\n\n💛 Dale tu apoyo y demuéstrale que te importa. Di: \"qué difícil\", “debes sentirte mal”, “te entiendo”, “cuentas conmigo”, “no estás solo”."
+        },
+        "section_2_title": {
+          "eng": "ELOGIA EL ESFUERZO"
+        },
+        "section_2_text": {
+          "eng": "💛 Elogia a tu adolescente por el esfuerzo que invierte en su aprendizaje aunque no siempre cumpla sus objetivos.\n\n✨ El esfuerzo es más importante que el simple hecho de dominar una habilidad específica."
+        },
+        "section_3_title": {
+          "eng": "PERMITE QUE LOS ERRORES SUCEDAN"
+        },
+        "section_3_text": {
+          "eng": "🌱 Permite que tu adolescente cometa errores. Deja que aprenda de sus propios errores para que pueda seguir aprendiendo y creciendo.\n\n❓ Es tentador querer resolverle todos los problemas a tu adolescente, sobre todo cuando sabes cuáles podrían ser las soluciones. Pero esto no le enseñará a tu adolescente a resolver sus propios problemas.\n\n😃 Habla con tu adolescente sobre sus errores, permite que encuentre una forma de resolver sus problemas y cómo puede hacerlo mejor la próxima vez."
+        },
+        "section_4_title": {
+          "eng": "COMPARTE"
+        },
+        "section_4_text": {
+          "eng": "📖 Intenta compartir tus propios errores con tu adolescente y habla de cómo estos te ayudaron a desarrollarte y crecer.\n\n✅Esto le ayuda a tu adolescente a aprender que no tenemos que ser perfectas o perfectos en la vida."
         }
       },
       "text_1_facilitator": "Recuerda:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
       },
-      "section_1_icon_asset": "images/icons/balance_blue.png",
-      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "section_1_icon_asset": "images/icons/speech_bubble_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/hands_heart.svg",
+      "section_4_icon_asset": "images/icons/parent_child.svg",
+      "section_1_title": "CONVERSA",
+      "section_1_text": "👂 Dedica un espacio y un momento para que tu adolescente hable contigo sobre su vida.\n\n💙 Si tuvo un día difícil, escucha con atención y dale un espacio en donde pueda compartir lo que siente y piensa.\n\n💛 Dale tu apoyo y demuéstrale que te importa. Di: \"qué difícil\", “debes sentirte mal”, “te entiendo”, “cuentas conmigo”, “no estás solo”.",
+      "section_2_title": "ELOGIA EL ESFUERZO",
+      "section_2_text": "💛 Elogia a tu adolescente por el esfuerzo que invierte en su aprendizaje aunque no siempre cumpla sus objetivos.\n\n✨ El esfuerzo es más importante que el simple hecho de dominar una habilidad específica.",
+      "section_3_title": "PERMITE QUE LOS ERRORES SUCEDAN",
+      "section_3_text": "🌱 Permite que tu adolescente cometa errores. Deja que aprenda de sus propios errores para que pueda seguir aprendiendo y creciendo.\n\n❓ Es tentador querer resolverle todos los problemas a tu adolescente, sobre todo cuando sabes cuáles podrían ser las soluciones. Pero esto no le enseñará a tu adolescente a resolver sus propios problemas.\n\n😃 Habla con tu adolescente sobre sus errores, permite que encuentre una forma de resolver sus problemas y cómo puede hacerlo mejor la próxima vez.",
+      "section_4_title": "COMPARTE",
+      "section_4_text": "📖 Intenta compartir tus propios errores con tu adolescente y habla de cómo estos te ayudaron a desarrollarte y crecer.\n\n✅Esto le ayuda a tu adolescente a aprender que no tenemos que ser perfectas o perfectos en la vida.",
       "completed": false
     },
     {

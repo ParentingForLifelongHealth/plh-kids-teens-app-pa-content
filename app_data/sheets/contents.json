@@ -16254,13 +16254,6 @@
     "home_screen": {
       "flow_type": "template",
       "flow_name": "home_screen",
-      "parameter_list": {
-        "app_config": {
-          "LAYOUT": {
-            "page_padding": "24px 0"
-          }
-        }
-      },
       "_source": {
         "name": "kids_teens_global V2",
         "path": "templates/app_navigation.xlsx",

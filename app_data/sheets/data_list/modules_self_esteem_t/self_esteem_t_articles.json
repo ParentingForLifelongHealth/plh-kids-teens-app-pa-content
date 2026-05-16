@@ -150,18 +150,60 @@
     {
       "id": "practical_tips_2",
       "category_id": "explore",
-      "section_1_icon_asset": "images/icons/balance_blue.png",
-      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "section_1_icon_asset": "images/icons/hands_heart.svg",
+      "section_2_icon_asset": "images/icons/question_blue.png",
+      "section_3_icon_asset": "images/icons/parent_child.svg",
+      "section_4_icon_asset": "images/icons/balance_blue.png",
       "nested": false,
-      "text_1_facilitator": "Aprender a sentirnos bien con nosotros mismos es parte de crecer y puede ser un Sí reto durante la adolescencia, ¡hasta para las y los adultos es algo difícil!.",
+      "text_1_facilitator": "Recuerda:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Aprender a sentirnos bien con nosotros mismos es parte de crecer y puede ser un Sí reto durante la adolescencia, ¡hasta para las y los adultos es algo difícil!."
+          "eng": "Recuerda:"
+        },
+        "section_1_title": {
+          "eng": "ACEPTAR A TU ADOLESCENTE"
+        },
+        "section_1_text": {
+          "eng": "👀 Presta atención cuando @fields.child_name te comparte algún pensamiento negativo sobre sí mismo  \n\n☀️ Acepta a @fields.child_name por ser quién es, incluyendo las cosas en las que es bueno y en las que puede mejorar. Intenta enfocarte en lo que hace bien en vez de solo enfocarte en lo que hace mal o negativo.  \n\n🌈 Recuérdale a @fields.child_name que todo el mundo comete errores. Como madre, padre o persona cuidadora, admite tus errores cuando te equivoques. Esto le demuestra que también él o ella puede aceptar sus errores y aprender de ellos.  \n\n👀 ¿Recuerdas aquellos tiempos cuando eras adolescente? Piensa en cómo te sentías y en las cosas por las que pasaste, esto podrá ayudarte a comprenderlo mejor."
+        },
+        "section_2_title": {
+          "eng": "HACER PREGUNTAS, ¿QUÉ TE DIRÍA UNA AMIGA O AMIGO?"
+        },
+        "section_2_text": {
+          "eng": "🏅Pregúntale a @fields.child_name qué hace que se sienta así e intenta conectar con su experiencia y con lo que le está provocando esos sentimientos.\n\n🔔 Ayuda a @fields.child_name a cambiar su pensamiento desagradable por uno positivo y agradable al pedirle que imagine lo que le diría una amiga o amigo que le estuviera acompañando en esta situación. Puedes preguntarle: \"¿Qué te diría para animarte y hacerte sentir mejor?\"\n\n✨ Por ejemplo, si dijera algo como, \"No soy lo suficientemente buena/bueno\", su amiga o amigo que le quiere ayudar le diría: \"A ver, dime por qué te sientes así. Yo creo que haces lo mejor que puedes y eso es suficiente\".\n\nLa manera en que nos hablamos afecta cómo nos sentimos con nuestra propia identidad. ¡Esto también es cierto para @fields.child_name!"
+        },
+        "section_3_title": {
+          "eng": "SER UN EJEMPLO A SEGUIR"
+        },
+        "section_3_text": {
+          "eng": "🎉 La forma en que hablas de ti, le enseña a @fields.child_name cómo hablar de si mismo también. Recuerda, @fields.child_name ¡siempre está aprendiendo de ti!  \n\n🔵 Muéstrale a @fields.child_name que no pasa nada cuando cometemos errores y que pueden ser personas imperfectas en la vida.  \n\nPon en práctica el cambiar tus pensamientos desagradables sobre ti por pensamientos positivos y agradables.  \n\n🔶 Cuando te enfrentes a dificultades, sé amable contigo delante de @fields.child_name."
+        },
+        "section_4_title": {
+          "eng": "INCLINAR LA BALANZA"
+        },
+        "section_4_text": {
+          "eng": "😃 Los pensamientos de @fields.child_name son como una balanza, los pensamientos positivos sobre ellos mismos de un lado y los negativos del otro lado. \n\n😔 Es normal que las y los adolescentes durante su desarrollo tengan, ocasionalmente, pensamientos negativos o desagradables sobre su persona.  \n\n👑 Si @fields.child_name se dice cosas desagradables o se insulta a sí mismo, pregúntale qué le hace sentirse así, por qué se describe así o que le hace pensar que es así. \n\n✅ Cuando aceptas cómo es @fields.child_name, le haces preguntas para entender su punto de vista, le ofreces apoyo y te conviertes en su ejemplo a seguir, estás ayudando a que su balanza se incline hacia el lado de los pensamientos y emociones positivas."
         }
-      }
+      },
+      "section_1_title": "ACEPTAR A TU ADOLESCENTE",
+      "section_1_text": "👀 Presta atención cuando @fields.child_name te comparte algún pensamiento negativo sobre sí mismo  \n\n☀️ Acepta a @fields.child_name por ser quién es, incluyendo las cosas en las que es bueno y en las que puede mejorar. Intenta enfocarte en lo que hace bien en vez de solo enfocarte en lo que hace mal o negativo.  \n\n🌈 Recuérdale a @fields.child_name que todo el mundo comete errores. Como madre, padre o persona cuidadora, admite tus errores cuando te equivoques. Esto le demuestra que también él o ella puede aceptar sus errores y aprender de ellos.  \n\n👀 ¿Recuerdas aquellos tiempos cuando eras adolescente? Piensa en cómo te sentías y en las cosas por las que pasaste, esto podrá ayudarte a comprenderlo mejor.",
+      "section_2_title": "HACER PREGUNTAS, ¿QUÉ TE DIRÍA UNA AMIGA O AMIGO?",
+      "section_2_text": "🏅Pregúntale a @fields.child_name qué hace que se sienta así e intenta conectar con su experiencia y con lo que le está provocando esos sentimientos.\n\n🔔 Ayuda a @fields.child_name a cambiar su pensamiento desagradable por uno positivo y agradable al pedirle que imagine lo que le diría una amiga o amigo que le estuviera acompañando en esta situación. Puedes preguntarle: \"¿Qué te diría para animarte y hacerte sentir mejor?\"\n\n✨ Por ejemplo, si dijera algo como, \"No soy lo suficientemente buena/bueno\", su amiga o amigo que le quiere ayudar le diría: \"A ver, dime por qué te sientes así. Yo creo que haces lo mejor que puedes y eso es suficiente\".\n\nLa manera en que nos hablamos afecta cómo nos sentimos con nuestra propia identidad. ¡Esto también es cierto para @fields.child_name!",
+      "section_3_title": "SER UN EJEMPLO A SEGUIR",
+      "section_3_text": "🎉 La forma en que hablas de ti, le enseña a @fields.child_name cómo hablar de si mismo también. Recuerda, @fields.child_name ¡siempre está aprendiendo de ti!  \n\n🔵 Muéstrale a @fields.child_name que no pasa nada cuando cometemos errores y que pueden ser personas imperfectas en la vida.  \n\nPon en práctica el cambiar tus pensamientos desagradables sobre ti por pensamientos positivos y agradables.  \n\n🔶 Cuando te enfrentes a dificultades, sé amable contigo delante de @fields.child_name.",
+      "section_4_title": "INCLINAR LA BALANZA",
+      "section_4_text": "😃 Los pensamientos de @fields.child_name son como una balanza, los pensamientos positivos sobre ellos mismos de un lado y los negativos del otro lado. \n\n😔 Es normal que las y los adolescentes durante su desarrollo tengan, ocasionalmente, pensamientos negativos o desagradables sobre su persona.  \n\n👑 Si @fields.child_name se dice cosas desagradables o se insulta a sí mismo, pregúntale qué le hace sentirse así, por qué se describe así o que le hace pensar que es así. \n\n✅ Cuando aceptas cómo es @fields.child_name, le haces preguntas para entender su punto de vista, le ofreces apoyo y te conviertes en su ejemplo a seguir, estás ayudando a que su balanza se incline hacia el lado de los pensamientos y emociones positivas."
     },
     {
       "id": "home_activity_1",

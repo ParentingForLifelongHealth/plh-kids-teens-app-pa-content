@@ -356,14 +356,56 @@
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
+        },
+        "section_1_title": {
+          "eng": "IDENTIFICAR"
+        },
+        "section_1_text": {
+          "eng": "¿Cómo estás sintiendo tu cuerpo? Cuando sientes estrés por mucho tiempo, puedes experimentar dolores de cabeza, cansancio o dificultad para dormir.\n\nRevisa tus emociones. El estrés puede hacerte sentir irritable, gritar a tus seres queridos o querer estar en soledad.\n\nTómate un momento para fijarte en tus pensamientos. El estrés puede llenarte la cabeza de pensamientos acelerados, preocupantes y negativos."
+        },
+        "section_2_title": {
+          "eng": "SER AMABLE"
+        },
+        "section_2_text": {
+          "eng": "💚 Cuando empieces a sentir estrés, toma una pausa o haz algunas respiraciones profundas.\n\nRespira y piensa: \"Pronto pasará\", porque realmente no pasa nada por sentir un poco de estrés, ¡todas las personas del mundo lo hemos sentido en algún momento!\n\n🎁 Piensa en lo que te diría una amiga, amigo o un familiar que te quiere."
+        },
+        "section_3_title": {
+          "eng": "TENER HÁBITOS SALUDABLES"
+        },
+        "section_3_text": {
+          "eng": "Cuidar de tu salud física te ayudará a manejar mejor el estrés.\n\n⏸ Intenta dormir lo suficiente cada noche, al menos 7 u 8 horas si es posible.\n\n🍞 Come saludable en la medida de lo posible y mantén una dieta balanceada.\n\n🚲 Encuentra formas de mover tu cuerpo y hacer ejercicio cada día. Incluso 10 minutos pueden hacer la diferencia.\n\n💚 Toma agua diariamente."
+        },
+        "section_4_title": {
+          "eng": "RECARGAR PILAS"
+        },
+        "section_4_text": {
+          "eng": "Haz pausas durante el día para recargar tu energía. Los pequeños descansos pueden ayudarte, poquito a poquito.\n\nHaz cosas que te ayuden a relajarte y a sentirte bien, como practicar una pausa, escuchar música o salir a dar un paseo.\n\nBusca pasar tiempo con amistades o familiares que se preocupen por ti. Conversar con alguien en quien confíes puede hacer que te sientas mejor y con menos estrés."
         }
       },
       "text_1_facilitator": "Recuerda:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
       },
-      "section_1_icon_asset": "images/icons/balance_blue.png",
-      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "section_1_icon_asset": "images/icons/eye_blue.png",
+      "section_2_icon_asset": "images/icons/hands_heart.svg",
+      "section_3_icon_asset": "images/icons/breathe.svg",
+      "section_4_icon_asset": "images/icons/diamond_blue.png",
+      "section_1_title": "IDENTIFICAR",
+      "section_1_text": "¿Cómo estás sintiendo tu cuerpo? Cuando sientes estrés por mucho tiempo, puedes experimentar dolores de cabeza, cansancio o dificultad para dormir.\n\nRevisa tus emociones. El estrés puede hacerte sentir irritable, gritar a tus seres queridos o querer estar en soledad.\n\nTómate un momento para fijarte en tus pensamientos. El estrés puede llenarte la cabeza de pensamientos acelerados, preocupantes y negativos.",
+      "section_2_title": "SER AMABLE",
+      "section_2_text": "💚 Cuando empieces a sentir estrés, toma una pausa o haz algunas respiraciones profundas.\n\nRespira y piensa: \"Pronto pasará\", porque realmente no pasa nada por sentir un poco de estrés, ¡todas las personas del mundo lo hemos sentido en algún momento!\n\n🎁 Piensa en lo que te diría una amiga, amigo o un familiar que te quiere.",
+      "section_3_title": "TENER HÁBITOS SALUDABLES",
+      "section_3_text": "Cuidar de tu salud física te ayudará a manejar mejor el estrés.\n\n⏸ Intenta dormir lo suficiente cada noche, al menos 7 u 8 horas si es posible.\n\n🍞 Come saludable en la medida de lo posible y mantén una dieta balanceada.\n\n🚲 Encuentra formas de mover tu cuerpo y hacer ejercicio cada día. Incluso 10 minutos pueden hacer la diferencia.\n\n💚 Toma agua diariamente.",
+      "section_4_title": "RECARGAR PILAS",
+      "section_4_text": "Haz pausas durante el día para recargar tu energía. Los pequeños descansos pueden ayudarte, poquito a poquito.\n\nHaz cosas que te ayuden a relajarte y a sentirte bien, como practicar una pausa, escuchar música o salir a dar un paseo.\n\nBusca pasar tiempo con amistades o familiares que se preocupen por ti. Conversar con alguien en quien confíes puede hacer que te sientas mejor y con menos estrés.",
       "completed": false
     },
     {

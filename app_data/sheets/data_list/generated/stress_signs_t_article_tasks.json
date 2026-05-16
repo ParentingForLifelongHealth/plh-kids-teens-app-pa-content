@@ -169,14 +169,34 @@
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
+        },
+        "section_1_title": {
+          "eng": "ACTUAR A TIEMPO"
+        },
+        "section_1_text": {
+          "eng": "❗ Si observas algunas de estas señales, es hora de actuar.\n\n❌ Estas señales de alerta pueden llegar a convertirse en problemas más graves.\n\n🌱 La intervención temprana puede tener un impacto positivo en el bienestar de tu adolescente."
+        },
+        "section_2_title": {
+          "eng": "BUSCAR AYUDA"
+        },
+        "section_2_text": {
+          "eng": "😃 Respeta la privacidad de tu adolescente. Hablen sobre qué tipo de apoyo puede que necesite.\n\n💚 El apoyo para ti también es muy importante. Pide ayuda si la necesitas. Tener un sistema de apoyo puede hacer la diferencia."
         }
       },
       "text_1_facilitator": "Recuerda:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {}
       },
-      "section_1_icon_asset": "images/icons/balance_blue.png",
-      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "section_1_icon_asset": "images/icons/clock_blue.png",
+      "section_2_icon_asset": "images/icons/trust.svg",
+      "section_1_title": "ACTUAR A TIEMPO",
+      "section_1_text": "❗ Si observas algunas de estas señales, es hora de actuar.\n\n❌ Estas señales de alerta pueden llegar a convertirse en problemas más graves.\n\n🌱 La intervención temprana puede tener un impacto positivo en el bienestar de tu adolescente.",
+      "section_2_title": "BUSCAR AYUDA",
+      "section_2_text": "😃 Respeta la privacidad de tu adolescente. Hablen sobre qué tipo de apoyo puede que necesite.\n\n💚 El apoyo para ti también es muy importante. Pide ayuda si la necesitas. Tener un sistema de apoyo puede hacer la diferencia.",
       "completed": false
     },
     {

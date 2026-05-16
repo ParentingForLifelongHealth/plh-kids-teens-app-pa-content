@@ -291,12 +291,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "64719 KB",
+        "KB": "64720 KB",
         "MB": "64.7 MB"
       },
       {
         "assets": "unused",
-        "KB": "31431 KB",
+        "KB": "31426 KB",
         "MB": "31.4 MB"
       }
     ]
@@ -704,10 +704,6 @@
         "size_kb": 2.1
       },
       {
-        "path": "images/icons/diamond_blue.png",
-        "size_kb": 4.7
-      },
-      {
         "path": "images/icons/distance.svg",
         "size_kb": 87.9
       },
@@ -933,17 +929,12 @@
         "missing": true
       },
       {
-        "path": "images/homescreen/check_in/traditional_rondavel_closed.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/check_in/traditional_rondavel_open.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
         "path": "images/icons/diamond_blue.svg",
+        "count": 4,
+        "missing": true
+      },
+      {
+        "path": "images/icons/heart_filles_blue.png",
         "count": 4,
         "missing": true
       },
@@ -1434,7 +1425,7 @@
       {
         "path": "images/backgrounds/bottom_banner.svg",
         "count": 1,
-        "size_kb": 23.2
+        "size_kb": 3.6
       },
       {
         "path": "images/backgrounds/complete_module.svg",
@@ -2748,7 +2739,7 @@
       },
       {
         "path": "images/icons/123.svg",
-        "count": 6,
+        "count": 10,
         "size_kb": 18.9
       },
       {
@@ -2758,7 +2749,7 @@
       },
       {
         "path": "images/icons/balance_blue.png",
-        "count": 100,
+        "count": 18,
         "size_kb": 4.7
       },
       {
@@ -2768,7 +2759,7 @@
       },
       {
         "path": "images/icons/breathe.svg",
-        "count": 10,
+        "count": 18,
         "size_kb": 8.7
       },
       {
@@ -2788,12 +2779,12 @@
       },
       {
         "path": "images/icons/climb.svg",
-        "count": 6,
+        "count": 12,
         "size_kb": 9.8
       },
       {
         "path": "images/icons/clock_blue.png",
-        "count": 16,
+        "count": 22,
         "size_kb": 4.5
       },
       {
@@ -2810,6 +2801,11 @@
         "path": "images/icons/diamond_active.png",
         "count": 1,
         "size_kb": 1.7
+      },
+      {
+        "path": "images/icons/diamond_blue.png",
+        "count": 4,
+        "size_kb": 4.7
       },
       {
         "path": "images/icons/document-lock-outline.svg",
@@ -2843,7 +2839,7 @@
       },
       {
         "path": "images/icons/eye_blue.png",
-        "count": 16,
+        "count": 24,
         "size_kb": 4.2
       },
       {
@@ -2883,7 +2879,7 @@
       },
       {
         "path": "images/icons/football_blue.png",
-        "count": 8,
+        "count": 12,
         "size_kb": 5.1
       },
       {
@@ -2893,7 +2889,7 @@
       },
       {
         "path": "images/icons/hands_heart.svg",
-        "count": 6,
+        "count": 20,
         "size_kb": 9.4
       },
       {
@@ -2923,7 +2919,7 @@
       },
       {
         "path": "images/icons/heart_filled_blue.png",
-        "count": 16,
+        "count": 18,
         "size_kb": 4.9
       },
       {
@@ -3008,7 +3004,7 @@
       },
       {
         "path": "images/icons/magnifying_glass.svg",
-        "count": 88,
+        "count": 94,
         "size_kb": 0.9
       },
       {
@@ -3018,12 +3014,12 @@
       },
       {
         "path": "images/icons/parent_child.svg",
-        "count": 8,
+        "count": 16,
         "size_kb": 2
       },
       {
         "path": "images/icons/parent_child_heart.svg",
-        "count": 78,
+        "count": 82,
         "size_kb": 3
       },
       {
@@ -3033,8 +3029,13 @@
       },
       {
         "path": "images/icons/pencil.svg",
-        "count": 78,
+        "count": 82,
         "size_kb": 1.1
+      },
+      {
+        "path": "images/icons/people.svg",
+        "count": 4,
+        "size_kb": 11.7
       },
       {
         "path": "images/icons/person-circle-outline.svg",
@@ -3048,7 +3049,7 @@
       },
       {
         "path": "images/icons/question_blue.png",
-        "count": 8,
+        "count": 14,
         "size_kb": 3.4
       },
       {
@@ -3077,6 +3078,11 @@
         "size_kb": 4.2
       },
       {
+        "path": "images/icons/silence.svg",
+        "count": 4,
+        "size_kb": 3.7
+      },
+      {
         "path": "images/icons/single_speech_blue.png",
         "count": 10,
         "size_kb": 3.3
@@ -3088,7 +3094,7 @@
       },
       {
         "path": "images/icons/smile_eyes_up.svg",
-        "count": 156,
+        "count": 158,
         "size_kb": 1
       },
       {
@@ -3098,12 +3104,12 @@
       },
       {
         "path": "images/icons/speech_bubble_blue.png",
-        "count": 16,
+        "count": 32,
         "size_kb": 4.2
       },
       {
         "path": "images/icons/star_filled_blue.png",
-        "count": 26,
+        "count": 36,
         "size_kb": 5.1
       },
       {
@@ -3113,17 +3119,17 @@
       },
       {
         "path": "images/icons/target.svg",
-        "count": 10,
+        "count": 20,
         "size_kb": 4.3
       },
       {
         "path": "images/icons/thought_bubble.svg",
-        "count": 76,
+        "count": 78,
         "size_kb": 2.1
       },
       {
         "path": "images/icons/tick.svg",
-        "count": 17,
+        "count": 21,
         "size_kb": 0.3
       },
       {
@@ -3138,7 +3144,7 @@
       },
       {
         "path": "images/icons/trophy_blue.png",
-        "count": 8,
+        "count": 10,
         "size_kb": 5.1
       },
       {
@@ -3148,7 +3154,7 @@
       },
       {
         "path": "images/icons/trust.svg",
-        "count": 12,
+        "count": 20,
         "size_kb": 18.9
       },
       {

@@ -357,14 +357,45 @@
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
+        },
+        "section_1_title": {
+          "eng": "HABLAR Y ESCUCHAR"
+        },
+        "section_1_text": {
+          "eng": "⭐ A muchas personas, sobre todo a las y los adolescentes, les cuesta trabajo hablar sobre sentimientos desagradables como la tristeza. Ignorar estos sentimientos puede complicar la situación. \n\n👂Durante sus tiempos juntos y conectados, pregúntale a @fields.child_name cómo se siente. Puedes decirle algo como: \"Te noto un poco triste, ¿quieres contarme qué pasó?\" o \"¿Me puedes compartir qué es lo que sientes?\".\n\n💡 Cuando @fields.child_name te comparta sus sentimientos, demuéstrale tu interés al parafrasear lo que te dijo y al hacerle preguntas relacionadas con el tema."
+        },
+        "section_2_title": {
+          "eng": "HACER COSAS QUE TE GUSTEN"
+        },
+        "section_2_text": {
+          "eng": "🌈 Cuando @fields.child_name o tú estén tristes, háganse este tipo de preguntas: \"Si no estuviera triste, ¿cuáles de las actividades que normalmente disfruto hacer estaría haciendo ahorita? Nombra, por lo menos, dos\". Podrían ser cosas como pasar tiempo con tus seres queridos, jugar a algo o escuchar música.\n\nNo pasa nada si @fields.child_name escoge una actividad que a ti no te gusta. Dejar que @fields.child_name elija le demuestra que quieres que se sienta mejor y que le apoyas.\n\n✨ Recuerda lo que viste en tu lección de chat: nuestros pensamientos, sentimientos y acciones están conectados. Hacer una actividad que nos gusta puede ayudar a mejorar nuestro estado de ánimo.\n\n📖 Intenta apartar tiempo para que tu adolescente y tú hagan las actividades que normalmente disfrutan hacer."
+        },
+        "section_3_title": {
+          "eng": "BUSCAR APOYO"
+        },
+        "section_3_text": {
+          "eng": "🔑 Animar a @fields.child_name a buscar apoyo, ya sea contigo o con otros seres queridos de confianza, puede ayudar a evitar que los sentimientos desagradables se vuelvan abrumadores.\n\nSi @fields.child_name o tú sienten:\n\n🔵 Tristeza o poca energía, más de lo normal\n🔵 Como si fuera difícil concentrarse en las cosas\n🔵 Como si no quisieran estar cerca de otras personas, o\n🔵 Que no disfrutan de las cosas que les gustan."
         }
       },
       "text_1_facilitator": "Recuerda:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {}
       },
-      "section_1_icon_asset": "images/icons/balance_blue.png",
-      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "section_1_icon_asset": "images/icons/speech_bubble_blue.png",
+      "section_2_icon_asset": "images/icons/smile_eyes_up.svg",
+      "section_3_icon_asset": "images/icons/trust.svg",
+      "section_1_title": "HABLAR Y ESCUCHAR",
+      "section_1_text": "⭐ A muchas personas, sobre todo a las y los adolescentes, les cuesta trabajo hablar sobre sentimientos desagradables como la tristeza. Ignorar estos sentimientos puede complicar la situación. \n\n👂Durante sus tiempos juntos y conectados, pregúntale a @fields.child_name cómo se siente. Puedes decirle algo como: \"Te noto un poco triste, ¿quieres contarme qué pasó?\" o \"¿Me puedes compartir qué es lo que sientes?\".\n\n💡 Cuando @fields.child_name te comparta sus sentimientos, demuéstrale tu interés al parafrasear lo que te dijo y al hacerle preguntas relacionadas con el tema.",
+      "section_2_title": "HACER COSAS QUE TE GUSTEN",
+      "section_2_text": "🌈 Cuando @fields.child_name o tú estén tristes, háganse este tipo de preguntas: \"Si no estuviera triste, ¿cuáles de las actividades que normalmente disfruto hacer estaría haciendo ahorita? Nombra, por lo menos, dos\". Podrían ser cosas como pasar tiempo con tus seres queridos, jugar a algo o escuchar música.\n\nNo pasa nada si @fields.child_name escoge una actividad que a ti no te gusta. Dejar que @fields.child_name elija le demuestra que quieres que se sienta mejor y que le apoyas.\n\n✨ Recuerda lo que viste en tu lección de chat: nuestros pensamientos, sentimientos y acciones están conectados. Hacer una actividad que nos gusta puede ayudar a mejorar nuestro estado de ánimo.\n\n📖 Intenta apartar tiempo para que tu adolescente y tú hagan las actividades que normalmente disfrutan hacer.",
+      "section_3_title": "BUSCAR APOYO",
+      "section_3_text": "🔑 Animar a @fields.child_name a buscar apoyo, ya sea contigo o con otros seres queridos de confianza, puede ayudar a evitar que los sentimientos desagradables se vuelvan abrumadores.\n\nSi @fields.child_name o tú sienten:\n\n🔵 Tristeza o poca energía, más de lo normal\n🔵 Como si fuera difícil concentrarse en las cosas\n🔵 Como si no quisieran estar cerca de otras personas, o\n🔵 Que no disfrutan de las cosas que les gustan.",
       "completed": false
     },
     {

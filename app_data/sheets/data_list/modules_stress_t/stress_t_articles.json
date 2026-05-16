@@ -89,18 +89,60 @@
     {
       "id": "practical_tips_2",
       "category_id": "explore",
-      "section_1_icon_asset": "images/icons/balance_blue.png",
-      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "section_1_icon_asset": "images/icons/eye_blue.png",
+      "section_2_icon_asset": "images/icons/speech_bubble_blue.png",
+      "section_3_icon_asset": "images/icons/parent_child.svg",
+      "section_4_icon_asset": "images/icons/heart_filled_blue.png",
       "nested": false,
       "text_1_facilitator": "Recuerda:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
+        },
+        "section_1_title": {
+          "eng": "IDENTIFICAR"
+        },
+        "section_1_text": {
+          "eng": "👀 Busca las señales y observa. Muchas veces el comportamiento suele indicar cuando se siente estrés.\n\n🚩 Puede que se enoje mucho o que busque estar en soledad todo el tiempo. También, puede quejarse mucho sobre su cansancio, ser incapaz de concentrarse o no tener ganas de hacer nada."
+        },
+        "section_2_title": {
+          "eng": "CONVERSAR"
+        },
+        "section_2_text": {
+          "eng": "❓ Deja que tu adolescente te cuente lo que le estresa. Intenta aceptar lo que te dice.\n\n😣 Puede que tu adolescente sienta mucho estrés por algo que a ti te parece pequeño o insignificante. Para tu adolescente, ¡puede ser algo muy importante!\n\n💛 Deja que te cuente lo que les estresa sin juzgarle. A veces, es importante simplemente escuchar y consolar a @fields.child_name, en lugar de resolver todos sus problemas."
+        },
+        "section_3_title": {
+          "eng": "ESTAR PRESENTE"
+        },
+        "section_3_text": {
+          "eng": "👂 Escucha lo que te dice aunque no puedas hacer nada al respecto.\n\n💚 Dile que es normal sentir estrés.\n\n💡 Ayúdale a decidir sobre qué cosas vale la pena preocuparse.\n\n🔑 Ayúdale a resolver, poco a poco y en la medida de lo posible, las cosas que le estén causando estrés."
+        },
+        "section_4_title": {
+          "eng": "CONSOLAR"
+        },
+        "section_4_text": {
+          "eng": "⭐ Consuela a tu adolescente, sé amable con @fields.child_name y recuérdale que también debe de ser amable consigo mismo.\n\n⏰ Ten paciencia y dale tiempo para que sienta sus emociones y las pueda manejar.\n\n💡 Si crees que puede ayudar, habla con tu adolescente sobre lo que podría hacer diferente la próxima vez."
         }
-      }
+      },
+      "section_1_title": "IDENTIFICAR",
+      "section_1_text": "👀 Busca las señales y observa. Muchas veces el comportamiento suele indicar cuando se siente estrés.\n\n🚩 Puede que se enoje mucho o que busque estar en soledad todo el tiempo. También, puede quejarse mucho sobre su cansancio, ser incapaz de concentrarse o no tener ganas de hacer nada.",
+      "section_2_title": "CONVERSAR",
+      "section_2_text": "❓ Deja que tu adolescente te cuente lo que le estresa. Intenta aceptar lo que te dice.\n\n😣 Puede que tu adolescente sienta mucho estrés por algo que a ti te parece pequeño o insignificante. Para tu adolescente, ¡puede ser algo muy importante!\n\n💛 Deja que te cuente lo que les estresa sin juzgarle. A veces, es importante simplemente escuchar y consolar a @fields.child_name, en lugar de resolver todos sus problemas.",
+      "section_3_title": "ESTAR PRESENTE",
+      "section_3_text": "👂 Escucha lo que te dice aunque no puedas hacer nada al respecto.\n\n💚 Dile que es normal sentir estrés.\n\n💡 Ayúdale a decidir sobre qué cosas vale la pena preocuparse.\n\n🔑 Ayúdale a resolver, poco a poco y en la medida de lo posible, las cosas que le estén causando estrés.",
+      "section_4_title": "CONSOLAR",
+      "section_4_text": "⭐ Consuela a tu adolescente, sé amable con @fields.child_name y recuérdale que también debe de ser amable consigo mismo.\n\n⏰ Ten paciencia y dale tiempo para que sienta sus emociones y las pueda manejar.\n\n💡 Si crees que puede ayudar, habla con tu adolescente sobre lo que podría hacer diferente la próxima vez."
     },
     {
       "id": "home_activity_1",

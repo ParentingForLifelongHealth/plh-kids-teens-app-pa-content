@@ -40,19 +40,11 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "hp_locked_image_asset",
-      "value": "images/homescreen/check_in/traditional_rondavel_closed.svg",
-      "_translations": {
-        "value": {}
-      }
+      "name": "hp_locked_image_asset"
     },
     {
       "type": "declare_global_constant",
-      "name": "hp_unlocked_image_asset",
-      "value": "images/homescreen/check_in/traditional_rondavel_open.svg",
-      "_translations": {
-        "value": {}
-      }
+      "name": "hp_unlocked_image_asset"
     },
     {
       "type": "declare_global_constant",
