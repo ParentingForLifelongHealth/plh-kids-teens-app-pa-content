@@ -12,7 +12,7 @@
       "media_asset": "audio/relax/relax_1.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -287,20 +287,62 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Lidiar con el enojo no es algo fácil 😔. Quizá nadie nos enseñó a regular nuestras emociones y a expresarlas de manera sana. \n\nRecuerda las 4️⃣ estrategias que puedes usar para regular la ira y comunicarte mejor con @fields.child_name:"
+          "eng": "Recuerda:"
+        },
+        "section_1_title": {
+          "eng": "IDENTIFICA"
+        },
+        "section_1_text": {
+          "eng": "¿Cómo se siente el enojo en tu mente y en tu cuerpo?\n\nCuando sentimos enojo, podemos llegar a sentir que el corazón nos late muy rápido, podemos tener pensamientos acelerados en nuestra cabeza, los músculos tensos o la cara caliente. \n\nPuede que tengamos ganas de gritar, decir cosas hirientes, castigar, golpear o romper cosas. \n\nSin embargo, es importante aprender a manejar el enojo para que ninguna persona resulte herida."
+        },
+        "section_2_title": {
+          "eng": "ENTIENDE"
+        },
+        "section_2_text": {
+          "eng": "Intenta identificar qué es lo que te está haciendo enojar. Puede ser difícil, pero haz una pausa y respira profundo unas cuantas veces y pregúntate: \"¿Por qué me molesta tanto esta situación?\".\n\nSi crees que no podrás regular tu enojo y que puedes herir a alguien, DETENTE y aléjate de la situación. \n\nDate tiempo para calmarte antes de responder. \n\nAcuérdate de ser amable contigo y recuerda que puedes controlar tus emociones y tu enojo sin necesidad de lastimar a nadie."
+        },
+        "section_3_title": {
+          "eng": "REGULA"
+        },
+        "section_3_text": {
+          "eng": "Si necesitas regular tu enojo antes de responder, puedes empezar haciendo una pausa o respirar profundamente un par veces. Ejemplo: inhalé profundamente por 4 segundos, mantiene 5 segundos y exhala por la boca. Repita unas cuantas veces hasta que se sienta calmado. \n\nSi el enojo sigue escalando, puedes distraerte con otras actividades hasta que se te pase la molestia. Por ejemplo, viendo un vídeo divertido.\n\nSi sigues sintiéndote igual, hacer alguna actividad física te puede ayudar a tolerar  malestar y a regular tus emociones. Puedes hacer algún ejercicio rápido, gritar contra una almohada en un espacio privado o conversar con un ser querido.  \n\nPuede que necesites probar estas estrategias más de una vez hasta que se vaya disminuyendo la intensidad del enojo."
+        },
+        "section_4_title": {
+          "eng": "COMUNICA"
+        },
+        "section_4_text": {
+          "eng": "Una vez que te hayas calmado, habla con {tu niño} sobre lo que pasó. \n\nExplícale la situación con calma y respeto. \n\nUsa las estrategias de este curso para conversar sobre las reglas de la casa y las consecuencias."
         }
       },
-      "text_1_facilitator": "Lidiar con el enojo no es algo fácil 😔. Quizá nadie nos enseñó a regular nuestras emociones y a expresarlas de manera sana. \n\nRecuerda las 4️⃣ estrategias que puedes usar para regular la ira y comunicarte mejor con @fields.child_name:",
+      "text_1_facilitator": "Recuerda:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
       },
-      "section_1_icon_asset": "images/icons/balance_blue.png",
-      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "section_1_icon_asset": "images/icons/magnifying_glass.svg",
+      "section_2_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_3_icon_asset": "images/icons/breathe.svg",
+      "section_4_icon_asset": "images/icons/speech_bubble_blue.png",
+      "section_1_title": "IDENTIFICA",
+      "section_1_text": "¿Cómo se siente el enojo en tu mente y en tu cuerpo?\n\nCuando sentimos enojo, podemos llegar a sentir que el corazón nos late muy rápido, podemos tener pensamientos acelerados en nuestra cabeza, los músculos tensos o la cara caliente. \n\nPuede que tengamos ganas de gritar, decir cosas hirientes, castigar, golpear o romper cosas. \n\nSin embargo, es importante aprender a manejar el enojo para que ninguna persona resulte herida.",
+      "section_2_title": "ENTIENDE",
+      "section_2_text": "Intenta identificar qué es lo que te está haciendo enojar. Puede ser difícil, pero haz una pausa y respira profundo unas cuantas veces y pregúntate: \"¿Por qué me molesta tanto esta situación?\".\n\nSi crees que no podrás regular tu enojo y que puedes herir a alguien, DETENTE y aléjate de la situación. \n\nDate tiempo para calmarte antes de responder. \n\nAcuérdate de ser amable contigo y recuerda que puedes controlar tus emociones y tu enojo sin necesidad de lastimar a nadie.",
+      "section_3_title": "REGULA",
+      "section_3_text": "Si necesitas regular tu enojo antes de responder, puedes empezar haciendo una pausa o respirar profundamente un par veces. Ejemplo: inhalé profundamente por 4 segundos, mantiene 5 segundos y exhala por la boca. Repita unas cuantas veces hasta que se sienta calmado. \n\nSi el enojo sigue escalando, puedes distraerte con otras actividades hasta que se te pase la molestia. Por ejemplo, viendo un vídeo divertido.\n\nSi sigues sintiéndote igual, hacer alguna actividad física te puede ayudar a tolerar  malestar y a regular tus emociones. Puedes hacer algún ejercicio rápido, gritar contra una almohada en un espacio privado o conversar con un ser querido.  \n\nPuede que necesites probar estas estrategias más de una vez hasta que se vaya disminuyendo la intensidad del enojo.",
+      "section_4_title": "COMUNICA",
+      "section_4_text": "Una vez que te hayas calmado, habla con {tu niño} sobre lo que pasó. \n\nExplícale la situación con calma y respeto. \n\nUsa las estrategias de este curso para conversar sobre las reglas de la casa y las consecuencias.",
       "completed": false
     },
     {
-      "id": "practise_1",
-      "category_id": "practise",
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {

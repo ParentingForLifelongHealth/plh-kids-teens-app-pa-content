@@ -20,7 +20,14 @@
       "value": "Escribe tu nombre"
     },
     {
-      "value": " ¿Cuántos años tienes?"
+      "type": "declare_global_constant",
+      "name": "question_user_age",
+      "value": "¿Cuántos años tienes?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_user_age",
+      "value": "Ingresa un nombre"
     },
     {
       "type": "declare_global_constant",

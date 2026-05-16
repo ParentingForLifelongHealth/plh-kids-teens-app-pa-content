@@ -12,7 +12,7 @@
       "media_asset": "audio/relax/relax_1.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -72,6 +72,22 @@
     },
     {
       "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "¡Te damos la bienvenida a tu primera lección en @global.app_name!\n\nCada sesión comienza con un momento para relajarte y un breve registro sobre cómo te sientes.\n\nAprenderás consejos sencillos de crianza y, al final de cada habilidad, encontrarás una actividad para practicar en casa con tu niña, niño o adolescente.\n\nCompleta el curso y responde las preguntas sobre las actividades prácticas para obtener tu certificado. 🎉"
+        }
+      },
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "text_1_facilitator": "¡Te damos la bienvenida a tu primera lección en @global.app_name!\n\nCada sesión comienza con un momento para relajarte y un breve registro sobre cómo te sientes.\n\nAprenderás consejos sencillos de crianza y, al final de cada habilidad, encontrarás una actividad para practicar en casa con tu niña, niño o adolescente.\n\nCompleta el curso y responde las preguntas sobre las actividades prácticas para obtener tu certificado. 🎉",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "intro_2",
       "category_id": "intro",
       "nested": false,
       "_translatedFields": {
@@ -236,7 +252,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Recuerda las estrategias:"
+          "eng": "Recuerda:"
         },
         "section_1_title": {
           "eng": "PRACTICA"
@@ -258,7 +274,7 @@
         }
       },
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "text_1_facilitator": "Recuerda las estrategias:",
+      "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},

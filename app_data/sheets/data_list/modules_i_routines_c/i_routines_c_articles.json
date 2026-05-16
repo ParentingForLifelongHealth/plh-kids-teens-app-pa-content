@@ -162,7 +162,7 @@
       "section_2_icon_asset": "images/icons/clock_blue.png",
       "section_3_icon_asset": "images/icons/heart_filled_blue.png",
       "nested": false,
-      "text_1_facilitator": "Recuerda las estrategias:",
+      "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -174,7 +174,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Recuerda las estrategias:"
+          "eng": "Recuerda:"
         },
         "section_1_title": {
           "eng": "SEAN UN EQUIPO"
@@ -203,8 +203,8 @@
       "section_3_text": "🏅Reconoce a @fields.child_name por haber establecido una rutina contigo.\n⭐ Reconoce a @fields.child_name cuando siga esa rutina."
     },
     {
-      "id": "practise_1",
-      "category_id": "practise",
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "nested": false,
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nHaz que el tiempo juntos y conectados con @fields.child_name se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝",
       "_translations": {

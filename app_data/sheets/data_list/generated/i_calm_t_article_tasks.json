@@ -12,7 +12,7 @@
       "media_asset": "audio/relax/relax_4.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!",
-      "transcript_1_spanish": "Cierra los ojos.\n\nUsa el poder mágico del tres para mantenerte conectado(a) y relajarte.\n\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\n\n¿Te sientes diferente? Respirar profundo ayuda a calmar el cuerpo y la mente.\n\nMuy bien. Ya estás listo(a) para comenzar tu lección.",
+      "transcript": "Cierra los ojos.\n\nUsa el poder mágico del tres para mantenerte conectado(a) y relajarte.\n\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\n\n¿Te sientes diferente? Respirar profundo ayuda a calmar el cuerpo y la mente.\n\nMuy bien. Ya estás listo(a) para comenzar tu lección.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -233,7 +233,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Recuerda las estrategias para mantener la calma cuando hay estrés:"
+          "eng": "Recuerda:"
         },
         "section_1_title": {
           "eng": "MANTEN LA CALMA"
@@ -260,7 +260,7 @@
           "eng": "✅ ¡Elogia y elogia a @fields.child_name cuando se porte bien! \n✅ ¡También le ayudará a saber lo que esperas de él o ella!"
         }
       },
-      "text_1_facilitator": "Recuerda las estrategias para mantener la calma cuando hay estrés:",
+      "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -287,8 +287,8 @@
       "completed": false
     },
     {
-      "id": "practise_1",
-      "category_id": "practise",
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {

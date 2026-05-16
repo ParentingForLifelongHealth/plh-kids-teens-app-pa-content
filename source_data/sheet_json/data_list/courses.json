@@ -7,7 +7,7 @@
   "rows": [
     {
       "id": "relation_c",
-      "core": true,
+      "core": false,
       "tag_list": "child",
       "caregiver_gender_list": "male; female; opt_out;",
       "title::eng": "Mejorar la relación con mi niña o niño",
@@ -16,7 +16,7 @@
     },
     {
       "id": "relation_t",
-      "core": true,
+      "core": false,
       "tag_list": "teen",
       "caregiver_gender_list": "male; female; opt_out;",
       "title::eng": "Mejorar la relación con mi adolescente",

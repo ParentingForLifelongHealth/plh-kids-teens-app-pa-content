@@ -50,7 +50,6 @@
       "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "youtube link",
-      "section_1_icon_asset": "images/icons/balance_blue.png",
       "nested": false,
       "text_1_facilitator": "Selecciona reproducir ▶️ para aprender ️cuatro estrategias más para ayudar a @fields.child_name a aprender a leer:\n\n1️⃣USAR LIBROS PARA APRENDER\n2️⃣IDENTIFICAR LETRAS\n3️⃣JUGAR JUEGOS DE PALABRAS\n4️⃣EMPEZAR A ESCRIBIR",
       "_translations": {
@@ -65,12 +64,12 @@
     {
       "id": "practical_tips_2",
       "category_id": "practical_tips",
-      "section_1_icon_asset": "https://drive.google.com/file/d/1hfWPX9i6ZpYVChhK8_6AafGeqSNCgYOg/view?usp=drive_link",
-      "section_2_icon_asset": "https://drive.google.com/file/d/1JYdcbkVuoMB64KZFOtWUd01yErpe19ac/view?usp=drive_link",
-      "section_3_icon_asset": "https://drive.google.com/file/d/1H0X72PVEhhmWbrzS5AMDtRQq37xnGWY_/view?usp=drive_link",
-      "section_4_icon_asset": "pencil.svg",
+      "section_1_icon_asset": "images/icons/picture_book.svg",
+      "section_2_icon_asset": "images/icons/abc.svg",
+      "section_3_icon_asset": "images/icons/football_blue.png",
+      "section_4_icon_asset": "images/icons/pencil.svg",
       "nested": false,
-      "text_1_facilitator": "Recuerda estas 4️⃣ estrategias más paraayudar a @fields.child_name a desarrollar habilidades lectoras:",
+      "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -84,7 +83,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Recuerda estas 4️⃣ estrategias más paraayudar a @fields.child_name a desarrollar habilidades lectoras:"
+          "eng": "Recuerda:"
         },
         "section_1_title": {
           "eng": "USAR LIBROS PARA APRENDER"
@@ -121,8 +120,8 @@
       "section_4_text": "🧸🌷 Anima a tu niña o niño a dibujar. Puede empezar dibujando cosas que le gusten, como animales o flores.\n\n▶️ Ayúdale a identificar su mano dominante preguntándole: \"¿Con qué mano prefieres dibujar?\" Si su respuesta es que usa las dos manos, permítele dibujar con ambas.\n\n🎨 A continuación, enséñale a dibujar figuras que parezcan letras: 🔵🔶\n\n👋 Ayúdale a practicar el trazado de letras en el aire y sobre una superficie usando sus dedos.\n\n😃 Después, ayúdale a escribir letras sencillas con crayones. ¡Empieza practicando con la primera letra de su nombre!\n\n🔄 Practica y ve agregando letras hasta que pueda escribir su nombre completo. Después, ¡aprendan más letras usando diferentes palabras!"
     },
     {
-      "id": "practise_1",
-      "category_id": "practise",
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "nested": false,
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nDurante su tiempo juntos y conectados, ayuda a @fields.child_name a dibujar o escribir para practicar ✍️",
       "_translations": {

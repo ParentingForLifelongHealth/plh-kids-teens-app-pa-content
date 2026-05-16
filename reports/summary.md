@@ -33,16 +33,16 @@
 | round_button | 11 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 3899 |
+| set_variable | 3901 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 1220 |
-| text | 179 |
+| template | 1221 |
+| text | 193 |
 | text_area | 3 |
 | text_box | 16 |
 | text_bubble | 9 |
-| title | 53 |
+| title | 54 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
 | video | 3 |
@@ -57,13 +57,13 @@
 | add_data | 1 |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 827 |
+| emit: completed | 828 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 7 |
 | emit: set_language | 2 |
-| emit: uncompleted | 844 |
+| emit: uncompleted | 845 |
 | feedback | 13 |
 | go_to | 18 |
 | nav_stack | 498 |
@@ -87,8 +87,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 64301 KB | 64.3 MB |
-| unused | 25405 KB | 25.4 MB |
+| total | 64719 KB | 64.7 MB |
+| unused | 31431 KB | 31.4 MB |
 </details>
 
 <details open>
@@ -185,10 +185,21 @@ Assets that appear in app-data but do not have references within sheets
 | images/facilitators/Angela_female.jpg | 7857.1 |
 | images/facilitators/Presenters illustrations.pdf | 473 |
 | images/flags/gb.svg | 0.5 |
+| images/homescreen/OLD homescreen images/OLD behave_c.svg | 1039 |
+| images/homescreen/OLD homescreen images/OLD learn_c.svg | 450.4 |
+| images/homescreen/OLD homescreen images/OLD learn_t.svg | 618.7 |
+| images/homescreen/OLD homescreen images/OLD relation_c.svg | 760 |
+| images/homescreen/OLD homescreen images/OLD relation_t.svg | 622.7 |
+| images/homescreen/OLD homescreen images/OLD safety_c.svg | 595.9 |
+| images/homescreen/OLD homescreen images/OLD safety_t.svg | 699.7 |
+| images/homescreen/OLD homescreen images/OLD understand_t.svg | 549.4 |
+| images/homescreen/OLD homescreen images/OLDunderstand_c.svg | 598.3 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/book_outline_white.svg | 0.7 |
 | images/icons/cancel.svg | 1.7 |
+| images/icons/caution.svg | 2.1 |
 | images/icons/diamond_blue.png | 4.7 |
+| images/icons/distance.svg | 87.9 |
 | images/icons/document.svg | 7.3 |
 | images/icons/expand_circle_right.svg | 0.5 |
 | images/icons/faces/angry.svg | 1.1 |
@@ -208,14 +219,13 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/lock-closed-outline.svg | 0.4 |
 | images/icons/lock.svg | 0.5 |
 | images/icons/magnify_glass.svg | 1.9 |
+| images/icons/no.svg | 7.1 |
 | images/icons/notification_bell.png | 0.9 |
 | images/icons/pause_white.svg | 0.7 |
 | images/icons/play.svg | 0.5 |
 | images/icons/play_white.svg | 0.5 |
 | images/icons/profile_card.svg | 7.4 |
-| images/icons/question_blue.png | 3.4 |
 | images/icons/repeat_blue.png | 5.4 |
-| images/icons/spark.png | 1.6 |
 | images/icons/star_outline_white.svg | 1 |
 | images/icons/tablet_blue.png | 2.8 |
 | images/icons/tick_white.svg | 0.3 |
@@ -255,22 +265,11 @@ Assets that have references within sheets but do not appear in app-data
 | images/comic/relation/calm_yc_3.svg | 2 |
 | images/homescreen/check_in/traditional_rondavel_closed.svg | 1 |
 | images/homescreen/check_in/traditional_rondavel_open.svg | 1 |
-| images/homescreen/i_calm_c.svg | 2 |
-| images/homescreen/i_calm_t.svg | 2 |
-| images/homescreen/i_feelings_c.svg | 2 |
-| images/homescreen/i_feelings_t.svg | 2 |
-| images/homescreen/i_give_praise_c.svg | 2 |
-| images/homescreen/i_give_praise_t.svg | 2 |
-| images/homescreen/i_one_on_one_c.svg | 2 |
-| images/homescreen/i_one_on_one_t.svg | 2 |
-| images/homescreen/i_routines_c.svg | 2 |
-| images/homescreen/i_routines_t.svg | 2 |
 | images/icons/diamond_blue.svg | 4 |
 | images/icons/picture_blue.svg | 2 |
 | images/logos/MIDES.png | 1 |
 | images/logos/app_logo.png | 1 |
 | images/logos/plh_logomark.png | 1 |
-| pencil.svg | 4 |
 </details>
 
 <details >
@@ -624,22 +623,27 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/comic/understand/young_child_change_yc_2.svg | 40.9 | 2 |
 | images/comic/understand/young_child_change_yc_3.svg | 37 | 2 |
 | images/comic/understand/young_child_change_yc_4.svg | 38 | 2 |
-| images/homescreen/behave_c.svg | 1039 | 13 |
-| images/homescreen/behave_t.svg | 518.5 | 13 |
+| images/homescreen/behave_c.svg | 929.8 | 15 |
+| images/homescreen/behave_t.svg | 518.5 | 15 |
 | images/homescreen/ipv.svg | 691.3 | 13 |
-| images/homescreen/learn_c.svg | 450.4 | 13 |
-| images/homescreen/learn_t.svg | 618.7 | 11 |
-| images/homescreen/relation_c.svg | 760 | 13 |
-| images/homescreen/relation_t.svg | 622.7 | 13 |
-| images/homescreen/safety_c.svg | 595.9 | 13 |
-| images/homescreen/safety_t.svg | 699.7 | 13 |
-| images/homescreen/understand_c.svg | 598.3 | 13 |
-| images/homescreen/understand_t.svg | 549.4 | 13 |
-| images/icons/balance_blue.png | 4.7 | 168 |
+| images/homescreen/learn_c.svg | 578.4 | 15 |
+| images/homescreen/learn_t.svg | 534.4 | 13 |
+| images/homescreen/relation_c.svg | 835.9 | 15 |
+| images/homescreen/relation_t.svg | 754.8 | 15 |
+| images/homescreen/safety_c.svg | 468.4 | 15 |
+| images/homescreen/safety_t.svg | 652.6 | 15 |
+| images/homescreen/understand_c.svg | 754.1 | 15 |
+| images/homescreen/understand_t.svg | 738.3 | 15 |
+| images/icons/123.svg | 18.9 | 6 |
+| images/icons/abc.svg | 10.6 | 2 |
+| images/icons/balance_blue.png | 4.7 | 100 |
 | images/icons/brain_blue.png | 5.2 | 4 |
+| images/icons/breathe.svg | 8.7 | 10 |
 | images/icons/celebration.svg | 70.4 | 1 |
+| images/icons/change.svg | 4.1 | 4 |
 | images/icons/chatbubble-ellipses-outline.svg | 0.8 | 1 |
-| images/icons/clock_blue.png | 4.5 | 12 |
+| images/icons/climb.svg | 9.8 | 6 |
+| images/icons/clock_blue.png | 4.5 | 16 |
 | images/icons/diamond-outline.svg | 0.6 | 2 |
 | images/icons/diamond.png | 1.8 | 1 |
 | images/icons/diamond_active.png | 1.7 | 1 |
@@ -649,15 +653,17 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/download.svg | 0.7 | 1 |
 | images/icons/expand_circle_right.png | 0.9 | 1 |
 | images/icons/expand_circle_right_blue.svg | 2.1 | 2 |
-| images/icons/eye_blue.png | 4.2 | 10 |
+| images/icons/eye_blue.png | 4.2 | 16 |
 | images/icons/faces/happy.svg | 0.6 | 11 |
 | images/icons/faces/happy_face_new.svg | 1.4 | 134 |
 | images/icons/faces/neutral.svg | 0.5 | 11 |
 | images/icons/faces/ok_face_new.svg | 0.5 | 134 |
 | images/icons/faces/sad.svg | 0.6 | 11 |
 | images/icons/faces/sad_face_new.svg | 1.5 | 134 |
-| images/icons/football_blue.png | 5.1 | 4 |
+| images/icons/figures.svg | 2.8 | 6 |
+| images/icons/football_blue.png | 5.1 | 8 |
 | images/icons/globe-outline.svg | 0.8 | 1 |
+| images/icons/hands_heart.svg | 9.4 | 6 |
 | images/icons/heart-outline.png | 1.5 | 1 |
 | images/icons/heart.png | 1.3 | 2 |
 | images/icons/heart_filled.png | 1.4 | 1 |
@@ -671,7 +677,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/home_white.svg | 0.7 | 1 |
 | images/icons/in_progress.svg | 1.1 | 1 |
 | images/icons/information-circle-outline.svg | 0.6 | 1 |
-| images/icons/lightbulb_blue.png | 3.6 | 10 |
+| images/icons/lightbulb_blue.png | 3.6 | 18 |
+| images/icons/listen.svg | 6.1 | 2 |
 | images/icons/local_library.svg | 1.6 | 1 |
 | images/icons/local_library_active.svg | 1.6 | 1 |
 | images/icons/local_library_white.svg | 1.9 | 1 |
@@ -679,30 +686,35 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/lock-open-outline.svg | 0.4 | 2 |
 | images/icons/locked.png | 0.7 | 2 |
 | images/icons/log-in-outline.svg | 0.5 | 1 |
-| images/icons/magnifying_glass.svg | 0.9 | 76 |
-| images/icons/parent_child.svg | 2 | 2 |
+| images/icons/magnifying_glass.svg | 0.9 | 88 |
+| images/icons/maths.svg | 7.1 | 4 |
+| images/icons/parent_child.svg | 2 | 8 |
 | images/icons/parent_child_heart.svg | 3 | 78 |
 | images/icons/pause.svg | 0.7 | 78 |
-| images/icons/pencil.svg | 1.1 | 76 |
+| images/icons/pencil.svg | 1.1 | 78 |
 | images/icons/person-circle-outline.svg | 0.8 | 1 |
-| images/icons/picture_book.svg | 1.8 | 76 |
+| images/icons/picture_book.svg | 1.8 | 82 |
+| images/icons/question_blue.png | 3.4 | 8 |
 | images/icons/question_mark_blue.svg | 0.8 | 1 |
 | images/icons/settings.svg | 2.4 | 1 |
 | images/icons/settings_active.svg | 2.4 | 1 |
 | images/icons/settings_white.svg | 2.4 | 1 |
 | images/icons/share.svg | 4.2 | 3 |
-| images/icons/single_speech_blue.png | 3.3 | 8 |
+| images/icons/single_speech_blue.png | 3.3 | 10 |
 | images/icons/smile_eyes_down.svg | 0.9 | 80 |
-| images/icons/smile_eyes_up.svg | 1 | 154 |
-| images/icons/speech_bubble_blue.png | 4.2 | 12 |
-| images/icons/star_filled_blue.png | 5.1 | 14 |
-| images/icons/star_outline_blue.svg | 1 | 1 |
+| images/icons/smile_eyes_up.svg | 1 | 156 |
+| images/icons/spark.png | 1.6 | 4 |
+| images/icons/speech_bubble_blue.png | 4.2 | 16 |
+| images/icons/star_filled_blue.png | 5.1 | 26 |
+| images/icons/star_outline_blue.svg | 1 | 5 |
+| images/icons/target.svg | 4.3 | 10 |
 | images/icons/thought_bubble.svg | 2.1 | 76 |
-| images/icons/tick.svg | 0.3 | 3 |
+| images/icons/tick.svg | 0.3 | 17 |
 | images/icons/trophy.png | 1.6 | 1 |
 | images/icons/trophy_active.png | 1.7 | 1 |
-| images/icons/trophy_blue.png | 5.1 | 4 |
+| images/icons/trophy_blue.png | 5.1 | 8 |
 | images/icons/trophy_large.svg | 2.2 | 1 |
+| images/icons/trust.svg | 18.9 | 12 |
 | images/logos/Crianza-03.png | 17.9 | 2 |
 | images/logos/IDEMS.png | 42.7 | 1 |
 | images/logos/PLH.png | 33.9 | 1 |
@@ -802,6 +814,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 8 |
 | global | onboarding | 7 |
 | template |  | 169 |
-| template | generated | 959 |
+| template | generated | 960 |
 | template | legal_terms | 4 |
 </details>

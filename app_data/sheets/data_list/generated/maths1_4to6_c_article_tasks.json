@@ -12,7 +12,7 @@
       "media_asset": "audio/relax/relax_1.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_1_spanish": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -169,20 +169,51 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Recuerda las tres estrategias para ayudar a @fields.child_name a desarrollar habilidades matemáticas."
+          "eng": "Recuerda:"
+        },
+        "section_1_title": {
+          "eng": "CONTAR"
+        },
+        "section_1_text": {
+          "eng": "🔴 Contar es una habilidad que {tu niño} puede empezar a desarrollar a una edad temprana. 1️⃣2️⃣3️⃣\n\n🚗 Pídele a {tu niño} que cuente cosas a su alrededor: coches, personas, casas, cuántos pasos hay entre un lugar y otro, ¡y los dedos de sus manos y sus pies! 👋\n\n⭐ Pídele a {tu niño} que te cuente cosas durante las actividades del día a día: puede contarte cosas mientras cocinas, como las verduras; mientras ordenas la ropa, como calcetines; o mientras estás en el supermercado.\n\n🎵 Canta canciones con {tu niño} que hagan referencia a los números.\n\n🎨 Anima a {tu niño} a dibujar cosas y pregúntale cuántas cosas hay en los dibujos."
+        },
+        "section_2_title": {
+          "eng": "BUSCAR NÚMEROS"
+        },
+        "section_2_text": {
+          "eng": "📱Los números están por todas partes si los buscas bien. Los puedes encontrar en los empaques de los alimentos e incluso en el control de la tele.\n\n👀 Siempre que veas un número, pregúntale a {tu niño} cuál es.\n\n😃 ¡Si no lo sabe, ayúdale!"
+        },
+        "section_3_title": {
+          "eng": "APRENDER CON FIGURAS GEOMÉTRICAS"
+        },
+        "section_3_text": {
+          "eng": "🔷 ¡Conocer las figuras geométricas también es importante en matemáticas! Las figuras se pueden encontrar por todas partes al igual que los números, así que búscalas y habla de ellas. ¡Hasta las pueden hacer! 👀\n\n🔴 Ayúdale a {tu niño} a dibujar diferentes figuras.\n \n🔵 Si puedes, recórtalos y ayuda a {tu niño} a clasificarlas en grupos (por color, forma, tamaño, ¡o como {tu niño} quiera!). Pregúntale por qué las clasifica de esa manera.\n\n🔶 ¡Habla con {tu niño} sobre las figuras y diviértanse con ellas! 😃\n\nReconoce cada esfuerzo que haga tu niña o niño, por más pequeño que sea. Puedes decirle: ¡Buen trabajo juntando esas figuras! \n\nSi tu niña o niño se atora en algún momento, puedes hacerle preguntas abiertas para ayudarle. Puedes decirle: ¿Dónde crees que va el cuadrado verde? \n\nReconoce y elogia los intentos de tu niña o niño por aprender cosas nuevas. Enfócate en lo que hace bien, no en sus errores."
         }
       },
-      "text_1_facilitator": "Recuerda las tres estrategias para ayudar a @fields.child_name a desarrollar habilidades matemáticas.",
+      "text_1_facilitator": "Recuerda:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {}
       },
-      "section_1_icon_asset": "images/icons/balance_blue.png",
-      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "section_1_icon_asset": "images/icons/maths.svg",
+      "section_2_icon_asset": "images/icons/123.svg",
+      "section_3_icon_asset": "images/icons/figures.svg",
+      "section_1_title": "CONTAR",
+      "section_1_text": "🔴 Contar es una habilidad que {tu niño} puede empezar a desarrollar a una edad temprana. 1️⃣2️⃣3️⃣\n\n🚗 Pídele a {tu niño} que cuente cosas a su alrededor: coches, personas, casas, cuántos pasos hay entre un lugar y otro, ¡y los dedos de sus manos y sus pies! 👋\n\n⭐ Pídele a {tu niño} que te cuente cosas durante las actividades del día a día: puede contarte cosas mientras cocinas, como las verduras; mientras ordenas la ropa, como calcetines; o mientras estás en el supermercado.\n\n🎵 Canta canciones con {tu niño} que hagan referencia a los números.\n\n🎨 Anima a {tu niño} a dibujar cosas y pregúntale cuántas cosas hay en los dibujos.",
+      "section_2_title": "BUSCAR NÚMEROS",
+      "section_2_text": "📱Los números están por todas partes si los buscas bien. Los puedes encontrar en los empaques de los alimentos e incluso en el control de la tele.\n\n👀 Siempre que veas un número, pregúntale a {tu niño} cuál es.\n\n😃 ¡Si no lo sabe, ayúdale!",
+      "section_3_title": "APRENDER CON FIGURAS GEOMÉTRICAS",
+      "section_3_text": "🔷 ¡Conocer las figuras geométricas también es importante en matemáticas! Las figuras se pueden encontrar por todas partes al igual que los números, así que búscalas y habla de ellas. ¡Hasta las pueden hacer! 👀\n\n🔴 Ayúdale a {tu niño} a dibujar diferentes figuras.\n \n🔵 Si puedes, recórtalos y ayuda a {tu niño} a clasificarlas en grupos (por color, forma, tamaño, ¡o como {tu niño} quiera!). Pregúntale por qué las clasifica de esa manera.\n\n🔶 ¡Habla con {tu niño} sobre las figuras y diviértanse con ellas! 😃\n\nReconoce cada esfuerzo que haga tu niña o niño, por más pequeño que sea. Puedes decirle: ¡Buen trabajo juntando esas figuras! \n\nSi tu niña o niño se atora en algún momento, puedes hacerle preguntas abiertas para ayudarle. Puedes decirle: ¿Dónde crees que va el cuadrado verde? \n\nReconoce y elogia los intentos de tu niña o niño por aprender cosas nuevas. Enfócate en lo que hace bien, no en sus errores.",
       "completed": false
     },
     {
-      "id": "practise_1",
-      "category_id": "practise",
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {

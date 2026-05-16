@@ -37,27 +37,17 @@
     {
       "type": "declare_global_constant",
       "name": "question_child_age",
-      "value": "¿Cuántos años tiene tu niña, niño o adolescente?"
+      "value": "how old is your child"
     },
     {
       "type": "declare_global_constant",
       "name": "placeholder_child_age",
-      "value": "Ingresa su edad"
+      "value": "enter age"
     },
     {
       "type": "declare_global_constant",
       "name": "child_age_input_restriction",
-      "value": "@global.app_name está diseñado para madres, padres y personas cuidadoras de niñas, niños y adolescentes entre 2 y 17 años."
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "family_relation",
-      "value": "¿Cuál es tu relación con tu niña, niño o adolescente?"
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "placeholder_family_relation",
-      "value": "Selecciona una opción"
+      "value": "you must enter an age between 2 and 17"
     }
   ]
 }

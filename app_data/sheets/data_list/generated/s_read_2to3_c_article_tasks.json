@@ -12,7 +12,7 @@
       "media_asset": "audio/relax/relax_3.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
-      "transcript_1_spanish": "Cierra los ojos y piensa en tu día.\n\nNombra una cosa por la que te sientes agradecido.\nNombra una cosa que hiciste bien.\nNombra una cosa que amas.\n\nMuy bien. Gracias por acompañarnos hoy en ParentApp.",
+      "transcript": "Cierra los ojos y piensa en tu día.\n\nNombra una cosa por la que te sientes agradecido.\nNombra una cosa que hiciste bien.\nNombra una cosa que amas.\n\nMuy bien. Gracias por acompañarnos hoy en ParentApp.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -245,7 +245,6 @@
         "text_1_facilitator": {}
       },
       "youtube_gb_en": "youtube link",
-      "section_1_icon_asset": "images/icons/balance_blue.png",
       "completed": false
     },
     {
@@ -254,7 +253,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Recuerda las 5️⃣ estrategias para preparar a @fields.child_name para aprender a leer cuando sea mayor. \n\nTodas las actividades se centran en leer libros juntos 💙"
+          "eng": "Recuerda:"
         },
         "section_1_title": {
           "eng": "COMPARTIR LIBROS"
@@ -287,7 +286,7 @@
           "eng": "💙 ¡Ayuda a aumentar la confianza de @fields.child_name al hacerle preguntas que sepa responder correctamente o que le animen a ir un poco más allá y desarrollar su habilidad!  \n\n🎨 Siempre busca conectar lo que hay en el libro con la experiencia cotidiana de @fields.child_name."
         }
       },
-      "text_1_facilitator": "Recuerda las 5️⃣ estrategias para preparar a @fields.child_name para aprender a leer cuando sea mayor. \n\nTodas las actividades se centran en leer libros juntos 💙",
+      "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -301,11 +300,11 @@
         "section_5_title": {},
         "section_5_text": {}
       },
-      "section_1_icon_asset": "https://drive.google.com/file/d/15IVchckRH4AqfWYWlrH5KmRRrecq-8Ij/view?usp=drive_link",
-      "section_2_icon_asset": "https://drive.google.com/file/d/19m7O3_jqHUfyLx4PRG1NnnwzXiYlAhwS/view?usp=drive_link",
-      "section_3_icon_asset": "https://drive.google.com/file/d/1LszHYmtJlkCzd6jD9TCRlQmsc03sFoyb/view?usp=drive_link",
-      "section_4_icon_asset": "https://drive.google.com/file/d/1hfWPX9i6ZpYVChhK8_6AafGeqSNCgYOg/view?usp=drive_link",
-      "section_5_icon_asset": "https://drive.google.com/file/d/1yuMaNGzZNRXTUkoIoYGxcyps__hKv0KX/view?usp=drive_link",
+      "section_1_icon_asset": "images/icons/picture_book.svg",
+      "section_2_icon_asset": "images/icons/clock_blue.png",
+      "section_3_icon_asset": "images/icons/question_blue.png",
+      "section_4_icon_asset": "images/icons/magnifying_glass.svg",
+      "section_5_icon_asset": "images/icons/trust.svg",
       "section_1_title": "COMPARTIR LIBROS",
       "section_1_text": "💡 Los libros sin palabras ayudan con la imaginación, las ideas y el aprendizaje de palabras nuevas. En conjunto, nombren y describan lo que hay en los dibujos. Intenta comunicarte de un modo que sea fácil de entender para @fields.child_name.\n\n⭐ ¡Los libros que contienen palabras ayudan a comprender las letras y sus sonidos!\n\n🎵 Enfócate en palabras o frases cortas que rimen, se repitan y empiecen por la misma letra o terminen con el mismo sonido, como \"piña para la niña\", \"el león comelón\", o \"el zorro pide socorro\".",
       "section_2_title": "CREAR RUTINAS",
@@ -319,8 +318,8 @@
       "completed": false
     },
     {
-      "id": "practise_1",
-      "category_id": "practise",
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
