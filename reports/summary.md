@@ -87,8 +87,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 64719 KB | 64.7 MB |
-| unused | 31431 KB | 31.4 MB |
+| total | 64720 KB | 64.7 MB |
+| unused | 31426 KB | 31.4 MB |
 </details>
 
 <details open>
@@ -198,7 +198,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/book_outline_white.svg | 0.7 |
 | images/icons/cancel.svg | 1.7 |
 | images/icons/caution.svg | 2.1 |
-| images/icons/diamond_blue.png | 4.7 |
 | images/icons/distance.svg | 87.9 |
 | images/icons/document.svg | 7.3 |
 | images/icons/expand_circle_right.svg | 0.5 |
@@ -263,9 +262,8 @@ Assets that have references within sheets but do not appear in app-data
 | path | count |
 | --- | --- |
 | images/comic/relation/calm_yc_3.svg | 2 |
-| images/homescreen/check_in/traditional_rondavel_closed.svg | 1 |
-| images/homescreen/check_in/traditional_rondavel_open.svg | 1 |
 | images/icons/diamond_blue.svg | 4 |
+| images/icons/heart_filles_blue.png | 4 |
 | images/icons/picture_blue.svg | 2 |
 | images/logos/MIDES.png | 1 |
 | images/logos/app_logo.png | 1 |
@@ -371,7 +369,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/activities/tenis.svg | 48.3 | 4 |
 | images/activities/veo.svg | 119.6 | 2 |
 | images/activities/verduras.svg | 97.8 | 2 |
-| images/backgrounds/bottom_banner.svg | 23.2 | 1 |
+| images/backgrounds/bottom_banner.svg | 3.6 | 1 |
 | images/backgrounds/complete_module.svg | 4.5 | 1 |
 | images/backgrounds/kites.svg | 37.3 | 1 |
 | images/backgrounds/lesson-cta-bg.svg | 4 | 2 |
@@ -634,26 +632,27 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/homescreen/safety_t.svg | 652.6 | 15 |
 | images/homescreen/understand_c.svg | 754.1 | 15 |
 | images/homescreen/understand_t.svg | 738.3 | 15 |
-| images/icons/123.svg | 18.9 | 6 |
+| images/icons/123.svg | 18.9 | 10 |
 | images/icons/abc.svg | 10.6 | 2 |
-| images/icons/balance_blue.png | 4.7 | 100 |
+| images/icons/balance_blue.png | 4.7 | 18 |
 | images/icons/brain_blue.png | 5.2 | 4 |
-| images/icons/breathe.svg | 8.7 | 10 |
+| images/icons/breathe.svg | 8.7 | 18 |
 | images/icons/celebration.svg | 70.4 | 1 |
 | images/icons/change.svg | 4.1 | 4 |
 | images/icons/chatbubble-ellipses-outline.svg | 0.8 | 1 |
-| images/icons/climb.svg | 9.8 | 6 |
-| images/icons/clock_blue.png | 4.5 | 16 |
+| images/icons/climb.svg | 9.8 | 12 |
+| images/icons/clock_blue.png | 4.5 | 22 |
 | images/icons/diamond-outline.svg | 0.6 | 2 |
 | images/icons/diamond.png | 1.8 | 1 |
 | images/icons/diamond_active.png | 1.7 | 1 |
+| images/icons/diamond_blue.png | 4.7 | 4 |
 | images/icons/document-lock-outline.svg | 0.7 | 1 |
 | images/icons/document-text-outline-thin.svg | 0.5 | 1 |
 | images/icons/document-text-outline.svg | 0.5 | 1 |
 | images/icons/download.svg | 0.7 | 1 |
 | images/icons/expand_circle_right.png | 0.9 | 1 |
 | images/icons/expand_circle_right_blue.svg | 2.1 | 2 |
-| images/icons/eye_blue.png | 4.2 | 16 |
+| images/icons/eye_blue.png | 4.2 | 24 |
 | images/icons/faces/happy.svg | 0.6 | 11 |
 | images/icons/faces/happy_face_new.svg | 1.4 | 134 |
 | images/icons/faces/neutral.svg | 0.5 | 11 |
@@ -661,15 +660,15 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/faces/sad.svg | 0.6 | 11 |
 | images/icons/faces/sad_face_new.svg | 1.5 | 134 |
 | images/icons/figures.svg | 2.8 | 6 |
-| images/icons/football_blue.png | 5.1 | 8 |
+| images/icons/football_blue.png | 5.1 | 12 |
 | images/icons/globe-outline.svg | 0.8 | 1 |
-| images/icons/hands_heart.svg | 9.4 | 6 |
+| images/icons/hands_heart.svg | 9.4 | 20 |
 | images/icons/heart-outline.png | 1.5 | 1 |
 | images/icons/heart.png | 1.3 | 2 |
 | images/icons/heart_filled.png | 1.4 | 1 |
 | images/icons/heart_filled.svg | 1.4 | 1 |
 | images/icons/heart_filled_active.png | 1.5 | 1 |
-| images/icons/heart_filled_blue.png | 4.9 | 16 |
+| images/icons/heart_filled_blue.png | 4.9 | 18 |
 | images/icons/heart_filled_red.png | 1.4 | 3 |
 | images/icons/heart_filled_red.svg | 0.4 | 1 |
 | images/icons/home.svg | 0.4 | 1 |
@@ -686,35 +685,37 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/lock-open-outline.svg | 0.4 | 2 |
 | images/icons/locked.png | 0.7 | 2 |
 | images/icons/log-in-outline.svg | 0.5 | 1 |
-| images/icons/magnifying_glass.svg | 0.9 | 88 |
+| images/icons/magnifying_glass.svg | 0.9 | 94 |
 | images/icons/maths.svg | 7.1 | 4 |
-| images/icons/parent_child.svg | 2 | 8 |
-| images/icons/parent_child_heart.svg | 3 | 78 |
+| images/icons/parent_child.svg | 2 | 16 |
+| images/icons/parent_child_heart.svg | 3 | 82 |
 | images/icons/pause.svg | 0.7 | 78 |
-| images/icons/pencil.svg | 1.1 | 78 |
+| images/icons/pencil.svg | 1.1 | 82 |
+| images/icons/people.svg | 11.7 | 4 |
 | images/icons/person-circle-outline.svg | 0.8 | 1 |
 | images/icons/picture_book.svg | 1.8 | 82 |
-| images/icons/question_blue.png | 3.4 | 8 |
+| images/icons/question_blue.png | 3.4 | 14 |
 | images/icons/question_mark_blue.svg | 0.8 | 1 |
 | images/icons/settings.svg | 2.4 | 1 |
 | images/icons/settings_active.svg | 2.4 | 1 |
 | images/icons/settings_white.svg | 2.4 | 1 |
 | images/icons/share.svg | 4.2 | 3 |
+| images/icons/silence.svg | 3.7 | 4 |
 | images/icons/single_speech_blue.png | 3.3 | 10 |
 | images/icons/smile_eyes_down.svg | 0.9 | 80 |
-| images/icons/smile_eyes_up.svg | 1 | 156 |
+| images/icons/smile_eyes_up.svg | 1 | 158 |
 | images/icons/spark.png | 1.6 | 4 |
-| images/icons/speech_bubble_blue.png | 4.2 | 16 |
-| images/icons/star_filled_blue.png | 5.1 | 26 |
+| images/icons/speech_bubble_blue.png | 4.2 | 32 |
+| images/icons/star_filled_blue.png | 5.1 | 36 |
 | images/icons/star_outline_blue.svg | 1 | 5 |
-| images/icons/target.svg | 4.3 | 10 |
-| images/icons/thought_bubble.svg | 2.1 | 76 |
-| images/icons/tick.svg | 0.3 | 17 |
+| images/icons/target.svg | 4.3 | 20 |
+| images/icons/thought_bubble.svg | 2.1 | 78 |
+| images/icons/tick.svg | 0.3 | 21 |
 | images/icons/trophy.png | 1.6 | 1 |
 | images/icons/trophy_active.png | 1.7 | 1 |
-| images/icons/trophy_blue.png | 5.1 | 8 |
+| images/icons/trophy_blue.png | 5.1 | 10 |
 | images/icons/trophy_large.svg | 2.2 | 1 |
-| images/icons/trust.svg | 18.9 | 12 |
+| images/icons/trust.svg | 18.9 | 20 |
 | images/logos/Crianza-03.png | 17.9 | 2 |
 | images/logos/IDEMS.png | 42.7 | 1 |
 | images/logos/PLH.png | 33.9 | 1 |

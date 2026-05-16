@@ -267,13 +267,13 @@
           "eng": "SEAN UN EQUIPO"
         },
         "section_1_text": {
-          "eng": "📝 Crea reglas con {tu niño}. Puedes escribirlas o usar imágenes cuando sea necesario para ayudar a que {tu niño} las comprenda. \n\n⏸ Hagan una regla a la vez. \n\n🔑 Hablen de las razones por las que se crea esa regla. \n\n👂 Escucha su punto de vista."
+          "eng": "📝 Crea reglas con @fields.child_name. Puedes escribirlas o usar imágenes cuando sea necesario para ayudar a que @fields.child_name las comprenda. \n\n⏸ Hagan una regla a la vez. \n\n🔑 Hablen de las razones por las que se crea esa regla. \n\n👂 Escucha su punto de vista."
         },
         "section_2_title": {
           "eng": "MANTENLO REALISTA"
         },
         "section_2_text": {
-          "eng": "⭐ Haz reglas que sean realistas: ¿Qué sí puede hacer {tu niño} realmente?\n\n📖 Al explicarle lo que quieres que haga, exprésate con claridad y precisión.\n\n✅ Asegúrate de que la regla es justa. Explica el motivo de la regla y las consecuencias positivas por seguirla."
+          "eng": "⭐ Haz reglas que sean realistas: ¿Qué sí puede hacer @fields.child_name realmente?\n\n📖 Al explicarle lo que quieres que haga, exprésate con claridad y precisión.\n\n✅ Asegúrate de que la regla es justa. Explica el motivo de la regla y las consecuencias positivas por seguirla."
         },
         "section_3_title": {
           "eng": "SEAN CONSTANTES"
@@ -285,7 +285,7 @@
           "eng": "ELOGIA, ELOGIA, ELOGIA"
         },
         "section_4_text": {
-          "eng": "⭐ Reconoce y elogia a {tu niño} por su participación en la elaboración de la regla.\n\n😃 ¡Elogia, Elogia y elogia a {tu niño} cuando siga la regla, ¡igual que cuando se porta bien!"
+          "eng": "⭐ Reconoce y elogia a @fields.child_name por su participación en la elaboración de la regla.\n\n😃 ¡Elogia, Elogia y elogia a @fields.child_name cuando siga la regla, ¡igual que cuando se porta bien!"
         }
       },
       "text_1_facilitator": "Recuerda:",
@@ -305,13 +305,13 @@
       "section_3_icon_asset": "images/icons/trophy_blue.png",
       "section_4_icon_asset": "images/icons/spark.png",
       "section_1_title": "SEAN UN EQUIPO",
-      "section_1_text": "📝 Crea reglas con {tu niño}. Puedes escribirlas o usar imágenes cuando sea necesario para ayudar a que {tu niño} las comprenda. \n\n⏸ Hagan una regla a la vez. \n\n🔑 Hablen de las razones por las que se crea esa regla. \n\n👂 Escucha su punto de vista.",
+      "section_1_text": "📝 Crea reglas con @fields.child_name. Puedes escribirlas o usar imágenes cuando sea necesario para ayudar a que @fields.child_name las comprenda. \n\n⏸ Hagan una regla a la vez. \n\n🔑 Hablen de las razones por las que se crea esa regla. \n\n👂 Escucha su punto de vista.",
       "section_2_title": "MANTENLO REALISTA",
-      "section_2_text": "⭐ Haz reglas que sean realistas: ¿Qué sí puede hacer {tu niño} realmente?\n\n📖 Al explicarle lo que quieres que haga, exprésate con claridad y precisión.\n\n✅ Asegúrate de que la regla es justa. Explica el motivo de la regla y las consecuencias positivas por seguirla.",
+      "section_2_text": "⭐ Haz reglas que sean realistas: ¿Qué sí puede hacer @fields.child_name realmente?\n\n📖 Al explicarle lo que quieres que haga, exprésate con claridad y precisión.\n\n✅ Asegúrate de que la regla es justa. Explica el motivo de la regla y las consecuencias positivas por seguirla.",
       "section_3_title": "SEAN CONSTANTES",
       "section_3_text": "🔄 Una vez que establezcan una regla, procura que se cumpla.  \n\n⬆️ Esto aumentará la probabilidad de que sigan la regla. \n\n▶️ Si la regla te incluye, es importante que tú también la cumplas.",
       "section_4_title": "ELOGIA, ELOGIA, ELOGIA",
-      "section_4_text": "⭐ Reconoce y elogia a {tu niño} por su participación en la elaboración de la regla.\n\n😃 ¡Elogia, Elogia y elogia a {tu niño} cuando siga la regla, ¡igual que cuando se porta bien!",
+      "section_4_text": "⭐ Reconoce y elogia a @fields.child_name por su participación en la elaboración de la regla.\n\n😃 ¡Elogia, Elogia y elogia a @fields.child_name cuando siga la regla, ¡igual que cuando se porta bien!",
       "completed": false
     },
     {

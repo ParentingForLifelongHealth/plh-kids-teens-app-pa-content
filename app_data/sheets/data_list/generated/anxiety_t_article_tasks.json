@@ -326,14 +326,67 @@
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
+        },
+        "section_1_title": {
+          "eng": "RECONOCER LAS SEÑALES"
+        },
+        "section_1_text": {
+          "eng": "La ansiedad es diferente en cada adolescente. *_Debes prestar atención a las señales de alerta para saber en qué momento @fields.child_name o tú pueden necesitar apoyo adicional para poder regular la ansiedad:_*\n\n🔴 Tener una preocupación extrema y duradera que dificulta el hacer actividades del día a día. \n\n🔴 Actuar con mucha inquietud, o evitar la escuela o el trabajo. \n\n🔴 No disfrutar de las cosas que solían hacer, molestarse con facilidad o tener problemas para concentrarse. \n\n🔴 Presentar sudoración excesiva, taquicardias, problemas para respirar, náuseas, mareos, temblores en el cuerpo, problemas estomacales frecuentes, entre otros."
+        },
+        "section_2_title": {
+          "eng": "CONECTAR CON TUS SENTIDOS"
+        },
+        "section_2_text": {
+          "eng": "Si @fields.child_name o tú están experimentando un ataque de ansiedad, es decir sienten que les falta el aire o que se van a desmayar, o muy agitado, prueben la actividad de 5-4-3-2-1: \n\n👀 Mira a tu alrededor y nombra 5 cosas que puedas ver. \n\n🌷 Elogia 4 cosas que puedas tocar. \n\n👂 Préstale atención a 3 sonidos. \n\n👃 Percibe 2 aromas. \n\n🍅 Identifica 1 sabor en tu boca. \n\nConectar con tus sentidos puede ayudarte a mantener la calma cuando te encuentres en un ataque de ansiedad.  \n\n \n\nOtra opción es emplear ejercicios de respiración, aquí te compartimos la técnica 4-7-8: \n\n👃Inhala por la nariz durante 4 segundos \n\nAhora sostén el aire en tus pulmones durante 7 segundos \n\nExpulsa el aire lentamente por tu boca durante 8 segundos \n\nRepítelo 3 o 4 veces más."
+        },
+        "section_3_title": {
+          "eng": "EXPLORAR TUS PENSAMIENTOS"
+        },
+        "section_3_text": {
+          "eng": "👑 Tómate un momento para reflexionar sobre tus pensamientos. Aquí tienes algunas preguntas que te puedes hacer:\n\n-¿Esta preocupación se podría hacer realidad? \n-¿Puedo hacer algo para prepararme? \n-¿Pensar en esto de verdad me ayuda? \n-¿Estoy intentando resolver un problema? \n-¿Mis pensamientos me ayudan o no?\n\n🔑 Responder a estas preguntas puede ayudarte a ti o a tu adolescente a regular la ansiedad y a identificar cualquier problema que pueda estarla causando."
+        },
+        "section_4_title": {
+          "eng": "RESOLVER PROBLEMAS"
+        },
+        "section_4_text": {
+          "eng": "▶️ Piensa en tantas ideas como sea posible para resolver el problema que te hace sentir ansiedad. Recuerda, ¡ninguna idea es demasiado grande ni demasiado pequeña!\n\n✅ Escoge la idea que consideres mejor para resolver el problema.\n\n🔵 Prueba la idea que has elegido y mira cómo te va. ¿Te ha ayudado a sentirte mejor? ¿Encontraste alguna dificultad?\n\n⏰ Si no funcionó, no pasa nada. Puedes probar con otra idea o darle un poco más de tiempo a tu solución.\n\nRecuerda que puedes aprender más sobre la habilidad de solución de problemas en el curso de \"Guiar el Buen Comportamiento de Mi Adolescente\"."
+        },
+        "section_5_title": {
+          "eng": "PEDIR AYUDA"
+        },
+        "section_5_text": {
+          "eng": "🔶 Si @fields.child_name o tú experimentan algunas o muchas de estas cosas, pueden buscar la ayuda de un profesional.\n\n🔷 Es necesario un diagnóstico profesional para determinar si @fields.child_name sufre de ansiedad.\n\n😃 Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con tu niña, niño o adolescente, puedes ir a la biblioteca de la aplicación para acceder a una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo."
         }
       },
       "text_1_facilitator": "Recuerda:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {},
+        "section_5_title": {},
+        "section_5_text": {}
       },
-      "section_1_icon_asset": "images/icons/balance_blue.png",
-      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "section_1_icon_asset": "images/icons/eye_blue.png",
+      "section_2_icon_asset": "images/icons/breathe.svg",
+      "section_3_icon_asset": "images/icons/thought_bubble.svg",
+      "section_4_icon_asset": "images/icons/tick.svg",
+      "section_5_icon_asset": "images/icons/trust.svg",
+      "section_1_title": "RECONOCER LAS SEÑALES",
+      "section_1_text": "La ansiedad es diferente en cada adolescente. *_Debes prestar atención a las señales de alerta para saber en qué momento @fields.child_name o tú pueden necesitar apoyo adicional para poder regular la ansiedad:_*\n\n🔴 Tener una preocupación extrema y duradera que dificulta el hacer actividades del día a día. \n\n🔴 Actuar con mucha inquietud, o evitar la escuela o el trabajo. \n\n🔴 No disfrutar de las cosas que solían hacer, molestarse con facilidad o tener problemas para concentrarse. \n\n🔴 Presentar sudoración excesiva, taquicardias, problemas para respirar, náuseas, mareos, temblores en el cuerpo, problemas estomacales frecuentes, entre otros.",
+      "section_2_title": "CONECTAR CON TUS SENTIDOS",
+      "section_2_text": "Si @fields.child_name o tú están experimentando un ataque de ansiedad, es decir sienten que les falta el aire o que se van a desmayar, o muy agitado, prueben la actividad de 5-4-3-2-1: \n\n👀 Mira a tu alrededor y nombra 5 cosas que puedas ver. \n\n🌷 Elogia 4 cosas que puedas tocar. \n\n👂 Préstale atención a 3 sonidos. \n\n👃 Percibe 2 aromas. \n\n🍅 Identifica 1 sabor en tu boca. \n\nConectar con tus sentidos puede ayudarte a mantener la calma cuando te encuentres en un ataque de ansiedad.  \n\n \n\nOtra opción es emplear ejercicios de respiración, aquí te compartimos la técnica 4-7-8: \n\n👃Inhala por la nariz durante 4 segundos \n\nAhora sostén el aire en tus pulmones durante 7 segundos \n\nExpulsa el aire lentamente por tu boca durante 8 segundos \n\nRepítelo 3 o 4 veces más.",
+      "section_3_title": "EXPLORAR TUS PENSAMIENTOS",
+      "section_3_text": "👑 Tómate un momento para reflexionar sobre tus pensamientos. Aquí tienes algunas preguntas que te puedes hacer:\n\n-¿Esta preocupación se podría hacer realidad? \n-¿Puedo hacer algo para prepararme? \n-¿Pensar en esto de verdad me ayuda? \n-¿Estoy intentando resolver un problema? \n-¿Mis pensamientos me ayudan o no?\n\n🔑 Responder a estas preguntas puede ayudarte a ti o a tu adolescente a regular la ansiedad y a identificar cualquier problema que pueda estarla causando.",
+      "section_4_title": "RESOLVER PROBLEMAS",
+      "section_4_text": "▶️ Piensa en tantas ideas como sea posible para resolver el problema que te hace sentir ansiedad. Recuerda, ¡ninguna idea es demasiado grande ni demasiado pequeña!\n\n✅ Escoge la idea que consideres mejor para resolver el problema.\n\n🔵 Prueba la idea que has elegido y mira cómo te va. ¿Te ha ayudado a sentirte mejor? ¿Encontraste alguna dificultad?\n\n⏰ Si no funcionó, no pasa nada. Puedes probar con otra idea o darle un poco más de tiempo a tu solución.\n\nRecuerda que puedes aprender más sobre la habilidad de solución de problemas en el curso de \"Guiar el Buen Comportamiento de Mi Adolescente\".",
+      "section_5_title": "PEDIR AYUDA",
+      "section_5_text": "🔶 Si @fields.child_name o tú experimentan algunas o muchas de estas cosas, pueden buscar la ayuda de un profesional.\n\n🔷 Es necesario un diagnóstico profesional para determinar si @fields.child_name sufre de ansiedad.\n\n😃 Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con tu niña, niño o adolescente, puedes ir a la biblioteca de la aplicación para acceder a una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo.",
       "completed": false
     },
     {

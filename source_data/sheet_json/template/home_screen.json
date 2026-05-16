@@ -2,13 +2,6 @@
   "flow_type": "template",
   "flow_name": "home_screen",
   "status": "released",
-  "parameter_list": {
-    "app_config": {
-      "LAYOUT": {
-        "page_padding": "24px 0"
-      }
-    }
-  },
   "rows": [
     {
       "name": "home_screen_logo",
@@ -31,17 +24,20 @@
     },
     {
       "name": "home_screen_logo_height",
-      "value": "48px"
+      "value": "48px",
+      "comment": "padding: 12px 12px 0px;"
     },
     {
       "name": "home_screen_logo_height",
       "value": "@global.home_screen_logo_height",
-      "condition": "!!@global.home_screen_logo_height"
+      "condition": "!!@global.home_screen_logo_height",
+      "comment": "padding: 0px 24px 0px;"
     },
     {
       "name": "false_text",
       "value": "@global.map",
-      "exclude_from_translation": true
+      "exclude_from_translation": true,
+      "comment": "padding: 8px 24px 0px 24px;"
     },
     {
       "name": "true_text",
@@ -55,7 +51,7 @@
     {
       "type": "begin_display_group",
       "name": "dg_sticky_top",
-      "parameter_list": "sticky: top; \nstyle: column;",
+      "parameter_list": "style: column;",
       "exclude_from_translation": true,
       "style_list": "background-color: white;",
       "comment": "justify-content: space-between;"
@@ -64,7 +60,7 @@
       "type": "begin_display_group",
       "name": "dg_row",
       "exclude_from_translation": true,
-      "style_list": "padding: 12px 0px 0 px;\njustify-content: space-between;",
+      "style_list": "justify-content: space-between;",
       "comment": "margin-top: 24px;\nmargin-left: -24px;"
     },
     {
@@ -96,10 +92,10 @@
       "type": "begin_template",
       "name": "home_screen_header",
       "value": "home_screen_header",
-      "action_list": "completed | set_item | homescreen_quickstart_click_history: @local.now",
+      "action_list": "completed | set_item | homescreen_quickstart_click_history: @local.now;",
       "condition": "!@local.has_been_clicked_previously",
       "exclude_from_translation": true,
-      "style_list": "padding: 0px 24px 0px;\nmargin-top: -12px;",
+      "style_list": "margin-top: -12px;",
       "comment": "margin-top: -1em"
     },
     {
@@ -113,7 +109,7 @@
       "action_list": "completed | set_item | homescreen_quickstart_click_history: @local.updated_value",
       "condition": "@local.has_been_clicked_previously",
       "exclude_from_translation": true,
-      "style_list": "padding: 0px 24px 0px;\nmargin-top: -12px;",
+      "style_list": "margin-top: -12px;",
       "comment": "margin-top: -1em"
     },
     {
@@ -129,7 +125,7 @@
       "name": "module_list",
       "value": "module_list",
       "exclude_from_translation": true,
-      "style_list": "padding: 8px 24px 0px 24px;\nmargin-top: -1em"
+      "style_list": "padding: 8px 0px 0px;\nmargin-top: -1em"
     },
     {
       "type": "end_template",

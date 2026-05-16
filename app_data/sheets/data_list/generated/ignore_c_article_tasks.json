@@ -283,31 +283,31 @@
           "eng": "REDIRIGE"
         },
         "section_1_text": {
-          "eng": "🎨 Intenta redirigir la atención de {tu niño} hacia una conducta o actividad positiva.\n\n🌷 ¡Elógiale por este comportamiento positivo!\n\nEn el primer curso de Crianza Responsable y Amorosa,aprendiste sobre redirigir la conducta."
+          "eng": "🎨 Intenta redirigir la atención de @fields.child_name hacia una conducta o actividad positiva.\n\n🌷 ¡Elógiale por este comportamiento positivo!\n\nEn el primer curso de Crianza Responsable y Amorosa,aprendiste sobre redirigir la conducta."
         },
         "section_2_title": {
           "eng": "MANTEN LA CALMA"
         },
         "section_2_text": {
-          "eng": "Haz una Pausa. Incluso un par de respiraciones profundas pueden hacer la diferencia. Te ayudará a mantener la calma y a ver con claridad lo que {tu niño} necesita.\n\nEs muy tentador (y, sinceramente fácil) que tu reacción baje al nivel de la reacción de tu niña o niño al gritar, sobre todo cuando el berrinche no se detiene o tienes mucho cansancio y se te está acabando la paciencia.\n\nIntenta tener preparado un plan para ayudarte en situaciones en las que sientas que vas a explotar y gritar.\n\nQuédate cerca de tu niña o niño y que tu presencia sea tranquilizadora. {Tu niño} se irá tranquilizando si tú mantienes la calma. Puede que no sea fácil hacerlo, ¡pero funciona!"
+          "eng": "Haz una Pausa. Incluso un par de respiraciones profundas pueden hacer la diferencia. Te ayudará a mantener la calma y a ver con claridad lo que @fields.child_name necesita.\n\nEs muy tentador (y, sinceramente fácil) que tu reacción baje al nivel de la reacción de tu niña o niño al gritar, sobre todo cuando el berrinche no se detiene o tienes mucho cansancio y se te está acabando la paciencia.\n\nIntenta tener preparado un plan para ayudarte en situaciones en las que sientas que vas a explotar y gritar.\n\nQuédate cerca de tu niña o niño y que tu presencia sea tranquilizadora. @fields.child_name se irá tranquilizando si tú mantienes la calma. Puede que no sea fácil hacerlo, ¡pero funciona!"
         },
         "section_3_title": {
           "eng": "OBSERVA"
         },
         "section_3_text": {
-          "eng": "Pregúntate: \"¿qué es lo que {tu niño} realmente necesita en este momento? ¿Será que siente cansancio, estrés, miedo?\"\n\nLa mayoría de las veces, puede ser que lo que {tu niño} necesite sea atención o cariño.\n\nPuedes dárselo sin ceder a sus exigencias si es que se están quejando por algo que no pueden tener."
+          "eng": "Pregúntate: \"¿qué es lo que @fields.child_name realmente necesita en este momento? ¿Será que siente cansancio, estrés, miedo?\"\n\nLa mayoría de las veces, puede ser que lo que @fields.child_name necesite sea atención o cariño.\n\nPuedes dárselo sin ceder a sus exigencias si es que se están quejando por algo que no pueden tener."
         },
         "section_4_title": {
           "eng": "CUIDA"
         },
         "section_4_text": {
-          "eng": "🎈 Una vez que {tu niño} haya parado su berrinche o se haya calmado, necesitará mucho cariño y atención positiva.\n\n🧸 Pueden Conversar sobre lo que pasó más tarde o al día siguiente. De momento, involucra a {tu niño} en una actividad positiva."
+          "eng": "🎈 Una vez que @fields.child_name haya parado su berrinche o se haya calmado, necesitará mucho cariño y atención positiva.\n\n🧸 Pueden Conversar sobre lo que pasó más tarde o al día siguiente. De momento, involucra a @fields.child_name en una actividad positiva."
         },
         "section_5_title": {
           "eng": "SÉ CONSTANTE"
         },
         "section_5_text": {
-          "eng": "⭐ Aunque el comportamiento de {tu niño} empeore al principio cuando no estás cediendo a lo que quiere, es importante mantener la calma sin discutir ni gritarle a {tu niño}.\n\nPuedes explicar, con calma, la razón por la que tu niña o niño no puede tener eso que quiere, pero hazlo una sola vez, sin entrar en debates ni discusiones.\n\nCon el paso del tiempo, {tu niño} aprenderá a calmarse por su cuenta.\n\n💚 Pasa mucho tiempo positivo con {tu niño}, sobre todo Tiempo Juntos y Conectados. ¡Es superimportante!"
+          "eng": "⭐ Aunque el comportamiento de @fields.child_name empeore al principio cuando no estás cediendo a lo que quiere, es importante mantener la calma sin discutir ni gritarle a @fields.child_name.\n\nPuedes explicar, con calma, la razón por la que tu niña o niño no puede tener eso que quiere, pero hazlo una sola vez, sin entrar en debates ni discusiones.\n\nCon el paso del tiempo, @fields.child_name aprenderá a calmarse por su cuenta.\n\n💚 Pasa mucho tiempo positivo con @fields.child_name, sobre todo Tiempo Juntos y Conectados. ¡Es superimportante!"
         }
       },
       "text_1_facilitator": "Recuerda:",
@@ -330,15 +330,15 @@
       "section_4_icon_asset": "images/icons/hands_heart.svg",
       "section_5_icon_asset": "images/icons/climb.svg",
       "section_1_title": "REDIRIGE",
-      "section_1_text": "🎨 Intenta redirigir la atención de {tu niño} hacia una conducta o actividad positiva.\n\n🌷 ¡Elógiale por este comportamiento positivo!\n\nEn el primer curso de Crianza Responsable y Amorosa,aprendiste sobre redirigir la conducta.",
+      "section_1_text": "🎨 Intenta redirigir la atención de @fields.child_name hacia una conducta o actividad positiva.\n\n🌷 ¡Elógiale por este comportamiento positivo!\n\nEn el primer curso de Crianza Responsable y Amorosa,aprendiste sobre redirigir la conducta.",
       "section_2_title": "MANTEN LA CALMA",
-      "section_2_text": "Haz una Pausa. Incluso un par de respiraciones profundas pueden hacer la diferencia. Te ayudará a mantener la calma y a ver con claridad lo que {tu niño} necesita.\n\nEs muy tentador (y, sinceramente fácil) que tu reacción baje al nivel de la reacción de tu niña o niño al gritar, sobre todo cuando el berrinche no se detiene o tienes mucho cansancio y se te está acabando la paciencia.\n\nIntenta tener preparado un plan para ayudarte en situaciones en las que sientas que vas a explotar y gritar.\n\nQuédate cerca de tu niña o niño y que tu presencia sea tranquilizadora. {Tu niño} se irá tranquilizando si tú mantienes la calma. Puede que no sea fácil hacerlo, ¡pero funciona!",
+      "section_2_text": "Haz una Pausa. Incluso un par de respiraciones profundas pueden hacer la diferencia. Te ayudará a mantener la calma y a ver con claridad lo que @fields.child_name necesita.\n\nEs muy tentador (y, sinceramente fácil) que tu reacción baje al nivel de la reacción de tu niña o niño al gritar, sobre todo cuando el berrinche no se detiene o tienes mucho cansancio y se te está acabando la paciencia.\n\nIntenta tener preparado un plan para ayudarte en situaciones en las que sientas que vas a explotar y gritar.\n\nQuédate cerca de tu niña o niño y que tu presencia sea tranquilizadora. @fields.child_name se irá tranquilizando si tú mantienes la calma. Puede que no sea fácil hacerlo, ¡pero funciona!",
       "section_3_title": "OBSERVA",
-      "section_3_text": "Pregúntate: \"¿qué es lo que {tu niño} realmente necesita en este momento? ¿Será que siente cansancio, estrés, miedo?\"\n\nLa mayoría de las veces, puede ser que lo que {tu niño} necesite sea atención o cariño.\n\nPuedes dárselo sin ceder a sus exigencias si es que se están quejando por algo que no pueden tener.",
+      "section_3_text": "Pregúntate: \"¿qué es lo que @fields.child_name realmente necesita en este momento? ¿Será que siente cansancio, estrés, miedo?\"\n\nLa mayoría de las veces, puede ser que lo que @fields.child_name necesite sea atención o cariño.\n\nPuedes dárselo sin ceder a sus exigencias si es que se están quejando por algo que no pueden tener.",
       "section_4_title": "CUIDA",
-      "section_4_text": "🎈 Una vez que {tu niño} haya parado su berrinche o se haya calmado, necesitará mucho cariño y atención positiva.\n\n🧸 Pueden Conversar sobre lo que pasó más tarde o al día siguiente. De momento, involucra a {tu niño} en una actividad positiva.",
+      "section_4_text": "🎈 Una vez que @fields.child_name haya parado su berrinche o se haya calmado, necesitará mucho cariño y atención positiva.\n\n🧸 Pueden Conversar sobre lo que pasó más tarde o al día siguiente. De momento, involucra a @fields.child_name en una actividad positiva.",
       "section_5_title": "SÉ CONSTANTE",
-      "section_5_text": "⭐ Aunque el comportamiento de {tu niño} empeore al principio cuando no estás cediendo a lo que quiere, es importante mantener la calma sin discutir ni gritarle a {tu niño}.\n\nPuedes explicar, con calma, la razón por la que tu niña o niño no puede tener eso que quiere, pero hazlo una sola vez, sin entrar en debates ni discusiones.\n\nCon el paso del tiempo, {tu niño} aprenderá a calmarse por su cuenta.\n\n💚 Pasa mucho tiempo positivo con {tu niño}, sobre todo Tiempo Juntos y Conectados. ¡Es superimportante!",
+      "section_5_text": "⭐ Aunque el comportamiento de @fields.child_name empeore al principio cuando no estás cediendo a lo que quiere, es importante mantener la calma sin discutir ni gritarle a @fields.child_name.\n\nPuedes explicar, con calma, la razón por la que tu niña o niño no puede tener eso que quiere, pero hazlo una sola vez, sin entrar en debates ni discusiones.\n\nCon el paso del tiempo, @fields.child_name aprenderá a calmarse por su cuenta.\n\n💚 Pasa mucho tiempo positivo con @fields.child_name, sobre todo Tiempo Juntos y Conectados. ¡Es superimportante!",
       "completed": false
     },
     {
