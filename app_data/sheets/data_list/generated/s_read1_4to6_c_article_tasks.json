@@ -12,7 +12,7 @@
       "media_asset": "audio/relax/relax_4.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!",
-      "transcript_1_spanish": "Cierra los ojos.\n\nUsa el poder mágico del tres para mantenerte conectado(a) y relajarte.\n\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\n\n¿Te sientes diferente? Respirar profundo ayuda a calmar el cuerpo y la mente.\n\nMuy bien. Ya estás listo(a) para comenzar tu lección.",
+      "transcript": "Cierra los ojos.\n\nUsa el poder mágico del tres para mantenerte conectado(a) y relajarte.\n\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\n\n¿Te sientes diferente? Respirar profundo ayuda a calmar el cuerpo y la mente.\n\nMuy bien. Ya estás listo(a) para comenzar tu lección.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -252,7 +252,6 @@
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=fsw8wwe_kD4",
       "youtube_gb_en_m": "https://youtu.be/nG2Ok3MLRE4",
-      "section_1_icon_asset": "images/icons/balance_blue.png",
       "completed": false
     },
     {
@@ -261,7 +260,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Recuerda las 5️⃣ estrategias para preparar a @fields.child_name para aprender a leer cuando sea mayor. \n\nTodas las actividades se centran en leer libros juntos 💙"
+          "eng": "Recuerda:"
         },
         "section_1_title": {
           "eng": "CREAR RUTINAS"
@@ -288,7 +287,7 @@
           "eng": "💙 ¡Ayuda a aumentar la confianza de @fields.child_name al hacerle preguntas que sepa responder correctamente o que le animen a ir un poco más allá y desarrollar su habilidad!  \n\n🎨 Siempre busca conectar lo que hay en el libro con la experiencia cotidiana de @fields.child_name."
         }
       },
-      "text_1_facilitator": "Recuerda las 5️⃣ estrategias para preparar a @fields.child_name para aprender a leer cuando sea mayor. \n\nTodas las actividades se centran en leer libros juntos 💙",
+      "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -300,10 +299,10 @@
         "section_4_title": {},
         "section_4_text": {}
       },
-      "section_1_icon_asset": "https://drive.google.com/file/d/19m7O3_jqHUfyLx4PRG1NnnwzXiYlAhwS/view?usp=drive_link",
-      "section_2_icon_asset": "https://drive.google.com/file/d/1LszHYmtJlkCzd6jD9TCRlQmsc03sFoyb/view?usp=drive_link",
-      "section_3_icon_asset": "https://drive.google.com/file/d/1hfWPX9i6ZpYVChhK8_6AafGeqSNCgYOg/view?usp=drive_link",
-      "section_4_icon_asset": "https://drive.google.com/file/d/1yuMaNGzZNRXTUkoIoYGxcyps__hKv0KX/view?usp=drive_link",
+      "section_1_icon_asset": "images/icons/clock_blue.png",
+      "section_2_icon_asset": "images/icons/question_blue.png",
+      "section_3_icon_asset": "images/icons/magnifying_glass.svg",
+      "section_4_icon_asset": "images/icons/trust.svg",
       "section_1_title": "CREAR RUTINAS",
       "section_1_text": "📖 ¡Puedes compartir libros con @fields.child_name en cualquier lugar! Escoge un buen lugar en tu casa para leer juntos. Deshazte de cualquier distracción (por ejemplo, apaga la tablet, el celular o la tele 📺❌📱).  \n\n⏰ Escoge alguna hora del día en la que puedas compartir libros con tu niña o niño.\n\n💡 Si tu niña o niño quiere, deja que escoja un libro 😃 \n\n✨ Si no tienes libros en casa, puedes usar cualquier cosa con palabras e imágenes, como revistas o periódicos viejos.",
       "section_2_title": "HACER PREGUNTAS",
@@ -315,8 +314,8 @@
       "completed": false
     },
     {
-      "id": "practise_1",
-      "category_id": "practise",
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {

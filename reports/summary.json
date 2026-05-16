@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3899
+        "count": 3901
       },
       {
         "type": "simple_checkbox",
@@ -139,11 +139,11 @@
       },
       {
         "type": "template",
-        "count": 1220
+        "count": 1221
       },
       {
         "type": "text",
-        "count": 179
+        "count": 193
       },
       {
         "type": "text_area",
@@ -159,7 +159,7 @@
       },
       {
         "type": "title",
-        "count": 53
+        "count": 54
       },
       {
         "type": "toggle_bar",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 827
+        "count": 828
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 844
+        "count": 845
       },
       {
         "type": "feedback",
@@ -291,13 +291,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "64301 KB",
-        "MB": "64.3 MB"
+        "KB": "64719 KB",
+        "MB": "64.7 MB"
       },
       {
         "assets": "unused",
-        "KB": "25405 KB",
-        "MB": "25.4 MB"
+        "KB": "31431 KB",
+        "MB": "31.4 MB"
       }
     ]
   },
@@ -652,6 +652,42 @@
         "size_kb": 0.5
       },
       {
+        "path": "images/homescreen/OLD homescreen images/OLD behave_c.svg",
+        "size_kb": 1039
+      },
+      {
+        "path": "images/homescreen/OLD homescreen images/OLD learn_c.svg",
+        "size_kb": 450.4
+      },
+      {
+        "path": "images/homescreen/OLD homescreen images/OLD learn_t.svg",
+        "size_kb": 618.7
+      },
+      {
+        "path": "images/homescreen/OLD homescreen images/OLD relation_c.svg",
+        "size_kb": 760
+      },
+      {
+        "path": "images/homescreen/OLD homescreen images/OLD relation_t.svg",
+        "size_kb": 622.7
+      },
+      {
+        "path": "images/homescreen/OLD homescreen images/OLD safety_c.svg",
+        "size_kb": 595.9
+      },
+      {
+        "path": "images/homescreen/OLD homescreen images/OLD safety_t.svg",
+        "size_kb": 699.7
+      },
+      {
+        "path": "images/homescreen/OLD homescreen images/OLD understand_t.svg",
+        "size_kb": 549.4
+      },
+      {
+        "path": "images/homescreen/OLD homescreen images/OLDunderstand_c.svg",
+        "size_kb": 598.3
+      },
+      {
         "path": "images/icons/book_outline_blue.svg",
         "size_kb": 0.7
       },
@@ -664,8 +700,16 @@
         "size_kb": 1.7
       },
       {
+        "path": "images/icons/caution.svg",
+        "size_kb": 2.1
+      },
+      {
         "path": "images/icons/diamond_blue.png",
         "size_kb": 4.7
+      },
+      {
+        "path": "images/icons/distance.svg",
+        "size_kb": 87.9
       },
       {
         "path": "images/icons/document.svg",
@@ -744,6 +788,10 @@
         "size_kb": 1.9
       },
       {
+        "path": "images/icons/no.svg",
+        "size_kb": 7.1
+      },
+      {
         "path": "images/icons/notification_bell.png",
         "size_kb": 0.9
       },
@@ -764,16 +812,8 @@
         "size_kb": 7.4
       },
       {
-        "path": "images/icons/question_blue.png",
-        "size_kb": 3.4
-      },
-      {
         "path": "images/icons/repeat_blue.png",
         "size_kb": 5.4
-      },
-      {
-        "path": "images/icons/spark.png",
-        "size_kb": 1.6
       },
       {
         "path": "images/icons/star_outline_white.svg",
@@ -903,56 +943,6 @@
         "missing": true
       },
       {
-        "path": "images/homescreen/i_calm_c.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/i_calm_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/i_feelings_c.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/i_feelings_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/i_give_praise_c.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/i_give_praise_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/i_one_on_one_c.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/i_one_on_one_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/i_routines_c.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/i_routines_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
         "path": "images/icons/diamond_blue.svg",
         "count": 4,
         "missing": true
@@ -975,11 +965,6 @@
       {
         "path": "images/logos/plh_logomark.png",
         "count": 1,
-        "missing": true
-      },
-      {
-        "path": "pencil.svg",
-        "count": 4,
         "missing": true
       }
     ]
@@ -2708,12 +2693,12 @@
       },
       {
         "path": "images/homescreen/behave_c.svg",
-        "count": 13,
-        "size_kb": 1039
+        "count": 15,
+        "size_kb": 929.8
       },
       {
         "path": "images/homescreen/behave_t.svg",
-        "count": 13,
+        "count": 15,
         "size_kb": 518.5
       },
       {
@@ -2723,47 +2708,57 @@
       },
       {
         "path": "images/homescreen/learn_c.svg",
-        "count": 13,
-        "size_kb": 450.4
+        "count": 15,
+        "size_kb": 578.4
       },
       {
         "path": "images/homescreen/learn_t.svg",
-        "count": 11,
-        "size_kb": 618.7
+        "count": 13,
+        "size_kb": 534.4
       },
       {
         "path": "images/homescreen/relation_c.svg",
-        "count": 13,
-        "size_kb": 760
+        "count": 15,
+        "size_kb": 835.9
       },
       {
         "path": "images/homescreen/relation_t.svg",
-        "count": 13,
-        "size_kb": 622.7
+        "count": 15,
+        "size_kb": 754.8
       },
       {
         "path": "images/homescreen/safety_c.svg",
-        "count": 13,
-        "size_kb": 595.9
+        "count": 15,
+        "size_kb": 468.4
       },
       {
         "path": "images/homescreen/safety_t.svg",
-        "count": 13,
-        "size_kb": 699.7
+        "count": 15,
+        "size_kb": 652.6
       },
       {
         "path": "images/homescreen/understand_c.svg",
-        "count": 13,
-        "size_kb": 598.3
+        "count": 15,
+        "size_kb": 754.1
       },
       {
         "path": "images/homescreen/understand_t.svg",
-        "count": 13,
-        "size_kb": 549.4
+        "count": 15,
+        "size_kb": 738.3
+      },
+      {
+        "path": "images/icons/123.svg",
+        "count": 6,
+        "size_kb": 18.9
+      },
+      {
+        "path": "images/icons/abc.svg",
+        "count": 2,
+        "size_kb": 10.6
       },
       {
         "path": "images/icons/balance_blue.png",
-        "count": 168,
+        "count": 100,
         "size_kb": 4.7
       },
       {
@@ -2772,9 +2767,19 @@
         "size_kb": 5.2
       },
       {
+        "path": "images/icons/breathe.svg",
+        "count": 10,
+        "size_kb": 8.7
+      },
+      {
         "path": "images/icons/celebration.svg",
         "count": 1,
         "size_kb": 70.4
+      },
+      {
+        "path": "images/icons/change.svg",
+        "count": 4,
+        "size_kb": 4.1
       },
       {
         "path": "images/icons/chatbubble-ellipses-outline.svg",
@@ -2782,8 +2787,13 @@
         "size_kb": 0.8
       },
       {
+        "path": "images/icons/climb.svg",
+        "count": 6,
+        "size_kb": 9.8
+      },
+      {
         "path": "images/icons/clock_blue.png",
-        "count": 12,
+        "count": 16,
         "size_kb": 4.5
       },
       {
@@ -2833,7 +2843,7 @@
       },
       {
         "path": "images/icons/eye_blue.png",
-        "count": 10,
+        "count": 16,
         "size_kb": 4.2
       },
       {
@@ -2867,14 +2877,24 @@
         "size_kb": 1.5
       },
       {
+        "path": "images/icons/figures.svg",
+        "count": 6,
+        "size_kb": 2.8
+      },
+      {
         "path": "images/icons/football_blue.png",
-        "count": 4,
+        "count": 8,
         "size_kb": 5.1
       },
       {
         "path": "images/icons/globe-outline.svg",
         "count": 1,
         "size_kb": 0.8
+      },
+      {
+        "path": "images/icons/hands_heart.svg",
+        "count": 6,
+        "size_kb": 9.4
       },
       {
         "path": "images/icons/heart-outline.png",
@@ -2943,8 +2963,13 @@
       },
       {
         "path": "images/icons/lightbulb_blue.png",
-        "count": 10,
+        "count": 18,
         "size_kb": 3.6
+      },
+      {
+        "path": "images/icons/listen.svg",
+        "count": 2,
+        "size_kb": 6.1
       },
       {
         "path": "images/icons/local_library.svg",
@@ -2983,12 +3008,17 @@
       },
       {
         "path": "images/icons/magnifying_glass.svg",
-        "count": 76,
+        "count": 88,
         "size_kb": 0.9
       },
       {
+        "path": "images/icons/maths.svg",
+        "count": 4,
+        "size_kb": 7.1
+      },
+      {
         "path": "images/icons/parent_child.svg",
-        "count": 2,
+        "count": 8,
         "size_kb": 2
       },
       {
@@ -3003,7 +3033,7 @@
       },
       {
         "path": "images/icons/pencil.svg",
-        "count": 76,
+        "count": 78,
         "size_kb": 1.1
       },
       {
@@ -3013,8 +3043,13 @@
       },
       {
         "path": "images/icons/picture_book.svg",
-        "count": 76,
+        "count": 82,
         "size_kb": 1.8
+      },
+      {
+        "path": "images/icons/question_blue.png",
+        "count": 8,
+        "size_kb": 3.4
       },
       {
         "path": "images/icons/question_mark_blue.svg",
@@ -3043,7 +3078,7 @@
       },
       {
         "path": "images/icons/single_speech_blue.png",
-        "count": 8,
+        "count": 10,
         "size_kb": 3.3
       },
       {
@@ -3053,23 +3088,33 @@
       },
       {
         "path": "images/icons/smile_eyes_up.svg",
-        "count": 154,
+        "count": 156,
         "size_kb": 1
       },
       {
+        "path": "images/icons/spark.png",
+        "count": 4,
+        "size_kb": 1.6
+      },
+      {
         "path": "images/icons/speech_bubble_blue.png",
-        "count": 12,
+        "count": 16,
         "size_kb": 4.2
       },
       {
         "path": "images/icons/star_filled_blue.png",
-        "count": 14,
+        "count": 26,
         "size_kb": 5.1
       },
       {
         "path": "images/icons/star_outline_blue.svg",
-        "count": 1,
+        "count": 5,
         "size_kb": 1
+      },
+      {
+        "path": "images/icons/target.svg",
+        "count": 10,
+        "size_kb": 4.3
       },
       {
         "path": "images/icons/thought_bubble.svg",
@@ -3078,7 +3123,7 @@
       },
       {
         "path": "images/icons/tick.svg",
-        "count": 3,
+        "count": 17,
         "size_kb": 0.3
       },
       {
@@ -3093,13 +3138,18 @@
       },
       {
         "path": "images/icons/trophy_blue.png",
-        "count": 4,
+        "count": 8,
         "size_kb": 5.1
       },
       {
         "path": "images/icons/trophy_large.svg",
         "count": 1,
         "size_kb": 2.2
+      },
+      {
+        "path": "images/icons/trust.svg",
+        "count": 12,
+        "size_kb": 18.9
       },
       {
         "path": "images/logos/Crianza-03.png",
@@ -3568,7 +3618,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 959
+        "total": 960
       },
       {
         "type": "template",

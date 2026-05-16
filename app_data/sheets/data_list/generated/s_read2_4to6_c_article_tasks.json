@@ -12,7 +12,7 @@
       "media_asset": "audio/relax/relax_5.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
-      "transcript_1_spanish": "Cierra los ojos.\n\nEscucha tu respiración mientras entra y sale cinco veces.\n\nNota cómo te sientes.\n\nCuando estés listo(a), abre los ojos otra vez. ¡Tú tienes el control!",
+      "transcript": "Cierra los ojos.\n\nEscucha tu respiración mientras entra y sale cinco veces.\n\nNota cómo te sientes.\n\nCuando estés listo(a), abre los ojos otra vez. ¡Tú tienes el control!",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -125,7 +125,6 @@
         "text_1_facilitator": {}
       },
       "youtube_gb_en_f": "youtube link",
-      "section_1_icon_asset": "images/icons/balance_blue.png",
       "completed": false
     },
     {
@@ -134,7 +133,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Recuerda estas 4️⃣ estrategias más paraayudar a @fields.child_name a desarrollar habilidades lectoras:"
+          "eng": "Recuerda:"
         },
         "section_1_title": {
           "eng": "USAR LIBROS PARA APRENDER"
@@ -161,7 +160,7 @@
           "eng": "🧸🌷 Anima a tu niña o niño a dibujar. Puede empezar dibujando cosas que le gusten, como animales o flores.\n\n▶️ Ayúdale a identificar su mano dominante preguntándole: \"¿Con qué mano prefieres dibujar?\" Si su respuesta es que usa las dos manos, permítele dibujar con ambas.\n\n🎨 A continuación, enséñale a dibujar figuras que parezcan letras: 🔵🔶\n\n👋 Ayúdale a practicar el trazado de letras en el aire y sobre una superficie usando sus dedos.\n\n😃 Después, ayúdale a escribir letras sencillas con crayones. ¡Empieza practicando con la primera letra de su nombre!\n\n🔄 Practica y ve agregando letras hasta que pueda escribir su nombre completo. Después, ¡aprendan más letras usando diferentes palabras!"
         }
       },
-      "text_1_facilitator": "Recuerda estas 4️⃣ estrategias más paraayudar a @fields.child_name a desarrollar habilidades lectoras:",
+      "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -173,10 +172,10 @@
         "section_4_title": {},
         "section_4_text": {}
       },
-      "section_1_icon_asset": "https://drive.google.com/file/d/1hfWPX9i6ZpYVChhK8_6AafGeqSNCgYOg/view?usp=drive_link",
-      "section_2_icon_asset": "https://drive.google.com/file/d/1JYdcbkVuoMB64KZFOtWUd01yErpe19ac/view?usp=drive_link",
-      "section_3_icon_asset": "https://drive.google.com/file/d/1H0X72PVEhhmWbrzS5AMDtRQq37xnGWY_/view?usp=drive_link",
-      "section_4_icon_asset": "pencil.svg",
+      "section_1_icon_asset": "images/icons/picture_book.svg",
+      "section_2_icon_asset": "images/icons/abc.svg",
+      "section_3_icon_asset": "images/icons/football_blue.png",
+      "section_4_icon_asset": "images/icons/pencil.svg",
       "section_1_title": "USAR LIBROS PARA APRENDER",
       "section_1_text": "💡 Los libros sin palabras ayudan con la imaginación, las ideas y el aprendizaje de palabras nuevas. En conjunto, nombren y describan lo que hay en los dibujos.\n\n⭐ Los libros con palabras ayudan a tener una noción de las letras, los sonidos y cómo se ven distintas palabras.\n\n🎵 Enfócate en palabras o frases cortas que rimen, se repitan y empiecen por la misma letra o terminen con el mismo sonido, como \"piña para la niña\", \"el león comelón\", o \"el zorro pide socorro\".\n\n➡️ ¡Señala cada palabra y dila en voz alta para ayudar a @fields.child_name a reconocer algunas letras y sonidos!",
       "section_2_title": "IDENTIFICAR LETRAS",
@@ -188,8 +187,8 @@
       "completed": false
     },
     {
-      "id": "practise_1",
-      "category_id": "practise",
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {

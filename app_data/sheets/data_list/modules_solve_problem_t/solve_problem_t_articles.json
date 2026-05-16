@@ -156,22 +156,64 @@
     {
       "id": "practical_tips_2",
       "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/balance_blue.png",
-      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "section_1_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_2_icon_asset": "images/icons/tick.svg",
+      "section_3_icon_asset": "images/icons/target.svg",
+      "section_4_icon_asset": "images/icons/magnifying_glass.svg",
       "nested": false,
       "text_1_facilitator": "Recuerda:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
+        },
+        "section_1_title": {
+          "eng": "CONOCERLO"
+        },
+        "section_1_text": {
+          "eng": "✅ Expresa el problema con palabras. Describe el problema como si se lo estuvieras explicando a una persona desconocida.\n\n✅ Explícale a tu adolescente cuál es el problema. Recuerda que tu adolescente o tú NO son el problema. Enfócate en la situación."
+        },
+        "section_2_title": {
+          "eng": "RESOLVERLO"
+        },
+        "section_2_text": {
+          "eng": "✅ En conjunto, piensen en posibles soluciones para este problema.\n\n✅ ¿Qué podrían hacer diferente en el futuro {tu adolescente} o tú en esta misma situación?"
+        },
+        "section_3_title": {
+          "eng": "INTENTARLO"
+        },
+        "section_3_text": {
+          "eng": "✅ Escojan una solución en conjunto.\n\n✅ Inténtenlo la próxima vez que se encuentren en una situación similar."
+        },
+        "section_4_title": {
+          "eng": "COMPROBARLO"
+        },
+        "section_4_text": {
+          "eng": "✅ Pregúntate: \"¿Funcionó?\"\n\n✅ Si la respuesta es sí, ¡súper!\n\n✅ Si no es así, habla con {tu adolescente} sobre intentar otra solución para la próxima vez. Utiliza los 4 pasos para encontrar una solución nueva."
         }
-      }
+      },
+      "section_1_title": "CONOCERLO",
+      "section_1_text": "✅ Expresa el problema con palabras. Describe el problema como si se lo estuvieras explicando a una persona desconocida.\n\n✅ Explícale a tu adolescente cuál es el problema. Recuerda que tu adolescente o tú NO son el problema. Enfócate en la situación.",
+      "section_2_title": "RESOLVERLO",
+      "section_2_text": "✅ En conjunto, piensen en posibles soluciones para este problema.\n\n✅ ¿Qué podrían hacer diferente en el futuro {tu adolescente} o tú en esta misma situación?",
+      "section_3_title": "INTENTARLO",
+      "section_3_text": "✅ Escojan una solución en conjunto.\n\n✅ Inténtenlo la próxima vez que se encuentren en una situación similar.",
+      "section_4_title": "COMPROBARLO",
+      "section_4_text": "✅ Pregúntate: \"¿Funcionó?\"\n\n✅ Si la respuesta es sí, ¡súper!\n\n✅ Si no es así, habla con {tu adolescente} sobre intentar otra solución para la próxima vez. Utiliza los 4 pasos para encontrar una solución nueva."
     },
     {
-      "id": "practise_1",
-      "category_id": "practise",
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "nested": false,
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nHabla con tu adolescente sobre los cuatro pasos para resolver problemas y revisen la lección juntos. ¡Saber resolver problemas es una habilidad que podrán usar el resto de sus vidas!",
       "_translations": {

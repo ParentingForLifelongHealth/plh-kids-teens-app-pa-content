@@ -7,7 +7,7 @@
   "rows": [
     {
       "id": "relation_c",
-      "core": true,
+      "core": false,
       "tag_list": [
         "child"
       ],
@@ -30,7 +30,7 @@
     },
     {
       "id": "relation_t",
-      "core": true,
+      "core": false,
       "tag_list": [
         "teen"
       ],

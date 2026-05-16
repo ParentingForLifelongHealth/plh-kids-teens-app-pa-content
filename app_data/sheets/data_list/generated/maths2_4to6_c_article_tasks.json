@@ -12,7 +12,7 @@
       "media_asset": "audio/relax/relax_2.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be gratefful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
-      "transcript_1_spanish": "Cierra los ojos.\nVamos a usar el poder mágico del 3 para mantenernos presentes y relajarnos.\n\nNombra 3 sonidos que puedas escuchar ahora mismo.\nNombra 3 olores que puedas sentir ahora mismo.\nNombra tus 3 comidas favoritas.\n¿Cuáles son 3 cosas por las que puedes sentir gratitud ahora mismo?\n\nAl final de un día difícil, pensar en 3 cosas por las que estás agradecido(a) puede ayudarte a encontrar el valor para intentarlo de nuevo mañana.",
+      "transcript": "Cierra los ojos.\nVamos a usar el poder mágico del 3 para mantenernos presentes y relajarnos.\n\nNombra 3 sonidos que puedas escuchar ahora mismo.\nNombra 3 olores que puedas sentir ahora mismo.\nNombra tus 3 comidas favoritas.\n¿Cuáles son 3 cosas por las que puedes sentir gratitud ahora mismo?\n\nAl final de un día difícil, pensar en 3 cosas por las que estás agradecido(a) puede ayudarte a encontrar el valor para intentarlo de nuevo mañana.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -227,7 +227,6 @@
         "text_1_facilitator": {}
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=ue3fgXwp2Bo",
-      "section_1_icon_asset": "images/icons/balance_blue.png",
       "completed": false
     },
     {
@@ -236,29 +235,62 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Una vez que @fields.child_name tenga una mejor noción de los números y los grupos de cosas, podrá empezar a desarrollar más habilidades matemáticas.⭐\n\n¡Recuerda ir poco a poco y divertirte al hacer las cosas que @fields.child_name está a punto de lograr! 😃"
+          "eng": "Recuerda:"
         },
         "section_1_title": {
-          "eng": "USAR LIBROS PARA APRENDER"
+          "eng": "CLASIFICAR Y ORGANIZAR"
         },
         "section_1_text": {
-          "eng": "💡 Los libros sin palabras ayudan con la imaginación, las ideas y el aprendizaje de palabras nuevas. En conjunto, nombren y describan lo que hay en los dibujos.\n\n⭐ Los libros con palabras ayudan a tener una noción de las letras, los sonidos y cómo se ven distintas palabras.\n\n🎵 Enfócate en palabras o frases cortas que rimen, se repitan y empiecen por la misma letra o terminen con el mismo sonido, como \"piña para la niña\", \"el león comelón\", o \"el zorro pide socorro\".\n\n➡️ ¡Señala cada palabra y dila en voz alta para ayudar a @fields.child_name a reconocer algunas letras y sonidos!"
+          "eng": "🌱 Pídele a {tu niño} que te ayude a clasificar las cosas en grupos, como agrupar todas las verduras al cocinar.\n \n😃 Pídele a {tu niño} que busque 5 cosas de algo y luego los ordene de menor a mayor. Puedes usar cosas como palitos o frutas.\n\n⬆️ Después, ¡ordénenlos de otra manera, como del más claro al más oscuro!\n\n✨ ¡Ayúdale a {tu niño} a pensar en los grupos! Dile: \"Un papa es una verdura  redonda y chocolate. ¿Se te ocurre alguna otra cosa que sea chocolate como un papa?\". Después di: \"¿Puedes pensar en algo que también sea redondo pero más grande que un papa?\" ⚽"
+        },
+        "section_2_title": {
+          "eng": "PONER Y QUITAR"
+        },
+        "section_2_text": {
+          "eng": "⬆️⬇️¡Una vez que tu niña o niño conozca los números, podrá empezar a aprender a sumar y restar! \n\n🍚¡Hagan actividades similares a los ejercicios de contar, como cocinar, ordenar la ropa, ir de compras o construir cosas! \n\n🌽Di: \"Tengo dos papas. Si agrego dos más, ¿cuántas tengo?\". ¡Ayúdale a tu niña o niño a obtener la respuesta! Sigue practicando y, después de un rato, ¡ve aumentando la dificultad! \n\n⚽Intenta hacer la actividad con diferentes cosas, como pelotas o zapatos. \n\n⬇ ️Repite la actividad, pero quita cosas: \"Tengo cinco papas. Si quito dos, ¿cuántas me quedan?\" \n\n🔄¡Práctica en cualquier lugar y en todas partes! También pueden hacer el juego con cosas imaginarias."
+        },
+        "section_3_title": {
+          "eng": "HACER UN NÚMERO DE DISTINTAS MANERAS"
+        },
+        "section_3_text": {
+          "eng": "⏰ Una vez que tu niña o niño tenga la edad suficiente y haya aprendido algunas habilidades matemáticas básicas, puede empezar a aprender habilidades más difíciles. \n\n5️⃣ Si crees que lo puede hacer, pídele que busque 5 piedras. Muéstrale que con 5 piedras puedes hacer un grupo de 1 piedra y otro de 4 piedras. Después, muéstrale cómo hacerlo con un grupo de 2 y otro de 3. \n\n🔟 Cuando sientas que ya tiene el dominio y la confianza para enfrentar ciertos retos, haz la misma actividad con más piedras, puedes usar hasta 10."
+        },
+        "section_4_title": {
+          "eng": "ANIMAR Y DIVERTIRSE"
+        },
+        "section_4_text": {
+          "eng": "💚 Recuerda, ve poco a poco y ayuda a {tu niño} a aumentar su confianza haciendo cosas que ya sepa hacer y que tenga la disposición de hacer.\n\n😃 Siempre busca reconocer sus esfuerzos y elogiarlos. ¡Las respuestas incorrectas también están bien! Todos son aprendizajes valiosos.\n\n🎉 Busca que las condiciones de aprendizaje sean divertidas y agradables para {tu niño}. Así será más probable que sigan intentándolo."
         }
       },
-      "text_1_facilitator": "Una vez que @fields.child_name tenga una mejor noción de los números y los grupos de cosas, podrá empezar a desarrollar más habilidades matemáticas.⭐\n\n¡Recuerda ir poco a poco y divertirte al hacer las cosas que @fields.child_name está a punto de lograr! 😃",
+      "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
-        "section_1_text": {}
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
       },
-      "section_1_icon_asset": "https://drive.google.com/file/d/1hfWPX9i6ZpYVChhK8_6AafGeqSNCgYOg/view?usp=drive_link",
-      "section_1_title": "USAR LIBROS PARA APRENDER",
-      "section_1_text": "💡 Los libros sin palabras ayudan con la imaginación, las ideas y el aprendizaje de palabras nuevas. En conjunto, nombren y describan lo que hay en los dibujos.\n\n⭐ Los libros con palabras ayudan a tener una noción de las letras, los sonidos y cómo se ven distintas palabras.\n\n🎵 Enfócate en palabras o frases cortas que rimen, se repitan y empiecen por la misma letra o terminen con el mismo sonido, como \"piña para la niña\", \"el león comelón\", o \"el zorro pide socorro\".\n\n➡️ ¡Señala cada palabra y dila en voz alta para ayudar a @fields.child_name a reconocer algunas letras y sonidos!",
+      "section_1_icon_asset": "images/icons/figures.svg",
+      "section_2_icon_asset": "images/icons/change.svg",
+      "section_3_icon_asset": "images/icons/123.svg",
+      "section_4_icon_asset": "images/icons/smile_eyes_up.svg",
+      "section_1_title": "CLASIFICAR Y ORGANIZAR",
+      "section_1_text": "🌱 Pídele a {tu niño} que te ayude a clasificar las cosas en grupos, como agrupar todas las verduras al cocinar.\n \n😃 Pídele a {tu niño} que busque 5 cosas de algo y luego los ordene de menor a mayor. Puedes usar cosas como palitos o frutas.\n\n⬆️ Después, ¡ordénenlos de otra manera, como del más claro al más oscuro!\n\n✨ ¡Ayúdale a {tu niño} a pensar en los grupos! Dile: \"Un papa es una verdura  redonda y chocolate. ¿Se te ocurre alguna otra cosa que sea chocolate como un papa?\". Después di: \"¿Puedes pensar en algo que también sea redondo pero más grande que un papa?\" ⚽",
+      "section_2_title": "PONER Y QUITAR",
+      "section_2_text": "⬆️⬇️¡Una vez que tu niña o niño conozca los números, podrá empezar a aprender a sumar y restar! \n\n🍚¡Hagan actividades similares a los ejercicios de contar, como cocinar, ordenar la ropa, ir de compras o construir cosas! \n\n🌽Di: \"Tengo dos papas. Si agrego dos más, ¿cuántas tengo?\". ¡Ayúdale a tu niña o niño a obtener la respuesta! Sigue practicando y, después de un rato, ¡ve aumentando la dificultad! \n\n⚽Intenta hacer la actividad con diferentes cosas, como pelotas o zapatos. \n\n⬇ ️Repite la actividad, pero quita cosas: \"Tengo cinco papas. Si quito dos, ¿cuántas me quedan?\" \n\n🔄¡Práctica en cualquier lugar y en todas partes! También pueden hacer el juego con cosas imaginarias.",
+      "section_3_title": "HACER UN NÚMERO DE DISTINTAS MANERAS",
+      "section_3_text": "⏰ Una vez que tu niña o niño tenga la edad suficiente y haya aprendido algunas habilidades matemáticas básicas, puede empezar a aprender habilidades más difíciles. \n\n5️⃣ Si crees que lo puede hacer, pídele que busque 5 piedras. Muéstrale que con 5 piedras puedes hacer un grupo de 1 piedra y otro de 4 piedras. Después, muéstrale cómo hacerlo con un grupo de 2 y otro de 3. \n\n🔟 Cuando sientas que ya tiene el dominio y la confianza para enfrentar ciertos retos, haz la misma actividad con más piedras, puedes usar hasta 10.",
+      "section_4_title": "ANIMAR Y DIVERTIRSE",
+      "section_4_text": "💚 Recuerda, ve poco a poco y ayuda a {tu niño} a aumentar su confianza haciendo cosas que ya sepa hacer y que tenga la disposición de hacer.\n\n😃 Siempre busca reconocer sus esfuerzos y elogiarlos. ¡Las respuestas incorrectas también están bien! Todos son aprendizajes valiosos.\n\n🎉 Busca que las condiciones de aprendizaje sean divertidas y agradables para {tu niño}. Así será más probable que sigan intentándolo.",
       "completed": false
     },
     {
-      "id": "practise_1",
-      "category_id": "practise",
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {

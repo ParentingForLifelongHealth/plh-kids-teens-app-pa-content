@@ -29,7 +29,17 @@
       }
     },
     {
+      "type": "declare_global_constant",
+      "name": "question_user_age",
       "value": "¿Cuántos años tienes?",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_user_age",
+      "value": "Ingresa un nombre",
       "_translations": {
         "value": {}
       }

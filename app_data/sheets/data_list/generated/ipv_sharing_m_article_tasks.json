@@ -12,7 +12,7 @@
       "media_asset": "audio/relax/relax_2.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be gratefful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
-      "transcript_1_spanish": "Cierra los ojos.\nVamos a usar el poder mágico del 3 para mantenernos presentes y relajarnos.\n\nNombra 3 sonidos que puedas escuchar ahora mismo.\nNombra 3 olores que puedas sentir ahora mismo.\nNombra tus 3 comidas favoritas.\n¿Cuáles son 3 cosas por las que puedes sentir gratitud ahora mismo?\n\nAl final de un día difícil, pensar en 3 cosas por las que estás agradecido(a) puede ayudarte a encontrar el valor para intentarlo de nuevo mañana.",
+      "transcript": "Cierra los ojos.\nVamos a usar el poder mágico del 3 para mantenernos presentes y relajarnos.\n\nNombra 3 sonidos que puedas escuchar ahora mismo.\nNombra 3 olores que puedas sentir ahora mismo.\nNombra tus 3 comidas favoritas.\n¿Cuáles son 3 cosas por las que puedes sentir gratitud ahora mismo?\n\nAl final de un día difícil, pensar en 3 cosas por las que estás agradecido(a) puede ayudarte a encontrar el valor para intentarlo de nuevo mañana.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -263,28 +263,28 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Recuerda"
+          "eng": "Recuerda:"
         },
         "section_1_title": {
-          "eng": "ESTABLECER UNA RUTINA"
+          "eng": "ESTABLECE UNA RUTINA"
         },
         "section_1_text": {
           "eng": "⏰ ¡Esto puede ser difícil de recordar! A veces puede ser útil establecer una rutina en torno a las actividades de la casa o de crianza.  \n\n😃 Incluso cinco minutos al día con cada niña, niño o adolescente pueden hacer la diferencia."
         },
         "section_2_title": {
-          "eng": "CONVERSAR SOBRE LA CARGA DE TRABAJO EN EL HOGAR"
+          "eng": "CONVERSA SOBRE LA CARGA DE TRABAJO EN EL HOGAR"
         },
         "section_2_text": {
           "eng": "😃 Conversa con tu pareja o familiar con quien compartes la crianza sobre cómo quieres involucrarte más en los cuidados y la crianza. Ayudará a que ambos se entiendan mejor. \n\n¡Demuestra que realmente te importa!"
         },
         "section_3_title": {
-          "eng": "SER UN CUIDADOR QUE PARTICIPA ACTIVAMENTE"
+          "eng": "SÉ UN CUIDADOR QUE PARTICIPA ACTIVAMENTE"
         },
         "section_3_text": {
           "eng": "😒 Puede resultar un poco difícil ser un cuidador que participa activamente en las responsabilidades del hogar y los cuidados. \n\n🌷Sé amable contigo si te olvidas de preguntar y vuelve a intentarlo en otra ocasión.  \n\n¡Tener voluntad para involucrarse más en las responsabilidades del cuidado y de la crianza beneficia a toda la familia!"
         }
       },
-      "text_1_facilitator": "Recuerda",
+      "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -297,17 +297,17 @@
       "section_1_icon_asset": "images/icons/picture_blue.svg",
       "section_2_icon_asset": "images/icons/home_active.svg",
       "section_3_icon_asset": "images/icons/parent_child.svg",
-      "section_1_title": "ESTABLECER UNA RUTINA",
+      "section_1_title": "ESTABLECE UNA RUTINA",
       "section_1_text": "⏰ ¡Esto puede ser difícil de recordar! A veces puede ser útil establecer una rutina en torno a las actividades de la casa o de crianza.  \n\n😃 Incluso cinco minutos al día con cada niña, niño o adolescente pueden hacer la diferencia.",
-      "section_2_title": "CONVERSAR SOBRE LA CARGA DE TRABAJO EN EL HOGAR",
+      "section_2_title": "CONVERSA SOBRE LA CARGA DE TRABAJO EN EL HOGAR",
       "section_2_text": "😃 Conversa con tu pareja o familiar con quien compartes la crianza sobre cómo quieres involucrarte más en los cuidados y la crianza. Ayudará a que ambos se entiendan mejor. \n\n¡Demuestra que realmente te importa!",
-      "section_3_title": "SER UN CUIDADOR QUE PARTICIPA ACTIVAMENTE",
+      "section_3_title": "SÉ UN CUIDADOR QUE PARTICIPA ACTIVAMENTE",
       "section_3_text": "😒 Puede resultar un poco difícil ser un cuidador que participa activamente en las responsabilidades del hogar y los cuidados. \n\n🌷Sé amable contigo si te olvidas de preguntar y vuelve a intentarlo en otra ocasión.  \n\n¡Tener voluntad para involucrarse más en las responsabilidades del cuidado y de la crianza beneficia a toda la familia!",
       "completed": false
     },
     {
-      "id": "practise_1",
-      "category_id": "practise",
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {

@@ -203,22 +203,75 @@
     {
       "id": "practical_tips_2",
       "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/balance_blue.png",
-      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "section_1_icon_asset": "images/icons/change.svg",
+      "section_2_icon_asset": "images/icons/breathe.svg",
+      "section_3_icon_asset": "images/icons/eye_blue.png",
+      "section_4_icon_asset": "images/icons/hands_heart.svg",
+      "section_5_icon_asset": "images/icons/climb.svg",
       "nested": false,
       "text_1_facilitator": "Recuerda:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {},
+        "section_5_title": {},
+        "section_5_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
+        },
+        "section_1_title": {
+          "eng": "REDIRIGE"
+        },
+        "section_1_text": {
+          "eng": "🎨 Intenta redirigir la atención de {tu niño} hacia una conducta o actividad positiva.\n\n🌷 ¡Elógiale por este comportamiento positivo!\n\nEn el primer curso de Crianza Responsable y Amorosa,aprendiste sobre redirigir la conducta."
+        },
+        "section_2_title": {
+          "eng": "MANTEN LA CALMA"
+        },
+        "section_2_text": {
+          "eng": "Haz una Pausa. Incluso un par de respiraciones profundas pueden hacer la diferencia. Te ayudará a mantener la calma y a ver con claridad lo que {tu niño} necesita.\n\nEs muy tentador (y, sinceramente fácil) que tu reacción baje al nivel de la reacción de tu niña o niño al gritar, sobre todo cuando el berrinche no se detiene o tienes mucho cansancio y se te está acabando la paciencia.\n\nIntenta tener preparado un plan para ayudarte en situaciones en las que sientas que vas a explotar y gritar.\n\nQuédate cerca de tu niña o niño y que tu presencia sea tranquilizadora. {Tu niño} se irá tranquilizando si tú mantienes la calma. Puede que no sea fácil hacerlo, ¡pero funciona!"
+        },
+        "section_3_title": {
+          "eng": "OBSERVA"
+        },
+        "section_3_text": {
+          "eng": "Pregúntate: \"¿qué es lo que {tu niño} realmente necesita en este momento? ¿Será que siente cansancio, estrés, miedo?\"\n\nLa mayoría de las veces, puede ser que lo que {tu niño} necesite sea atención o cariño.\n\nPuedes dárselo sin ceder a sus exigencias si es que se están quejando por algo que no pueden tener."
+        },
+        "section_4_title": {
+          "eng": "CUIDA"
+        },
+        "section_4_text": {
+          "eng": "🎈 Una vez que {tu niño} haya parado su berrinche o se haya calmado, necesitará mucho cariño y atención positiva.\n\n🧸 Pueden Conversar sobre lo que pasó más tarde o al día siguiente. De momento, involucra a {tu niño} en una actividad positiva."
+        },
+        "section_5_title": {
+          "eng": "SÉ CONSTANTE"
+        },
+        "section_5_text": {
+          "eng": "⭐ Aunque el comportamiento de {tu niño} empeore al principio cuando no estás cediendo a lo que quiere, es importante mantener la calma sin discutir ni gritarle a {tu niño}.\n\nPuedes explicar, con calma, la razón por la que tu niña o niño no puede tener eso que quiere, pero hazlo una sola vez, sin entrar en debates ni discusiones.\n\nCon el paso del tiempo, {tu niño} aprenderá a calmarse por su cuenta.\n\n💚 Pasa mucho tiempo positivo con {tu niño}, sobre todo Tiempo Juntos y Conectados. ¡Es superimportante!"
         }
-      }
+      },
+      "section_1_title": "REDIRIGE",
+      "section_1_text": "🎨 Intenta redirigir la atención de {tu niño} hacia una conducta o actividad positiva.\n\n🌷 ¡Elógiale por este comportamiento positivo!\n\nEn el primer curso de Crianza Responsable y Amorosa,aprendiste sobre redirigir la conducta.",
+      "section_2_title": "MANTEN LA CALMA",
+      "section_2_text": "Haz una Pausa. Incluso un par de respiraciones profundas pueden hacer la diferencia. Te ayudará a mantener la calma y a ver con claridad lo que {tu niño} necesita.\n\nEs muy tentador (y, sinceramente fácil) que tu reacción baje al nivel de la reacción de tu niña o niño al gritar, sobre todo cuando el berrinche no se detiene o tienes mucho cansancio y se te está acabando la paciencia.\n\nIntenta tener preparado un plan para ayudarte en situaciones en las que sientas que vas a explotar y gritar.\n\nQuédate cerca de tu niña o niño y que tu presencia sea tranquilizadora. {Tu niño} se irá tranquilizando si tú mantienes la calma. Puede que no sea fácil hacerlo, ¡pero funciona!",
+      "section_3_title": "OBSERVA",
+      "section_3_text": "Pregúntate: \"¿qué es lo que {tu niño} realmente necesita en este momento? ¿Será que siente cansancio, estrés, miedo?\"\n\nLa mayoría de las veces, puede ser que lo que {tu niño} necesite sea atención o cariño.\n\nPuedes dárselo sin ceder a sus exigencias si es que se están quejando por algo que no pueden tener.",
+      "section_4_title": "CUIDA",
+      "section_4_text": "🎈 Una vez que {tu niño} haya parado su berrinche o se haya calmado, necesitará mucho cariño y atención positiva.\n\n🧸 Pueden Conversar sobre lo que pasó más tarde o al día siguiente. De momento, involucra a {tu niño} en una actividad positiva.",
+      "section_5_title": "SÉ CONSTANTE",
+      "section_5_text": "⭐ Aunque el comportamiento de {tu niño} empeore al principio cuando no estás cediendo a lo que quiere, es importante mantener la calma sin discutir ni gritarle a {tu niño}.\n\nPuedes explicar, con calma, la razón por la que tu niña o niño no puede tener eso que quiere, pero hazlo una sola vez, sin entrar en debates ni discusiones.\n\nCon el paso del tiempo, {tu niño} aprenderá a calmarse por su cuenta.\n\n💚 Pasa mucho tiempo positivo con {tu niño}, sobre todo Tiempo Juntos y Conectados. ¡Es superimportante!"
     },
     {
-      "id": "practise_1",
-      "category_id": "practise",
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "nested": false,
       "text_1_facilitator": "**Actividad para casa** ⭐ \n\nBusca una cosa positiva que @fields.child_name haga el día de hoy y elógiale por ello. Si @fields.child_name se empieza a quejar por algo o a hacer berrinche, intenta usar las estrategias de esta lección para redirigir, mantener la calma, observar y cuidar. Puede que al principio no sea facil, ¡pero síguele, tú puedes hacerlo!",
       "_translations": {

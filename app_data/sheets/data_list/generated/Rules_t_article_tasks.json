@@ -12,7 +12,7 @@
       "media_asset": "audio/relax/relax_4.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!",
-      "transcript_1_spanish": "Cierra los ojos.\n\nUsa el poder mágico del tres para mantenerte conectado(a) y relajarte.\n\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\n\n¿Te sientes diferente? Respirar profundo ayuda a calmar el cuerpo y la mente.\n\nMuy bien. Ya estás listo(a) para comenzar tu lección.",
+      "transcript": "Cierra los ojos.\n\nUsa el poder mágico del tres para mantenerte conectado(a) y relajarte.\n\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\n\n¿Te sientes diferente? Respirar profundo ayuda a calmar el cuerpo y la mente.\n\nMuy bien. Ya estás listo(a) para comenzar tu lección.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -252,19 +252,61 @@
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
+        },
+        "section_1_title": {
+          "eng": "SEAN UN EQUIPO"
+        },
+        "section_1_text": {
+          "eng": "⏰ Crea las reglas con tu adolescente.\n\n⏸ Hagan una regla a la vez.\n\n🔑 Hablen de las razones por las que se crea esa regla.\n\n👂 Escucha su punto de vista."
+        },
+        "section_2_title": {
+          "eng": "MANTENLO REALISTA"
+        },
+        "section_2_text": {
+          "eng": "⭐ Establece reglas realistas: ¿Qué sí puede hacer tu adolescente realmente?\n\n📖 Al explicarle lo que quieres que haga, exprésate con claridad y precisión.\n\n✅ Asegúrate de que la regla es justa. Explica el motivo de la regla y las consecuencias positivas por seguirla."
+        },
+        "section_3_title": {
+          "eng": "SEAN CONSTANTES"
+        },
+        "section_3_text": {
+          "eng": "🔄 Una vez que establezcas una regla, procura que se cumpla.\n \n⬆️ Esto aumentará la probabilidad de que sigan la regla.\n\n▶️ Si la regla te incluye, es importante que tú también la cumplas."
+        },
+        "section_4_title": {
+          "eng": "ELOGIA, ELOGIA, ELOGIA"
+        },
+        "section_4_text": {
+          "eng": "⭐ Elogia y elogia a {tu adolescente} por su participación en la elaboración de la regla.\n\n😃 ¡Elogia, Elogia y elogia a {tu adolescente} cuando siga la regla, ¡igual que cuando se porta bien!"
         }
       },
       "text_1_facilitator": "Recuerda:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
       },
-      "section_1_icon_asset": "images/icons/balance_blue.png",
-      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "section_1_icon_asset": "images/icons/trust.svg",
+      "section_2_icon_asset": "images/icons/star_outline_blue.svg",
+      "section_3_icon_asset": "images/icons/trophy_blue.png",
+      "section_4_icon_asset": "images/icons/spark.png",
+      "section_1_title": "SEAN UN EQUIPO",
+      "section_1_text": "⏰ Crea las reglas con tu adolescente.\n\n⏸ Hagan una regla a la vez.\n\n🔑 Hablen de las razones por las que se crea esa regla.\n\n👂 Escucha su punto de vista.",
+      "section_2_title": "MANTENLO REALISTA",
+      "section_2_text": "⭐ Establece reglas realistas: ¿Qué sí puede hacer tu adolescente realmente?\n\n📖 Al explicarle lo que quieres que haga, exprésate con claridad y precisión.\n\n✅ Asegúrate de que la regla es justa. Explica el motivo de la regla y las consecuencias positivas por seguirla.",
+      "section_3_title": "SEAN CONSTANTES",
+      "section_3_text": "🔄 Una vez que establezcas una regla, procura que se cumpla.\n \n⬆️ Esto aumentará la probabilidad de que sigan la regla.\n\n▶️ Si la regla te incluye, es importante que tú también la cumplas.",
+      "section_4_title": "ELOGIA, ELOGIA, ELOGIA",
+      "section_4_text": "⭐ Elogia y elogia a {tu adolescente} por su participación en la elaboración de la regla.\n\n😃 ¡Elogia, Elogia y elogia a {tu adolescente} cuando siga la regla, ¡igual que cuando se porta bien!",
       "completed": false
     },
     {
-      "id": "practise_1",
-      "category_id": "practise",
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {

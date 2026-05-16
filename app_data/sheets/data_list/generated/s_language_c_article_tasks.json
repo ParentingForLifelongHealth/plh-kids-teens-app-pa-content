@@ -12,7 +12,7 @@
       "media_asset": "audio/relax/relax_2.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be gratefful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
-      "transcript_1_spanish": "Cierra los ojos.\nVamos a usar el poder mágico del 3 para mantenernos presentes y relajarnos.\n\nNombra 3 sonidos que puedas escuchar ahora mismo.\nNombra 3 olores que puedas sentir ahora mismo.\nNombra tus 3 comidas favoritas.\n¿Cuáles son 3 cosas por las que puedes sentir gratitud ahora mismo?\n\nAl final de un día difícil, pensar en 3 cosas por las que estás agradecido(a) puede ayudarte a encontrar el valor para intentarlo de nuevo mañana.",
+      "transcript": "Cierra los ojos.\nVamos a usar el poder mágico del 3 para mantenernos presentes y relajarnos.\n\nNombra 3 sonidos que puedas escuchar ahora mismo.\nNombra 3 olores que puedas sentir ahora mismo.\nNombra tus 3 comidas favoritas.\n¿Cuáles son 3 cosas por las que puedes sentir gratitud ahora mismo?\n\nAl final de un día difícil, pensar en 3 cosas por las que estás agradecido(a) puede ayudarte a encontrar el valor para intentarlo de nuevo mañana.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -245,7 +245,6 @@
         "text_1_facilitator": {}
       },
       "youtube_gb_en_f": "youtube link",
-      "section_1_icon_asset": "images/icons/balance_blue.png",
       "completed": false
     },
     {
@@ -254,7 +253,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Recuerda las 5️⃣ estrategias para ayudar a @fields.child_name a desarrollar habilidades lingüísticas mediante conversaciones.\n\n💙 ¡Conversa con @fields.child_name siempre que puedas! Pueden conversar de sus actividades diarias, de cómo se siente o de cualquier otra cosa. Esto ayuda a que @fields.child_name mejore su memoria, su articulación y su vocabulario, además de ayudarte a ti a aprender más sobre ella o él.\n\n😃 Procura estar a la altura de @fields.child_name. Esto hace que tu niña o niño se sienta con confianza para conversar y le demuestra que realmente te interesa."
+          "eng": "Recuerda:"
         },
         "section_1_title": {
           "eng": "EXPLICAR"
@@ -287,7 +286,7 @@
           "eng": "🎈 ¡Cuéntale historias a @fields.child_name! Pueden ser reales, inventadas, basadas en sus vidas o tomadas de un libro.\n\n😃 Anima a @fields.child_name a que también cuente sus propias historias. ¡Podrías mostrarle fotos para crear una historia juntos!\n\n📖 Usa los cuentos y las historias para aprender palabras nuevas e incorpóralas a varias frases a lo largo del día.\n\n🔄 ¡Ten paciencia! Se necesita mucha práctica para escuchar historias y aún más para desarrollar la habilidad de contarlas. 💙"
         }
       },
-      "text_1_facilitator": "Recuerda las 5️⃣ estrategias para ayudar a @fields.child_name a desarrollar habilidades lingüísticas mediante conversaciones.\n\n💙 ¡Conversa con @fields.child_name siempre que puedas! Pueden conversar de sus actividades diarias, de cómo se siente o de cualquier otra cosa. Esto ayuda a que @fields.child_name mejore su memoria, su articulación y su vocabulario, además de ayudarte a ti a aprender más sobre ella o él.\n\n😃 Procura estar a la altura de @fields.child_name. Esto hace que tu niña o niño se sienta con confianza para conversar y le demuestra que realmente te interesa.",
+      "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -301,11 +300,11 @@
         "section_5_title": {},
         "section_5_text": {}
       },
-      "section_1_icon_asset": "https://drive.google.com/file/d/1GGu-Iy1PmdyDtB2h_Q23fxyUsR0FqGhn/view?usp=drive_link",
-      "section_2_icon_asset": "https://drive.google.com/file/d/1LszHYmtJlkCzd6jD9TCRlQmsc03sFoyb/view?usp=drive_link",
-      "section_3_icon_asset": "https://drive.google.com/file/d/1yuMaNGzZNRXTUkoIoYGxcyps__hKv0KX/view?usp=drive_link",
-      "section_4_icon_asset": "https://drive.google.com/file/d/1hfWPX9i6ZpYVChhK8_6AafGeqSNCgYOg/view?usp=drive_link",
-      "section_5_icon_asset": "https://drive.google.com/file/d/1GGu-Iy1PmdyDtB2h_Q23fxyUsR0FqGhn/view?usp=drive_link",
+      "section_1_icon_asset": "images/icons/single_speech_blue.png",
+      "section_2_icon_asset": "images/icons/question_blue.png",
+      "section_3_icon_asset": "images/icons/listen.svg",
+      "section_4_icon_asset": "images/icons/trust.svg",
+      "section_5_icon_asset": "images/icons/picture_book.svg",
       "section_1_title": "EXPLICAR",
       "section_1_text": "😃 Establece conversaciones con @fields.child_name al involucrarle en actividades cotidianas. Describe y explica lo que estás haciendo, utilizando diferentes palabras. Por ejemplo, si estás en el mercado o en el súper, puedes decir: \"Hoy vamos a comprar tomates\" o \"Hoy voy a hacer arroz con pollo y necesitamos pollo y arroz para hacerlo\".\n\n👂 ¡Hazle preguntas a @fields.child_name y escucha sus respuestas!\n\n⏯️ Muéstrale a @fields.child_name a distintas oportunidades de aprendizaje para que las pueda enfrentar a su propio ritmo. Cuando le des actividades que se adapten a sus capacidades, aumentará su confianza y su entusiasmo por aprender. 😃",
       "section_2_title": "HACER PREGUNTAS",
@@ -319,8 +318,8 @@
       "completed": false
     },
     {
-      "id": "practise_1",
-      "category_id": "practise",
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {

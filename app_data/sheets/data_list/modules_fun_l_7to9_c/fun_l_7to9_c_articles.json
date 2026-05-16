@@ -118,22 +118,53 @@
     {
       "id": "practical_tips_2",
       "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/balance_blue.png",
-      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "section_1_icon_asset": "images/icons/football_blue.png",
+      "section_2_icon_asset": "images/icons/tick.svg",
+      "section_3_icon_asset": "images/icons/star_filled_blue.png",
       "nested": false,
       "text_1_facilitator": "Recuerda:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
+        },
+        "section_1_title": {
+          "eng": "JUGAR"
+        },
+        "section_1_text": {
+          "eng": "🌱 Darle a {tu niño} tiempo para divertirse y ser feliz mejora su salud física y mental, ¡además de su capacidad para aprender y recordar datos importantes!\n\n⚽ ¡Pónganse a jugar!\n\n⏰ Si {tu niño} empieza a sentir estrés por algo que haya pasado en su día, ayúdale a reducir la sensación haciendo una pausa de manera consciente o haciendo algo divertido juntos.\n\n💡 Incorpora los intereses de {tu niño} en su aprendizaje, esto despertará su curiosidad."
+        },
+        "section_2_title": {
+          "eng": "UTILIZAR PALABRAS AFIRMATIVAS"
+        },
+        "section_2_text": {
+          "eng": "Pocas niñas y niños disfrutan hacer la tarea. Puedes empatizar con su frustración, pero recuérdales por qué es importante hacerla: refuerza lo que han aprendido en la escuela y les enseña a gestionar su tiempo sabiamente.\n\n😃 Anima, reconoce a {tu niño} cuando esté aprendiendo algo."
+        },
+        "section_3_title": {
+          "eng": "PERMITIR LA CREATIVIDAD"
+        },
+        "section_3_text": {
+          "eng": "🎨 Permite que {tu niño} exprese su creatividad mientras aprende algo nuevo. Por ejemplo, anima a {tu niño} a dibujar o a salir al aire libre para mejorar su aprendizaje.\n \n✨ Si a {tu niño} le interesa un tema nuevo, hablen sobre eso y anímale a que explore y averigüe más sobre el tema.\n\n💙 Da un buen ejemplo: Deja que {tu niño} te vea explorando tu creatividad y haciendo cosas nuevas, aunque todavía no lo domines."
         }
-      }
+      },
+      "section_1_title": "JUGAR",
+      "section_1_text": "🌱 Darle a {tu niño} tiempo para divertirse y ser feliz mejora su salud física y mental, ¡además de su capacidad para aprender y recordar datos importantes!\n\n⚽ ¡Pónganse a jugar!\n\n⏰ Si {tu niño} empieza a sentir estrés por algo que haya pasado en su día, ayúdale a reducir la sensación haciendo una pausa de manera consciente o haciendo algo divertido juntos.\n\n💡 Incorpora los intereses de {tu niño} en su aprendizaje, esto despertará su curiosidad.",
+      "section_2_title": "UTILIZAR PALABRAS AFIRMATIVAS",
+      "section_2_text": "Pocas niñas y niños disfrutan hacer la tarea. Puedes empatizar con su frustración, pero recuérdales por qué es importante hacerla: refuerza lo que han aprendido en la escuela y les enseña a gestionar su tiempo sabiamente.\n\n😃 Anima, reconoce a {tu niño} cuando esté aprendiendo algo.",
+      "section_3_title": "PERMITIR LA CREATIVIDAD",
+      "section_3_text": "🎨 Permite que {tu niño} exprese su creatividad mientras aprende algo nuevo. Por ejemplo, anima a {tu niño} a dibujar o a salir al aire libre para mejorar su aprendizaje.\n \n✨ Si a {tu niño} le interesa un tema nuevo, hablen sobre eso y anímale a que explore y averigüe más sobre el tema.\n\n💙 Da un buen ejemplo: Deja que {tu niño} te vea explorando tu creatividad y haciendo cosas nuevas, aunque todavía no lo domines."
     },
     {
-      "id": "practise_1",
-      "category_id": "practise",
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "nested": false,
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nInvita a @fields.child_name a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar algo, o salir a correr cerca de su casa. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando.",
       "_translations": {

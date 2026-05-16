@@ -12,7 +12,7 @@
       "media_asset": "audio/relax/relax_2.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be gratefful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
-      "transcript_1_spanish": "Cierra los ojos.\nVamos a usar el poder mágico del 3 para mantenernos presentes y relajarnos.\n\nNombra 3 sonidos que puedas escuchar ahora mismo.\nNombra 3 olores que puedas sentir ahora mismo.\nNombra tus 3 comidas favoritas.\n¿Cuáles son 3 cosas por las que puedes sentir gratitud ahora mismo?\n\nAl final de un día difícil, pensar en 3 cosas por las que estás agradecido(a) puede ayudarte a encontrar el valor para intentarlo de nuevo mañana.",
+      "transcript": "Cierra los ojos.\nVamos a usar el poder mágico del 3 para mantenernos presentes y relajarnos.\n\nNombra 3 sonidos que puedas escuchar ahora mismo.\nNombra 3 olores que puedas sentir ahora mismo.\nNombra tus 3 comidas favoritas.\n¿Cuáles son 3 cosas por las que puedes sentir gratitud ahora mismo?\n\nAl final de un día difícil, pensar en 3 cosas por las que estás agradecido(a) puede ayudarte a encontrar el valor para intentarlo de nuevo mañana.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -235,19 +235,50 @@
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
+        },
+        "section_1_title": {
+          "eng": "ESPECIFICAR LO QUE QUIERES"
+        },
+        "section_1_text": {
+          "eng": "⭐Di el comportamiento que quieres que haga tu niña, niño o adolescente. Por ejemplo: \"Luis, por favor, pon la mochila en la silla cuando entres a la casa.\" \n\n👀 Usa el nombre de tu niña, niño o adolescente para obtener su atención. Ponte a su altura para que tengan contacto visual."
+        },
+        "section_2_title": {
+          "eng": "SÉ REALISTA"
+        },
+        "section_2_text": {
+          "eng": "⭐ Asegúrate de que la instrucción es algo que tu niña, niño o adolescente puede hacer.  \n\n💡 Da una instrucción a la vez. ¡Puede que a tu niña, niño o adolescente le resulte difícil recordar tantas instrucciones juntas!  \n\n⏰ Si es posible, da un aviso de tiempo para preparar a la niña, al niño o adolescente para que finalice la actividad: \"En 3 minutos será la hora de acostarse y será momento de regresarme el teléfono\". \n\n🌷Mantén la calma y recuerda que esperar la perfección añade estrés adicional para todas y todos. En lugar de eso, trata cada momento como una oportunidad para aprender y enseñar."
+        },
+        "section_3_title": {
+          "eng": "USA PALABRAS AFIRMATIVAS"
+        },
+        "section_3_text": {
+          "eng": "⭐Usa palabras positivas al dar instrucciones. Por ejemplo, en vez de \"No grites\", di \"Habla en voz baja\".\n\n💡Da las instrucciones con una voz firme y mantén la calma. Compórtate como si esperaras que tu niña, niño o adolescente hiciera lo que le pides. \n\n🏅 ¡Elogia, elogia, elogia! Asegúrate de elogiar a tu niña, niño o adolescente inmediatamente después de que siga tus instrucciones. \n\n🌷También sé amable contigo si a veces se te olvida hacerlo. Aprender a dar instrucciones efectivas no es fácil, ¡pero funciona! 💙"
         }
       },
       "text_1_facilitator": "Recuerda:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {}
       },
-      "section_1_icon_asset": "images/icons/balance_blue.png",
-      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "section_1_icon_asset": "images/icons/target.svg",
+      "section_2_icon_asset": "images/icons/tick.svg",
+      "section_3_icon_asset": "images/icons/star_filled_blue.png",
+      "section_1_title": "ESPECIFICAR LO QUE QUIERES",
+      "section_1_text": "⭐Di el comportamiento que quieres que haga tu niña, niño o adolescente. Por ejemplo: \"Luis, por favor, pon la mochila en la silla cuando entres a la casa.\" \n\n👀 Usa el nombre de tu niña, niño o adolescente para obtener su atención. Ponte a su altura para que tengan contacto visual.",
+      "section_2_title": "SÉ REALISTA",
+      "section_2_text": "⭐ Asegúrate de que la instrucción es algo que tu niña, niño o adolescente puede hacer.  \n\n💡 Da una instrucción a la vez. ¡Puede que a tu niña, niño o adolescente le resulte difícil recordar tantas instrucciones juntas!  \n\n⏰ Si es posible, da un aviso de tiempo para preparar a la niña, al niño o adolescente para que finalice la actividad: \"En 3 minutos será la hora de acostarse y será momento de regresarme el teléfono\". \n\n🌷Mantén la calma y recuerda que esperar la perfección añade estrés adicional para todas y todos. En lugar de eso, trata cada momento como una oportunidad para aprender y enseñar.",
+      "section_3_title": "USA PALABRAS AFIRMATIVAS",
+      "section_3_text": "⭐Usa palabras positivas al dar instrucciones. Por ejemplo, en vez de \"No grites\", di \"Habla en voz baja\".\n\n💡Da las instrucciones con una voz firme y mantén la calma. Compórtate como si esperaras que tu niña, niño o adolescente hiciera lo que le pides. \n\n🏅 ¡Elogia, elogia, elogia! Asegúrate de elogiar a tu niña, niño o adolescente inmediatamente después de que siga tus instrucciones. \n\n🌷También sé amable contigo si a veces se te olvida hacerlo. Aprender a dar instrucciones efectivas no es fácil, ¡pero funciona! 💙",
       "completed": false
     },
     {
-      "id": "practise_1",
-      "category_id": "practise",
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {

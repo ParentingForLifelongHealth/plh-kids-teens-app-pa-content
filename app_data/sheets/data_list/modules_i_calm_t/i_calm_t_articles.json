@@ -164,7 +164,7 @@
       "section_3_icon_asset": "images/icons/lightbulb_blue.png",
       "section_4_icon_asset": "images/icons/star_filled_blue.png",
       "nested": false,
-      "text_1_facilitator": "Recuerda las estrategias para mantener la calma cuando hay estrés:",
+      "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -178,7 +178,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Recuerda las estrategias para mantener la calma cuando hay estrés:"
+          "eng": "Recuerda:"
         },
         "section_1_title": {
           "eng": "MANTEN LA CALMA"
@@ -215,8 +215,8 @@
       "section_4_text": "✅ ¡Elogia y elogia a @fields.child_name cuando se porte bien! \n✅ ¡También le ayudará a saber lo que esperas de él o ella!"
     },
     {
-      "id": "practise_1",
-      "category_id": "practise",
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "nested": false,
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con @fields.child_name. Comparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos➡️",
       "_translations": {
