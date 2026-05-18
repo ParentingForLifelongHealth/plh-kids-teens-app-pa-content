@@ -10,8 +10,12 @@
   },
   "rows": [
     {
-      "name": "not_completed_count",
+      "name": "not_comp_count",
       "value": 0
+    },
+    {
+      "name": "module_id",
+      "value": "@gen.id"
     },
     {
       "type": "data_items",
@@ -22,15 +26,21 @@
           "trigger": "data_changed",
           "action_id": "set_local",
           "args": [
-            "not_completed_count",
+            "not_comp_count",
             "@items.length"
           ],
-          "_raw": "data_changed | set_local: not_completed_count: @items.length"
+          "_raw": "data_changed | set_local: not_comp_count: @items.length"
         }
       ],
       "parameter_list": [
-        "filter: (@item.id !== @gen.id) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))"
+        "filter: (@item.id !== @local.module_id) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))"
       ],
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "not comp: @local.not_comp_count",
+      "condition": false,
       "exclude_from_translation": true
     },
     {
@@ -112,7 +122,7 @@
             },
             {
               "name": "unlock_all",
-              "value": "@calc(@local.not_completed_count == 0)"
+              "value": "@calc(@local.not_comp_count == 0)"
             }
           ]
         }

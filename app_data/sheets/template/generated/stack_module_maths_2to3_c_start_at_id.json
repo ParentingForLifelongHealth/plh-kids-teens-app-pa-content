@@ -4,10 +4,19 @@
   "flow_type": "template",
   "rows": [
     {
-      "name": "not_completed_count",
+      "name": "not_comp_count",
       "value": 0,
       "type": "set_variable",
-      "_nested_name": "not_completed_count"
+      "_nested_name": "not_comp_count"
+    },
+    {
+      "name": "module_id",
+      "value": "maths_2to3_c",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "module_id"
     },
     {
       "type": "data_items",
@@ -21,14 +30,14 @@
           "trigger": "data_changed",
           "action_id": "set_local",
           "args": [
-            "not_completed_count",
+            "not_comp_count",
             "@items.length"
           ],
-          "_raw": "data_changed | set_local: not_completed_count: @items.length"
+          "_raw": "data_changed | set_local: not_comp_count: @items.length"
         }
       ],
       "parameter_list": {
-        "filter": "(@item.id !== maths_2to3_c) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))"
+        "filter": "(@item.id !== @local.module_id) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))"
       },
       "exclude_from_translation": true,
       "_nested_name": "count_modules",
@@ -44,67 +53,73 @@
         "parameter_list": {
           "filter": [
             {
-              "fullExpression": "(@item.id !== maths_2to3_c) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "fullExpression": "(@item.id !== @local.module_id) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
               "matchedExpression": "@item.id",
               "type": "item",
               "fieldName": "id"
             },
             {
-              "fullExpression": "(@item.id !== maths_2to3_c) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "fullExpression": "(@item.id !== @local.module_id) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "@local.module_id",
+              "type": "local",
+              "fieldName": "module_id"
+            },
+            {
+              "fullExpression": "(@item.id !== @local.module_id) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
               "matchedExpression": "!@item.completed",
               "type": "item",
               "fieldName": "completed"
             },
             {
-              "fullExpression": "(@item.id !== maths_2to3_c) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "fullExpression": "(@item.id !== @local.module_id) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
               "matchedExpression": "!@item.age_list",
               "type": "item",
               "fieldName": "age_list"
             },
             {
-              "fullExpression": "(@item.id !== maths_2to3_c) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "fullExpression": "(@item.id !== @local.module_id) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
               "matchedExpression": "@item.age_list.includes",
               "type": "item",
               "fieldName": "age_list"
             },
             {
-              "fullExpression": "(@item.id !== maths_2to3_c) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "fullExpression": "(@item.id !== @local.module_id) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
               "matchedExpression": "@fields.child_age",
               "type": "fields",
               "fieldName": "child_age"
             },
             {
-              "fullExpression": "(@item.id !== maths_2to3_c) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "fullExpression": "(@item.id !== @local.module_id) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
               "matchedExpression": "!@item.child_gender_list",
               "type": "item",
               "fieldName": "child_gender_list"
             },
             {
-              "fullExpression": "(@item.id !== maths_2to3_c) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "fullExpression": "(@item.id !== @local.module_id) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
               "matchedExpression": "@item.child_gender_list.includes",
               "type": "item",
               "fieldName": "child_gender_list"
             },
             {
-              "fullExpression": "(@item.id !== maths_2to3_c) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "fullExpression": "(@item.id !== @local.module_id) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
               "matchedExpression": "@fields.child_gender",
               "type": "fields",
               "fieldName": "child_gender"
             },
             {
-              "fullExpression": "(@item.id !== maths_2to3_c) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "fullExpression": "(@item.id !== @local.module_id) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
               "matchedExpression": "!@item.caregiver_relationship_list",
               "type": "item",
               "fieldName": "caregiver_relationship_list"
             },
             {
-              "fullExpression": "(@item.id !== maths_2to3_c) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "fullExpression": "(@item.id !== @local.module_id) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
               "matchedExpression": "@item.caregiver_relationship_list.includes",
               "type": "item",
               "fieldName": "caregiver_relationship_list"
             },
             {
-              "fullExpression": "(@item.id !== maths_2to3_c) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "fullExpression": "(@item.id !== @local.module_id) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
               "matchedExpression": "@fields.user_relationship",
               "type": "fields",
               "fieldName": "user_relationship"
@@ -117,6 +132,9 @@
           "value"
         ],
         "@item.id": [
+          "parameter_list.filter"
+        ],
+        "@local.module_id": [
           "parameter_list.filter"
         ],
         "!@item.completed": [
@@ -148,6 +166,32 @@
         ],
         "@fields.user_relationship": [
           "parameter_list.filter"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "value": "not comp: @local.not_comp_count",
+      "_translations": {
+        "value": {}
+      },
+      "condition": false,
+      "exclude_from_translation": true,
+      "name": "text_5",
+      "_nested_name": "text_5",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "not comp: @local.not_comp_count",
+            "matchedExpression": "@local.not_comp_count",
+            "type": "local",
+            "fieldName": "not_comp_count"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.not_comp_count": [
+          "value"
         ]
       }
     },
@@ -260,7 +304,7 @@
             },
             {
               "name": "unlock_all",
-              "value": "@calc(@local.not_completed_count == 0)",
+              "value": "@calc(@local.not_comp_count == 0)",
               "_translations": {
                 "value": {}
               },
@@ -269,24 +313,24 @@
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "@calc(@local.not_completed_count == 0)",
-                    "matchedExpression": "@local.not_completed_count",
+                    "fullExpression": "@calc(@local.not_comp_count == 0)",
+                    "matchedExpression": "@local.not_comp_count",
                     "type": "local",
-                    "fieldName": "not_completed_count"
+                    "fieldName": "not_comp_count"
                   },
                   {
-                    "fullExpression": "@calc(@local.not_completed_count == 0)",
-                    "matchedExpression": "@calc(@local.not_completed_count == 0)",
+                    "fullExpression": "@calc(@local.not_comp_count == 0)",
+                    "matchedExpression": "@calc(@local.not_comp_count == 0)",
                     "type": "calc",
-                    "fieldName": "@local.not_completed_count == 0"
+                    "fieldName": "@local.not_comp_count == 0"
                   }
                 ]
               },
               "_dynamicDependencies": {
-                "@local.not_completed_count": [
+                "@local.not_comp_count": [
                   "value"
                 ],
-                "@calc(@local.not_completed_count == 0)": [
+                "@calc(@local.not_comp_count == 0)": [
                   "value"
                 ]
               }

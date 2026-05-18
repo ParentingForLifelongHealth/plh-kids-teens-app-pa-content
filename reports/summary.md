@@ -33,12 +33,12 @@
 | round_button | 11 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 3901 |
+| set_variable | 3976 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 1221 |
-| text | 193 |
+| text | 268 |
 | text_area | 3 |
 | text_box | 16 |
 | text_bubble | 9 |
