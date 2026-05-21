@@ -20,33 +20,78 @@
       "rows": [
         {
           "name": "title",
-          "value": "Feedback Form",
+          "value": "@global.feedback_title",
           "_translations": {
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "settings_header.title"
+          "_nested_name": "settings_header.title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.feedback_title",
+                "matchedExpression": "@global.feedback_title",
+                "type": "global",
+                "fieldName": "feedback_title"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.feedback_title": [
+              "value"
+            ]
+          }
         }
       ],
       "_nested_name": "settings_header"
     },
     {
       "type": "text",
-      "value": "Your Feedback",
+      "value": "@global.feedback_intro_text",
       "_translations": {
         "value": {}
       },
       "name": "text_4",
-      "_nested_name": "text_4"
+      "_nested_name": "text_4",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.feedback_intro_text",
+            "matchedExpression": "@global.feedback_intro_text",
+            "type": "global",
+            "fieldName": "feedback_intro_text"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.feedback_intro_text": [
+          "value"
+        ]
+      }
     },
     {
       "name": "feedback_placeholder",
-      "value": "Tell us what's on your mind...",
+      "value": "@global.feedback_placeholder",
       "_translations": {
         "value": {}
       },
       "type": "set_variable",
-      "_nested_name": "feedback_placeholder"
+      "_nested_name": "feedback_placeholder",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.feedback_placeholder",
+            "matchedExpression": "@global.feedback_placeholder",
+            "type": "global",
+            "fieldName": "feedback_placeholder"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.feedback_placeholder": [
+          "value"
+        ]
+      }
     },
     {
       "type": "text_area",
@@ -108,21 +153,51 @@
     },
     {
       "type": "text",
-      "value": "Where?",
+      "value": "@global.feedback_where_intro_text",
       "_translations": {
         "value": {}
       },
       "name": "text_8",
-      "_nested_name": "text_8"
+      "_nested_name": "text_8",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.feedback_where_intro_text",
+            "matchedExpression": "@global.feedback_where_intro_text",
+            "type": "global",
+            "fieldName": "feedback_where_intro_text"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.feedback_where_intro_text": [
+          "value"
+        ]
+      }
     },
     {
       "name": "where_placeholder",
-      "value": "Where?",
+      "value": "@global.where_placeholder",
       "_translations": {
         "value": {}
       },
       "type": "set_variable",
-      "_nested_name": "where_placeholder"
+      "_nested_name": "where_placeholder",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.where_placeholder",
+            "matchedExpression": "@global.where_placeholder",
+            "type": "global",
+            "fieldName": "where_placeholder"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.where_placeholder": [
+          "value"
+        ]
+      }
     },
     {
       "type": "combo_box",
@@ -163,12 +238,27 @@
     },
     {
       "name": "location_placeholder",
-      "value": "Please specify the location",
+      "value": "@global.feedback_location_placeholder",
       "_translations": {
         "value": {}
       },
       "type": "set_variable",
-      "_nested_name": "location_placeholder"
+      "_nested_name": "location_placeholder",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.feedback_location_placeholder",
+            "matchedExpression": "@global.feedback_location_placeholder",
+            "type": "global",
+            "fieldName": "feedback_location_placeholder"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.feedback_location_placeholder": [
+          "value"
+        ]
+      }
     },
     {
       "name": "specify_location",
@@ -271,16 +361,31 @@
     },
     {
       "name": "toast_message",
-      "value": "Thanks! This helps us improve your experience on the app",
+      "value": "@global.feedback_toast_message",
       "_translations": {
         "value": {}
       },
       "type": "set_variable",
-      "_nested_name": "toast_message"
+      "_nested_name": "toast_message",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.feedback_toast_message",
+            "matchedExpression": "@global.feedback_toast_message",
+            "type": "global",
+            "fieldName": "feedback_toast_message"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.feedback_toast_message": [
+          "value"
+        ]
+      }
     },
     {
       "type": "button",
-      "value": "Submit Feedback",
+      "value": "@global.feedback_submit_button",
       "_translations": {
         "value": {}
       },
@@ -327,6 +432,14 @@
       "name": "button_17",
       "_nested_name": "button_17",
       "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.feedback_submit_button",
+            "matchedExpression": "@global.feedback_submit_button",
+            "type": "global",
+            "fieldName": "feedback_submit_button"
+          }
+        ],
         "action_list": {
           "0": {
             "_raw": [
@@ -423,6 +536,9 @@
         }
       },
       "_dynamicDependencies": {
+        "@global.feedback_submit_button": [
+          "value"
+        ],
         "@local.text_feedback": [
           "action_list.0._raw",
           "action_list.0.params.text"
@@ -450,8 +566,8 @@
     }
   ],
   "_source": {
-    "name": "kids_teens_global V2",
-    "path": "templates/feedback_form.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1qz1xzld5k_5WmA9Z_jSJQrRLnZAOLRRXJ6DGTefwTgI"
+    "name": "kids_teens_pa",
+    "path": "templates/PA feedback_form.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1RjJDB0qd0x5EyMfnyH1Qn1zGOsbZ8fpLoDifKoG_5nw"
   }
 }
