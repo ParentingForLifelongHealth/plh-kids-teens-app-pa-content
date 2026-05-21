@@ -46,6 +46,14 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "warning_user_age_input",
+      "value": "Please enter number between 18 and 99",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
       "name": "question_user_gender",
       "value": "¿Con qué género te identificas?",
       "_translations": {

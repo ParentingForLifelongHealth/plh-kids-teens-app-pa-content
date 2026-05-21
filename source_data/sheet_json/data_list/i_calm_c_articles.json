@@ -27,14 +27,14 @@
       "text_1_facilitator::eng": "@data.characters.f2_abuelo.name está a punto de pasar tiempo juntos y conectados con @data.characters.f2_hijo_8.name, pero al llegar ve que la sala está hecha un desastre. Se da cuenta de que esta situación lo hace sentir enojado.",
       "image_asset": "images/comic/relation/calm_yc_1.svg",
       "character_1_id": "f2_abuelo",
-      "character_1_text::eng": "Pensando: Me estoy sintiendo muy enojado. Estoy cansado y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a mi nieto @data.characters.f2_hijo_8.name."
+      "character_1_text::eng": "(Pensando) Me estoy sintiendo muy enojado. Estoy cansado y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a mi nieto @data.characters.f2_hijo_8.name."
     },
     {
       "id": "explore_2",
       "category_id": "explore",
       "image_asset": "images/comic/relation/calm_yc_2.svg",
       "character_1_id": "f2_abuelo",
-      "character_1_text::eng": "Pensando: Haré una pausa y pondré mi canción favorita."
+      "character_1_text::eng": "(Pensando) Haré una pausa y pondré mi canción favorita."
     },
     {
       "id": "explore_3",
@@ -42,7 +42,7 @@
       "image_asset": "images/comic/relation/calm_yc_3.svg",
       "text_2::eng": "Un momento después.",
       "character_1_id": "f2_abuelo",
-      "character_1_text::eng": "Pensando: Me siento más tranquilo. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto."
+      "character_1_text::eng": "(Pensando) Me siento más tranquilo. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto."
     },
     {
       "id": "explore_4",
@@ -63,13 +63,13 @@
       "category_id": "practical_tips",
       "text_1_facilitator::eng": "Selecciona reproducir ▶️ para aprender las4️⃣ estrategias para saber cómo mantener la calma cuando tu niña o niño se porte mal. ☀️\n\n1️⃣ MANTENER LA CALMA\n2️⃣ ACTÚA RÁPIDO\n3️⃣ SER CLARO\n4️⃣ SER POSITIVO",
       "media_type": "youtube",
-      "youtube_gb_en_f": "https://youtu.be/YiXJWujCEPs",
-      "youtube_gb_en_m": "https://youtu.be/yu1EgsovYdg"
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=YiXJWujCEPs",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=yu1EgsovYdg"
     },
     {
       "id": "practical_tips_2",
       "category_id": "practical_tips",
-      "text_1_facilitator::eng": "Recuerda:",
+      "text_1_facilitator::eng": "Recuerda las4️⃣ estrategias para saber cómo mantener la calma cuando tu niña o niño se porte mal:\n",
       "section_1_title::eng": "MANTEN LA CALMA",
       "section_1_icon_asset": "images/icons/balance_blue.png",
       "section_1_text::eng": "✅ Identifica tus propias emociones. \n\n✅ Maneja tus emociones. \n\n✅Recuerda tu objetivo: hacer que @fields.child_name sienta seguridad y amor sin importar lo que ocurra. \n\n✅ Haz una pausa o respira un poco antes de pedirle a @fields.child_name que haga otra cosa.\n\n✅ Usa un tono de voz tranquilo cuando hables con @fields.child_name.",
@@ -86,7 +86,7 @@
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
-      "text_1_facilitator::eng": "**Actividad para casa**⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con @fields.child_name. Comparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos. ➡️",
+      "text_1_facilitator::eng": "**Actividad para casa**⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con @fields.child_name. \n\nComparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos. ➡️",
       "quiz_1_question::eng": "¿Puedes compartir estas estrategias hoy?",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Increíble! ✨ Durante los próximos días, intenta mantener la calma cuando hay estrés y redirigir el comportamiento negativo de tu niña o niño hacia uno positivo antes de que empeore. Por ejemplo, si prevés que tu niño o niña va a tener un berrinche en el supermercado, redirígelo pidiéndole que ayude a buscar algún vegetal reconociendo que es bueno haciendo esa tarea.",

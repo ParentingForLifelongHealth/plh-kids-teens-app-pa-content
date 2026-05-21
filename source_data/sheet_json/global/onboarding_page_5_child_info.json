@@ -33,21 +33,6 @@
       "type": "declare_global_constant",
       "name": "placeholder_child_gender",
       "value": "Selecciona una opción"
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "question_child_age",
-      "value": "how old is your child"
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "placeholder_child_age",
-      "value": "enter age"
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "child_age_input_restriction",
-      "value": "you must enter an age between 2 and 17"
     }
   ]
 }

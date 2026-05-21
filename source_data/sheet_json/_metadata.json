@@ -1952,6 +1952,16 @@
   },
   {
     "flow_type": "global",
+    "flow_subtype": "onboarding",
+    "flow_name": "onboarding_page_6_child_age",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "data/PA onboarding.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1r5zNT0MXsfMYSXrhYSLw1xGesza4qjQB-EJ2PMmTBlc"
+    }
+  },
+  {
+    "flow_type": "global",
     "flow_name": "user_data_global",
     "_source": {
       "name": "kids_teens_global V2",
@@ -3325,6 +3335,15 @@
   {
     "flow_type": "template",
     "flow_name": "onboarding_settings_page_5",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "templates/PA onboarding templates.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1Efq1duWdtaioK0tVhxuFSfdeFO_wMQzs5aDyl6hQ7_0"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_name": "onboarding_settings_page_6",
     "_source": {
       "name": "kids_teens_pa",
       "path": "templates/PA onboarding templates.xlsx",

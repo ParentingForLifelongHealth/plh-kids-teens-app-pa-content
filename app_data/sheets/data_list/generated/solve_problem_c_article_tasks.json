@@ -218,14 +218,15 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Selecciona reproducir ▶️ para escuchar y aprender sobre los 4️⃣ cuatro pasos para ayudar a tu niña o niño a resolver un problema:\n\n1️⃣ **CONOCERLO**\n2️⃣ **RESOLVERLO**\n3️⃣ **INTENTARLO**\n4️⃣ **COMPROBARLO**"
+          "eng": "Selecciona reproducir ▶️ para escuchar y aprender sobre los 4️⃣ cuatro pasos para ayudar a tu niña o niño a resolver un problema:\n\n1️⃣ CONOCERLO\n2️⃣ RESOLVERLO\n3️⃣ INTENTARLO\n4️⃣ COMPROBARLO"
         }
       },
-      "text_1_facilitator": "Selecciona reproducir ▶️ para escuchar y aprender sobre los 4️⃣ cuatro pasos para ayudar a tu niña o niño a resolver un problema:\n\n1️⃣ **CONOCERLO**\n2️⃣ **RESOLVERLO**\n3️⃣ **INTENTARLO**\n4️⃣ **COMPROBARLO**",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para escuchar y aprender sobre los 4️⃣ cuatro pasos para ayudar a tu niña o niño a resolver un problema:\n\n1️⃣ CONOCERLO\n2️⃣ RESOLVERLO\n3️⃣ INTENTARLO\n4️⃣ COMPROBARLO",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "youtube link",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=dfVQnWuyR20&list=PLSUp-fKSYJUbJGZ7OlCtJvOlLuEQ_2yTU&index=1",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=xXhudBgoLvU",
       "completed": false
     },
     {
@@ -293,7 +294,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa**⭐\n\nHabla con @fields.child_name sobre los cuatro pasos para resolver problemas: Conocerlo, Resolverlo, Intentarlo y Comprobarlo. ¡Saber resolver problemas es algo que podrán usar el resto de sus vidas!"
+          "eng": "**Actividad para casa**⭐\n\nHabla con @fields.child_name sobre los cuatro pasos para resolver problemas: Conocerlo, Resolverlo, Intentarlo y Comprobarlo. \n\n¡Saber resolver problemas es algo que podrán usar el resto de sus vidas!"
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy?"
@@ -324,7 +325,7 @@
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**Actividad para casa**⭐\n\nHabla con @fields.child_name sobre los cuatro pasos para resolver problemas: Conocerlo, Resolverlo, Intentarlo y Comprobarlo. ¡Saber resolver problemas es algo que podrán usar el resto de sus vidas!",
+      "text_1_facilitator": "**Actividad para casa**⭐\n\nHabla con @fields.child_name sobre los cuatro pasos para resolver problemas: Conocerlo, Resolverlo, Intentarlo y Comprobarlo. \n\n¡Saber resolver problemas es algo que podrán usar el resto de sus vidas!",
       "completed": false
     }
   ],

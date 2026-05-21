@@ -124,7 +124,7 @@
           "eng": "@data.characters.f2_abuelo.name está a punto de pasar tiempo juntos y conectados con @data.characters.f2_hijo_8.name, pero al llegar ve que la sala está hecha un desastre. Se da cuenta de que esta situación lo hace sentir enojado."
         },
         "character_1_text": {
-          "eng": "Pensando: Me estoy sintiendo muy enojado. Estoy cansado y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a mi nieto @data.characters.f2_hijo_8.name."
+          "eng": "(Pensando) Me estoy sintiendo muy enojado. Estoy cansado y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a mi nieto @data.characters.f2_hijo_8.name."
         }
       },
       "text_1_facilitator": "@data.characters.f2_abuelo.name está a punto de pasar tiempo juntos y conectados con @data.characters.f2_hijo_8.name, pero al llegar ve que la sala está hecha un desastre. Se da cuenta de que esta situación lo hace sentir enojado.",
@@ -134,7 +134,7 @@
       },
       "image_asset": "images/comic/relation/calm_yc_1.svg",
       "character_1_id": "f2_abuelo",
-      "character_1_text": "Pensando: Me estoy sintiendo muy enojado. Estoy cansado y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a mi nieto @data.characters.f2_hijo_8.name.",
+      "character_1_text": "(Pensando) Me estoy sintiendo muy enojado. Estoy cansado y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a mi nieto @data.characters.f2_hijo_8.name.",
       "completed": false
     },
     {
@@ -143,12 +143,12 @@
       "nested": false,
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Pensando: Haré una pausa y pondré mi canción favorita."
+          "eng": "(Pensando) Haré una pausa y pondré mi canción favorita."
         }
       },
       "image_asset": "images/comic/relation/calm_yc_2.svg",
       "character_1_id": "f2_abuelo",
-      "character_1_text": "Pensando: Haré una pausa y pondré mi canción favorita.",
+      "character_1_text": "(Pensando) Haré una pausa y pondré mi canción favorita.",
       "_translations": {
         "character_1_text": {}
       },
@@ -163,7 +163,7 @@
           "eng": "Un momento después."
         },
         "character_1_text": {
-          "eng": "Pensando: Me siento más tranquilo. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto."
+          "eng": "(Pensando) Me siento más tranquilo. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto."
         }
       },
       "text_2": "Un momento después.",
@@ -173,7 +173,7 @@
       },
       "image_asset": "images/comic/relation/calm_yc_3.svg",
       "character_1_id": "f2_abuelo",
-      "character_1_text": "Pensando: Me siento más tranquilo. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto.",
+      "character_1_text": "(Pensando) Me siento más tranquilo. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto.",
       "completed": false
     },
     {
@@ -224,8 +224,8 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "https://youtu.be/YiXJWujCEPs",
-      "youtube_gb_en_m": "https://youtu.be/yu1EgsovYdg",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=YiXJWujCEPs",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=yu1EgsovYdg",
       "completed": false
     },
     {
@@ -234,7 +234,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Recuerda:"
+          "eng": "Recuerda las4️⃣ estrategias para saber cómo mantener la calma cuando tu niña o niño se porte mal:"
         },
         "section_1_title": {
           "eng": "MANTEN LA CALMA"
@@ -261,7 +261,7 @@
           "eng": "✅ ¡Reconoce y elogia a @fields.child_name cuando se porte bien! \n\n✅ ¡También le ayudará a saber lo que esperas de él o ella!"
         }
       },
-      "text_1_facilitator": "Recuerda:",
+      "text_1_facilitator": "Recuerda las4️⃣ estrategias para saber cómo mantener la calma cuando tu niña o niño se porte mal:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -293,7 +293,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa**⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con @fields.child_name. Comparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos. ➡️"
+          "eng": "**Actividad para casa**⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con @fields.child_name. \n\nComparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos. ➡️"
         },
         "quiz_1_question": {
           "eng": "¿Puedes compartir estas estrategias hoy?"
@@ -324,7 +324,7 @@
       "quiz_1_question": "¿Puedes compartir estas estrategias hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**Actividad para casa**⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con @fields.child_name. Comparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos. ➡️",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con @fields.child_name. \n\nComparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos. ➡️",
       "completed": false
     }
   ],

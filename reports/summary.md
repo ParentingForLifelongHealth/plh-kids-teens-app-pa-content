@@ -9,12 +9,12 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 102 |
-| combo_box | 16 |
+| button | 103 |
+| combo_box | 20 |
 | data_items | 236 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 95 |
+| display_group | 96 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 22 |
@@ -24,24 +24,24 @@
 | number_selector | 1 |
 | plh_bottom_nav | 1 |
 | plh_course_accordion | 1 |
-| plh_course_sub_item | 3 |
+| plh_course_sub_item | 2 |
 | plh_lesson_cta | 2 |
 | plh_module_details_header | 1 |
 | plh_module_list_item | 2 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
-| round_button | 11 |
+| round_button | 12 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 3976 |
+| set_variable | 3980 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 1221 |
-| text | 268 |
+| text | 270 |
 | text_area | 3 |
 | text_box | 16 |
-| text_bubble | 9 |
+| text_bubble | 10 |
 | title | 54 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
@@ -57,23 +57,23 @@
 | add_data | 1 |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 828 |
+| emit: completed | 829 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 7 |
 | emit: set_language | 2 |
-| emit: uncompleted | 845 |
+| emit: uncompleted | 846 |
 | feedback | 13 |
 | go_to | 18 |
-| nav_stack | 498 |
+| nav_stack | 497 |
 | plh_certificate | 12 |
 | pop_up | 103 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 1 |
 | set_data | 125 |
-| set_field | 153 |
+| set_field | 154 |
 | set_item | 30 |
 | set_local | 141 |
 | share | 3 |
@@ -88,7 +88,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 64720 KB | 64.7 MB |
-| unused | 31426 KB | 31.4 MB |
+| unused | 31031 KB | 31 MB |
 </details>
 
 <details open>
@@ -104,7 +104,6 @@ Assets that appear in app-data but do not have references within sheets
 | android/splash.png | 239 |
 | images/activities/personajes_t.svg | 54 |
 | images/backgrounds/homescreen_pattern.svg | 156.3 |
-| images/backgrounds/progress_arc.png | 255.4 |
 | images/certificates/PA_certificate_Apoyar a mi adolescente en su aprendizaje.pptx.png | 135.3 |
 | images/certificates/PA_certificate_Apoyar a mi niña o niño en su aprendizaje.pptx.png | 135 |
 | images/certificates/PA_certificate_Cuidar del bienestar de mi adolescente y del mio.png | 135.6 |
@@ -251,7 +250,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/favicon.png | 6.3 |
 | images/logos/plh_white.png | 12.8 |
 | lottie/bulging_circles.txt | 0.2 |
-| lottie/cascading_stars.json | 140.5 |
 </details>
 
 <details open>
@@ -634,7 +632,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/homescreen/understand_t.svg | 738.3 | 15 |
 | images/icons/123.svg | 18.9 | 10 |
 | images/icons/abc.svg | 10.6 | 2 |
-| images/icons/balance_blue.png | 4.7 | 18 |
+| images/icons/balance_blue.png | 4.7 | 14 |
 | images/icons/brain_blue.png | 5.2 | 4 |
 | images/icons/breathe.svg | 8.7 | 18 |
 | images/icons/celebration.svg | 70.4 | 1 |
@@ -813,8 +811,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_pipe | generated | 134 |
 | generator |  | 70 |
 | global |  | 8 |
-| global | onboarding | 7 |
-| template |  | 169 |
+| global | onboarding | 8 |
+| template |  | 170 |
 | template | generated | 960 |
 | template | legal_terms | 4 |
 </details>
