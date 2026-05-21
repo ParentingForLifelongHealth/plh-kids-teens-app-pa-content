@@ -20,10 +20,10 @@
           "eng": "Esta lección trata sobre establecer reglas o normas familiares con @fields.child_name."
         },
         "text_2": {
-          "eng": "Las reglas familiares pueden ayudar a que tu adolescente se mantenga a salvo del peligro, tanto dentro del hogar como en la comunidad. Si incluyes a {teen} al momento de establecer estas reglas, es más probable que las siga. ⭐"
+          "eng": "Las reglas familiares pueden ayudar a que tu adolescente se mantenga a salvo del peligro, tanto dentro del hogar como en la comunidad. \n\nSi incluyes a @fields.child_name al momento de establecer estas reglas, es más probable que las siga. ⭐"
         }
       },
-      "text_2": "Las reglas familiares pueden ayudar a que tu adolescente se mantenga a salvo del peligro, tanto dentro del hogar como en la comunidad. Si incluyes a {teen} al momento de establecer estas reglas, es más probable que las siga. ⭐"
+      "text_2": "Las reglas familiares pueden ayudar a que tu adolescente se mantenga a salvo del peligro, tanto dentro del hogar como en la comunidad. \n\nSi incluyes a @fields.child_name al momento de establecer estas reglas, es más probable que las siga. ⭐"
     },
     {
       "id": "explore_1",
@@ -160,16 +160,15 @@
       "id": "practical_tips_1",
       "category_id": "practical_tips",
       "media_type": "youtube",
-      "youtube_gb_en_f": "https://youtu.be/3dKfChjDxDg",
-      "youtube_gb_en_m": "https://youtu.be/5pFvpUuM3ts",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=3dKfChjDxDg",
       "nested": false,
-      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender cuatro estrategias sencillas que te ayudarán a establecer reglas familiares con tu adolescente:\n\n1️⃣ **SER UN EQUIPO**\n2️⃣ **MANTENERLO REALISTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender cuatro estrategias sencillas que te ayudarán a establecer reglas familiares con tu adolescente:\n\n1️⃣ SER UN EQUIPO\n2️⃣ MANTENERLO REALISTA\n3️⃣ SER CONSTANTES\n4️⃣ ELOGIAR, ELOGIAR, ELOGIAR",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Selecciona reproducir ▶️ para aprender cuatro estrategias sencillas que te ayudarán a establecer reglas familiares con tu adolescente:\n\n1️⃣ **SER UN EQUIPO**\n2️⃣ **MANTENERLO REALISTA**\n3️⃣ **SER CONSTANTES**\n4️⃣ **ELOGIAR, ELOGIAR, ELOGIAR**"
+          "eng": "Selecciona reproducir ▶️ para aprender cuatro estrategias sencillas que te ayudarán a establecer reglas familiares con tu adolescente:\n\n1️⃣ SER UN EQUIPO\n2️⃣ MANTENERLO REALISTA\n3️⃣ SER CONSTANTES\n4️⃣ ELOGIAR, ELOGIAR, ELOGIAR"
         }
       }
     },

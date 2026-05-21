@@ -5,7 +5,8 @@
   "rows": [
     {
       "type": "title",
-      "value": "all unlocked"
+      "value": "all unlocked",
+      "exclude_from_translation": true
     },
     {
       "type": "begin_data_items",

@@ -118,13 +118,13 @@
           "eng": "Veamos cómo @data.characters.f3_madre.name ayuda a su niña a persistir en una actividad difícil durante el tiempo juntos y conectados."
         },
         "character_1_text": {
-          "eng": "@data.characters.f3_hija_7.name Quiero pasar tiempo contigo. ¿Qué te gustaría hacer?"
+          "eng": "@data.characters.f3_hija_7.name, quiero pasar tiempo contigo. ¿Qué te gustaría hacer?"
         },
         "character_2_text": {
           "eng": "¡Vamos a jugar afuera con la pelota!"
         }
       },
-      "character_1_text": "@data.characters.f3_hija_7.name Quiero pasar tiempo contigo. ¿Qué te gustaría hacer?",
+      "character_1_text": "@data.characters.f3_hija_7.name, quiero pasar tiempo contigo. ¿Qué te gustaría hacer?",
       "character_2_text": "¡Vamos a jugar afuera con la pelota!"
     },
     {
@@ -214,7 +214,7 @@
       "section_5_icon_asset": "images/icons/speech_bubble_blue.png",
       "section_6_icon_asset": "images/icons/heart_filled_blue.png",
       "nested": false,
-      "text_1_facilitator": "Recuerda:",
+      "text_1_facilitator": "Recuerda las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -232,25 +232,25 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Recuerda:"
+          "eng": "Recuerda las 6️⃣ estrategias para identificar emociones y sentimientos durante el tiempo juntos y conectados:"
         },
         "section_1_title": {
           "eng": "APRENDE"
         },
         "section_1_text": {
-          "eng": "💡 Aprende sobre las distintas emociones. Hay 6 emociones básicas, y cada una nos manda un mensaje específico:\n😃Alegría: Sigue haciendo las cosas que te hacen sentir bien.\n😔Tristeza: Algo importante en tu vida necesita atención.\n🔴 Enojo: Defiéndete y pon límites.\n😣Asco: Aléjate de lo que no te gusta.\n👀Sorpresa: Detente y pon atención por un momento.\n🚩Miedo: Protégete del peligro.\n🎨 A medida que las niñas, niños o adolescentes crecen, aprenden a identificar muchas otras emociones, como entusiasmo, frustración, orgullo, soledad, tranquilidad, culpa o confusión."
+          "eng": "💡 Aprende sobre las distintas emociones. Hay 6 emociones básicas, y cada una nos manda un mensaje específico:\n\n-😃Alegría: Sigue haciendo las cosas que te hacen sentir bien.\n-😔Tristeza: Algo importante en tu vida necesita atención.\n-🔴 Enojo: Defiéndete y pon límites.\n-😣Asco: Aléjate de lo que no te gusta.\n-👀Sorpresa: Detente y pon atención por un momento.\n-🚩Miedo: Protégete del peligro.\n\n🎨 A medida que las niñas y niños crecen, aprenden a identificar muchas otras emociones, como entusiasmo, frustración, orgullo, soledad, tranquilidad, culpa o confusión."
         },
         "section_2_title": {
           "eng": "IDENTIFICA"
         },
         "section_2_text": {
-          "eng": "👀 Empieza a observar estas 6 emociones en ti y en @fields.child_name.\n\n😃😒😔😣Nota cómo se siente cada emoción en tu cuerpo.\n \n😃 También puedes tratar de identificar otras emociones agradables, como la sensación de paz, felicidad o calma.\n\n💙 ¡Aprender a identificar les permite a las niñas, niños o adolescentes apreciar un momento bonito o a alejarse de lo que hace daño!"
+          "eng": "👀 Empieza a observar estas 6 emociones en ti y en @fields.child_name.\n\n😃😒😔😣Nota cómo se siente cada emoción en tu cuerpo.\n \n😃 También puedes tratar de identificar otras emociones agradables, como la sensación de paz, felicidad o calma.\n\n💙 ¡Aprender a identificar les permite a las niñas y niños apreciar un momento bonito o a alejarse de lo que hace daño!"
         },
         "section_3_title": {
           "eng": "ABRE TU MENTE"
         },
         "section_3_text": {
-          "eng": "*_Abre tu mente, observa 👀, y escucha👂 a @fields.child_name cuando te comparte cómo se siente._*\n\n💛 Acepta cómo te sientes tú y cómo se siente @fields.child_name. Recuerda, sus cuerpos les están mandando mensajes a través de lo que sienten; por eso los sentimientos y las emociones son tan importantes."
+          "eng": "Abre tu mente, observa 👀, y escucha👂 a @fields.child_name cuando te comparte cómo se siente.\n\n💛 Acepta cómo te sientes tú y cómo se siente @fields.child_name. \n\nRecuerda, sus cuerpos les están mandando mensajes a través de lo que sienten; por eso los sentimientos y las emociones son tan importantes."
         },
         "section_4_title": {
           "eng": "CONVERSA"
@@ -272,11 +272,11 @@
         }
       },
       "section_1_title": "APRENDE",
-      "section_1_text": "💡 Aprende sobre las distintas emociones. Hay 6 emociones básicas, y cada una nos manda un mensaje específico:\n😃Alegría: Sigue haciendo las cosas que te hacen sentir bien.\n😔Tristeza: Algo importante en tu vida necesita atención.\n🔴 Enojo: Defiéndete y pon límites.\n😣Asco: Aléjate de lo que no te gusta.\n👀Sorpresa: Detente y pon atención por un momento.\n🚩Miedo: Protégete del peligro.\n🎨 A medida que las niñas, niños o adolescentes crecen, aprenden a identificar muchas otras emociones, como entusiasmo, frustración, orgullo, soledad, tranquilidad, culpa o confusión.",
+      "section_1_text": "💡 Aprende sobre las distintas emociones. Hay 6 emociones básicas, y cada una nos manda un mensaje específico:\n\n-😃Alegría: Sigue haciendo las cosas que te hacen sentir bien.\n-😔Tristeza: Algo importante en tu vida necesita atención.\n-🔴 Enojo: Defiéndete y pon límites.\n-😣Asco: Aléjate de lo que no te gusta.\n-👀Sorpresa: Detente y pon atención por un momento.\n-🚩Miedo: Protégete del peligro.\n\n🎨 A medida que las niñas y niños crecen, aprenden a identificar muchas otras emociones, como entusiasmo, frustración, orgullo, soledad, tranquilidad, culpa o confusión.",
       "section_2_title": "IDENTIFICA",
-      "section_2_text": "👀 Empieza a observar estas 6 emociones en ti y en @fields.child_name.\n\n😃😒😔😣Nota cómo se siente cada emoción en tu cuerpo.\n \n😃 También puedes tratar de identificar otras emociones agradables, como la sensación de paz, felicidad o calma.\n\n💙 ¡Aprender a identificar les permite a las niñas, niños o adolescentes apreciar un momento bonito o a alejarse de lo que hace daño!",
+      "section_2_text": "👀 Empieza a observar estas 6 emociones en ti y en @fields.child_name.\n\n😃😒😔😣Nota cómo se siente cada emoción en tu cuerpo.\n \n😃 También puedes tratar de identificar otras emociones agradables, como la sensación de paz, felicidad o calma.\n\n💙 ¡Aprender a identificar les permite a las niñas y niños apreciar un momento bonito o a alejarse de lo que hace daño!",
       "section_3_title": "ABRE TU MENTE",
-      "section_3_text": "*_Abre tu mente, observa 👀, y escucha👂 a @fields.child_name cuando te comparte cómo se siente._*\n\n💛 Acepta cómo te sientes tú y cómo se siente @fields.child_name. Recuerda, sus cuerpos les están mandando mensajes a través de lo que sienten; por eso los sentimientos y las emociones son tan importantes.",
+      "section_3_text": "Abre tu mente, observa 👀, y escucha👂 a @fields.child_name cuando te comparte cómo se siente.\n\n💛 Acepta cómo te sientes tú y cómo se siente @fields.child_name. \n\nRecuerda, sus cuerpos les están mandando mensajes a través de lo que sienten; por eso los sentimientos y las emociones son tan importantes.",
       "section_4_title": "CONVERSA",
       "section_4_text": "😒 Es normal tener dificultades para conversar y expresar nuestras emociones y sentimientos.\n\n📝 Recuerda que también es normal experimentar las emociones de distintas maneras.\n\n⭐ Cuando notas que @fields.child_name está sintiendo una emoción, coméntale, de manera calmada, lo que tú estás observando. \n\nPor ejemplo: \"Veo que estás pisoteando, levantas la voz y en tu carita se ve que algo te molesta. ¿Sientes enojo porque no pudiste salir a jugar?\"\n\nTambién puedes ayudar a @fields.child_name a aprender diferentes emociones usando expresiones faciales y movimientos con tus manos o tu cuerpo. Conviértelo en un juego.",
       "section_5_title": "COMPARTE",
