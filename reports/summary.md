@@ -810,7 +810,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_pipe |  | 4 |
 | data_pipe | generated | 134 |
 | generator |  | 70 |
-| global |  | 8 |
+| global |  | 9 |
 | global | onboarding | 8 |
 | template |  | 170 |
 | template | generated | 960 |

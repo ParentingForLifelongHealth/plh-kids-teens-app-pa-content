@@ -631,10 +631,10 @@
               "trigger": "click",
               "action_id": "set_field",
               "args": [
-                "child_gender",
+                "family_relation",
                 "@local.family_relation_select"
               ],
-              "_raw": "click | set_field: child_gender: @local.family_relation_select"
+              "_raw": "click | set_field: family_relation: @local.family_relation_select"
             },
             {
               "trigger": "click",
@@ -706,7 +706,7 @@
                 },
                 "_raw": [
                   {
-                    "fullExpression": "click | set_field: child_gender: @local.family_relation_select",
+                    "fullExpression": "click | set_field: family_relation: @local.family_relation_select",
                     "matchedExpression": "@local.family_relation_select",
                     "type": "local",
                     "fieldName": "family_relation_select"
