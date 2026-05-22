@@ -1,0 +1,85 @@
+{
+  "flow_type": "data_list",
+  "flow_subtype": "campaign_rows",
+  "flow_name": "nf_definition_inactive",
+  "status": "released",
+  "rows": [
+    {
+      "id": "install_nudge_a",
+      "workshop": "independent",
+      "message_type": "inactive",
+      "action_list": "sent | set_field: install_nudge_sent : true;",
+      "priority": 1,
+      "activation_condition_list": "@fields.n_modules_completed == 0 && @fields.last_module_in_progress == \"NA\"",
+      "deactivation_condition_list": "@fields.install_nudge_sent",
+      "campaign_list": "nf_inactive_day",
+      "title::eng": "Your parenting journey starts here",
+      "text::eng": "Welcome to @global.app_name! It is so good to have you. One small tip can make family life easier — tap here to start your first lesson."
+    },
+    {
+      "id": "install_nudge_b",
+      "workshop": "independent",
+      "message_type": "inactive",
+      "action_list": "sent | set_field: install_nudge_sent : true;",
+      "priority": 1,
+      "activation_condition_list": "@fields.n_modules_completed == 0 && @fields.last_module_in_progress == \"NA\"",
+      "deactivation_condition_list": "@fields.install_nudge_sent",
+      "campaign_list": "nf_inactive_day",
+      "title::eng": "A better family life starts with you",
+      "text::eng": "Welcome to @global.app_name. Just 1 minute of learning today can make a real difference. Tap here to find out more."
+    },
+    {
+      "id": "positive_reinforcement",
+      "workshop": "independent",
+      "message_type": "inactive",
+      "action_list": "sent | set_field: positive_reinforcement_sent : true;",
+      "priority": 1,
+      "activation_condition_list": "@fields.n_modules_completed !== 0 ",
+      "deactivation_condition_list": "@fields.positive_reinforcement_sent",
+      "campaign_list": "nf_inactive_day",
+      "text::eng": "Well done! You finished your first skill. Tap here to keep going."
+    },
+    {
+      "id": "resume_lesson_a",
+      "workshop": "independent",
+      "message_type": "inactive",
+      "action_list": "click | set_field: current_start_article_id: uncomplete;\nclick | go_to : home_screen;\nclick | nav_stack: open | template: stack_module_@fields.last_module_in_progress@fields.start_at_id, header: false;",
+      "priority": 1,
+      "activation_condition_list": "@fields.last_module_in_progress != \"NA\"",
+      "campaign_list": "nf_inactive_2_days_afternoon; \nnf_inactive_week;",
+      "title::eng": "Keep going — you started something great",
+      "text::eng": "@fields.user_name, you started something great. Tap here to keep going."
+    },
+    {
+      "id": "resume_lesson_b",
+      "workshop": "independent",
+      "message_type": "inactive",
+      "action_list": "click | set_field: current_start_article_id: uncomplete;\nclick | go_to : home_screen;\nclick | nav_stack: open | template: stack_module_@fields.last_module_in_progress@fields.start_at_id, header: false;",
+      "priority": 1,
+      "activation_condition_list": "@fields.last_module_in_progress != \"NA\"",
+      "campaign_list": "nf_inactive_2_days_afternoon; \nnf_inactive_week;",
+      "title::eng": "Pick up where you left off",
+      "text::eng": "@fields.user_name, your lesson is still waiting. A few more minutes and you'll be done — tap here to finish."
+    },
+    {
+      "id": "win_back_a",
+      "workshop": "independent",
+      "message_type": "inactive",
+      "priority": 1,
+      "activation_condition_list": "@fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
+      "campaign_list": "nf_inactive_2_days_evening; \nnf_inactive_week;",
+      "title::eng": "Help your family with @global.parent_app",
+      "text::eng": "Ready to take 5 minutes for your family? @global.app_name is here to help. Tap to jump back in."
+    },
+    {
+      "id": "win_back_b",
+      "workshop": "independent",
+      "message_type": "inactive",
+      "priority": 1,
+      "activation_condition_list": "@fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
+      "campaign_list": "nf_inactive_2_days_evening; \nnf_inactive_week;",
+      "title::eng": "A small step for a better family life",
+      "text::eng": "Spending just 1 minute learning about parenting makes a world of difference. Tap here to keep going."
+    }
+  ]
+}

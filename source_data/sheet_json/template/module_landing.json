@@ -134,7 +134,7 @@
     {
       "type": "text",
       "name": "summary_text",
-      "value": "You have completed @local.no_completed out of @local.total lessons in @local.course_name",
+      "value": "@global.module_summary_text",
       "style_list": "text-align: center;",
       "exclude_from_translation": false
     },

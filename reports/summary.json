@@ -27,15 +27,15 @@
       },
       {
         "type": "button",
-        "count": 103
+        "count": 102
       },
       {
         "type": "combo_box",
-        "count": 20
+        "count": 24
       },
       {
         "type": "data_items",
-        "count": 236
+        "count": 238
       },
       {
         "type": "debug_toggle",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3980
+        "count": 3981
       },
       {
         "type": "simple_checkbox",
@@ -143,7 +143,7 @@
       },
       {
         "type": "text",
-        "count": 270
+        "count": 281
       },
       {
         "type": "text_area",
@@ -151,7 +151,7 @@
       },
       {
         "type": "text_box",
-        "count": 16
+        "count": 21
       },
       {
         "type": "text_bubble",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 829
+        "count": 828
       },
       {
         "type": "emit: force_reload",
@@ -211,7 +211,7 @@
       },
       {
         "type": "emit: server_sync",
-        "count": 7
+        "count": 6
       },
       {
         "type": "emit: set_language",
@@ -267,7 +267,7 @@
       },
       {
         "type": "set_local",
-        "count": 141
+        "count": 142
       },
       {
         "type": "share",
@@ -3245,6 +3245,16 @@
       },
       {
         "type": "data_list",
+        "subtype": "campaign_rows",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "campaign_schedule",
+        "total": 1
+      },
+      {
+        "type": "data_list",
         "subtype": "check_in",
         "total": 1
       },
@@ -3601,7 +3611,7 @@
       {
         "type": "global",
         "subtype": null,
-        "total": 9
+        "total": 10
       },
       {
         "type": "global",
