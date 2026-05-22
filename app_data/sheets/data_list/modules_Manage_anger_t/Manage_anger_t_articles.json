@@ -197,13 +197,27 @@
       "id": "practical_tips_1",
       "category_id": "practical_tips",
       "media_type": "youtube",
-      "youtube_gb_en_f": "https://youtu.be/S8dWc17pU7s",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=S8dWc17pU7s",
+      "nested": false,
+      "text_1_facilitator": "Lidiar con el enojo no es fácil 😔. Quizá nadie nos enseñó a gestionar nuestras emociones.\n\nSelecciona reproducir ▶️ para aprender las 4️⃣ estrategias que puedes usar para controlar tu enojo y comunicarte mejor con @fields.child_name:\n\n1️⃣ IDENTIFICAR\n2️⃣ ENTENDER\n3️⃣ REGULAR\n4️⃣ COMUNICAR",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Lidiar con el enojo no es fácil 😔. Quizá nadie nos enseñó a gestionar nuestras emociones.\n\nSelecciona reproducir ▶️ para aprender las 4️⃣ estrategias que puedes usar para controlar tu enojo y comunicarte mejor con @fields.child_name:\n\n1️⃣ IDENTIFICAR\n2️⃣ ENTENDER\n3️⃣ REGULAR\n4️⃣ COMUNICAR"
+        }
+      }
+    },
+    {
+      "id": "practical_tips_2",
+      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/magnifying_glass.svg",
       "section_2_icon_asset": "images/icons/lightbulb_blue.png",
       "section_3_icon_asset": "images/icons/breathe.svg",
       "section_4_icon_asset": "images/icons/speech_bubble_blue.png",
       "nested": false,
-      "text_1_facilitator": "Lidiar con el enojo no es fácil 😔. Quizá nadie nos enseñó a gestionar nuestras emociones.\n\nSelecciona reproducir ▶️ para aprender las 4️⃣ estrategias que puedes usar para controlar tu enojo y comunicarte mejor con @fields.child_name:\n\n1️⃣ **IDENTIFICAR**\n2️⃣ **ENTENDER**\n3️⃣ **REGULAR**\n4️⃣ **COMUNICAR**",
+      "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -217,7 +231,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Lidiar con el enojo no es fácil 😔. Quizá nadie nos enseñó a gestionar nuestras emociones.\n\nSelecciona reproducir ▶️ para aprender las 4️⃣ estrategias que puedes usar para controlar tu enojo y comunicarte mejor con @fields.child_name:\n\n1️⃣ **IDENTIFICAR**\n2️⃣ **ENTENDER**\n3️⃣ **REGULAR**\n4️⃣ **COMUNICAR**"
+          "eng": "Recuerda:"
         },
         "section_1_title": {
           "eng": "IDENTIFICA"
@@ -254,26 +268,10 @@
       "section_4_text": "Una vez que te hayas calmado, habla con @fields.child_name sobre lo que pasó. \n\nExplícale la situación con calma y respeto. \n\nUsa las estrategias de este curso para conversar sobre las reglas de la casa y las consecuencias."
     },
     {
-      "id": "practical_tips_2",
-      "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/balance_blue.png",
-      "section_2_icon_asset": "images/icons/balance_blue.png",
-      "nested": false,
-      "text_1_facilitator": "Recuerda:",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Recuerda:"
-        }
-      }
-    },
-    {
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
-      "text_1_facilitator": "**Actividad para casa**⭐\n\nHabla con @fields.child_name de lo que has aprendido sobre el enojo en esta lección. Elige una estrategia que puedas usar cuando sientas enojo. Por ejemplo, puedes practicar el escuchar música mientras llevas a cabo tu rutina de la tarde.",
+      "text_1_facilitator": "**Actividad para casa**⭐\n\nHabla con @fields.child_name de lo que has aprendido sobre el enojo en esta lección. \n\nElige una estrategia que puedas usar cuando sientas enojo. \n\nPor ejemplo, puedes practicar el escuchar música mientras llevas a cabo tu rutina de la tarde.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -284,7 +282,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa**⭐\n\nHabla con @fields.child_name de lo que has aprendido sobre el enojo en esta lección. Elige una estrategia que puedas usar cuando sientas enojo. Por ejemplo, puedes practicar el escuchar música mientras llevas a cabo tu rutina de la tarde."
+          "eng": "**Actividad para casa**⭐\n\nHabla con @fields.child_name de lo que has aprendido sobre el enojo en esta lección. \n\nElige una estrategia que puedas usar cuando sientas enojo. \n\nPor ejemplo, puedes practicar el escuchar música mientras llevas a cabo tu rutina de la tarde."
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy?⏰"

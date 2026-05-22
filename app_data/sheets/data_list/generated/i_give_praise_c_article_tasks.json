@@ -214,8 +214,8 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "https://youtube/LyOAstb972w",
-      "youtube_gb_en_m": "https://youtube/Ni_bSiVjbFQ",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=LyOAstb972w",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=Ni_bSiVjbFQ",
       "completed": false
     },
     {
@@ -224,7 +224,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Recuerda:"
+          "eng": "Recuerda las cuatro estrategias para dar reconocimiento a lo que hace @fields.child_name."
         },
         "section_1_title": {
           "eng": "OBSERVA"
@@ -236,7 +236,7 @@
           "eng": "COMUNICA"
         },
         "section_2_text": {
-          "eng": "🏆 Reconoce cuando veas o te enteres que hace algo bueno.\n\n✅ Dile específicamente qué hizo bien.\n\n🎉 ¡Exprésalo y dilo de corazón!\n\n🔄 Así será más probable que lo vuelva a hacer."
+          "eng": "🏆 Reconoce cuando veas o te enteres que @fields.child_name hace algo bueno.\n\n✅ Dile específicamente qué hizo bien.\n\n🎉 ¡Exprésalo y dilo de corazón!\n\n🔄 Así será más probable que lo vuelva a hacer."
         },
         "section_3_title": {
           "eng": "REPITE"
@@ -248,11 +248,11 @@
           "eng": "MANTENLO POSITIVO"
         },
         "section_4_text": {
-          "eng": "💡 Enfoca tu atención en lo que @fields.child_name esté haciendo adecuadamente.\n\n🙂 Acompaña tu elogio con una gran sonrisa, palabras amables, un aplauso, un abrazo o  cosquillas. Esto le demuestra a tu niña, niño o adolescente tu amor y aprecio por lo que hace. \n\n☀️ Presta atención a lo que tu niña, niño o adolescente hace bien, le hará saber que te fijas en lo que hace y que te importa.\n\nLas niñas y niños que reciben elogios por su esfuerzo y buen comportamiento van a querer seguirse portando bien para seguir recibiendo este tipo de reconocimiento."
+          "eng": "💡 Enfoca tu atención en lo que @fields.child_name esté haciendo adecuadamente.\n\n🙂 Acompaña tu elogio con una gran sonrisa, palabras amables, un aplauso, un abrazo o  cosquillas. Esto le demuestra a tu niña o niño tu amor y aprecio por lo que hace. \n\n☀️ Presta atención a lo que @fields.child_name hace bien, le hará saber que te fijas en lo que hace y que te importa.\n\nLas niñas y niños que reciben elogios por su esfuerzo y buen comportamiento van a querer seguirse portando bien para seguir recibiendo este tipo de reconocimiento."
         }
       },
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "text_1_facilitator": "Recuerda:",
+      "text_1_facilitator": "Recuerda las cuatro estrategias para dar reconocimiento a lo que hace @fields.child_name.",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -271,11 +271,11 @@
       "section_1_title": "OBSERVA",
       "section_1_text": "👀 Busca cosas buenas o prácticas que hace @fields.child_name.\n\n⏸ Haz una pausa y esfuérzate por elogiar las cosas positivas que hace.",
       "section_2_title": "COMUNICA",
-      "section_2_text": "🏆 Reconoce cuando veas o te enteres que hace algo bueno.\n\n✅ Dile específicamente qué hizo bien.\n\n🎉 ¡Exprésalo y dilo de corazón!\n\n🔄 Así será más probable que lo vuelva a hacer.",
+      "section_2_text": "🏆 Reconoce cuando veas o te enteres que @fields.child_name hace algo bueno.\n\n✅ Dile específicamente qué hizo bien.\n\n🎉 ¡Exprésalo y dilo de corazón!\n\n🔄 Así será más probable que lo vuelva a hacer.",
       "section_3_title": "REPITE",
       "section_3_text": "🌷 Identifica algo bueno que puedas elogiarle a @fields.child_name todos los días como cuando da los buenos días, ayuda o apoya a otros, o tira el papel en el cesto.",
       "section_4_title": "MANTENLO POSITIVO",
-      "section_4_text": "💡 Enfoca tu atención en lo que @fields.child_name esté haciendo adecuadamente.\n\n🙂 Acompaña tu elogio con una gran sonrisa, palabras amables, un aplauso, un abrazo o  cosquillas. Esto le demuestra a tu niña, niño o adolescente tu amor y aprecio por lo que hace. \n\n☀️ Presta atención a lo que tu niña, niño o adolescente hace bien, le hará saber que te fijas en lo que hace y que te importa.\n\nLas niñas y niños que reciben elogios por su esfuerzo y buen comportamiento van a querer seguirse portando bien para seguir recibiendo este tipo de reconocimiento.",
+      "section_4_text": "💡 Enfoca tu atención en lo que @fields.child_name esté haciendo adecuadamente.\n\n🙂 Acompaña tu elogio con una gran sonrisa, palabras amables, un aplauso, un abrazo o  cosquillas. Esto le demuestra a tu niña o niño tu amor y aprecio por lo que hace. \n\n☀️ Presta atención a lo que @fields.child_name hace bien, le hará saber que te fijas en lo que hace y que te importa.\n\nLas niñas y niños que reciben elogios por su esfuerzo y buen comportamiento van a querer seguirse portando bien para seguir recibiendo este tipo de reconocimiento.",
       "completed": false
     },
     {

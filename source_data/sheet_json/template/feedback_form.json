@@ -11,18 +11,18 @@
     },
     {
       "name": "title",
-      "value": "Feedback Form"
+      "value": "@global.feedback_title"
     },
     {
       "type": "end_template"
     },
     {
       "type": "text",
-      "value": "Your Feedback"
+      "value": "@global.feedback_intro_text"
     },
     {
       "name": "feedback_placeholder",
-      "value": "Tell us what's on your mind..."
+      "value": "@global.feedback_placeholder"
     },
     {
       "type": "text_area",
@@ -36,11 +36,11 @@
     },
     {
       "type": "text",
-      "value": "Where?"
+      "value": "@global.feedback_where_intro_text"
     },
     {
       "name": "where_placeholder",
-      "value": "Where?"
+      "value": "@global.where_placeholder"
     },
     {
       "type": "combo_box",
@@ -49,7 +49,7 @@
     },
     {
       "name": "location_placeholder",
-      "value": "Please specify the location"
+      "value": "@global.feedback_location_placeholder"
     },
     {
       "name": "specify_location"
@@ -71,11 +71,11 @@
     },
     {
       "name": "toast_message",
-      "value": "Thanks! This helps us improve your experience on the app"
+      "value": "@global.feedback_toast_message"
     },
     {
       "type": "button",
-      "value": "Submit Feedback",
+      "value": "@global.feedback_submit_button",
       "action_list": "click | add_data | \n_list_id: feedback_data,\ntext: @local.text_feedback,\nwhere: @local.where,\nspecify_location: @local.specify_location,\ntimestamp: @calc(timestamp());\nclick | emit: completed;\nclick | toast | message: @local.toast_message;",
       "parameter_list": "disabled: !@local.valid;\nstyle: flexible;",
       "style_list": "margin-bottom: 24px;\npadding: 12px 24px"

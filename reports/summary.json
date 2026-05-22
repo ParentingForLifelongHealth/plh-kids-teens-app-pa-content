@@ -27,11 +27,11 @@
       },
       {
         "type": "button",
-        "count": 102
+        "count": 103
       },
       {
         "type": "combo_box",
-        "count": 16
+        "count": 20
       },
       {
         "type": "data_items",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 95
+        "count": 96
       },
       {
         "type": "drawer",
@@ -87,7 +87,7 @@
       },
       {
         "type": "plh_course_sub_item",
-        "count": 3
+        "count": 2
       },
       {
         "type": "plh_lesson_cta",
@@ -111,7 +111,7 @@
       },
       {
         "type": "round_button",
-        "count": 11
+        "count": 12
       },
       {
         "type": "select_text",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3976
+        "count": 3980
       },
       {
         "type": "simple_checkbox",
@@ -143,7 +143,7 @@
       },
       {
         "type": "text",
-        "count": 268
+        "count": 270
       },
       {
         "type": "text_area",
@@ -155,7 +155,7 @@
       },
       {
         "type": "text_bubble",
-        "count": 9
+        "count": 10
       },
       {
         "type": "title",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 828
+        "count": 829
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 845
+        "count": 846
       },
       {
         "type": "feedback",
@@ -231,7 +231,7 @@
       },
       {
         "type": "nav_stack",
-        "count": 498
+        "count": 497
       },
       {
         "type": "plh_certificate",
@@ -259,7 +259,7 @@
       },
       {
         "type": "set_field",
-        "count": 153
+        "count": 154
       },
       {
         "type": "set_item",
@@ -296,8 +296,8 @@
       },
       {
         "assets": "unused",
-        "KB": "31426 KB",
-        "MB": "31.4 MB"
+        "KB": "31031 KB",
+        "MB": "31 MB"
       }
     ]
   },
@@ -326,10 +326,6 @@
       {
         "path": "images/backgrounds/homescreen_pattern.svg",
         "size_kb": 156.3
-      },
-      {
-        "path": "images/backgrounds/progress_arc.png",
-        "size_kb": 255.4
       },
       {
         "path": "images/certificates/PA_certificate_Apoyar a mi adolescente en su aprendizaje.pptx.png",
@@ -914,10 +910,6 @@
       {
         "path": "lottie/bulging_circles.txt",
         "size_kb": 0.2
-      },
-      {
-        "path": "lottie/cascading_stars.json",
-        "size_kb": 140.5
       }
     ]
   },
@@ -2749,7 +2741,7 @@
       },
       {
         "path": "images/icons/balance_blue.png",
-        "count": 18,
+        "count": 14,
         "size_kb": 4.7
       },
       {
@@ -3609,17 +3601,17 @@
       {
         "type": "global",
         "subtype": null,
-        "total": 8
+        "total": 9
       },
       {
         "type": "global",
         "subtype": "onboarding",
-        "total": 7
+        "total": 8
       },
       {
         "type": "template",
         "subtype": null,
-        "total": 169
+        "total": 170
       },
       {
         "type": "template",
