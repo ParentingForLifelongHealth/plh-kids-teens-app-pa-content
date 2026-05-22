@@ -244,7 +244,7 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "youtube link",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=7ME3LzGWpBQ",
       "completed": false
     },
     {
@@ -323,7 +323,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa**⭐\n\nDurante su tiempo juntos y conectados, intenta usar palabras y gestos para describir sus actividades. Asegúrate de que te comunicas de forma que @fields.child_name pueda entenderte."
+          "eng": "**Actividad para casa**⭐\n\nDurante su tiempo juntos y conectados, intenta usar palabras y gestos para describir sus actividades. \n\nAsegúrate de que te comunicas de forma que @fields.child_name pueda entenderte."
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy?"
@@ -354,7 +354,7 @@
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**Actividad para casa**⭐\n\nDurante su tiempo juntos y conectados, intenta usar palabras y gestos para describir sus actividades. Asegúrate de que te comunicas de forma que @fields.child_name pueda entenderte.",
+      "text_1_facilitator": "**Actividad para casa**⭐\n\nDurante su tiempo juntos y conectados, intenta usar palabras y gestos para describir sus actividades. \n\nAsegúrate de que te comunicas de forma que @fields.child_name pueda entenderte.",
       "completed": false
     }
   ],

@@ -103,15 +103,15 @@
       "id": "practical_tips_1",
       "category_id": "practical_tips",
       "media_type": "youtube",
-      "youtube_gb_en_f": "youtube link",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=dX2AUx39W-E",
       "nested": false,
-      "text_1_facilitator": "¡Selecciona reproducir ▶️ para ver cómo apoyar a @fields.child_name para que disfrute de su aprendizaje!\n\n1️⃣ **JUGAR**\n2️⃣ **UTILIZAR PALABRAS AFIRMATIVAS**\n3️⃣ **PERMITIR LA CREATIVIDAD**",
+      "text_1_facilitator": "¡Selecciona reproducir ▶️ para ver cómo apoyar a @fields.child_name para que disfrute de su aprendizaje!\n\n1️⃣ JUGAR\n2️⃣ UTILIZAR PALABRAS AFIRMATIVAS\n3️⃣ PERMITIR LA CREATIVIDAD",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "¡Selecciona reproducir ▶️ para ver cómo apoyar a @fields.child_name para que disfrute de su aprendizaje!\n\n1️⃣ **JUGAR**\n2️⃣ **UTILIZAR PALABRAS AFIRMATIVAS**\n3️⃣ **PERMITIR LA CREATIVIDAD**"
+          "eng": "¡Selecciona reproducir ▶️ para ver cómo apoyar a @fields.child_name para que disfrute de su aprendizaje!\n\n1️⃣ JUGAR\n2️⃣ UTILIZAR PALABRAS AFIRMATIVAS\n3️⃣ PERMITIR LA CREATIVIDAD"
         }
       }
     },
@@ -166,7 +166,7 @@
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
-      "text_1_facilitator": "**Actividad para casa**⭐ \n\nInvita a @fields.child_name a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar algo, o salir a correr cerca de su casa. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando.",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nInvita a @fields.child_name a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. \n\nPueden bailar, jugar algo, o salir a correr cerca de su casa. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -177,7 +177,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa**⭐ \n\nInvita a @fields.child_name a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar algo, o salir a correr cerca de su casa. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando."
+          "eng": "**Actividad para casa**⭐ \n\nInvita a @fields.child_name a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. \n\nPueden bailar, jugar algo, o salir a correr cerca de su casa. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
