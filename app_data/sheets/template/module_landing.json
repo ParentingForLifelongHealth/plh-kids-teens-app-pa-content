@@ -744,7 +744,7 @@
         {
           "type": "text",
           "name": "summary_text",
-          "value": "You have completed @local.no_completed out of @local.total lessons in @local.course_name",
+          "value": "@global.module_summary_text",
           "_translations": {
             "value": {}
           },
@@ -756,33 +756,15 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "You have completed @local.no_completed out of @local.total lessons in @local.course_name",
-                "matchedExpression": "@local.no_completed",
-                "type": "local",
-                "fieldName": "no_completed"
-              },
-              {
-                "fullExpression": "You have completed @local.no_completed out of @local.total lessons in @local.course_name",
-                "matchedExpression": "@local.total",
-                "type": "local",
-                "fieldName": "total"
-              },
-              {
-                "fullExpression": "You have completed @local.no_completed out of @local.total lessons in @local.course_name",
-                "matchedExpression": "@local.course_name",
-                "type": "local",
-                "fieldName": "course_name"
+                "fullExpression": "@global.module_summary_text",
+                "matchedExpression": "@global.module_summary_text",
+                "type": "global",
+                "fieldName": "module_summary_text"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@local.no_completed": [
-              "value"
-            ],
-            "@local.total": [
-              "value"
-            ],
-            "@local.course_name": [
+            "@global.module_summary_text": [
               "value"
             ]
           }

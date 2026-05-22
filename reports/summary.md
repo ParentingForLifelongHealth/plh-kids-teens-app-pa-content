@@ -9,9 +9,9 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 103 |
-| combo_box | 20 |
-| data_items | 236 |
+| button | 102 |
+| combo_box | 24 |
+| data_items | 238 |
 | debug_toggle | 1 |
 | display_grid | 4 |
 | display_group | 96 |
@@ -33,14 +33,14 @@
 | round_button | 12 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 3980 |
+| set_variable | 3981 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 1221 |
-| text | 270 |
+| text | 281 |
 | text_area | 3 |
-| text_box | 16 |
+| text_box | 21 |
 | text_bubble | 10 |
 | title | 54 |
 | toggle_bar | 5 |
@@ -57,11 +57,11 @@
 | add_data | 1 |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 829 |
+| emit: completed | 828 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
-| emit: server_sync | 7 |
+| emit: server_sync | 6 |
 | emit: set_language | 2 |
 | emit: uncompleted | 846 |
 | feedback | 13 |
@@ -75,7 +75,7 @@
 | set_data | 125 |
 | set_field | 154 |
 | set_item | 30 |
-| set_local | 141 |
+| set_local | 142 |
 | share | 3 |
 | task | 2 |
 | toast | 12 |
@@ -739,6 +739,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list |  | 17 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
+| data_list | campaign_rows | 1 |
+| data_list | campaign_schedule | 1 |
 | data_list | check_in | 1 |
 | data_list | generated | 138 |
 | data_list | hp_review | 2 |
@@ -810,7 +812,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_pipe |  | 4 |
 | data_pipe | generated | 134 |
 | generator |  | 70 |
-| global |  | 9 |
+| global |  | 10 |
 | global | onboarding | 8 |
 | template |  | 170 |
 | template | generated | 960 |

@@ -1,0 +1,20 @@
+{
+  "flow_type": "global",
+  "flow_name": "module_global",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "module_summary_text",
+      "value": "<span>You have completed </span><span><b>@local.no_completed</b></span><span> out of </span><span><b>@local.total </b></span><span>lessons in </span><span><b>@local.course_name</b></span>",
+      "_translations": {
+        "value": {}
+      }
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/deployment_data_pa.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1a_PDtnQiKKzNSBNJcVh_TFk0kB7YbtWE22mh87mqMdI"
+  }
+}

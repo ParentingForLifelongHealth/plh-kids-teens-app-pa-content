@@ -13,24 +13,96 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "user_gender_select_question",
-      "value": "Please select your gender",
+      "name": "user_name_setting",
+      "value": "My name is",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "user_type_select_question",
-      "value": "I am a...",
+      "name": "user_age_setting",
+      "value": "My age is",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "user_gender_setting",
+      "value": "My gender is",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "user_location_setting",
+      "value": "I live in the provice or comarca",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "user_district_setting",
+      "value": "My district is",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "user_relationship_setting",
+      "value": "My relationship status is",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "household_children_setting",
+      "value": "In my home I care for this number of children",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "child_name_setting",
+      "value": "My child's name is",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "child_gender_setting",
+      "value": "My child is a",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "child_age_setting",
+      "value": "The age of my child is",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "family_relation_setting",
+      "value": "My relation with @fields.child_name is",
       "_translations": {
         "value": {}
       }
     }
   ],
   "_source": {
-    "name": "kids_teens_global V2",
-    "path": "templates/kids app_launch.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1OsmLr80mX69_-YyLD42k_ZGYzTiowX-bamcQih7YgLI"
+    "name": "kids_teens_pa",
+    "path": "PA kids app_launch.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1jOC4KA7WJwbu8aLTHGjc-IeZaZ7_tmA__7Mhm9zaUew"
   }
 }

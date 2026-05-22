@@ -10,13 +10,58 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "user_gender_select_question",
-      "value": "Please select your gender"
+      "name": "user_name_setting",
+      "value": "My name is"
     },
     {
       "type": "declare_global_constant",
-      "name": "user_type_select_question",
-      "value": "I am a..."
+      "name": "user_age_setting",
+      "value": "My age is"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "user_gender_setting",
+      "value": "My gender is"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "user_location_setting",
+      "value": "I live in the provice or comarca"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "user_district_setting",
+      "value": "My district is"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "user_relationship_setting",
+      "value": "My relationship status is"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "household_children_setting",
+      "value": "In my home I care for this number of children"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "child_name_setting",
+      "value": "My child's name is"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "child_gender_setting",
+      "value": "My child is a"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "child_age_setting",
+      "value": "The age of my child is"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "family_relation_setting",
+      "value": "My relation with @fields.child_name is"
     }
   ]
 }
