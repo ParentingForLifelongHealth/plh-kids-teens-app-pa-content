@@ -175,14 +175,14 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "¡Selecciona reproducir ▶️ para ver cómo apoyar a @fields.child_name para que disfrute de su aprendizaje!\n\n1️⃣ **JUGAR**\n2️⃣ **UTILIZAR PALABRAS AFIRMATIVAS**\n3️⃣ **PERMITIR LA CREATIVIDAD**"
+          "eng": "¡Selecciona reproducir ▶️ para ver cómo apoyar a @fields.child_name para que disfrute de su aprendizaje!\n\n1️⃣ JUGAR\n2️⃣ UTILIZAR PALABRAS AFIRMATIVAS\n3️⃣ PERMITIR LA CREATIVIDAD"
         }
       },
-      "text_1_facilitator": "¡Selecciona reproducir ▶️ para ver cómo apoyar a @fields.child_name para que disfrute de su aprendizaje!\n\n1️⃣ **JUGAR**\n2️⃣ **UTILIZAR PALABRAS AFIRMATIVAS**\n3️⃣ **PERMITIR LA CREATIVIDAD**",
+      "text_1_facilitator": "¡Selecciona reproducir ▶️ para ver cómo apoyar a @fields.child_name para que disfrute de su aprendizaje!\n\n1️⃣ JUGAR\n2️⃣ UTILIZAR PALABRAS AFIRMATIVAS\n3️⃣ PERMITIR LA CREATIVIDAD",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "youtube link",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=dX2AUx39W-E",
       "completed": false
     },
     {
@@ -239,7 +239,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa**⭐ \n\nInvita a @fields.child_name a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar algo, o salir a correr cerca de su casa. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando."
+          "eng": "**Actividad para casa**⭐ \n\nInvita a @fields.child_name a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. \n\nPueden bailar, jugar algo, o salir a correr cerca de su casa. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
@@ -270,7 +270,7 @@
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**Actividad para casa**⭐ \n\nInvita a @fields.child_name a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. Pueden bailar, jugar algo, o salir a correr cerca de su casa. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando.",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nInvita a @fields.child_name a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. \n\nPueden bailar, jugar algo, o salir a correr cerca de su casa. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando.",
       "completed": false
     }
   ],
