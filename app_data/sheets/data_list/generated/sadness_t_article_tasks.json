@@ -340,14 +340,15 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Selecciona reproducir ▶️ para aprender 3️⃣ estrategias que te ayudarán a ti y a @fields.child_name a regular la tristeza y a detectar los signos de alerta relacionados con la depresión:\n\n1️⃣ **HABLAR Y ESCUCHAR**\n2️⃣ **HACER COSAS QUE TE GUSTEN**\n3️⃣ **BUSCAR APOYO**"
+          "eng": "Selecciona reproducir ▶️ para aprender 3️⃣ estrategias que te ayudarán a ti y a @fields.child_name a regular la tristeza y a detectar los signos de alerta relacionados con la depresión:\n\n1️⃣ HABLAR Y ESCUCHAR\n2️⃣ HACER COSAS QUE TE GUSTEN\n3️⃣ BUSCAR APOYO"
         }
       },
-      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender 3️⃣ estrategias que te ayudarán a ti y a @fields.child_name a regular la tristeza y a detectar los signos de alerta relacionados con la depresión:\n\n1️⃣ **HABLAR Y ESCUCHAR**\n2️⃣ **HACER COSAS QUE TE GUSTEN**\n3️⃣ **BUSCAR APOYO**",
+      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender 3️⃣ estrategias que te ayudarán a ti y a @fields.child_name a regular la tristeza y a detectar los signos de alerta relacionados con la depresión:\n\n1️⃣ HABLAR Y ESCUCHAR\n2️⃣ HACER COSAS QUE TE GUSTEN\n3️⃣ BUSCAR APOYO",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "https://youtu.be/2S50d0O70ds",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=BFonH5Km3JE",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=2S50d0O70ds",
       "completed": false
     },
     {
@@ -404,7 +405,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa**⭐ \n\nIntenta pasar más tiempo juntos y conectados con @fields.child_name esta semana haciendo algo que les gustaría hacer entre ustedes dos. Puedes aprovechar esta oportunidad para hablar con @fields.child_name y ver cómo le está yendo y cómo se siente."
+          "eng": "**Actividad para casa**⭐ \n\nIntenta pasar más tiempo juntos y conectados con @fields.child_name esta semana haciendo algo que les gustaría hacer entre ustedes dos. \n\nPuedes aprovechar esta oportunidad para hablar con @fields.child_name y ver cómo le está yendo y cómo se siente."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
@@ -435,7 +436,7 @@
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**Actividad para casa**⭐ \n\nIntenta pasar más tiempo juntos y conectados con @fields.child_name esta semana haciendo algo que les gustaría hacer entre ustedes dos. Puedes aprovechar esta oportunidad para hablar con @fields.child_name y ver cómo le está yendo y cómo se siente.",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nIntenta pasar más tiempo juntos y conectados con @fields.child_name esta semana haciendo algo que les gustaría hacer entre ustedes dos. \n\nPuedes aprovechar esta oportunidad para hablar con @fields.child_name y ver cómo le está yendo y cómo se siente.",
       "completed": false
     }
   ],

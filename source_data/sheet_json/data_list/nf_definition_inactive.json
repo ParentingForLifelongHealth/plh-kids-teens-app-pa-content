@@ -13,8 +13,8 @@
       "activation_condition_list": "@fields.n_modules_completed == 0 && @fields.last_module_in_progress == \"NA\"",
       "deactivation_condition_list": "@fields.install_nudge_sent",
       "campaign_list": "nf_inactive_day",
-      "title::eng": "Your parenting journey starts here",
-      "text::eng": "Welcome to @global.app_name! It is so good to have you. One small tip can make family life easier — tap here to start your first lesson."
+      "title::eng": "Tu camino en la crianza comienza aquí",
+      "text::eng": "¡Te damos la bienvenida a @global.app_name! Nos da mucho gusto tenerte aquí. Una estrategia sencilla puede hacer la vida familiar más tranquila y positiva. Toca aquí para comenzar tu primera sesión."
     },
     {
       "id": "install_nudge_b",
@@ -25,8 +25,8 @@
       "activation_condition_list": "@fields.n_modules_completed == 0 && @fields.last_module_in_progress == \"NA\"",
       "deactivation_condition_list": "@fields.install_nudge_sent",
       "campaign_list": "nf_inactive_day",
-      "title::eng": "A better family life starts with you",
-      "text::eng": "Welcome to @global.app_name. Just 1 minute of learning today can make a real difference. Tap here to find out more."
+      "title::eng": "Una mejor vida familiar comienza contigo",
+      "text::eng": "Te damos la bienvenida a @global.app_name. Dedicar 10 minutos hoy para aprender puede hacer una gran diferencia. Toca aquí para descubrir más."
     },
     {
       "id": "positive_reinforcement",
@@ -37,7 +37,8 @@
       "activation_condition_list": "@fields.n_modules_completed !== 0 ",
       "deactivation_condition_list": "@fields.positive_reinforcement_sent",
       "campaign_list": "nf_inactive_day",
-      "text::eng": "Well done! You finished your first skill. Tap here to keep going."
+      "title::eng": "¡Bien hecho!",
+      "text::eng": "Terminaste tu primera habilidad. Toca aquí para continuar."
     },
     {
       "id": "resume_lesson_a",
@@ -47,8 +48,8 @@
       "priority": 1,
       "activation_condition_list": "@fields.last_module_in_progress != \"NA\"",
       "campaign_list": "nf_inactive_2_days_afternoon; \nnf_inactive_week;",
-      "title::eng": "Keep going — you started something great",
-      "text::eng": "@fields.user_name, you started something great. Tap here to keep going."
+      "title::eng": "Sigue adelante: comenzaste algo muy valioso",
+      "text::eng": "@fields.user_name, comenzaste algo muy valioso. Toca aquí para continuar."
     },
     {
       "id": "resume_lesson_b",
@@ -58,8 +59,8 @@
       "priority": 1,
       "activation_condition_list": "@fields.last_module_in_progress != \"NA\"",
       "campaign_list": "nf_inactive_2_days_afternoon; \nnf_inactive_week;",
-      "title::eng": "Pick up where you left off",
-      "text::eng": "@fields.user_name, your lesson is still waiting. A few more minutes and you'll be done — tap here to finish."
+      "title::eng": "Continúa donde te quedaste",
+      "text::eng": "@fields.user_name, tu sesión está esperándote. Solo faltan unos minutos más para terminarla. Toca aquí para continuar."
     },
     {
       "id": "win_back_a",
@@ -68,8 +69,8 @@
       "priority": 1,
       "activation_condition_list": "@fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
       "campaign_list": "nf_inactive_2_days_evening; \nnf_inactive_week;",
-      "title::eng": "Help your family with @global.parent_app",
-      "text::eng": "Ready to take 5 minutes for your family? @global.app_name is here to help. Tap to jump back in."
+      "title::eng": "Apoya a tu familia con @global.parent_app",
+      "text::eng": "¿Tienes 5 minutos para dedicarle a tu familia? @global.app_name está aquí para acompañarte. Toca aquí para continuar."
     },
     {
       "id": "win_back_b",
@@ -78,8 +79,8 @@
       "priority": 1,
       "activation_condition_list": "@fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
       "campaign_list": "nf_inactive_2_days_evening; \nnf_inactive_week;",
-      "title::eng": "A small step for a better family life",
-      "text::eng": "Spending just 1 minute learning about parenting makes a world of difference. Tap here to keep going."
+      "title::eng": "Un pequeño paso para una mejor vida familiar",
+      "text::eng": "Dedicar solo 1 minuto a aprender sobre crianza puede hacer una gran diferencia. Toca aquí para continuar."
     }
   ]
 }

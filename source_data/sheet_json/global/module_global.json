@@ -6,7 +6,7 @@
     {
       "type": "declare_global_constant",
       "name": "module_summary_text",
-      "value": "<span>You have completed </span><span><b>@local.no_completed</b></span><span> out of </span><span><b>@local.total </b></span><span>lessons in </span><span><b>@local.course_name</b></span>"
+      "value": "Has completado @local.no_completed de @local.total sesiones en @local.course_name"
     }
   ]
 }

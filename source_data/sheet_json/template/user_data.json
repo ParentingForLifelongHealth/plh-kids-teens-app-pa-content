@@ -71,18 +71,7 @@
       "type": "combo_box",
       "name": "user_location_select",
       "value": "@fields.user_location",
-      "parameter_list": "answer_list: @data.user_location;",
-      "exclude_from_translation": true
-    },
-    {
-      "name": "district_name"
-    },
-    {
-      "type": "data_items",
-      "name": "get_district_name",
-      "value": "@data.user_location",
-      "action_list": "data_changed | set_local : district_name: @items[0]?.text::eng;",
-      "parameter_list": "filter:  @item.id == @local.user_location_select;\nlimit: 1;",
+      "parameter_list": "answer_list: @data.user_location;\nvariant: dropdown;",
       "exclude_from_translation": true
     },
     {
