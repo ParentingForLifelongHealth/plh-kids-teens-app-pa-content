@@ -41,20 +41,20 @@
       "campaign_list": [
         "nf_inactive_day"
       ],
-      "title": "Your parenting journey starts here",
+      "title": "Tu camino en la crianza comienza aquí",
       "_translations": {
         "title": {},
         "text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Your parenting journey starts here"
+          "eng": "Tu camino en la crianza comienza aquí"
         },
         "text": {
-          "eng": "Welcome to @global.app_name! It is so good to have you. One small tip can make family life easier — tap here to start your first lesson."
+          "eng": "¡Te damos la bienvenida a @global.app_name! Nos da mucho gusto tenerte aquí. Una estrategia sencilla puede hacer la vida familiar más tranquila y positiva. Toca aquí para comenzar tu primera sesión."
         }
       },
-      "text": "Welcome to @global.app_name! It is so good to have you. One small tip can make family life easier — tap here to start your first lesson."
+      "text": "¡Te damos la bienvenida a @global.app_name! Nos da mucho gusto tenerte aquí. Una estrategia sencilla puede hacer la vida familiar más tranquila y positiva. Toca aquí para comenzar tu primera sesión."
     },
     {
       "id": "install_nudge_b",
@@ -93,20 +93,20 @@
       "campaign_list": [
         "nf_inactive_day"
       ],
-      "title": "A better family life starts with you",
+      "title": "Una mejor vida familiar comienza contigo",
       "_translations": {
         "title": {},
         "text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "A better family life starts with you"
+          "eng": "Una mejor vida familiar comienza contigo"
         },
         "text": {
-          "eng": "Welcome to @global.app_name. Just 1 minute of learning today can make a real difference. Tap here to find out more."
+          "eng": "Te damos la bienvenida a @global.app_name. Dedicar 10 minutos hoy para aprender puede hacer una gran diferencia. Toca aquí para descubrir más."
         }
       },
-      "text": "Welcome to @global.app_name. Just 1 minute of learning today can make a real difference. Tap here to find out more."
+      "text": "Te damos la bienvenida a @global.app_name. Dedicar 10 minutos hoy para aprender puede hacer una gran diferencia. Toca aquí para descubrir más."
     },
     {
       "id": "positive_reinforcement",
@@ -145,15 +145,20 @@
       "campaign_list": [
         "nf_inactive_day"
       ],
-      "text": "Well done! You finished your first skill. Tap here to keep going.",
+      "title": "¡Bien hecho!",
       "_translations": {
+        "title": {},
         "text": {}
       },
       "_translatedFields": {
+        "title": {
+          "eng": "¡Bien hecho!"
+        },
         "text": {
-          "eng": "Well done! You finished your first skill. Tap here to keep going."
+          "eng": "Terminaste tu primera habilidad. Toca aquí para continuar."
         }
-      }
+      },
+      "text": "Terminaste tu primera habilidad. Toca aquí para continuar."
     },
     {
       "id": "resume_lesson_a",
@@ -204,20 +209,20 @@
         "nf_inactive_2_days_afternoon",
         "nf_inactive_week"
       ],
-      "title": "Keep going — you started something great",
+      "title": "Sigue adelante: comenzaste algo muy valioso",
       "_translations": {
         "title": {},
         "text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Keep going — you started something great"
+          "eng": "Sigue adelante: comenzaste algo muy valioso"
         },
         "text": {
-          "eng": "@fields.user_name, you started something great. Tap here to keep going."
+          "eng": "@fields.user_name, comenzaste algo muy valioso. Toca aquí para continuar."
         }
       },
-      "text": "@fields.user_name, you started something great. Tap here to keep going."
+      "text": "@fields.user_name, comenzaste algo muy valioso. Toca aquí para continuar."
     },
     {
       "id": "resume_lesson_b",
@@ -268,20 +273,20 @@
         "nf_inactive_2_days_afternoon",
         "nf_inactive_week"
       ],
-      "title": "Pick up where you left off",
+      "title": "Continúa donde te quedaste",
       "_translations": {
         "title": {},
         "text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Pick up where you left off"
+          "eng": "Continúa donde te quedaste"
         },
         "text": {
-          "eng": "@fields.user_name, your lesson is still waiting. A few more minutes and you'll be done — tap here to finish."
+          "eng": "@fields.user_name, tu sesión está esperándote. Solo faltan unos minutos más para terminarla. Toca aquí para continuar."
         }
       },
-      "text": "@fields.user_name, your lesson is still waiting. A few more minutes and you'll be done — tap here to finish."
+      "text": "@fields.user_name, tu sesión está esperándote. Solo faltan unos minutos más para terminarla. Toca aquí para continuar."
     },
     {
       "id": "win_back_a",
@@ -301,20 +306,20 @@
         "nf_inactive_2_days_evening",
         "nf_inactive_week"
       ],
-      "title": "Help your family with @global.parent_app",
+      "title": "Apoya a tu familia con @global.parent_app",
       "_translations": {
         "title": {},
         "text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Help your family with @global.parent_app"
+          "eng": "Apoya a tu familia con @global.parent_app"
         },
         "text": {
-          "eng": "Ready to take 5 minutes for your family? @global.app_name is here to help. Tap to jump back in."
+          "eng": "¿Tienes 5 minutos para dedicarle a tu familia? @global.app_name está aquí para acompañarte. Toca aquí para continuar."
         }
       },
-      "text": "Ready to take 5 minutes for your family? @global.app_name is here to help. Tap to jump back in."
+      "text": "¿Tienes 5 minutos para dedicarle a tu familia? @global.app_name está aquí para acompañarte. Toca aquí para continuar."
     },
     {
       "id": "win_back_b",
@@ -334,20 +339,20 @@
         "nf_inactive_2_days_evening",
         "nf_inactive_week"
       ],
-      "title": "A small step for a better family life",
+      "title": "Un pequeño paso para una mejor vida familiar",
       "_translations": {
         "title": {},
         "text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "A small step for a better family life"
+          "eng": "Un pequeño paso para una mejor vida familiar"
         },
         "text": {
-          "eng": "Spending just 1 minute learning about parenting makes a world of difference. Tap here to keep going."
+          "eng": "Dedicar solo 1 minuto a aprender sobre crianza puede hacer una gran diferencia. Toca aquí para continuar."
         }
       },
-      "text": "Spending just 1 minute learning about parenting makes a world of difference. Tap here to keep going."
+      "text": "Dedicar solo 1 minuto a aprender sobre crianza puede hacer una gran diferencia. Toca aquí para continuar."
     }
   ],
   "_source": {

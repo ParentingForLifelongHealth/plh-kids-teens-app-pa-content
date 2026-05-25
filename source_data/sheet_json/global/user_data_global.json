@@ -6,62 +6,62 @@
     {
       "type": "declare_global_constant",
       "name": "user_data_title",
-      "value": "Welcome to @global.app_name"
+      "value": "Te damos la bienvenida a @global.app_name"
     },
     {
       "type": "declare_global_constant",
       "name": "user_name_setting",
-      "value": "My name is"
+      "value": "Mi nombre es"
     },
     {
       "type": "declare_global_constant",
       "name": "user_age_setting",
-      "value": "My age is"
+      "value": "Mi edad es"
     },
     {
       "type": "declare_global_constant",
       "name": "user_gender_setting",
-      "value": "My gender is"
+      "value": "El género con el que me identifico es"
     },
     {
       "type": "declare_global_constant",
       "name": "user_location_setting",
-      "value": "I live in the provice or comarca"
+      "value": "Vivo en la provincia o comarca"
     },
     {
       "type": "declare_global_constant",
       "name": "user_district_setting",
-      "value": "My district is"
+      "value": "El distrito en el que vivo es"
     },
     {
       "type": "declare_global_constant",
       "name": "user_relationship_setting",
-      "value": "My relationship status is"
+      "value": "Mi estado civil es"
     },
     {
       "type": "declare_global_constant",
       "name": "household_children_setting",
-      "value": "In my home I care for this number of children"
+      "value": "Estoy al cuidado de este número de niñas, niños y/o adolescentes"
     },
     {
       "type": "declare_global_constant",
       "name": "child_name_setting",
-      "value": "My child's name is"
+      "value": "El nombre de la niña, niño o adolescente con quien quiero utilizar las estrategias que aprenda es"
     },
     {
       "type": "declare_global_constant",
       "name": "child_gender_setting",
-      "value": "My child is a"
+      "value": "El género de @fields.child_name es"
     },
     {
       "type": "declare_global_constant",
       "name": "child_age_setting",
-      "value": "The age of my child is"
+      "value": "La edad de @fields.child_name es"
     },
     {
       "type": "declare_global_constant",
       "name": "family_relation_setting",
-      "value": "My relation with @fields.child_name is"
+      "value": "Mi parentesco o vínculo con @fields.child_name es"
     }
   ]
 }

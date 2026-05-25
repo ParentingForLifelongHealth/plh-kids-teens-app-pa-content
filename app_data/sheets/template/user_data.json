@@ -348,7 +348,8 @@
         "value": {}
       },
       "parameter_list": {
-        "answer_list": "@data.user_location"
+        "answer_list": "@data.user_location",
+        "variant": "dropdown"
       },
       "exclude_from_translation": true,
       "_nested_name": "user_location_select",
@@ -378,75 +379,6 @@
         ],
         "@data.user_location": [
           "parameter_list.answer_list"
-        ]
-      }
-    },
-    {
-      "name": "district_name",
-      "type": "set_variable",
-      "_nested_name": "district_name"
-    },
-    {
-      "type": "data_items",
-      "name": "get_district_name",
-      "value": "@data.user_location",
-      "_translations": {
-        "value": {}
-      },
-      "action_list": [
-        {
-          "trigger": "data_changed",
-          "action_id": "set_local",
-          "args": [
-            "district_name",
-            "@items[0]?.text",
-            "",
-            "eng"
-          ],
-          "_raw": "data_changed | set_local : district_name: @items[0]?.text::eng"
-        }
-      ],
-      "parameter_list": {
-        "filter": "@item.id == @local.user_location_select",
-        "limit": "1"
-      },
-      "exclude_from_translation": true,
-      "_nested_name": "get_district_name",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@data.user_location",
-            "matchedExpression": "@data.user_location",
-            "type": "data",
-            "fieldName": "user_location"
-          }
-        ],
-        "parameter_list": {
-          "filter": [
-            {
-              "fullExpression": "@item.id == @local.user_location_select",
-              "matchedExpression": "@item.id",
-              "type": "item",
-              "fieldName": "id"
-            },
-            {
-              "fullExpression": "@item.id == @local.user_location_select",
-              "matchedExpression": "@local.user_location_select",
-              "type": "local",
-              "fieldName": "user_location_select"
-            }
-          ]
-        }
-      },
-      "_dynamicDependencies": {
-        "@data.user_location": [
-          "value"
-        ],
-        "@item.id": [
-          "parameter_list.filter"
-        ],
-        "@local.user_location_select": [
-          "parameter_list.filter"
         ]
       }
     },
