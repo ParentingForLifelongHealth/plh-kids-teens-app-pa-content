@@ -11,7 +11,7 @@
 | audio | 3 |
 | button | 102 |
 | combo_box | 24 |
-| data_items | 237 |
+| data_items | 236 |
 | debug_toggle | 1 |
 | display_grid | 4 |
 | display_group | 96 |
