@@ -80,24 +80,10 @@
       "value": "@global.user_district_setting"
     },
     {
-      "type": "begin_combo_box",
+      "type": "combo_box",
       "name": "user_district_select",
       "value": "@fields.user_location_district",
-      "parameter_list": "variant: dropdown;",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "begin_data_items",
-      "value": "user_location_district",
-      "parameter_list": "filter: @item.province == @local.user_location_select",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "end_data_items",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "end_combo_box",
+      "parameter_list": "answer_list: @data.user_location_district;\nvariant: dropdown;",
       "exclude_from_translation": true
     },
     {
@@ -184,7 +170,7 @@
       "type": "combo_box",
       "name": "family_relation_select",
       "value": "@fields.family_relation",
-      "parameter_list": "answer_list: @data.family_relation;",
+      "parameter_list": "answer_list: @data.family_relation;\nvariant: dropdown;",
       "exclude_from_translation": true
     },
     {
