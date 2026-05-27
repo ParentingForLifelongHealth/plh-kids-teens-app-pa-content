@@ -85,6 +85,11 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "login_apple",
+      "value": "Continuar con Apple"
+    },
+    {
+      "type": "declare_global_constant",
       "name": "login_skip",
       "value": "Continuar sin una cuenta"
     },
