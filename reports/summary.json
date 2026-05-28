@@ -3306,6 +3306,11 @@
       },
       {
         "type": "data_list",
+        "subtype": "modules_Make_plan_c",
+        "total": 1
+      },
+      {
+        "type": "data_list",
         "subtype": "modules_Manage_anger_t",
         "total": 1
       },
@@ -3462,11 +3467,6 @@
       {
         "type": "data_list",
         "subtype": "modules_learn_people_t",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_make_plan_c",
         "total": 1
       },
       {

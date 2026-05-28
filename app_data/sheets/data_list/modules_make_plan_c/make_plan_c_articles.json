@@ -1,10 +1,10 @@
 {
   "flow_type": "data_list",
-  "flow_name": "make_plan_c_articles",
-  "data_list_name": "make_plan_c_articles",
+  "flow_name": "Make_plan_c_articles",
+  "data_list_name": "Make_plan_c_articles",
   "status": "released",
-  "flow_subtype": "modules_make_plan_c",
-  "module": "make_plan_c",
+  "flow_subtype": "modules_Make_plan_c",
+  "module": "Make_plan_c",
   "rows": [
     {
       "id": "intro_1",

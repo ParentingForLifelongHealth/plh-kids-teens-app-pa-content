@@ -1,5 +1,5 @@
 {
-  "flow_name": "stack_module_make_plan_c",
+  "flow_name": "stack_module_Make_plan_c",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -29,7 +29,7 @@
       "rows": [
         {
           "name": "module_id",
-          "value": "make_plan_c",
+          "value": "Make_plan_c",
           "_translations": {
             "value": {}
           },

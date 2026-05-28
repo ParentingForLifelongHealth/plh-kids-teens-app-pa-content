@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_make_plan_c_relax_1",
+  "flow_name": "article_Make_plan_c_relax_1",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -73,7 +73,7 @@
         },
         {
           "name": "progress_data_list",
-          "value": "make_plan_c@local.articles",
+          "value": "Make_plan_c@local.articles",
           "_translations": {
             "value": {}
           },
@@ -82,7 +82,7 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "make_plan_c@local.articles",
+                "fullExpression": "Make_plan_c@local.articles",
                 "matchedExpression": "@local.articles",
                 "type": "local",
                 "fieldName": "articles"

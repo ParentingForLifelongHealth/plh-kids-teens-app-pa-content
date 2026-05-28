@@ -226,6 +226,24 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
+    "Make_plan_c_article_tasks": {
+      "flow_name": "Make_plan_c_article_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list",
+      "_metadata": {
+        "nested": {
+          "type": "boolean"
+        },
+        "completed": {
+          "type": "boolean"
+        }
+      }
+    },
+    "Make_plan_c_category_tasks": {
+      "flow_name": "Make_plan_c_category_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
     "Manage_anger_t_article_tasks": {
       "flow_name": "Manage_anger_t_article_tasks",
       "flow_subtype": "generated",
@@ -888,24 +906,6 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
-    "make_plan_c_article_tasks": {
-      "flow_name": "make_plan_c_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list",
-      "_metadata": {
-        "nested": {
-          "type": "boolean"
-        },
-        "completed": {
-          "type": "boolean"
-        }
-      }
-    },
-    "make_plan_c_category_tasks": {
-      "flow_name": "make_plan_c_category_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
     "make_plan_t_article_tasks": {
       "flow_name": "make_plan_t_article_tasks",
       "flow_subtype": "generated",
@@ -1539,6 +1539,23 @@
         }
       }
     },
+    "Make_plan_c_articles": {
+      "flow_type": "data_list",
+      "flow_name": "Make_plan_c_articles",
+      "data_list_name": "Make_plan_c_articles",
+      "flow_subtype": "modules_Make_plan_c",
+      "module": "Make_plan_c",
+      "_source": {
+        "name": "kids_teens_pa",
+        "path": "data/PA modules - understand (65 - 75).xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1mWNhZqCfGOub-6mE1pRygNQ2hZV7C8CUW8L3ifKAVGQ"
+      },
+      "_metadata": {
+        "nested": {
+          "type": "boolean"
+        }
+      }
+    },
     "Manage_anger_t_articles": {
       "flow_type": "data_list",
       "flow_name": "Manage_anger_t_articles",
@@ -2076,23 +2093,6 @@
         "name": "kids_teens_pa",
         "path": "data/PA modules - learn (44 - 64).xlsx",
         "url": "https://docs.google.com/spreadsheets/d/1uYUivXZOTg0ZliArzDnwFz4zNAX9qm_0iMzEgFQfGKY"
-      },
-      "_metadata": {
-        "nested": {
-          "type": "boolean"
-        }
-      }
-    },
-    "make_plan_c_articles": {
-      "flow_type": "data_list",
-      "flow_name": "make_plan_c_articles",
-      "data_list_name": "make_plan_c_articles",
-      "flow_subtype": "modules_make_plan_c",
-      "module": "make_plan_c",
-      "_source": {
-        "name": "kids_teens_pa",
-        "path": "data/PA modules - understand (65 - 75).xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1mWNhZqCfGOub-6mE1pRygNQ2hZV7C8CUW8L3ifKAVGQ"
       },
       "_metadata": {
         "nested": {
@@ -2722,6 +2722,30 @@
       "_output_flows": [
         {
           "flow_name": "Know_role_t_category_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_Make_plan_c_articles": {
+      "flow_name": "prep_Make_plan_c_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "Make_plan_c_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_Make_plan_c_categories": {
+      "flow_name": "prep_Make_plan_c_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "Make_plan_c_category_tasks",
           "flow_subtype": "generated",
           "flow_type": "data_list"
         }
@@ -3639,30 +3663,6 @@
         }
       ]
     },
-    "prep_make_plan_c_articles": {
-      "flow_name": "prep_make_plan_c_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "make_plan_c_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_make_plan_c_categories": {
-      "flow_name": "prep_make_plan_c_categories",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "make_plan_c_category_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
     "prep_make_plan_t_articles": {
       "flow_name": "prep_make_plan_t_articles",
       "flow_subtype": "generated",
@@ -4490,6 +4490,74 @@
         }
       ]
     },
+    "Make_plan_c_article_gen": {
+      "flow_type": "generator",
+      "flow_name": "Make_plan_c_article_gen",
+      "parameter_list": {
+        "input_data_list": "Make_plan_c_articles",
+        "output_flow_name": "article_Make_plan_c_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "module_id": "Make_plan_c",
+      "_source": {
+        "name": "kids_teens_pa",
+        "path": "templates/PA article template generators (31-45).xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1jkvBCjY0QfYcjZ5d_KeDmI75JQh7vdMb3T9JZPNFMn0"
+      },
+      "_output_flows": [
+        {
+          "flow_name": "article_Make_plan_c_intro_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_Make_plan_c_explore_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_Make_plan_c_explore_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_Make_plan_c_explore_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_Make_plan_c_explore_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_Make_plan_c_explore_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_Make_plan_c_explore_6",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_Make_plan_c_practical_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_Make_plan_c_practical_tips_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_Make_plan_c_home_activity_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
     "Manage_anger_t_article_gen": {
       "flow_type": "generator",
       "flow_name": "Manage_anger_t_article_gen",
@@ -5035,7 +5103,7 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_make_plan_c_check_in_67",
+          "flow_name": "article_Make_plan_c_check_in_67",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -6106,7 +6174,7 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "library_article_make_plan_c_tips_1",
+          "flow_name": "library_article_Make_plan_c_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -6545,7 +6613,7 @@
           "flow_type": "data_pipe"
         },
         {
-          "flow_name": "prep_make_plan_c_articles",
+          "flow_name": "prep_Make_plan_c_articles",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
         },
@@ -6937,7 +7005,7 @@
           "flow_type": "data_pipe"
         },
         {
-          "flow_name": "prep_make_plan_c_categories",
+          "flow_name": "prep_Make_plan_c_categories",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
         },
@@ -7466,7 +7534,7 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "stack_module_make_plan_c",
+          "flow_name": "stack_module_Make_plan_c",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -7858,7 +7926,7 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "stack_module_make_plan_c_start_at_id",
+          "flow_name": "stack_module_Make_plan_c_start_at_id",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -9423,74 +9491,6 @@
         }
       ]
     },
-    "make_plan_c_article_gen": {
-      "flow_type": "generator",
-      "flow_name": "make_plan_c_article_gen",
-      "parameter_list": {
-        "input_data_list": "make_plan_c_articles",
-        "output_flow_name": "article_make_plan_c_@gen.id",
-        "output_flow_type": "template",
-        "output_flow_subtype": "generated"
-      },
-      "module_id": "make_plan_c",
-      "_source": {
-        "name": "kids_teens_pa",
-        "path": "templates/PA article template generators (31-45).xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1jkvBCjY0QfYcjZ5d_KeDmI75JQh7vdMb3T9JZPNFMn0"
-      },
-      "_output_flows": [
-        {
-          "flow_name": "article_make_plan_c_intro_1",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_make_plan_c_explore_1",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_make_plan_c_explore_2",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_make_plan_c_explore_3",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_make_plan_c_explore_4",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_make_plan_c_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_make_plan_c_explore_6",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_make_plan_c_practical_tips_1",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_make_plan_c_practical_tips_2",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_make_plan_c_home_activity_1",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        }
-      ]
-    },
     "make_plan_t_article_gen": {
       "flow_type": "generator",
       "flow_name": "make_plan_t_article_gen",
@@ -10233,7 +10233,7 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_make_plan_c_relax_1",
+          "flow_name": "article_Make_plan_c_relax_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -12142,6 +12142,66 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_Make_plan_c_check_in_67": {
+      "flow_name": "article_Make_plan_c_check_in_67",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_Make_plan_c_explore_1": {
+      "flow_name": "article_Make_plan_c_explore_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_Make_plan_c_explore_2": {
+      "flow_name": "article_Make_plan_c_explore_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_Make_plan_c_explore_3": {
+      "flow_name": "article_Make_plan_c_explore_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_Make_plan_c_explore_4": {
+      "flow_name": "article_Make_plan_c_explore_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_Make_plan_c_explore_5": {
+      "flow_name": "article_Make_plan_c_explore_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_Make_plan_c_explore_6": {
+      "flow_name": "article_Make_plan_c_explore_6",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_Make_plan_c_home_activity_1": {
+      "flow_name": "article_Make_plan_c_home_activity_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_Make_plan_c_intro_1": {
+      "flow_name": "article_Make_plan_c_intro_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_Make_plan_c_practical_tips_1": {
+      "flow_name": "article_Make_plan_c_practical_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_Make_plan_c_practical_tips_2": {
+      "flow_name": "article_Make_plan_c_practical_tips_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_Make_plan_c_relax_1": {
+      "flow_name": "article_Make_plan_c_relax_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_Manage_anger_t_check_in_38": {
       "flow_name": "article_Manage_anger_t_check_in_38",
       "flow_subtype": "generated",
@@ -13902,66 +13962,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_make_plan_c_check_in_67": {
-      "flow_name": "article_make_plan_c_check_in_67",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_make_plan_c_explore_1": {
-      "flow_name": "article_make_plan_c_explore_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_make_plan_c_explore_2": {
-      "flow_name": "article_make_plan_c_explore_2",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_make_plan_c_explore_3": {
-      "flow_name": "article_make_plan_c_explore_3",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_make_plan_c_explore_4": {
-      "flow_name": "article_make_plan_c_explore_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_make_plan_c_explore_5": {
-      "flow_name": "article_make_plan_c_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_make_plan_c_explore_6": {
-      "flow_name": "article_make_plan_c_explore_6",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_make_plan_c_home_activity_1": {
-      "flow_name": "article_make_plan_c_home_activity_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_make_plan_c_intro_1": {
-      "flow_name": "article_make_plan_c_intro_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_make_plan_c_practical_tips_1": {
-      "flow_name": "article_make_plan_c_practical_tips_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_make_plan_c_practical_tips_2": {
-      "flow_name": "article_make_plan_c_practical_tips_2",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_make_plan_c_relax_1": {
-      "flow_name": "article_make_plan_c_relax_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_make_plan_t_check_in_69": {
       "flow_name": "article_make_plan_t_check_in_69",
       "flow_subtype": "generated",
@@ -15152,6 +15152,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "library_article_Make_plan_c_tips_1": {
+      "flow_name": "library_article_Make_plan_c_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "library_article_Manage_anger_t_tips_1": {
       "flow_name": "library_article_Manage_anger_t_tips_1",
       "flow_subtype": "generated",
@@ -15369,11 +15374,6 @@
     },
     "library_article_learn_people_t_tips_1": {
       "flow_name": "library_article_learn_people_t_tips_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "library_article_make_plan_c_tips_1": {
-      "flow_name": "library_article_make_plan_c_tips_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -15719,6 +15719,16 @@
     },
     "stack_module_Know_role_t_start_at_id": {
       "flow_name": "stack_module_Know_role_t_start_at_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "stack_module_Make_plan_c": {
+      "flow_name": "stack_module_Make_plan_c",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "stack_module_Make_plan_c_start_at_id": {
+      "flow_name": "stack_module_Make_plan_c_start_at_id",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -16159,16 +16169,6 @@
     },
     "stack_module_learn_people_t_start_at_id": {
       "flow_name": "stack_module_learn_people_t_start_at_id",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "stack_module_make_plan_c": {
-      "flow_name": "stack_module_make_plan_c",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "stack_module_make_plan_c_start_at_id": {
-      "flow_name": "stack_module_make_plan_c_start_at_id",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -16747,6 +16747,25 @@
         }
       },
       "comment": "Know_role_t",
+      "comment_2": 26,
+      "comment_3": 11,
+      "_source": {
+        "name": "kids_teens_pa",
+        "path": "templates/PA module_landing templates (31-45).xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/192pmUmGkYGMtMVlCTh5hqn0CdfWY9gIL3UuWzLekeAY"
+      }
+    },
+    "module_landing_Make_plan_c": {
+      "flow_type": "template",
+      "flow_name": "module_landing_Make_plan_c",
+      "parameter_list": {
+        "app_config": {
+          "LAYOUT": {
+            "page_padding": "0 0"
+          }
+        }
+      },
+      "comment": "Make_plan_c",
       "comment_2": 26,
       "comment_3": 11,
       "_source": {
@@ -17589,25 +17608,6 @@
         "name": "kids_teens_pa",
         "path": "templates/PA module_landing templates (61-75).xlsx",
         "url": "https://docs.google.com/spreadsheets/d/1MdCjfXY8SKcd_5fQVn8H-E_nZYVDioPujgmp54Hsa5Y"
-      }
-    },
-    "module_landing_make_plan_c": {
-      "flow_type": "template",
-      "flow_name": "module_landing_make_plan_c",
-      "parameter_list": {
-        "app_config": {
-          "LAYOUT": {
-            "page_padding": "0 0"
-          }
-        }
-      },
-      "comment": "make_plan_c",
-      "comment_2": 26,
-      "comment_3": 11,
-      "_source": {
-        "name": "kids_teens_pa",
-        "path": "templates/PA module_landing templates (31-45).xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/192pmUmGkYGMtMVlCTh5hqn0CdfWY9gIL3UuWzLekeAY"
       }
     },
     "module_landing_make_plan_t": {
