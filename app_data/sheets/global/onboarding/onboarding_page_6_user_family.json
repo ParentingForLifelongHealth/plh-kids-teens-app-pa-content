@@ -1,53 +1,53 @@
 {
   "flow_type": "global",
   "flow_subtype": "onboarding",
-  "flow_name": "onboarding_page_3_user_info",
+  "flow_name": "onboarding_page_6_user_family",
   "status": "released",
   "rows": [
     {
       "type": "declare_global_constant",
-      "name": "facilitator_message_user_info_1",
-      "value": "**¡Comencemos!**\n \nCuéntame un poco sobre ti.",
+      "name": "facilitator_message_user_family",
+      "value": "**Gracias @fields.user_name.**\n \nCuéntanos un poco sobre tu familia. Así podremos compartirte consejos que se adapten a ti.",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "question_user_name",
-      "value": "¿Cuál es tu nombre?",
+      "name": "question_user_relationship",
+      "value": "¿Cuál es tu estado civil?",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "placeholder_user_name",
-      "value": "Escribe tu nombre",
+      "name": "placeholder_user_relationship",
+      "value": "Selecciona un estado civil",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "question_user_age",
-      "value": "¿Cuántos años tienes?",
+      "name": "question_household_children",
+      "value": "¿Cuántas niñas, niños o adolescentes están a tu cuidado?",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "placeholder_user_age",
-      "value": "Ingresa un nombre",
+      "name": "placeholder_household_children",
+      "value": "Ingresa un número",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "warning_user_age_input",
-      "value": "Por favor ingresa un número entre 18 y 99",
+      "name": "household_children_input_restriction",
+      "value": "Por favor ingresa un número entre 1 y 20.",
       "_translations": {
         "value": {}
       }
