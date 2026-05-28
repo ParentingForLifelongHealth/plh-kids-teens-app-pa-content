@@ -1064,15 +1064,6 @@
   },
   {
     "flow_type": "generator",
-    "flow_name": "Make_plan_c_article_gen",
-    "_source": {
-      "name": "kids_teens_pa",
-      "path": "templates/PA article template generators (31-45).xlsx",
-      "url": "https://docs.google.com/spreadsheets/d/1jkvBCjY0QfYcjZ5d_KeDmI75JQh7vdMb3T9JZPNFMn0"
-    }
-  },
-  {
-    "flow_type": "generator",
     "flow_name": "Manage_anger_t_article_gen",
     "_source": {
       "name": "kids_teens_pa",
@@ -1559,6 +1550,15 @@
   },
   {
     "flow_type": "generator",
+    "flow_name": "make_plan_c_article_gen",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "templates/PA article template generators (31-45).xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1jkvBCjY0QfYcjZ5d_KeDmI75JQh7vdMb3T9JZPNFMn0"
+    }
+  },
+  {
+    "flow_type": "generator",
     "flow_name": "make_plan_t_article_gen",
     "_source": {
       "name": "kids_teens_pa",
@@ -1989,16 +1989,6 @@
     "flow_type": "global",
     "flow_subtype": "onboarding",
     "flow_name": "onboarding_page_3_user_info",
-    "_source": {
-      "name": "kids_teens_pa",
-      "path": "data/PA onboarding.xlsx",
-      "url": "https://docs.google.com/spreadsheets/d/1r5zNT0MXsfMYSXrhYSLw1xGesza4qjQB-EJ2PMmTBlc"
-    }
-  },
-  {
-    "flow_type": "global",
-    "flow_subtype": "onboarding",
-    "flow_name": "onboarding_page_4_user_family",
     "_source": {
       "name": "kids_teens_pa",
       "path": "data/PA onboarding.xlsx",
@@ -2634,15 +2624,6 @@
   },
   {
     "flow_type": "template",
-    "flow_name": "module_landing_Make_plan_c",
-    "_source": {
-      "name": "kids_teens_pa",
-      "path": "templates/PA module_landing templates (31-45).xlsx",
-      "url": "https://docs.google.com/spreadsheets/d/192pmUmGkYGMtMVlCTh5hqn0CdfWY9gIL3UuWzLekeAY"
-    }
-  },
-  {
-    "flow_type": "template",
     "flow_name": "module_landing_Manage_anger_t",
     "_source": {
       "name": "kids_teens_pa",
@@ -3035,6 +3016,15 @@
       "name": "kids_teens_pa",
       "path": "templates/PA module_landing templates (61-75).xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1MdCjfXY8SKcd_5fQVn8H-E_nZYVDioPujgmp54Hsa5Y"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_name": "module_landing_make_plan_c",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "templates/PA module_landing templates (31-45).xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/192pmUmGkYGMtMVlCTh5hqn0CdfWY9gIL3UuWzLekeAY"
     }
   },
   {

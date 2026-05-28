@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3980
+        "count": 4000
       },
       {
         "type": "simple_checkbox",
@@ -139,7 +139,7 @@
       },
       {
         "type": "template",
-        "count": 1221
+        "count": 1231
       },
       {
         "type": "text",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 828
+        "count": 838
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 846
+        "count": 856
       },
       {
         "type": "feedback",
@@ -291,12 +291,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "64720 KB",
-        "MB": "64.7 MB"
+        "KB": "64760 KB",
+        "MB": "64.8 MB"
       },
       {
         "assets": "unused",
-        "KB": "31031 KB",
+        "KB": "30991 KB",
         "MB": "31 MB"
       }
     ]
@@ -848,10 +848,6 @@
         "size_kb": 227.6
       },
       {
-        "path": "images/logos/MIDES logo colour.png",
-        "size_kb": 39.9
-      },
-      {
         "path": "images/logos/donors/Agency_fund.png",
         "size_kb": 43.7
       },
@@ -933,11 +929,6 @@
       {
         "path": "images/icons/picture_blue.svg",
         "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/logos/MIDES.png",
-        "count": 1,
         "missing": true
       },
       {
@@ -3160,6 +3151,11 @@
         "size_kb": 42.7
       },
       {
+        "path": "images/logos/MIDES.png",
+        "count": 1,
+        "size_kb": 39.9
+      },
+      {
         "path": "images/logos/PLH.png",
         "count": 1,
         "size_kb": 33.9
@@ -3606,7 +3602,7 @@
       {
         "type": "generator",
         "subtype": null,
-        "total": 70
+        "total": 71
       },
       {
         "type": "global",
@@ -3616,7 +3612,7 @@
       {
         "type": "global",
         "subtype": "onboarding",
-        "total": 8
+        "total": 7
       },
       {
         "type": "template",
@@ -3626,7 +3622,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 960
+        "total": 970
       },
       {
         "type": "template",

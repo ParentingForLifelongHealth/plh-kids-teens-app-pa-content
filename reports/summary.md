@@ -33,11 +33,11 @@
 | round_button | 12 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 3980 |
+| set_variable | 4000 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 1221 |
+| template | 1231 |
 | text | 281 |
 | text_area | 3 |
 | text_box | 21 |
@@ -57,13 +57,13 @@
 | add_data | 1 |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 828 |
+| emit: completed | 838 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 846 |
+| emit: uncompleted | 856 |
 | feedback | 13 |
 | go_to | 18 |
 | nav_stack | 497 |
@@ -87,8 +87,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 64720 KB | 64.7 MB |
-| unused | 31031 KB | 31 MB |
+| total | 64760 KB | 64.8 MB |
+| unused | 30991 KB | 31 MB |
 </details>
 
 <details open>
@@ -234,7 +234,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/Crianza-01.jpg | 221.9 |
 | images/logos/Crianza-01.png | 17 |
 | images/logos/Crianza-03.jpg | 227.6 |
-| images/logos/MIDES logo colour.png | 39.9 |
 | images/logos/donors/Agency_fund.png | 43.7 |
 | images/logos/donors/ERC-EU.png | 209.7 |
 | images/logos/donors/ERC.png | 321.9 |
@@ -263,7 +262,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/icons/diamond_blue.svg | 4 |
 | images/icons/heart_filles_blue.png | 4 |
 | images/icons/picture_blue.svg | 2 |
-| images/logos/MIDES.png | 1 |
 | images/logos/app_logo.png | 1 |
 | images/logos/plh_logomark.png | 1 |
 </details>
@@ -716,6 +714,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/trust.svg | 18.9 | 20 |
 | images/logos/Crianza-03.png | 17.9 | 2 |
 | images/logos/IDEMS.png | 42.7 | 1 |
+| images/logos/MIDES.png | 39.9 | 1 |
 | images/logos/PLH.png | 33.9 | 1 |
 | images/logos/UNICEF.png | 68.8 | 1 |
 | images/onboarding/welcome_screen_1.svg | 239.7 | 1 |
@@ -811,10 +810,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | relax | 1 |
 | data_pipe |  | 4 |
 | data_pipe | generated | 134 |
-| generator |  | 70 |
+| generator |  | 71 |
 | global |  | 10 |
-| global | onboarding | 8 |
+| global | onboarding | 7 |
 | template |  | 170 |
-| template | generated | 960 |
+| template | generated | 970 |
 | template | legal_terms | 4 |
 </details>

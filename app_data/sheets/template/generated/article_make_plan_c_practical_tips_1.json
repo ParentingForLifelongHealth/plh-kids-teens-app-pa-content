@@ -1,22 +1,12 @@
 {
+  "flow_name": "article_make_plan_c_practical_tips_1",
+  "flow_subtype": "generated",
   "flow_type": "template",
-  "flow_name": "module_landing_make_plan_c",
-  "status": "released",
-  "parameter_list": {
-    "app_config": {
-      "LAYOUT": {
-        "page_padding": "0 0"
-      }
-    }
-  },
-  "comment": "make_plan_c",
-  "comment_2": 26,
-  "comment_3": 11,
   "rows": [
     {
       "type": "template",
-      "name": "module_landing",
-      "value": "module_landing",
+      "name": "article",
+      "value": "article",
       "action_list": [
         {
           "trigger": "completed",
@@ -37,6 +27,15 @@
       ],
       "rows": [
         {
+          "name": "article_id",
+          "value": "practical_tips_1",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "article.article_id"
+        },
+        {
           "name": "module_id",
           "value": "make_plan_c",
           "_translations": {
@@ -44,15 +43,10 @@
           },
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "module_landing.module_id"
+          "_nested_name": "article.module_id"
         }
       ],
-      "_nested_name": "module_landing"
+      "_nested_name": "article"
     }
-  ],
-  "_source": {
-    "name": "kids_teens_pa",
-    "path": "templates/PA module_landing templates (31-45).xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/192pmUmGkYGMtMVlCTh5hqn0CdfWY9gIL3UuWzLekeAY"
-  }
+  ]
 }
