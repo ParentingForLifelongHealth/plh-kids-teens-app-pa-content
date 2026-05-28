@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 4016
+        "count": 4277
       },
       {
         "type": "simple_checkbox",
@@ -139,7 +139,7 @@
       },
       {
         "type": "template",
-        "count": 1231
+        "count": 1364
       },
       {
         "type": "text",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 840
+        "count": 973
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 858
+        "count": 991
       },
       {
         "type": "feedback",
@@ -291,13 +291,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "64760 KB",
-        "MB": "64.8 MB"
+        "KB": "67278 KB",
+        "MB": "67.3 MB"
       },
       {
         "assets": "unused",
-        "KB": "30991 KB",
-        "MB": "31 MB"
+        "KB": "28472 KB",
+        "MB": "28.5 MB"
       }
     ]
   },
@@ -380,258 +380,6 @@
         "size_kb": 921.4
       },
       {
-        "path": "images/comic/safe/com_safety_2to4_yc_1.svg",
-        "size_kb": 34.1
-      },
-      {
-        "path": "images/comic/safe/com_safety_2to4_yc_2.svg",
-        "size_kb": 36.4
-      },
-      {
-        "path": "images/comic/safe/com_safety_2to4_yc_3.svg",
-        "size_kb": 28.4
-      },
-      {
-        "path": "images/comic/safe/com_safety_2to4_yc_4.svg",
-        "size_kb": 33.6
-      },
-      {
-        "path": "images/comic/safe/com_safety_5to9_yc_1.svg",
-        "size_kb": 39.4
-      },
-      {
-        "path": "images/comic/safe/com_safety_5to9_yc_2.svg",
-        "size_kb": 43.7
-      },
-      {
-        "path": "images/comic/safe/com_safety_5to9_yc_3.svg",
-        "size_kb": 39.7
-      },
-      {
-        "path": "images/comic/safe/com_safety_5to9_yc_4.svg",
-        "size_kb": 20.8
-      },
-      {
-        "path": "images/comic/safe/com_safety_5to9_yc_5.svg",
-        "size_kb": 19.7
-      },
-      {
-        "path": "images/comic/safe/community_safety_teen_1.svg",
-        "size_kb": 32.5
-      },
-      {
-        "path": "images/comic/safe/community_safety_teen_2.svg",
-        "size_kb": 67.3
-      },
-      {
-        "path": "images/comic/safe/community_safety_teen_3.svg",
-        "size_kb": 66.5
-      },
-      {
-        "path": "images/comic/safe/community_safety_teen_4.svg",
-        "size_kb": 59.8
-      },
-      {
-        "path": "images/comic/safe/community_safety_teen_5.svg",
-        "size_kb": 58.8
-      },
-      {
-        "path": "images/comic/safe/community_safety_teen_6.svg",
-        "size_kb": 32
-      },
-      {
-        "path": "images/comic/safe/crises_2to6_yc_1.svg",
-        "size_kb": 36.2
-      },
-      {
-        "path": "images/comic/safe/crises_2to6_yc_2.svg",
-        "size_kb": 37.5
-      },
-      {
-        "path": "images/comic/safe/crises_2to6_yc_3.svg",
-        "size_kb": 37.2
-      },
-      {
-        "path": "images/comic/safe/crises_2to6_yc_4.svg",
-        "size_kb": 36.3
-      },
-      {
-        "path": "images/comic/safe/crises_7to9_yc_1.svg",
-        "size_kb": 27.5
-      },
-      {
-        "path": "images/comic/safe/crises_7to9_yc_2.svg",
-        "size_kb": 19
-      },
-      {
-        "path": "images/comic/safe/crises_7to9_yc_3.svg",
-        "size_kb": 21.4
-      },
-      {
-        "path": "images/comic/safe/crises_7to9_yc_4.svg",
-        "size_kb": 20.8
-      },
-      {
-        "path": "images/comic/safe/crises_7to9_yc_5.svg",
-        "size_kb": 11.8
-      },
-      {
-        "path": "images/comic/safe/crises_7to9_yc_6.svg",
-        "size_kb": 25.5
-      },
-      {
-        "path": "images/comic/safe/crises_teen_f_1.svg",
-        "size_kb": 27.4
-      },
-      {
-        "path": "images/comic/safe/crises_teen_f_2.svg",
-        "size_kb": 17.6
-      },
-      {
-        "path": "images/comic/safe/crises_teen_f_3.svg",
-        "size_kb": 23.1
-      },
-      {
-        "path": "images/comic/safe/crises_teen_f_4.svg",
-        "size_kb": 24
-      },
-      {
-        "path": "images/comic/safe/crises_teen_f_5.svg",
-        "size_kb": 23.8
-      },
-      {
-        "path": "images/comic/safe/crises_teen_f_6.svg",
-        "size_kb": 22.1
-      },
-      {
-        "path": "images/comic/safe/crises_teen_m_1.svg",
-        "size_kb": 20.9
-      },
-      {
-        "path": "images/comic/safe/crises_teen_m_2.svg",
-        "size_kb": 16.5
-      },
-      {
-        "path": "images/comic/safe/crises_teen_m_3.svg",
-        "size_kb": 13.9
-      },
-      {
-        "path": "images/comic/safe/crises_teen_m_4.svg",
-        "size_kb": 14.2
-      },
-      {
-        "path": "images/comic/safe/crises_teen_m_5.svg",
-        "size_kb": 14.1
-      },
-      {
-        "path": "images/comic/safe/crises_teen_m_6.svg",
-        "size_kb": 12.1
-      },
-      {
-        "path": "images/comic/safe/online_safety_teen_1.svg",
-        "size_kb": 42.9
-      },
-      {
-        "path": "images/comic/safe/online_safety_teen_2.svg",
-        "size_kb": 29.9
-      },
-      {
-        "path": "images/comic/safe/online_safety_teen_3.svg",
-        "size_kb": 29.2
-      },
-      {
-        "path": "images/comic/safe/online_safety_teen_4.svg",
-        "size_kb": 37.9
-      },
-      {
-        "path": "images/comic/safe/online_safety_teen_5.svg",
-        "size_kb": 16.2
-      },
-      {
-        "path": "images/comic/safe/online_safety_yc_1.svg",
-        "size_kb": 25.4
-      },
-      {
-        "path": "images/comic/safe/online_safety_yc_2.svg",
-        "size_kb": 25.9
-      },
-      {
-        "path": "images/comic/safe/online_safety_yc_3.svg",
-        "size_kb": 26
-      },
-      {
-        "path": "images/comic/safe/online_safety_yc_4.svg",
-        "size_kb": 27.2
-      },
-      {
-        "path": "images/comic/safe/safe_touch_2to5_yc_f_1.svg",
-        "size_kb": 47.3
-      },
-      {
-        "path": "images/comic/safe/safe_touch_2to5_yc_f_2.svg",
-        "size_kb": 43.5
-      },
-      {
-        "path": "images/comic/safe/safe_touch_2to5_yc_f_3.svg",
-        "size_kb": 44.1
-      },
-      {
-        "path": "images/comic/safe/safe_touch_2to5_yc_f_4.svg",
-        "size_kb": 45.6
-      },
-      {
-        "path": "images/comic/safe/safe_touch_2to5_yc_f_5.svg",
-        "size_kb": 37
-      },
-      {
-        "path": "images/comic/safe/safe_touch_2to5_yc_m_1.svg",
-        "size_kb": 127.9
-      },
-      {
-        "path": "images/comic/safe/safe_touch_2to5_yc_m_2.svg",
-        "size_kb": 119.6
-      },
-      {
-        "path": "images/comic/safe/safe_touch_2to5_yc_m_3.svg",
-        "size_kb": 119.6
-      },
-      {
-        "path": "images/comic/safe/safe_touch_2to5_yc_m_4.svg",
-        "size_kb": 121.3
-      },
-      {
-        "path": "images/comic/safe/safe_touch_2to5_yc_m_5.svg",
-        "size_kb": 121.1
-      },
-      {
-        "path": "images/comic/safe/safe_touch_6to9_yc_1.svg",
-        "size_kb": 36.9
-      },
-      {
-        "path": "images/comic/safe/safe_touch_6to9_yc_2.svg",
-        "size_kb": 34.7
-      },
-      {
-        "path": "images/comic/safe/safe_touch_6to9_yc_3.svg",
-        "size_kb": 16.5
-      },
-      {
-        "path": "images/comic/understand/play_yc_1.svg",
-        "size_kb": 39.5
-      },
-      {
-        "path": "images/comic/understand/play_yc_2.svg",
-        "size_kb": 38.7
-      },
-      {
-        "path": "images/comic/understand/play_yc_3.svg",
-        "size_kb": 25.9
-      },
-      {
-        "path": "images/comic/understand/play_yc_4.svg",
-        "size_kb": 25.7
-      },
-      {
         "path": "images/facilitators/Angel_male.jpeg",
         "size_kb": 60.5
       },
@@ -694,14 +442,6 @@
       {
         "path": "images/icons/cancel.svg",
         "size_kb": 1.7
-      },
-      {
-        "path": "images/icons/caution.svg",
-        "size_kb": 2.1
-      },
-      {
-        "path": "images/icons/distance.svg",
-        "size_kb": 87.9
       },
       {
         "path": "images/icons/document.svg",
@@ -778,10 +518,6 @@
       {
         "path": "images/icons/magnify_glass.svg",
         "size_kb": 1.9
-      },
-      {
-        "path": "images/icons/no.svg",
-        "size_kb": 7.1
       },
       {
         "path": "images/icons/notification_bell.png",
@@ -952,7 +688,7 @@
       },
       {
         "path": "audio/relax/relax_1.m4a",
-        "count": 12,
+        "count": 15,
         "size_kb": 213.2
       },
       {
@@ -1007,7 +743,7 @@
       },
       {
         "path": "audio/relax/relax_2.m4a",
-        "count": 13,
+        "count": 15,
         "size_kb": 451.3
       },
       {
@@ -1032,17 +768,17 @@
       },
       {
         "path": "audio/relax/relax_3.m4a",
-        "count": 13,
+        "count": 15,
         "size_kb": 244.5
       },
       {
         "path": "audio/relax/relax_4.m4a",
-        "count": 11,
+        "count": 14,
         "size_kb": 528.3
       },
       {
         "path": "audio/relax/relax_5.m4a",
-        "count": 11,
+        "count": 14,
         "size_kb": 278.5
       },
       {
@@ -1062,7 +798,7 @@
       },
       {
         "path": "audio/relax/relax_9.m4a",
-        "count": 11,
+        "count": 14,
         "size_kb": 530.4
       },
       {
@@ -2416,6 +2152,301 @@
         "size_kb": 36
       },
       {
+        "path": "images/comic/safe/com_safety_2to4_yc_1.svg",
+        "count": 2,
+        "size_kb": 34.1
+      },
+      {
+        "path": "images/comic/safe/com_safety_2to4_yc_2.svg",
+        "count": 2,
+        "size_kb": 36.4
+      },
+      {
+        "path": "images/comic/safe/com_safety_2to4_yc_3.svg",
+        "count": 2,
+        "size_kb": 28.4
+      },
+      {
+        "path": "images/comic/safe/com_safety_2to4_yc_4.svg",
+        "count": 2,
+        "size_kb": 33.6
+      },
+      {
+        "path": "images/comic/safe/com_safety_5to9_yc_1.svg",
+        "count": 2,
+        "size_kb": 39.4
+      },
+      {
+        "path": "images/comic/safe/com_safety_5to9_yc_2.svg",
+        "count": 2,
+        "size_kb": 43.7
+      },
+      {
+        "path": "images/comic/safe/com_safety_5to9_yc_3.svg",
+        "count": 2,
+        "size_kb": 39.7
+      },
+      {
+        "path": "images/comic/safe/com_safety_5to9_yc_4.svg",
+        "count": 2,
+        "size_kb": 20.8
+      },
+      {
+        "path": "images/comic/safe/com_safety_5to9_yc_5.svg",
+        "count": 2,
+        "size_kb": 19.7
+      },
+      {
+        "path": "images/comic/safe/community_safety_teen_1.svg",
+        "count": 2,
+        "size_kb": 32.5
+      },
+      {
+        "path": "images/comic/safe/community_safety_teen_2.svg",
+        "count": 2,
+        "size_kb": 67.3
+      },
+      {
+        "path": "images/comic/safe/community_safety_teen_3.svg",
+        "count": 2,
+        "size_kb": 66.5
+      },
+      {
+        "path": "images/comic/safe/community_safety_teen_4.svg",
+        "count": 2,
+        "size_kb": 59.8
+      },
+      {
+        "path": "images/comic/safe/community_safety_teen_5.svg",
+        "count": 2,
+        "size_kb": 58.8
+      },
+      {
+        "path": "images/comic/safe/community_safety_teen_6.svg",
+        "count": 2,
+        "size_kb": 32
+      },
+      {
+        "path": "images/comic/safe/crises_2to6_yc_1.svg",
+        "count": 2,
+        "size_kb": 36.2
+      },
+      {
+        "path": "images/comic/safe/crises_2to6_yc_2.svg",
+        "count": 2,
+        "size_kb": 37.5
+      },
+      {
+        "path": "images/comic/safe/crises_2to6_yc_3.svg",
+        "count": 2,
+        "size_kb": 37.2
+      },
+      {
+        "path": "images/comic/safe/crises_2to6_yc_4.svg",
+        "count": 2,
+        "size_kb": 36.3
+      },
+      {
+        "path": "images/comic/safe/crises_7to9_yc_1.svg",
+        "count": 2,
+        "size_kb": 27.5
+      },
+      {
+        "path": "images/comic/safe/crises_7to9_yc_2.svg",
+        "count": 2,
+        "size_kb": 19
+      },
+      {
+        "path": "images/comic/safe/crises_7to9_yc_3.svg",
+        "count": 2,
+        "size_kb": 21.4
+      },
+      {
+        "path": "images/comic/safe/crises_7to9_yc_4.svg",
+        "count": 2,
+        "size_kb": 20.8
+      },
+      {
+        "path": "images/comic/safe/crises_7to9_yc_5.svg",
+        "count": 2,
+        "size_kb": 11.8
+      },
+      {
+        "path": "images/comic/safe/crises_7to9_yc_6.svg",
+        "count": 2,
+        "size_kb": 25.5
+      },
+      {
+        "path": "images/comic/safe/crises_teen_f_1.svg",
+        "count": 2,
+        "size_kb": 27.4
+      },
+      {
+        "path": "images/comic/safe/crises_teen_f_2.svg",
+        "count": 2,
+        "size_kb": 17.6
+      },
+      {
+        "path": "images/comic/safe/crises_teen_f_3.svg",
+        "count": 2,
+        "size_kb": 23.1
+      },
+      {
+        "path": "images/comic/safe/crises_teen_f_4.svg",
+        "count": 2,
+        "size_kb": 24
+      },
+      {
+        "path": "images/comic/safe/crises_teen_f_5.svg",
+        "count": 2,
+        "size_kb": 23.8
+      },
+      {
+        "path": "images/comic/safe/crises_teen_f_6.svg",
+        "count": 2,
+        "size_kb": 22.1
+      },
+      {
+        "path": "images/comic/safe/crises_teen_m_1.svg",
+        "count": 2,
+        "size_kb": 20.9
+      },
+      {
+        "path": "images/comic/safe/crises_teen_m_2.svg",
+        "count": 2,
+        "size_kb": 16.5
+      },
+      {
+        "path": "images/comic/safe/crises_teen_m_3.svg",
+        "count": 2,
+        "size_kb": 13.9
+      },
+      {
+        "path": "images/comic/safe/crises_teen_m_4.svg",
+        "count": 2,
+        "size_kb": 14.2
+      },
+      {
+        "path": "images/comic/safe/crises_teen_m_5.svg",
+        "count": 2,
+        "size_kb": 14.1
+      },
+      {
+        "path": "images/comic/safe/crises_teen_m_6.svg",
+        "count": 2,
+        "size_kb": 12.1
+      },
+      {
+        "path": "images/comic/safe/online_safety_teen_1.svg",
+        "count": 2,
+        "size_kb": 42.9
+      },
+      {
+        "path": "images/comic/safe/online_safety_teen_2.svg",
+        "count": 2,
+        "size_kb": 29.9
+      },
+      {
+        "path": "images/comic/safe/online_safety_teen_3.svg",
+        "count": 2,
+        "size_kb": 29.2
+      },
+      {
+        "path": "images/comic/safe/online_safety_teen_4.svg",
+        "count": 2,
+        "size_kb": 37.9
+      },
+      {
+        "path": "images/comic/safe/online_safety_teen_5.svg",
+        "count": 2,
+        "size_kb": 16.2
+      },
+      {
+        "path": "images/comic/safe/online_safety_yc_1.svg",
+        "count": 2,
+        "size_kb": 25.4
+      },
+      {
+        "path": "images/comic/safe/online_safety_yc_2.svg",
+        "count": 2,
+        "size_kb": 25.9
+      },
+      {
+        "path": "images/comic/safe/online_safety_yc_3.svg",
+        "count": 2,
+        "size_kb": 26
+      },
+      {
+        "path": "images/comic/safe/online_safety_yc_4.svg",
+        "count": 2,
+        "size_kb": 27.2
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_f_1.svg",
+        "count": 2,
+        "size_kb": 47.3
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_f_2.svg",
+        "count": 2,
+        "size_kb": 43.5
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_f_3.svg",
+        "count": 2,
+        "size_kb": 44.1
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_f_4.svg",
+        "count": 2,
+        "size_kb": 45.6
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_f_5.svg",
+        "count": 2,
+        "size_kb": 37
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_m_1.svg",
+        "count": 2,
+        "size_kb": 127.9
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_m_2.svg",
+        "count": 2,
+        "size_kb": 119.6
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_m_3.svg",
+        "count": 2,
+        "size_kb": 119.6
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_m_4.svg",
+        "count": 2,
+        "size_kb": 121.3
+      },
+      {
+        "path": "images/comic/safe/safe_touch_2to5_yc_m_5.svg",
+        "count": 2,
+        "size_kb": 121.1
+      },
+      {
+        "path": "images/comic/safe/safe_touch_6to9_yc_1.svg",
+        "count": 2,
+        "size_kb": 36.9
+      },
+      {
+        "path": "images/comic/safe/safe_touch_6to9_yc_2.svg",
+        "count": 2,
+        "size_kb": 34.7
+      },
+      {
+        "path": "images/comic/safe/safe_touch_6to9_yc_3.svg",
+        "count": 2,
+        "size_kb": 16.5
+      },
+      {
         "path": "images/comic/understand/anxiety_teen_1.svg",
         "count": 2,
         "size_kb": 89.6
@@ -2596,6 +2627,26 @@
         "size_kb": 45.5
       },
       {
+        "path": "images/comic/understand/play_yc_1.svg",
+        "count": 2,
+        "size_kb": 39.5
+      },
+      {
+        "path": "images/comic/understand/play_yc_2.svg",
+        "count": 2,
+        "size_kb": 38.7
+      },
+      {
+        "path": "images/comic/understand/play_yc_3.svg",
+        "count": 2,
+        "size_kb": 25.9
+      },
+      {
+        "path": "images/comic/understand/play_yc_4.svg",
+        "count": 2,
+        "size_kb": 25.7
+      },
+      {
         "path": "images/comic/understand/sadness_teen_1.svg",
         "count": 2,
         "size_kb": 30.7
@@ -2737,13 +2788,18 @@
       },
       {
         "path": "images/icons/brain_blue.png",
-        "count": 4,
+        "count": 6,
         "size_kb": 5.2
       },
       {
         "path": "images/icons/breathe.svg",
-        "count": 18,
+        "count": 22,
         "size_kb": 8.7
+      },
+      {
+        "path": "images/icons/caution.svg",
+        "count": 2,
+        "size_kb": 2.1
       },
       {
         "path": "images/icons/celebration.svg",
@@ -2767,7 +2823,7 @@
       },
       {
         "path": "images/icons/clock_blue.png",
-        "count": 22,
+        "count": 26,
         "size_kb": 4.5
       },
       {
@@ -2789,6 +2845,11 @@
         "path": "images/icons/diamond_blue.png",
         "count": 4,
         "size_kb": 4.7
+      },
+      {
+        "path": "images/icons/distance.svg",
+        "count": 6,
+        "size_kb": 87.9
       },
       {
         "path": "images/icons/document-lock-outline.svg",
@@ -2822,7 +2883,7 @@
       },
       {
         "path": "images/icons/eye_blue.png",
-        "count": 24,
+        "count": 26,
         "size_kb": 4.2
       },
       {
@@ -2832,7 +2893,7 @@
       },
       {
         "path": "images/icons/faces/happy_face_new.svg",
-        "count": 134,
+        "count": 150,
         "size_kb": 1.4
       },
       {
@@ -2842,7 +2903,7 @@
       },
       {
         "path": "images/icons/faces/ok_face_new.svg",
-        "count": 134,
+        "count": 150,
         "size_kb": 0.5
       },
       {
@@ -2852,7 +2913,7 @@
       },
       {
         "path": "images/icons/faces/sad_face_new.svg",
-        "count": 134,
+        "count": 150,
         "size_kb": 1.5
       },
       {
@@ -2862,7 +2923,7 @@
       },
       {
         "path": "images/icons/football_blue.png",
-        "count": 12,
+        "count": 14,
         "size_kb": 5.1
       },
       {
@@ -2872,7 +2933,7 @@
       },
       {
         "path": "images/icons/hands_heart.svg",
-        "count": 20,
+        "count": 22,
         "size_kb": 9.4
       },
       {
@@ -2902,7 +2963,7 @@
       },
       {
         "path": "images/icons/heart_filled_blue.png",
-        "count": 18,
+        "count": 22,
         "size_kb": 4.9
       },
       {
@@ -2942,12 +3003,12 @@
       },
       {
         "path": "images/icons/lightbulb_blue.png",
-        "count": 18,
+        "count": 28,
         "size_kb": 3.6
       },
       {
         "path": "images/icons/listen.svg",
-        "count": 2,
+        "count": 10,
         "size_kb": 6.1
       },
       {
@@ -2987,7 +3048,7 @@
       },
       {
         "path": "images/icons/magnifying_glass.svg",
-        "count": 94,
+        "count": 98,
         "size_kb": 0.9
       },
       {
@@ -2996,13 +3057,18 @@
         "size_kb": 7.1
       },
       {
+        "path": "images/icons/no.svg",
+        "count": 6,
+        "size_kb": 7.1
+      },
+      {
         "path": "images/icons/parent_child.svg",
-        "count": 16,
+        "count": 24,
         "size_kb": 2
       },
       {
         "path": "images/icons/parent_child_heart.svg",
-        "count": 82,
+        "count": 88,
         "size_kb": 3
       },
       {
@@ -3012,7 +3078,7 @@
       },
       {
         "path": "images/icons/pencil.svg",
-        "count": 82,
+        "count": 88,
         "size_kb": 1.1
       },
       {
@@ -3067,7 +3133,7 @@
       },
       {
         "path": "images/icons/single_speech_blue.png",
-        "count": 10,
+        "count": 16,
         "size_kb": 3.3
       },
       {
@@ -3087,12 +3153,12 @@
       },
       {
         "path": "images/icons/speech_bubble_blue.png",
-        "count": 32,
+        "count": 42,
         "size_kb": 4.2
       },
       {
         "path": "images/icons/star_filled_blue.png",
-        "count": 36,
+        "count": 38,
         "size_kb": 5.1
       },
       {
@@ -3102,7 +3168,7 @@
       },
       {
         "path": "images/icons/target.svg",
-        "count": 20,
+        "count": 24,
         "size_kb": 4.3
       },
       {
@@ -3112,7 +3178,7 @@
       },
       {
         "path": "images/icons/tick.svg",
-        "count": 21,
+        "count": 23,
         "size_kb": 0.3
       },
       {
@@ -3137,7 +3203,7 @@
       },
       {
         "path": "images/icons/trust.svg",
-        "count": 20,
+        "count": 24,
         "size_kb": 18.9
       },
       {
@@ -3197,27 +3263,27 @@
       },
       {
         "path": "lottie/relax/blue_dots.json",
-        "count": 14,
+        "count": 17,
         "size_kb": 14.7
       },
       {
         "path": "lottie/relax/heart.json",
-        "count": 14,
+        "count": 17,
         "size_kb": 46.7
       },
       {
         "path": "lottie/relax/looping_rings.json",
-        "count": 16,
+        "count": 18,
         "size_kb": 10.4
       },
       {
         "path": "lottie/relax/soothing_waves.json",
-        "count": 16,
+        "count": 18,
         "size_kb": 7.6
       },
       {
         "path": "lottie/relax/square_flow.json",
-        "count": 29,
+        "count": 35,
         "size_kb": 5.9
       }
     ]
@@ -3257,7 +3323,7 @@
       {
         "type": "data_list",
         "subtype": "generated",
-        "total": 138
+        "total": 154
       },
       {
         "type": "data_list",
@@ -3316,6 +3382,11 @@
       },
       {
         "type": "data_list",
+        "subtype": "modules_Play_c",
+        "total": 1
+      },
+      {
+        "type": "data_list",
         "subtype": "modules_Rules_t",
         "total": 1
       },
@@ -3326,7 +3397,27 @@
       },
       {
         "type": "data_list",
+        "subtype": "modules_com_safe_2to4_yc",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_com_safe_5to9_yc",
+        "total": 1
+      },
+      {
+        "type": "data_list",
         "subtype": "modules_consequences_c",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_crises_2to6_yc",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_crises_7to9_yc",
         "total": 1
       },
       {
@@ -3337,6 +3428,11 @@
       {
         "type": "data_list",
         "subtype": "modules_fun_l_7to9_c",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_habits_online_yc",
         "total": 1
       },
       {
@@ -3451,6 +3547,36 @@
       },
       {
         "type": "data_list",
+        "subtype": "modules_ks_c_safe_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_ks_crises_f_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_ks_crises_m_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_ks_online_hab_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_ks_online_saf_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_ks_s_violence_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
         "subtype": "modules_learn_exp_c",
         "total": 1
       },
@@ -3506,6 +3632,11 @@
       },
       {
         "type": "data_list",
+        "subtype": "modules_online_safety_yc",
+        "total": 1
+      },
+      {
+        "type": "data_list",
         "subtype": "modules_pos_learn_7to9_c",
         "total": 1
       },
@@ -3537,6 +3668,21 @@
       {
         "type": "data_list",
         "subtype": "modules_sadness_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_safe_2to5_yc_f",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_safe_2to5_yc_m",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_safe_6to9_yc",
         "total": 1
       },
       {
@@ -3597,12 +3743,12 @@
       {
         "type": "data_pipe",
         "subtype": "generated",
-        "total": 134
+        "total": 150
       },
       {
         "type": "generator",
         "subtype": null,
-        "total": 71
+        "total": 87
       },
       {
         "type": "global",
@@ -3622,7 +3768,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 970
+        "total": 1103
       },
       {
         "type": "template",
