@@ -41,6 +41,16 @@
   },
   {
     "flow_type": "data_list",
+    "flow_subtype": "modules_Make_plan_c",
+    "flow_name": "Make_plan_c_articles",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "data/PA modules - understand (65 - 75).xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1mWNhZqCfGOub-6mE1pRygNQ2hZV7C8CUW8L3ifKAVGQ"
+    }
+  },
+  {
+    "flow_type": "data_list",
     "flow_subtype": "modules_Manage_anger_t",
     "flow_name": "Manage_anger_t_articles",
     "_source": {
@@ -573,16 +583,6 @@
   },
   {
     "flow_type": "data_list",
-    "flow_subtype": "modules_make_plan_c",
-    "flow_name": "make_plan_c_articles",
-    "_source": {
-      "name": "kids_teens_pa",
-      "path": "data/PA modules - understand (65 - 75).xlsx",
-      "url": "https://docs.google.com/spreadsheets/d/1mWNhZqCfGOub-6mE1pRygNQ2hZV7C8CUW8L3ifKAVGQ"
-    }
-  },
-  {
-    "flow_type": "data_list",
     "flow_subtype": "modules_make_plan_t",
     "flow_name": "make_plan_t_articles",
     "_source": {
@@ -1056,6 +1056,15 @@
   {
     "flow_type": "generator",
     "flow_name": "Know_role_t_article_gen",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "templates/PA article template generators (31-45).xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1jkvBCjY0QfYcjZ5d_KeDmI75JQh7vdMb3T9JZPNFMn0"
+    }
+  },
+  {
+    "flow_type": "generator",
+    "flow_name": "Make_plan_c_article_gen",
     "_source": {
       "name": "kids_teens_pa",
       "path": "templates/PA article template generators (31-45).xlsx",
@@ -1546,15 +1555,6 @@
       "name": "kids_teens_pa",
       "path": "templates/PA article template generators (61-75).xlsx",
       "url": "https://docs.google.com/spreadsheets/d/176AwCx-wWqkxNVZBRMV2gjjY5K3U3C8sK9JjTepzMwU"
-    }
-  },
-  {
-    "flow_type": "generator",
-    "flow_name": "make_plan_c_article_gen",
-    "_source": {
-      "name": "kids_teens_pa",
-      "path": "templates/PA article template generators (31-45).xlsx",
-      "url": "https://docs.google.com/spreadsheets/d/1jkvBCjY0QfYcjZ5d_KeDmI75JQh7vdMb3T9JZPNFMn0"
     }
   },
   {
@@ -2654,6 +2654,15 @@
   },
   {
     "flow_type": "template",
+    "flow_name": "module_landing_Make_plan_c",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "templates/PA module_landing templates (31-45).xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/192pmUmGkYGMtMVlCTh5hqn0CdfWY9gIL3UuWzLekeAY"
+    }
+  },
+  {
+    "flow_type": "template",
     "flow_name": "module_landing_Manage_anger_t",
     "_source": {
       "name": "kids_teens_pa",
@@ -3046,15 +3055,6 @@
       "name": "kids_teens_pa",
       "path": "templates/PA module_landing templates (61-75).xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1MdCjfXY8SKcd_5fQVn8H-E_nZYVDioPujgmp54Hsa5Y"
-    }
-  },
-  {
-    "flow_type": "template",
-    "flow_name": "module_landing_make_plan_c",
-    "_source": {
-      "name": "kids_teens_pa",
-      "path": "templates/PA module_landing templates (31-45).xlsx",
-      "url": "https://docs.google.com/spreadsheets/d/192pmUmGkYGMtMVlCTh5hqn0CdfWY9gIL3UuWzLekeAY"
     }
   },
   {

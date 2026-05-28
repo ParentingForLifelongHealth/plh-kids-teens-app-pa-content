@@ -1,6 +1,6 @@
 {
   "flow_type": "template",
-  "flow_name": "module_landing_make_plan_c",
+  "flow_name": "module_landing_Make_plan_c",
   "status": "released",
   "parameter_list": {
     "app_config": {
@@ -9,7 +9,7 @@
       }
     }
   },
-  "comment": "make_plan_c",
+  "comment": "Make_plan_c",
   "comment_2": 26,
   "comment_3": 11,
   "rows": [
@@ -21,7 +21,7 @@
     },
     {
       "name": "module_id",
-      "value": "make_plan_c",
+      "value": "Make_plan_c",
       "exclude_from_translation": true
     },
     {
