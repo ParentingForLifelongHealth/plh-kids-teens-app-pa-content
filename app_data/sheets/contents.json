@@ -11277,20 +11277,50 @@
         "url": "https://docs.google.com/spreadsheets/d/1r5zNT0MXsfMYSXrhYSLw1xGesza4qjQB-EJ2PMmTBlc"
       }
     },
-    "onboarding_page_5_child_info": {
+    "onboarding_page_4_user_info": {
       "flow_type": "global",
       "flow_subtype": "onboarding",
-      "flow_name": "onboarding_page_5_child_info",
+      "flow_name": "onboarding_page_4_user_info",
       "_source": {
         "name": "kids_teens_pa",
         "path": "data/PA onboarding.xlsx",
         "url": "https://docs.google.com/spreadsheets/d/1r5zNT0MXsfMYSXrhYSLw1xGesza4qjQB-EJ2PMmTBlc"
       }
     },
-    "onboarding_page_6_child_age": {
+    "onboarding_page_5_user_info": {
       "flow_type": "global",
       "flow_subtype": "onboarding",
-      "flow_name": "onboarding_page_6_child_age",
+      "flow_name": "onboarding_page_5_user_info",
+      "_source": {
+        "name": "kids_teens_pa",
+        "path": "data/PA onboarding.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1r5zNT0MXsfMYSXrhYSLw1xGesza4qjQB-EJ2PMmTBlc"
+      }
+    },
+    "onboarding_page_6_user_family": {
+      "flow_type": "global",
+      "flow_subtype": "onboarding",
+      "flow_name": "onboarding_page_6_user_family",
+      "_source": {
+        "name": "kids_teens_pa",
+        "path": "data/PA onboarding.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1r5zNT0MXsfMYSXrhYSLw1xGesza4qjQB-EJ2PMmTBlc"
+      }
+    },
+    "onboarding_page_7_child_info": {
+      "flow_type": "global",
+      "flow_subtype": "onboarding",
+      "flow_name": "onboarding_page_7_child_info",
+      "_source": {
+        "name": "kids_teens_pa",
+        "path": "data/PA onboarding.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1r5zNT0MXsfMYSXrhYSLw1xGesza4qjQB-EJ2PMmTBlc"
+      }
+    },
+    "onboarding_page_8_child_age": {
+      "flow_type": "global",
+      "flow_subtype": "onboarding",
+      "flow_name": "onboarding_page_8_child_age",
       "_source": {
         "name": "kids_teens_pa",
         "path": "data/PA onboarding.xlsx",
@@ -18221,6 +18251,24 @@
     "onboarding_settings_page_6": {
       "flow_type": "template",
       "flow_name": "onboarding_settings_page_6",
+      "_source": {
+        "name": "kids_teens_pa",
+        "path": "templates/PA onboarding templates.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1Efq1duWdtaioK0tVhxuFSfdeFO_wMQzs5aDyl6hQ7_0"
+      }
+    },
+    "onboarding_settings_page_7": {
+      "flow_type": "template",
+      "flow_name": "onboarding_settings_page_7",
+      "_source": {
+        "name": "kids_teens_pa",
+        "path": "templates/PA onboarding templates.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1Efq1duWdtaioK0tVhxuFSfdeFO_wMQzs5aDyl6hQ7_0"
+      }
+    },
+    "onboarding_settings_page_8": {
+      "flow_type": "template",
+      "flow_name": "onboarding_settings_page_8",
       "_source": {
         "name": "kids_teens_pa",
         "path": "templates/PA onboarding templates.xlsx",

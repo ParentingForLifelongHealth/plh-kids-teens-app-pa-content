@@ -1,44 +1,52 @@
 {
   "flow_type": "global",
   "flow_subtype": "onboarding",
-  "flow_name": "onboarding_page_6_child_age",
+  "flow_name": "onboarding_page_7_child_info",
   "status": "released",
   "rows": [
     {
       "type": "declare_global_constant",
-      "name": "facilitator_message_child_age",
-      "value": "Cada persona es única. Es momento de conocer un poco más sobre @fields.child_name para acompañarte mejor.",
+      "name": "facilitator_message_one_child",
+      "value": "¿Puedes contarme un poco más sobre tu hija o hijo?",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "question_child_age",
-      "value": "¿Cuántos años tiene @fields.child_name?",
+      "name": "facilitator_message_multiple_children",
+      "value": "Para comenzar, pensemos en la niña, niño o adolescente con quien enfrentas más retos. Así podré darte orientación adecuada a su edad.",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "placeholder_child_age",
-      "value": "Ingresa su edad",
+      "name": "question_child_name",
+      "value": "¿Cómo se llama tu niña, niño o adolescente?",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "question_family_relation",
-      "value": "¿Cuál es tu relación con @fields.child_name?",
+      "name": "placeholder_child_name",
+      "value": "Ingresa un nombre",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "placeholder_family_relation",
+      "name": "question_child_gender",
+      "value": "¿Es niño o niña?",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_child_gender",
       "value": "Selecciona una opción",
       "_translations": {
         "value": {}
