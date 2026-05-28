@@ -11,9 +11,9 @@
       "tag_list": [
         "child"
       ],
-      "caregiver_gender_list": [
-        "male",
-        "female",
+      "user_gender_list": [
+        "man",
+        "woman",
         "opt_out"
       ],
       "image_asset": "images/homescreen/relation_c.svg",
@@ -34,9 +34,9 @@
       "tag_list": [
         "teen"
       ],
-      "caregiver_gender_list": [
-        "male",
-        "female",
+      "user_gender_list": [
+        "man",
+        "woman",
         "opt_out"
       ],
       "image_asset": "images/homescreen/relation_t.svg",
@@ -58,8 +58,8 @@
         "child",
         "teen"
       ],
-      "caregiver_gender_list": [
-        "male"
+      "user_gender_list": [
+        "man"
       ],
       "image_asset": "images/homescreen/ipv.svg",
       "completed": false,
@@ -79,9 +79,9 @@
       "tag_list": [
         "child"
       ],
-      "caregiver_gender_list": [
-        "male",
-        "female",
+      "user_gender_list": [
+        "man",
+        "woman",
         "opt_out"
       ],
       "image_asset": "images/homescreen/safety_c.svg",
@@ -102,9 +102,9 @@
       "tag_list": [
         "teen"
       ],
-      "caregiver_gender_list": [
-        "male",
-        "female",
+      "user_gender_list": [
+        "man",
+        "woman",
         "opt_out"
       ],
       "image_asset": "images/homescreen/safety_t.svg",
@@ -125,9 +125,9 @@
       "tag_list": [
         "child"
       ],
-      "caregiver_gender_list": [
-        "male",
-        "female",
+      "user_gender_list": [
+        "man",
+        "woman",
         "opt_out"
       ],
       "image_asset": "images/homescreen/behave_c.svg",
@@ -148,9 +148,9 @@
       "tag_list": [
         "teen"
       ],
-      "caregiver_gender_list": [
-        "male",
-        "female",
+      "user_gender_list": [
+        "man",
+        "woman",
         "opt_out"
       ],
       "image_asset": "images/homescreen/behave_t.svg",
@@ -171,9 +171,9 @@
       "tag_list": [
         "child"
       ],
-      "caregiver_gender_list": [
-        "male",
-        "female",
+      "user_gender_list": [
+        "man",
+        "woman",
         "opt_out"
       ],
       "image_asset": "images/homescreen/learn_c.svg",
@@ -194,9 +194,9 @@
       "tag_list": [
         "teen"
       ],
-      "caregiver_gender_list": [
-        "male",
-        "female",
+      "user_gender_list": [
+        "man",
+        "woman",
         "opt_out"
       ],
       "image_asset": "images/homescreen/learn_t.svg",
@@ -217,9 +217,9 @@
       "tag_list": [
         "child"
       ],
-      "caregiver_gender_list": [
-        "male",
-        "female",
+      "user_gender_list": [
+        "man",
+        "woman",
         "opt_out"
       ],
       "image_asset": "images/homescreen/understand_c.svg",
@@ -240,9 +240,9 @@
       "tag_list": [
         "teen"
       ],
-      "caregiver_gender_list": [
-        "male",
-        "female",
+      "user_gender_list": [
+        "man",
+        "woman",
         "opt_out"
       ],
       "image_asset": "images/homescreen/understand_t.svg",
