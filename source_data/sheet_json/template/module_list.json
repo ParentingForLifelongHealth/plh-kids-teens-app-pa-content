@@ -21,7 +21,7 @@
       "type": "data_items",
       "value": "@data.courses",
       "action_list": "data_changed | set_local : has_core_course: @items.length;",
-      "parameter_list": "filter: @item.core && !@item.completed && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)) && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))"
+      "parameter_list": "filter: @item.core && !@item.completed && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)) && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.user_gender_list || @item.user_gender_list.includes(@fields.user_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))"
     },
     {
       "type": "begin_display_group",
@@ -69,7 +69,7 @@
       "type": "begin_data_items",
       "name": "core_courses",
       "value": "@data.courses",
-      "parameter_list": "filter: @item.core && !@item.completed && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)) && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship));",
+      "parameter_list": "filter: @item.core && !@item.completed && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)) && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.user_gender_list || @item.user_gender_list.includes(@fields.user_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship));",
       "condition": "@local.has_core_course > 0",
       "exclude_from_translation": true,
       "comments": "filter: @item.core && !@item.completed;"
@@ -104,7 +104,7 @@
       "type": "begin_display_group",
       "name": "upcoming_title",
       "parameter_list": "style: column",
-      "condition": "@local.has_core_course > 0"
+      "condition": "filter: !@item.core && !@item.completed && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)) && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.user_gender_list || @item.user_gender_list.includes(@fields.user_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship));"
     },
     {
       "type": "title",
@@ -125,7 +125,7 @@
       "type": "begin_data_items",
       "name": "other_courses",
       "value": "@data.courses",
-      "parameter_list": "filter: !@item.core && !@item.completed && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)) && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship));",
+      "parameter_list": "filter: !@item.core && !@item.completed && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)) && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.user_gender_list || @item.user_gender_list.includes(@fields.user_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship));",
       "exclude_from_translation": true,
       "comments": "filter: !@item.core && !@item.completed;"
     },
@@ -161,11 +161,21 @@
       "exclude_from_translation": true
     },
     {
+      "comments": "must have completed something"
+    },
+    {
+      "type": "begin_data_items",
+      "name": "completed_courses",
+      "value": "@data.courses",
+      "parameter_list": "filter: !!@item.completed",
+      "exclude_from_translation": true,
+      "comments": "filter: !([@local.courses_list].includes(@item.id))"
+    },
+    {
       "type": "begin_display_group",
       "name": "completed_title",
       "parameter_list": "style: column",
-      "condition": "@local.has_core_course == 0",
-      "comments": "must have completed something"
+      "condition": "@item._first"
     },
     {
       "type": "title",
@@ -176,18 +186,7 @@
       "value": "@global.complete_course_text"
     },
     {
-      "type": "end_display_group"
-    },
-    {
-      "type": "begin_data_items",
-      "name": "completed_courses",
-      "value": "@data.courses",
-      "parameter_list": "filter: !!@item.completed",
-      "condition": "@local.has_core_course == 0",
-      "exclude_from_translation": true,
-      "comments": "filter: !([@local.courses_list].includes(@item.id))"
-    },
-    {
+      "type": "end_display_group",
       "comments": "filter: !([@local.courses_not_done].includes(@item.id))"
     },
     {
