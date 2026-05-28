@@ -1,13 +1,13 @@
 {
   "flow_type": "generator",
-  "flow_name": "Make_plan_c_article_gen",
+  "flow_name": "make_plan_c_article_gen",
   "status": "released",
   "parameter_list": {
-    "input_data_list": "Make_plan_c_articles",
-    "output_flow_name": "article_Make_plan_c_@gen.id",
+    "input_data_list": "make_plan_c_articles",
+    "output_flow_name": "article_make_plan_c_@gen.id",
     "output_flow_type": "template"
   },
-  "module_id": "Make_plan_c",
+  "module_id": "make_plan_c",
   "rows": [
     {
       "type": "begin_template",
@@ -21,7 +21,7 @@
     },
     {
       "name": "module_id",
-      "value": "Make_plan_c",
+      "value": "make_plan_c",
       "exclude_from_translation": true
     },
     {

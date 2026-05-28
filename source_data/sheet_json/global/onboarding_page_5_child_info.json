@@ -7,12 +7,12 @@
     {
       "type": "declare_global_constant",
       "name": "facilitator_message_one_child",
-      "value": "**Gracias @fields.user_name.**\n\n¿Puedes contarme un poco más sobre tu hija o hijo?"
+      "value": "¿Puedes contarme un poco más sobre tu hija o hijo?"
     },
     {
       "type": "declare_global_constant",
       "name": "facilitator_message_multiple_children",
-      "value": "**Gracias @fields.user_name.**\n\nPara comenzar, pensemos en la niña, niño o adolescente con quien enfrentas más retos. Así podré darte orientación adecuada a su edad."
+      "value": "Para comenzar, pensemos en la niña, niño o adolescente con quien enfrentas más retos. Así podré darte orientación adecuada a su edad."
     },
     {
       "type": "declare_global_constant",
@@ -27,7 +27,7 @@
     {
       "type": "declare_global_constant",
       "name": "question_child_gender",
-      "value": "¿Es hombre o mujer?"
+      "value": "¿Es niño o niña?"
     },
     {
       "type": "declare_global_constant",
