@@ -1,23 +1,13 @@
 {
   "flow_type": "global",
   "flow_subtype": "onboarding",
-  "flow_name": "onboarding_page_6_user_family",
+  "flow_name": "onboarding_page_8_user_family",
   "status": "released",
   "rows": [
     {
       "type": "declare_global_constant",
       "name": "facilitator_message_user_family",
-      "value": "**Gracias @fields.user_name.**\n \nCuéntanos un poco sobre tu familia. Así podremos compartirte consejos que se adapten a ti."
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "question_user_relationship",
-      "value": "¿Cuál es tu estado civil?"
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "placeholder_user_relationship",
-      "value": "Selecciona un estado civil"
+      "value": "Gracias por compartir. Ahora cuéntame sobre tu familia."
     },
     {
       "type": "declare_global_constant",

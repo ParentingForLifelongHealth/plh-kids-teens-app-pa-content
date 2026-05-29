@@ -9,12 +9,12 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 104 |
+| button | 108 |
 | combo_box | 24 |
 | data_items | 236 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 98 |
+| display_group | 102 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 22 |
@@ -30,10 +30,10 @@
 | plh_module_list_item | 2 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
-| round_button | 14 |
+| round_button | 18 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 4277 |
+| set_variable | 4309 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
@@ -41,7 +41,7 @@
 | text | 281 |
 | text_area | 3 |
 | text_box | 21 |
-| text_bubble | 12 |
+| text_bubble | 16 |
 | title | 54 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
@@ -57,13 +57,13 @@
 | add_data | 1 |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 973 |
+| emit: completed | 977 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 991 |
+| emit: uncompleted | 995 |
 | feedback | 13 |
 | go_to | 18 |
 | nav_stack | 497 |
@@ -193,9 +193,7 @@ Assets that have references within sheets but do not appear in app-data
 | path | count |
 | --- | --- |
 | images/comic/relation/calm_yc_3.svg | 2 |
-| images/icons/diamond_blue.svg | 4 |
 | images/icons/heart_filles_blue.png | 4 |
-| images/icons/picture_blue.svg | 2 |
 | images/logos/app_logo.png | 1 |
 | images/logos/plh_logomark.png | 1 |
 </details>
@@ -639,7 +637,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/diamond-outline.svg | 0.6 | 2 |
 | images/icons/diamond.png | 1.8 | 1 |
 | images/icons/diamond_active.png | 1.7 | 1 |
-| images/icons/diamond_blue.png | 4.7 | 4 |
+| images/icons/diamond_blue.png | 4.7 | 8 |
 | images/icons/distance.svg | 87.9 | 6 |
 | images/icons/document-lock-outline.svg | 0.7 | 1 |
 | images/icons/document-text-outline-thin.svg | 0.5 | 1 |
@@ -689,7 +687,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/pencil.svg | 1.1 | 88 |
 | images/icons/people.svg | 11.7 | 4 |
 | images/icons/person-circle-outline.svg | 0.8 | 1 |
-| images/icons/picture_book.svg | 1.8 | 82 |
+| images/icons/picture_book.svg | 1.8 | 84 |
 | images/icons/question_blue.png | 3.4 | 14 |
 | images/icons/question_mark_blue.svg | 0.8 | 1 |
 | images/icons/settings.svg | 2.4 | 1 |
@@ -701,7 +699,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/smile_eyes_down.svg | 0.9 | 80 |
 | images/icons/smile_eyes_up.svg | 1 | 158 |
 | images/icons/spark.png | 1.6 | 4 |
-| images/icons/speech_bubble_blue.png | 4.2 | 42 |
+| images/icons/speech_bubble_blue.png | 4.2 | 44 |
 | images/icons/star_filled_blue.png | 5.1 | 38 |
 | images/icons/star_outline_blue.svg | 1 | 5 |
 | images/icons/target.svg | 4.3 | 24 |
@@ -828,8 +826,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_pipe | generated | 150 |
 | generator |  | 87 |
 | global |  | 10 |
-| global | onboarding | 10 |
-| template |  | 172 |
+| global | onboarding | 13 |
+| template |  | 176 |
 | template | generated | 1103 |
 | template | legal_terms | 4 |
 </details>

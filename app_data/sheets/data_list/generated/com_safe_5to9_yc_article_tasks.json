@@ -76,7 +76,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Esta lección trata sobre aprender a mantener a @fields.child_name a salvo en tu comunidad y crear un \"Plan de seguridad\" para ello."
+          "eng": "Esta lección trata sobre aprender a mantener a @fields.child_name a salvo en tu comunidad y crear un plan de seguridad para ello."
         },
         "text_2": {
           "eng": "¡No eres la única persona pasando por esto! Madres, padres y personas cuidadoras de todo el mundo se preocupan por la seguridad de sus niñas y niños. 🔔"
@@ -161,7 +161,7 @@
       "quiz_1_option_1_text": "La casa",
       "quiz_1_option_2_text": "La casa de una amiga o amigo",
       "quiz_1_option_3_text": "La escuela",
-      "text_1_facilitator": "Esta lección trata sobre aprender a mantener a @fields.child_name a salvo en tu comunidad y crear un \"Plan de seguridad\" para ello.",
+      "text_1_facilitator": "Esta lección trata sobre aprender a mantener a @fields.child_name a salvo en tu comunidad y crear un plan de seguridad para ello.",
       "text_2": "¡No eres la única persona pasando por esto! Madres, padres y personas cuidadoras de todo el mundo se preocupan por la seguridad de sus niñas y niños. 🔔",
       "quiz_1_option_4_text": "Un Centro Religioso",
       "quiz_1_feedback_4": "👀 ¡Ups! ¡Buen intento!\n\n😔 @fields.child_name podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
@@ -233,7 +233,7 @@
       },
       "character_2_text": "Me llamo @data.characters.f3_hija_7.name.",
       "character_3_id": "hombre_en_coche",
-      "character_4_id": "F3_HIJA_7",
+      "character_4_id": "f3_hija_7",
       "character_3_text": "@data.characters.f3_hija_7.name, qué bonito nombre.",
       "character_4_text": "Gracias.",
       "completed": false

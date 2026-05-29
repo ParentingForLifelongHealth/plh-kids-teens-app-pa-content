@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 104
+        "count": 108
       },
       {
         "type": "combo_box",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 98
+        "count": 102
       },
       {
         "type": "drawer",
@@ -111,7 +111,7 @@
       },
       {
         "type": "round_button",
-        "count": 14
+        "count": 18
       },
       {
         "type": "select_text",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 4277
+        "count": 4309
       },
       {
         "type": "simple_checkbox",
@@ -155,7 +155,7 @@
       },
       {
         "type": "text_bubble",
-        "count": 12
+        "count": 16
       },
       {
         "type": "title",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 973
+        "count": 977
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 991
+        "count": 995
       },
       {
         "type": "feedback",
@@ -653,18 +653,8 @@
         "missing": true
       },
       {
-        "path": "images/icons/diamond_blue.svg",
-        "count": 4,
-        "missing": true
-      },
-      {
         "path": "images/icons/heart_filles_blue.png",
         "count": 4,
-        "missing": true
-      },
-      {
-        "path": "images/icons/picture_blue.svg",
-        "count": 2,
         "missing": true
       },
       {
@@ -2843,7 +2833,7 @@
       },
       {
         "path": "images/icons/diamond_blue.png",
-        "count": 4,
+        "count": 8,
         "size_kb": 4.7
       },
       {
@@ -3093,7 +3083,7 @@
       },
       {
         "path": "images/icons/picture_book.svg",
-        "count": 82,
+        "count": 84,
         "size_kb": 1.8
       },
       {
@@ -3153,7 +3143,7 @@
       },
       {
         "path": "images/icons/speech_bubble_blue.png",
-        "count": 42,
+        "count": 44,
         "size_kb": 4.2
       },
       {
@@ -3758,12 +3748,12 @@
       {
         "type": "global",
         "subtype": "onboarding",
-        "total": 10
+        "total": 13
       },
       {
         "type": "template",
         "subtype": null,
-        "total": 172
+        "total": 176
       },
       {
         "type": "template",

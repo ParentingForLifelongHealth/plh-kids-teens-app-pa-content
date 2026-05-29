@@ -1,13 +1,13 @@
 {
   "flow_type": "global",
   "flow_subtype": "onboarding",
-  "flow_name": "onboarding_page_7_child_info",
+  "flow_name": "onboarding_page_9_child_name",
   "status": "released",
   "rows": [
     {
       "type": "declare_global_constant",
       "name": "facilitator_message_one_child",
-      "value": "¿Puedes contarme un poco más sobre tu hija o hijo?"
+      "value": "Cuéntame sobre tu niña, niño o adolescente."
     },
     {
       "type": "declare_global_constant",
@@ -23,16 +23,6 @@
       "type": "declare_global_constant",
       "name": "placeholder_child_name",
       "value": "Ingresa un nombre"
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "question_child_gender",
-      "value": "¿Es niño o niña?"
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "placeholder_child_gender",
-      "value": "Selecciona una opción"
     }
   ]
 }
