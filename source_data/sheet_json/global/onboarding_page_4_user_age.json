@@ -1,23 +1,13 @@
 {
   "flow_type": "global",
   "flow_subtype": "onboarding",
-  "flow_name": "onboarding_page_3_user_info",
+  "flow_name": "onboarding_page_4_user_age",
   "status": "released",
   "rows": [
     {
       "type": "declare_global_constant",
-      "name": "facilitator_message_user_info_1",
-      "value": "**¡Comencemos!**\n \nCuéntame un poco sobre ti."
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "question_user_name",
-      "value": "¿Cuál es tu nombre?"
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "placeholder_user_name",
-      "value": "Escribe tu nombre"
+      "name": "facilitator_message_user_age",
+      "value": "Cada detalle nos ayuda a conocerte mejor."
     },
     {
       "type": "declare_global_constant",

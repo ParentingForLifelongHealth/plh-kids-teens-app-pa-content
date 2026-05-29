@@ -260,10 +260,10 @@
           "eng": "🔴 Dile a @fields.child_name que si siente preocupación, incomodidad o peligro porque alguien le está tocando, debe decírtelo a ti o a una persona adulta en quien confíe.\n\n👂 Si @fields.child_name te cuenta algo que le ha pasado, escúchalo con disposición y dile que ha hecho bien en contártelo. Después, toma las medidas necesarias para mantenerle a salvo. \n\nSiempre cree en lo que te dice @fields.child_name y no le dejes a solas con la persona con la que se siente en peligro."
         },
         "section_5_title": {
-          "eng": "RESPONDE: ¿Qué podría ser de ayuda para lo que está pasando?"
+          "eng": "RESPONDE: ¿QUÉ PODRÍA SER DE AYUDA?"
         },
         "section_5_text": {
-          "eng": "🔶 Puede que tengas que ayudar a @fields.child_name a poder expresar sus sentimientos o a redirigir su atención.\n\n➡️ Puede que necesites Conversar sobre las medidas que tú o @fields.child_name podrían tomar para ayudar con lo que ha ocurrido.\n\n⏸ Más adelante, y solo si es necesario, puedes enseñarle a @fields.child_name sobre las consecuencias. En este momento, @fields.child_name necesita que estés a su lado de manera amorosa.\n\n✅ Recuerda que siempre puedes ir a la biblioteca en la aplicación para obtener información sobre los recursos de tu comunidad donde puedes recibir ayuda."
+          "eng": "Respo\n🔶 Puede que tengas que ayudar a @fields.child_name a poder expresar sus sentimientos o a redirigir su atención.\n\n➡️ Puede que necesites conversar sobre las medidas que tú o @fields.child_name podrían tomar para ayudar con lo que ha ocurrido.\n\n⏸ Más adelante, y solo si es necesario, puedes enseñarle a @fields.child_name sobre las consecuencias. En este momento, @fields.child_name necesita que estés a su lado de manera amorosa.\n\n✅ Recuerda que siempre puedes ir a la biblioteca en la aplicación para obtener información sobre los recursos de tu comunidad donde puedes recibir ayuda."
         }
       },
       "text_1_facilitator": "Recuerda:",
@@ -284,6 +284,7 @@
       "section_2_icon_asset": "images/icons/no.svg",
       "section_3_icon_asset": "images/icons/distance.svg",
       "section_4_icon_asset": "images/icons/parent_child.svg",
+      "section_5_icon_asset": "images/icons/speech_bubble_blue.png",
       "section_1_title": "USA LA HONESTIDAD",
       "section_1_text": "✅ Habla con tu niña o niño sobre cómo nombrar cada parte de su cuerpo. Si @fields.child_name sabe cómo funciona su cuerpo y dónde debe y no debe tocarle la gente, podrá tomar decisiones más seguras a lo largo de su vida.\n\n🔑 Responde con sinceridad a cualquier pregunta que @fields.child_name tenga. Pueden ser sobre cualquier parte de su propio cuerpo o del otro sexo, ¡incluso sobre las partes privadas!\n\n💚 Esto les enseña que es seguro preguntar sobre el cuerpo, lo que significa que aprenderá más y será más fácil mantenerle a salvo.\n\n👀 Enseñarle a @fields.child_name sobre su cuerpo completo, incluso siendo pequeña o pequeño, significa que sabrá cómo Conversar de ello si ocurre algo que considere peligroso o inseguro.",
       "section_2_title": "DECIR \"NO\", ¡ESTÁ BIEN!",
@@ -292,8 +293,8 @@
       "section_3_text": "💡 Enséñale a @fields.child_name a siempre alejarse de cualquier situación en la que sienta incomodidad.\n\n🚩 En la mayoría de los casos, las personas agresoras rara vez son desconocidas para nuestras niñas y niños. Suelen ser personas conocidas del niño y/o de sus personas cuidadoras.\n\n❗ Al compartir un tiempo con tu niño a través de juegos físicos como  \"luchitas\", practiquen el decir \"no\" y respeta sus límites. Si @fields.child_name dice \"no\", detén el juego inmediatamente. Esto le capacita para también decir NO en situaciones de peligro fuera de casa.\n\n🌷 No será fácil para el niño alejarse de esas situaciones, pero enseñarle a salir de situaciones incómodas o peligrosas será una habilidad valiosa para toda la vida.",
       "section_4_title": "CONTARLE A UNA PERSONA ADULTA",
       "section_4_text": "🔴 Dile a @fields.child_name que si siente preocupación, incomodidad o peligro porque alguien le está tocando, debe decírtelo a ti o a una persona adulta en quien confíe.\n\n👂 Si @fields.child_name te cuenta algo que le ha pasado, escúchalo con disposición y dile que ha hecho bien en contártelo. Después, toma las medidas necesarias para mantenerle a salvo. \n\nSiempre cree en lo que te dice @fields.child_name y no le dejes a solas con la persona con la que se siente en peligro.",
-      "section_5_title": "RESPONDE: ¿Qué podría ser de ayuda para lo que está pasando?",
-      "section_5_text": "🔶 Puede que tengas que ayudar a @fields.child_name a poder expresar sus sentimientos o a redirigir su atención.\n\n➡️ Puede que necesites Conversar sobre las medidas que tú o @fields.child_name podrían tomar para ayudar con lo que ha ocurrido.\n\n⏸ Más adelante, y solo si es necesario, puedes enseñarle a @fields.child_name sobre las consecuencias. En este momento, @fields.child_name necesita que estés a su lado de manera amorosa.\n\n✅ Recuerda que siempre puedes ir a la biblioteca en la aplicación para obtener información sobre los recursos de tu comunidad donde puedes recibir ayuda.",
+      "section_5_title": "RESPONDE: ¿QUÉ PODRÍA SER DE AYUDA?",
+      "section_5_text": "Respo\n🔶 Puede que tengas que ayudar a @fields.child_name a poder expresar sus sentimientos o a redirigir su atención.\n\n➡️ Puede que necesites conversar sobre las medidas que tú o @fields.child_name podrían tomar para ayudar con lo que ha ocurrido.\n\n⏸ Más adelante, y solo si es necesario, puedes enseñarle a @fields.child_name sobre las consecuencias. En este momento, @fields.child_name necesita que estés a su lado de manera amorosa.\n\n✅ Recuerda que siempre puedes ir a la biblioteca en la aplicación para obtener información sobre los recursos de tu comunidad donde puedes recibir ayuda.",
       "completed": false
     },
     {
@@ -305,7 +306,7 @@
           "eng": "**Actividad para casa**⭐ \n\n🚩 Platica con @fields.child_name sobre el contacto físico seguro e inseguro. \n\nAyúdale a practicar diciendo: \"¡No, no hagas eso!\" o \"¡No! ¡Detente!\" y recuérdale que es importante que le diga a una persona adulta si algo pasa."
         },
         "quiz_1_question": {
-          "eng": "¿Puedes Conversar esto con @fields.child_name hoy? ⏰"
+          "eng": "¿Puedes conversar esto con @fields.child_name hoy? ⏰"
         },
         "quiz_1_option_1_text": {
           "eng": "Sí"
@@ -330,7 +331,7 @@
         "text_1_facilitator": {}
       },
       "quiz_1_feedback_2": "¡Está bien! Si hoy no tienes tiempo, aparta un espacio para mañana. Conversar de esto con @fields.child_name le ayudará a protegerse si alguna vez siente inseguridad o incomodidad cuando alguien le toca.\n💙 ¡Lo estás haciendo muy bien!",
-      "quiz_1_question": "¿Puedes Conversar esto con @fields.child_name hoy? ⏰",
+      "quiz_1_question": "¿Puedes conversar esto con @fields.child_name hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\n🚩 Platica con @fields.child_name sobre el contacto físico seguro e inseguro. \n\nAyúdale a practicar diciendo: \"¡No, no hagas eso!\" o \"¡No! ¡Detente!\" y recuérdale que es importante que le diga a una persona adulta si algo pasa.",

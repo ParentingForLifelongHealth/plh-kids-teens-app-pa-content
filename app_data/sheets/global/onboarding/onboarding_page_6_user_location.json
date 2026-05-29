@@ -1,53 +1,53 @@
 {
   "flow_type": "global",
   "flow_subtype": "onboarding",
-  "flow_name": "onboarding_page_7_child_info",
+  "flow_name": "onboarding_page_6_user_location",
   "status": "released",
   "rows": [
     {
       "type": "declare_global_constant",
-      "name": "facilitator_message_one_child",
-      "value": "¿Puedes contarme un poco más sobre tu hija o hijo?",
+      "name": "facilitator_message_user_location",
+      "value": "Sigamos conociéndonos.",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "facilitator_message_multiple_children",
-      "value": "Para comenzar, pensemos en la niña, niño o adolescente con quien enfrentas más retos. Así podré darte orientación adecuada a su edad.",
+      "name": "question_user_location",
+      "value": "¿En qué provincia o comarca de Panamá vives?",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "question_child_name",
-      "value": "¿Cómo se llama tu niña, niño o adolescente?",
+      "name": "placeholder_user_location",
+      "value": "Selecciona una locación",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "placeholder_child_name",
-      "value": "Ingresa un nombre",
+      "name": "question_user_district",
+      "value": "¿En qué distrito de @local.district_name vives?",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "question_child_gender",
-      "value": "¿Es niño o niña?",
+      "name": "question_user_district_undefined",
+      "value": "¿En qué distrito vives?",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "placeholder_child_gender",
-      "value": "Selecciona una opción",
+      "name": "placeholder_user_district",
+      "value": "Selecciona un distrito",
       "_translations": {
         "value": {}
       }

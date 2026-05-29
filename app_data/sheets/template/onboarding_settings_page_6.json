@@ -146,7 +146,7 @@
     {
       "type": "text_bubble",
       "name": "text_bubble",
-      "value": "@global.facilitator_message_user_family",
+      "value": "@global.facilitator_message_user_location",
       "_translations": {
         "value": {}
       },
@@ -161,10 +161,10 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@global.facilitator_message_user_family",
-            "matchedExpression": "@global.facilitator_message_user_family",
+            "fullExpression": "@global.facilitator_message_user_location",
+            "matchedExpression": "@global.facilitator_message_user_location",
             "type": "global",
-            "fieldName": "facilitator_message_user_family"
+            "fieldName": "facilitator_message_user_location"
           }
         ],
         "parameter_list": {
@@ -203,7 +203,7 @@
         }
       },
       "_dynamicDependencies": {
-        "@global.facilitator_message_user_family": [
+        "@global.facilitator_message_user_location": [
           "value"
         ],
         "@local.speaker_image_asset": [
@@ -222,377 +222,532 @@
     },
     {
       "type": "text",
-      "name": "question_user_relationship",
-      "value": "@global.question_user_relationship",
+      "name": "question_user_location",
+      "value": "@global.question_user_location",
       "_translations": {
         "value": {}
       },
       "parameter_list": {
         "style": "emphasised"
       },
-      "_nested_name": "question_user_relationship",
+      "_nested_name": "question_user_location",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@global.question_user_relationship",
-            "matchedExpression": "@global.question_user_relationship",
+            "fullExpression": "@global.question_user_location",
+            "matchedExpression": "@global.question_user_location",
             "type": "global",
-            "fieldName": "question_user_relationship"
+            "fieldName": "question_user_location"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@global.question_user_relationship": [
+        "@global.question_user_location": [
           "value"
         ]
       }
     },
     {
       "type": "combo_box",
-      "name": "user_relationship_select",
-      "value": "@fields.user_relationship",
+      "name": "user_location_select",
+      "value": "@fields.user_location",
       "_translations": {
         "value": {}
       },
       "parameter_list": {
-        "answer_list": "@data.user_relationship",
-        "placeholder": "@global.placeholder_user_relationship",
+        "answer_list": "@data.user_location",
+        "placeholder": "@global.placeholder_user_location",
         "variant": "dropdown"
       },
-      "condition": "!!@fields.user_relationship",
+      "condition": "!!@fields.user_location",
       "exclude_from_translation": true,
-      "_nested_name": "user_relationship_select",
+      "_nested_name": "user_location_select",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@fields.user_relationship",
-            "matchedExpression": "@fields.user_relationship",
+            "fullExpression": "@fields.user_location",
+            "matchedExpression": "@fields.user_location",
             "type": "fields",
-            "fieldName": "user_relationship"
+            "fieldName": "user_location"
           }
         ],
         "parameter_list": {
           "answer_list": [
             {
-              "fullExpression": "@data.user_relationship",
-              "matchedExpression": "@data.user_relationship",
+              "fullExpression": "@data.user_location",
+              "matchedExpression": "@data.user_location",
               "type": "data",
-              "fieldName": "user_relationship"
+              "fieldName": "user_location"
             }
           ],
           "placeholder": [
             {
-              "fullExpression": "@global.placeholder_user_relationship",
-              "matchedExpression": "@global.placeholder_user_relationship",
+              "fullExpression": "@global.placeholder_user_location",
+              "matchedExpression": "@global.placeholder_user_location",
               "type": "global",
-              "fieldName": "placeholder_user_relationship"
+              "fieldName": "placeholder_user_location"
             }
           ]
         },
         "condition": [
           {
-            "fullExpression": "!!@fields.user_relationship",
-            "matchedExpression": "!@fields.user_relationship",
+            "fullExpression": "!!@fields.user_location",
+            "matchedExpression": "!@fields.user_location",
             "type": "fields",
-            "fieldName": "user_relationship"
+            "fieldName": "user_location"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@fields.user_relationship": [
+        "@fields.user_location": [
           "value"
         ],
-        "@data.user_relationship": [
+        "@data.user_location": [
           "parameter_list.answer_list"
         ],
-        "@global.placeholder_user_relationship": [
+        "@global.placeholder_user_location": [
           "parameter_list.placeholder"
         ],
-        "!@fields.user_relationship": [
+        "!@fields.user_location": [
           "condition"
         ]
       }
     },
     {
       "type": "combo_box",
-      "name": "user_relationship_select",
+      "name": "user_location_select",
       "parameter_list": {
-        "answer_list": "@data.user_relationship",
-        "placeholder": "@global.placeholder_user_relationship",
+        "answer_list": "@data.user_location",
+        "placeholder": "@global.placeholder_user_location",
         "variant": "dropdown"
       },
-      "condition": "!@fields.user_relationship",
+      "condition": "!@fields.user_location",
       "exclude_from_translation": true,
-      "_nested_name": "user_relationship_select",
+      "_nested_name": "user_location_select",
       "_dynamicFields": {
         "parameter_list": {
           "answer_list": [
             {
-              "fullExpression": "@data.user_relationship",
-              "matchedExpression": "@data.user_relationship",
+              "fullExpression": "@data.user_location",
+              "matchedExpression": "@data.user_location",
               "type": "data",
-              "fieldName": "user_relationship"
+              "fieldName": "user_location"
             }
           ],
           "placeholder": [
             {
-              "fullExpression": "@global.placeholder_user_relationship",
-              "matchedExpression": "@global.placeholder_user_relationship",
+              "fullExpression": "@global.placeholder_user_location",
+              "matchedExpression": "@global.placeholder_user_location",
               "type": "global",
-              "fieldName": "placeholder_user_relationship"
+              "fieldName": "placeholder_user_location"
             }
           ]
         },
         "condition": [
           {
-            "fullExpression": "!@fields.user_relationship",
-            "matchedExpression": "!@fields.user_relationship",
+            "fullExpression": "!@fields.user_location",
+            "matchedExpression": "!@fields.user_location",
             "type": "fields",
-            "fieldName": "user_relationship"
+            "fieldName": "user_location"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@data.user_relationship": [
+        "@data.user_location": [
           "parameter_list.answer_list"
         ],
-        "@global.placeholder_user_relationship": [
+        "@global.placeholder_user_location": [
           "parameter_list.placeholder"
         ],
-        "!@fields.user_relationship": [
+        "!@fields.user_location": [
           "condition"
         ]
       }
     },
     {
-      "type": "text",
-      "name": "question_household_children",
-      "value": "@global.question_household_children",
-      "_translations": {
-        "value": {}
-      },
-      "parameter_list": {
-        "style": "emphasised"
-      },
-      "exclude_from_translation": true,
-      "_nested_name": "question_household_children",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@global.question_household_children",
-            "matchedExpression": "@global.question_household_children",
-            "type": "global",
-            "fieldName": "question_household_children"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@global.question_household_children": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "text_box",
-      "name": "household_children_input",
-      "value": "@fields.household_children",
-      "_translations": {
-        "value": {}
-      },
-      "parameter_list": {
-        "placeholder": "@global.placeholder_household_children",
-        "number_input": "true"
-      },
-      "condition": "!!@fields.household_children",
-      "exclude_from_translation": true,
-      "_nested_name": "household_children_input",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@fields.household_children",
-            "matchedExpression": "@fields.household_children",
-            "type": "fields",
-            "fieldName": "household_children"
-          }
-        ],
-        "parameter_list": {
-          "placeholder": [
-            {
-              "fullExpression": "@global.placeholder_household_children",
-              "matchedExpression": "@global.placeholder_household_children",
-              "type": "global",
-              "fieldName": "placeholder_household_children"
-            }
-          ]
-        },
-        "condition": [
-          {
-            "fullExpression": "!!@fields.household_children",
-            "matchedExpression": "!@fields.household_children",
-            "type": "fields",
-            "fieldName": "household_children"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@fields.household_children": [
-          "value"
-        ],
-        "@global.placeholder_household_children": [
-          "parameter_list.placeholder"
-        ],
-        "!@fields.household_children": [
-          "condition"
-        ]
-      }
-    },
-    {
-      "type": "text_box",
-      "name": "household_children_input",
-      "parameter_list": {
-        "placeholder": "@global.placeholder_household_children",
-        "number_input": "true"
-      },
-      "condition": "!@fields.household_children",
-      "exclude_from_translation": true,
-      "_nested_name": "household_children_input",
-      "_dynamicFields": {
-        "parameter_list": {
-          "placeholder": [
-            {
-              "fullExpression": "@global.placeholder_household_children",
-              "matchedExpression": "@global.placeholder_household_children",
-              "type": "global",
-              "fieldName": "placeholder_household_children"
-            }
-          ]
-        },
-        "condition": [
-          {
-            "fullExpression": "!@fields.household_children",
-            "matchedExpression": "!@fields.household_children",
-            "type": "fields",
-            "fieldName": "household_children"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@global.placeholder_household_children": [
-          "parameter_list.placeholder"
-        ],
-        "!@fields.household_children": [
-          "condition"
-        ]
-      }
-    },
-    {
-      "name": "valid_household_children_input",
-      "value": "@calc((/^\\d+$/.test(@local.household_children_input) && @local.household_children_input>= 1 && @local.household_children_input<= 20) || @local.household_children_input == '' || !@local.household_children_input)",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
+      "name": "district_name",
       "type": "set_variable",
-      "_nested_name": "valid_household_children_input",
+      "_nested_name": "district_name"
+    },
+    {
+      "type": "data_items",
+      "name": "get_district_name",
+      "value": "@data.user_location",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "data_changed",
+          "action_id": "set_local",
+          "args": [
+            "district_name",
+            "@items[0]?.text",
+            "",
+            "eng"
+          ],
+          "_raw": "data_changed | set_local : district_name: @items[0]?.text::eng"
+        }
+      ],
+      "parameter_list": {
+        "filter": "@item.id == @local.user_location_select",
+        "limit": "1"
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "get_district_name",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@calc((/^\\d+$/.test(@local.household_children_input) && @local.household_children_input>= 1 && @local.household_children_input<= 20) || @local.household_children_input == '' || !@local.household_children_input)",
-            "matchedExpression": "@local.household_children_input",
-            "type": "local",
-            "fieldName": "household_children_input"
-          },
-          {
-            "fullExpression": "@calc((/^\\d+$/.test(@local.household_children_input) && @local.household_children_input>= 1 && @local.household_children_input<= 20) || @local.household_children_input == '' || !@local.household_children_input)",
-            "matchedExpression": "@local.household_children_input",
-            "type": "local",
-            "fieldName": "household_children_input"
-          },
-          {
-            "fullExpression": "@calc((/^\\d+$/.test(@local.household_children_input) && @local.household_children_input>= 1 && @local.household_children_input<= 20) || @local.household_children_input == '' || !@local.household_children_input)",
-            "matchedExpression": "@local.household_children_input",
-            "type": "local",
-            "fieldName": "household_children_input"
-          },
-          {
-            "fullExpression": "@calc((/^\\d+$/.test(@local.household_children_input) && @local.household_children_input>= 1 && @local.household_children_input<= 20) || @local.household_children_input == '' || !@local.household_children_input)",
-            "matchedExpression": "@local.household_children_input",
-            "type": "local",
-            "fieldName": "household_children_input"
-          },
-          {
-            "fullExpression": "@calc((/^\\d+$/.test(@local.household_children_input) && @local.household_children_input>= 1 && @local.household_children_input<= 20) || @local.household_children_input == '' || !@local.household_children_input)",
-            "matchedExpression": "!@local.household_children_input",
-            "type": "local",
-            "fieldName": "household_children_input"
-          },
-          {
-            "fullExpression": "@calc((/^\\d+$/.test(@local.household_children_input) && @local.household_children_input>= 1 && @local.household_children_input<= 20) || @local.household_children_input == '' || !@local.household_children_input)",
-            "matchedExpression": "@calc((/^\\d+$/.test(@local.household_children_input) && @local.household_children_input>= 1 && @local.household_children_input<= 20) || @local.household_children_input == '' || !@local.household_children_input)",
-            "type": "calc",
-            "fieldName": "(/^\\d+$/.test(@local.household_children_input) && @local.household_children_input>= 1 && @local.household_children_input<= 20) || @local.household_children_input == '' || !@local.household_children_input"
+            "fullExpression": "@data.user_location",
+            "matchedExpression": "@data.user_location",
+            "type": "data",
+            "fieldName": "user_location"
           }
-        ]
+        ],
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.id == @local.user_location_select",
+              "matchedExpression": "@item.id",
+              "type": "item",
+              "fieldName": "id"
+            },
+            {
+              "fullExpression": "@item.id == @local.user_location_select",
+              "matchedExpression": "@local.user_location_select",
+              "type": "local",
+              "fieldName": "user_location_select"
+            }
+          ]
+        }
       },
       "_dynamicDependencies": {
-        "@local.household_children_input": [
-          "value",
-          "value",
-          "value",
+        "@data.user_location": [
           "value"
         ],
-        "!@local.household_children_input": [
-          "value"
+        "@item.id": [
+          "parameter_list.filter"
         ],
-        "@calc((/^\\d+$/.test(@local.household_children_input) && @local.household_children_input>= 1 && @local.household_children_input<= 20) || @local.household_children_input == '' || !@local.household_children_input)": [
-          "value"
+        "@local.user_location_select": [
+          "parameter_list.filter"
         ]
       }
     },
     {
       "type": "text",
-      "name": "warning_household_children_input",
-      "value": "@global.household_children_input_restriction",
+      "name": "question_user_district_undef",
+      "value": "@global.question_user_district_undefined",
       "_translations": {
         "value": {}
       },
-      "condition": "!@local.valid_household_children_input",
-      "style_list": [
-        "color: #FF0000",
-        "font-size: 14px"
-      ],
-      "exclude_from_translation": true,
-      "_nested_name": "warning_household_children_input",
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "condition": "!@local.user_location_select",
+      "_nested_name": "question_user_district_undef",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@global.household_children_input_restriction",
-            "matchedExpression": "@global.household_children_input_restriction",
+            "fullExpression": "@global.question_user_district_undefined",
+            "matchedExpression": "@global.question_user_district_undefined",
             "type": "global",
-            "fieldName": "household_children_input_restriction"
+            "fieldName": "question_user_district_undefined"
           }
         ],
         "condition": [
           {
-            "fullExpression": "!@local.valid_household_children_input",
-            "matchedExpression": "!@local.valid_household_children_input",
+            "fullExpression": "!@local.user_location_select",
+            "matchedExpression": "!@local.user_location_select",
             "type": "local",
-            "fieldName": "valid_household_children_input"
+            "fieldName": "user_location_select"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@global.household_children_input_restriction": [
+        "@global.question_user_district_undefined": [
           "value"
         ],
-        "!@local.valid_household_children_input": [
+        "!@local.user_location_select": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "question_user_district",
+      "value": "@global.question_user_district",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "condition": "!!@local.user_location_select",
+      "_nested_name": "question_user_district",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.question_user_district",
+            "matchedExpression": "@global.question_user_district",
+            "type": "global",
+            "fieldName": "question_user_district"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!@local.user_location_select",
+            "matchedExpression": "!@local.user_location_select",
+            "type": "local",
+            "fieldName": "user_location_select"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.question_user_district": [
+          "value"
+        ],
+        "!@local.user_location_select": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "combo_box",
+      "name": "user_district_select",
+      "value": "@fields.user_location_district",
+      "parameter_list": {
+        "placeholder": "@global.placeholder_user_district",
+        "variant": "dropdown"
+      },
+      "condition": "!!@fields.user_location_district",
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "type": "data_items",
+          "value": "user_location_district",
+          "parameter_list": {
+            "filter": "@item.province == @local.user_location_select"
+          },
+          "condition": "!!@fields.user_location_district",
+          "exclude_from_translation": true,
+          "rows": [],
+          "name": "data_items_1",
+          "_nested_name": "user_district_select.data_items_1",
+          "_dynamicFields": {
+            "parameter_list": {
+              "filter": [
+                {
+                  "fullExpression": "@item.province == @local.user_location_select",
+                  "matchedExpression": "@item.province",
+                  "type": "item",
+                  "fieldName": "province"
+                },
+                {
+                  "fullExpression": "@item.province == @local.user_location_select",
+                  "matchedExpression": "@local.user_location_select",
+                  "type": "local",
+                  "fieldName": "user_location_select"
+                }
+              ]
+            },
+            "condition": [
+              {
+                "fullExpression": "!!@fields.user_location_district",
+                "matchedExpression": "!@fields.user_location_district",
+                "type": "fields",
+                "fieldName": "user_location_district"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.province": [
+              "parameter_list.filter"
+            ],
+            "@local.user_location_select": [
+              "parameter_list.filter"
+            ],
+            "!@fields.user_location_district": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "user_district_select",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields.user_location_district",
+            "matchedExpression": "@fields.user_location_district",
+            "type": "fields",
+            "fieldName": "user_location_district"
+          }
+        ],
+        "parameter_list": {
+          "placeholder": [
+            {
+              "fullExpression": "@global.placeholder_user_district",
+              "matchedExpression": "@global.placeholder_user_district",
+              "type": "global",
+              "fieldName": "placeholder_user_district"
+            }
+          ]
+        },
+        "condition": [
+          {
+            "fullExpression": "!!@fields.user_location_district",
+            "matchedExpression": "!@fields.user_location_district",
+            "type": "fields",
+            "fieldName": "user_location_district"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.user_location_district": [
+          "value"
+        ],
+        "@global.placeholder_user_district": [
+          "parameter_list.placeholder"
+        ],
+        "!@fields.user_location_district": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "combo_box",
+      "name": "user_district_select",
+      "parameter_list": {
+        "placeholder": "@global.placeholder_user_district",
+        "variant": "dropdown"
+      },
+      "condition": "!@fields.user_location_district",
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "type": "data_items",
+          "value": "user_location_district",
+          "parameter_list": {
+            "filter": "@item.province == @local.user_location_select"
+          },
+          "condition": "!@fields.user_location_district && !!@local.user_location_select",
+          "exclude_from_translation": true,
+          "rows": [],
+          "name": "data_items_1",
+          "_nested_name": "user_district_select.data_items_1",
+          "_dynamicFields": {
+            "parameter_list": {
+              "filter": [
+                {
+                  "fullExpression": "@item.province == @local.user_location_select",
+                  "matchedExpression": "@item.province",
+                  "type": "item",
+                  "fieldName": "province"
+                },
+                {
+                  "fullExpression": "@item.province == @local.user_location_select",
+                  "matchedExpression": "@local.user_location_select",
+                  "type": "local",
+                  "fieldName": "user_location_select"
+                }
+              ]
+            },
+            "condition": [
+              {
+                "fullExpression": "!@fields.user_location_district && !!@local.user_location_select",
+                "matchedExpression": "!@fields.user_location_district",
+                "type": "fields",
+                "fieldName": "user_location_district"
+              },
+              {
+                "fullExpression": "!@fields.user_location_district && !!@local.user_location_select",
+                "matchedExpression": "!@local.user_location_select",
+                "type": "local",
+                "fieldName": "user_location_select"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.province": [
+              "parameter_list.filter"
+            ],
+            "@local.user_location_select": [
+              "parameter_list.filter"
+            ],
+            "!@fields.user_location_district": [
+              "condition"
+            ],
+            "!@local.user_location_select": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "data_items",
+          "value": "user_location_district",
+          "condition": "!@fields.user_location_district && !@local.user_location_select",
+          "exclude_from_translation": true,
+          "rows": [],
+          "name": "data_items_2",
+          "_nested_name": "user_district_select.data_items_2",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "!@fields.user_location_district && !@local.user_location_select",
+                "matchedExpression": "!@fields.user_location_district",
+                "type": "fields",
+                "fieldName": "user_location_district"
+              },
+              {
+                "fullExpression": "!@fields.user_location_district && !@local.user_location_select",
+                "matchedExpression": "!@local.user_location_select",
+                "type": "local",
+                "fieldName": "user_location_select"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "!@fields.user_location_district": [
+              "condition"
+            ],
+            "!@local.user_location_select": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "user_district_select",
+      "_dynamicFields": {
+        "parameter_list": {
+          "placeholder": [
+            {
+              "fullExpression": "@global.placeholder_user_district",
+              "matchedExpression": "@global.placeholder_user_district",
+              "type": "global",
+              "fieldName": "placeholder_user_district"
+            }
+          ]
+        },
+        "condition": [
+          {
+            "fullExpression": "!@fields.user_location_district",
+            "matchedExpression": "!@fields.user_location_district",
+            "type": "fields",
+            "fieldName": "user_location_district"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.placeholder_user_district": [
+          "parameter_list.placeholder"
+        ],
+        "!@fields.user_location_district": [
           "condition"
         ]
       }
     },
     {
       "name": "completed_enabled",
-      "value": "!!@local.household_children_input && @local.valid_household_children_input && !!@local.user_relationship_select",
+      "value": "!!@local.user_location_select && !!@local.user_district_select",
       "_translations": {
         "value": {}
       },
@@ -602,33 +757,24 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "!!@local.household_children_input && @local.valid_household_children_input && !!@local.user_relationship_select",
-            "matchedExpression": "!@local.household_children_input",
+            "fullExpression": "!!@local.user_location_select && !!@local.user_district_select",
+            "matchedExpression": "!@local.user_location_select",
             "type": "local",
-            "fieldName": "household_children_input"
+            "fieldName": "user_location_select"
           },
           {
-            "fullExpression": "!!@local.household_children_input && @local.valid_household_children_input && !!@local.user_relationship_select",
-            "matchedExpression": "@local.valid_household_children_input",
+            "fullExpression": "!!@local.user_location_select && !!@local.user_district_select",
+            "matchedExpression": "!@local.user_district_select",
             "type": "local",
-            "fieldName": "valid_household_children_input"
-          },
-          {
-            "fullExpression": "!!@local.household_children_input && @local.valid_household_children_input && !!@local.user_relationship_select",
-            "matchedExpression": "!@local.user_relationship_select",
-            "type": "local",
-            "fieldName": "user_relationship_select"
+            "fieldName": "user_district_select"
           }
         ]
       },
       "_dynamicDependencies": {
-        "!@local.household_children_input": [
+        "!@local.user_location_select": [
           "value"
         ],
-        "@local.valid_household_children_input": [
-          "value"
-        ],
-        "!@local.user_relationship_select": [
+        "!@local.user_district_select": [
           "value"
         ]
       }
@@ -674,19 +820,19 @@
               "trigger": "click",
               "action_id": "set_field",
               "args": [
-                "household_children",
-                "@local.household_children_input"
+                "user_location",
+                "@local.user_location_select"
               ],
-              "_raw": "click | set_field: household_children: @local.household_children_input"
+              "_raw": "click | set_field: user_location: @local.user_location_select"
             },
             {
               "trigger": "click",
               "action_id": "set_field",
               "args": [
-                "user_relationship",
-                "@local.user_relationship_select"
+                "user_location_district",
+                "@local.user_district_select"
               ],
-              "_raw": "click | set_field: user_relationship: @local.user_relationship_select"
+              "_raw": "click | set_field: user_location_district: @local.user_district_select"
             },
             {
               "trigger": "click",
@@ -719,19 +865,19 @@
                 "args": {
                   "1": [
                     {
-                      "fullExpression": "@local.household_children_input",
-                      "matchedExpression": "@local.household_children_input",
+                      "fullExpression": "@local.user_location_select",
+                      "matchedExpression": "@local.user_location_select",
                       "type": "local",
-                      "fieldName": "household_children_input"
+                      "fieldName": "user_location_select"
                     }
                   ]
                 },
                 "_raw": [
                   {
-                    "fullExpression": "click | set_field: household_children: @local.household_children_input",
-                    "matchedExpression": "@local.household_children_input",
+                    "fullExpression": "click | set_field: user_location: @local.user_location_select",
+                    "matchedExpression": "@local.user_location_select",
                     "type": "local",
-                    "fieldName": "household_children_input"
+                    "fieldName": "user_location_select"
                   }
                 ]
               },
@@ -739,19 +885,19 @@
                 "args": {
                   "1": [
                     {
-                      "fullExpression": "@local.user_relationship_select",
-                      "matchedExpression": "@local.user_relationship_select",
+                      "fullExpression": "@local.user_district_select",
+                      "matchedExpression": "@local.user_district_select",
                       "type": "local",
-                      "fieldName": "user_relationship_select"
+                      "fieldName": "user_district_select"
                     }
                   ]
                 },
                 "_raw": [
                   {
-                    "fullExpression": "click | set_field: user_relationship: @local.user_relationship_select",
-                    "matchedExpression": "@local.user_relationship_select",
+                    "fullExpression": "click | set_field: user_location_district: @local.user_district_select",
+                    "matchedExpression": "@local.user_district_select",
                     "type": "local",
-                    "fieldName": "user_relationship_select"
+                    "fieldName": "user_district_select"
                   }
                 ]
               }
@@ -771,11 +917,11 @@
             "@global.continue": [
               "value"
             ],
-            "@local.household_children_input": [
+            "@local.user_location_select": [
               "action_list.0.args.1",
               "action_list.0._raw"
             ],
-            "@local.user_relationship_select": [
+            "@local.user_district_select": [
               "action_list.1.args.1",
               "action_list.1._raw"
             ],

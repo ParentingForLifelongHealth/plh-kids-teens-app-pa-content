@@ -1,7 +1,7 @@
 {
   "flow_type": "global",
   "flow_subtype": "onboarding",
-  "flow_name": "onboarding_page_8_child_age",
+  "flow_name": "onboarding_page_11_child_age",
   "status": "released",
   "rows": [
     {
@@ -24,6 +24,14 @@
       "type": "declare_global_constant",
       "name": "placeholder_child_age",
       "value": "Ingresa su edad",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_message_child_relation",
+      "value": "¡Casi listo!",
       "_translations": {
         "value": {}
       }

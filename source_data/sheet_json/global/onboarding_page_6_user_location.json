@@ -1,13 +1,13 @@
 {
   "flow_type": "global",
   "flow_subtype": "onboarding",
-  "flow_name": "onboarding_page_5_user_info",
+  "flow_name": "onboarding_page_6_user_location",
   "status": "released",
   "rows": [
     {
       "type": "declare_global_constant",
-      "name": "facilitator_message_user_info_3",
-      "value": "**¡Gracias!**\n \nEsta información nos ayuda a entenderte mejor."
+      "name": "facilitator_message_user_location",
+      "value": "Sigamos conociéndonos."
     },
     {
       "type": "declare_global_constant",
