@@ -16,6 +16,11 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "asset_pack_name",
+      "value": "assets_@fields._app_language"
+    },
+    {
+      "type": "declare_global_constant",
       "name": "has_onboarding_splash",
       "value": false
     },

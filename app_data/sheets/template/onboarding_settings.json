@@ -472,27 +472,6 @@
           }
         },
         {
-          "type": "button",
-          "condition": "@global.has_remote_assets",
-          "name": "button_4",
-          "_nested_name": "page_finished.button_4",
-          "_dynamicFields": {
-            "condition": [
-              {
-                "fullExpression": "@global.has_remote_assets",
-                "matchedExpression": "@global.has_remote_assets",
-                "type": "global",
-                "fieldName": "has_remote_assets"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@global.has_remote_assets": [
-              "condition"
-            ]
-          }
-        },
-        {
           "type": "display_group",
           "name": "dg_footer",
           "parameter_list": {

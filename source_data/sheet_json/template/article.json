@@ -687,6 +687,32 @@
     },
     {
       "type": "begin_template",
+      "name": "section_6",
+      "value": "section",
+      "condition": "!!(@local.article_data.section_6_text) || !!(@local.article_data.section_6_image_asset)",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "article_id",
+      "value": "@local.article_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "module_id",
+      "value": "@local.module_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "section_no",
+      "value": 6,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_template",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_template",
       "name": "nav_buttons",
       "value": "nav_buttons",
       "action_list": "completed | emit: completed; uncompleted | emit: uncompleted;",
