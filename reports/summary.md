@@ -9,7 +9,7 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 109 |
+| button | 108 |
 | combo_box | 24 |
 | data_items | 236 |
 | debug_toggle | 1 |
@@ -33,11 +33,11 @@
 | round_button | 18 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 4313 |
+| set_variable | 4316 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 1366 |
+| template | 1367 |
 | text | 281 |
 | text_area | 3 |
 | text_box | 21 |

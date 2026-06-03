@@ -107,10 +107,6 @@
       "parameter_list": "text_align: center"
     },
     {
-      "type": "button",
-      "condition": "@global.has_remote_assets"
-    },
-    {
       "type": "begin_display_group",
       "name": "dg_footer",
       "parameter_list": "sticky: bottom;",
