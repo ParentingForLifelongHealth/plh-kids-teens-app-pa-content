@@ -11,13 +11,13 @@
       "category_id": "intro",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "text_1_facilitator": "¡Te damos la bienvenida a tu primera lección en @global.app_name!\n\nCada sesión comienza con un momento para relajarte y un breve registro sobre cómo te sientes.\n\nAprenderás consejos sencillos de crianza y, al final de cada habilidad, encontrarás una actividad para practicar en casa con tu niña, niño o adolescente.\n\nCompleta el curso y responde las preguntas sobre las actividades prácticas para obtener tu certificado. 🎉",
+      "text_1_facilitator": "¡Te damos la bienvenida a tu primera sesión en @global.app_name!\n\nCada sesión comienza con un momento para relajarte y un breve registro sobre cómo te sientes.\n\nAprenderás consejos sencillos de crianza y, al final de cada sesión, encontrarás una actividad para practicar en casa con tu niña, niño o adolescente.\n\nCompleta el curso y responde las preguntas sobre las actividades prácticas para obtener tu certificado. 🎉",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "¡Te damos la bienvenida a tu primera lección en @global.app_name!\n\nCada sesión comienza con un momento para relajarte y un breve registro sobre cómo te sientes.\n\nAprenderás consejos sencillos de crianza y, al final de cada habilidad, encontrarás una actividad para practicar en casa con tu niña, niño o adolescente.\n\nCompleta el curso y responde las preguntas sobre las actividades prácticas para obtener tu certificado. 🎉"
+          "eng": "¡Te damos la bienvenida a tu primera sesión en @global.app_name!\n\nCada sesión comienza con un momento para relajarte y un breve registro sobre cómo te sientes.\n\nAprenderás consejos sencillos de crianza y, al final de cada sesión, encontrarás una actividad para practicar en casa con tu niña, niño o adolescente.\n\nCompleta el curso y responde las preguntas sobre las actividades prácticas para obtener tu certificado. 🎉"
         }
       }
     },
@@ -26,7 +26,7 @@
       "category_id": "intro",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "text_1_facilitator": "La lección de hoy trata sobre cómo pasar tiempo juntos y conectados con @fields.child_name 😃",
+      "text_1_facilitator": "La sesión de hoy trata sobre cómo pasar tiempo juntos y conectados con @fields.child_name 😃",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {},
@@ -38,7 +38,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "La lección de hoy trata sobre cómo pasar tiempo juntos y conectados con @fields.child_name 😃"
+          "eng": "La sesión de hoy trata sobre cómo pasar tiempo juntos y conectados con @fields.child_name 😃"
         },
         "text_2": {
           "eng": "¡Pasar tiempo juntos y conectados con @fields.child_name es una forma increíble de construir una buena relación! Esto mostrará que te interesas por lo que hace. 💙\n\nTambién fomentará la confianza y el respeto, y ayudará a @fields.child_name a aprender cosas nuevas. ✨"

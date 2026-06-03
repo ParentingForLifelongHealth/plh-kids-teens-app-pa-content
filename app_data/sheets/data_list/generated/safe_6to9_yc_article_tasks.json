@@ -76,7 +76,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "La lección de hoy trata de enseñarle a @fields.child_name sobre el contacto físico ✅ seguro y el ❌ inseguro."
+          "eng": "La sesión de hoy trata de enseñarle a @fields.child_name sobre el contacto físico ✅ seguro y el ❌ inseguro."
         },
         "text_2": {
           "eng": "💡 Es normal sentir incomodidad al conversar sobre abuso sexual con las niñas y los niños.\n\n❗ Pero hay algunas cosas sencillas que pueden ayudarles a entender cuándo *no* está bien que les toquen, y qué deben hacer si alguna vez pasa algo.\n\n🔑 Le hace saber que puede controlar quién toca su cuerpo y de qué manera lo hace.\n\n🌷 ¡Esto les prepara para mantenerse a salvo durante toda su vida!"
@@ -129,7 +129,7 @@
       "quiz_1_option_1_text": "Decirle que no debería conversar sobre esas partes del cuerpo",
       "quiz_1_option_2_text": "Agradecerle por su valentía al compartirlo contigo y denuncia a la persona, si es necesario",
       "quiz_1_option_3_text": "Decirle que no mientan sobre esas cosas",
-      "text_1_facilitator": "La lección de hoy trata de enseñarle a @fields.child_name sobre el contacto físico ✅ seguro y el ❌ inseguro.",
+      "text_1_facilitator": "La sesión de hoy trata de enseñarle a @fields.child_name sobre el contacto físico ✅ seguro y el ❌ inseguro.",
       "text_2": "💡 Es normal sentir incomodidad al conversar sobre abuso sexual con las niñas y los niños.\n\n❗ Pero hay algunas cosas sencillas que pueden ayudarles a entender cuándo *no* está bien que les toquen, y qué deben hacer si alguna vez pasa algo.\n\n🔑 Le hace saber que puede controlar quién toca su cuerpo y de qué manera lo hace.\n\n🌷 ¡Esto les prepara para mantenerse a salvo durante toda su vida!",
       "quiz_1_option_4_text": "Ir y gritarle a la persona que lo hizo",
       "quiz_1_feedback_4": "👀 ¡Ups! ¡Buen intento!\n\n💚 Agradecerle por ser tan valiente y por contártelo para que sienta tu protección y la facilidad de conversar contigo en caso de que algo vuelve a ocurrir.\n\n💡 Esto le enseña que su seguridad es lo más importante y que siempre puede contar contigo.\n\n❗ Confrontar a la persona que lo hizo, en la mayoría de las ocasiones, lo empeora, por lo que es mejor ayudar a @fields.child_name a alejarse de esa persona y denunciarla con la policía, en una clínica o en una institución de apoyo.",
@@ -280,9 +280,9 @@
         "section_5_title": {},
         "section_5_text": {}
       },
-      "section_1_icon_asset": "images/icons/hands_heart.svg",
-      "section_2_icon_asset": "images/icons/no.svg",
-      "section_3_icon_asset": "images/icons/distance.svg",
+      "section_1_icon_asset": "images/icons/hands_heart.png",
+      "section_2_icon_asset": "images/icons/no.png",
+      "section_3_icon_asset": "images/icons/distance.png",
       "section_4_icon_asset": "images/icons/parent_child.svg",
       "section_5_icon_asset": "images/icons/speech_bubble_blue.png",
       "section_1_title": "USA LA HONESTIDAD",

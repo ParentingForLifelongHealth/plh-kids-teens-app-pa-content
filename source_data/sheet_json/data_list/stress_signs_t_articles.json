@@ -13,7 +13,7 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1_facilitator::eng": "Esta lección consiste en conocer las señales de alerta que indican que tu adolescente puede necesitar apoyo en su salud mental. 🔴",
+      "text_1_facilitator::eng": "Esta sesión consiste en conocer las señales de alerta que indican que tu adolescente puede necesitar apoyo en su salud mental. 🔴",
       "text_2::eng": "Puede que @fields.child_name necesite apoyo para lograr balancear su bienestar mental y su felicidad. \n\nLa tristeza es una emoción normal que aparece ante situaciones difíciles y suele desaparecer con el tiempo. \n\nEn cambio, la depresión es más intensa, dura más de dos semanas y afecta el día a día del adolescente, como su sueño, apetito o ganas de hacer cualquier actividad. \n\nEs importante identificar en qué situaciones necesita ayuda y qué tipo de apoyo puede recibir.",
       "quiz_1_question::eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\n¿Cuál de las siguientes NO es una señal de alerta?",
       "quiz_1_option_1_text::eng": "Cambios en el sueño",
@@ -39,12 +39,15 @@
       "id": "practical_tips_2",
       "category_id": "explore",
       "text_1_facilitator::eng": "Recuerda:",
-      "section_1_title::eng": "ACTUAR A TIEMPO",
-      "section_1_icon_asset": "images/icons/clock_blue.png",
-      "section_1_text::eng": "❗ Si observas algunas de estas señales, es hora de actuar.\n\n❌ Estas señales de alerta pueden llegar a convertirse en problemas más graves.\n\n🌱 La intervención temprana puede tener un impacto positivo en el bienestar de tu adolescente.",
-      "section_2_title::eng": "BUSCAR AYUDA",
-      "section_2_icon_asset": "images/icons/trust.svg",
-      "section_2_text::eng": "😃 Respeta la privacidad de tu adolescente. Hablen sobre qué tipo de apoyo puede que necesite.\n\n💚 El apoyo para ti también es muy importante. Pide ayuda si la necesitas. Tener un sistema de apoyo puede hacer la diferencia."
+      "section_1_title::eng": "IDENTIFICAR",
+      "section_1_icon_asset": "images/icons/eye_blue.png",
+      "section_1_text::eng": "👀 Identifica las señales de alerta y las conductas que podrían indicar que hay un problema con la salud mental de {tu adolescente}:\n\n🔴 Dormir mucho o no dormir nada\n🔴 Pérdida de interés por sus pasatiempos favoritos\n🔴 Cambios drásticos y repentinos en la escuela y calificaciones bajas\n🔴 Cambios drásticos y repentinos de personalidad, por ejemplo mucho enojo o coraje\n🔴 Sentir un vacío, mucha tristeza o sentirse incapaz\n🔴 Preocupación excesiva\n🔴 Malhumor persistente o inquietud\n🔴 No querer estar con gente o participar en actividades\n🔴 Un pánico extremo\n🔴 Consumo de drogas y alcohol\n🔴 Signos de autolesión, como cicatrices o marcas de cortes\n🔴 Expresar ideas sobre suicidarse",
+      "section_2_title::eng": "ACTUAR A TIEMPO",
+      "section_2_icon_asset": "images/icons/clock_blue.png",
+      "section_2_text::eng": "❗ Si observas algunas de estas señales, es hora de actuar.\n\n❌ Estas señales de alerta pueden llegar a convertirse en problemas más graves.\n\n🌱 La intervención temprana puede tener un impacto positivo en el bienestar de tu adolescente.",
+      "section_3_title::eng": "BUSCAR AYUDA",
+      "section_3_icon_asset": "images/icons/trust.png",
+      "section_3_text::eng": "😃 Respeta la privacidad de tu adolescente. Hablen sobre qué tipo de apoyo puede que necesite.\n\n💚 El apoyo para ti también es muy importante. Pide ayuda si la necesitas. Tener un sistema de apoyo puede hacer la diferencia."
     },
     {
       "id": "home_activity_1",

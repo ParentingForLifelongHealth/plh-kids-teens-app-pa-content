@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "relax_4",
-      "in_library": "yes",
       "title_eng": "Breathe to three",
       "title": "Respira hasta 3",
       "lottie_asset": "lottie/relax/heart.json",
@@ -76,7 +75,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Esta lección trata sobre cómo responder a las situaciones de crisis con tu adolescente😔😣.\n\nCuando nuestros adolescentes nos comparten algo que es muy difícil de hablar o les genera mucha molestia, debemos recordar que tenemos que mantener la calma, escuchar y ser abiertos para que se sientan apoyadas y apoyados💛\n\n❗En esta lección hablaremos acerca del abuso sexual. Es normal sentir incomodidad o molestia cuando se habla de esto.\n\n💡Recuerda respirar profundo. Si lo necesitas, también puedes hablar con alguien de confianza para que te escuche y te apoye."
+          "eng": "Esta sesión trata sobre cómo responder a las situaciones de crisis con tu adolescente😔😣.\n\nCuando nuestros adolescentes nos comparten algo que es muy difícil de hablar o les genera mucha molestia, debemos recordar que tenemos que mantener la calma, escuchar y ser abiertos para que se sientan apoyadas y apoyados💛\n\n❗En esta sesión hablaremos acerca del abuso sexual. Es normal sentir incomodidad o molestia cuando se habla de esto.\n\n💡Recuerda respirar profundo. Si lo necesitas, también puedes hablar con alguien de confianza para que te escuche y te apoye."
         },
         "text_2": {
           "eng": "¡Empecemos con un ejercicio!"
@@ -111,7 +110,7 @@
       "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nCuando mi adolescente tiene alguna preocupación, debo esperar a que venga a mí. No quiero presionarle más al preguntarle qué es lo que le preocupa.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
-      "text_1_facilitator": "Esta lección trata sobre cómo responder a las situaciones de crisis con tu adolescente😔😣.\n\nCuando nuestros adolescentes nos comparten algo que es muy difícil de hablar o les genera mucha molestia, debemos recordar que tenemos que mantener la calma, escuchar y ser abiertos para que se sientan apoyadas y apoyados💛\n\n❗En esta lección hablaremos acerca del abuso sexual. Es normal sentir incomodidad o molestia cuando se habla de esto.\n\n💡Recuerda respirar profundo. Si lo necesitas, también puedes hablar con alguien de confianza para que te escuche y te apoye.",
+      "text_1_facilitator": "Esta sesión trata sobre cómo responder a las situaciones de crisis con tu adolescente😔😣.\n\nCuando nuestros adolescentes nos comparten algo que es muy difícil de hablar o les genera mucha molestia, debemos recordar que tenemos que mantener la calma, escuchar y ser abiertos para que se sientan apoyadas y apoyados💛\n\n❗En esta sesión hablaremos acerca del abuso sexual. Es normal sentir incomodidad o molestia cuando se habla de esto.\n\n💡Recuerda respirar profundo. Si lo necesitas, también puedes hablar con alguien de confianza para que te escuche y te apoye.",
       "text_2": "¡Empecemos con un ejercicio!",
       "completed": false
     },
@@ -310,7 +309,7 @@
         "section_4_text": {}
       },
       "section_1_icon_asset": "images/icons/clock_blue.png",
-      "section_2_icon_asset": "images/icons/listen.svg",
+      "section_2_icon_asset": "images/icons/listen.png",
       "section_3_icon_asset": "images/icons/speech_bubble_blue.png",
       "section_4_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_title": "RESPIRA",

@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "relax_4",
-      "in_library": "yes",
       "title_eng": "Breathe to three",
       "title": "Respira hasta 3",
       "lottie_asset": "lottie/relax/heart.json",
@@ -76,7 +75,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Esta lección  trata sobre qué hacer cuando las niñas y los niños buscan atención con comportamientos exagerados. 🚩"
+          "eng": "Esta sesión  trata sobre qué hacer cuando las niñas y los niños buscan atención con comportamientos exagerados. 🚩"
         },
         "text_2": {
           "eng": "Las niñas y los niños necesitan atención positiva desde muy temprana edad. 💛\n\nEs una forma estupenda de ayudarles a sentirse bien consigo mismos. ¡Hace más probable que hagan lo que se les pide! 🔄"
@@ -131,7 +130,7 @@
       "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nDebes darle a @fields.child_name lo que quiera cuando se queje por algo o haga algún berrinche.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
-      "text_1_facilitator": "Esta lección  trata sobre qué hacer cuando las niñas y los niños buscan atención con comportamientos exagerados. 🚩",
+      "text_1_facilitator": "Esta sesión  trata sobre qué hacer cuando las niñas y los niños buscan atención con comportamientos exagerados. 🚩",
       "text_2": "Las niñas y los niños necesitan atención positiva desde muy temprana edad. 💛\n\nEs una forma estupenda de ayudarles a sentirse bien consigo mismos. ¡Hace más probable que hagan lo que se les pide! 🔄",
       "quiz_2_question": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\nDebes ignorar a tu niña o niño para que deje de quejarse y amenazarle con pegarle si sigue así.",
       "quiz_2_option_1_text": "Verdadero",
@@ -325,11 +324,11 @@
         "section_5_title": {},
         "section_5_text": {}
       },
-      "section_1_icon_asset": "images/icons/change.svg",
-      "section_2_icon_asset": "images/icons/breathe.svg",
+      "section_1_icon_asset": "images/icons/change.png",
+      "section_2_icon_asset": "images/icons/breathe.png",
       "section_3_icon_asset": "images/icons/eye_blue.png",
-      "section_4_icon_asset": "images/icons/hands_heart.svg",
-      "section_5_icon_asset": "images/icons/climb.svg",
+      "section_4_icon_asset": "images/icons/hands_heart.png",
+      "section_5_icon_asset": "images/icons/climb.png",
       "section_1_title": "REDIRIGE",
       "section_1_text": "🎨 Intenta redirigir la atención de @fields.child_name hacia una conducta o actividad positiva.\n\n🌷 ¡Elógiale por este comportamiento positivo!\n\nEn el primer curso de Crianza Responsable y Amorosa,aprendiste sobre redirigir la conducta.",
       "section_2_title": "MANTEN LA CALMA",
@@ -348,7 +347,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa** ⭐ \n\nBusca una cosa positiva que @fields.child_name haga el día de hoy y elógiale por ello. \n\nSi @fields.child_name se empieza a quejar por algo o a hacer berrinche, intenta usar las estrategias de esta lección para redirigir, mantener la calma, observar y cuidar. \n\nPuede que al principio no sea facil, ¡pero síguele, tú puedes hacerlo!"
+          "eng": "**Actividad para casa** ⭐ \n\nBusca una cosa positiva que @fields.child_name haga el día de hoy y elógiale por ello. \n\nSi @fields.child_name se empieza a quejar por algo o a hacer berrinche, intenta usar las estrategias de esta sesión para redirigir, mantener la calma, observar y cuidar. \n\nPuede que al principio no sea facil, ¡pero síguele, tú puedes hacerlo!"
         },
         "quiz_1_question": {
           "eng": "¿Puedes encontrar algo por lo que puedas elogiar a @fields.child_name hoy? ⏰"
@@ -379,7 +378,7 @@
       "quiz_1_question": "¿Puedes encontrar algo por lo que puedas elogiar a @fields.child_name hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "No",
-      "text_1_facilitator": "**Actividad para casa** ⭐ \n\nBusca una cosa positiva que @fields.child_name haga el día de hoy y elógiale por ello. \n\nSi @fields.child_name se empieza a quejar por algo o a hacer berrinche, intenta usar las estrategias de esta lección para redirigir, mantener la calma, observar y cuidar. \n\nPuede que al principio no sea facil, ¡pero síguele, tú puedes hacerlo!",
+      "text_1_facilitator": "**Actividad para casa** ⭐ \n\nBusca una cosa positiva que @fields.child_name haga el día de hoy y elógiale por ello. \n\nSi @fields.child_name se empieza a quejar por algo o a hacer berrinche, intenta usar las estrategias de esta sesión para redirigir, mantener la calma, observar y cuidar. \n\nPuede que al principio no sea facil, ¡pero síguele, tú puedes hacerlo!",
       "completed": false
     }
   ],

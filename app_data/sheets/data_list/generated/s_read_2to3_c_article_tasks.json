@@ -12,7 +12,7 @@
       "media_asset": "audio/relax/relax_3.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
-      "transcript": "Cierra los ojos y piensa en tu día.\n\nNombra una cosa por la que te sientes agradecido.\nNombra una cosa que hiciste bien.\nNombra una cosa que amas.\n\nMuy bien. Gracias por acompañarnos hoy en ParentApp.",
+      "transcript": "Cierra los ojos y piensa en tu día.\n\nNombra una cosa por la que te sientes agradecido.\nNombra una cosa que hiciste bien.\nNombra una cosa que amas.\n\nMuy bien. Gracias por acompañarnos hoy en Crianza Responsable y Amorosa.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -76,7 +76,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "📖Esta lección trata sobre cómo empezar a ayudar a @fields.child_name a aprender a leer. \n\n🔑 Leer con @fields.child_name es la mejor manera de ayudarle a aprender a leer. \n\n💡 Las niñas y los niños aprenden observando, escuchando y copiando. Cuando les lees de pequeños, aprenden palabras nuevas. Cuando van creciendo, aprenden las letras y sus sonidos. ¡Leer juntos puede ayudarles a aprender sobre cualquier cosa que les interese!"
+          "eng": "📖Esta sesión trata sobre cómo empezar a ayudar a @fields.child_name a aprender a leer. \n\n🔑 Leer con @fields.child_name es la mejor manera de ayudarle a aprender a leer. \n\n💡 Las niñas y los niños aprenden observando, escuchando y copiando. Cuando les lees de pequeños, aprenden palabras nuevas. Cuando van creciendo, aprenden las letras y sus sonidos. ¡Leer juntos puede ayudarles a aprender sobre cualquier cosa que les interese!"
         },
         "quiz_1_question": {
           "eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nLeer con @fields.child_name solo implica ser expresivo y usar las emociones correctas al leer."
@@ -107,7 +107,7 @@
       "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nLeer con @fields.child_name solo implica ser expresivo y usar las emociones correctas al leer.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
-      "text_1_facilitator": "📖Esta lección trata sobre cómo empezar a ayudar a @fields.child_name a aprender a leer. \n\n🔑 Leer con @fields.child_name es la mejor manera de ayudarle a aprender a leer. \n\n💡 Las niñas y los niños aprenden observando, escuchando y copiando. Cuando les lees de pequeños, aprenden palabras nuevas. Cuando van creciendo, aprenden las letras y sus sonidos. ¡Leer juntos puede ayudarles a aprender sobre cualquier cosa que les interese!",
+      "text_1_facilitator": "📖Esta sesión trata sobre cómo empezar a ayudar a @fields.child_name a aprender a leer. \n\n🔑 Leer con @fields.child_name es la mejor manera de ayudarle a aprender a leer. \n\n💡 Las niñas y los niños aprenden observando, escuchando y copiando. Cuando les lees de pequeños, aprenden palabras nuevas. Cuando van creciendo, aprenden las letras y sus sonidos. ¡Leer juntos puede ayudarles a aprender sobre cualquier cosa que les interese!",
       "completed": false
     },
     {
@@ -304,7 +304,7 @@
       "section_2_icon_asset": "images/icons/clock_blue.png",
       "section_3_icon_asset": "images/icons/question_blue.png",
       "section_4_icon_asset": "images/icons/magnifying_glass.svg",
-      "section_5_icon_asset": "images/icons/trust.svg",
+      "section_5_icon_asset": "images/icons/trust.png",
       "section_1_title": "COMPARTIR LIBROS",
       "section_1_text": "💡 Los libros sin palabras ayudan con la imaginación, las ideas y el aprendizaje de palabras nuevas. En conjunto, nombren y describan lo que hay en los dibujos. Intenta comunicarte de un modo que sea fácil de entender para @fields.child_name.\n\n⭐ ¡Los libros que contienen palabras ayudan a comprender las letras y sus sonidos!\n\n🎵 Enfócate en palabras o frases cortas que rimen, se repitan y empiecen por la misma letra o terminen con el mismo sonido, como \"piña para la niña\", \"el león comelón\", o \"el zorro pide socorro\".",
       "section_2_title": "CREAR RUTINAS",

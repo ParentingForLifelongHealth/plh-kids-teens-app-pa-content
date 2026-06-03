@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "relax_4",
-      "in_library": "yes",
       "title_eng": "Breathe to three",
       "title": "Respira hasta 3",
       "lottie_asset": "lottie/relax/heart.json",
@@ -76,7 +75,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "La lección de hoy trata sobre cómo favorecer el desarrollo saludable de @fields.child_name a medida que crece y va cambiando. ✨"
+          "eng": "La sesión de hoy trata sobre cómo favorecer el desarrollo saludable de @fields.child_name a medida que crece y va cambiando. ✨"
         },
         "text_2": {
           "eng": "Las niñas y los niños tienen capacidades diferentes en las distintas etapas de su desarrollo. 🌱\n\nEs importante conocer las habilidades de @fields.child_name en esta etapa de su desarrollo. ⚽\n\nEsto te ayudará a planificar sus actividades para que se ajusten a lo que puede hacer y también te ayuda a tener objetivos realistas. ✨"
@@ -131,7 +130,7 @@
       "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nTodas las niñas y los niños se desarrollan a la misma velocidad.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
-      "text_1_facilitator": "La lección de hoy trata sobre cómo favorecer el desarrollo saludable de @fields.child_name a medida que crece y va cambiando. ✨",
+      "text_1_facilitator": "La sesión de hoy trata sobre cómo favorecer el desarrollo saludable de @fields.child_name a medida que crece y va cambiando. ✨",
       "text_2": "Las niñas y los niños tienen capacidades diferentes en las distintas etapas de su desarrollo. 🌱\n\nEs importante conocer las habilidades de @fields.child_name en esta etapa de su desarrollo. ⚽\n\nEsto te ayudará a planificar sus actividades para que se ajusten a lo que puede hacer y también te ayuda a tener objetivos realistas. ✨",
       "quiz_2_question": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\nEstá bien dejar que @fields.child_name siga intentando hacer algo unas cuantas veces aunque no lo haga correctamente.",
       "quiz_2_option_1_text": "Verdadero",

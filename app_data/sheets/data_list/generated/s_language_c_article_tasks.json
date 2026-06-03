@@ -76,7 +76,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "🔑 Este curso trata sobre cómo preparar a @fields.child_name para el aprovechamiento escolar. Las estrategias que te compartiremos son una guía: úsalas en la medida que @fields.child_name vaya mostrando disposición.\n\n👂 Esta primera lección consiste en ayudar a @fields.child_name a aprender palabras nuevas y mejorar sus habilidades del habla!\n\n🎓 ¡Aprender a conversar y a mantener una conversación es importante para aprender a leer y lograr un buen desempeño escolar!"
+          "eng": "🔑 Este curso trata sobre cómo preparar a @fields.child_name para el aprovechamiento escolar. Las estrategias que te compartiremos son una guía: úsalas en la medida que @fields.child_name vaya mostrando disposición.\n\n👂 Esta primera sesión consiste en ayudar a @fields.child_name a aprender palabras nuevas y mejorar sus habilidades del habla!\n\n🎓 ¡Aprender a conversar y a mantener una conversación es importante para aprender a leer y lograr un buen desempeño escolar!"
         },
         "text_2": {
           "eng": "Empecemos con un ejercicio 📝"
@@ -97,7 +97,7 @@
           "eng": "👀 ¡Ups! ¡Buen intento!\n\n🎉 Las niñas y los niños, independientemente de su crecimiento, son capaces de aprender y desarrollar habilidades, ya que se encuentran en un proceso de formación constante lo que les permite adquirir toda información que se les brinde \n\n🔑 Cada niña o niño es diferente. Aprenden a ritmos distintos y las cosas que pueden hacer van cambiando con su edad."
         },
         "quiz_2_question": {
-          "eng": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\nConversarle a tu niña o niño es lo mismo que mantener una conversación."
+          "eng": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\nHablarle a tu niña o niño es lo mismo que mantener una conversación."
         },
         "quiz_2_option_1_text": {
           "eng": "Verdadero"
@@ -131,9 +131,9 @@
       "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nCualquier niña o niño, independientemente de su crecimiento, puede aprender y desarrollar habilidades.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
-      "text_1_facilitator": "🔑 Este curso trata sobre cómo preparar a @fields.child_name para el aprovechamiento escolar. Las estrategias que te compartiremos son una guía: úsalas en la medida que @fields.child_name vaya mostrando disposición.\n\n👂 Esta primera lección consiste en ayudar a @fields.child_name a aprender palabras nuevas y mejorar sus habilidades del habla!\n\n🎓 ¡Aprender a conversar y a mantener una conversación es importante para aprender a leer y lograr un buen desempeño escolar!",
+      "text_1_facilitator": "🔑 Este curso trata sobre cómo preparar a @fields.child_name para el aprovechamiento escolar. Las estrategias que te compartiremos son una guía: úsalas en la medida que @fields.child_name vaya mostrando disposición.\n\n👂 Esta primera sesión consiste en ayudar a @fields.child_name a aprender palabras nuevas y mejorar sus habilidades del habla!\n\n🎓 ¡Aprender a conversar y a mantener una conversación es importante para aprender a leer y lograr un buen desempeño escolar!",
       "text_2": "Empecemos con un ejercicio 📝",
-      "quiz_2_question": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\nConversarle a tu niña o niño es lo mismo que mantener una conversación.",
+      "quiz_2_question": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\nHablarle a tu niña o niño es lo mismo que mantener una conversación.",
       "quiz_2_option_1_text": "Verdadero",
       "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🎈 Las niñas y los niños aprenden palabras nuevas y adquieren confianza en sus capacidades lingüísticas cuando intentamos mantener una conversación con ellas y ellos. \n\n🌷 Puede que las niñas y los niños no sepan pronunciar muchas palabras, ¡pero es importante seguir animándolos!",
       "quiz_2_option_2_text": "Falso",
@@ -302,8 +302,8 @@
       },
       "section_1_icon_asset": "images/icons/single_speech_blue.png",
       "section_2_icon_asset": "images/icons/question_blue.png",
-      "section_3_icon_asset": "images/icons/listen.svg",
-      "section_4_icon_asset": "images/icons/trust.svg",
+      "section_3_icon_asset": "images/icons/listen.png",
+      "section_4_icon_asset": "images/icons/trust.png",
       "section_5_icon_asset": "images/icons/picture_book.svg",
       "section_1_title": "EXPLICAR",
       "section_1_text": "😃 Establece conversaciones con @fields.child_name al involucrarle en actividades cotidianas. Describe y explica lo que estás haciendo, utilizando diferentes palabras. Por ejemplo, si estás en el mercado o en el súper, puedes decir: \"Hoy vamos a comprar tomates\" o \"Hoy voy a hacer arroz con pollo y necesitamos pollo y arroz para hacerlo\".\n\n👂 ¡Hazle preguntas a @fields.child_name y escucha sus respuestas!\n\n⏯️ Muéstrale a @fields.child_name a distintas oportunidades de aprendizaje para que las pueda enfrentar a su propio ritmo. Cuando le des actividades que se adapten a sus capacidades, aumentará su confianza y su entusiasmo por aprender. 😃",

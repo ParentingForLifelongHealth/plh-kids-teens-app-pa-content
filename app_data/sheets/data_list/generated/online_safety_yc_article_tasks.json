@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "relax_5",
-      "in_library": "yes",
       "title_eng": "In and out",
       "title": "Inhala y exhala",
       "lottie_asset": "lottie/relax/blue_dots.json",
@@ -76,7 +75,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Esta lección trata sobre cómo asegurar que @fields.child_name esté a salvo mientras navega en internet y usa nuestros dispositivos electrónicos📱\n\nHay mucho que compartir. Conversaremos sobre la navegación segura en internet a lo largo de dos lecciones.2️⃣"
+          "eng": "Esta sesión trata sobre cómo asegurar que @fields.child_name esté a salvo mientras navega en internet y usa nuestros dispositivos electrónicos📱\n\nHay mucho que compartir. Conversaremos sobre la navegación segura en internet a lo largo de dos lecciones.2️⃣"
         },
         "text_2": {
           "eng": "Las niñas y los niños pasan mucho tiempo en internet.⏰  \n\nEstar conectados les ayuda a mantenerse positivos y a aprender más 🔑 pero también hay algunos riesgos y peligros.🚩"
@@ -131,7 +130,7 @@
       "quiz_1_question": "📝 **¡Hagamos un ejercicio!*+\n\n_Ejercicio no.1_\n\nLas madres, los padres y las personas cuidadoras deben establecer límites de tiempo de uso diario de internet para sus niñas y niños.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
-      "text_1_facilitator": "Esta lección trata sobre cómo asegurar que @fields.child_name esté a salvo mientras navega en internet y usa nuestros dispositivos electrónicos📱\n\nHay mucho que compartir. Conversaremos sobre la navegación segura en internet a lo largo de dos lecciones.2️⃣",
+      "text_1_facilitator": "Esta sesión trata sobre cómo asegurar que @fields.child_name esté a salvo mientras navega en internet y usa nuestros dispositivos electrónicos📱\n\nHay mucho que compartir. Conversaremos sobre la navegación segura en internet a lo largo de dos lecciones.2️⃣",
       "text_2": "Las niñas y los niños pasan mucho tiempo en internet.⏰  \n\nEstar conectados les ayuda a mantenerse positivos y a aprender más 🔑 pero también hay algunos riesgos y peligros.🚩",
       "quiz_2_question": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_ \n\nEs seguro que las niñas y los niños más pequeños tengan sus cuentas en las redes sociales sin supervisión",
       "quiz_2_option_1_text": "Verdadero",
@@ -256,10 +255,10 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Mantener la seguridad de @fields.child_name al navegar por internet es un paso importante para ayudarle a formar parte del mundo digital. 📱\n\nVamos a aprender 4️⃣ estrategias para mantener la seguridad de @fields.child_name al navegar por internet:\n\n1️⃣ APRENDER\n2️⃣ PROTEGER\n3️⃣ CONSTRUIR HÁBITOS SEGUROS\n4️⃣ CONSTRUIR CONFIANZA\n\nSelecciona reproducir ▶️ para aprender sobre las dos primeras: APRENDER y PROTEGER.\n\n✨ En la próxima lección aprenderemos sobre CONSTRUIR HÁBITOS SEGUROS y CONSTRUIR CONFIANZA."
+          "eng": "Mantener la seguridad de @fields.child_name al navegar por internet es un paso importante para ayudarle a formar parte del mundo digital. 📱\n\nSelecciona reproducir ▶️ para aprender sobre las dos primeras de las 4️⃣ estrategias para mantener la seguridad de @fields.child_name al navegar por internet:\n\n1️⃣ APRENDER\n2️⃣ PROTEGER\n3️⃣ CONSTRUIR HÁBITOS SEGUROS\n4️⃣ CONSTRUIR CONFIANZA\n\n✨ En la próxima sesión aprenderemos sobre CONSTRUIR HÁBITOS SEGUROS y CONSTRUIR CONFIANZA."
         }
       },
-      "text_1_facilitator": "Mantener la seguridad de @fields.child_name al navegar por internet es un paso importante para ayudarle a formar parte del mundo digital. 📱\n\nVamos a aprender 4️⃣ estrategias para mantener la seguridad de @fields.child_name al navegar por internet:\n\n1️⃣ APRENDER\n2️⃣ PROTEGER\n3️⃣ CONSTRUIR HÁBITOS SEGUROS\n4️⃣ CONSTRUIR CONFIANZA\n\nSelecciona reproducir ▶️ para aprender sobre las dos primeras: APRENDER y PROTEGER.\n\n✨ En la próxima lección aprenderemos sobre CONSTRUIR HÁBITOS SEGUROS y CONSTRUIR CONFIANZA.",
+      "text_1_facilitator": "Mantener la seguridad de @fields.child_name al navegar por internet es un paso importante para ayudarle a formar parte del mundo digital. 📱\n\nSelecciona reproducir ▶️ para aprender sobre las dos primeras de las 4️⃣ estrategias para mantener la seguridad de @fields.child_name al navegar por internet:\n\n1️⃣ APRENDER\n2️⃣ PROTEGER\n3️⃣ CONSTRUIR HÁBITOS SEGUROS\n4️⃣ CONSTRUIR CONFIANZA\n\n✨ En la próxima sesión aprenderemos sobre CONSTRUIR HÁBITOS SEGUROS y CONSTRUIR CONFIANZA.",
       "_translations": {
         "text_1_facilitator": {}
       },
@@ -296,7 +295,7 @@
         "section_2_title": {},
         "section_2_text": {}
       },
-      "section_1_icon_asset": "images/icons/caution.svg",
+      "section_1_icon_asset": "images/icons/caution.png",
       "section_2_icon_asset": "images/icons/parent_child_heart.svg",
       "section_1_title": "APRENDE LOS PELIGROS DE NAVEGAR EN INTERNET",
       "section_1_text": "🚩 CONTENIDO: @fields.child_name podría encontrarse con contenido peligroso, como violencia, discursos que inciten al odio, pornografía o información falsa. Esto también podría incluir información que promueva el odio hacia las mujeres, a las personas con discapacidad o a personas con otras creencias o valores, contrarios a los que quieres enseñarles a tus niñas y niños.\n\n🚩 CONTACTO: Los adultos pueden hacerse pasar por niños y pedir fotos sexuales o quedar de verse con tu niña o niño a través de una plataforma virtual.\n\n🚩 CONDUCTA: A veces, niñas, niños o personas desconocidas pueden decir o hacer cosas hirientes en internet.",

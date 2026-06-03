@@ -10,14 +10,14 @@
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Es común que las madres, padres y personas cuidadoras sientan estrés o que no pueden con más cuando tienen tanto que hacer todos los días.\n\nEn esta lección, seguirás aprendiendo formas de regular el estrés al hacer un plan por adelantado.",
+      "text_1_facilitator": "Es común que las madres, padres y personas cuidadoras sientan estrés o que no pueden con más cuando tienen tanto que hacer todos los días.\n\nEn esta sesión, seguirás aprendiendo formas de regular el estrés al hacer un plan por adelantado.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Es común que las madres, padres y personas cuidadoras sientan estrés o que no pueden con más cuando tienen tanto que hacer todos los días.\n\nEn esta lección, seguirás aprendiendo formas de regular el estrés al hacer un plan por adelantado."
+          "eng": "Es común que las madres, padres y personas cuidadoras sientan estrés o que no pueden con más cuando tienen tanto que hacer todos los días.\n\nEn esta sesión, seguirás aprendiendo formas de regular el estrés al hacer un plan por adelantado."
         },
         "text_2": {
           "eng": "Crear un plan para cuando estés en una situación que te genera estrés puede ayudarte a planificar y gestionar las situaciones estresantes cuando se produzcan."
@@ -146,10 +146,10 @@
       "id": "practical_tips_2",
       "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/pencil.svg",
-      "section_2_icon_asset": "images/icons/target.svg",
+      "section_2_icon_asset": "images/icons/target.png",
       "section_3_icon_asset": "images/icons/balance_blue.png",
-      "section_4_icon_asset": "images/icons/123.svg",
-      "section_5_icon_asset": "images/icons/climb.svg",
+      "section_4_icon_asset": "images/icons/123.png",
+      "section_5_icon_asset": "images/icons/climb.png",
       "nested": false,
       "text_1_facilitator": "Recuerda:",
       "_translations": {
@@ -235,7 +235,7 @@
           "eng": "Sí"
         },
         "quiz_1_feedback_1": {
-          "eng": "¡Excelente! 💙\n\n*_Puedes ayudar a controlar tu estrés al hacer una lista de todas las cosas que tienes que hacer, identificando lo que es más importante y lo que puede esperar, y dividiéndolo en pasos más pequeños y fáciles de lograr._*\n\nRecuerda tomar una pausa o pedir apoyo siempre que lo necesites. Escribe {PAUSAR} siempre que quieras tomar una pausa guiada."
+          "eng": "¡Excelente! 💙\n\nPuedes ayudar a controlar tu estrés al hacer una lista de todas las cosas que tienes que hacer, identificando lo que es más importante y lo que puede esperar, y dividiéndolo en pasos más pequeños y fáciles de lograr.\n\nRecuerda tomar una pausa o pedir apoyo siempre que lo necesites."
         },
         "quiz_1_option_2_text": {
           "eng": "No"
@@ -246,7 +246,7 @@
       },
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_feedback_1": "¡Excelente! 💙\n\n*_Puedes ayudar a controlar tu estrés al hacer una lista de todas las cosas que tienes que hacer, identificando lo que es más importante y lo que puede esperar, y dividiéndolo en pasos más pequeños y fáciles de lograr._*\n\nRecuerda tomar una pausa o pedir apoyo siempre que lo necesites. Escribe {PAUSAR} siempre que quieras tomar una pausa guiada.",
+      "quiz_1_feedback_1": "¡Excelente! 💙\n\nPuedes ayudar a controlar tu estrés al hacer una lista de todas las cosas que tienes que hacer, identificando lo que es más importante y lo que puede esperar, y dividiéndolo en pasos más pequeños y fáciles de lograr.\n\nRecuerda tomar una pausa o pedir apoyo siempre que lo necesites.",
       "quiz_1_option_2_text": "No",
       "quiz_1_feedback_2": "¡Está bien, no pasa nada! Puedes intentarlo mañana."
     }

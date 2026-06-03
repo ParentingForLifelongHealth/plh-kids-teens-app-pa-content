@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "relax_5",
-      "in_library": "yes",
       "title_eng": "In and out",
       "title": "Inhala y exhala",
       "lottie_asset": "lottie/relax/blue_dots.json",
@@ -76,7 +75,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "En esta lección vamos a aprender más sobre cómo ayudar a @fields.child_name para que mejore en la lectura a través de los juegos de palabras y la escritura. 📝\n\nAprender a leer empieza con la noción del lenguaje, las letras y los sonidos. 🎵\n\nEntender los sonidos de las palabras y empezar a escribir las letras ayudará a @fields.child_name a aprender a leer. 📖⭐"
+          "eng": "En esta sesión vamos a aprender más sobre cómo ayudar a @fields.child_name para que mejore en la lectura a través de los juegos de palabras y la escritura. 📝\n\nAprender a leer empieza con la noción del lenguaje, las letras y los sonidos. 🎵\n\nEntender los sonidos de las palabras y empezar a escribir las letras ayudará a @fields.child_name a aprender a leer. 📖⭐"
         },
         "quiz_1_question": {
           "eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nDeberías comenzar a leer libros con @fields.child_name solamente cuando ya haya empezado a aprender a leer en la escuela."
@@ -107,7 +106,7 @@
       "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nDeberías comenzar a leer libros con @fields.child_name solamente cuando ya haya empezado a aprender a leer en la escuela.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
-      "text_1_facilitator": "En esta lección vamos a aprender más sobre cómo ayudar a @fields.child_name para que mejore en la lectura a través de los juegos de palabras y la escritura. 📝\n\nAprender a leer empieza con la noción del lenguaje, las letras y los sonidos. 🎵\n\nEntender los sonidos de las palabras y empezar a escribir las letras ayudará a @fields.child_name a aprender a leer. 📖⭐",
+      "text_1_facilitator": "En esta sesión vamos a aprender más sobre cómo ayudar a @fields.child_name para que mejore en la lectura a través de los juegos de palabras y la escritura. 📝\n\nAprender a leer empieza con la noción del lenguaje, las letras y los sonidos. 🎵\n\nEntender los sonidos de las palabras y empezar a escribir las letras ayudará a @fields.child_name a aprender a leer. 📖⭐",
       "completed": false
     },
     {
@@ -174,7 +173,7 @@
         "section_4_text": {}
       },
       "section_1_icon_asset": "images/icons/picture_book.svg",
-      "section_2_icon_asset": "images/icons/abc.svg",
+      "section_2_icon_asset": "images/icons/abc.png",
       "section_3_icon_asset": "images/icons/football_blue.png",
       "section_4_icon_asset": "images/icons/pencil.svg",
       "section_1_title": "USAR LIBROS PARA APRENDER",

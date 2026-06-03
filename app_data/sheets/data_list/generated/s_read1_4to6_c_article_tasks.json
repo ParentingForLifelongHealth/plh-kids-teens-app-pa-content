@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "relax_4",
-      "in_library": "yes",
       "title_eng": "Breathe to three",
       "title": "Respira hasta 3",
       "lottie_asset": "lottie/relax/heart.json",
@@ -76,7 +75,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "📖Esta es la primera de dos lecciones sobre cómo ayudar a @fields.child_name a aprender a leer. \n\n⭐Nuestra primera lección  para el día de hoy trata sobre cómo disfrutar los libros con @fields.child_name. Leer con @fields.child_name es la mejor manera de ayudarle a aprender a leer. 🔑\n\nLas niñas y los niños aprenden observando, escuchando y copiando. Cuando les lees de pequeños, aprenden palabras nuevas. Cuando van creciendo, aprenden las letras y sus sonidos. ¡Leer juntos puede ayudarles a aprender sobre cualquier cosa que les interese! 💡"
+          "eng": "📖Esta es la primera de dos lecciones sobre cómo ayudar a @fields.child_name a aprender a leer. \n\n⭐Nuestra primera sesión  para el día de hoy trata sobre cómo disfrutar los libros con @fields.child_name. Leer con @fields.child_name es la mejor manera de ayudarle a aprender a leer. 🔑\n\nLas niñas y los niños aprenden observando, escuchando y copiando. Cuando les lees de pequeños, aprenden palabras nuevas. Cuando van creciendo, aprenden las letras y sus sonidos. ¡Leer juntos puede ayudarles a aprender sobre cualquier cosa que les interese! 💡"
         },
         "quiz_1_question": {
           "eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nLeer con @fields.child_name solo implica ser expresivo y usar las emociones correctas al leer."
@@ -107,7 +106,7 @@
       "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nLeer con @fields.child_name solo implica ser expresivo y usar las emociones correctas al leer.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
-      "text_1_facilitator": "📖Esta es la primera de dos lecciones sobre cómo ayudar a @fields.child_name a aprender a leer. \n\n⭐Nuestra primera lección  para el día de hoy trata sobre cómo disfrutar los libros con @fields.child_name. Leer con @fields.child_name es la mejor manera de ayudarle a aprender a leer. 🔑\n\nLas niñas y los niños aprenden observando, escuchando y copiando. Cuando les lees de pequeños, aprenden palabras nuevas. Cuando van creciendo, aprenden las letras y sus sonidos. ¡Leer juntos puede ayudarles a aprender sobre cualquier cosa que les interese! 💡",
+      "text_1_facilitator": "📖Esta es la primera de dos lecciones sobre cómo ayudar a @fields.child_name a aprender a leer. \n\n⭐Nuestra primera sesión  para el día de hoy trata sobre cómo disfrutar los libros con @fields.child_name. Leer con @fields.child_name es la mejor manera de ayudarle a aprender a leer. 🔑\n\nLas niñas y los niños aprenden observando, escuchando y copiando. Cuando les lees de pequeños, aprenden palabras nuevas. Cuando van creciendo, aprenden las letras y sus sonidos. ¡Leer juntos puede ayudarles a aprender sobre cualquier cosa que les interese! 💡",
       "completed": false
     },
     {
@@ -302,7 +301,7 @@
       "section_1_icon_asset": "images/icons/clock_blue.png",
       "section_2_icon_asset": "images/icons/question_blue.png",
       "section_3_icon_asset": "images/icons/magnifying_glass.svg",
-      "section_4_icon_asset": "images/icons/trust.svg",
+      "section_4_icon_asset": "images/icons/trust.png",
       "section_1_title": "CREAR RUTINAS",
       "section_1_text": "📖 ¡Puedes compartir libros con @fields.child_name en cualquier lugar! Escoge un buen lugar en tu casa para leer juntos. Deshazte de cualquier distracción (por ejemplo, apaga la tablet, el celular o la tele 📺❌📱).  \n\n⏰ Escoge alguna hora del día en la que puedas compartir libros con tu niña o niño.\n\n💡 Si tu niña o niño quiere, deja que escoja un libro 😃 \n\n✨ Si no tienes libros en casa, puedes usar cualquier cosa con palabras e imágenes, como revistas o periódicos viejos.",
       "section_2_title": "HACER PREGUNTAS",

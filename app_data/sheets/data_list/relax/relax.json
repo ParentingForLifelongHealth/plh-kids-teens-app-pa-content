@@ -36,11 +36,10 @@
       "media_asset": "audio/relax/relax_3.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
-      "transcript": "Cierra los ojos y piensa en tu día.\n\nNombra una cosa por la que te sientes agradecido.\nNombra una cosa que hiciste bien.\nNombra una cosa que amas.\n\nMuy bien. Gracias por acompañarnos hoy en ParentApp."
+      "transcript": "Cierra los ojos y piensa en tu día.\n\nNombra una cosa por la que te sientes agradecido.\nNombra una cosa que hiciste bien.\nNombra una cosa que amas.\n\nMuy bien. Gracias por acompañarnos hoy en Crianza Responsable y Amorosa."
     },
     {
       "id": "relax_4",
-      "in_library": "yes",
       "title_eng": "Breathe to three",
       "title": "Respira hasta 3",
       "lottie_asset": "lottie/relax/heart.json",
@@ -51,7 +50,6 @@
     },
     {
       "id": "relax_5",
-      "in_library": "yes",
       "title_eng": "In and out",
       "title": "Inhala y exhala",
       "lottie_asset": "lottie/relax/blue_dots.json",
@@ -143,6 +141,7 @@
     },
     {
       "id": "relax_14",
+      "in_library": "yes",
       "title_eng": "Ground & gratitude",
       "title": "Conexión y gratitud",
       "lottie_asset": "lottie/relax/blue_dots.json",
@@ -153,6 +152,7 @@
     },
     {
       "id": "relax_15",
+      "in_library": "yes",
       "title_eng": "Notice how you feel",
       "title": "Observa cómo te sientes",
       "lottie_asset": "lottie/relax/square_flow.json",
@@ -163,6 +163,7 @@
     },
     {
       "id": "relax_16",
+      "in_library": "yes",
       "title_eng": "Pause power",
       "title": "El poder de la pausa",
       "lottie_asset": "lottie/relax/soothing_waves.json",
@@ -173,6 +174,7 @@
     },
     {
       "id": "relax_17",
+      "in_library": "yes",
       "title_eng": "Praise yourself",
       "title": "Reconócete",
       "lottie_asset": "lottie/relax/looping_rings.json",

@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "relax_5",
-      "in_library": "yes",
       "title_eng": "In and out",
       "title": "Inhala y exhala",
       "lottie_asset": "lottie/relax/blue_dots.json",
@@ -79,7 +78,7 @@
           "eng": "Tú desempeñas un papel importante en el aprendizaje de @fields.child_name y en cómo le da sentido a la vida."
         },
         "text_2": {
-          "eng": "Esta lección trata sobre cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos. 😃"
+          "eng": "Esta sesión trata sobre cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos. 😃"
         }
       },
       "text_1_facilitator": "Tú desempeñas un papel importante en el aprendizaje de @fields.child_name y en cómo le da sentido a la vida.",
@@ -87,7 +86,7 @@
         "text_1_facilitator": {},
         "text_2": {}
       },
-      "text_2": "Esta lección trata sobre cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos. 😃",
+      "text_2": "Esta sesión trata sobre cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos. 😃",
       "completed": false
     },
     {
@@ -236,7 +235,7 @@
         "section_3_title": {},
         "section_3_text": {}
       },
-      "section_1_icon_asset": "images/icons/target.svg",
+      "section_1_icon_asset": "images/icons/target.png",
       "section_2_icon_asset": "images/icons/question_blue.png",
       "section_3_icon_asset": "images/icons/speech_bubble_blue.png",
       "section_1_title": "ESTABLECE METAS",

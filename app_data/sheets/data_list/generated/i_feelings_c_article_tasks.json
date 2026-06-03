@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "relax_4",
-      "in_library": "yes",
       "title_eng": "Breathe to three",
       "title": "Respira hasta 3",
       "lottie_asset": "lottie/relax/heart.json",
@@ -76,7 +75,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "😃😣😔 Esta lección trata sobre identificar tus emociones y las de @fields.child_name."
+          "eng": "😃😣😔 Esta sesión trata sobre identificar tus emociones y las de @fields.child_name."
         },
         "text_2": {
           "eng": "Identificar nuestras propias emociones nos ayuda a tomar decisiones claras y a mejorar la forma en que interactuamos con nuestras niñas, niños o adolescentes y con nosotros mismos.\n\n⭐Identificar emociones y conversar sobre ellas con @fields.child_name, le ayudará a aprender a expresarlas y a manejarlas.  \n\n👌Aprenderá que está bien experimentar cualquier emoción o sentimiento, incluso los incómodos o desagradables. \n\n🌷Puedes ayudar al escucharles, ponerte en su lugar y aceptar sus emociones.  \n\n🤗Esto también les ayudará a elogiar los sentimientos de las y los demás."
@@ -151,7 +150,7 @@
       "quiz_1_question": "**¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nConversar de las emociones agradables es igual de importante que conversar de las emociones incómodas.",
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
-      "text_1_facilitator": "😃😣😔 Esta lección trata sobre identificar tus emociones y las de @fields.child_name.",
+      "text_1_facilitator": "😃😣😔 Esta sesión trata sobre identificar tus emociones y las de @fields.child_name.",
       "text_2": "Identificar nuestras propias emociones nos ayuda a tomar decisiones claras y a mejorar la forma en que interactuamos con nuestras niñas, niños o adolescentes y con nosotros mismos.\n\n⭐Identificar emociones y conversar sobre ellas con @fields.child_name, le ayudará a aprender a expresarlas y a manejarlas.  \n\n👌Aprenderá que está bien experimentar cualquier emoción o sentimiento, incluso los incómodos o desagradables. \n\n🌷Puedes ayudar al escucharles, ponerte en su lugar y aceptar sus emociones.  \n\n🤗Esto también les ayudará a elogiar los sentimientos de las y los demás.",
       "quiz_2_question": "**Hagamos uno más.** \n\n_Ejercicio no. 2_\n\nLos niños y los hombres no deben conversar sobre cómo se sienten cuando están tristes o con miedo.",
       "quiz_2_option_1_text": "Verdadero",
@@ -301,7 +300,7 @@
           "eng": "Abre tu mente, observa 👀, y escucha👂 a @fields.child_name cuando te comparte cómo se siente.\n\n💛 Acepta cómo te sientes tú y cómo se siente @fields.child_name. \n\nRecuerda, sus cuerpos les están mandando mensajes a través de lo que sienten; por eso los sentimientos y las emociones son tan importantes."
         },
         "section_4_title": {
-          "eng": "CONVERSA"
+          "eng": "HABLA"
         },
         "section_4_text": {
           "eng": "😒 Es normal tener dificultades para conversar y expresar nuestras emociones y sentimientos.\n\n📝 Recuerda que también es normal experimentar las emociones de distintas maneras.\n\n⭐ Cuando notas que @fields.child_name está sintiendo una emoción, coméntale, de manera calmada, lo que tú estás observando. \n\nPor ejemplo: \"Veo que estás pisoteando, levantas la voz y en tu carita se ve que algo te molesta. ¿Sientes enojo porque no pudiste salir a jugar?\"\n\nTambién puedes ayudar a @fields.child_name a aprender diferentes emociones usando expresiones faciales y movimientos con tus manos o tu cuerpo. Conviértelo en un juego."
@@ -347,7 +346,7 @@
       "section_2_text": "👀 Empieza a observar estas 6 emociones en ti y en @fields.child_name.\n\n😃😒😔😣Nota cómo se siente cada emoción en tu cuerpo.\n \n😃 También puedes tratar de identificar otras emociones agradables, como la sensación de paz, felicidad o calma.\n\n💙 ¡Aprender a identificar les permite a las niñas y niños apreciar un momento bonito o a alejarse de lo que hace daño!",
       "section_3_title": "ABRE TU MENTE",
       "section_3_text": "Abre tu mente, observa 👀, y escucha👂 a @fields.child_name cuando te comparte cómo se siente.\n\n💛 Acepta cómo te sientes tú y cómo se siente @fields.child_name. \n\nRecuerda, sus cuerpos les están mandando mensajes a través de lo que sienten; por eso los sentimientos y las emociones son tan importantes.",
-      "section_4_title": "CONVERSA",
+      "section_4_title": "HABLA",
       "section_4_text": "😒 Es normal tener dificultades para conversar y expresar nuestras emociones y sentimientos.\n\n📝 Recuerda que también es normal experimentar las emociones de distintas maneras.\n\n⭐ Cuando notas que @fields.child_name está sintiendo una emoción, coméntale, de manera calmada, lo que tú estás observando. \n\nPor ejemplo: \"Veo que estás pisoteando, levantas la voz y en tu carita se ve que algo te molesta. ¿Sientes enojo porque no pudiste salir a jugar?\"\n\nTambién puedes ayudar a @fields.child_name a aprender diferentes emociones usando expresiones faciales y movimientos con tus manos o tu cuerpo. Conviértelo en un juego.",
       "section_5_title": "COMPARTE",
       "section_5_text": "😃 Comparte tus propias emociones con @fields.child_name.\n\nPor ejemplo, yo me sentiría igual si no pudiera salir cuando yo quisiera.\n\n 🎈Esto da un buen ejemplo y le muestra a @fields.child_name que está bien compartir sus propias emociones.",

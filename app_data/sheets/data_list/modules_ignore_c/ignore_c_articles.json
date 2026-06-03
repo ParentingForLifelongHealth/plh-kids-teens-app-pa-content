@@ -10,7 +10,7 @@
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Esta lección  trata sobre qué hacer cuando las niñas y los niños buscan atención con comportamientos exagerados. 🚩",
+      "text_1_facilitator": "Esta sesión  trata sobre qué hacer cuando las niñas y los niños buscan atención con comportamientos exagerados. 🚩",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {},
@@ -27,7 +27,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Esta lección  trata sobre qué hacer cuando las niñas y los niños buscan atención con comportamientos exagerados. 🚩"
+          "eng": "Esta sesión  trata sobre qué hacer cuando las niñas y los niños buscan atención con comportamientos exagerados. 🚩"
         },
         "text_2": {
           "eng": "Las niñas y los niños necesitan atención positiva desde muy temprana edad. 💛\n\nEs una forma estupenda de ayudarles a sentirse bien consigo mismos. ¡Hace más probable que hagan lo que se les pide! 🔄"
@@ -204,11 +204,11 @@
     {
       "id": "practical_tips_2",
       "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/change.svg",
-      "section_2_icon_asset": "images/icons/breathe.svg",
+      "section_1_icon_asset": "images/icons/change.png",
+      "section_2_icon_asset": "images/icons/breathe.png",
       "section_3_icon_asset": "images/icons/eye_blue.png",
-      "section_4_icon_asset": "images/icons/hands_heart.svg",
-      "section_5_icon_asset": "images/icons/climb.svg",
+      "section_4_icon_asset": "images/icons/hands_heart.png",
+      "section_5_icon_asset": "images/icons/climb.png",
       "nested": false,
       "text_1_facilitator": "Recuerda:",
       "_translations": {
@@ -274,7 +274,7 @@
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
-      "text_1_facilitator": "**Actividad para casa** ⭐ \n\nBusca una cosa positiva que @fields.child_name haga el día de hoy y elógiale por ello. \n\nSi @fields.child_name se empieza a quejar por algo o a hacer berrinche, intenta usar las estrategias de esta lección para redirigir, mantener la calma, observar y cuidar. \n\nPuede que al principio no sea facil, ¡pero síguele, tú puedes hacerlo!",
+      "text_1_facilitator": "**Actividad para casa** ⭐ \n\nBusca una cosa positiva que @fields.child_name haga el día de hoy y elógiale por ello. \n\nSi @fields.child_name se empieza a quejar por algo o a hacer berrinche, intenta usar las estrategias de esta sesión para redirigir, mantener la calma, observar y cuidar. \n\nPuede que al principio no sea facil, ¡pero síguele, tú puedes hacerlo!",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -285,7 +285,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa** ⭐ \n\nBusca una cosa positiva que @fields.child_name haga el día de hoy y elógiale por ello. \n\nSi @fields.child_name se empieza a quejar por algo o a hacer berrinche, intenta usar las estrategias de esta lección para redirigir, mantener la calma, observar y cuidar. \n\nPuede que al principio no sea facil, ¡pero síguele, tú puedes hacerlo!"
+          "eng": "**Actividad para casa** ⭐ \n\nBusca una cosa positiva que @fields.child_name haga el día de hoy y elógiale por ello. \n\nSi @fields.child_name se empieza a quejar por algo o a hacer berrinche, intenta usar las estrategias de esta sesión para redirigir, mantener la calma, observar y cuidar. \n\nPuede que al principio no sea facil, ¡pero síguele, tú puedes hacerlo!"
         },
         "quiz_1_question": {
           "eng": "¿Puedes encontrar algo por lo que puedas elogiar a @fields.child_name hoy? ⏰"

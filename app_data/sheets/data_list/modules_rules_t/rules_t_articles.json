@@ -10,14 +10,14 @@
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Esta lección trata sobre establecer reglas o normas familiares con @fields.child_name.",
+      "text_1_facilitator": "Esta sesión trata sobre establecer reglas o normas familiares con @fields.child_name.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Esta lección trata sobre establecer reglas o normas familiares con @fields.child_name."
+          "eng": "Esta sesión trata sobre establecer reglas o normas familiares con @fields.child_name."
         },
         "text_2": {
           "eng": "Las reglas familiares pueden ayudar a que tu adolescente se mantenga a salvo del peligro, tanto dentro del hogar como en la comunidad. \n\nSi incluyes a @fields.child_name al momento de establecer estas reglas, es más probable que las siga. ⭐"
@@ -175,7 +175,7 @@
     {
       "id": "practical_tips_2",
       "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/trust.svg",
+      "section_1_icon_asset": "images/icons/trust.png",
       "section_2_icon_asset": "images/icons/star_outline_blue.svg",
       "section_3_icon_asset": "images/icons/trophy_blue.png",
       "section_4_icon_asset": "images/icons/spark.png",
