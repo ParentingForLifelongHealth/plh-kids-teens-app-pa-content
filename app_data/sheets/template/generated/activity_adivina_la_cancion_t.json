@@ -1,5 +1,5 @@
 {
-  "flow_name": "activity_placeholder_4",
+  "flow_name": "activity_adivina_la_cancion_t",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -28,7 +28,7 @@
       "rows": [
         {
           "name": "activity_id",
-          "value": "placeholder_4",
+          "value": "adivina_la_cancion_t",
           "_translations": {
             "value": {}
           },

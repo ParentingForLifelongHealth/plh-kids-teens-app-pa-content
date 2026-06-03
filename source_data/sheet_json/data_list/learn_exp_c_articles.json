@@ -13,7 +13,7 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1_facilitator::eng": "La lección de habilidades de crianza para el día de hoy trata sobre cómo ayudar a @fields.child_name a aprender de sus errores. 💚",
+      "text_1_facilitator::eng": "La sesión de habilidades de crianza para el día de hoy trata sobre cómo ayudar a @fields.child_name a aprender de sus errores. 💚",
       "text_2::eng": "Aprender de nuestros errores puede ayudarnos a evitarlos en el futuro. 🌷\n\nTambién nos ayuda a ser personas más comprensivas y menos duras con nosotras mismas cuando las cosas no salen bien. 😃",
       "quiz_1_question::eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nSi mi niña o niño comprende su error y pide perdón, significa que puedo sacar a relucir otros errores que haya cometido para que aprenda.",
       "quiz_1_option_1_text::eng": "Verdadero",
@@ -83,7 +83,7 @@
       "section_2_icon_asset": "images/icons/trophy_blue.png",
       "section_2_text::eng": "💛 *_Elogia a @fields.child_name por el esfuerzo que invierte en su aprendizaje aunque no siempre cumpla su cometido._*\n\n✨ El esfuerzo es más importante que el simple hecho de dominar algo en específico.",
       "section_3_title::eng": "PERMITIE QUE LOS ERRORES SUCEDAN",
-      "section_3_icon_asset": "images/icons/hands_heart.svg",
+      "section_3_icon_asset": "images/icons/hands_heart.png",
       "section_3_text::eng": "🌱 Permite que @fields.child_name cometa errores. Deja que aprenda de sus propios errores para que pueda seguir aprendiendo y creciendo.\n\n❓ Puede que quieras resolverle todos los problemas a @fields.child_name, sobre todo cuando sabes que lo puedes hacer. Pero esto no le enseñará a resolver sus propios problemas.\n\n😃 *_Habla con @fields.child_name sobre sus errores y permite que encuentre una forma de resolver sus problemas y hacerlo mejor para la próxima vez._*",
       "section_4_title::eng": "COMPARTE",
       "section_4_icon_asset": "images/icons/parent_child_heart.svg",
@@ -92,7 +92,7 @@
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
-      "text_1_facilitator::eng": "**Actividad para casa**⭐ \n\nComparte una historia con @fields.child_name sobre un momento en el que aprendiste de un error. Puede ser algo de cuando tú eras menor u otra lección de vida que hayas tenido.",
+      "text_1_facilitator::eng": "**Actividad para casa**⭐ \n\nComparte una historia con @fields.child_name sobre un momento en el que aprendiste de un error. Puede ser algo de cuando tú eras menor u otra sesión de vida que hayas tenido.",
       "quiz_1_question::eng": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Maravilloso!\n💙 Usa estas estrategias que aprendiste hoy para ayudar a @fields.child_name a fortalecer sus habilidades mentales y emocionales.",

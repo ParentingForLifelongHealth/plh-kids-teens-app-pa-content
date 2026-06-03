@@ -10,7 +10,7 @@
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "La lección de hoy trata de enseñarle a @fields.child_name sobre el contacto físico ✅ seguro y el ❌ inseguro.",
+      "text_1_facilitator": "La sesión de hoy trata de enseñarle a @fields.child_name sobre el contacto físico ✅ seguro y el ❌ inseguro.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {},
@@ -26,7 +26,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "La lección de hoy trata de enseñarle a @fields.child_name sobre el contacto físico ✅ seguro y el ❌ inseguro."
+          "eng": "La sesión de hoy trata de enseñarle a @fields.child_name sobre el contacto físico ✅ seguro y el ❌ inseguro."
         },
         "text_2": {
           "eng": "💡 Es normal sentir incomodidad al conversar sobre abuso sexual con las niñas y los niños.\n\n❗ Pero hay algunas cosas sencillas que pueden ayudarles a entender cuándo *no* está bien que les toquen, y qué deben hacer si alguna vez pasa algo.\n\n🔑 Le hace saber que puede controlar quién toca su cuerpo y de qué manera lo hace.\n\n🌷 ¡Esto les prepara para mantenerse a salvo durante toda su vida!"
@@ -161,9 +161,9 @@
     {
       "id": "practical_tips_2",
       "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/hands_heart.svg",
-      "section_2_icon_asset": "images/icons/no.svg",
-      "section_3_icon_asset": "images/icons/distance.svg",
+      "section_1_icon_asset": "images/icons/hands_heart.png",
+      "section_2_icon_asset": "images/icons/no.png",
+      "section_3_icon_asset": "images/icons/distance.png",
       "section_4_icon_asset": "images/icons/parent_child.svg",
       "section_5_icon_asset": "images/icons/speech_bubble_blue.png",
       "nested": false,

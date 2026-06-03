@@ -10,7 +10,7 @@
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Esta lección trata sobre cómo puedes empezar a enseñarle a @fields.child_name los números y las matemáticas. 1️⃣2️⃣3️⃣",
+      "text_1_facilitator": "Esta sesión trata sobre cómo puedes empezar a enseñarle a @fields.child_name los números y las matemáticas. 1️⃣2️⃣3️⃣",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {},
@@ -28,7 +28,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Esta lección trata sobre cómo puedes empezar a enseñarle a @fields.child_name los números y las matemáticas. 1️⃣2️⃣3️⃣"
+          "eng": "Esta sesión trata sobre cómo puedes empezar a enseñarle a @fields.child_name los números y las matemáticas. 1️⃣2️⃣3️⃣"
         },
         "text_2": {
           "eng": "⭐ Aprender sobre números, figuras geométricas y grupos ayudará a @fields.child_name a entender las matemáticas básicas.\n\n🎓 Esto le preparará para tener aprovechamiento en la escuela y en la vida."
@@ -99,9 +99,9 @@
     {
       "id": "practical_tips_2",
       "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/maths.svg",
-      "section_2_icon_asset": "images/icons/123.svg",
-      "section_3_icon_asset": "images/icons/figures.svg",
+      "section_1_icon_asset": "images/icons/maths.png",
+      "section_2_icon_asset": "images/icons/123.png",
+      "section_3_icon_asset": "images/icons/figures.png",
       "section_4_icon_asset": "images/icons/star_filled_blue.png",
       "nested": false,
       "text_1_facilitator": "Recuerda:",

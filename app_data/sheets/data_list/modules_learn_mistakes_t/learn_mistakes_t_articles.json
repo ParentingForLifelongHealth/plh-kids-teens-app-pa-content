@@ -10,14 +10,14 @@
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "La lección de estrategias de crianza para el día de hoy trata sobre cómo ayudar a @fields.child_name a aprender de sus errores.",
+      "text_1_facilitator": "La sesión de estrategias de crianza para el día de hoy trata sobre cómo ayudar a @fields.child_name a aprender de sus errores.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "La lección de estrategias de crianza para el día de hoy trata sobre cómo ayudar a @fields.child_name a aprender de sus errores."
+          "eng": "La sesión de estrategias de crianza para el día de hoy trata sobre cómo ayudar a @fields.child_name a aprender de sus errores."
         },
         "text_2": {
           "eng": "Aprender de nuestros errores puede ayudar a evitarlos en el futuro. También puede ayudar a tratarnos con más empatía y con menos dureza cuando las cosas no van bien. 😃"
@@ -113,10 +113,10 @@
           "eng": "Ah bueno, al menos ahora sabes que es importante estudiar para cada examen, por muy seguro que te sientas. ¿Quieres que te ayude a recordarlo para la próxima vez?"
         },
         "character_2_text": {
-          "eng": "Así está bien, abue. Lo recordaré. Gracias por entender."
+          "eng": "Así está bien, abuela. Lo recordaré. Gracias por entender."
         }
       },
-      "character_2_text": "Así está bien, abue. Lo recordaré. Gracias por entender."
+      "character_2_text": "Así está bien, abuela. Lo recordaré. Gracias por entender."
     },
     {
       "id": "practical_tips_1",
@@ -140,7 +140,7 @@
       "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/speech_bubble_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/hands_heart.svg",
+      "section_3_icon_asset": "images/icons/hands_heart.png",
       "section_4_icon_asset": "images/icons/parent_child.svg",
       "nested": false,
       "text_1_facilitator": "Recuerda:",
@@ -197,7 +197,7 @@
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
-      "text_1_facilitator": "**Actividad para casa** ⭐ \n\nComparte con tu adolescente alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste.",
+      "text_1_facilitator": "**Actividad para casa** ⭐ \n\nComparte con tu adolescente alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra sesión de vida que tuviste.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -208,7 +208,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa** ⭐ \n\nComparte con tu adolescente alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra lección de vida que tuviste."
+          "eng": "**Actividad para casa** ⭐ \n\nComparte con tu adolescente alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra sesión de vida que tuviste."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"

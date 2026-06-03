@@ -1,12 +1,12 @@
 {
-  "flow_name": "article_i_calm_t_explore_3",
+  "flow_name": "activity_semaforo_t",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
     {
       "type": "template",
-      "name": "article",
-      "value": "article",
+      "name": "activity",
+      "value": "activity",
       "action_list": [
         {
           "trigger": "completed",
@@ -27,26 +27,16 @@
       ],
       "rows": [
         {
-          "name": "article_id",
-          "value": "explore_3",
+          "name": "activity_id",
+          "value": "semaforo_t",
           "_translations": {
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "article.article_id"
-        },
-        {
-          "name": "module_id",
-          "value": "i_calm_t",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "article.module_id"
+          "_nested_name": "activity.activity_id"
         }
       ],
-      "_nested_name": "article"
+      "_nested_name": "activity"
     }
   ]
 }

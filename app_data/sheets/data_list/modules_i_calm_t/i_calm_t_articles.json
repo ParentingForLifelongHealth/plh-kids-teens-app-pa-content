@@ -77,35 +77,15 @@
       "image_asset": "images/comic/relation/calm_teen_2.svg",
       "character_1_id": "f2_abuela",
       "nested": false,
-      "character_1_text": "(Pensando) Tomaré una pausa y pondré mi canción favorita.",
+      "character_1_text": "(Pensando) Tomaré una pausa y pondré mi canción favorita.\n\nUn momento después...\n\n(Pensando) Me siento más tranquila. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto.",
       "_translations": {
         "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "(Pensando) Tomaré una pausa y pondré mi canción favorita."
+          "eng": "(Pensando) Tomaré una pausa y pondré mi canción favorita.\n\nUn momento después...\n\n(Pensando) Me siento más tranquila. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto."
         }
       }
-    },
-    {
-      "id": "explore_3",
-      "category_id": "explore",
-      "character_1_id": "f2_abuela",
-      "nested": false,
-      "text_2": "Un momento después.",
-      "_translations": {
-        "text_2": {},
-        "character_1_text": {}
-      },
-      "_translatedFields": {
-        "text_2": {
-          "eng": "Un momento después."
-        },
-        "character_1_text": {
-          "eng": "(Pensando) Me siento más tranquila. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto."
-        }
-      },
-      "character_1_text": "(Pensando) Me siento más tranquila. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto."
     },
     {
       "id": "explore_4",

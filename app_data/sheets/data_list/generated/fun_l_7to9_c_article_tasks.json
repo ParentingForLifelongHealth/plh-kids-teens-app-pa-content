@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "relax_4",
-      "in_library": "yes",
       "title_eng": "Breathe to three",
       "title": "Respira hasta 3",
       "lottie_asset": "lottie/relax/heart.json",
@@ -76,13 +75,13 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Esta lección trata sobre cómo ayudar a @fields.child_name a disfrutar de su aprendizaje para que sea algo que le guste y le divierta. 😃"
+          "eng": "Esta sesión trata sobre cómo ayudar a @fields.child_name a disfrutar de su aprendizaje para que sea algo que le guste y le divierta. 😃"
         },
         "text_2": {
           "eng": "Tú desempeñas un papel importante en cómo @fields.child_name aprende y se desarrolla dentro y fuera de la escuela."
         }
       },
-      "text_1_facilitator": "Esta lección trata sobre cómo ayudar a @fields.child_name a disfrutar de su aprendizaje para que sea algo que le guste y le divierta. 😃",
+      "text_1_facilitator": "Esta sesión trata sobre cómo ayudar a @fields.child_name a disfrutar de su aprendizaje para que sea algo que le guste y le divierta. 😃",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {}

@@ -10,14 +10,14 @@
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Esta lección trata sobre cómo crear un ambiente positivo para el aprendizaje de @fields.child_name.",
+      "text_1_facilitator": "Esta sesión trata sobre cómo crear un ambiente positivo para el aprendizaje de @fields.child_name.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Esta lección trata sobre cómo crear un ambiente positivo para el aprendizaje de @fields.child_name."
+          "eng": "Esta sesión trata sobre cómo crear un ambiente positivo para el aprendizaje de @fields.child_name."
         },
         "text_2": {
           "eng": "@fields.child_name aprenderá mucho mejor estando en un ambiente que apoye y fomente su aprendizaje. 😃"
@@ -136,9 +136,9 @@
     {
       "id": "practical_tips_2",
       "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/silence.svg",
+      "section_1_icon_asset": "images/icons/silence.png",
       "section_2_icon_asset": "images/icons/clock_blue.png",
-      "section_3_icon_asset": "images/icons/heart_filles_blue.png",
+      "section_3_icon_asset": "images/icons/heart_filled_blue.png",
       "nested": false,
       "text_1_facilitator": "Recuerda:",
       "_translations": {
@@ -184,7 +184,7 @@
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
-      "text_1_facilitator": "**Actividad para casa**⭐\n\nPlatica con @fields.child_name para encontrar un lugar de estudio adecuado en tu casa.",
+      "text_1_facilitator": "**Actividad para casa**⭐\n\nConversa con @fields.child_name para encontrar un lugar de estudio adecuado en tu casa.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -195,7 +195,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa**⭐\n\nPlatica con @fields.child_name para encontrar un lugar de estudio adecuado en tu casa."
+          "eng": "**Actividad para casa**⭐\n\nConversa con @fields.child_name para encontrar un lugar de estudio adecuado en tu casa."
         },
         "quiz_1_question": {
           "eng": "¿Tienes tiempo para hacerlo hoy? ⏰"
