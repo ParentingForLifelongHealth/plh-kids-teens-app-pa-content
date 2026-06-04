@@ -201,6 +201,14 @@
           "trigger": "click",
           "action_id": "emit",
           "args": [
+            "completed"
+          ],
+          "_raw": "click | emit: completed"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
             "force_restart"
           ],
           "_raw": "click | emit: force_restart"
