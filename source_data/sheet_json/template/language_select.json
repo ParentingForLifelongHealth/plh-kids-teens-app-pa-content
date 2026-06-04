@@ -33,7 +33,7 @@
       "type": "button",
       "name": "button_completed",
       "value": "Continue",
-      "action_list": "click | set_field: language_selected: TRUE;\nclick | emit: force_restart; ",
+      "action_list": "click | set_field: language_selected: TRUE;\nclick | emit: completed;\nclick | emit: force_restart; ",
       "parameter_list": "style: navigation"
     }
   ]

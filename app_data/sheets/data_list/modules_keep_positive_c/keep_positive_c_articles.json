@@ -146,8 +146,6 @@
       "id": "practical_tips_1",
       "category_id": "practical_tips",
       "media_type": "youtube",
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=PPO7uSpeug8&list=PLSUp-fKSYJUbJGZ7OlCtJvOlLuEQ_2yTU&index=2",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=0gqQxdBNDpg",
       "nested": false,
       "text_1_facilitator": "Selecciona reproducir ▶️ para aprender 3️⃣ estrategias sobre cómo ayudar a @fields.child_name a seguir instrucciones con mayor frecuencia:\n\n1️⃣ ESPECIFICAR LO QUE QUIERES\n2️⃣ SER REALISTA\n3️⃣ USAR PALABRAS AFIRMATIVAS",
       "_translations": {
@@ -166,7 +164,7 @@
       "section_2_icon_asset": "images/icons/tick.svg",
       "section_3_icon_asset": "images/icons/star_filled_blue.png",
       "nested": false,
-      "text_1_facilitator": "Recuerda:",
+      "text_1_facilitator": "Conoce las siguientes estrategias sobre cómo ayudar a @fields.child_name a seguir instrucciones con mayor frecuencia:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -178,7 +176,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Recuerda:"
+          "eng": "Conoce las siguientes estrategias sobre cómo ayudar a @fields.child_name a seguir instrucciones con mayor frecuencia:"
         },
         "section_1_title": {
           "eng": "ESPECIFICAR LO QUE QUIERES"
