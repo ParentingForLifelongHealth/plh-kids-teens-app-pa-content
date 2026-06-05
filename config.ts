@@ -23,7 +23,7 @@ config.google_drive.assets_folders = [
 
 config.android = {
   app_id:'international.idems.plh_kids_teens_pa',
-  app_name:'Panama',
+  app_name:'Crianza Reponsable y Amorosa',
   logo_asset_path: "./app_data/assets/android/icon-foreground.png",
   logo_background_color: "#FFFFFF",
   zoom_enabled: true
@@ -31,7 +31,7 @@ config.android = {
 
 config.ios = {
   app_id:"international.idems.plh-kids-teens-pa",
-  app_name:"Panama",
+  app_name:"Crianza Reponsable y Amorosa",
   logo_asset_path: "./app_data/assets/android/icon-foreground.png",
   logo_background_color: "#FFFFFF",
   zoom_enabled: true
