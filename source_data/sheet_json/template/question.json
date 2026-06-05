@@ -367,13 +367,136 @@
       "exclude_from_translation": true
     },
     {
+      "name": "option_no_7",
+      "value": 7,
+      "exclude_from_translation": true
+    },
+    {
+      "name": "option_column_7_text",
+      "value": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_7@local.join@local.text",
+      "comments": "quiz.7.option.7.text",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "option_column_7_image",
+      "value": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_7@local.join@local.image",
+      "comments": "quiz.7.option.7.image_asset",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "concat_option_7_text",
+      "value": "article_data.@local.option_column_7_text",
+      "comments": "article_data.quiz.7.option.7.text",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "concat_option_7_image",
+      "value": "article_data.@local.option_column_7_image",
+      "comments": "article_data.quiz.7.option.7.image_asset",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "option_7_text",
+      "value": "@local.@local.concat_option_7_text",
+      "comments": "@local.article_data.quiz.7.option.7.text",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "option_7_image",
+      "value": "@local.@local.concat_option_7_image",
+      "comments": "@local.article_data.quiz.7.option.7.image_asset",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "option_no_8",
+      "value": 8,
+      "exclude_from_translation": true
+    },
+    {
+      "name": "option_column_8_text",
+      "value": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_8@local.join@local.text",
+      "comments": "quiz.8.option.8.text",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "option_column_8_image",
+      "value": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_8@local.join@local.image",
+      "comments": "quiz.8.option.8.image_asset",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "concat_option_8_text",
+      "value": "article_data.@local.option_column_8_text",
+      "comments": "article_data.quiz.8.option.8.text",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "concat_option_8_image",
+      "value": "article_data.@local.option_column_8_image",
+      "comments": "article_data.quiz.8.option.8.image_asset",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "option_8_text",
+      "value": "@local.@local.concat_option_8_text",
+      "comments": "@local.article_data.quiz.8.option.8.text",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "option_8_image",
+      "value": "@local.@local.concat_option_8_image",
+      "comments": "@local.article_data.quiz.8.option.8.image_asset",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "option_no_9",
+      "value": 9,
+      "exclude_from_translation": true
+    },
+    {
+      "name": "option_column_9_text",
+      "value": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_9@local.join@local.text",
+      "comments": "quiz.9.option.9.text",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "option_column_9_image",
+      "value": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_9@local.join@local.image",
+      "comments": "quiz.9.option.9.image_asset",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "concat_option_9_text",
+      "value": "article_data.@local.option_column_9_text",
+      "comments": "article_data.quiz.9.option.9.text",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "concat_option_9_image",
+      "value": "article_data.@local.option_column_9_image",
+      "comments": "article_data.quiz.9.option.9.image_asset",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "option_9_text",
+      "value": "@local.@local.concat_option_9_text",
+      "comments": "@local.article_data.quiz.9.option.9.text",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "option_9_image",
+      "value": "@local.@local.concat_option_9_image",
+      "comments": "@local.article_data.quiz.9.option.9.image_asset",
+      "exclude_from_translation": true
+    },
+    {
       "name": "answer_list_1",
-      "value": "name:option_1 | text:@local.option_1_text; \nname:option_2 | text:@local.option_2_text;\nname:option_3 | text:@local.option_3_text;\nname:option_4 | text:@local.option_4_text;\nname:option_5 | text:@local.option_5_text;\nname:option_6 | text:@local.option_6_text",
+      "value": "name:option_1 | text:@local.option_1_text; \nname:option_2 | text:@local.option_2_text;\nname:option_3 | text:@local.option_3_text;\nname:option_4 | text:@local.option_4_text;\nname:option_5 | text:@local.option_5_text;\nname:option_6 | text:@local.option_6_text;\nname:option_7 | text:@local.option_7_text;\nname:option_8 | text:@local.option_8_text;\nname:option_9 | text:@local.option_9_text",
       "exclude_from_translation": true
     },
     {
       "name": "answer_list_2",
-      "value": "name:option_1 | text:@local.option_1_text | image: @local.option_1_image; \nname:option_2 | text:@local.option_2_text | image: @local.option_2_image;\nname:option_3 | text:@local.option_3_text | image: @local.option_3_image;\nname:option_4 | text:@local.option_4_text | image: @local.option_4_image;\nname:option_5 | text:@local.option_5_text | image: @local.option_5_image;\nname:option_6 | text:@local.option_6_text | image: @local.option_6_image",
+      "value": "name:option_1 | text:@local.option_1_text | image: @local.option_1_image; \nname:option_2 | text:@local.option_2_text | image: @local.option_2_image;\nname:option_3 | text:@local.option_3_text | image: @local.option_3_image;\nname:option_4 | text:@local.option_4_text | image: @local.option_4_image;\nname:option_5 | text:@local.option_5_text | image: @local.option_5_image;\nname:option_6 | text:@local.option_6_text | image: @local.option_6_image;\nname:option_7 | text:@local.option_7_text | image: @local.option_7_image;\nname:option_8 | text:@local.option_8_text | image: @local.option_8_image;\nname:option_9 | text:@local.option_9_text | image: @local.option_9_image",
       "exclude_from_translation": true
     },
     {
@@ -382,7 +505,7 @@
     },
     {
       "name": "has_any_image",
-      "value": "!!@local.option_1_image || !!@local.option_2_image || !!@local.option_3_image || !!@local.option_4_image || !!@local.option_5_image || !!@local.option_6_image",
+      "value": "!!@local.option_1_image || !!@local.option_2_image || !!@local.option_3_image || !!@local.option_4_image || !!@local.option_5_image || !!@local.option_6_image || !!@local.option_7_image || !!@local.option_8_image || !!@local.option_9_image",
       "comments": "true if it contains an image",
       "exclude_from_translation": true
     },
@@ -731,6 +854,140 @@
     {
       "name": "feedback_no",
       "value": 6,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_template",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_template",
+      "name": "option_7",
+      "value": "feedback",
+      "condition": "@item.@local.response_column==\"option_7\"",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "in_library",
+      "value": "@local.in_library"
+    },
+    {
+      "name": "character_id",
+      "value": "@local.character_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "article_id",
+      "value": "@local.article_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "module_id",
+      "value": "@local.module_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "data",
+      "value": "@local.data",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "question_no",
+      "value": "@local.question_no",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "feedback_no",
+      "value": 7,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_template",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_template",
+      "name": "option_8",
+      "value": "feedback",
+      "condition": "@item.@local.response_column==\"option_8\"",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "in_library",
+      "value": "@local.in_library"
+    },
+    {
+      "name": "character_id",
+      "value": "@local.character_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "article_id",
+      "value": "@local.article_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "module_id",
+      "value": "@local.module_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "data",
+      "value": "@local.data",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "question_no",
+      "value": "@local.question_no",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "feedback_no",
+      "value": 8,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_template"
+    },
+    {
+      "type": "begin_template",
+      "name": "option_9",
+      "value": "feedback",
+      "condition": "@item.@local.response_column==\"option_9\"",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "in_library",
+      "value": "@local.in_library"
+    },
+    {
+      "name": "character_id",
+      "value": "@local.character_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "article_id",
+      "value": "@local.article_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "module_id",
+      "value": "@local.module_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "data",
+      "value": "@local.data",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "question_no",
+      "value": "@local.question_no",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "feedback_no",
+      "value": 9,
       "exclude_from_translation": true
     },
     {

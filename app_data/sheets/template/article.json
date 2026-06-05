@@ -1435,6 +1435,16 @@
       "_nested_name": "gender"
     },
     {
+      "name": "other_gender",
+      "value": "_m",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "other_gender"
+    },
+    {
       "name": "gender",
       "value": "_m",
       "_translations": {
@@ -1461,22 +1471,69 @@
       }
     },
     {
+      "name": "other_gender",
+      "value": "_f",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@fields.facilitator_id== \"facilitator_male\"",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "other_gender",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@fields.facilitator_id== \"facilitator_male\"",
+            "matchedExpression": "@fields.facilitator_id",
+            "type": "fields",
+            "fieldName": "facilitator_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.facilitator_id": [
+          "condition"
+        ]
+      }
+    },
+    {
       "name": "gender",
-      "condition": "@global.gender_youtube_link",
+      "condition": "!@global.gender_youtube_link",
       "type": "set_variable",
       "_nested_name": "gender",
       "_dynamicFields": {
         "condition": [
           {
-            "fullExpression": "@global.gender_youtube_link",
-            "matchedExpression": "@global.gender_youtube_link",
+            "fullExpression": "!@global.gender_youtube_link",
+            "matchedExpression": "!@global.gender_youtube_link",
             "type": "global",
             "fieldName": "gender_youtube_link"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@global.gender_youtube_link": [
+        "!@global.gender_youtube_link": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "other_gender",
+      "condition": "!@global.gender_youtube_link",
+      "type": "set_variable",
+      "_nested_name": "other_gender",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "!@global.gender_youtube_link",
+            "matchedExpression": "!@global.gender_youtube_link",
+            "type": "global",
+            "fieldName": "gender_youtube_link"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "!@global.gender_youtube_link": [
           "condition"
         ]
       }
@@ -1525,6 +1582,48 @@
       }
     },
     {
+      "name": "youtube_column_other_gender",
+      "value": "@local.youtube@local.language@local.other_gender",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "youtube_column_other_gender",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.youtube@local.language@local.other_gender",
+            "matchedExpression": "@local.youtube",
+            "type": "local",
+            "fieldName": "youtube"
+          },
+          {
+            "fullExpression": "@local.youtube@local.language@local.other_gender",
+            "matchedExpression": "@local.language",
+            "type": "local",
+            "fieldName": "language"
+          },
+          {
+            "fullExpression": "@local.youtube@local.language@local.other_gender",
+            "matchedExpression": "@local.other_gender",
+            "type": "local",
+            "fieldName": "other_gender"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.youtube": [
+          "value"
+        ],
+        "@local.language": [
+          "value"
+        ],
+        "@local.other_gender": [
+          "value"
+        ]
+      }
+    },
+    {
       "name": "youtube_concat",
       "value": "article_data.@local.youtube_column",
       "_translations": {
@@ -1545,6 +1644,30 @@
       },
       "_dynamicDependencies": {
         "@local.youtube_column": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "youtube_concat_other_gender",
+      "value": "article_data.@local.youtube_column_other_gender",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "youtube_concat_other_gender",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "article_data.@local.youtube_column_other_gender",
+            "matchedExpression": "@local.youtube_column_other_gender",
+            "type": "local",
+            "fieldName": "youtube_column_other_gender"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.youtube_column_other_gender": [
           "value"
         ]
       }
@@ -1593,6 +1716,48 @@
       }
     },
     {
+      "name": "youtube_column_missing_other_gender",
+      "value": "@local.youtube@local.default_language@local.other_gender",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "youtube_column_missing_other_gender",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.youtube@local.default_language@local.other_gender",
+            "matchedExpression": "@local.youtube",
+            "type": "local",
+            "fieldName": "youtube"
+          },
+          {
+            "fullExpression": "@local.youtube@local.default_language@local.other_gender",
+            "matchedExpression": "@local.default_language",
+            "type": "local",
+            "fieldName": "default_language"
+          },
+          {
+            "fullExpression": "@local.youtube@local.default_language@local.other_gender",
+            "matchedExpression": "@local.other_gender",
+            "type": "local",
+            "fieldName": "other_gender"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.youtube": [
+          "value"
+        ],
+        "@local.default_language": [
+          "value"
+        ],
+        "@local.other_gender": [
+          "value"
+        ]
+      }
+    },
+    {
       "name": "youtube_concat_missing",
       "value": "article_data.@local.youtube_column_missing",
       "_translations": {
@@ -1613,6 +1778,30 @@
       },
       "_dynamicDependencies": {
         "@local.youtube_column_missing": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "youtube_concat_missing_other_gender",
+      "value": "article_data.@local.youtube_column_missing_other_gender",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "youtube_concat_missing_other_gender",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "article_data.@local.youtube_column_missing_other_gender",
+            "matchedExpression": "@local.youtube_column_missing_other_gender",
+            "type": "local",
+            "fieldName": "youtube_column_missing_other_gender"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.youtube_column_missing_other_gender": [
           "value"
         ]
       }
@@ -1660,12 +1849,55 @@
         },
         {
           "type": "youtube",
+          "name": "youtube_other_gender",
+          "value": "@local.@local.youtube_concat_other_gender",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!(@local.@local.youtube_concat) && !!(@local.@local.youtube_concat_other_gender)",
+          "_nested_name": "youtube_dg.youtube_other_gender",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.@local.youtube_concat_other_gender",
+                "matchedExpression": "@local.youtube_concat_other_gender",
+                "type": "local",
+                "fieldName": "youtube_concat_other_gender"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!(@local.@local.youtube_concat) && !!(@local.@local.youtube_concat_other_gender)",
+                "matchedExpression": "@local.youtube_concat",
+                "type": "local",
+                "fieldName": "youtube_concat"
+              },
+              {
+                "fullExpression": "!(@local.@local.youtube_concat) && !!(@local.@local.youtube_concat_other_gender)",
+                "matchedExpression": "@local.youtube_concat_other_gender",
+                "type": "local",
+                "fieldName": "youtube_concat_other_gender"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.youtube_concat_other_gender": [
+              "value",
+              "condition"
+            ],
+            "@local.youtube_concat": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "youtube",
           "name": "youtube_lang_missing",
           "value": "@local.@local.youtube_concat_missing",
           "_translations": {
             "value": {}
           },
-          "condition": "!(@local.@local.youtube_concat)",
+          "condition": "!(@local.@local.youtube_concat) && !(@local.@local.youtube_concat_other_gender) && !!(@local.@local.youtube_concat_missing)",
           "exclude_from_translation": true,
           "_nested_name": "youtube_dg.youtube_lang_missing",
           "_dynamicFields": {
@@ -1679,18 +1911,87 @@
             ],
             "condition": [
               {
-                "fullExpression": "!(@local.@local.youtube_concat)",
+                "fullExpression": "!(@local.@local.youtube_concat) && !(@local.@local.youtube_concat_other_gender) && !!(@local.@local.youtube_concat_missing)",
                 "matchedExpression": "@local.youtube_concat",
                 "type": "local",
                 "fieldName": "youtube_concat"
+              },
+              {
+                "fullExpression": "!(@local.@local.youtube_concat) && !(@local.@local.youtube_concat_other_gender) && !!(@local.@local.youtube_concat_missing)",
+                "matchedExpression": "@local.youtube_concat_other_gender",
+                "type": "local",
+                "fieldName": "youtube_concat_other_gender"
+              },
+              {
+                "fullExpression": "!(@local.@local.youtube_concat) && !(@local.@local.youtube_concat_other_gender) && !!(@local.@local.youtube_concat_missing)",
+                "matchedExpression": "@local.youtube_concat_missing",
+                "type": "local",
+                "fieldName": "youtube_concat_missing"
               }
             ]
           },
           "_dynamicDependencies": {
             "@local.youtube_concat_missing": [
-              "value"
+              "value",
+              "condition"
             ],
             "@local.youtube_concat": [
+              "condition"
+            ],
+            "@local.youtube_concat_other_gender": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "youtube",
+          "name": "youtube_lang_missing_other_gender",
+          "value": "@local.@local.youtube_concat_missing_other_gender",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!(@local.@local.youtube_concat) && !(@local.@local.youtube_concat_other_gender) && !!(@local.@local.youtube_concat_missing_other_gender)",
+          "exclude_from_translation": true,
+          "_nested_name": "youtube_dg.youtube_lang_missing_other_gender",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.@local.youtube_concat_missing_other_gender",
+                "matchedExpression": "@local.youtube_concat_missing_other_gender",
+                "type": "local",
+                "fieldName": "youtube_concat_missing_other_gender"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!(@local.@local.youtube_concat) && !(@local.@local.youtube_concat_other_gender) && !!(@local.@local.youtube_concat_missing_other_gender)",
+                "matchedExpression": "@local.youtube_concat",
+                "type": "local",
+                "fieldName": "youtube_concat"
+              },
+              {
+                "fullExpression": "!(@local.@local.youtube_concat) && !(@local.@local.youtube_concat_other_gender) && !!(@local.@local.youtube_concat_missing_other_gender)",
+                "matchedExpression": "@local.youtube_concat_other_gender",
+                "type": "local",
+                "fieldName": "youtube_concat_other_gender"
+              },
+              {
+                "fullExpression": "!(@local.@local.youtube_concat) && !(@local.@local.youtube_concat_other_gender) && !!(@local.@local.youtube_concat_missing_other_gender)",
+                "matchedExpression": "@local.youtube_concat_missing_other_gender",
+                "type": "local",
+                "fieldName": "youtube_concat_missing_other_gender"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.youtube_concat_missing_other_gender": [
+              "value",
+              "condition"
+            ],
+            "@local.youtube_concat": [
+              "condition"
+            ],
+            "@local.youtube_concat_other_gender": [
               "condition"
             ]
           }
