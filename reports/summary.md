@@ -33,7 +33,7 @@
 | round_button | 18 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 4316 |
+| set_variable | 4332 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
@@ -46,7 +46,7 @@
 | toggle_bar | 5 |
 | update_action_list | 1 |
 | video | 3 |
-| youtube | 4 |
+| youtube | 6 |
 </details>
 
 <details >
@@ -87,8 +87,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 82127 KB | 82.1 MB |
-| unused | 28686 KB | 28.7 MB |
+| total | 82168 KB | 82.2 MB |
+| unused | 28697 KB | 28.7 MB |
 </details>
 
 <details open>
@@ -99,7 +99,7 @@ Assets that appear in app-data but do not have references within sheets
 | path | size_kb |
 | --- | --- |
 | android/icon-background.png | 21.4 |
-| android/icon-foreground.png | 58.3 |
+| android/icon-foreground.png | 17.9 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
 | images/activities/personajes_t.svg | 54 |
@@ -184,6 +184,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/Crianza-01.jpg | 221.9 |
 | images/logos/Crianza-01.png | 17 |
 | images/logos/Crianza-03.jpg | 227.6 |
+| images/logos/MIDES.png | 39.9 |
 | images/logos/donors/Agency_fund.png | 43.7 |
 | images/logos/donors/ERC-EU.png | 209.7 |
 | images/logos/donors/ERC.png | 321.9 |
@@ -196,7 +197,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/donors/WCF.jpg | 90.5 |
 | images/logos/donors/Wellspring.jpeg | 106.5 |
 | images/logos/donors/safe_online.png | 65.8 |
-| images/logos/favicon.png | 6.3 |
+| images/logos/favicon.png | 17.9 |
 | images/logos/plh_white.png | 12.8 |
 | lottie/bulging_circles.txt | 0.2 |
 </details>
@@ -725,9 +726,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/trophy_blue.png | 5.1 | 10 |
 | images/icons/trophy_large.svg | 2.2 | 1 |
 | images/icons/trust.png | 70.8 | 24 |
-| images/logos/Crianza-03.png | 17.9 | 2 |
+| images/logos/CRyA_logo.png | 71.5 | 1 |
+| images/logos/Crianza-03.png | 17.9 | 1 |
 | images/logos/IDEMS.png | 42.7 | 1 |
-| images/logos/MIDES.png | 39.9 | 1 |
+| images/logos/MIDES_vertical.png | 9.9 | 1 |
 | images/logos/PLH.png | 33.9 | 1 |
 | images/logos/UNICEF.png | 68.8 | 1 |
 | images/onboarding/welcome_screen_1.svg | 239.7 | 1 |
@@ -840,7 +842,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_pipe |  | 4 |
 | data_pipe | generated | 150 |
 | generator |  | 87 |
-| global |  | 10 |
+| global |  | 11 |
 | global | onboarding | 14 |
 | template |  | 176 |
 | template | generated | 1103 |

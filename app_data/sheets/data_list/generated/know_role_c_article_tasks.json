@@ -9,7 +9,7 @@
       "title_eng": "Quick pause",
       "title": "Pausa rápida",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_1.m4a",
+      "media_asset_f": "audio/relax/relax_1.m4a",
       "media_type": "audio",
       "transcript_1_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
       "transcript": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
@@ -122,10 +122,10 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Selecciona reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como la persona cuidadora de tus niñas y niños y a enseñarles también el suyo:\n\n1️⃣ CONOCER TU ROL\n2️⃣ ENSEÑAR\n3️⃣ PONER EL EJEMPLO\n4️⃣ NOTAR"
+          "eng": "Aprendamos cuatro estrategias que te ayudarán a conocer tu rol como la persona cuidadora de tus niñas y niños y a enseñarles también el suyo:\n\n1️⃣ CONOCER TU ROL\n2️⃣ ENSEÑAR\n3️⃣ PONER EL EJEMPLO\n4️⃣ NOTAR"
         }
       },
-      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como la persona cuidadora de tus niñas y niños y a enseñarles también el suyo:\n\n1️⃣ CONOCER TU ROL\n2️⃣ ENSEÑAR\n3️⃣ PONER EL EJEMPLO\n4️⃣ NOTAR",
+      "text_1_facilitator": "Aprendamos cuatro estrategias que te ayudarán a conocer tu rol como la persona cuidadora de tus niñas y niños y a enseñarles también el suyo:\n\n1️⃣ CONOCER TU ROL\n2️⃣ ENSEÑAR\n3️⃣ PONER EL EJEMPLO\n4️⃣ NOTAR",
       "_translations": {
         "text_1_facilitator": {}
       },
@@ -138,7 +138,7 @@
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Recuerda:"
+          "eng": "Veamos:"
         },
         "section_1_title": {
           "eng": "CONOCER TU ROL"
@@ -165,7 +165,7 @@
           "eng": "🎨 Fíjate en lo que le gusta hacer a @fields.child_name y ayúdale a hacerlo con mayor frecuencia.\n\n✨ ¡Si @fields.child_name siente que se respetan sus necesidades e intereses, es más probable que haga las tareas del hogar de buena manera y con gusto!\n\n🏅 Fíjate en tu niña o niño y **reconócele** cuando cumpla con sus responsabilidades para que aprenda qué es lo que se espera de ella o él. De este modo, es más probable que lo vuelva a hacer."
         }
       },
-      "text_1_facilitator": "Recuerda:",
+      "text_1_facilitator": "Veamos:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},

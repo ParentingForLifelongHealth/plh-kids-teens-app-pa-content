@@ -53,7 +53,7 @@
           "rows": [
             {
               "name": "title",
-              "value": "Check-in"
+              "value": "@global.check_in_title"
             },
             {
               "name": "icon_asset",

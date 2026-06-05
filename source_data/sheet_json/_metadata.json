@@ -2025,6 +2025,24 @@
   },
   {
     "flow_type": "global",
+    "flow_name": "article_global",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/PLH articles template generators.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1ynKeAsmx46aHGzTbT1BaqRXDPi6cxbUOsovcu5c0rdU"
+    }
+  },
+  {
+    "flow_type": "global",
+    "flow_name": "article_global",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "data/deployment_data_pa.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1a_PDtnQiKKzNSBNJcVh_TFk0kB7YbtWE22mh87mqMdI"
+    }
+  },
+  {
+    "flow_type": "global",
     "flow_name": "auth_globals",
     "_source": {
       "name": "library_app_menu",
@@ -3786,6 +3804,15 @@
       "name": "kids_teens_global V2",
       "path": "templates/relax_activities.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1VZKqFXnzcoffU3HZPe_Ej974SLYs3Xhs20n4FmthUJc"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_name": "relax",
+    "_source": {
+      "name": "kids_teens_pa",
+      "path": "templates/PA relax_activities.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1SETTaGNCZXTOnnrA8ysemmXy3-jHgksU_I-Vwak61WE"
     }
   },
   {

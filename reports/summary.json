@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 4316
+        "count": 4332
       },
       {
         "type": "simple_checkbox",
@@ -175,7 +175,7 @@
       },
       {
         "type": "youtube",
-        "count": 4
+        "count": 6
       }
     ]
   },
@@ -291,12 +291,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "82127 KB",
-        "MB": "82.1 MB"
+        "KB": "82168 KB",
+        "MB": "82.2 MB"
       },
       {
         "assets": "unused",
-        "KB": "28686 KB",
+        "KB": "28697 KB",
         "MB": "28.7 MB"
       }
     ]
@@ -309,7 +309,7 @@
       },
       {
         "path": "android/icon-foreground.png",
-        "size_kb": 58.3
+        "size_kb": 17.9
       },
       {
         "path": "android/icon.png",
@@ -648,6 +648,10 @@
         "size_kb": 227.6
       },
       {
+        "path": "images/logos/MIDES.png",
+        "size_kb": 39.9
+      },
+      {
         "path": "images/logos/donors/Agency_fund.png",
         "size_kb": 43.7
       },
@@ -697,7 +701,7 @@
       },
       {
         "path": "images/logos/favicon.png",
-        "size_kb": 6.3
+        "size_kb": 17.9
       },
       {
         "path": "images/logos/plh_white.png",
@@ -3256,8 +3260,13 @@
         "size_kb": 70.8
       },
       {
+        "path": "images/logos/CRyA_logo.png",
+        "count": 1,
+        "size_kb": 71.5
+      },
+      {
         "path": "images/logos/Crianza-03.png",
-        "count": 2,
+        "count": 1,
         "size_kb": 17.9
       },
       {
@@ -3266,9 +3275,9 @@
         "size_kb": 42.7
       },
       {
-        "path": "images/logos/MIDES.png",
+        "path": "images/logos/MIDES_vertical.png",
         "count": 1,
-        "size_kb": 39.9
+        "size_kb": 9.9
       },
       {
         "path": "images/logos/PLH.png",
@@ -3802,7 +3811,7 @@
       {
         "type": "global",
         "subtype": null,
-        "total": 10
+        "total": 11
       },
       {
         "type": "global",

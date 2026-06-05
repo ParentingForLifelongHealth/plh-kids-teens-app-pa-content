@@ -6,26 +6,26 @@
   "rows": [
     {
       "id": "organisation_1",
-      "name": "PLH",
-      "image_asset": "images/logos/PLH.png",
+      "name": "Ministerio de Desarrollo Social",
+      "image_asset": "images/logos/MIDES_vertical.png",
       "group": "partners"
     },
     {
       "id": "organisation_2",
-      "name": "IDEMS",
-      "image_asset": "images/logos/IDEMS.png",
-      "group": "partners"
-    },
-    {
-      "id": "organisation_3",
       "name": "UNICEF",
       "image_asset": "images/logos/UNICEF.png",
       "group": "partners"
     },
     {
+      "id": "organisation_3",
+      "name": "PLH",
+      "image_asset": "images/logos/PLH.png",
+      "group": "partners"
+    },
+    {
       "id": "organisation_4",
-      "name": "Ministerio de Desarrollo Social",
-      "image_asset": "images/logos/MIDES.png",
+      "name": "IDEMS",
+      "image_asset": "images/logos/IDEMS.png",
       "group": "partners"
     }
   ],
