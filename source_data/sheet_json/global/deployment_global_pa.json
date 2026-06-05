@@ -24,7 +24,7 @@
     {
       "type": "declare_global_constant",
       "name": "home_screen_logo_asset",
-      "value": "images/logos/Crianza-03.png"
+      "value": "images/logos/CRyA_logo.png"
     },
     {
       "type": "declare_global_constant",
@@ -248,6 +248,11 @@
       "type": "declare_field_default",
       "name": "last_module_in_progress",
       "value": "NA"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "gender_youtube_link",
+      "value": true
     }
   ]
 }

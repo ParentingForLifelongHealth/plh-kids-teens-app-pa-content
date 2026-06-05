@@ -393,14 +393,29 @@
       "comments": "defaults to _f"
     },
     {
+      "name": "other_gender",
+      "value": "_m",
+      "exclude_from_translation": true
+    },
+    {
       "name": "gender",
       "value": "_m",
       "condition": "@fields.facilitator_id== \"facilitator_male\"",
       "exclude_from_translation": true
     },
     {
+      "name": "other_gender",
+      "value": "_f",
+      "condition": "@fields.facilitator_id== \"facilitator_male\"",
+      "exclude_from_translation": true
+    },
+    {
       "name": "gender",
-      "condition": "@global.gender_youtube_link"
+      "condition": "!@global.gender_youtube_link"
+    },
+    {
+      "name": "other_gender",
+      "condition": "!@global.gender_youtube_link"
     },
     {
       "name": "youtube_column",
@@ -408,9 +423,17 @@
       "exclude_from_translation": true
     },
     {
+      "name": "youtube_column_other_gender",
+      "value": "@local.youtube@local.language@local.other_gender"
+    },
+    {
       "name": "youtube_concat",
       "value": "article_data.@local.youtube_column",
       "exclude_from_translation": true
+    },
+    {
+      "name": "youtube_concat_other_gender",
+      "value": "article_data.@local.youtube_column_other_gender"
     },
     {
       "name": "youtube_column_missing",
@@ -418,9 +441,17 @@
       "exclude_from_translation": true
     },
     {
+      "name": "youtube_column_missing_other_gender",
+      "value": "@local.youtube@local.default_language@local.other_gender"
+    },
+    {
       "name": "youtube_concat_missing",
       "value": "article_data.@local.youtube_column_missing",
       "exclude_from_translation": true
+    },
+    {
+      "name": "youtube_concat_missing_other_gender",
+      "value": "article_data.@local.youtube_column_missing_other_gender"
     },
     {
       "type": "begin_display_group",
@@ -437,9 +468,23 @@
     },
     {
       "type": "youtube",
+      "name": "youtube_other_gender",
+      "value": "@local.@local.youtube_concat_other_gender",
+      "condition": "!(@local.@local.youtube_concat) && !!(@local.@local.youtube_concat_other_gender)"
+    },
+    {
+      "type": "youtube",
       "name": "youtube_lang_missing",
       "value": "@local.@local.youtube_concat_missing",
-      "condition": "!(@local.@local.youtube_concat)",
+      "condition": "!(@local.@local.youtube_concat) && !(@local.@local.youtube_concat_other_gender) && !!(@local.@local.youtube_concat_missing)",
+      "exclude_from_translation": true,
+      "comments": "Show English video when other language youtube link is not defined"
+    },
+    {
+      "type": "youtube",
+      "name": "youtube_lang_missing_other_gender",
+      "value": "@local.@local.youtube_concat_missing_other_gender",
+      "condition": "!(@local.@local.youtube_concat) && !(@local.@local.youtube_concat_other_gender) && !!(@local.@local.youtube_concat_missing_other_gender)",
       "exclude_from_translation": true,
       "comments": "Show English video when other language youtube link is not defined"
     },
