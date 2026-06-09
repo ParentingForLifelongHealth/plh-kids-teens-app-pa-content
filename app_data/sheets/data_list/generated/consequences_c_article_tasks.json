@@ -316,9 +316,15 @@
           "eng": "¡Bien hecho! 🎉 elogiar a @fields.child_name por sus acciones, aumenta la probabilidad de que vuelva a repetir este comportamiento positivo. De este modo, ¡es menos probable que tengas que recurrir a las consecuencias! 😃\n\nSi el comportamiento de @fields.child_name sigue siendo negativo, dile cómo te sientes, con un tono tranquilo, y dale una consecuencia justa por su comportamiento. ⭐"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Bien hecho! 🎉 elogiar a @fields.child_name por sus acciones, aumenta la probabilidad de que vuelva a repetir este comportamiento positivo. De este modo, ¡es menos probable que tengas que recurrir a las consecuencias! 😃\n\nSi el comportamiento de @fields.child_name sigue siendo negativo, dile cómo te sientes, con un tono tranquilo, y dale una consecuencia justa por su comportamiento. ⭐"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "¡Aprender a manejar el comportamiento de tu niña o niño es algo difícil! 😣\n\nLos golpes y los gritos son dañinos para el bienestar de tu niña o niño y pueden afectar tu relación con @fields.child_name a lo largo del tiempo.❗\n\nLa próxima vez que @fields.child_name se porte bien, reconócele por ello, ¡aunque sea algo pequeño! De este modo, puede que ni siquiera sea necesario el aplicar consecuencias en el futuro.\n\nSi @fields.child_name se sigue portando mal, tranquilamente dile cómo te sientes y aplica una consecuencia justa por su comportamiento. Puede que en el futuro veas cómo cambia su comportamiento. ⭐"
         }
       },
@@ -326,15 +332,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "¡Aprender a manejar el comportamiento de tu niña o niño es algo difícil! 😣\n\nLos golpes y los gritos son dañinos para el bienestar de tu niña o niño y pueden afectar tu relación con @fields.child_name a lo largo del tiempo.❗\n\nLa próxima vez que @fields.child_name se porte bien, reconócele por ello, ¡aunque sea algo pequeño! De este modo, puede que ni siquiera sea necesario el aplicar consecuencias en el futuro.\n\nSi @fields.child_name se sigue portando mal, tranquilamente dile cómo te sientes y aplica una consecuencia justa por su comportamiento. Puede que en el futuro veas cómo cambia su comportamiento. ⭐",
+      "quiz_1_feedback_2": "¡Bien hecho! 🎉 elogiar a @fields.child_name por sus acciones, aumenta la probabilidad de que vuelva a repetir este comportamiento positivo. De este modo, ¡es menos probable que tengas que recurrir a las consecuencias! 😃\n\nSi el comportamiento de @fields.child_name sigue siendo negativo, dile cómo te sientes, con un tono tranquilo, y dale una consecuencia justa por su comportamiento. ⭐",
+      "quiz_1_feedback_3": "¡Aprender a manejar el comportamiento de tu niña o niño es algo difícil! 😣\n\nLos golpes y los gritos son dañinos para el bienestar de tu niña o niño y pueden afectar tu relación con @fields.child_name a lo largo del tiempo.❗\n\nLa próxima vez que @fields.child_name se porte bien, reconócele por ello, ¡aunque sea algo pequeño! De este modo, puede que ni siquiera sea necesario el aplicar consecuencias en el futuro.\n\nSi @fields.child_name se sigue portando mal, tranquilamente dile cómo te sientes y aplica una consecuencia justa por su comportamiento. Puede que en el futuro veas cómo cambia su comportamiento. ⭐",
       "quiz_1_question": "¿Puedes elogiar a @fields.child_name por su comportamiento positivo el día de hoy?",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nTu Actividad para casa de hoy consiste en elogiar a @fields.child_name por una cosa que te gustaría que siguiera haciendo. \n\nSi @fields.child_name se niega a seguir instrucciones u olvida una regla de la casa, puedes darle una consecuencia relacionada con el comportamiento. \n\nRecuerda que es importante ser equitativos, constantes y mantener la calma al dar una consecuencia.\n\nSi el comportamiento de tu niña o niño sigue siendo negativo, dile cómo te sientes, con un tono tranquilo, y dale una consecuencia justa por su comportamiento.⭐",
       "completed": false
     }

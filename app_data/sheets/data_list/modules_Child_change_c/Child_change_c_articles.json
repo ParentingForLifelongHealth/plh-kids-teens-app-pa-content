@@ -248,7 +248,9 @@
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -261,20 +263,28 @@
           "eng": "Sí"
         },
         "quiz_1_feedback_1": {
-          "eng": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de @fields.child_name. Para empezar, escribe {CRECER}."
+          "eng": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de @fields.child_name."
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
-          "eng": "💙 Entendemos. Intenta completar esta actividad durante la semana o en otro día de la semana. Puedes escribir {CRECER} en cualquier momento para comenzar la evaluación de desarrollo."
+          "eng": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de @fields.child_name."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "💙 Entendemos. Intenta completar esta actividad durante la semana o en otro día de la semana."
         }
       },
       "quiz_1_question": "¿Puedes completar la evaluación hoy? ⭐",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_feedback_1": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de @fields.child_name. Para empezar, escribe {CRECER}.",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "💙 Entendemos. Intenta completar esta actividad durante la semana o en otro día de la semana. Puedes escribir {CRECER} en cualquier momento para comenzar la evaluación de desarrollo."
+      "quiz_1_feedback_1": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de @fields.child_name.",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_feedback_2": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de @fields.child_name.",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "💙 Entendemos. Intenta completar esta actividad durante la semana o en otro día de la semana."
     }
   ],
   "_source": {

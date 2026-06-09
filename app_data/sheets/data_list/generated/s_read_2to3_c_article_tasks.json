@@ -232,28 +232,11 @@
     },
     {
       "id": "practical_tips_1",
-      "media_type": "youtube",
       "category_id": "practical_tips",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Selecciona reproducir ▶️ para aprender las cinco estrategias sobre cómo preparar a @fields.child_name para aprender a leer cuando sea mayor:\n \n1️⃣ COMPARTIR LIBROS\n2️⃣ CREAR RUTINAS\n3️⃣ HACER PREGUNTAS\n4️⃣ RESPONDER Y EXPLORAR\n5️⃣ CONSTRUIR Y CONECTAR"
-        }
-      },
-      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender las cinco estrategias sobre cómo preparar a @fields.child_name para aprender a leer cuando sea mayor:\n \n1️⃣ COMPARTIR LIBROS\n2️⃣ CREAR RUTINAS\n3️⃣ HACER PREGUNTAS\n4️⃣ RESPONDER Y EXPLORAR\n5️⃣ CONSTRUIR Y CONECTAR",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
-      "youtube_gb_en_f": "youtube link",
-      "completed": false
-    },
-    {
-      "id": "practical_tips_2",
-      "category_id": "practical_tips",
-      "nested": false,
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Recuerda:"
+          "eng": "Vamos a aprender las cinco estrategias sobre cómo preparar a @fields.child_name para aprender a leer cuando sea mayor:"
         },
         "section_1_title": {
           "eng": "COMPARTIR LIBROS"
@@ -286,7 +269,7 @@
           "eng": "💙 ¡Ayuda a aumentar la confianza de @fields.child_name al hacerle preguntas que sepa responder correctamente o que le animen a ir un poco más allá y desarrollar su habilidad!  \n\n🎨 Siempre busca conectar lo que hay en el libro con la experiencia cotidiana de @fields.child_name."
         }
       },
-      "text_1_facilitator": "Recuerda:",
+      "text_1_facilitator": "Vamos a aprender las cinco estrategias sobre cómo preparar a @fields.child_name para aprender a leer cuando sea mayor:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -335,9 +318,15 @@
           "eng": "😃 📖 ¡Excelente! ¡Leer con @fields.child_name es una forma estupenda de ayudarle a aprender!"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "😃 📖 ¡Excelente! ¡Leer con @fields.child_name es una forma estupenda de ayudarle a aprender!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "☀️ Entendemos. No siempre es posible tomarnos un tiempo para leer con @fields.child_name. Intenta apartar un poco de tiempo cada día porque esto le ayudará en su aprendizaje."
         }
       },
@@ -345,15 +334,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "☀️ Entendemos. No siempre es posible tomarnos un tiempo para leer con @fields.child_name. Intenta apartar un poco de tiempo cada día porque esto le ayudará en su aprendizaje.",
+      "quiz_1_feedback_2": "😃 📖 ¡Excelente! ¡Leer con @fields.child_name es una forma estupenda de ayudarle a aprender!",
+      "quiz_1_feedback_3": "☀️ Entendemos. No siempre es posible tomarnos un tiempo para leer con @fields.child_name. Intenta apartar un poco de tiempo cada día porque esto le ayudará en su aprendizaje.",
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\n📚 Trata de dedicar el tiempo juntos y conectados de hoy a leer y comentar un libro con @fields.child_name.",
       "completed": false
     }

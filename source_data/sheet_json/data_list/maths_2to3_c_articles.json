@@ -30,14 +30,7 @@
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "text_1_facilitator::eng": "Selecciona reproducir ▶️ para aprender tres estrategias que pueden ayudar a @fields.child_name a desarrollar habilidades matemáticas: Contar, Buscar Números y Aprender con Figuras Geométricas.\n\nRecuerda: ¡las matemáticas, los números, las cantidades y las figuras están en todas partes! 🔶🌷🔵\n\nPuedes usar lo que te rodea y tus rutinas diarias para Conversarle de matemáticas a @fields.child_name. ⏰ Esto le preparará para tener aprovechamiento escolar. ⭐",
-      "media_type": "video",
-      "youtube_gb_en_f": "youtube link"
-    },
-    {
-      "id": "practical_tips_2",
-      "category_id": "practical_tips",
-      "text_1_facilitator::eng": "Recuerda:",
+      "text_1_facilitator::eng": "Ahora aprenderemos tres estrategias que pueden ayudar a @fields.child_name a desarrollar habilidades matemáticas: Contar, Buscar Números y Aprender con Figuras Geométricas.\n\nRecuerda: ¡las matemáticas, los números, las cantidades y las figuras están en todas partes! 🔶🌷🔵\n\nPuedes usar lo que te rodea y tus rutinas diarias para Conversarle de matemáticas a @fields.child_name. ⏰ Esto le preparará para tener aprovechamiento escolar. ⭐",
       "section_1_title::eng": "CONTAR",
       "section_1_icon_asset": "images/icons/maths.png",
       "section_1_text::eng": " 🔴 Contar es una habilidad que @fields.child_name puede empezar a desarrollar a una edad temprana. 1️⃣2️⃣3️⃣\n\n🚗 Pídele a @fields.child_name que cuente cosas a su alrededor: coches, personas, casas, cuántos pasos hay entre un lugar y otro, ¡y los dedos de sus manos y sus pies! 👋\n\n⭐ Pídele a @fields.child_name que te cuente cosas durante las actividades del día a día: puede contarte cosas mientras cocinas, como las verduras; mientras ordenas la ropa, como calcetines; o mientras estás en el supermercado.\n\n🎵 Canta canciones con @fields.child_name que hagan referencia a los números.\n\n🎨 Anima a @fields.child_name a dibujar cosas y pregúntale cuántas cosas hay en los dibujos.",
@@ -58,8 +51,10 @@
       "quiz_1_question::eng": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Excelente! 💙 ¡Contar cosas con @fields.child_name le dará una noción de lo que son los números!\n\n💙¡Involucrar a @fields.child_name en actividades como esta y conversar sobre números y las cantidades de las cosas, le ayudará en su aprendizaje! 1️⃣2️⃣3️⃣ ",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "¡Entendemos! Si hoy no tienes tiempo, intenta pasar tiempo contando cosas con @fields.child_name el día de mañana. ¡Esto le ayudará a @fields.child_name en su aprendizaje!"
+      "quiz_1_option_2_text::eng": "Lo intentaré",
+      "quiz_1_feedback_2::eng": "¡Excelente! 💙 ¡Contar cosas con @fields.child_name le dará una noción de lo que son los números!\n\n💙¡Involucrar a @fields.child_name en actividades como esta y conversar sobre números y las cantidades de las cosas, le ayudará en su aprendizaje! 1️⃣2️⃣3️⃣ ",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "¡Entendemos! Si hoy no tienes tiempo, intenta pasar tiempo contando cosas con @fields.child_name el día de mañana. ¡Esto le ayudará a @fields.child_name en su aprendizaje!"
     }
   ]
 }

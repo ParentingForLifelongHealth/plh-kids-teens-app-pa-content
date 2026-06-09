@@ -216,7 +216,9 @@
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -232,17 +234,25 @@
           "eng": "¡Fantástico! 🎉"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
-          "eng": "A veces, puede ser difícil hacer esto cuando estamos muy ocupados con nuestras propias vidas, pero pasar incluso un ratito a solas con tu pareja o familiar puede hacer una gran diferencia.\n\n⭐ Recuerda que puedes volver a consultar esta sesión en el Menú Principal."
+          "eng": "¡Fantástico! 🎉"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Puede ser difícil hacer esto cuando estamos muy ocupados con nuestras propias vidas, pero pasar incluso un ratito a solas con tu pareja o familiar puede hacer una gran diferencia.\n\n⭐ Recuerda que puedes volver a consultar esta sesión en el Menú Principal."
         }
       },
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_feedback_1": "¡Fantástico! 🎉",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "A veces, puede ser difícil hacer esto cuando estamos muy ocupados con nuestras propias vidas, pero pasar incluso un ratito a solas con tu pareja o familiar puede hacer una gran diferencia.\n\n⭐ Recuerda que puedes volver a consultar esta sesión en el Menú Principal."
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_feedback_2": "¡Fantástico! 🎉",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "Puede ser difícil hacer esto cuando estamos muy ocupados con nuestras propias vidas, pero pasar incluso un ratito a solas con tu pareja o familiar puede hacer una gran diferencia.\n\n⭐ Recuerda que puedes volver a consultar esta sesión en el Menú Principal."
     }
   ],
   "_source": {

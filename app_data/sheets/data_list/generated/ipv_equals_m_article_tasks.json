@@ -311,9 +311,15 @@
           "eng": "🎉 ¡Bien hecho! ¡La comunicación y el trabajo en equipo con tu pareja o familiar hacen la diferencia!"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "🎉 ¡Bien hecho! ¡La comunicación y el trabajo en equipo con tu pareja o familiar hacen la diferencia!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "Puede llevar un poco de tiempo acostumbrarse a tomar decisiones como equipo. Dense ese tiempo para adaptarse.\n\nRecuerda que comunicarte con tu pareja o familiar e involucrarle en la toma de decisiones ayudará a que le sea más fácil hacerlo contigo también.\n\n⭐ Siempre puedes volver a consultar esta sesión en el Menú Principal."
         }
       },
@@ -321,15 +327,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "Puede llevar un poco de tiempo acostumbrarse a tomar decisiones como equipo. Dense ese tiempo para adaptarse.\n\nRecuerda que comunicarte con tu pareja o familiar e involucrarle en la toma de decisiones ayudará a que le sea más fácil hacerlo contigo también.\n\n⭐ Siempre puedes volver a consultar esta sesión en el Menú Principal.",
+      "quiz_1_feedback_2": "🎉 ¡Bien hecho! ¡La comunicación y el trabajo en equipo con tu pareja o familiar hacen la diferencia!",
+      "quiz_1_feedback_3": "Puede llevar un poco de tiempo acostumbrarse a tomar decisiones como equipo. Dense ese tiempo para adaptarse.\n\nRecuerda que comunicarte con tu pareja o familiar e involucrarle en la toma de decisiones ayudará a que le sea más fácil hacerlo contigo también.\n\n⭐ Siempre puedes volver a consultar esta sesión en el Menú Principal.",
       "quiz_1_question": "¿Crees que pueden hacerlo?  ⏰",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nTu actividad para casa consiste en involucrar a tu pareja o familiar en una decisión que deban tomar hoy.  \n\nPor ejemplo, puedes preguntar \"¿Qué te gustaría cenar hoy?\"",
       "completed": false
     }

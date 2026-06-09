@@ -293,9 +293,15 @@
           "eng": "¡Bien por ti! Hablar de las dificultades y de nuestras emociones puede ser difícil. ¡Lo estás haciendo muy bien! 🎉"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Bien por ti! Hablar de las dificultades y de nuestras emociones puede ser difícil. ¡Lo estás haciendo muy bien! 🎉"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "Hablar de nuestros sentimientos y de las dificultades a las que nos enfrentamos puede ayudar a las personas a comprendernos y apoyarnos de una mejor manera.\n\nLas emociones y las dificultades forman parte de la vida, y aprender a manejarlas puede ayudar a que la vida sea menos estresante.\n\n☕ Recuerda que puedes volver a consultar este contenido en el Menú Principal."
         }
       },
@@ -303,15 +309,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "Hablar de nuestros sentimientos y de las dificultades a las que nos enfrentamos puede ayudar a las personas a comprendernos y apoyarnos de una mejor manera.\n\nLas emociones y las dificultades forman parte de la vida, y aprender a manejarlas puede ayudar a que la vida sea menos estresante.\n\n☕ Recuerda que puedes volver a consultar este contenido en el Menú Principal.",
+      "quiz_1_feedback_2": "¡Bien por ti! Hablar de las dificultades y de nuestras emociones puede ser difícil. ¡Lo estás haciendo muy bien! 🎉",
+      "quiz_1_feedback_3": "Hablar de nuestros sentimientos y de las dificultades a las que nos enfrentamos puede ayudar a las personas a comprendernos y apoyarnos de una mejor manera.\n\nLas emociones y las dificultades forman parte de la vida, y aprender a manejarlas puede ayudar a que la vida sea menos estresante.\n\n☕ Recuerda que puedes volver a consultar este contenido en el Menú Principal.",
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nIntenta apartar un poco de tiempo para conversar con tu pareja o familiar sobre tus sentimientos y de las dificultades a las que te enfrentas. ¡También puedes compartirle cosas positivas! \n\nPor ejemplo, tómate un tiempo durante la cena para contarles cómo te fue en el día.",
       "completed": false
     }

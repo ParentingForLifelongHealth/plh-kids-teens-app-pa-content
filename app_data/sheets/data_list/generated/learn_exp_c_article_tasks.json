@@ -323,9 +323,15 @@
           "eng": "¡Maravilloso!\n💙 Usa estas estrategias que aprendiste hoy para ayudar a @fields.child_name a fortalecer sus habilidades mentales y emocionales."
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Maravilloso!\n💙 Usa estas estrategias que aprendiste hoy para ayudar a @fields.child_name a fortalecer sus habilidades mentales y emocionales."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "Si hoy no puedes, aparta un tiempo para mañana u otro día de la semana."
         }
       },
@@ -333,15 +339,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "Si hoy no puedes, aparta un tiempo para mañana u otro día de la semana.",
+      "quiz_1_feedback_2": "¡Maravilloso!\n💙 Usa estas estrategias que aprendiste hoy para ayudar a @fields.child_name a fortalecer sus habilidades mentales y emocionales.",
+      "quiz_1_feedback_3": "Si hoy no puedes, aparta un tiempo para mañana u otro día de la semana.",
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nComparte una historia con @fields.child_name sobre un momento en el que aprendiste de un error. Puede ser algo de cuando tú eras menor u otra sesión de vida que hayas tenido.",
       "completed": false
     }

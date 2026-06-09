@@ -296,9 +296,15 @@
           "eng": "¡Increíble! 🎉 Intenta elogiar a @fields.child_name al menos una vez durante su tiempo juntos y conectados. También puedes elogiar a @fields.child_name en otros momentos del día. Fíjate cómo responde a lo que le dices."
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Increíble! 🎉 Intenta elogiar a @fields.child_name al menos una vez durante su tiempo juntos y conectados. También puedes elogiar a @fields.child_name en otros momentos del día. Fíjate cómo responde a lo que le dices."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "💚 ¡De acuerdo! A veces las cosas toman tiempo. Puedes volver a revisar esta sesión en el menú principal en cualquier momento. Al final del día, piensa en todas las cosas positivas que pasaron así será más sencillo poderlas identificar. ☀️ \nPoco a poco, elogiar se irá haciendo más fácil."
         }
       },
@@ -306,15 +312,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "💚 ¡De acuerdo! A veces las cosas toman tiempo. Puedes volver a revisar esta sesión en el menú principal en cualquier momento. Al final del día, piensa en todas las cosas positivas que pasaron así será más sencillo poderlas identificar. ☀️ \nPoco a poco, elogiar se irá haciendo más fácil.",
+      "quiz_1_feedback_2": "¡Increíble! 🎉 Intenta elogiar a @fields.child_name al menos una vez durante su tiempo juntos y conectados. También puedes elogiar a @fields.child_name en otros momentos del día. Fíjate cómo responde a lo que le dices.",
+      "quiz_1_feedback_3": "💚 ¡De acuerdo! A veces las cosas toman tiempo. Puedes volver a revisar esta sesión en el menú principal en cualquier momento. Al final del día, piensa en todas las cosas positivas que pasaron así será más sencillo poderlas identificar. ☀️ \nPoco a poco, elogiar se irá haciendo más fácil.",
       "quiz_1_question": "¿Tienes tiempo de hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nHoy, tu actividad para casa es elogiar a @fields.child_name durante su tiempo juntos y conectados. Intenta reconocer y elogiar a @fields.child_name durante esos minutos.",
       "completed": false

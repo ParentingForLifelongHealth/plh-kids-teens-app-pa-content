@@ -310,7 +310,9 @@
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -326,17 +328,25 @@
           "eng": "✨ ¡Increíble! Es una forma estupenda de fomentar la confianza con @fields.child_name y de mantener su seguridad."
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "✨ ¡Increíble! Es una forma estupenda de fomentar la confianza con @fields.child_name y de mantener su seguridad."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "¡Está bien! Aparta una hora en los próximos días para trabajar en este mapa con tu adolescente. Es una forma estupenda de crear confianza entre ustedes y de mantenerles a salvo."
         }
       },
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_feedback_1": "✨ ¡Increíble! Es una forma estupenda de fomentar la confianza con @fields.child_name y de mantener su seguridad.",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "¡Está bien! Aparta una hora en los próximos días para trabajar en este mapa con tu adolescente. Es una forma estupenda de crear confianza entre ustedes y de mantenerles a salvo."
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_feedback_2": "✨ ¡Increíble! Es una forma estupenda de fomentar la confianza con @fields.child_name y de mantener su seguridad.",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "¡Está bien! Aparta una hora en los próximos días para trabajar en este mapa con tu adolescente. Es una forma estupenda de crear confianza entre ustedes y de mantenerles a salvo."
     }
   ],
   "_source": {

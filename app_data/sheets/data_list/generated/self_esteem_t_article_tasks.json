@@ -289,9 +289,15 @@
           "eng": "¡Maravilloso!"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Maravilloso!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "Entendemos. Intenta tener esta plática el día de mañana o en esta semana."
         }
       },
@@ -299,15 +305,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "Entendemos. Intenta tener esta plática el día de mañana o en esta semana.",
+      "quiz_1_feedback_2": "¡Maravilloso!",
+      "quiz_1_feedback_3": "Entendemos. Intenta tener esta plática el día de mañana o en esta semana.",
       "quiz_1_question": "¿Puedes intentarlo la próxima vez?",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\n👀 @fields.child_name y tú pueden apoyarse para aprender cómo pensar positivamente sobre ustedes mismos o mismas. Intenta esto la próxima vez que tu adolescente exprese un pensamiento o  una emoción negativa sobre su persona:  \n\nPregúntale qué le hace sentir así y conecta con esa emoción . \n\nHazle saber a tu adolescente que estarás ahí para lo que necesite. \n\nHazle preguntas para entender su situación.  \n\nAyúdale a modificar ese pensamiento por otro que le beneficie más al preguntarle: \"¿Qué te diría una amiga o amigo o alguien a quien quieres mucho?\".  \n\nElogia a @fields.child_name por comunicarse contigo y pedirte apoyo para superar sus pensamientos o emociones negativas.",
       "completed": false
     }

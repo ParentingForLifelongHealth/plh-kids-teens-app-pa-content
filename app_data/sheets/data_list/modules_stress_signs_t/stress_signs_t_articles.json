@@ -155,7 +155,9 @@
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -171,17 +173,25 @@
           "eng": "¡Estupendo! Esto te ayudará a ti y a tu adolescente a prepararse para cuando alguien de ustedes necesiten apoyo adicional.  \n\n💚 ¡Bien hecho por pensar en el futuro! 🏆"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Estupendo! Esto te ayudará a ti y a tu adolescente a prepararse para cuando alguien de ustedes necesiten apoyo adicional.  \n\n💚 ¡Bien hecho por pensar en el futuro! 🏆"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "Estas conversaciones son difíciles, sin embargo, es importante que tu adolescente sepa a dónde ir para pedir ayuda. Puedes usar el Menú Principal para volver a revisar esta estrategia y obtener ideas que les ayuden. 💚"
         }
       },
       "quiz_1_question": "¿Puedes hacer una lista de redes de apoyo con tu adolescente hoy? 😃",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_feedback_1": "¡Estupendo! Esto te ayudará a ti y a tu adolescente a prepararse para cuando alguien de ustedes necesiten apoyo adicional.  \n\n💚 ¡Bien hecho por pensar en el futuro! 🏆",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "Estas conversaciones son difíciles, sin embargo, es importante que tu adolescente sepa a dónde ir para pedir ayuda. Puedes usar el Menú Principal para volver a revisar esta estrategia y obtener ideas que les ayuden. 💚"
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_feedback_2": "¡Estupendo! Esto te ayudará a ti y a tu adolescente a prepararse para cuando alguien de ustedes necesiten apoyo adicional.  \n\n💚 ¡Bien hecho por pensar en el futuro! 🏆",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "Estas conversaciones son difíciles, sin embargo, es importante que tu adolescente sepa a dónde ir para pedir ayuda. Puedes usar el Menú Principal para volver a revisar esta estrategia y obtener ideas que les ayuden. 💚"
     }
   ],
   "_source": {

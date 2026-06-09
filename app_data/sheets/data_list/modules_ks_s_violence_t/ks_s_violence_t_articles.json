@@ -177,18 +177,20 @@
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
-      "text_1_facilitator": "*Actividad para Casa*⭐   \n\nAyuda a tu adolescente a saber qué hacer revisando los ejercicios anteriores de esta sesión juntos.  \n\nPuedes seleccionar \"Repetir sesión\" al finalizar la sesión.",
+      "text_1_facilitator": "**Actividad para casa**⭐   \n\nAyuda a tu adolescente a saber qué hacer revisando los ejercicios anteriores de esta sesión juntos.  \n\nPuedes seleccionar \"Repetir sesión\" al finalizar la sesión.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "*Actividad para Casa*⭐   \n\nAyuda a tu adolescente a saber qué hacer revisando los ejercicios anteriores de esta sesión juntos.  \n\nPuedes seleccionar \"Repetir sesión\" al finalizar la sesión."
+          "eng": "**Actividad para casa**⭐   \n\nAyuda a tu adolescente a saber qué hacer revisando los ejercicios anteriores de esta sesión juntos.  \n\nPuedes seleccionar \"Repetir sesión\" al finalizar la sesión."
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy?"
@@ -200,17 +202,25 @@
           "eng": "💙 ¡Muy bien! Esto ayudará a que tú y tu adolescente sepan cómo prevenir la violencia sexual."
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "💙 ¡Muy bien! Esto ayudará a que tú y tu adolescente sepan cómo prevenir la violencia sexual."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "⏰ ¡Entendemos! Intenta apartar una hora en los próximos días para tener esta conversación con tu adolescente."
         }
       },
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_feedback_1": "💙 ¡Muy bien! Esto ayudará a que tú y tu adolescente sepan cómo prevenir la violencia sexual.",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "⏰ ¡Entendemos! Intenta apartar una hora en los próximos días para tener esta conversación con tu adolescente."
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_feedback_2": "💙 ¡Muy bien! Esto ayudará a que tú y tu adolescente sepan cómo prevenir la violencia sexual.",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "⏰ ¡Entendemos! Intenta apartar una hora en los próximos días para tener esta conversación con tu adolescente."
     }
   ],
   "_source": {

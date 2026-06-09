@@ -210,9 +210,15 @@
           "eng": "¡Excelente! ¡Intenten practicar en casa lo que ya ha aprendido en la escuela! 😃"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Excelente! ¡Intenten practicar en casa lo que ya ha aprendido en la escuela! 😃"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "Entendemos. No siempre disponemos del tiempo adecuado para conversar de la escuela. La próxima vez, pregúntale sobre su día en la escuela, ¡aunque solo platiquen un par de minutos durante el día o durante la comida! 😃"
         }
       },
@@ -220,15 +226,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "Entendemos. No siempre disponemos del tiempo adecuado para conversar de la escuela. La próxima vez, pregúntale sobre su día en la escuela, ¡aunque solo platiquen un par de minutos durante el día o durante la comida! 😃",
+      "quiz_1_feedback_2": "¡Excelente! ¡Intenten practicar en casa lo que ya ha aprendido en la escuela! 😃",
+      "quiz_1_feedback_3": "Entendemos. No siempre disponemos del tiempo adecuado para conversar de la escuela. La próxima vez, pregúntale sobre su día en la escuela, ¡aunque solo platiquen un par de minutos durante el día o durante la comida! 😃",
       "quiz_1_question": "¿Pueden practicarlo en casa hoy? ⭐",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nHabla con @fields.child_name sobre lo que están aprendiendo en la escuela en este momento.",
       "completed": false
     }

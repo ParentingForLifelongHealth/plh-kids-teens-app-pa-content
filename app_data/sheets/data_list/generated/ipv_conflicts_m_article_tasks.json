@@ -301,9 +301,15 @@
           "eng": "🌱 ¡Buen trabajo! Tomar una pausa y mantener la calma es una forma estupenda de reducir los conflictos."
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "🌱 ¡Buen trabajo! Tomar una pausa y mantener la calma es una forma estupenda de reducir los conflictos."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "🔑 Puede ser muy difícil mantener la calma cuando tienes un desacuerdo con alguien más.\n\nIntenta pensar en algo que pueda ayudarte, como respirar profundo un par de veces.\n\nRecuerda que puedes volver a consultar este contenido en el Menú Principal."
         }
       },
@@ -311,15 +317,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "🔑 Puede ser muy difícil mantener la calma cuando tienes un desacuerdo con alguien más.\n\nIntenta pensar en algo que pueda ayudarte, como respirar profundo un par de veces.\n\nRecuerda que puedes volver a consultar este contenido en el Menú Principal.",
+      "quiz_1_feedback_2": "🌱 ¡Buen trabajo! Tomar una pausa y mantener la calma es una forma estupenda de reducir los conflictos.",
+      "quiz_1_feedback_3": "🔑 Puede ser muy difícil mantener la calma cuando tienes un desacuerdo con alguien más.\n\nIntenta pensar en algo que pueda ayudarte, como respirar profundo un par de veces.\n\nRecuerda que puedes volver a consultar este contenido en el Menú Principal.",
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nPractica el tomar una pausa cuando te encuentres en una situación de conflicto.",
       "completed": false
     }

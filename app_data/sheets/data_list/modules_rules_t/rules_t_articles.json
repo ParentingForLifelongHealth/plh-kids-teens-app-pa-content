@@ -242,7 +242,9 @@
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -255,20 +257,28 @@
           "eng": "Sí"
         },
         "quiz_1_feedback_1": {
-          "eng": "¡Qué bueno escuchar eso! Crea una regla familiar con tu adolescente el día de hoy. \n\nRecuerda, *_cuando implicas a tu niña, niño o adolescente en la creación de reglas, es más probable que las siga. ¡Es una receta para el éxito!_* 🏆"
+          "eng": "¡Qué bueno escuchar eso! Crea una regla familiar con tu adolescente el día de hoy. \n\nRecuerda, cuando implicas a tu niña, niño o adolescente en la creación de reglas, es más probable que las siga. ¡Es una receta para el éxito! 🏆"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Qué bueno escuchar eso! Crea una regla familiar con tu adolescente el día de hoy. \n\nRecuerda, cuando implicas a tu niña, niño o adolescente en la creación de reglas, es más probable que las siga. ¡Es una receta para el éxito! 🏆"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "¡Entendemos! Establecer reglas requiere tiempo y práctica. ⏰ Piensa en las reglas que te gustaría establecer y, cuando sientas más confianza, elige la más fácil y habla de esta regla con tu adolescente. 👂 ¡Recuerda que siempre puedes repasar esta estrategia en el Menú Principal!"
         }
       },
       "quiz_1_question": "📝 ¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_feedback_1": "¡Qué bueno escuchar eso! Crea una regla familiar con tu adolescente el día de hoy. \n\nRecuerda, *_cuando implicas a tu niña, niño o adolescente en la creación de reglas, es más probable que las siga. ¡Es una receta para el éxito!_* 🏆",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "¡Entendemos! Establecer reglas requiere tiempo y práctica. ⏰ Piensa en las reglas que te gustaría establecer y, cuando sientas más confianza, elige la más fácil y habla de esta regla con tu adolescente. 👂 ¡Recuerda que siempre puedes repasar esta estrategia en el Menú Principal!"
+      "quiz_1_feedback_1": "¡Qué bueno escuchar eso! Crea una regla familiar con tu adolescente el día de hoy. \n\nRecuerda, cuando implicas a tu niña, niño o adolescente en la creación de reglas, es más probable que las siga. ¡Es una receta para el éxito! 🏆",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_feedback_2": "¡Qué bueno escuchar eso! Crea una regla familiar con tu adolescente el día de hoy. \n\nRecuerda, cuando implicas a tu niña, niño o adolescente en la creación de reglas, es más probable que las siga. ¡Es una receta para el éxito! 🏆",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "¡Entendemos! Establecer reglas requiere tiempo y práctica. ⏰ Piensa en las reglas que te gustaría establecer y, cuando sientas más confianza, elige la más fácil y habla de esta regla con tu adolescente. 👂 ¡Recuerda que siempre puedes repasar esta estrategia en el Menú Principal!"
     }
   ],
   "_source": {

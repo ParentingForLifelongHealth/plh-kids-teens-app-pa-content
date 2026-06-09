@@ -171,27 +171,12 @@
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "media_type": "youtube",
-      "nested": false,
-      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender 4️⃣ estrategias sencillas que te ayudarán a establecer reglas familiares con @fields.child_name:\n\n1️⃣ SER UN EQUIPO\n2️⃣ MANTENERLO REALISTA\n3️⃣ SER CONSTANTES\n4️⃣ ELOGIAR, ELOGIAR, ELOGIAR",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Selecciona reproducir ▶️ para aprender 4️⃣ estrategias sencillas que te ayudarán a establecer reglas familiares con @fields.child_name:\n\n1️⃣ SER UN EQUIPO\n2️⃣ MANTENERLO REALISTA\n3️⃣ SER CONSTANTES\n4️⃣ ELOGIAR, ELOGIAR, ELOGIAR"
-        }
-      }
-    },
-    {
-      "id": "practical_tips_2",
-      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/trust.png",
       "section_2_icon_asset": "images/icons/star_outline_blue.svg",
       "section_3_icon_asset": "images/icons/trophy_blue.png",
       "section_4_icon_asset": "images/icons/spark.png",
       "nested": false,
-      "text_1_facilitator": "Recuerda:",
+      "text_1_facilitator": "Veamos las 4️⃣ estrategias que te ayudarán a establecer reglas familiares con @fields.child_name:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -205,7 +190,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Recuerda:"
+          "eng": "Veamos las 4️⃣ estrategias que te ayudarán a establecer reglas familiares con @fields.child_name:"
         },
         "section_1_title": {
           "eng": "SEAN UN EQUIPO"
@@ -252,7 +237,9 @@
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -265,20 +252,28 @@
           "eng": "Sí"
         },
         "quiz_1_feedback_1": {
-          "eng": "¡Es muy bueno escucharlo! Crea una regla familiar con @fields.child_name hoy. Recuerda, *_cuando implicas a @fields.child_name en la creación de reglas, es más probable que las siga. ¡Es una receta para el éxito!_* 🏆"
+          "eng": "¡Es muy bueno escucharlo! Crea una regla familiar con @fields.child_name hoy. Recuerda, cuando implicas a @fields.child_name en la creación de reglas, es más probable que las siga. ¡Es una receta para el éxito! 🏆"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Es muy bueno escucharlo! Crea una regla familiar con @fields.child_name hoy. Recuerda, cuando implicas a @fields.child_name en la creación de reglas, es más probable que las siga. ¡Es una receta para el éxito! 🏆"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "¡Está bien! Establecer reglas requiere tiempo y práctica. ⏰ Piensa en las reglas que te gustaría establecer y, cuando sientas más confianza, elige la más fácil y habla de esta regla con @fields.child_name.\n\n👂 ¡Recuerda que siempre puedes repasar esta estrategia en el Menú Principal!"
         }
       },
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_feedback_1": "¡Es muy bueno escucharlo! Crea una regla familiar con @fields.child_name hoy. Recuerda, *_cuando implicas a @fields.child_name en la creación de reglas, es más probable que las siga. ¡Es una receta para el éxito!_* 🏆",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "¡Está bien! Establecer reglas requiere tiempo y práctica. ⏰ Piensa en las reglas que te gustaría establecer y, cuando sientas más confianza, elige la más fácil y habla de esta regla con @fields.child_name.\n\n👂 ¡Recuerda que siempre puedes repasar esta estrategia en el Menú Principal!"
+      "quiz_1_feedback_1": "¡Es muy bueno escucharlo! Crea una regla familiar con @fields.child_name hoy. Recuerda, cuando implicas a @fields.child_name en la creación de reglas, es más probable que las siga. ¡Es una receta para el éxito! 🏆",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_feedback_2": "¡Es muy bueno escucharlo! Crea una regla familiar con @fields.child_name hoy. Recuerda, cuando implicas a @fields.child_name en la creación de reglas, es más probable que las siga. ¡Es una receta para el éxito! 🏆",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "¡Está bien! Establecer reglas requiere tiempo y práctica. ⏰ Piensa en las reglas que te gustaría establecer y, cuando sientas más confianza, elige la más fácil y habla de esta regla con @fields.child_name.\n\n👂 ¡Recuerda que siempre puedes repasar esta estrategia en el Menú Principal!"
     }
   ],
   "_source": {

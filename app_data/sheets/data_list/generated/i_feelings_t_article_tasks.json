@@ -366,9 +366,15 @@
           "eng": "¡Buen trabajo! ⭐\n\nEsto hará una gran diferencia a la hora de ayudar a @fields.child_name a aprender los 6 pasos para hablar sobre las emociones."
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Buen trabajo! ⭐\n\nEsto hará una gran diferencia a la hora de ayudar a @fields.child_name a aprender los 6 pasos para hablar sobre las emociones."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "Está bien. Intenta encontrar tiempo durante esta semana."
         }
       },
@@ -376,15 +382,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "Está bien. Intenta encontrar tiempo durante esta semana.",
+      "quiz_1_feedback_2": "¡Buen trabajo! ⭐\n\nEsto hará una gran diferencia a la hora de ayudar a @fields.child_name a aprender los 6 pasos para hablar sobre las emociones.",
+      "quiz_1_feedback_3": "Está bien. Intenta encontrar tiempo durante esta semana.",
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nDurante el tiempo juntos y conectados, practica identificar las emociones de @fields.child_name. Conversen describiendo sus propias emociones y cuáles emociones identifican en las demás personas.",
       "completed": false
     }

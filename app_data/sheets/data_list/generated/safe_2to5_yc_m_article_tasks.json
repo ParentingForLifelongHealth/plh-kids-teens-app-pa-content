@@ -386,9 +386,15 @@
           "eng": "💙 ¡Qué bien! Esto le ayudará a protegerse si alguna vez siente inseguridad o incomodidad cuando alguien le toca. ¡Lo estás haciendo muy bien!"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "💙 ¡Qué bien! Esto le ayudará a protegerse si alguna vez siente inseguridad o incomodidad cuando alguien le toca. ¡Lo estás haciendo muy bien!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "¡Está bien! Si hoy no tienes tiempo, aparta un espacio para mañana. Conversar de esto con @fields.child_name le ayudará a protegerse si alguna vez siente inseguridad o incomodidad cuando alguien le toca.\n💙 ¡Lo estás haciendo muy bien!"
         }
       },
@@ -396,15 +402,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "¡Está bien! Si hoy no tienes tiempo, aparta un espacio para mañana. Conversar de esto con @fields.child_name le ayudará a protegerse si alguna vez siente inseguridad o incomodidad cuando alguien le toca.\n💙 ¡Lo estás haciendo muy bien!",
+      "quiz_1_feedback_2": "💙 ¡Qué bien! Esto le ayudará a protegerse si alguna vez siente inseguridad o incomodidad cuando alguien le toca. ¡Lo estás haciendo muy bien!",
+      "quiz_1_feedback_3": "¡Está bien! Si hoy no tienes tiempo, aparta un espacio para mañana. Conversar de esto con @fields.child_name le ayudará a protegerse si alguna vez siente inseguridad o incomodidad cuando alguien le toca.\n💙 ¡Lo estás haciendo muy bien!",
       "quiz_1_question": "¿Puedes conversar esto con @fields.child_name hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐  \n\n🚩 Platica con @fields.child_name sobre el contacto físico seguro e inseguro. \n\nAyúdale a practicar diciendo: \"¡No, no hagas eso!\" o \"¡No! ¡Detente!\" y recuérdale que es importante que le diga a una persona adulta si algo pasa.",
       "completed": false
     }

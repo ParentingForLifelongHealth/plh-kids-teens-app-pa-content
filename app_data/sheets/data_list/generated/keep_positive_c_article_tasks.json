@@ -213,27 +213,11 @@
     },
     {
       "id": "practical_tips_1",
-      "media_type": "youtube",
       "category_id": "practical_tips",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Selecciona reproducir ▶️ para aprender 3️⃣ estrategias sobre cómo ayudar a @fields.child_name a seguir instrucciones con mayor frecuencia:\n\n1️⃣ ESPECIFICAR LO QUE QUIERES\n2️⃣ SER REALISTA\n3️⃣ USAR PALABRAS AFIRMATIVAS"
-        }
-      },
-      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender 3️⃣ estrategias sobre cómo ayudar a @fields.child_name a seguir instrucciones con mayor frecuencia:\n\n1️⃣ ESPECIFICAR LO QUE QUIERES\n2️⃣ SER REALISTA\n3️⃣ USAR PALABRAS AFIRMATIVAS",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
-      "completed": false
-    },
-    {
-      "id": "practical_tips_2",
-      "category_id": "practical_tips",
-      "nested": false,
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Conoce las siguientes estrategias sobre cómo ayudar a @fields.child_name a seguir instrucciones con mayor frecuencia:"
+          "eng": "Vamos a conocer las siguientes estrategias sobre cómo ayudar a @fields.child_name a seguir instrucciones con mayor frecuencia:"
         },
         "section_1_title": {
           "eng": "ESPECIFICAR LO QUE QUIERES"
@@ -254,7 +238,7 @@
           "eng": "⭐Usa palabras positivas al dar instrucciones. Por ejemplo, en vez de \"No grites\", di \"Habla en voz baja\".\n\n💡Da las instrucciones con una voz firme y mantén la calma. Compórtate como si esperaras que tu niña, niño o adolescente hiciera lo que le pides. \n\n🏅 ¡Elogia, elogia, elogia! Asegúrate de elogiar a tu niña, niño o adolescente inmediatamente después de que siga tus instrucciones. \n\n🌷También sé amable contigo si a veces se te olvida hacerlo. Aprender a dar instrucciones efectivas no es fácil, ¡pero funciona! 💙"
         }
       },
-      "text_1_facilitator": "Conoce las siguientes estrategias sobre cómo ayudar a @fields.child_name a seguir instrucciones con mayor frecuencia:",
+      "text_1_facilitator": "Vamos a conocer las siguientes estrategias sobre cómo ayudar a @fields.child_name a seguir instrucciones con mayor frecuencia:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -293,9 +277,15 @@
           "eng": "🎉 ¡Qué bien! Acuérdate de elogiar a @fields.child_name siempre que siga tus instrucciones. ¡Tú puedes!"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "🎉 ¡Qué bien! Acuérdate de elogiar a @fields.child_name siempre que siga tus instrucciones. ¡Tú puedes!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "💚¡Está bien! Aprender algo nuevo requiere tiempo, paciencia y práctica. Puedes empezar pensando en una instrucción que le des muy seguido a @fields.child_name. ¡Practícalo primero con la persona con la que compartes la crianza o a solas en voz alta! 🔄"
         }
       },
@@ -303,15 +293,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "💚¡Está bien! Aprender algo nuevo requiere tiempo, paciencia y práctica. Puedes empezar pensando en una instrucción que le des muy seguido a @fields.child_name. ¡Practícalo primero con la persona con la que compartes la crianza o a solas en voz alta! 🔄",
+      "quiz_1_feedback_2": "🎉 ¡Qué bien! Acuérdate de elogiar a @fields.child_name siempre que siga tus instrucciones. ¡Tú puedes!",
+      "quiz_1_feedback_3": "💚¡Está bien! Aprender algo nuevo requiere tiempo, paciencia y práctica. Puedes empezar pensando en una instrucción que le des muy seguido a @fields.child_name. ¡Practícalo primero con la persona con la que compartes la crianza o a solas en voz alta! 🔄",
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a @fields.child_name.",
       "completed": false
     }

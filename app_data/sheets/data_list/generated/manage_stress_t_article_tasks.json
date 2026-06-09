@@ -264,28 +264,11 @@
     },
     {
       "id": "practical_tips_1",
-      "media_type": "youtube",
       "category_id": "practical_tips",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Selecciona reproducir ▶️ para aprender 4️⃣ estrategias que puedes usar para regular el estrés:\n\n1️⃣ IDENTIFICAR\n2️⃣ SER AMABLE\n3️⃣ TENER HÁBITOS SALUDABLES\n4️⃣ RECARGAR PILAS"
-        }
-      },
-      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender 4️⃣ estrategias que puedes usar para regular el estrés:\n\n1️⃣ IDENTIFICAR\n2️⃣ SER AMABLE\n3️⃣ TENER HÁBITOS SALUDABLES\n4️⃣ RECARGAR PILAS",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
-      "youtube_gb_en_f": "youtube link",
-      "completed": false
-    },
-    {
-      "id": "practical_tips_2",
-      "category_id": "practical_tips",
-      "nested": false,
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Recuerda:"
+          "eng": "Aprendamos 4️⃣ estrategias que puedes usar para regular el estrés:"
         },
         "section_1_title": {
           "eng": "IDENTIFICAR"
@@ -312,7 +295,7 @@
           "eng": "✨Haz pausas durante el día para recargar tu energía. Los pequeños descansos pueden ayudarte, poquito a poquito.\n\nHaz cosas que te ayuden a relajarte y a sentirte bien, como practicar el tomar una pausa, escuchar música o dar un paseo al aire libre. \n\nPasa tiempo con amistades o familiares que se preocupen por ti. Conversar con alguien en quien confíes puede hacerte sentir mejor y reducir tu estrés. \n\nEs importante tener en cuenta la diferencia entre relajación y distracción. Ya que muchas personas piensan que relajarse es ver el celular, la Tablet, ver películas o series y no es así. Ya que relajarse tiene que ver con hacer actividades como respirar profundo, actividad física, pintar y otras cosas que hemos mencionado anteriormente."
         }
       },
-      "text_1_facilitator": "Recuerda:",
+      "text_1_facilitator": "Aprendamos 4️⃣ estrategias que puedes usar para regular el estrés:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -356,9 +339,15 @@
           "eng": "¡Excelente! 💙 Estás desarrollando las habilidades necesarias para volverte a llenar de energía y apoyar a tu adolescente, especialmente cuando las cosas se ponen difíciles.. \n\n¡Lo estás haciendo muy bien! 😃🔄"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Excelente! 💙 Estás desarrollando las habilidades necesarias para volverte a llenar de energía y apoyar a tu adolescente, especialmente cuando las cosas se ponen difíciles.. \n\n¡Lo estás haciendo muy bien! 😃🔄"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "💚 ¡No pasa nada si hoy no tienes tiempo! Puedes compartir estas estrategias con tu adolescente mañana. Recuerda \"Tomar una pausa\" y seguir estas estrategias si te encuentras en una situación que te genere estrés."
         }
       },
@@ -366,15 +355,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "💚 ¡No pasa nada si hoy no tienes tiempo! Puedes compartir estas estrategias con tu adolescente mañana. Recuerda \"Tomar una pausa\" y seguir estas estrategias si te encuentras en una situación que te genere estrés.",
+      "quiz_1_feedback_2": "¡Excelente! 💙 Estás desarrollando las habilidades necesarias para volverte a llenar de energía y apoyar a tu adolescente, especialmente cuando las cosas se ponen difíciles.. \n\n¡Lo estás haciendo muy bien! 😃🔄",
+      "quiz_1_feedback_3": "💚 ¡No pasa nada si hoy no tienes tiempo! Puedes compartir estas estrategias con tu adolescente mañana. Recuerda \"Tomar una pausa\" y seguir estas estrategias si te encuentras en una situación que te genere estrés.",
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nComparte estas estrategias con tu adolescente y comenten cómo puede usarlas para ayudarle a manejar su estrés.",
       "completed": false
     }

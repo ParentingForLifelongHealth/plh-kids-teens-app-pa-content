@@ -221,7 +221,9 @@
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -237,17 +239,25 @@
           "eng": "¡Muy bien! 🎉 Esto ayudará a mostrar interés en lo que hace @fields.child_name y mejorará la relación entre ustedes."
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Muy bien! 🎉 Esto ayudará a mostrar interés en lo que hace @fields.child_name y mejorará la relación entre ustedes."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "¡De acuerdo! Empezar algo nuevo lleva su tiempo. Si no puedes hacerlo todos los días, tal vez puedas empezar con un día sí y un día no. Otra idea es que en vez de 15 minutos al día, pruebes con 5. También puedes pedirle ideas a tu adolescente sobre las rutinas con las que podrían empezar y seleccionen una. ¡Puede que te sorprenda!"
         }
       },
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_feedback_1": "¡Muy bien! 🎉 Esto ayudará a mostrar interés en lo que hace @fields.child_name y mejorará la relación entre ustedes.",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "¡De acuerdo! Empezar algo nuevo lleva su tiempo. Si no puedes hacerlo todos los días, tal vez puedas empezar con un día sí y un día no. Otra idea es que en vez de 15 minutos al día, pruebes con 5. También puedes pedirle ideas a tu adolescente sobre las rutinas con las que podrían empezar y seleccionen una. ¡Puede que te sorprenda!"
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_feedback_2": "¡Muy bien! 🎉 Esto ayudará a mostrar interés en lo que hace @fields.child_name y mejorará la relación entre ustedes.",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "¡De acuerdo! Empezar algo nuevo lleva su tiempo. Si no puedes hacerlo todos los días, tal vez puedas empezar con un día sí y un día no. Otra idea es que en vez de 15 minutos al día, pruebes con 5. También puedes pedirle ideas a tu adolescente sobre las rutinas con las que podrían empezar y seleccionen una. ¡Puede que te sorprenda!"
     }
   ],
   "_source": {

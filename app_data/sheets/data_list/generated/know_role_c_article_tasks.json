@@ -117,28 +117,11 @@
     },
     {
       "id": "practical_tips_1",
-      "media_type": "youtube",
       "category_id": "practical_tips",
       "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Aprendamos cuatro estrategias que te ayudarán a conocer tu rol como la persona cuidadora de tus niñas y niños y a enseñarles también el suyo:\n\n1️⃣ CONOCER TU ROL\n2️⃣ ENSEÑAR\n3️⃣ PONER EL EJEMPLO\n4️⃣ NOTAR"
-        }
-      },
-      "text_1_facilitator": "Aprendamos cuatro estrategias que te ayudarán a conocer tu rol como la persona cuidadora de tus niñas y niños y a enseñarles también el suyo:\n\n1️⃣ CONOCER TU ROL\n2️⃣ ENSEÑAR\n3️⃣ PONER EL EJEMPLO\n4️⃣ NOTAR",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
-      "youtube_gb_en_f": "youtube link",
-      "completed": false
-    },
-    {
-      "id": "practical_tips_2",
-      "category_id": "practical_tips",
-      "nested": false,
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Veamos:"
+          "eng": "Aprendamos cuatro estrategias que te ayudarán a conocer tu rol como la persona cuidadora de tus niñas y niños y a enseñarles también el suyo:"
         },
         "section_1_title": {
           "eng": "CONOCER TU ROL"
@@ -165,7 +148,7 @@
           "eng": "🎨 Fíjate en lo que le gusta hacer a @fields.child_name y ayúdale a hacerlo con mayor frecuencia.\n\n✨ ¡Si @fields.child_name siente que se respetan sus necesidades e intereses, es más probable que haga las tareas del hogar de buena manera y con gusto!\n\n🏅 Fíjate en tu niña o niño y **reconócele** cuando cumpla con sus responsabilidades para que aprenda qué es lo que se espera de ella o él. De este modo, es más probable que lo vuelva a hacer."
         }
       },
-      "text_1_facilitator": "Veamos:",
+      "text_1_facilitator": "Aprendamos cuatro estrategias que te ayudarán a conocer tu rol como la persona cuidadora de tus niñas y niños y a enseñarles también el suyo:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -209,9 +192,15 @@
           "eng": "¡Estupendo! 💙 Esto ayudará a @fields.child_name a sentir tu amor y tu apoyo, lo que puede llevar a un mejor comportamiento de su parte."
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Estupendo! 💙 Esto ayudará a @fields.child_name a sentir tu amor y tu apoyo, lo que puede llevar a un mejor comportamiento de su parte."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "¡Está bien! Si hoy no tienes tiempo, aparta un espacio para mañana. Conversar con @fields.child_name sobre algo que le gusta le ayuda a sentir que merece tu amor y tu apoyo, ¡lo que puede llevar a un mejor comportamiento de su parte!"
         }
       },
@@ -219,15 +208,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "¡Está bien! Si hoy no tienes tiempo, aparta un espacio para mañana. Conversar con @fields.child_name sobre algo que le gusta le ayuda a sentir que merece tu amor y tu apoyo, ¡lo que puede llevar a un mejor comportamiento de su parte!",
+      "quiz_1_feedback_2": "¡Estupendo! 💙 Esto ayudará a @fields.child_name a sentir tu amor y tu apoyo, lo que puede llevar a un mejor comportamiento de su parte.",
+      "quiz_1_feedback_3": "¡Está bien! Si hoy no tienes tiempo, aparta un espacio para mañana. Conversar con @fields.child_name sobre algo que le gusta le ayuda a sentir que merece tu amor y tu apoyo, ¡lo que puede llevar a un mejor comportamiento de su parte!",
       "quiz_1_question": "💛 ¿Tienes tiempo para hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nHabla con @fields.child_name sobre alguno de sus intereses o sobre algo que le guste hacer y demuéstrale tu amor y tu apoyo por lo que le apasiona. \n\nEsto le demuestra que es un miembro valioso del hogar.",
       "completed": false
     }

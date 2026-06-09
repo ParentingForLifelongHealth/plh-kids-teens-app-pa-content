@@ -184,7 +184,9 @@
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -200,17 +202,25 @@
           "eng": "🎉 ¡Qué bien! Acuérdate de elogiar a tu adolescente siempre que siga tus instrucciones. ¡Tú puedes!"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "🎉 ¡Qué bien! Acuérdate de elogiar a tu adolescente siempre que siga tus instrucciones. ¡Tú puedes!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "💚¡Entendemos! Aprender algo nuevo requiere tiempo, paciencia y práctica. Puedes empezar pensando en una instrucción que le des muy seguido a tu adolescente. ¡Practícalo con la persona con la que compartes crianza! 🔄"
         }
       },
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_feedback_1": "🎉 ¡Qué bien! Acuérdate de elogiar a tu adolescente siempre que siga tus instrucciones. ¡Tú puedes!",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "💚¡Entendemos! Aprender algo nuevo requiere tiempo, paciencia y práctica. Puedes empezar pensando en una instrucción que le des muy seguido a tu adolescente. ¡Practícalo con la persona con la que compartes crianza! 🔄"
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_feedback_2": "🎉 ¡Qué bien! Acuérdate de elogiar a tu adolescente siempre que siga tus instrucciones. ¡Tú puedes!",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "💚¡Entendemos! Aprender algo nuevo requiere tiempo, paciencia y práctica. Puedes empezar pensando en una instrucción que le des muy seguido a tu adolescente. ¡Practícalo con la persona con la que compartes crianza! 🔄"
     }
   ],
   "_source": {

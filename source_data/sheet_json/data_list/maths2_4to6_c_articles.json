@@ -90,8 +90,10 @@
       "quiz_1_question::eng": "¿Puedes hacerlo hoy? ⭐",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Qué bueno! 💙 ¡Estas actividades ayudarán a @fields.child_name a aprender!",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "⭐ ¡Entendemos! Si hoy no tienes tiempo, intenta hacer algunas actividades de sumar y restar con @fields.child_name el día de mañana."
+      "quiz_1_option_2_text::eng": "Lo intentaré",
+      "quiz_1_feedback_2::eng": "¡Qué bueno! 💙 ¡Estas actividades ayudarán a @fields.child_name a aprender!",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "⭐ ¡Entendemos! Si hoy no tienes tiempo, intenta hacer algunas actividades de sumar y restar con @fields.child_name el día de mañana."
     }
   ]
 }
