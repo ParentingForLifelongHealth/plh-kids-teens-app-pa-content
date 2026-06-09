@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 4374
+        "count": 4362
       },
       {
         "type": "simple_checkbox",
@@ -139,7 +139,7 @@
       },
       {
         "type": "template",
-        "count": 1370
+        "count": 1364
       },
       {
         "type": "text",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 976
+        "count": 970
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 993
+        "count": 987
       },
       {
         "type": "feedback",
@@ -291,7 +291,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "82168 KB",
+        "KB": "82173 KB",
         "MB": "82.2 MB"
       },
       {
@@ -3277,7 +3277,7 @@
       {
         "path": "images/logos/MIDES_vertical.png",
         "count": 1,
-        "size_kb": 9.9
+        "size_kb": 14.4
       },
       {
         "path": "images/logos/PLH.png",
@@ -3826,7 +3826,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 1103
+        "total": 1097
       },
       {
         "type": "template",

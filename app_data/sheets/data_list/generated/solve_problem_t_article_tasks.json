@@ -301,9 +301,15 @@
           "eng": "¡Maravilloso!"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Maravilloso!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "Está bien. Intenten repasar estos pasos en conjunto en algún momento de esta semana."
         }
       },
@@ -311,15 +317,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "Está bien. Intenten repasar estos pasos en conjunto en algún momento de esta semana.",
+      "quiz_1_feedback_2": "¡Maravilloso!",
+      "quiz_1_feedback_3": "Está bien. Intenten repasar estos pasos en conjunto en algún momento de esta semana.",
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nHabla con tu adolescente sobre los cuatro pasos para resolver problemas y revisen la sesión juntos. \n\n¡Saber resolver problemas es una habilidad que podrán usar el resto de sus vidas!",
       "completed": false
     }

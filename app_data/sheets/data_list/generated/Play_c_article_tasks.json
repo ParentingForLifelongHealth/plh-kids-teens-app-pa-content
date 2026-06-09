@@ -297,9 +297,15 @@
           "eng": "¡Genial! 💙 ¡Usa las estrategias que has aprendido hoy y diviértete!\nJugar con @fields.child_name es una forma estupenda de darle motivación para que aprenda y desarrolle habilidades nuevas. ⚽\n\nJugar con tu niña, niño o adolescente también te ayuda a construir una relación positiva entre ustedes."
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Genial! 💙 ¡Usa las estrategias que has aprendido hoy y diviértete!\nJugar con @fields.child_name es una forma estupenda de darle motivación para que aprenda y desarrolle habilidades nuevas. ⚽\n\nJugar con tu niña, niño o adolescente también te ayuda a construir una relación positiva entre ustedes."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "💙 Si no tienes tiempo hoy, aparta un rato para que jueguen juntos mañana u otro día de la semana.\n\nJugar con tu niña, niño o adolescente también te ayuda a construir una relación positiva entre ustedes."
         }
       },
@@ -307,15 +313,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "💙 Si no tienes tiempo hoy, aparta un rato para que jueguen juntos mañana u otro día de la semana.\n\nJugar con tu niña, niño o adolescente también te ayuda a construir una relación positiva entre ustedes.",
+      "quiz_1_feedback_2": "¡Genial! 💙 ¡Usa las estrategias que has aprendido hoy y diviértete!\nJugar con @fields.child_name es una forma estupenda de darle motivación para que aprenda y desarrolle habilidades nuevas. ⚽\n\nJugar con tu niña, niño o adolescente también te ayuda a construir una relación positiva entre ustedes.",
+      "quiz_1_feedback_3": "💙 Si no tienes tiempo hoy, aparta un rato para que jueguen juntos mañana u otro día de la semana.\n\nJugar con tu niña, niño o adolescente también te ayuda a construir una relación positiva entre ustedes.",
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nInvita a @fields.child_name a jugar contigo hoy. Anímale a hacer preguntas y a explorar cosas nuevas a través del juego.",
       "completed": false
     }

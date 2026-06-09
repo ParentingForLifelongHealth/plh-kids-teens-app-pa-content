@@ -335,9 +335,15 @@
           "eng": "¡Excelente! ¡Usar palabras y gestos que @fields.child_name pueda entender para describir sus actividades es una forma estupenda de ayudarle a aprender! 💡"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Excelente! ¡Usar palabras y gestos que @fields.child_name pueda entender para describir sus actividades es una forma estupenda de ayudarle a aprender! 💡"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "Entendemos. Intenta encontrar un momento para conversar con @fields.child_name, puede ser para explicarle algo que ya estén haciendo en casa. 💡"
         }
       },
@@ -345,15 +351,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "Entendemos. Intenta encontrar un momento para conversar con @fields.child_name, puede ser para explicarle algo que ya estén haciendo en casa. 💡",
+      "quiz_1_feedback_2": "¡Excelente! ¡Usar palabras y gestos que @fields.child_name pueda entender para describir sus actividades es una forma estupenda de ayudarle a aprender! 💡",
+      "quiz_1_feedback_3": "Entendemos. Intenta encontrar un momento para conversar con @fields.child_name, puede ser para explicarle algo que ya estén haciendo en casa. 💡",
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐\n\nDurante su tiempo juntos y conectados, intenta usar palabras y gestos para describir sus actividades. \n\nAsegúrate de que te comunicas de forma que @fields.child_name pueda entenderte.",
       "completed": false
     }

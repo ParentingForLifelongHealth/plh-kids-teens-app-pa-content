@@ -229,9 +229,15 @@
           "eng": "💙 ¡Muy bien! ¡Involucrar a @fields.child_name en actividades como esta y conversar sobre números y las cantidades de las cosas, le ayudará en su aprendizaje! 1️⃣2️⃣3️⃣"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "💙 ¡Muy bien! ¡Involucrar a @fields.child_name en actividades como esta y conversar sobre números y las cantidades de las cosas, le ayudará en su aprendizaje! 1️⃣2️⃣3️⃣"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "⭐ ¡Entendemos! Si hoy no tienes tiempo, intenta involucrar a @fields.child_name en alguna actividad el día de mañana. ¡Las actividades en donde se usan números y se hablan de las cantidades de cosas ayudarán a @fields.child_name a desarrollar sus habilidades!"
         }
       },
@@ -239,15 +245,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "⭐ ¡Entendemos! Si hoy no tienes tiempo, intenta involucrar a @fields.child_name en alguna actividad el día de mañana. ¡Las actividades en donde se usan números y se hablan de las cantidades de cosas ayudarán a @fields.child_name a desarrollar sus habilidades!",
+      "quiz_1_feedback_2": "💙 ¡Muy bien! ¡Involucrar a @fields.child_name en actividades como esta y conversar sobre números y las cantidades de las cosas, le ayudará en su aprendizaje! 1️⃣2️⃣3️⃣",
+      "quiz_1_feedback_3": "⭐ ¡Entendemos! Si hoy no tienes tiempo, intenta involucrar a @fields.child_name en alguna actividad el día de mañana. ¡Las actividades en donde se usan números y se hablan de las cantidades de cosas ayudarán a @fields.child_name a desarrollar sus habilidades!",
       "quiz_1_question": "¿Puedes hacerlo hoy? ⭐",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nIntenta involucrar a @fields.child_name en una actividad en donde tenga que usar números. Por ejemplo, contar la cantidad de ingredientes cuando estés cocinando.",
       "completed": false
     }

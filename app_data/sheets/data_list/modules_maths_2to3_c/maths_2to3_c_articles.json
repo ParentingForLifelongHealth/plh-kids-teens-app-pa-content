@@ -83,28 +83,12 @@
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "media_type": "video",
-      "youtube_gb_en_f": "youtube link",
-      "nested": false,
-      "text_1_facilitator": "Selecciona reproducir ▶️ para aprender tres estrategias que pueden ayudar a @fields.child_name a desarrollar habilidades matemáticas: Contar, Buscar Números y Aprender con Figuras Geométricas.\n\nRecuerda: ¡las matemáticas, los números, las cantidades y las figuras están en todas partes! 🔶🌷🔵\n\nPuedes usar lo que te rodea y tus rutinas diarias para Conversarle de matemáticas a @fields.child_name. ⏰ Esto le preparará para tener aprovechamiento escolar. ⭐",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Selecciona reproducir ▶️ para aprender tres estrategias que pueden ayudar a @fields.child_name a desarrollar habilidades matemáticas: Contar, Buscar Números y Aprender con Figuras Geométricas.\n\nRecuerda: ¡las matemáticas, los números, las cantidades y las figuras están en todas partes! 🔶🌷🔵\n\nPuedes usar lo que te rodea y tus rutinas diarias para Conversarle de matemáticas a @fields.child_name. ⏰ Esto le preparará para tener aprovechamiento escolar. ⭐"
-        }
-      }
-    },
-    {
-      "id": "practical_tips_2",
-      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/maths.png",
       "section_2_icon_asset": "images/icons/123.png",
       "section_3_icon_asset": "images/icons/figures.png",
       "section_4_icon_asset": "images/icons/star_filled_blue.png",
       "nested": false,
-      "text_1_facilitator": "Recuerda:",
+      "text_1_facilitator": "Ahora aprenderemos tres estrategias que pueden ayudar a @fields.child_name a desarrollar habilidades matemáticas: Contar, Buscar Números y Aprender con Figuras Geométricas.\n\nRecuerda: ¡las matemáticas, los números, las cantidades y las figuras están en todas partes! 🔶🌷🔵\n\nPuedes usar lo que te rodea y tus rutinas diarias para Conversarle de matemáticas a @fields.child_name. ⏰ Esto le preparará para tener aprovechamiento escolar. ⭐",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -118,7 +102,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Recuerda:"
+          "eng": "Ahora aprenderemos tres estrategias que pueden ayudar a @fields.child_name a desarrollar habilidades matemáticas: Contar, Buscar Números y Aprender con Figuras Geométricas.\n\nRecuerda: ¡las matemáticas, los números, las cantidades y las figuras están en todas partes! 🔶🌷🔵\n\nPuedes usar lo que te rodea y tus rutinas diarias para Conversarle de matemáticas a @fields.child_name. ⏰ Esto le preparará para tener aprovechamiento escolar. ⭐"
         },
         "section_1_title": {
           "eng": "CONTAR"
@@ -165,7 +149,9 @@
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -181,17 +167,25 @@
           "eng": "¡Excelente! 💙 ¡Contar cosas con @fields.child_name le dará una noción de lo que son los números!\n\n💙¡Involucrar a @fields.child_name en actividades como esta y conversar sobre números y las cantidades de las cosas, le ayudará en su aprendizaje! 1️⃣2️⃣3️⃣"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Excelente! 💙 ¡Contar cosas con @fields.child_name le dará una noción de lo que son los números!\n\n💙¡Involucrar a @fields.child_name en actividades como esta y conversar sobre números y las cantidades de las cosas, le ayudará en su aprendizaje! 1️⃣2️⃣3️⃣"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "¡Entendemos! Si hoy no tienes tiempo, intenta pasar tiempo contando cosas con @fields.child_name el día de mañana. ¡Esto le ayudará a @fields.child_name en su aprendizaje!"
         }
       },
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_feedback_1": "¡Excelente! 💙 ¡Contar cosas con @fields.child_name le dará una noción de lo que son los números!\n\n💙¡Involucrar a @fields.child_name en actividades como esta y conversar sobre números y las cantidades de las cosas, le ayudará en su aprendizaje! 1️⃣2️⃣3️⃣",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "¡Entendemos! Si hoy no tienes tiempo, intenta pasar tiempo contando cosas con @fields.child_name el día de mañana. ¡Esto le ayudará a @fields.child_name en su aprendizaje!"
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_feedback_2": "¡Excelente! 💙 ¡Contar cosas con @fields.child_name le dará una noción de lo que son los números!\n\n💙¡Involucrar a @fields.child_name en actividades como esta y conversar sobre números y las cantidades de las cosas, le ayudará en su aprendizaje! 1️⃣2️⃣3️⃣",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "¡Entendemos! Si hoy no tienes tiempo, intenta pasar tiempo contando cosas con @fields.child_name el día de mañana. ¡Esto le ayudará a @fields.child_name en su aprendizaje!"
     }
   ],
   "_source": {

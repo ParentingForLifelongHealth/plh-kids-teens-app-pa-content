@@ -53,28 +53,12 @@
     {
       "id": "practical_tips_1",
       "category_id": "practical_tips",
-      "media_type": "youtube",
-      "youtube_gb_en_f": "youtube link",
-      "nested": false,
-      "text_1_facilitator": "Aprendamos cuatro estrategias que te ayudarán a conocer tu rol como la persona cuidadora de tus niñas y niños y a enseñarles también el suyo:\n\n1️⃣ CONOCER TU ROL\n2️⃣ ENSEÑAR\n3️⃣ PONER EL EJEMPLO\n4️⃣ NOTAR",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Aprendamos cuatro estrategias que te ayudarán a conocer tu rol como la persona cuidadora de tus niñas y niños y a enseñarles también el suyo:\n\n1️⃣ CONOCER TU ROL\n2️⃣ ENSEÑAR\n3️⃣ PONER EL EJEMPLO\n4️⃣ NOTAR"
-        }
-      }
-    },
-    {
-      "id": "practical_tips_2",
-      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/parent_child.svg",
       "section_2_icon_asset": "images/icons/hands_heart.png",
       "section_3_icon_asset": "images/icons/star_filled_blue.png",
       "section_4_icon_asset": "images/icons/eye_blue.png",
       "nested": false,
-      "text_1_facilitator": "Veamos:",
+      "text_1_facilitator": "Aprendamos cuatro estrategias que te ayudarán a conocer tu rol como la persona cuidadora de tus niñas y niños y a enseñarles también el suyo:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -88,7 +72,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Veamos:"
+          "eng": "Aprendamos cuatro estrategias que te ayudarán a conocer tu rol como la persona cuidadora de tus niñas y niños y a enseñarles también el suyo:"
         },
         "section_1_title": {
           "eng": "CONOCER TU ROL"
@@ -135,7 +119,9 @@
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -151,17 +137,25 @@
           "eng": "¡Estupendo! 💙 Esto ayudará a @fields.child_name a sentir tu amor y tu apoyo, lo que puede llevar a un mejor comportamiento de su parte."
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Estupendo! 💙 Esto ayudará a @fields.child_name a sentir tu amor y tu apoyo, lo que puede llevar a un mejor comportamiento de su parte."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "¡Está bien! Si hoy no tienes tiempo, aparta un espacio para mañana. Conversar con @fields.child_name sobre algo que le gusta le ayuda a sentir que merece tu amor y tu apoyo, ¡lo que puede llevar a un mejor comportamiento de su parte!"
         }
       },
       "quiz_1_question": "💛 ¿Tienes tiempo para hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_feedback_1": "¡Estupendo! 💙 Esto ayudará a @fields.child_name a sentir tu amor y tu apoyo, lo que puede llevar a un mejor comportamiento de su parte.",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "¡Está bien! Si hoy no tienes tiempo, aparta un espacio para mañana. Conversar con @fields.child_name sobre algo que le gusta le ayuda a sentir que merece tu amor y tu apoyo, ¡lo que puede llevar a un mejor comportamiento de su parte!"
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_feedback_2": "¡Estupendo! 💙 Esto ayudará a @fields.child_name a sentir tu amor y tu apoyo, lo que puede llevar a un mejor comportamiento de su parte.",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "¡Está bien! Si hoy no tienes tiempo, aparta un espacio para mañana. Conversar con @fields.child_name sobre algo que le gusta le ayuda a sentir que merece tu amor y tu apoyo, ¡lo que puede llevar a un mejor comportamiento de su parte!"
     }
   ],
   "_source": {

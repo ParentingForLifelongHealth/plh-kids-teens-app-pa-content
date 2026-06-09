@@ -94,8 +94,10 @@
       "quiz_1_question::eng": "¿Puedes elogiar a @fields.child_name por su comportamiento positivo el día de hoy?",
       "quiz_1_option_1_text::eng": "Sí",
       "quiz_1_feedback_1::eng": "¡Bien hecho! 🎉 elogiar a @fields.child_name por sus acciones, aumenta la probabilidad de que vuelva a repetir este comportamiento positivo. De este modo, ¡es menos probable que tengas que recurrir a las consecuencias! 😃\n\nSi el comportamiento de @fields.child_name sigue siendo negativo, dile cómo te sientes, con un tono tranquilo, y dale una consecuencia justa por su comportamiento. ⭐",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "¡Aprender a manejar el comportamiento de tu niña o niño es algo difícil! 😣\n\nLos golpes y los gritos son dañinos para el bienestar de tu niña o niño y pueden afectar tu relación con @fields.child_name a lo largo del tiempo.❗\n\nLa próxima vez que @fields.child_name se porte bien, reconócele por ello, ¡aunque sea algo pequeño! De este modo, puede que ni siquiera sea necesario el aplicar consecuencias en el futuro.\n\nSi @fields.child_name se sigue portando mal, tranquilamente dile cómo te sientes y aplica una consecuencia justa por su comportamiento. Puede que en el futuro veas cómo cambia su comportamiento. ⭐"
+      "quiz_1_option_2_text::eng": "Lo intentaré",
+      "quiz_1_feedback_2::eng": "¡Bien hecho! 🎉 elogiar a @fields.child_name por sus acciones, aumenta la probabilidad de que vuelva a repetir este comportamiento positivo. De este modo, ¡es menos probable que tengas que recurrir a las consecuencias! 😃\n\nSi el comportamiento de @fields.child_name sigue siendo negativo, dile cómo te sientes, con un tono tranquilo, y dale una consecuencia justa por su comportamiento. ⭐",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "¡Aprender a manejar el comportamiento de tu niña o niño es algo difícil! 😣\n\nLos golpes y los gritos son dañinos para el bienestar de tu niña o niño y pueden afectar tu relación con @fields.child_name a lo largo del tiempo.❗\n\nLa próxima vez que @fields.child_name se porte bien, reconócele por ello, ¡aunque sea algo pequeño! De este modo, puede que ni siquiera sea necesario el aplicar consecuencias en el futuro.\n\nSi @fields.child_name se sigue portando mal, tranquilamente dile cómo te sientes y aplica una consecuencia justa por su comportamiento. Puede que en el futuro veas cómo cambia su comportamiento. ⭐"
     }
   ]
 }

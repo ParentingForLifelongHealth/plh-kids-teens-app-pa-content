@@ -330,9 +330,15 @@
           "eng": "😃 📖 ¡Excelente! ¡Leer con @fields.child_name es una forma estupenda de ayudarle a aprender!"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "😃 📖 ¡Excelente! ¡Leer con @fields.child_name es una forma estupenda de ayudarle a aprender!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "☀️ Entendemos. No siempre es posible tomarnos un tiempo para leer con @fields.child_name. Intenta apartar un poco de tiempo cada día porque esto le ayudará en su aprendizaje."
         }
       },
@@ -340,15 +346,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "☀️ Entendemos. No siempre es posible tomarnos un tiempo para leer con @fields.child_name. Intenta apartar un poco de tiempo cada día porque esto le ayudará en su aprendizaje.",
+      "quiz_1_feedback_2": "😃 📖 ¡Excelente! ¡Leer con @fields.child_name es una forma estupenda de ayudarle a aprender!",
+      "quiz_1_feedback_3": "☀️ Entendemos. No siempre es posible tomarnos un tiempo para leer con @fields.child_name. Intenta apartar un poco de tiempo cada día porque esto le ayudará en su aprendizaje.",
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\n📚 Trata de dedicar el tiempo juntos y conectados de hoy a leer y comentar un libro con @fields.child_name.",
       "completed": false
     }

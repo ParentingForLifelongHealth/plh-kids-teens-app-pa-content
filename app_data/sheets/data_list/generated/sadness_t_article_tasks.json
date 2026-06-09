@@ -417,9 +417,15 @@
           "eng": "¡Maravilloso!\n\n💙 Puede llevar tiempo que @fields.child_name sienta comodidad al compartir sus sentimientos. Sé paciente, mantén la mente abierta y escucha de verdad a tu adolescente.\n\nSi @fields.child_name dice que se siente triste, prueba los consejos de la sesión de hoy."
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Maravilloso!\n\n💙 Puede llevar tiempo que @fields.child_name sienta comodidad al compartir sus sentimientos. Sé paciente, mantén la mente abierta y escucha de verdad a tu adolescente.\n\nSi @fields.child_name dice que se siente triste, prueba los consejos de la sesión de hoy."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "¡Está bien, no pasa nada! Puedes intentarlo mañana.\n\n💙 Puede llevar tiempo que @fields.child_name sienta comodidad al compartir sus sentimientos. Sé paciente, mantén la mente abierta y escucha de verdad a tu adolescente.\n\nSi @fields.child_name dice que se siente triste, prueba los consejos de la sesión de hoy."
         }
       },
@@ -427,15 +433,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "¡Está bien, no pasa nada! Puedes intentarlo mañana.\n\n💙 Puede llevar tiempo que @fields.child_name sienta comodidad al compartir sus sentimientos. Sé paciente, mantén la mente abierta y escucha de verdad a tu adolescente.\n\nSi @fields.child_name dice que se siente triste, prueba los consejos de la sesión de hoy.",
+      "quiz_1_feedback_2": "¡Maravilloso!\n\n💙 Puede llevar tiempo que @fields.child_name sienta comodidad al compartir sus sentimientos. Sé paciente, mantén la mente abierta y escucha de verdad a tu adolescente.\n\nSi @fields.child_name dice que se siente triste, prueba los consejos de la sesión de hoy.",
+      "quiz_1_feedback_3": "¡Está bien, no pasa nada! Puedes intentarlo mañana.\n\n💙 Puede llevar tiempo que @fields.child_name sienta comodidad al compartir sus sentimientos. Sé paciente, mantén la mente abierta y escucha de verdad a tu adolescente.\n\nSi @fields.child_name dice que se siente triste, prueba los consejos de la sesión de hoy.",
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nIntenta pasar más tiempo juntos y conectados con @fields.child_name esta semana haciendo algo que les gustaría hacer entre ustedes dos. \n\nPuedes aprovechar esta oportunidad para hablar con @fields.child_name y ver cómo le está yendo y cómo se siente.",
       "completed": false
     }

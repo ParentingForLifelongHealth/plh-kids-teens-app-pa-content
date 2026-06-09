@@ -228,7 +228,9 @@
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -244,17 +246,25 @@
           "eng": "¡Maravilloso!"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "¡Maravilloso!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "Está bien. Intenten repasar estos pasos juntos en algún momento de esta semana."
         }
       },
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_feedback_1": "¡Maravilloso!",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "Está bien. Intenten repasar estos pasos juntos en algún momento de esta semana."
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_feedback_2": "¡Maravilloso!",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "Está bien. Intenten repasar estos pasos juntos en algún momento de esta semana."
     }
   ],
   "_source": {

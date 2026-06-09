@@ -131,7 +131,9 @@
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -147,17 +149,25 @@
           "eng": "✨ 📖 ¡Excelente! ¡Dibujar y escribir con @fields.child_name es una forma estupenda de ayudarle a aprender!"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "✨ 📖 ¡Excelente! ¡Dibujar y escribir con @fields.child_name es una forma estupenda de ayudarle a aprender!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "✨💡 Está bien. No siempre es posible tomarnos un tiempo para hacer esto con @fields.child_name. Intenta apartar un poco de tiempo para escribir con @fields.child_name todos los días: ¡esto le ayudará en su aprendizaje!"
         }
       },
       "quiz_1_question": "¿Puedes hacerlo hoy?",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_feedback_1": "✨ 📖 ¡Excelente! ¡Dibujar y escribir con @fields.child_name es una forma estupenda de ayudarle a aprender!",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "✨💡 Está bien. No siempre es posible tomarnos un tiempo para hacer esto con @fields.child_name. Intenta apartar un poco de tiempo para escribir con @fields.child_name todos los días: ¡esto le ayudará en su aprendizaje!"
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_feedback_2": "✨ 📖 ¡Excelente! ¡Dibujar y escribir con @fields.child_name es una forma estupenda de ayudarle a aprender!",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "✨💡 Está bien. No siempre es posible tomarnos un tiempo para hacer esto con @fields.child_name. Intenta apartar un poco de tiempo para escribir con @fields.child_name todos los días: ¡esto le ayudará en su aprendizaje!"
     }
   ],
   "_source": {

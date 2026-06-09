@@ -295,9 +295,15 @@
           "eng": "💙 ¡Increíble! Esto ayudará a que tú y @fields.child_name se preparen para afrontar situaciones difíciles y evitarlas desde un principio."
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
+          "eng": "💙 ¡Increíble! Esto ayudará a que tú y @fields.child_name se preparen para afrontar situaciones difíciles y evitarlas desde un principio."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "⏰ ¡Está bien! Planea apartar una hora en los próximos días para tener esta plática con @fields.child_name. Esto ayudará a que tú y @fields.child_name estén preparados para afrontar situaciones difíciles y a evitarlas desde un principio."
         }
       },
@@ -305,15 +311,19 @@
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "⏰ ¡Está bien! Planea apartar una hora en los próximos días para tener esta plática con @fields.child_name. Esto ayudará a que tú y @fields.child_name estén preparados para afrontar situaciones difíciles y a evitarlas desde un principio.",
+      "quiz_1_feedback_2": "💙 ¡Increíble! Esto ayudará a que tú y @fields.child_name se preparen para afrontar situaciones difíciles y evitarlas desde un principio.",
+      "quiz_1_feedback_3": "⏰ ¡Está bien! Planea apartar una hora en los próximos días para tener esta plática con @fields.child_name. Esto ayudará a que tú y @fields.child_name estén preparados para afrontar situaciones difíciles y a evitarlas desde un principio.",
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text": "Sí",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "Lo intentaré",
+      "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nBusca un momento de tranquilidad para revisar el mapa de la comunidad que creaste con tu niña o niño en la actividad pasada. \n\nPlatiquen sobre los posibles riesgos y de lo que podrían hacer para evitarlos. \n\nComenta con @fields.child_name las posibles acciones que pueden realizar en caso de que se encuentren en una situación de riesgo. 💡",
       "completed": false
     }

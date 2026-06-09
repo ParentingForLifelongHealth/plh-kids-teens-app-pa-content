@@ -33,11 +33,11 @@
 | round_button | 18 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 4374 |
+| set_variable | 4362 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 1370 |
+| template | 1364 |
 | text | 281 |
 | text_area | 3 |
 | text_box | 21 |
@@ -57,13 +57,13 @@
 | add_data | 1 |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 976 |
+| emit: completed | 970 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 993 |
+| emit: uncompleted | 987 |
 | feedback | 13 |
 | go_to | 18 |
 | nav_stack | 501 |
@@ -87,7 +87,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 82168 KB | 82.2 MB |
+| total | 82173 KB | 82.2 MB |
 | unused | 28697 KB | 28.7 MB |
 </details>
 
@@ -729,7 +729,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/CRyA_logo.png | 71.5 | 1 |
 | images/logos/Crianza-03.png | 17.9 | 1 |
 | images/logos/IDEMS.png | 42.7 | 1 |
-| images/logos/MIDES_vertical.png | 9.9 | 1 |
+| images/logos/MIDES_vertical.png | 14.4 | 1 |
 | images/logos/PLH.png | 33.9 | 1 |
 | images/logos/UNICEF.png | 68.8 | 1 |
 | images/onboarding/welcome_screen_1.svg | 239.7 | 1 |
@@ -845,6 +845,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 11 |
 | global | onboarding | 14 |
 | template |  | 176 |
-| template | generated | 1103 |
+| template | generated | 1097 |
 | template | legal_terms | 4 |
 </details>
