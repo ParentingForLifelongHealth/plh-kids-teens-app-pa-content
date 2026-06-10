@@ -296,7 +296,7 @@
       },
       {
         "assets": "unused",
-        "KB": "28697 KB",
+        "KB": "28741 KB",
         "MB": "28.7 MB"
       }
     ]
@@ -309,11 +309,15 @@
       },
       {
         "path": "android/icon-foreground.png",
-        "size_kb": 17.9
+        "size_kb": 44
       },
       {
         "path": "android/icon.png",
         "size_kb": 70.3
+      },
+      {
+        "path": "android/logo-with-text.png",
+        "size_kb": 17.9
       },
       {
         "path": "android/splash.png",
