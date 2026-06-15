@@ -86,14 +86,14 @@
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
-      "text_1_facilitator::eng": "**Actividad para casa**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de @fields.child_name. Para empezar, escribe {CRECER}.",
-      "quiz_1_question::eng": "¿Puedes completar la evaluación hoy? ⭐",
+      "text_1_facilitator::eng": "**Actividad para casa**⭐ \n\nTu Actividad para Casa será invitar a @fields.child_name a jugar contigo. Deja que @fields.child_name elija qué jugar y te guíe durante el juego.",
+      "quiz_1_question::eng": "¿Puedes hacerlo hoy? ⭐",
       "quiz_1_option_1_text::eng": "Sí",
-      "quiz_1_feedback_1::eng": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de @fields.child_name. ",
+      "quiz_1_feedback_1::eng": "🎉 ¡Genial! Dejar que @fields.child_name elija el juego ayudará a fortalecer su confianza, independencia y curiosidad mientras crece.",
       "quiz_1_option_2_text::eng": "Lo intentaré",
-      "quiz_1_feedback_2::eng": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de @fields.child_name. ",
+      "quiz_1_feedback_2::eng": "🎉 ¡Genial! Dejar que @fields.child_name elija el juego ayudará a fortalecer su confianza, independencia y curiosidad mientras crece.",
       "quiz_1_option_3_text::eng": "No",
-      "quiz_1_feedback_3::eng": "💙 Entendemos. Intenta completar esta actividad durante la semana o en otro día de la semana."
+      "quiz_1_feedback_3::eng": "💙 Entendemos. Puede ser difícil encontrar tiempo al inicio. Incluso un pequeño tiempo de juego puede hacer la diferencia. Pueden hacer tiempo para jugar el día de mañana. 🌱"
     }
   ]
 }

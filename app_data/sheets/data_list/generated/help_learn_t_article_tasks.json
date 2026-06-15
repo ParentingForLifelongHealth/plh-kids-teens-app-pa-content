@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_57",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -102,7 +102,7 @@
       },
       "text_2": "Como madre, padre o persona cuidadora, desempeñas un papel importante en cómo @fields.child_name aprende y le da sentido a su vida.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -131,7 +131,7 @@
       "character_1_text": "@data.characters.f1_hija_16.name, ya vas a empezar un nuevo año en la escuela y estoy muy emocionado por ti. ¿Cuáles son tus metas para este año?",
       "character_2_text": "¡Quiero mejorar en matemáticas!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -155,7 +155,7 @@
       },
       "character_2_text": "Mmm… ¡Qué tal si saco un 4.5 en mi primer examen de matemáticas!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -179,7 +179,7 @@
       },
       "character_2_text": "A ver… ¿Qué tal si aparto un poco de tiempo todos los días para estudiar matemáticas? Y, si me trabo con algo, tal vez puedas ayudarme, ¿sí?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -197,7 +197,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -216,7 +216,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=vUlziOBNjf0",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=VeLeC8FrGjo",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -276,7 +276,7 @@
       "section_4_title": "ELOGIA, ELOGIA Y ELOGIA",
       "section_4_text": "-Elogia a @fields.child_name por todos sus esfuerzos, por pequeños que sean.\n\n-Enfócate en las cosas que hace bien, en lugar de solo corregirle por sus errores.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -327,7 +327,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐\n\nDedícale 15 minutos a tu adolescente para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -336,6 +336,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

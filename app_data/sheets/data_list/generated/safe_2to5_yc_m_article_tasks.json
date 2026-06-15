@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_16",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -172,7 +172,7 @@
       "quiz_2_option_4_text": "Ir y gritarle a la persona que lo hizo",
       "quiz_2_feedback_4": "👀 ¡Ups! ¡Buen intento!\n\n💚 Agradecerle por ser tan valiente y por contártelo para que sienta tu protección y la facilidad de conversar contigo en caso de que algo vuelve a ocurrir.\n\n💡 Esto le enseña que su seguridad es lo más importante y que siempre puede contar contigo.\n\n❗ Confrontar a la persona que lo hizo, en la mayoría de las ocasiones, lo empeora, por lo que es mejor ayudar a @fields.child_name a alejarse de esa persona y denunciarla con la policía, en una clínica o en una institución de apoyo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -201,7 +201,7 @@
       "character_1_text": "¿Te gustó la historia, @data.characters.f3_hijo_4.name?",
       "character_2_text": "Sí, papá. ¡Estuvo divertida!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -225,7 +225,7 @@
       },
       "character_2_text": "¿Qué quieres decir, papá?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -255,7 +255,7 @@
       "character_3_id": "f3_padre",
       "character_3_text": "Exactamente. Es importante recordar que estas partes son privadas, nadie debe tocarlas excepto cuando te están ayudando a estar limpio y sano, como cuando un doctor te revisa y te acompaña alguien que te cuida.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -279,7 +279,7 @@
       },
       "character_2_text": "De acuerdo, papá.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -309,7 +309,7 @@
       "character_3_id": "f3_padre",
       "character_3_text": "Te amamos, @data.characters.f3_hijo_4.name.  Ahora, ¡vamos a darnos un fuerte abrazo!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -328,7 +328,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=1RwMKutl9CY",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=xvw5SxMxV6Y",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -388,7 +388,7 @@
       "section_4_title": "CONTARLE A UNA PERSONA ADULTA",
       "section_4_text": "🔴 Dile a @fields.child_name que si siente preocupación, incomodidad o peligro porque alguien le está tocando, debe decírtelo a ti o a una persona adulta en quien confíe.\n\n👂 Si @fields.child_name te cuenta algo que le ha pasado, escúchalo con disposición y dile que ha hecho bien en contártelo. Después, toma las medidas necesarias para mantenerle a salvo. \n\nSiempre cree en lo que te dice @fields.child_name y no le dejes a solas con la persona con la que se siente en peligro.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -439,7 +439,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐  \n\n🚩 Platica con @fields.child_name sobre el contacto físico seguro e inseguro. \n\nAyúdale a practicar diciendo: \"¡No, no hagas eso!\" o \"¡No! ¡Detente!\" y recuérdale que es importante que le diga a una persona adulta si algo pasa.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -448,6 +448,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

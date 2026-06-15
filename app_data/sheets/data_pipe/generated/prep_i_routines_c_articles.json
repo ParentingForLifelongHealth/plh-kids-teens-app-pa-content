@@ -60,7 +60,7 @@
     {
       "operation": "append_columns",
       "args_list": [
-        "version: @global.module_version"
+        "version: 1"
       ],
       "output_target": "i_routines_c_article_tasks"
     }

@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_42",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -102,7 +102,7 @@
       },
       "text_2": "A medida que las y los adolescentes crecen, realizan más actividades por su cuenta y a veces no cumplen las reglas que se establecen para mantenerles a salvo. \n\n🚗 Esto puede ocasionar conflictos en casa. Aprender a resolver estos problemas puede ayudar a mejorar el comportamiento de tu adolescente.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -132,7 +132,7 @@
       "character_2_text": "¡Pero todavía me falta mucha tarea que hacer!",
       "character_3_text": "Mm, es la tercera noche consecutiva que no te acuestas a tiempo por culpa de la tarea.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -168,7 +168,7 @@
       "character_4_id": "f3_hija_12",
       "character_4_text": "¡Está bien!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -198,7 +198,7 @@
       "character_2_text": "Empezaré de una vez, ma. ¿Te puedo pedir ayuda con esta pregunta?",
       "character_3_text": "Claro que sí.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -222,7 +222,7 @@
       },
       "character_2_text": "Qué bien, @data.characters.f3_hija_12.name. Gracias por colaborar conmigo en encontrar una solución que nos funcione. ¡Ahora sí estarás descansada para mañana!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -241,7 +241,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=NRkcevEWAWo&list=PLSUp-fKSYJUbJGZ7OlCtJvOlLuEQ_2yTU&index=2",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=dO6MEKZqe98&list=PLSUp-fKSYJUaKsN2uvn1RF4YTuCrfkPbT",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -301,7 +301,7 @@
       "section_4_title": "COMPROBAR",
       "section_4_text": "✅ Pregúntate: \"¿Funcionó?\"\n\n✅ Si la respuesta es sí, ¡súper!\n\n✅ Si no es así, habla con @fields.child_name sobre intentar otra solución para la próxima vez. Utiliza los 4 pasos para encontrar una solución nueva.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -352,7 +352,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nHabla con tu adolescente sobre los cuatro pasos para resolver problemas y revisen la sesión juntos. \n\n¡Saber resolver problemas es una habilidad que podrán usar el resto de sus vidas!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -361,6 +361,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

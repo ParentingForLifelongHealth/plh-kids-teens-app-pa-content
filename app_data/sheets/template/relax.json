@@ -253,32 +253,26 @@
     },
     {
       "name": "media_data",
-      "value": "@local.row_data.media_asset_my_ms_m",
+      "value": "@local.row_data.media_asset_m",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
-      "condition": "@fields._app_language == \"my_ms\" && @fields.facilitator_id== \"facilitator_male\"",
+      "condition": "@fields.facilitator_id== \"facilitator_male\"",
       "type": "set_variable",
       "_nested_name": "media_data",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.row_data.media_asset_my_ms_m",
-            "matchedExpression": "@local.row_data.media_asset_my_ms_m",
+            "fullExpression": "@local.row_data.media_asset_m",
+            "matchedExpression": "@local.row_data.media_asset_m",
             "type": "local",
             "fieldName": "row_data"
           }
         ],
         "condition": [
           {
-            "fullExpression": "@fields._app_language == \"my_ms\" && @fields.facilitator_id== \"facilitator_male\"",
-            "matchedExpression": "@fields._app_language",
-            "type": "fields",
-            "fieldName": "_app_language"
-          },
-          {
-            "fullExpression": "@fields._app_language == \"my_ms\" && @fields.facilitator_id== \"facilitator_male\"",
+            "fullExpression": "@fields.facilitator_id== \"facilitator_male\"",
             "matchedExpression": "@fields.facilitator_id",
             "type": "fields",
             "fieldName": "facilitator_id"
@@ -286,11 +280,8 @@
         ]
       },
       "_dynamicDependencies": {
-        "@local.row_data.media_asset_my_ms_m": [
+        "@local.row_data.media_asset_m": [
           "value"
-        ],
-        "@fields._app_language": [
-          "condition"
         ],
         "@fields.facilitator_id": [
           "condition"
@@ -299,32 +290,26 @@
     },
     {
       "name": "media_data",
-      "value": "@local.row_data.media_asset_my_ms_f",
+      "value": "@local.row_data.media_asset_f",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
-      "condition": "@fields._app_language == \"my_ms\" && @fields.facilitator_id !== \"facilitator_male\"",
+      "condition": "@fields.facilitator_id !== \"facilitator_male\"",
       "type": "set_variable",
       "_nested_name": "media_data",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.row_data.media_asset_my_ms_f",
-            "matchedExpression": "@local.row_data.media_asset_my_ms_f",
+            "fullExpression": "@local.row_data.media_asset_f",
+            "matchedExpression": "@local.row_data.media_asset_f",
             "type": "local",
             "fieldName": "row_data"
           }
         ],
         "condition": [
           {
-            "fullExpression": "@fields._app_language == \"my_ms\" && @fields.facilitator_id !== \"facilitator_male\"",
-            "matchedExpression": "@fields._app_language",
-            "type": "fields",
-            "fieldName": "_app_language"
-          },
-          {
-            "fullExpression": "@fields._app_language == \"my_ms\" && @fields.facilitator_id !== \"facilitator_male\"",
+            "fullExpression": "@fields.facilitator_id !== \"facilitator_male\"",
             "matchedExpression": "@fields.facilitator_id",
             "type": "fields",
             "fieldName": "facilitator_id"
@@ -332,103 +317,8 @@
         ]
       },
       "_dynamicDependencies": {
-        "@local.row_data.media_asset_my_ms_f": [
+        "@local.row_data.media_asset_f": [
           "value"
-        ],
-        "@fields._app_language": [
-          "condition"
-        ],
-        "@fields.facilitator_id": [
-          "condition"
-        ]
-      }
-    },
-    {
-      "name": "media_data",
-      "value": "@local.row_data.media_asset_gb_en_m",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "condition": "@fields._app_language !== \"my_ms\" && @fields.facilitator_id== \"facilitator_male\"",
-      "type": "set_variable",
-      "_nested_name": "media_data",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.row_data.media_asset_gb_en_m",
-            "matchedExpression": "@local.row_data.media_asset_gb_en_m",
-            "type": "local",
-            "fieldName": "row_data"
-          }
-        ],
-        "condition": [
-          {
-            "fullExpression": "@fields._app_language !== \"my_ms\" && @fields.facilitator_id== \"facilitator_male\"",
-            "matchedExpression": "@fields._app_language",
-            "type": "fields",
-            "fieldName": "_app_language"
-          },
-          {
-            "fullExpression": "@fields._app_language !== \"my_ms\" && @fields.facilitator_id== \"facilitator_male\"",
-            "matchedExpression": "@fields.facilitator_id",
-            "type": "fields",
-            "fieldName": "facilitator_id"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.row_data.media_asset_gb_en_m": [
-          "value"
-        ],
-        "@fields._app_language": [
-          "condition"
-        ],
-        "@fields.facilitator_id": [
-          "condition"
-        ]
-      }
-    },
-    {
-      "name": "media_data",
-      "value": "@local.row_data.media_asset_gb_en_f",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "condition": "@fields._app_language !== \"my_ms\" && @fields.facilitator_id !== \"facilitator_male\"",
-      "type": "set_variable",
-      "_nested_name": "media_data",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.row_data.media_asset_gb_en_f",
-            "matchedExpression": "@local.row_data.media_asset_gb_en_f",
-            "type": "local",
-            "fieldName": "row_data"
-          }
-        ],
-        "condition": [
-          {
-            "fullExpression": "@fields._app_language !== \"my_ms\" && @fields.facilitator_id !== \"facilitator_male\"",
-            "matchedExpression": "@fields._app_language",
-            "type": "fields",
-            "fieldName": "_app_language"
-          },
-          {
-            "fullExpression": "@fields._app_language !== \"my_ms\" && @fields.facilitator_id !== \"facilitator_male\"",
-            "matchedExpression": "@fields.facilitator_id",
-            "type": "fields",
-            "fieldName": "facilitator_id"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.row_data.media_asset_gb_en_f": [
-          "value"
-        ],
-        "@fields._app_language": [
-          "condition"
         ],
         "@fields.facilitator_id": [
           "condition"
@@ -438,37 +328,31 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_16",
-      "_nested_name": "set_variable_16"
+      "name": "set_variable_14",
+      "_nested_name": "set_variable_14"
     },
     {
       "name": "audio_transcript",
-      "value": "@local.row_data.transcript_my_ms_m",
+      "value": "@local.row_data.transcript_m",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
-      "condition": "@fields._app_language == \"my_ms\" && @fields.facilitator_id== \"facilitator_male\"",
+      "condition": "@fields.facilitator_id== \"facilitator_male\"",
       "type": "set_variable",
       "_nested_name": "audio_transcript",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.row_data.transcript_my_ms_m",
-            "matchedExpression": "@local.row_data.transcript_my_ms_m",
+            "fullExpression": "@local.row_data.transcript_m",
+            "matchedExpression": "@local.row_data.transcript_m",
             "type": "local",
             "fieldName": "row_data"
           }
         ],
         "condition": [
           {
-            "fullExpression": "@fields._app_language == \"my_ms\" && @fields.facilitator_id== \"facilitator_male\"",
-            "matchedExpression": "@fields._app_language",
-            "type": "fields",
-            "fieldName": "_app_language"
-          },
-          {
-            "fullExpression": "@fields._app_language == \"my_ms\" && @fields.facilitator_id== \"facilitator_male\"",
+            "fullExpression": "@fields.facilitator_id== \"facilitator_male\"",
             "matchedExpression": "@fields.facilitator_id",
             "type": "fields",
             "fieldName": "facilitator_id"
@@ -476,11 +360,8 @@
         ]
       },
       "_dynamicDependencies": {
-        "@local.row_data.transcript_my_ms_m": [
+        "@local.row_data.transcript_m": [
           "value"
-        ],
-        "@fields._app_language": [
-          "condition"
         ],
         "@fields.facilitator_id": [
           "condition"
@@ -489,32 +370,26 @@
     },
     {
       "name": "audio_transcript",
-      "value": "@local.row_data.transcript_my_ms_f",
+      "value": "@local.row_data.transcript_f",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
-      "condition": "@fields._app_language == \"my_ms\" && @fields.facilitator_id !== \"facilitator_male\"",
+      "condition": "@fields.facilitator_id !== \"facilitator_male\"",
       "type": "set_variable",
       "_nested_name": "audio_transcript",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.row_data.transcript_my_ms_f",
-            "matchedExpression": "@local.row_data.transcript_my_ms_f",
+            "fullExpression": "@local.row_data.transcript_f",
+            "matchedExpression": "@local.row_data.transcript_f",
             "type": "local",
             "fieldName": "row_data"
           }
         ],
         "condition": [
           {
-            "fullExpression": "@fields._app_language == \"my_ms\" && @fields.facilitator_id !== \"facilitator_male\"",
-            "matchedExpression": "@fields._app_language",
-            "type": "fields",
-            "fieldName": "_app_language"
-          },
-          {
-            "fullExpression": "@fields._app_language == \"my_ms\" && @fields.facilitator_id !== \"facilitator_male\"",
+            "fullExpression": "@fields.facilitator_id !== \"facilitator_male\"",
             "matchedExpression": "@fields.facilitator_id",
             "type": "fields",
             "fieldName": "facilitator_id"
@@ -522,103 +397,8 @@
         ]
       },
       "_dynamicDependencies": {
-        "@local.row_data.transcript_my_ms_f": [
+        "@local.row_data.transcript_f": [
           "value"
-        ],
-        "@fields._app_language": [
-          "condition"
-        ],
-        "@fields.facilitator_id": [
-          "condition"
-        ]
-      }
-    },
-    {
-      "name": "audio_transcript",
-      "value": "@local.row_data.transcript_gb_en_m",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "condition": "@fields._app_language !== \"my_ms\" && @fields.facilitator_id== \"facilitator_male\"",
-      "type": "set_variable",
-      "_nested_name": "audio_transcript",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.row_data.transcript_gb_en_m",
-            "matchedExpression": "@local.row_data.transcript_gb_en_m",
-            "type": "local",
-            "fieldName": "row_data"
-          }
-        ],
-        "condition": [
-          {
-            "fullExpression": "@fields._app_language !== \"my_ms\" && @fields.facilitator_id== \"facilitator_male\"",
-            "matchedExpression": "@fields._app_language",
-            "type": "fields",
-            "fieldName": "_app_language"
-          },
-          {
-            "fullExpression": "@fields._app_language !== \"my_ms\" && @fields.facilitator_id== \"facilitator_male\"",
-            "matchedExpression": "@fields.facilitator_id",
-            "type": "fields",
-            "fieldName": "facilitator_id"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.row_data.transcript_gb_en_m": [
-          "value"
-        ],
-        "@fields._app_language": [
-          "condition"
-        ],
-        "@fields.facilitator_id": [
-          "condition"
-        ]
-      }
-    },
-    {
-      "name": "audio_transcript",
-      "value": "@local.row_data.transcript_gb_en_f",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "condition": "@fields._app_language !== \"my_ms\" && @fields.facilitator_id !== \"facilitator_male\"",
-      "type": "set_variable",
-      "_nested_name": "audio_transcript",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.row_data.transcript_gb_en_f",
-            "matchedExpression": "@local.row_data.transcript_gb_en_f",
-            "type": "local",
-            "fieldName": "row_data"
-          }
-        ],
-        "condition": [
-          {
-            "fullExpression": "@fields._app_language !== \"my_ms\" && @fields.facilitator_id !== \"facilitator_male\"",
-            "matchedExpression": "@fields._app_language",
-            "type": "fields",
-            "fieldName": "_app_language"
-          },
-          {
-            "fullExpression": "@fields._app_language !== \"my_ms\" && @fields.facilitator_id !== \"facilitator_male\"",
-            "matchedExpression": "@fields.facilitator_id",
-            "type": "fields",
-            "fieldName": "facilitator_id"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.row_data.transcript_gb_en_f": [
-          "value"
-        ],
-        "@fields._app_language": [
-          "condition"
         ],
         "@fields.facilitator_id": [
           "condition"
@@ -788,6 +568,6 @@
   "_source": {
     "name": "kids_teens_pa",
     "path": "templates/PA relax_activities.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1_f6P6iSOl9rW0f87BEmUD9thQyaeg7v0ViAPT3g7XuU"
+    "url": "https://docs.google.com/spreadsheets/d/1SETTaGNCZXTOnnrA8ysemmXy3-jHgksU_I-Vwak61WE"
   }
 }

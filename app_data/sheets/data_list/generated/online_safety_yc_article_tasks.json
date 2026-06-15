@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_23",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -152,7 +152,7 @@
       "quiz_2_option_2_text": "Falso",
       "quiz_2_feedback_2": "✨ ¡Correcto!\n\n🔑 Las plataformas para redes sociales tienen restricciones de edad por algo. \n\n👀 Las niñas y los niños más pequeños no deben tener cuentas en las redes sociales sin la orientación y supervisión de una persona adulta, ya que pueden encontrarse con contenidos o interacciones inapropiados.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -181,7 +181,7 @@
       "character_1_text": "¿Puedo usar el teléfono para jugar?",
       "character_2_text": "¡Claro!... pero primero aprendamos a usar los dispositivos electrónicos de manera segura. En primer lugar, la regla de la casa es que solo puedes utilizarlos por 30 minutos al día. Es lo que dura un episodio de tu caricatura favorita. Pondré un temporizador que se activará cuando te queden 5 minutos.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -211,7 +211,7 @@
       "character_3_id": "f2_abuelo",
       "character_3_text": "¡Eres muy bueno para escuchar!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -241,7 +241,7 @@
       "character_3_id": "f2_hijo_8",
       "character_3_text": "Bueno.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -265,7 +265,7 @@
       },
       "character_2_text": "¡Sí, abuelito! Gracias.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -284,7 +284,7 @@
       "youtube_gb_en_f": "youtube link",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=VgxGPrrPRTw&list=PLSUp-fKSYJUYZ5eb8tNgjkT9-PtiaP95b&index=3",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -322,7 +322,7 @@
       "section_2_title": "PROTEGE",
       "section_2_text": "Mantén a tu niña o niño a salvo al navegar por internet:\n\n✅ Conversa con  tu niña, niño o adolescente sobre qué aplicaciones y sitios web utiliza con frecuencia y cuales no utiliza tan frecuentemente. Dialoguen sobre los riesgos en la actualidad. \n\n✅ Ayúdale a  tu niña, niño o adolescente  a aprender a crear contraseñas seguras para proteger sus dispositivos.  \n\n✅ Dile a  tu niña, niño o adolescente  que su información personal se debe mantener en privado, incluidas las fotos o vídeos de ellos mismos. ¡Lo que se sube al internet se queda en internet y puede ser utilizado para fines inapropiados!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -373,7 +373,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nPregúntale a @fields.child_name qué hace para mantener su seguridad al usar el internet. 👂 Puede que descubras que ya piensa en la ciberseguridad. 💡\n\nFelicítale por cualquier esfuerzo que ya esté haciendo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -382,6 +382,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

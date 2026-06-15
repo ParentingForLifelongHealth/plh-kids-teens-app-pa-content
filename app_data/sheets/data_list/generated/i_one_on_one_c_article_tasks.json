@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_1",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -98,7 +98,7 @@
         "text_1_facilitator": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -145,7 +145,7 @@
       "text_1_facilitator": "La sesión de hoy trata sobre cómo pasar tiempo juntos y conectados con @fields.child_name 😃",
       "text_2": "¡Pasar tiempo juntos y conectados con @fields.child_name es una forma increíble de construir una buena relación! Esto mostrará que te interesas por lo que hace. 💙\n\nTambién fomentará la confianza y el respeto, y ayudará a @fields.child_name a aprender cosas nuevas. ✨",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -175,7 +175,7 @@
       "character_1_text": "Quiero pasar tiempo juntos y conectados, @data.characters.f1_hijo_5.name. ¿Qué te gustaría hacer?",
       "character_2_text": "¡Quiero jugar a disfrazarnos!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -194,7 +194,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -225,7 +225,7 @@
       "character_3_id": "f1_hijo_5",
       "character_3_text": "¡Póntela, mamá!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -244,7 +244,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -264,7 +264,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=SI5tIWR-Gzc",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=w6izPKu3ygE",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -314,7 +314,7 @@
       "section_3_title": "PERMANECE",
       "section_3_text": "📺 Elimina las distracciones como el televisor o el teléfono.\n\n👀 Presta atención a @fields.child_name. Afirma con la cabeza o usa frases como \"entiendo\" para demostrar que realmente le estás poniendo atención.\n\n💛 Acéptale como es y evita juzgarle.\n\n💡 Recuerda que @fields.child_name también puede comunicarse con gestos, movimientos o sonidos, no solo con palabras, por eso es importante mirarle.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -366,7 +366,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nIntenta pasar por lo menos 15 minutos de tiempo juntos y conectados todos los días. ¡Hará una gran diferencia!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -375,6 +375,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

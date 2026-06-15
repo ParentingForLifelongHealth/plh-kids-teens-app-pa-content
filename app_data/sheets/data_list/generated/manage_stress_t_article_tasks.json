@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_68",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -177,7 +177,7 @@
       "quiz_3_option_2_text": "Falso",
       "quiz_3_feedback_2": "🎉 ¡Buen trabajo!\n\nIgnorar el sentirte estresado solo aumenta el malestar como dolores de cabeza, malhumor y otros. Recuerda que el estrés es normal, pero debes prestarle atención para regularlo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -212,7 +212,7 @@
       "character_2_text": "Hoy me peleé con María en la escuela. Fue una estupidez, pero le dije algunas cosas que desearía no haberle dicho.",
       "character_3_text": "(Frustrada, pensando) ¡Ash! ¡Estoy muy cansada e irritada! Hay demasiadas cosas que hacer hoy. Pagos, la limpieza de la casa, ¡y ahora esto!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -230,7 +230,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -254,7 +254,7 @@
       },
       "character_2_text": "Gracias, abuela. Es que es algo que me pone muy triste.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -278,7 +278,7 @@
       },
       "character_2_text": "Claro, abuela. Me gusta esa idea.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -338,7 +338,7 @@
       "section_4_title": "RECARGAR PILAS",
       "section_4_text": "✨Haz pausas durante el día para recargar tu energía. Los pequeños descansos pueden ayudarte, poquito a poquito.\n\nHaz cosas que te ayuden a relajarte y a sentirte bien, como practicar el tomar una pausa, escuchar música o dar un paseo al aire libre. \n\nPasa tiempo con amistades o familiares que se preocupen por ti. Conversar con alguien en quien confíes puede hacerte sentir mejor y reducir tu estrés. \n\nEs importante tener en cuenta la diferencia entre relajación y distracción. Ya que muchas personas piensan que relajarse es ver el celular, la Tablet, ver películas o series y no es así. Ya que relajarse tiene que ver con hacer actividades como respirar profundo, actividad física, pintar y otras cosas que hemos mencionado anteriormente.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -389,7 +389,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nComparte estas estrategias con tu adolescente y comenten cómo puede usarlas para ayudarle a manejar su estrés.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -398,6 +398,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

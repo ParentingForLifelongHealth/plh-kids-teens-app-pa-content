@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_54",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -102,7 +102,7 @@
       },
       "text_2": "@fields.child_name aprenderá mucho mejor estando en un ambiente que apoye y fomente su aprendizaje. 😃",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -131,7 +131,7 @@
       "character_1_text": "Papá, ¡ya llegué!",
       "character_2_text": "Bienvenida a casa, @data.characters.f3_hija_7.name. ¿Tuviste un buen día en la escuela?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -149,7 +149,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -167,7 +167,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -185,7 +185,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -203,7 +203,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -222,7 +222,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=N76qdE4IB4Y",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=D_ZTCuNWsBQ",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -271,7 +271,7 @@
       "section_3_title": "APOYA",
       "section_3_text": "❌ Procura no molestar a @fields.child_name mientras esté estudiando.\n\n✅ Hazle saber que tienes toda la disposición de ayudarle si es que necesita apoyo.\n\n✅ Pregúntale qué es lo que tiene que lograr para hoy, y si cumple con su objetivo y reconócele.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -322,7 +322,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐\n\nConversa con @fields.child_name para encontrar un lugar de estudio adecuado en tu casa.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -331,6 +331,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

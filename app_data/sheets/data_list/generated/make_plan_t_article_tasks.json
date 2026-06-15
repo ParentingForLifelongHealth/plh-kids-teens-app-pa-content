@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_69",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -102,7 +102,7 @@
       },
       "text_2": "Crear un plan para cuando estés en una situación que te genera estrés puede ayudarte a planificar y gestionar las situaciones estresantes cuando se produzcan.\n\nEl estrés es parte de la vida y no necesariamente es malo. Es normal sentir estrés porque la vida a veces tiene dificultades y eso nos hace sentir tensos. Debemos prestar atención para regularlo mejor.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -125,7 +125,7 @@
       "character_1_id": "f1_padre",
       "character_1_text": "¡Tengo demasiadas cosas que hacer! @data.characters.f1_hijo_5.name está enfermo y @data.characters.f1_hija_13.name necesita ayuda en su proyecto para la escuela. ¡¿Cómo le voy a hacer?!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -143,7 +143,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -161,7 +161,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -179,7 +179,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -197,7 +197,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_6",
@@ -221,7 +221,7 @@
       "character_2_id": "f1_padre",
       "character_2_text": "Un paso a la vez. ¡Sí puedo hacerlo!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -239,7 +239,7 @@
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=jnLXAxx9eQw",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -310,7 +310,7 @@
       "section_5_title": "TOMARLO UN PASO A LA VEZ",
       "section_5_text": "-Empieza por la primera actividad de tu lista.  \n\nCuando la completes, pasa a la siguiente.  \n\n-Esto te ayuda a centrarte primero en las cosas más importantes y a asegurarte de que no se te olvida nada. \n\n-De vez en cuando, tómate un momento para revisar tu plan. Comprueba si ha cambiado algo o si han surgido cosas nuevas.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -361,7 +361,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nUsa estas estrategias para crear un plan que te ayude a hacer todas las cosas que tienes que hacer hoy o en la semana.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -370,6 +370,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

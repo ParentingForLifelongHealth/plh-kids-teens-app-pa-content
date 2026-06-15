@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_25",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -187,7 +187,7 @@
       "quiz_1_option_8_text": "Ninguna de las anteriores",
       "quiz_1_feedback_8": "🎉  Tienes razón.\n\n🔴 Tu adolescente podría sufrir daños en cualquiera de estos lugares, incluso en la casa o en algún espacio público. Es nuestra responsabilidad, como sus figuras protectoras, ayudarles a aprender a evitar situaciones difíciles o a saber qué hacer para alejarse y salvar sus propias vidas dondequiera que estén.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -216,7 +216,7 @@
       "character_1_text": "¡Algo pasó cuando salí con mis amigas  @data.characters.amiga_mujer_1.name y @data.characters.amiga_mujer_2.name!",
       "character_2_text": "Hija, veo que estás temblando, me preocupa tu bienestar y estoy aquí para escucharte o ayudarte en lo que yo pueda. Si te sientes cómoda, ¿puedes contarme lo que pasó?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -240,7 +240,7 @@
       },
       "character_2_text": "Se llama @data.characters.f1_hija_16.name",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -264,7 +264,7 @@
       },
       "character_2_text": "No estoy segura de que sea una buena idea…",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -282,7 +282,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -306,7 +306,7 @@
       },
       "character_2_text": "Es que no sé…",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_6",
@@ -324,7 +324,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -343,7 +343,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=lHQqp6J5Qjs&list=PLSUp-fKSYJUZZOOl5bkBlhgCDSNhQ_GCg&index=5",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=cOSojI5utyA",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -392,7 +392,7 @@
       "section_3_title": "CONVERSA",
       "section_3_text": "❗ A veces, nos encontramos en apuros.\n\n👀 Comenten dónde pueden obtener apoyo tanto para ti como para @fields.child_name en caso de sentir inseguridad o estar en crisis. Estos lugares pueden ser el hogar, la escuela o una clínica.\n\n🚩 Marca, con claridad, estas zonas en tu mapa.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -443,7 +443,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nDedica un tiempo juntos y conectados con @fields.child_name a crear un mapa de seguridad comunitaria siguiendo las estrategias revisadas.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -452,6 +452,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

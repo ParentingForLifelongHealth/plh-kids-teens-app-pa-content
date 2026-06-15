@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_13",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -127,7 +127,7 @@
       "text_1_facilitator": "Esta sesión trata sobre como ser una figura de apoyo en la crianza y con la pareja o la familia  💚",
       "text_2": "Cuando todos, ya sean los padres, las madres o las personas cuidadoras, se involucran en la crianza de sus niñas, niños y adolescentes, la familia completa sale beneficiada. 😃",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -150,7 +150,7 @@
       "character_1_id": "f1_padre",
       "character_1_text": "¡Buen trabajo, @data.characters.f1_hija_6.name! ¡Estás leyendo con mucha fluidez!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -174,7 +174,7 @@
       "character_2_id": "f1_madre",
       "character_2_text": "Tuve un día muy pesado, me duelen mis piecitos y todavía tenemos que prepararles la comida a los niños.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -192,7 +192,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -216,7 +216,7 @@
       "character_2_id": "f1_padre",
       "character_2_text": "¡Claro! Estamos juntos en esto.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -234,7 +234,7 @@
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=RBXcUlZh6tw",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -294,7 +294,7 @@
       "section_4_title": "PIDE APOYO",
       "section_4_text": "😒También es importante saber pedir ayuda cuando la necesites. A veces, esperamos que nuestras parejas o familiares sepan que necesitamos apoyo aunque no se lo pidamos. \n\nCuando necesites ayuda, dile  cómo te sientes y qué es lo que te preocupa. Esto le ayudará a entender lo que necesitas.   \n\n⭐ Una vez que empieces a pedir ayuda, ¡lo más probable es que empiecen a ofrecerte más apoyo en el futuro!  \n\n💚 ¡Recuerda siempre dar las gracias!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -345,7 +345,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "<span><b>**Actividad para casa**</b></span><span><b><i>⭐ </b></i></span><span><br/><br/>Trata de darte cuenta de los momentos en los que tu pareja o familiar con quien compartes la crianza necesita apoyo. Pregúntale qué necesita y escúchale. <br/><br/>Por ejemplo, cuando tu niña, niño o adolescente se está preparando para ir a la escuela, pregúntale si necesitan tu ayuda para algo. </span>",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -354,6 +354,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

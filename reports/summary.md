@@ -33,7 +33,7 @@
 | round_button | 18 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 4346 |
+| set_variable | 4342 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
@@ -862,7 +862,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_pipe |  | 4 |
 | data_pipe | generated | 150 |
 | generator |  | 87 |
-| global |  | 11 |
+| global |  | 12 |
 | global | onboarding | 14 |
 | template |  | 176 |
 | template | generated | 1093 |

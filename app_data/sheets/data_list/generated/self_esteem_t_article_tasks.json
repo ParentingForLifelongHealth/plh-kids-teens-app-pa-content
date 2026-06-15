@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_70",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -207,7 +207,7 @@
       "quiz_3_option_3_text": "3. \"Me da mucho orgullo que lo hayas intentado incluso cuando las cosas se pusieron más difíciles. ¿Qué crees que puedas aprender de todo esto?\"",
       "quiz_3_feedback_3": "🎉 ¡Buen trabajo! \n\n💙 Elogiar a tu adolescente por intentarlo, incluso cuando las cosas son difíciles, ayudará a construir su confianza para poder enfrentar cualquier problema que se le presente en el futuro.  \n\n😣Decirle a tu adolescente que es #1 en todo, puede hacer que sienta que tiene que llegar a la perfección siempre, lo que puede hacer que sienta demasiada presión. Cuando le dices a tu adolescente que podría haberlo hecho mejor, puede llegar a sentir que sus esfuerzos no son lo suficientemente buenos.  \n\n🌷 *_¡Es importante animar a tu adolescente a crecer, pero también es importante reconocer y elogiar sus esfuerzos e intentos!_*",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -226,7 +226,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=-Dv-0-_fGTo",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=Q6iNy6hRt8U",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -286,7 +286,7 @@
       "section_4_title": "INCLINAR LA BALANZA",
       "section_4_text": "😃 Los pensamientos de @fields.child_name son como una balanza, los pensamientos positivos sobre ellos mismos de un lado y los negativos del otro lado. \n\n😔 Es normal que las y los adolescentes durante su desarrollo tengan, ocasionalmente, pensamientos negativos o desagradables sobre su persona.  \n\n👑 Si @fields.child_name se dice cosas desagradables o se insulta a sí mismo, pregúntale qué le hace sentirse así, por qué se describe así o que le hace pensar que es así. \n\n✅ Cuando aceptas cómo es @fields.child_name, le haces preguntas para entender su punto de vista, le ofreces apoyo y te conviertes en su ejemplo a seguir, estás ayudando a que su balanza se incline hacia el lado de los pensamientos y emociones positivas.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -337,7 +337,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\n👀 @fields.child_name y tú pueden apoyarse para aprender cómo pensar positivamente sobre ustedes mismos o mismas. Intenta esto la próxima vez que tu adolescente exprese un pensamiento o  una emoción negativa sobre su persona:  \n\nPregúntale qué le hace sentir así y conecta con esa emoción . \n\nHazle saber a tu adolescente que estarás ahí para lo que necesite. \n\nHazle preguntas para entender su situación.  \n\nAyúdale a modificar ese pensamiento por otro que le beneficie más al preguntarle: \"¿Qué te diría una amiga o amigo o alguien a quien quieres mucho?\".  \n\nElogia a @fields.child_name por comunicarse contigo y pedirte apoyo para superar sus pensamientos o emociones negativas.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -346,6 +346,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

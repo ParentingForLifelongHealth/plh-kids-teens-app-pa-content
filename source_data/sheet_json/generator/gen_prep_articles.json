@@ -48,7 +48,7 @@
     },
     {
       "operation": "append_columns",
-      "args_list": "version: @global.module_version",
+      "args_list": "version: 1",
       "output_target": "{@gen.id}_article_tasks"
     }
   ]

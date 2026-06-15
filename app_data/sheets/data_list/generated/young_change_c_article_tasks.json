@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_64",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -152,7 +152,7 @@
       "quiz_2_option_2_text": "Falso",
       "quiz_2_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\n🚲 @fields.child_name quiere aprender y debemos darle nuestro apoyo para que lo siga intentando aún cuando se equivoque.\n\n⭐ ¡Reconócele por persistir! @fields.child_name sentirá el apoyo. El esfuerzo es más importante que dominar una habilidad.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -187,7 +187,7 @@
       "character_2_text": "¡No, yo quiero intentarlo!",
       "character_3_text": "¡De acuerdo @data.characters.f1_hijo_5.name!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -211,7 +211,7 @@
       },
       "character_2_text": "¡Sí, tú puedes! ¿Qué tal si yo te ayudo con un pie y tú lo haces con el otro?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -235,7 +235,7 @@
       },
       "character_2_text": "Sujeta el zapato con las dos manos. Ahora, mete el pie izquierdo en el zapato. ¡Ya casi! Mueve los dedos de los pies y asegúrate de que el talón está metido hasta el fondo. ¡Buen trabajo! Ahora, prueba con el zapato derecho.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -259,7 +259,7 @@
       },
       "character_2_text": "¡Muy bien, @data.characters.f1_hijo_5.name! ¡Cada día haces más cosas!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -278,7 +278,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=jpJypLnpGfM",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=b2oAWMssVkg",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -316,39 +316,39 @@
       "section_2_title": "APOYAR LA CURIOSIDAD",
       "section_2_text": "🧸 Puede que a @fields.child_name le cueste un poco poder distinguir entre la fantasía y la realidad, por lo que existe la posibilidad de que pueda expresar sus sentimientos de una manera exagerada.\n\n¡Es parte del proceso! Puedes ayudar a @fields.child_name a aprender cómo manejar sus emociones al nombrarlas, describir cómo se sienten en su cuerpo y aceptarlas. 😃😒😔😣\n\n🌱 Puede que @fields.child_name hable mucho y tenga muchas preguntas. Le puedes dar a @fields.child_name respuestas breves pero sinceras.\n\n💡Puede que @fields.child_name repita la pregunta o haga preguntas complementarias para saber más. Haz una pausa y mantén la calma mientras buscas fomentar su interés por aprender y respóndele.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de @fields.child_name. Para empezar, escribe {CRECER}."
+          "eng": "**Actividad para casa**⭐ \n\nTu Actividad para Casa será invitar a @fields.child_name a jugar contigo. Deja que @fields.child_name elija qué jugar y te guíe durante el juego."
         },
         "quiz_1_question": {
-          "eng": "¿Puedes completar la evaluación hoy? ⭐"
+          "eng": "¿Puedes hacerlo hoy? ⭐"
         },
         "quiz_1_option_1_text": {
           "eng": "Sí"
         },
         "quiz_1_feedback_1": {
-          "eng": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de @fields.child_name."
+          "eng": "🎉 ¡Genial! Dejar que @fields.child_name elija el juego ayudará a fortalecer su confianza, independencia y curiosidad mientras crece."
         },
         "quiz_1_option_2_text": {
           "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
-          "eng": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de @fields.child_name."
+          "eng": "🎉 ¡Genial! Dejar que @fields.child_name elija el juego ayudará a fortalecer su confianza, independencia y curiosidad mientras crece."
         },
         "quiz_1_option_3_text": {
           "eng": "No"
         },
         "quiz_1_feedback_3": {
-          "eng": "💙 Entendemos. Intenta completar esta actividad durante la semana o en otro día de la semana."
+          "eng": "💙 Entendemos. Puede ser difícil encontrar tiempo al inicio. Incluso un pequeño tiempo de juego puede hacer la diferencia. Pueden hacer tiempo para jugar el día de mañana. 🌱"
         }
       },
       "category_id": "home_activity",
       "nested": false,
-      "quiz_1_feedback_1": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de @fields.child_name.",
+      "quiz_1_feedback_1": "🎉 ¡Genial! Dejar que @fields.child_name elija el juego ayudará a fortalecer su confianza, independencia y curiosidad mientras crece.",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
@@ -359,15 +359,15 @@
         "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de @fields.child_name.",
-      "quiz_1_feedback_3": "💙 Entendemos. Intenta completar esta actividad durante la semana o en otro día de la semana.",
-      "quiz_1_question": "¿Puedes completar la evaluación hoy? ⭐",
+      "quiz_1_feedback_2": "🎉 ¡Genial! Dejar que @fields.child_name elija el juego ayudará a fortalecer su confianza, independencia y curiosidad mientras crece.",
+      "quiz_1_feedback_3": "💙 Entendemos. Puede ser difícil encontrar tiempo al inicio. Incluso un pequeño tiempo de juego puede hacer la diferencia. Pueden hacer tiempo para jugar el día de mañana. 🌱",
+      "quiz_1_question": "¿Puedes hacerlo hoy? ⭐",
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "Lo intentaré",
       "quiz_1_option_3_text": "No",
-      "text_1_facilitator": "**Actividad para casa**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de @fields.child_name. Para empezar, escribe {CRECER}.",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nTu Actividad para Casa será invitar a @fields.child_name a jugar contigo. Deja que @fields.child_name elija qué jugar y te guíe durante el juego.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -376,6 +376,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

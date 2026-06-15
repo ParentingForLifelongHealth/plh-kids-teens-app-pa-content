@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_52",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -102,7 +102,7 @@
       },
       "text_2": "Tú desempeñas un papel importante en cómo @fields.child_name aprende y se desarrolla dentro y fuera de la escuela.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -131,7 +131,7 @@
       "character_1_text": "@data.characters.f3_hija_7.name, ¿qué pasa?",
       "character_2_text": "Ya no quiero hacer la tarea. ¡Odio la escuela!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -149,7 +149,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -166,7 +166,7 @@
       },
       "image_asset": "images/comic/learn/fun_learning_7to9_yc_3.svg",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -184,7 +184,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -202,7 +202,7 @@
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=dX2AUx39W-E",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -251,7 +251,7 @@
       "section_3_title": "PERMITIR LA CREATIVIDAD",
       "section_3_text": "🎨 Permite que @fields.child_name exprese su creatividad mientras aprende algo nuevo. Por ejemplo, anima a @fields.child_name a dibujar o a salir al aire libre para mejorar su aprendizaje.\n \n✨ Si a @fields.child_name le interesa un tema nuevo, hablen sobre eso y anímale a que explore y averigüe más sobre el tema.\n\n💙 Da un buen ejemplo: Deja que @fields.child_name te vea explorando tu creatividad y haciendo cosas nuevas, aunque todavía no lo domines.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -302,7 +302,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nInvita a @fields.child_name a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. \n\nPueden bailar, jugar algo, o salir a correr cerca de su casa. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -311,6 +311,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

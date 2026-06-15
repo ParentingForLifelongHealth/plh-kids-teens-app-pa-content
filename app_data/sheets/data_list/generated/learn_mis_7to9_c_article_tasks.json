@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_55",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -102,7 +102,7 @@
       },
       "text_2": "Aprender de nuestros errores puede ayudar a evitarlos en el futuro. También puede ayudar a tratarnos con más empatía y con menos dureza cuando las cosas no van bien. 😃",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -131,7 +131,7 @@
       "character_1_text": "¿Qué pasó, @data.characters.f2_hijo_8.name?",
       "character_2_text": "Ay abue, lo que pasa es que no llevé mis materiales para dibujar a la escuela. Se  me olvidaron aquí en la casa.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -155,7 +155,7 @@
       },
       "character_2_text": "Sí, y más porque pensé que tenía todo lo que necesitaba en mi mochila.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -179,7 +179,7 @@
       },
       "character_2_text": "Estaba muy apurado metiendo todo a la mochila en la mañana. Creo que debería empezar a hacerla en la noche.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -203,7 +203,7 @@
       },
       "character_2_text": "Así está bien, abue. Lo recordaré. Gracias por entenderme.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -221,7 +221,7 @@
       },
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=lNn8cOitnmQ",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -281,7 +281,7 @@
       "section_4_title": "COMPARTE",
       "section_4_text": "📖 Intenta compartir tus propios fracasos con @fields.child_name y habla de cómo te ayudaron a desarrollarte y a crecer.\n\n✅ Esto le ayuda a tu niña o niño a entender que no tiene que ser una persona perfecta todo el tiempo. También, sabrá que puede Conversar contigo si algo sale mal.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -332,7 +332,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nCuéntale a @fields.child_name sobre alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra sesión de vida que tuviste.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -341,6 +341,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_61",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -127,7 +127,7 @@
       "text_1_facilitator": "🧸 Esta sesión trata sobre cómo ayudar a @fields.child_name a disfrutar de su aprendizaje convirtiéndolo en algo lúdico y divertido. 😃",
       "text_2": "🎨 Jugar con @fields.child_name es importante para su desarrollo y aprendizaje dentro y fuera de la escuela. Esto es una realidad para TODAS las niñas y TODOS los niños, incluidos los que tienen discapacidades físicas y del desarrollo.\n\n🚲 ¿Sabías que jugar también le ayuda a @fields.child_name a aprender valores y normas sociales?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -156,7 +156,7 @@
       "character_1_text": "Hola, hijo. ¿Te gustaría que hiciéramos algo divertido juntos?",
       "character_2_text": "¡Sí!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -186,7 +186,7 @@
       "character_3_id": "f3_madre",
       "character_3_text": "¡Gran idea! ¿Qué tenemos que hacer primero?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -210,7 +210,7 @@
       },
       "character_2_text": "Me encanta que eres muy cuidadoso y piensas en todo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -240,7 +240,7 @@
       "character_3_id": "f3_madre",
       "character_3_text": "Claro, hijo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -259,7 +259,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=DISo5Cyh7AQ",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=1CYIm2qU8w8",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -297,7 +297,7 @@
       "section_2_title": "PERMITIR LA CREATIVIDAD",
       "section_2_text": "🎨 Permite que @fields.child_name exprese su creatividad cuando juegue. Por ejemplo, anima a @fields.child_name a dibujar o a salir de la casa con supervisión.\n\n✨ Si a @fields.child_name le interesa un tema nuevo, háblale de eso y ayúdale a explorarlo a través del juego.\n\n💙 Da un buen ejemplo: Deja que @fields.child_name te vea explorando tu creatividad y busca hacer cosas nuevas, aunque todavía no se te den bien.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -348,7 +348,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nInvita a @fields.child_name a jugar contigo hoy. Anímale a hacer preguntas y a explorar cosas nuevas a través del juego.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -357,6 +357,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

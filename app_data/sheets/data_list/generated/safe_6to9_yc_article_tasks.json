@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_18",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -147,7 +147,7 @@
       "quiz_1_option_4_text": "Ir y gritarle a la persona que lo hizo",
       "quiz_1_feedback_4": "👀 ¡Ups! ¡Buen intento!\n\n💚 Agradecerle por ser tan valiente y por contártelo para que sienta tu protección y la facilidad de conversar contigo en caso de que algo vuelve a ocurrir.\n\n💡 Esto le enseña que su seguridad es lo más importante y que siempre puede contar contigo.\n\n❗ Confrontar a la persona que lo hizo, en la mayoría de las ocasiones, lo empeora, por lo que es mejor ayudar a @fields.child_name a alejarse de esa persona y denunciarla con la policía, en una clínica o en una institución de apoyo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -176,7 +176,7 @@
       "character_1_text": "(Con lágrimas en los ojos) Mamá, el tío Ariel, que nos visitó la semana pasada, ¡da abrazos muy largos! No me gustan.",
       "character_2_text": "Ay mi vida, @data.characters.f3_hija_7.name, gracias por decírmelo. Eso no está bien.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -200,7 +200,7 @@
       },
       "character_2_text": "(Responde practicando) No, mejor dame la mano, por favor.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -224,7 +224,7 @@
       },
       "character_2_text": "Gracias, mamá. Qué bueno que puedo contarte estas cosas.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -243,7 +243,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=hLI1oW6GSIE",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=sPvSO5WIT7c",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -314,7 +314,7 @@
       "section_5_title": "RESPONDE: ¿QUÉ PODRÍA SER DE AYUDA?",
       "section_5_text": "Respo\n🔶 Puede que tengas que ayudar a @fields.child_name a poder expresar sus sentimientos o a redirigir su atención.\n\n➡️ Puede que necesites conversar sobre las medidas que tú o @fields.child_name podrían tomar para ayudar con lo que ha ocurrido.\n\n⏸ Más adelante, y solo si es necesario, puedes enseñarle a @fields.child_name sobre las consecuencias. En este momento, @fields.child_name necesita que estés a su lado de manera amorosa.\n\n✅ Recuerda que siempre puedes ir a la biblioteca en la aplicación para obtener información sobre los recursos de tu comunidad donde puedes recibir ayuda.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -365,7 +365,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\n🚩 Platica con @fields.child_name sobre el contacto físico seguro e inseguro. \n\nAyúdale a practicar diciendo: \"¡No, no hagas eso!\" o \"¡No! ¡Detente!\" y recuérdale que es importante que le diga a una persona adulta si algo pasa.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -374,6 +374,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

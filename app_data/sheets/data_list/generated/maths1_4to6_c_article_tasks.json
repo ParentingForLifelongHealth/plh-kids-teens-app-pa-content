@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_49",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -157,7 +157,7 @@
       "quiz_1_option_5_text": "Todas las anteriores",
       "quiz_1_feedback_5": "⭐ ¡Así es!\n\n🌷  Las niñas y los niños no solo aprenden matemáticas en la escuela.\n\n💙 Pueden aprender matemáticas de muchas maneras y en muchos lugares. ¡Tú puedes ayudarles!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -176,7 +176,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=eNrzki9EXW8",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=NTO1g3pJeco",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -225,7 +225,7 @@
       "section_3_title": "APRENDER CON FIGURAS GEOMÉTRICAS",
       "section_3_text": "🔷 ¡Conocer las figuras geométricas también es importante en matemáticas! Las figuras se pueden encontrar por todas partes al igual que los números, así que búscalas y habla de ellas. ¡Hasta las pueden hacer! 👀\n\n🔴 Ayúdale a @fields.child_name a dibujar diferentes figuras.\n \n🔵 Si puedes, recórtalos y ayuda a @fields.child_name a clasificarlas en grupos (por color, forma, tamaño, ¡o como @fields.child_name quiera!). Pregúntale por qué las clasifica de esa manera.\n\n🔶 ¡Habla con @fields.child_name sobre las figuras y diviértanse con ellas! 😃\n\nReconoce cada esfuerzo que haga tu niña o niño, por más pequeño que sea. Puedes decirle: ¡Buen trabajo juntando esas figuras! \n\nSi tu niña o niño se atora en algún momento, puedes hacerle preguntas abiertas para ayudarle. Puedes decirle: ¿Dónde crees que va el cuadrado verde? \n\nReconoce y elogia los intentos de tu niña o niño por aprender cosas nuevas. Enfócate en lo que hace bien, no en sus errores.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -276,7 +276,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nIntenta involucrar a @fields.child_name en una actividad en donde tenga que usar números. Por ejemplo, contar la cantidad de ingredientes cuando estés cocinando.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -285,6 +285,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }
