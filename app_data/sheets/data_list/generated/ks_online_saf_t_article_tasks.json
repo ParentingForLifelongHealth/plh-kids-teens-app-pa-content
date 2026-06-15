@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_29",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -122,7 +122,7 @@
       "quiz_1_option_2_text": "Falso",
       "text_1_facilitator": "Los adolescentes pasan mucho tiempo en internet⏰ \n\nEstar conectados les ayuda a mantenerse positivos y a aprender más 🔑 pero también hay algunos riesgos y peligros.🚩\n\nHay mucho que compartir sobre cómo asegurar que tu adolescente esté a salvo mientras navega en internet 📱, por lo que conversaremos sobre esto a lo largo de 2️⃣dos lecciones.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -151,7 +151,7 @@
       "character_1_text": "@data.characters.f1_hijo_17.name, ¿ya hiciste la tarea?",
       "character_2_text": "Un momento, estoy terminando este video de Tik Tok.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -175,7 +175,7 @@
       },
       "character_2_text": "Es que todas mis amistades lo usan. Ya tengo más de 600 me gusta y 120 seguidores.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -193,7 +193,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -211,7 +211,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -229,7 +229,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -248,7 +248,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=o5tuKbzmatk",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=TBxN2EJ9VDc",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -286,7 +286,7 @@
       "section_2_title": "PROTEGE",
       "section_2_text": "Mantén a tu adolescente a salvo al navegar por internet:\n\n✅ Conversa con  tu adolescente sobre qué aplicaciones y sitios web utiliza con frecuencia y cuales no utiliza tan frecuentemente. Dialoguen sobre los riesgos en la actualidad. \n\n✅ Ayúdale a  tu adolescente  a aprender a crear contraseñas seguras para proteger sus dispositivos.  \n\n✅ Dile a  tu adolescente  que su información personal se debe mantener en privado, incluidas las fotos o vídeos de ellos mismos. ¡Lo que se sube al internet se queda en internet y puede ser utilizado para fines inapropiados!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -337,7 +337,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nPregúntale a @fields.child_name qué hace para mantener su seguridad al usar el internet. \n\n👂 Puede que descubras que ya piensa en la ciberseguridad. \n\n💡Felicítalo por cualquier esfuerzo que ya esté haciendo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -346,6 +346,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

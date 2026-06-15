@@ -60,7 +60,7 @@
     {
       "operation": "append_columns",
       "args_list": [
-        "version: @global.module_version"
+        "version: 1"
       ],
       "output_target": "s_read_2to3_c_article_tasks"
     }

@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_40",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -102,7 +102,7 @@
       },
       "text_2": "Las reglas familiares pueden ayudar a que tu adolescente se mantenga a salvo del peligro, tanto dentro del hogar como en la comunidad. \n\nSi incluyes a @fields.child_name al momento de establecer estas reglas, es más probable que las siga. ⭐",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -126,7 +126,7 @@
       },
       "character_2_text": "¡No, no lo sé, ni siquiera sé lo que quieres decir con \"tarde\"! Deja de darme lata.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -155,7 +155,7 @@
       "character_1_text": "Me gusta que te diviertas, @data.characters.f2_hijo_15.name, pero también me preocupa que estés en la calle tan tarde. ¿Sabes por qué?",
       "character_2_text": "¿Porque quieres que tenga suficiente tiempo para hacer mi tarea?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -173,7 +173,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -197,7 +197,7 @@
       },
       "character_2_text": "Eso es un poco tarde, ¿qué tal a las 6 de la tarde? ¿O algo entre esas horas?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -221,7 +221,7 @@
       },
       "character_2_text": "Sí, me parece bien. A partir de ahora, nuestra regla familiar es que tienes que volver a casa a las 6 pm las noches de escuela y a las 8 pm los viernes y sábados. Pero siempre acompañado de un amigo. ¿De acuerdo?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_6",
@@ -245,7 +245,7 @@
       },
       "character_2_text": "Muchas gracias, @data.characters.f2_hijo_15.name, por colaborar conmigo para hacer esta regla juntos. Estoy orgullosa de ver que te estás convirtiendo en un muchacho muy responsable.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -264,7 +264,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=3dKfChjDxDg",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=BJs8s0gWLI0",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -324,7 +324,7 @@
       "section_4_title": "ELOGIA, ELOGIA, ELOGIA",
       "section_4_text": "⭐ Elogia y elogia a @fields.child_name por su participación en la elaboración de la regla.\n\n😃 ¡Elogia, Elogia y elogia a @fields.child_name cuando siga la regla, ¡igual que cuando se porta bien!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -375,7 +375,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nCrea, al menos, una regla familiar con tu adolescente.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -384,6 +384,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

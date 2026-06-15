@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_27",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -127,7 +127,7 @@
       "text_1_facilitator": "Esta sesión trata sobre cómo responder a las situaciones de crisis con tu adolescente😔😣.\n\nCuando nuestros adolescentes nos comparten algo que es muy difícil de hablar o les genera mucha molestia, debemos recordar que tenemos que mantener la calma, escuchar y ser abiertos para que se sientan apoyadas y apoyados💛\n\n❗En esta sesión hablaremos acerca del abuso sexual. Es normal sentir incomodidad o molestia cuando se habla de esto.\n\n💡Recuerda respirar profundo. Si lo necesitas, también puedes hablar con alguien de confianza para que te escuche y te apoye.",
       "text_2": "¡Empecemos con un ejercicio!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -150,7 +150,7 @@
       "character_1_id": "f2_abuelo",
       "character_1_text": "@data.characters.f2_hijo_15.name, te ves muy molesto, nieto mío. ¿Quieres contarme qué pasó?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -174,7 +174,7 @@
       "character_2_id": "f2_abuelo",
       "character_2_text": "(Pensando) Respira profundo... ¿Qué necesita @data.characters.f2_hijo_15.name ahorita? Necesita que esté tranquilo y que lo escuche.\n\nVen y siéntate conmigo. Tómate tu tiempo, te escucho.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -198,7 +198,7 @@
       "character_2_id": "f2_abuelo",
       "character_2_text": "Te creo, @data.characters.f2_hijo_15.name. Es muy valiente que me cuentes. Gracias por compartir esto conmigo. No estás en problemas. No es tu culpa.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -222,7 +222,7 @@
       "character_2_id": "f2_abuelo",
       "character_2_text": "Ya veo, estoy aquí para apoyarte, nieto. Esto es algo importante y encontraremos la forma de conseguir la ayuda que necesitamos. Vamos a la clínica. Ellos sabrán qué hacer para ayudarte.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -246,7 +246,7 @@
       "character_2_id": "f2_abuelo",
       "character_2_text": "Claro que sí. Y, ¿@data.characters.f2_hijo_15.name? Recuerda que no es tu culpa. Te quiero. Es una situación muy complicada pero saldremos adelante.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_6",
@@ -264,7 +264,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -283,7 +283,7 @@
       "youtube_gb_en_f": "youtube link",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=Akc7oqwy2BE",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -343,7 +343,7 @@
       "section_4_title": "CONSUELA",
       "section_4_text": "Estar ahí para @fields.child_name.\n\n🌷 Puede ser algo difícil ver que está en un estado de confusión o se siente triste, pero hay muchas cosas que puedes hacer para apoyarle.\n\n💚 Cuando pasan por cosas difíciles, necesitasentir aceptación y consuelo.\n\n🎈Recuérdale, todas las veces que sean necesarias, que le amas y que juntos encontrarán soluciones. Dale las gracias por compartirlo contigo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -394,7 +394,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\n1️⃣ Encuentra un momento tranquilo para hablar con @fields.child_name sobre las posibles crisis que puedan ocurrir.\n\n2️⃣ Discutan posibles acciones que pueden llevar a cabo en caso de que ocurra alguna crisis. Dile que siempre estarás ahí para ayudarle y para mantener su seguridad.\n\n3️⃣ Vuelvan a revisar la actividad de mapeo para identificar otras fuentes de apoyo en la comunidad.\n\n4️⃣ Agradécele a @fields.child_name por tomarse el tiempo de hablar contigo sobre esto.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -403,6 +403,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

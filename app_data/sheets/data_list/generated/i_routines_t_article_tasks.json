@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_8",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -97,7 +97,7 @@
         "text_1_facilitator": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -126,7 +126,7 @@
       "character_1_text": "@data.characters.f2_hijo_15.name, me gustó mucho pasar tiempo contigo ayer. ¡No sabía que eras tan bueno en el fútbol!",
       "character_2_text": "¡Gracias, Abuelo!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -150,7 +150,7 @@
       },
       "character_2_text": "Supongo que sí… Aunque a veces estoy ocupado.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -180,7 +180,7 @@
       "character_3_id": "f2_abuelo",
       "character_3_text": "¿Qué hora es mejor para ti?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -204,7 +204,7 @@
       },
       "character_2_text": "Eso podría funcionar siempre y cuando limpiemos primero. Empecemos hoy. Recuerda que, ¡tú puedes escoger lo que quieras que hagamos!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -228,7 +228,7 @@
       },
       "character_2_text": "Gracias, @data.characters.f2_hijo_15.name. Me gustó mucho haber pasado este ratito contigo. Significa mucho para mí.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -247,7 +247,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=p2hB-9QDflA",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=1-b6OP8qi3k",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -301,7 +301,7 @@
       "section_3_title": "ELOGIA, ELOGIA Y ELOGIA",
       "section_3_text": "🎈 Elogia a @fields.child_name por haber establecido una rutina contigo.\n\n🌈 Elogia a @fields.child_name cuando siga esa rutina.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -352,7 +352,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nHaz que el tiempo juntos y conectados con @fields.child_name se convierta en algo del día a día, igual que comer juntos o salir pasear. 📝",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -361,6 +361,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_31",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -152,7 +152,7 @@
       "quiz_2_option_2_text": "Falso",
       "quiz_2_feedback_2": "🎉 ¡Buen trabajo!\n\n@fields.child_name va a experimentar muchas emociones a medida que va creciendo. Puede aprender de ti cómo regular sus emociones y cómo responder ante una situación que le causa enojo o molestia.\n\nSi @fields.child_name está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu niña, niño o adolescente a darse cuenta de sus emociones  de ira y ayúdale a regular sus emociones utilizando las estrategias de esta sesión.\n\n🎨 Si les enseñamos a ignorar o a esconder sus emociones, esto puede empezar a afectar su mente y su cuerpo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -175,7 +175,7 @@
       "character_1_id": "f1_padre",
       "character_1_text": "¡¡¡Ash!!! ¿Cuántas veces tengo que decirle que juegue con su pelota afuera? ¡Y ahora ya rompió una ventana! ¡Me las va a pagar!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -193,7 +193,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -217,7 +217,7 @@
       "character_2_id": "f1_padre",
       "character_2_text": "¿Estás bien? No te acerques al vidrio y ten cuidado. Dame 5 minutos, voy a ir a la cocina y tú quédate aquí, ahorita conversaremos qué es lo que vamos a hacer al respecto.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -235,7 +235,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -258,7 +258,7 @@
       "character_1_id": "f1_padre",
       "character_1_text": "Ahora me siento mejor. Sigo molesto pero puedo pensar con claridad y manejar bien las cosas. En lugar de gritarle, le diré cómo me siento.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_6",
@@ -282,7 +282,7 @@
       "character_2_id": "f1_hijo_5",
       "character_2_text": "Está bien, papá. De verdad, perdón, me siento muy mal por esto. Desde hoy, jugaré con mi pelota afuera.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -301,7 +301,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=S8dWc17pU7s",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=GUzx1KlSxrs",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -361,7 +361,7 @@
       "section_4_title": "COMUNICA",
       "section_4_text": "Una vez que te hayas calmado, habla con @fields.child_name sobre lo que pasó. \n\nExplícale la situación con calma y respeto. \n\nUsa las estrategias de este curso para conversar sobre las reglas de la casa y las consecuencias.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -412,7 +412,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nConversa con @fields.child_name de lo que has aprendido sobre el enojo en esta sesión. \n\nElige una estrategia que puedas usar cuando sientas enojo. Por ejemplo, puedes practicar el escuchar música mientras llevas a cabo tu rutina de la tarde.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -421,6 +421,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

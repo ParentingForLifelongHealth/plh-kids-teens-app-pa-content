@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_32",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -127,7 +127,7 @@
       "text_1_facilitator": "La sesión de hoy trata sobre cómo ayudar a tu niña o niño a seguir instrucciones. 😃",
       "text_2": "Generalmente, las niñas, niños y adolescentes siguen las instrucciones la mitad de las veces. ⏰ Es natural que, a veces, las niñas, los niños y los adolescentes exploren los límites: forma parte de su crecimiento.  \n\nDar instrucciones efectivas y claras puede hacer que el ambiente sean más tranquilo y pacífico en casa. 🌱",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -156,7 +156,7 @@
       "character_1_text": "Me alegra verte jugar tranquilamente con el celular mientras recojo la mesa después de cenar, @data.characters.f3_hija_7.name. En 3 minutos será la hora de acostarse y será momento de regresarme el teléfono.",
       "character_2_text": "Está bien, mamá.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -185,7 +185,7 @@
       "character_1_text": "Se acabaron los 3 minutos, @data.characters.f3_hija_7.name. Por favor, dame el celular.",
       "character_2_text": "Está bien, mamá.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -209,7 +209,7 @@
       },
       "character_2_text": "¡Weeee!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -227,7 +227,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -276,7 +276,7 @@
       "section_3_title": "USA PALABRAS AFIRMATIVAS",
       "section_3_text": "⭐Usa palabras positivas al dar instrucciones. Por ejemplo, en vez de \"No grites\", di \"Habla en voz baja\".\n\n💡Da las instrucciones con una voz firme y mantén la calma. Compórtate como si esperaras que tu niña, niño o adolescente hiciera lo que le pides. \n\n🏅 ¡Elogia, elogia, elogia! Asegúrate de elogiar a tu niña, niño o adolescente inmediatamente después de que siga tus instrucciones. \n\n🌷También sé amable contigo si a veces se te olvida hacerlo. Aprender a dar instrucciones efectivas no es fácil, ¡pero funciona! 💙",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -327,7 +327,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a @fields.child_name.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -336,6 +336,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

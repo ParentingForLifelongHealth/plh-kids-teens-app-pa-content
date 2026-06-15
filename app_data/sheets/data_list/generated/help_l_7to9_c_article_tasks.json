@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_53",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -102,7 +102,7 @@
       },
       "text_2": "Esta sesión trata sobre cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos. 😃",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -131,7 +131,7 @@
       "character_1_text": "@data.characters.f2_hijo_8.name, ya vas a empezar un nuevo año en la escuela y estoy muy emocionado por ti. ¿Cuáles son tus metas para este año?",
       "character_2_text": "¡Quiero ser el mejor leyendo y contando historias!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -155,7 +155,7 @@
       },
       "character_2_text": "Mmm... ¡Quizá tenga que leer mínimo 15 minutos todos los días de este año!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -179,7 +179,7 @@
       },
       "character_2_text": "Bueno, tal vez podríamos inventar historias juntos, y tú podrías ayudarme con las palabras que no conozca, ¿sí?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -197,7 +197,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -216,7 +216,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=eoPiTrGyiZE",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=FjVjbikFO7M",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -265,7 +265,7 @@
       "section_3_title": "CONECTA",
       "section_3_text": "📖 Pídele a @fields.child_name que relacione la información nueva con cosas que ya conozca, como algunos de sus intereses o un tema que haya visto anteriormente en la escuela.\n\n🔑 Esto desarrolla y fomenta el pensamiento crítico y una mejor comprensión de conceptos.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -316,7 +316,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa** ⭐ \n\nDedícale 15 minutos a @fields.child_name para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -325,6 +325,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

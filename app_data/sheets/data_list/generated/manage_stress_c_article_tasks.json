@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_66",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -177,7 +177,7 @@
       "quiz_3_option_2_text": "Falso",
       "quiz_3_feedback_2": "🎉 ¡Buen trabajo!\nSi no regulas el estrés y sigues presionando sin tomarte descansos, puedes llegar a sentir cansancio extremo.\n\nEsto quiere decir que tomar descansos y regular el estrés no es solo para sentirse mejor en el momento, también se trata de evitar el agotamiento a largo plazo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -212,7 +212,7 @@
       "character_2_text": "¡Es mío!",
       "character_3_text": "(Frustrada, pensando): ¡Ay ya! ¡Estoy muy cansada e irritada! Hay demasiadas cosas que hacer hoy. Pagos, la limpieza de la casa, ¡y ahora esto!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -230,7 +230,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -266,7 +266,7 @@
       "character_4_id": "f3_madre",
       "character_4_text": "Veo que están molestos. Vamos a hacer 5 respiraciones profundas y luego veremos qué podemos hacer.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -290,7 +290,7 @@
       },
       "character_2_text": "Bueno…¿puede ser que @data.characters.f3_hijo_4.name use el teléfono cuando yo esté haciendo la tarea?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -320,7 +320,7 @@
       "character_2_text": "Se lo daré y me iré a jugar con mis otros juguetes.",
       "character_3_text": "Buena sugerencia. Entonces la regla queda en que @data.characters.f3_hijo_4.name puede usar el teléfono mientras @data.characters.f3_hija_7.name hace su tarea, y terminando, @data.characters.f3_hija_7.name tendrá la oportunidad de usarlo. Recuerden, si se olvidan de la regla, me llevaré el teléfono y no podrán usarlo hasta el día siguiente. ¿De acuerdo?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_6",
@@ -350,7 +350,7 @@
       "character_2_text": "De acuerdo…",
       "character_3_text": "(Pensando): ¡Uf! No fue fácil pero al menos no les grité como siempre lo hago. Tuve un día muy largo y me siento muy estresada. Tal vez le hable a María más tarde para conversar un poco con ella.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -369,7 +369,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=VeyoyY7kkpg",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=IrWWiN0qgAk",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -429,7 +429,7 @@
       "section_4_title": "RECARGAR PILAS",
       "section_4_text": "Haz pausas durante el día para recargar tu energía. Los pequeños descansos pueden ayudarte, poquito a poquito.\n\nHaz cosas que te ayuden a relajarte y a sentirte bien, como practicar una pausa, escuchar música o salir a dar un paseo.\n\nBusca pasar tiempo con amistades o familiares que se preocupen por ti. Conversar con alguien en quien confíes puede hacer que te sientas mejor y con menos estrés.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -480,7 +480,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nComparte estas estrategias con tu niña o niño y acuerden cómo puede ella o él usarlas para manejar su propio estrés.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -489,6 +489,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

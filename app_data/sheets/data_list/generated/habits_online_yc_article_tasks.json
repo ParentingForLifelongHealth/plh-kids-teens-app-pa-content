@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_24",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -152,7 +152,7 @@
       "quiz_2_option_2_text": "Falso",
       "quiz_2_feedback_2": "✨ Estás en lo correcto.\n\n❗ La mayoría de las contraseñas se piratean o hackean porque alguien accede a una lista de direcciones, fechas de nacimiento, nombres o números de teléfono.\n\n🚩 Nunca debes usar estos datos en tu contraseña, ya que son fáciles de adivinar.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -171,7 +171,7 @@
       "youtube_gb_en_f": "youtube link",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=fO5pk81Bkok&list=PLSUp-fKSYJUYZ5eb8tNgjkT9-PtiaP95b&index=2",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -209,7 +209,7 @@
       "section_2_title": "CONSTRUYE CONFIANZA",
       "section_2_text": "🌷 Juntos, revisen los sitios web, las redes sociales, los juegos y las aplicaciones que usa @fields.child_name.\n\n👂 Hazle preguntas: ¡te ayudará a conocer mejor los intereses de @fields.child_name!\n\n💙 Si encuentras algo preocupante, háblalo con tu niña o niño. Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con tu niña, niño o adolescente, puedes hacer click en la palabra AYUDA para recibir una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo.\n\n✅ Coméntale a @fields.child_name que si llega a sentir miedo, inseguridad, peligro o molestia por algo en internet, siempre debe contártelo a ti o a otra persona adulta.\n\n🚩 Enséñale a tu niña, niño o adolescente que si una persona desconocida le ofrece regalos, como monedas virtuales, a cambio de fotos e información personal, y le dice que lo mantenga en secreto, debe decírtelo, no mantenerse en silencio.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -260,7 +260,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐  \n\nEstos son algunos pasos que puedes dar hoy mismo para mantener la seguridad de @fields.child_name al pasar tiempo por internet:\n\n📝 Conversa con @fields.child_name sobre cómo usar el internet y los dispositivos electrónicos de manera segura.\n\n🔴 Hablen sobre qué sitios o aplicaciones utiliza con mayor o menor frecuencia.  \n\n😃 ¡Elogia a tu niña o niño por lo bien que navega por la web de manera segura!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -269,6 +269,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

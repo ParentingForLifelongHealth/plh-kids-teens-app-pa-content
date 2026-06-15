@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_56",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -102,7 +102,7 @@
       },
       "text_2": "Como madre, padre o persona cuidadora, desempeñas un papel importante en el modo en que @fields.child_name aprende y se desarrolla dentro y fuera de la escuela.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -131,7 +131,7 @@
       "character_1_text": "@data.characters.f3_hija_12.name, ¿qué pasa?",
       "character_2_text": "Me siento estresada, ya no puedo más. Ya no quiero hacer la tarea.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -149,7 +149,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -166,7 +166,7 @@
       },
       "image_asset": "images/comic/learn/fun_learning_teen_3.svg",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -184,7 +184,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -203,7 +203,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=H54HtevKQmM",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=4nYQ6ydRWj4",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -252,7 +252,7 @@
       "section_3_title": "PERMITIR LA CREATIVIDAD",
       "section_3_text": "🎨 Permite que tu adolescente exprese su creatividad cuando esté aprendiendo algo nuevo. Por ejemplo, incita a tu adolescente a dibujar o a salir de la casa si eso ayuda a que entiendan mejor el tema.\n \n✨ Si a tu adolescente le interesa un tema nuevo, hablen sobre eso y anímale a que explore y averigüe más sobre el tema.\n\n💙 Da un buen ejemplo: Deja que tu adolescente te vea explorando tu propia creatividad y busca hacer cosas nuevas, aunque todavía no se te den del todo bien.\n\n💡 Es importante que el cerebro adolescente tome tiempo para descansar. Esto le va a permitir aprender y captar mejor la información. Muchas veces pensamos que entre más tiempo lea o estudie, es mejor pero nuestro cerebro no estaestá diseñado para leer o estudiar por horas sin descanso, podemos cansarlo y bloquearlo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -303,7 +303,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa** ⭐ \n\nInvita a @fields.child_name a tomarse un pequeño descanso de la tarea y a hacer algo que requiera actividad física durante cinco minutos. \n\nPueden bailar, jugar fútbol, saltar o salir a correr. Interrumpir el trabajo académico le ayudará a recordar la información y la actividad física le mantendrá alerta para seguir estudiando.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -312,6 +312,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

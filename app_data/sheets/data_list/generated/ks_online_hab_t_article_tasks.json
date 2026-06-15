@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_30",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -147,7 +147,7 @@
       "quiz_2_option_2_text": "Falso",
       "quiz_2_feedback_2": "✨ Estás en lo correcto.\n\n❗ La mayoría de las contraseñas se piratean o hackean porque alguien accede a una lista de direcciones, fechas de nacimiento, nombres o números de teléfono.\n\n🚩 Nunca debes usar estos datos en tu contraseña, ya que son fáciles de adivinar.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -165,7 +165,7 @@
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=W1mrfcEtvww",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -203,7 +203,7 @@
       "section_2_title": "CONSTRUYE CONFIANZA",
       "section_2_text": "🌷 Juntos, revisen los sitios web, las redes sociales, los juegos y las aplicaciones que usa @fields.child_name.\n\n👂 Hazle preguntas: ¡te ayudará a conocer mejor sus intereses!\n\n💙 Si encuentras algo preocupante, háblalo con él o ella. Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con tu adolescente, puedes ir a la biblioteca de la aplicación para acceder a una lista de recursos telefónicos en donde puedes encontrar apoyo.\n\n✅ Coméntale a @fields.child_name que si llega a sentir miedo, inseguridad, peligro o molestia por algo en internet, siempre debe contártelo a ti o a otra persona adulta.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -254,7 +254,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nSigue estos pasos para mantener a tu adolescente a salvo al navegar el internet:\n\n📝 Anota o dibuja los íconos de las aplicaciones y sitios web que tu adolescente usa.\n\n🏅 ¡Elogia a tu adolescente por lo bien que navega por la web!\n\n🔴 Hablen sobre qué sitios o aplicaciones pueden ser inseguros o peligrosos y por qué.\n\n📱 Platiquen sobre cómo @fields.child_name y sus amigas y amigos pueden navegar la web de forma más segura.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -263,6 +263,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

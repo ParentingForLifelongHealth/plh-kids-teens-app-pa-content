@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_75",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -197,7 +197,7 @@
       "quiz_3_option_2_text": "Falso",
       "quiz_3_feedback_2": "🎉 ¡Es correcto!\n\n👀 Ocultar los sentimientos de tristeza no hará que desaparezcan y, a veces, solo empeorará el problema.\n\n🌷 Aunque intentes ocultar tus sentimientos, @fields.child_name puede llegar a darse cuenta de que te sientes triste o de que algo no está bien contigo.\n\n☀️ ¡Recuerda que @fields.child_name también aprende al observarte a ti! Al compartir abiertamente tus sentimientos agradables, y los desagradables también, le das el ejemplo a @fields.child_name para que haga lo mismo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -226,7 +226,7 @@
       "character_1_text": "¿Cómo te sientes @data.characters.f2_hija_17.name?",
       "character_2_text": "No sé…Hoy no tengo ganas de hacer nada. No tengo energía...",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -250,7 +250,7 @@
       },
       "character_2_text": "La verdad es que no. No sé. Simplemente no tengo energía para nada.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -274,7 +274,7 @@
       },
       "character_2_text": "Me gustaba pasar tiempo con mis amistades.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -298,7 +298,7 @@
       },
       "character_2_text": "Mmm... bueno, está bien.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -327,7 +327,7 @@
       "character_1_text": "¿Cómo les fue?",
       "character_2_text": "Me dio gusto ver a Marifer. Al principio, no me sentía muy bien, pero me fui sintiendo un poco mejor después de un rato.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_6",
@@ -351,7 +351,7 @@
       },
       "character_2_text": "Gracias, abuelo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -370,7 +370,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=BFonH5Km3JE",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=2S50d0O70ds",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -419,7 +419,7 @@
       "section_3_title": "BUSCAR APOYO",
       "section_3_text": "🔑 Animar a @fields.child_name a buscar apoyo, ya sea contigo o con otros seres queridos de confianza, puede ayudar a evitar que los sentimientos desagradables se vuelvan abrumadores.\n\nSi @fields.child_name o tú sienten:\n\n🔵 Tristeza o poca energía, más de lo normal\n🔵 Como si fuera difícil concentrarse en las cosas\n🔵 Como si no quisieran estar cerca de otras personas, o\n🔵 Que no disfrutan de las cosas que les gustan.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -470,7 +470,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nIntenta pasar más tiempo juntos y conectados con @fields.child_name esta semana haciendo algo que les gustaría hacer entre ustedes dos. \n\nPuedes aprovechar esta oportunidad para hablar con @fields.child_name y ver cómo le está yendo y cómo se siente.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -479,6 +479,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

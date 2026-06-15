@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_35",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -127,7 +127,7 @@
       "text_1_facilitator": "Hoy aprenderás qué hacer cuando tu niña o niño se niegue a seguir una instrucción, olvide una regla familiar o se comporte de manera agresiva o riesgosa. 😔",
       "text_2": "Las niñas y los niños siguen aprendiendo qué acciones son apropiadas en distintas situaciones y cuáles no. 👀\n\nLas consecuencias les enseñan que sus acciones les afectan a ellas, ellos y a las demás personas. ❗\n\nEs importante que nuestras niñas y niños aprendan esto a medida que van creciendo. 🌱\n\nAsignar consecuencias claras es más efectivo para enseñarles a las niñas y los niños a responsabilizarse de sus acciones en vez de los gritos y los golpes. 💙",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -150,7 +150,7 @@
       "character_1_id": "f3_madre",
       "character_1_text": "Estás jugando muy bien y de manera muy creativa, @data.characters.f3_hija_7.name. Dentro de 5 minutos, será hora de levantar tus juguetes.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -179,7 +179,7 @@
       "character_2_id": "f3_hija_7",
       "character_2_text": "No.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -203,7 +203,7 @@
       "character_2_id": "f3_hija_7",
       "character_2_text": "¡No mamá, no quiero!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -221,7 +221,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -239,7 +239,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -258,7 +258,7 @@
       "youtube_gb_en_f": "youtube link",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=yTynEUzOtf8",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -318,7 +318,7 @@
       "section_4_title": "MANTENLO POSITIVO",
       "section_4_text": "Elogia a tu niña o niño cada vez que haga algo que quieras que siga haciendo. ¡Eso hace más probable que repita ese comportamiento!. \n\nPor ejemplo: Un niño de 7 años guarda sus juguetes después de usarlos sin que nadie se lo pida. El padre lo ve y le dice con una sonrisa: “¡Qué bien lo hiciste! Me encanta cuando ordenas tus cosas solito, eres muy responsable.” \n\n✅ Busca evitar el tener que asignar consecuencias al redirigirle hacia otra cosa antes de que se porte mal.\n\n🎉 Asignar consecuencias puede ser difícil al principio, ¡pero se irá haciendo más fácil con la práctica!\n\n✨ Las consecuencias justas ayudan a nuestras niñas y niños a responsabilizarse de sus propias acciones y a pensar antes de actuar.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -369,7 +369,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nTu Actividad para casa de hoy consiste en elogiar a @fields.child_name por una cosa que te gustaría que siguiera haciendo. \n\nSi @fields.child_name se niega a seguir instrucciones u olvida una regla de la casa, puedes darle una consecuencia relacionada con el comportamiento. \n\nRecuerda que es importante ser equitativos, constantes y mantener la calma al dar una consecuencia.\n\nSi el comportamiento de tu niña o niño sigue siendo negativo, dile cómo te sientes, con un tono tranquilo, y dale una consecuencia justa por su comportamiento.⭐",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -378,6 +378,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

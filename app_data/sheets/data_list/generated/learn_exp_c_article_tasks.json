@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_62",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -127,7 +127,7 @@
       "text_1_facilitator": "La sesión de habilidades de crianza para el día de hoy trata sobre cómo ayudar a @fields.child_name a aprender de sus errores. 💚",
       "text_2": "Aprender de nuestros errores puede ayudarnos a evitarlos en el futuro. 🌷\n\nTambién nos ayuda a ser personas más comprensivas y menos duras con nosotras mismas cuando las cosas no salen bien. 😃",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -156,7 +156,7 @@
       "character_1_text": "@data.characters.f2_hijo_8.name, ¡fíjate bien por dónde vas! Vas a romper algo.",
       "character_2_text": "¡No va a pasar nada!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -173,7 +173,7 @@
       },
       "image_asset": "images/comic/understand/learn_experience_yc_2.svg",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -197,7 +197,7 @@
       },
       "character_2_text": "No, abuelo. Perdón por romper el florero…No lo vi.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -221,7 +221,7 @@
       },
       "character_2_text": "Sí, debí hacerte caso. Seguí corriendo aunque me dijiste que no lo hiciera.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -245,7 +245,7 @@
       },
       "character_2_text": "Bueno…",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -264,7 +264,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=F74-jAc4cBg",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=lNn8cOitnmQ",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -324,7 +324,7 @@
       "section_4_title": "COMPARTE",
       "section_4_text": "📖 Intenta compartir tus propios fracasos con tu niña o niño y habla de cómo te ayudaron a desarrollarte y a crecer.\n\n✅ Esto le ayuda a @fields.child_name a aprender que no tienen que ser personas perfectas todo el tiempo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -375,7 +375,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nComparte una historia con @fields.child_name sobre un momento en el que aprendiste de un error. Puede ser algo de cuando tú eras menor u otra sesión de vida que hayas tenido.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -384,6 +384,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

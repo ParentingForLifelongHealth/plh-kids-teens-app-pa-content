@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_21",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -127,7 +127,7 @@
       "text_1_facilitator": "❗ Esta sesión trata sobre aprender a responder cuando enfrentamos alguna crisis con nuestras niñas y nuestros niños.",
       "text_2": "😔😣 Cuando nuestras niñas y nuestros niños nos comparten algo que es muy difícil de conversar o les genera mucha molestia, debemos recordar que tenemos que mantener la calma, escuchar y mantener una postura abierta para que se sientan apoyadas y apoyados. 💛",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -156,7 +156,7 @@
       "character_1_text": "Hoy no quiero jugar con Mateo.",
       "character_2_text": "¿Qué pasó, @data.characters.f1_hijo_5.name? Creía que Mateo y tú eran amigos. ¿Quieres conversar de eso?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -174,7 +174,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -198,7 +198,7 @@
       },
       "character_2_text": "Sí, vamos.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -216,7 +216,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -235,7 +235,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=jdH5y4Gfmd8",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=-uVcue_7iyg",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -295,7 +295,7 @@
       "section_4_title": "CONSUELA",
       "section_4_text": "Estar ahí para tu niña o niño\n\n🌷 Puede ser algo difícil ver que tu niña o niño se sienten tristes o confundidos, pero hay muchas cosas que puedes hacer para apoyarles.\n\n💚 Necesitan sentir aceptación y consuelo cuando pasan por cosas difíciles.\n\n🔄 En estos momentos, mantener una rutina constante puede ser especialmente útil. Las rutinas familiares pueden proporcionar una sensación de seguridad y normalidad, ayudando a tu niña o niño a sentirse segura o seguro de nuevo.\n\n😃 Recuérdale a tu niña o niño que le amas y dale las gracias por compartir lo que piensan y cómo se sienten contigo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -346,7 +346,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nBusca un momento de tranquilidad para revisar el mapa de la comunidad que creaste con tu niña o niño en la actividad pasada. \n\nPlatiquen sobre los posibles riesgos y de lo que podrían hacer para evitarlos. \n\nComenta con @fields.child_name las posibles acciones que pueden realizar en caso de que se encuentren en una situación de riesgo. 💡",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -355,6 +355,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

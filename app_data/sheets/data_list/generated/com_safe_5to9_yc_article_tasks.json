@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_20",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -187,7 +187,7 @@
       "quiz_1_option_8_text": "Ninguna de las anteriores",
       "quiz_1_feedback_8": "🎉 ¡Tienes razón!\n\n😔 @fields.child_name podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -216,7 +216,7 @@
       "character_1_text": "¡Estaba jugando afuera y pasó algo!",
       "character_2_text": "¡¿Qué pasó, @data.characters.f3_hija_7.name?! Respira y dímelo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -252,7 +252,7 @@
       "character_3_text": "@data.characters.f3_hija_7.name, qué bonito nombre.",
       "character_4_text": "Gracias.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -276,7 +276,7 @@
       },
       "character_2_text": "No, gracias.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -294,7 +294,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -312,7 +312,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -331,7 +331,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=yjY5nv1Tnzk&list=PLSUp-fKSYJUYANuyDLfC-s7hf3buQSSMv",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=zmbKwI0uSpQ&list=PLSUp-fKSYJUYZ5eb8tNgjkT9-PtiaP95b&index=4",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -391,7 +391,7 @@
       "section_4_title": "PRACTICA",
       "section_4_text": "🔔 ¡Practiquen! ¡Practiquen! ¡Practiquen!\n\n👑 Usa juguetes o títeres para representar situaciones en las que se acerca una persona desconocida. Pregúntale a @fields.child_name qué debería hacer el juguete. A las niñas y a los niños les da menos miedo cuando imaginan que otra persona es la que está en peligro.\n\n⭐ Elogia a @fields.child_name cuando elija la respuesta correcta, como huir, gritar para pedir ayuda o buscar a una persona adulta de confianza.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -442,7 +442,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐  \n \n📝 El día de hoy, conversa con @fields.child_name sobre qué lugares son seguros y cuáles no son seguros para las niñas y los niños de tu comunidad. \n\n✨ Busca un tiempo para que tu niña o niño también comparta sus pensamientos. Puede pensar que es inseguro un lugar que tú creías seguro. Permítele explicar sus razones.  \n\nPracticar el uso de palabras claves cuando se encuentra en peligro para pedir ayuda ejemplo. “Auxilio”, “Mamá”, “Fuego”.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -451,6 +451,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

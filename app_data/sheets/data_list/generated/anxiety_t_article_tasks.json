@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_74",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -152,7 +152,7 @@
       "quiz_2_option_2_text": "Falso",
       "quiz_2_feedback_2": "🎉 ¡Es correcto!\n\n⏸ La ansiedad puede desaparecer por sí sola, pero a veces se puede requerir del apoyo de familiares, amistades o profesionales capacitados. En esta sesión, encontrarás estrategias para regular los sentimientos de ansiedad.  \n\n❗Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con  @fields.child_name, puedes ir a la biblioteca de la aplicación, en donde encontrarás una lista de recursos telefónicos y vía chat donde puedes pedir apoyo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -181,7 +181,7 @@
       "character_1_text": "@data.characters.f1_hijo_17.name, te ves muy preocupado. ¿Está todo bien?",
       "character_2_text": "No, mamá. Mañana tengo que exponer y estoy muy preocupado. ¡Mira! Me están sudando las manos y me tiemblan.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -217,7 +217,7 @@
       "character_3_text": "Exponer puede ser aterrador. Hagamos algo juntos para ayudarte a que te tranquilices un poco. ¿Puedes nombrar 5 cosas que veas a tu alrededor?",
       "character_4_text": "A ver... Veo mi escritorio, el librero, la ventana, mi cuaderno y el reloj.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -253,7 +253,7 @@
       "character_3_text": "Nombra 3 cosas que estés escuchando.",
       "character_4_text": "Puedo escuchar a los pájaros de afuera, mi propia respiración y el viento que sopla.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -289,7 +289,7 @@
       "character_3_text": "Por último, nombra 1 sabor que sientas ahorita.",
       "character_4_text": "Mm… la menta de mi chicle.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -319,7 +319,7 @@
       "character_3_id": "f1_madre",
       "character_3_text": "Me alegra que te haya servido. Ahora vamos a practicar tu presentación juntos.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -338,7 +338,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=Kvhl49c3O1w",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=cyqdCNaSjUU",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -409,7 +409,7 @@
       "section_5_title": "PEDIR AYUDA",
       "section_5_text": "🔶 Si @fields.child_name o tú experimentan algunas o muchas de estas cosas, pueden buscar la ayuda de un profesional.\n\n🔷 Es necesario un diagnóstico profesional para determinar si @fields.child_name sufre de ansiedad.\n\n😃 Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con tu niña, niño o adolescente, puedes ir a la biblioteca de la aplicación para acceder a una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -460,7 +460,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐   \n\n💡 Prueba la actividad de 5-4-3-2-1 cuando te encuentres en una situación que te genere estrés esta semana. ¡Enséñasela a @fields.child_name también!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -469,6 +469,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

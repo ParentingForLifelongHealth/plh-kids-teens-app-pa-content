@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_71",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -207,7 +207,7 @@
       "quiz_3_option_3_text": "3. Evitar hacer cosas difíciles en el futuro.",
       "quiz_3_feedback_3": "👀 ¡Ups! ¡Buen intento!\n\n🏆Las personas con mucha esperanza a menudo pueden seguir siendo resilientes cuando se enfrentan a retos, porque creen que pueden encontrar soluciones, incluso cuando las cosas son muy retadoras.\n\n🏅Cuando @fields.child_name no tiene esperanzas en el futuro, es probable que se rinda o evite las cosas difíciles en el futuro. Esto les dificulta crecer y tener éxito a largo plazo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -226,7 +226,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=Vjv8LtJMdEg",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=Ak548cMqf1g",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -286,7 +286,7 @@
       "section_4_title": "MANTENER EL APOYO",
       "section_4_text": "☀️ Como madre, padre o persona cuidadora, busca ser una fuente de amabilidad y comprensión para @fields.child_name, sobre todo cuando tenga dificultades. \n\n⭐ Acuérdate de tener en cuenta los límites de @fields.child_name al enfrentarse a un reto. Un empujoncito está bien pero es importante asegurarte de que @fields.child_name tiene la motivación adecuada para seguir adelante. \n\n🌈 ¡Cuando @fields.child_name se sienta a gusto compartiendo sus victorias y sus luchas contigo, tendrá mayor confianza para establecer metas más grandes y será más persistente a la hora de buscar lograrlas!\n\n🎈Muéstrale a @fields.child_name que estás ahí para apoyarle y que tienes la confianza en que puede superar cualquier reto que se le presente.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -337,7 +337,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\n🌷 Conversa con @fields.child_name sobre alguna meta que le entusiasme. Puede ser aprender una habilidad nueva o prepararse para su futuro .  \n\n➡️ Colabora con @fields.child_name para idear tres pasos cortos que podría ir dando para empezar a avanzar hacia su meta.  \n\n👂Anímale a compartir sus pensamientos e ideas, y apóyale mientras elabora su plan.  \n\n🏁Usa las estrategias que aprendiste hoy para saber cómo manejar los retos a los que tu adolescente se podría enfrentar en el futuro.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -346,6 +346,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

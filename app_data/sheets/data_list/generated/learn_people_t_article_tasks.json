@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_60",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -102,7 +102,7 @@
       },
       "text_2": "Para poder obtener resultados positivos en casa, en la escuela y en el trabajo, tu adolescente tendrá que aprender a trabajar con otras personas. 🔑",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -125,7 +125,7 @@
       "character_1_id": "f2_abuelo",
       "character_1_text": "A mi nieta, @data.characters.f2_hija_17.name, le ha estado costando un poco de trabajo la clase de Historia. ¿Tiene alguna recomendación?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -149,7 +149,7 @@
       "character_2_id": "f2_abuelo",
       "character_2_text": "¡Eso suena muy bien! Excelente idea.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -167,7 +167,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -191,7 +191,7 @@
       "character_2_id": "f2_abuelo",
       "character_2_text": "Me da gusto que te esté funcionando. Hasta yo, que soy una persona adulta, ¡sigo aprendiendo mucho de otras personas! Justo la semana pasada, tu abuela me enseñó a hacer este delicioso arroz con pollo que estoy preparando para la comida.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -210,7 +210,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=-QFENdiYMps",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=ZX_tbNIKI2U",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -248,7 +248,7 @@
       "section_2_title": "TRABAJAR EN EQUIPO",
       "section_2_text": "💡 Para la segunda estrategia, puedes ayudar a tu adolescente para trabajar en equipo animándole a escuchar a las demás personas y a respetar sus ideas.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -299,7 +299,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐  \n\nConversa con tu adolescente e identifiquen quién podría ser su compañera o compañero de estudio para la próxima semana.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -308,6 +308,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

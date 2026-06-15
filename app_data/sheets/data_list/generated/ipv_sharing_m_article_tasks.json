@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_14",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -127,7 +127,7 @@
       "text_1_facilitator": "Hoy vamos a aprender acerca del papel de los hombres en la crianza compartida👋",
       "text_2": "Ser un integrante activo en las responsabilidades del hogar y de cuidado puede mejorar tu relación con @fields.child_name y hacer que la vida sea menos estresante para ti y tu pareja o familiar. También puede hacer que ser padre te resulte más agradable. 💚",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -156,7 +156,7 @@
       "character_1_text": "@data.characters.f1_madre.name, ¿es tu hora de hacer artesanías? Voy a pasar un rato con @data.characters.f1_hija_6.name para que puedas concentrarte y estar tranquila.",
       "character_2_text": "Gracias, @data.characters.f1_padre.name. Lo aprecio bastante.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -185,7 +185,7 @@
       "character_1_text": "Veo que estás jugando tranquilamente con tus bloques, @data.characters.f1_hija_6.name. ¡Estás construyendo un muro muy alto y fuerte!",
       "character_2_text": "Es para las gallinas.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -209,7 +209,7 @@
       },
       "character_2_text": "¡Ahora me puedes ayudar a construir una casa para que nuestra familia pueda dormir!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -233,7 +233,7 @@
       },
       "character_2_text": "¡Yupi!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -257,7 +257,7 @@
       },
       "character_2_text": "Me da gusto que te hayas podido concentrar mejor. ¡Nosotros la pasamos muy bien!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -275,7 +275,7 @@
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=9BIh5VfTh0g",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -324,7 +324,7 @@
       "section_3_title": "SÉ UN CUIDADOR QUE PARTICIPA ACTIVAMENTE",
       "section_3_text": "😒 Puede resultar un poco difícil ser un cuidador que participa activamente en las responsabilidades del hogar y los cuidados. \n\n🌷Sé amable contigo si te olvidas de preguntar y vuelve a intentarlo en otra ocasión.  \n\n¡Tener voluntad para involucrarse más en las responsabilidades del cuidado y de la crianza beneficia a toda la familia!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -375,7 +375,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nConsiste en conversar con tu pareja o familiar y dialogar sobre las diversas maneras de involucrarte en el cuidado, en la crianza y en las responsabilidades del hogar activamente.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -384,6 +384,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

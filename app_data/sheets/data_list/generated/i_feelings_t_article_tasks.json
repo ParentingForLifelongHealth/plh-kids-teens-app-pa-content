@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_9",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -172,7 +172,7 @@
       "quiz_3_option_2_text": "Falso",
       "quiz_3_feedback_2": "👀 ¡Ups! ¡Buen intento! \n\nEstar tranquilos al compartir nuestras propias emociones con nuestros adolescentes les pone el ejemplo de cómo pueden hacerlo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -194,7 +194,7 @@
       "image_asset": "images/comic/relation/feelings_teen_1.svg",
       "text_2": "@data.characters.f1_padre.name y su hija @data.characters.f1_hija_16.name salieron a caminar para pasar un tiempo juntos y conectados. @data.characters.f1_hija_16.name parece estar molesta por algo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -218,7 +218,7 @@
       },
       "character_2_text": "Ay, Papá. Lo que pasa es que fracasé el examen de matemáticas y me pone triste y me frustra porque estudié mucho.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -247,7 +247,7 @@
       "character_1_text": "Eso sí que es frustrante, hija. Sé lo mucho que estudiaste. Tal vez podamos idear un nuevo plan para ayudarte en matemáticas. ¿Qué te parece si le pedimos ayuda extra a tu profe? ¿Quieres que yo le hable o quieres hacerlo tú?",
       "character_2_text": "Gracias, papá. ¡Yo puedo hacerlo! Creo que podría ser una buena idea.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -265,7 +265,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -284,7 +284,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=zb8R8HCHu2s",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=-qd5aVE-pc0",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -366,7 +366,7 @@
       "section_6_title": "INTERÉSATE",
       "section_6_text": "🌷 Usa el apoyo físico y verbal para que @fields.child_name sienta aceptación y cariño.\n\n⭐Puedes saltar con @fields.child_name para sacudir el enojo o pueden respirar profundo para calmarse. Estas son algunas formas de afrontar las emociones.  \n\n💚Recuérdale a tu niña, niño o adolescente que siempre estarás a su lado y que puede conversar contigo en cualquier momento.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -417,7 +417,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nDurante el tiempo juntos y conectados, practica identificar las emociones de @fields.child_name. Conversen describiendo sus propias emociones y cuáles emociones identifican en las demás personas.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -426,6 +426,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

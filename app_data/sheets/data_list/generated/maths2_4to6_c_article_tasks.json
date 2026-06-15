@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_50",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -127,7 +127,7 @@
       "text_1_facilitator": "Hoy continuaremos con la sesión para ayudar a @fields.child_name a prepararse para las matemáticas. ✨\n\nEn esta parte, nos enfocaremos en actividades un poco más retadoras que puedes hacer con @fields.child_name para cuando sientas que ya tiene el dominio y la confianza para intentarlas. 💡",
       "text_2": "Aprender a comparar, sumar y restar ayudará a @fields.child_name a entender más sobre las matemáticas. Esto será un apoyo continuo en el aprendizaje de habilidades numéricas. 🔟/🔟 ⭐",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -162,7 +162,7 @@
       "character_2_text": "¡Papas!",
       "character_3_text": "¡Así es! ¡papas! ¿Cuántas papas tienes?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -186,7 +186,7 @@
       },
       "character_2_text": "¡Eso! Uno, dos, tres, cuatro… ¡cinco! ¡Cinco papas!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -204,7 +204,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -228,7 +228,7 @@
       },
       "character_2_text": "¡Quedan tres papas!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -247,7 +247,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=ue3fgXwp2Bo",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=K5TyAKNgfCg",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -307,7 +307,7 @@
       "section_4_title": "ANIMAR Y DIVERTIRSE",
       "section_4_text": "💚 Recuerda, ve poco a poco y ayuda a @fields.child_name a aumentar su confianza haciendo cosas que ya sepa hacer y que tenga la disposición de hacer.\n\n😃 Siempre busca reconocer sus esfuerzos y elogiarlos. ¡Las respuestas incorrectas también están bien! Todos son aprendizajes valiosos.\n\n🎉 Busca que las condiciones de aprendizaje sean divertidas y agradables para @fields.child_name. Así será más probable que sigan intentándolo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -358,7 +358,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\n¿Puedes hacer una actividad de sumar y restar con @fields.child_name? Pueden hacerlo mientras cocinas, camino a la escuela o en el bus, o con otros objetos también, ¡como con piedras mientras juegan afuera! \n\n¡Estas actividades ayudarán a @fields.child_name a aprender!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -367,6 +367,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

@@ -162,7 +162,7 @@
       "type": "begin_data_items",
       "name": "enable_dynamic_data_actions",
       "value": "@local.articles_data_list_name",
-      "parameter_list": "filter: !@item.nested",
+      "parameter_list": "filter: !@item.nested && (@item.version == @global.module_version)",
       "exclude_from_translation": true
     },
     {

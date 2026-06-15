@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_15",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -127,7 +127,7 @@
       "text_1_facilitator": "Esta sesión  trata sobre la resolución pacífica de conflictos entre tu pareja o familiares y tú. 💚",
       "text_2": "Todas las personas adultas tenemos desacuerdos a veces. Pelear no es una forma adecuada de resolver los problemas.\n\nAprender a responder de forma más calmada cuando tengas desacuerdos con tu pareja o familiar puede ayudarte a crear un hogar más tranquilo. 🌷",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -156,7 +156,7 @@
       "character_1_text": "¡Mira, está lloviendo!",
       "character_2_text": "¡Oh, no! ¡La ropa!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -186,7 +186,7 @@
       "character_3_id": "f2_abuelo",
       "character_3_text": "Perdón, ¡fue una equivocación!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -210,7 +210,7 @@
       },
       "character_2_text": "(Pensando) Voy a respirar profundo... Ha estado ocupada todo el día. No debería enojarme y debería disculparme.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -234,7 +234,7 @@
       },
       "character_2_text": "Perdón por haber olvidado la ropa. Sé que has tenido un día muy largo. Me encargaré de ello después de comer.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -252,7 +252,7 @@
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=Bmp4fY9TxKI",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -301,7 +301,7 @@
       "section_3_title": "ALÉJATE SI ES NECESARIO",
       "section_3_text": "😣 A veces, las otras personas te responden negativamente cuando están discutiendo o en un desacuerdo. \n\n❗ En estas situaciones, sobre todo si sientes miedo o peligro, puede ser mejor que te alejes un rato hasta que todo se haya calmado. \n\nRecuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con tu niña, niño o adolescenteayuda en una crisis, puedes ir a la biblioteca en la aplicación en donde tendrás acceso a una lista de recursos telefónicos donde puedes encontrar apoyo.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -352,7 +352,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nPractica el tomar una pausa cuando te encuentres en una situación de conflicto.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -361,6 +361,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

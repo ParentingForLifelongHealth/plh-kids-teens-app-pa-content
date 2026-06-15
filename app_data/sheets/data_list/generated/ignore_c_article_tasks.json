@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_34",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -152,7 +152,7 @@
       "quiz_2_option_2_text": "Falso",
       "quiz_2_feedback_2": "⭐ ¡Estás en lo correcto!\n\nDecirle a tu niña o niño que pare o amenazarle puede empeorar aún más las cosas. Los golpes solo le enseñarán a tu niña o niño que la violencia es una solución aceptable para los problemas. Además, es algo que va en contra de la ley.\n\nEn lugar de pelearte con @fields.child_name, explícale tranquilamente el por qué y luego intenta redirigir a @fields.child_name hacia otra cosa.\n\nSi @fields.child_name continúa el comportamiento o pierde el control, mantén la calma y quédate con tu niña o niño sin discutir con ella o él. Puede que sea muy difícil, pero al final tu niña o niño se calmará también. En ese momento, ya podrás atender a sus necesidades.\n\n*_Es importante tener en cuenta que los berrinches pueden ser una conducta normal en niños y niñas ya que se encuentran en una edad donde apenas están aprendiendo a regular sus emociones adecuadamente._*",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -181,7 +181,7 @@
       "character_1_text": "Quiero otro jugo.",
       "character_2_text": "Entiendo, está delicioso, y la regla de la casa es que solo puedes tomar un vaso de jugo durante la cena. Oh... pero mira @data.characters.f3_hijo_4.name, ¿y si nos traes las cucharas para el arroz con leche?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -205,7 +205,7 @@
       },
       "character_2_text": "@data.characters.f3_hija_7.name, estás cenando muy bien.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -229,7 +229,7 @@
       },
       "character_2_text": "@data.characters.f3_hija_7.name, ¿puedes agarrar el arroz con leche de la barra de la cocina?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -253,7 +253,7 @@
       },
       "character_2_text": "(Pensando) Respira hondo. Puedo hacerlo…\n\nVeo tu frustración, @data.characters.f3_hijo_4.name. Vamos a respirar como si sopláramos las velas de un pastel.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -271,7 +271,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -290,7 +290,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=InkNPqnlxrs",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=bZs5CgN2ns4",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -361,7 +361,7 @@
       "section_5_title": "SÉ CONSTANTE",
       "section_5_text": "⭐ Aunque el comportamiento de @fields.child_name empeore al principio cuando no estás cediendo a lo que quiere, es importante mantener la calma sin discutir ni gritarle a @fields.child_name.\n\nPuedes explicar, con calma, la razón por la que tu niña o niño no puede tener eso que quiere, pero hazlo una sola vez, sin entrar en debates ni discusiones.\n\nCon el paso del tiempo, @fields.child_name aprenderá a calmarse por su cuenta.\n\n💚 Pasa mucho tiempo positivo con @fields.child_name, sobre todo Tiempo Juntos y Conectados. ¡Es superimportante!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -412,7 +412,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa** ⭐ \n\nBusca una cosa positiva que @fields.child_name haga el día de hoy y elógiale por ello. \n\nSi @fields.child_name se empieza a quejar por algo o a hacer berrinche, intenta usar las estrategias de esta sesión para redirigir, mantener la calma, observar y cuidar. \n\nPuede que al principio no sea facil, ¡pero síguele, tú puedes hacerlo!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -421,6 +421,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

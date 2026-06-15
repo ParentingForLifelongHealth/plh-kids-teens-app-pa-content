@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_36",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -102,7 +102,7 @@
       },
       "text_2": "❗Aprender a resolver los problemas con @fields.child_name puede ayudarte a no tener que recurrir a poner consecuencias.\n\n🌱 A medida que las niñas y los niños crecen, podrán resolver sus problemas por sí mismos más seguido.\n\n💡 Esto les preparará para el éxito a lo largo de su vida. ¡Qué buen regalo! 😃",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -137,7 +137,7 @@
       "character_2_text": "¡Pero todavía me queda mucha tarea que hacer!",
       "character_3_text": "Mmm, es la tercera noche consecutiva que no te acuestas a tiempo por culpa de la tarea.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -173,7 +173,7 @@
       "character_4_id": "f1_hija_6",
       "character_4_text": "Está bien, mami.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -203,7 +203,7 @@
       "character_2_text": "Empezaré de una vez, mami. ¿Te puedo pedir ayuda con esta pregunta?",
       "character_3_text": "Claro que sí, hija.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -227,7 +227,7 @@
       },
       "character_2_text": "Qué bien, @data.characters.f1_hija_6.name. Gracias por pensar conmigo para encontrar una solución que nos funcionara. ¡Ahora sí estarás bien descansada para mañana!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -246,7 +246,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=dfVQnWuyR20&list=PLSUp-fKSYJUbJGZ7OlCtJvOlLuEQ_2yTU&index=1",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=xXhudBgoLvU",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -306,7 +306,7 @@
       "section_4_title": "COMPROBARLO",
       "section_4_text": "✅ Pregúntate: \"¿Funcionó?\"\n\n😃 Si la respuesta es sí, ¡genial!\n\n😔 Si no es así, habla con @fields.child_name sobre intentar otra solución para la próxima vez. Utiliza los 4 pasos para encontrar una solución nueva.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -357,7 +357,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐\n\nHabla con @fields.child_name sobre los cuatro pasos para resolver problemas: Conocerlo, Resolverlo, Intentarlo y Comprobarlo. \n\n¡Saber resolver problemas es algo que podrán usar el resto de sus vidas!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -366,6 +366,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

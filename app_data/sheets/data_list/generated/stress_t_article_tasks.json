@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_72",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -147,7 +147,7 @@
       "quiz_1_option_4_text": "4.Juguetón",
       "quiz_1_feedback_4": "🎉 ¡Buen trabajo!\nLas y los adolescentes que sufren estrés experimentan muchos síntomas, pero la alegría no es uno de ellos.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -166,7 +166,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=MTrUe_1umdQ",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=0Ko6GkwGXWY",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -226,7 +226,7 @@
       "section_4_title": "CONSOLAR",
       "section_4_text": "⭐ Consuela a tu adolescente, sé amable con @fields.child_name y recuérdale que también debe de ser amable consigo mismo.\n\n⏰ Ten paciencia y dale tiempo para que sienta sus emociones y las pueda manejar.\n\n💡 Si crees que puede ayudar, habla con tu adolescente sobre lo que podría hacer diferente la próxima vez.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -277,7 +277,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐  \n\nHabla con tu adolescente y hagan una lista de las cosas que le producen estrés. Dialoguen qué podrían hacer para evitar o afrontar estas situaciones que le generan estrés. Pregúntale cómo puedes ayudarle en esos casos.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -286,6 +286,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

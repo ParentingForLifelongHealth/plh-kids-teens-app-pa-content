@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_46",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -122,7 +122,7 @@
       "quiz_1_option_2_text": "Falso",
       "text_1_facilitator": "📖Esta es la primera de dos lecciones sobre cómo ayudar a @fields.child_name a aprender a leer. \n\n⭐Nuestra primera sesión  para el día de hoy trata sobre cómo disfrutar los libros con @fields.child_name. Leer con @fields.child_name es la mejor manera de ayudarle a aprender a leer. 🔑\n\nLas niñas y los niños aprenden observando, escuchando y copiando. Cuando les lees de pequeños, aprenden palabras nuevas. Cuando van creciendo, aprenden las letras y sus sonidos. ¡Leer juntos puede ayudarles a aprender sobre cualquier cosa que les interese! 💡",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -150,7 +150,7 @@
       "text_2": "Veamos cómo lee @data.characters.f3_padre.name con su hija, @data.characters.f3_hija_7.name. Nota cómo usa las imágenes del libro para enseñarle.",
       "character_1_text": "¡Guau, este libro se ve interesante! ¿Puedes ver el dibujo? Tiene un tigre que sonríe. ¿De qué crees que trata el libro?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -186,7 +186,7 @@
       "character_3_text": "Así es, es un globo. ¿De qué color es?",
       "character_4_text": "¡Rojo!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -222,7 +222,7 @@
       "character_3_text": "¿Cómo suena la primera letra de la palabra \"globo\"?",
       "character_4_text": "¿\"G\"?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -252,7 +252,7 @@
       "character_2_text": "¡Gato!",
       "character_3_text": "¡Sí! Gato también empieza con G. Si no se te ocurre otra, ¡te puedo ayudar! ¿Qué tal \"gallina\"?",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -271,7 +271,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=fsw8wwe_kD4",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=nG2Ok3MLRE4",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -331,7 +331,7 @@
       "section_4_title": "CONSTRUIR Y CONECTAR",
       "section_4_text": "💙 ¡Ayuda a aumentar la confianza de @fields.child_name al hacerle preguntas que sepa responder correctamente o que le animen a ir un poco más allá y desarrollar su habilidad!  \n\n🎨 Siempre busca conectar lo que hay en el libro con la experiencia cotidiana de @fields.child_name.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -382,7 +382,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\n📚 Trata de dedicar el tiempo juntos y conectados de hoy a leer y comentar un libro con @fields.child_name.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -391,6 +391,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

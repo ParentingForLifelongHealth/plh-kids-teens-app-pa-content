@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_33",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -152,7 +152,7 @@
       "quiz_2_option_2_text": "Falso",
       "quiz_2_feedback_2": "🎉 ¡Tienes razón!\n\n💚 *_Establecer límites razonables con tu niña o niño, es una buena forma de disciplina efectiva._*\n\n🧸 No estás controlando a tu niña o niño demasiado.  \n\n🌷 Le estás dando a tu niña o niño una estructura para mantener una relación sana y llena de amor entre ustedes para poder explorar el mundo con seguridad.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -181,7 +181,7 @@
       "character_1_text": "Es importante que hagas la tarea para que te vaya bien en la escuela. Vamos a establecer una regla sobre ver la televisión.",
       "character_2_text": "De acuerdo, papá.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -205,7 +205,7 @@
       },
       "character_2_text": "Mmm… bueno, tal vez pueda ver la tele todo lo que quiera, pero solo después de hacer la tarea.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -229,7 +229,7 @@
       },
       "character_2_text": "Está bien.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -253,7 +253,7 @@
       },
       "character_2_text": "¡Gracias, papá!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -313,7 +313,7 @@
       "section_4_title": "ELOGIA, ELOGIA, ELOGIA",
       "section_4_text": "⭐ Reconoce y elogia a @fields.child_name por su participación en la elaboración de la regla.\n\n😃 ¡Elogia, Elogia y elogia a @fields.child_name cuando siga la regla, ¡igual que cuando se porta bien!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -364,7 +364,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa** ⭐  \n\nCrea una regla familiar con @fields.child_name hoy. 🏆",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -373,6 +373,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_39",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -102,7 +102,7 @@
       },
       "text_2": "Generalmente, las y los adolescentes siguen las instrucciones la mitad de las veces. \n\n⏰ Es natural que, a veces, las y los dolescentes exploren los límites: forma parte de su crecimiento.  \n\nDar instrucciones efectivas y claras puede hacer que el ambiente sean más tranquilo y pacífico en casa. 🌱",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -119,7 +119,7 @@
       },
       "image_asset": "images/comic/behave/keeping_it_positive_teen_1.svg",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -143,7 +143,7 @@
       },
       "character_2_text": "¡Está bien, ma!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -160,7 +160,7 @@
       },
       "image_asset": "images/comic/behave/keeping_it_positive_teen_3.svg",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -178,7 +178,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -196,7 +196,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -215,7 +215,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=PPO7uSpeug8",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=0gqQxdBNDpg",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -264,7 +264,7 @@
       "section_3_title": "USA PALABRAS AFIRMATIVAS",
       "section_3_text": "⭐Usa palabras positivas al dar instrucciones. Por ejemplo, en vez de \"No grites\", di \"Habla en voz baja\".\n\n💡Da las instrucciones con una voz firme y mantén la calma. Compórtate como si esperaras que tu adolescente hiciera lo que le pides.\n\n🏅¡Elogia, elogia, elogia! Asegúrate de elogiar a tu adolescente inmediatamente después de que siga tus instrucciones.\n\n🌷También sé amable contigo si a veces se te olvida hacerlo. Aprender a dar instrucciones efectivas no es fácil, ¡pero funciona! 💙",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -315,7 +315,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nIntenta darle instrucciones concretas, realistas y positivas a tu adolescente.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -324,6 +324,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

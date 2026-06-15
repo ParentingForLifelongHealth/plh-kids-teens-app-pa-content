@@ -27,7 +27,7 @@
       "category_id": "relax",
       "nested": false,
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "check_in_4",
@@ -81,7 +81,7 @@
       "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -177,7 +177,7 @@
       "quiz_3_option_2_text": "Falso",
       "quiz_3_feedback_2": "👀¡Ups! ¡Buen intento!\n\n🌱 Compartir nuestras emociones, con amabilidad y calma, les da a las niñas, niños o adolescentes un ejemplo de cómo pueden hacerlo. Como cuidadores es válido sentirse estresados y compartirlo sanamente puede ayudarles a entendernos.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -206,7 +206,7 @@
       "character_1_text": "@data.characters.f3_hija_7.name, quiero pasar tiempo contigo. ¿Qué te gustaría hacer?",
       "character_2_text": "¡Vamos a jugar afuera con la pelota!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -230,7 +230,7 @@
       },
       "character_2_text": "Veo que tienes tus manos apretadas y estás levantando la voz. Parece que estás molesta, @data.characters.f3_hija_7.name. Sé que puede ser algo frustrante, tomemos una pausa y  cuándo estés lista para continuar avísame.",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -254,7 +254,7 @@
       },
       "character_2_text": "¡Vamos por 10!",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -272,7 +272,7 @@
         "character_1_text": {}
       },
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_1",
@@ -291,7 +291,7 @@
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=zb8R8HCHu2s",
       "youtube_gb_en_m": "https://youtu.be/-qd5aVE-pc0",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "practical_tips_2",
@@ -373,7 +373,7 @@
       "section_6_title": "INTERÉSATE",
       "section_6_text": "🌷 Manten la conexión con @fields.child_name mostrando atención con gestos y palabras de cariño para que sienta que es aceptado.\n\n⭐Puedes saltar con tu niña o niño para sacudir el enojo o pueden respirar profundo para calmarse. Estas son algunas formas de afrontar las emociones.\n\n💚 *_Recuérdale a @fields.child_name que siempre estarás a su lado y que puede conversar contigo en cualquier momento._*",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -424,7 +424,7 @@
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nDurante el tiempo juntos y conectados, practica identificar las emociones de @fields.child_name. Conversa con él o ella describiendo tus propias emociones y las de @fields.child_name",
       "completed": false,
-      "version": "@global.module_version"
+      "version": 1
     }
   ],
   "_metadata": {
@@ -433,6 +433,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }
