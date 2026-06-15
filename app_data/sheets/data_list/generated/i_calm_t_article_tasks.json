@@ -4,36 +4,33 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_4",
-      "title_eng": "Breathe to three",
-      "title": "Respira hasta 3",
-      "lottie_asset": "lottie/relax/heart.json",
-      "media_asset": "audio/relax/relax_4.m4a",
+      "id": "relax_2",
+      "in_library": "yes",
+      "title_oringinal_eng": "Power of three",
+      "lottie_asset": "lottie/relax/soothing_waves.json",
+      "media_asset_m": "audio/relax/male/relax_2.m4a",
+      "media_asset_f": "audio/relax/female/relax_14.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!",
-      "transcript": "Cierra los ojos.\n\nUsa el poder mágico del tres para mantenerte conectado(a) y relajarte.\n\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\nInhala contando hasta tres. 1, 2, 3.\nExhala contando hasta tres. 1, 2, 3.\n\n¿Te sientes diferente? Respirar profundo ayuda a calmar el cuerpo y la mente.\n\nMuy bien. Ya estás listo(a) para comenzar tu lección.",
+      "transcript_m_original_eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be grateful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
+      "transcript_f_original_eng": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!",
+      "transcript_m": "Cierra los ojos.\nVamos a usar el poder mágico del 3 para mantenernos presentes y relajarnos.\n\nNombra 3 sonidos que puedas escuchar ahora mismo.\nNombra 3 olores que puedas sentir ahora mismo.\nNombra tus 3 comidas favoritas.\n¿Cuáles son 3 cosas por las que puedes sentir gratitud ahora mismo?\n\nAl final de un día difícil, pensar en 3 cosas por las que estás agradecido(a) puede ayudarte a encontrar el valor para intentarlo de nuevo mañana.",
+      "transcript_f": "Cierra los ojos.\n\nTómate un momento para sentir el suelo bajo tus pies.\nPiensa en algo por lo que te sientas agradecido(a).\nConcéntrate en tu respiración.\nInhala y exhala.\n\nAdentro y afuera.",
+      "title": "El poder del 3",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "El poder del 3"
+        }
+      },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "check_in_10",
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Ser una gran madre, padre o persona cuidadora también implica dedicar tiempo para ti. Comienza por reconocer cómo te sientes.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "_translatedFields": {
         "text_1": {
           "eng": "Ser una gran madre, padre o persona cuidadora también implica dedicar tiempo para ti. Comienza por reconocer cómo te sientes."
@@ -54,25 +51,40 @@
           "eng": "Feliz"
         },
         "quiz_1_option_2_text": {
-          "eng": "Bien"
+          "eng": "Regular"
         },
         "quiz_1_option_3_text": {
           "eng": "Triste"
         }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Ser una gran madre, padre o persona cuidadora también implica dedicar tiempo para ti. Comienza por reconocer cómo te sientes.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
       },
       "quiz_1_feedback_1": "Que gusto saber que hoy te sientes bien. ¡Eres increíble!",
       "quiz_1_feedback_2": "Hay días en los que simplemente no sabemos qué hacer, y eso está bien. Estás aquí, y eso es lo que importa.",
       "quiz_1_feedback_3": "La crianza puede ser desafiante. Pero estar aquí muestra que quieres seguir mejorando, y eso ya es un gran logro.",
       "quiz_1_question": "¿Cómo te sientes el día de hoy?",
       "quiz_1_option_1_text": "Feliz",
-      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "🌷 Conforme empieces a observar tus sentimientos y emociones, podrías notar alguno de ellos, como enojo, frustración o tristeza.  \n\nEs verdad que amamos a nuestras y nuestros adolescentes, y también es cierto que el estrés de cuidarles y otros eventos del día a día pueden llevarnos a sentir enojo. ¡Esto es parte de la vida!  \n\n💡 Es importante que intentemos mantener la calma cuando hay estrés para poder regular nuestro enojo y evitar lastimar o herir a las y los demás."
@@ -93,6 +105,8 @@
           "eng": "🎉 ¡Buen trabajo!\n\n💛 Puede ser muy difícil cuando tu niña, niño o adolescente se porta mal, pero intenta regular tu estrés y tu enojo antes de hacer cualquier cosa.  \n\n🌱 Respirar profundo te ayudará. Reaccionar cuando sientes enojo puede hacer que digas o hagas cosas de las que te puedes arrepentir después."
         }
       },
+      "category_id": "intro",
+      "nested": false,
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n💛 Puede ser muy difícil cuando tu niña, niño o adolescente se porta mal, pero intenta regular tu estrés y tu enojo antes de hacer cualquier cosa.  \n\n🌱 Respirar profundo te ayudará. Reaccionar cuando sientes enojo puede hacer que digas o hagas cosas de las que te puedes arrepentir después.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -107,12 +121,11 @@
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
       "text_1_facilitator": "🌷 Conforme empieces a observar tus sentimientos y emociones, podrías notar alguno de ellos, como enojo, frustración o tristeza.  \n\nEs verdad que amamos a nuestras y nuestros adolescentes, y también es cierto que el estrés de cuidarles y otros eventos del día a día pueden llevarnos a sentir enojo. ¡Esto es parte de la vida!  \n\n💡 Es importante que intentemos mantener la calma cuando hay estrés para poder regular nuestro enojo y evitar lastimar o herir a las y los demás.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Aquí tienes una historieta sobre cómo puedes mantener la calma y regular tu enojo al enfrentar situaciones frustrantes."
@@ -124,6 +137,8 @@
           "eng": "(Pensando) Me estoy sintiendo muy enojada. Estoy cansada y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a @data.characters.f2_hijo_15.name"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta sobre cómo puedes mantener la calma y regular tu enojo al enfrentar situaciones frustrantes.",
       "_translations": {
         "text_1_facilitator": {},
@@ -134,81 +149,84 @@
       "character_1_id": "f2_abuela",
       "text_2": "@data.characters.f2_abuela.name está a punto de pasar un tiempo juntos y conectados con @data.characters.f2_hijo_15.name, pero en el camino ve que la sala está hecha un desastre. Se da cuenta de que esto le hace sentir enojo.",
       "character_1_text": "(Pensando) Me estoy sintiendo muy enojada. Estoy cansada y siento la cabeza caliente. Mi boca y mi garganta se sienten tensas. Solo quiero gritarle a @data.characters.f2_hijo_15.name",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "(Pensando) Tomaré una pausa y pondré mi canción favorita.\n\nUn momento después...\n\n(Pensando) Me siento más tranquila. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/relation/calm_teen_2.svg",
       "character_1_id": "f2_abuela",
       "character_1_text": "(Pensando) Tomaré una pausa y pondré mi canción favorita.\n\nUn momento después...\n\n(Pensando) Me siento más tranquila. Ahora sí puedo pensar con más claridad sobre qué hacer para apoyar a mi nieto.",
       "_translations": {
         "character_1_text": {}
       },
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "@data.characters.f2_hijo_15.name, qué buen trabajo estás haciendo con tu tarea. Puede que ya te sientas cansado. Vamos a descansar 5 minutos y, después de eso, podemos recoger este tiradero juntos."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/relation/calm_teen_4.svg",
       "character_1_id": "f2_abuela",
       "character_1_text": "@data.characters.f2_hijo_15.name, qué buen trabajo estás haciendo con tu tarea. Puede que ya te sientas cansado. Vamos a descansar 5 minutos y, después de eso, podemos recoger este tiradero juntos.",
       "_translations": {
         "character_1_text": {}
       },
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_5",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "¡Gracias por hacer tu parte para que la casa esté limpia, @data.characters.f2_hijo_15.name! Estoy muy orgullosa de tu esfuerzo. Es hora de nuestro tiempo juntos y conectados. ¿Qué quieres hacer?"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/relation/calm_teen_5.svg",
       "character_1_id": "f2_abuela",
       "character_1_text": "¡Gracias por hacer tu parte para que la casa esté limpia, @data.characters.f2_hijo_15.name! Estoy muy orgullosa de tu esfuerzo. Es hora de nuestro tiempo juntos y conectados. ¿Qué quieres hacer?",
       "_translations": {
         "character_1_text": {}
       },
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "practical_tips_1",
       "media_type": "youtube",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Aquí tienes un video con 4️⃣ estrategias para mantener la calma cuando enfrentes problemas con tu adolescente:\n\n1️⃣ MANTENER LA CALMA\n2️⃣ ACTÚA RÁPIDO\n3️⃣ SER CLARO\n4️⃣ SER POSITIVO"
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "text_1_facilitator": "Aquí tienes un video con 4️⃣ estrategias para mantener la calma cuando enfrentes problemas con tu adolescente:\n\n1️⃣ MANTENER LA CALMA\n2️⃣ ACTÚA RÁPIDO\n3️⃣ SER CLARO\n4️⃣ SER POSITIVO",
       "_translations": {
         "text_1_facilitator": {}
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=YiXJWujCEPs",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=yu1EgsovYdg",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "practical_tips_2",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
@@ -238,6 +256,8 @@
           "eng": "✅ ¡Elogia y elogia a @fields.child_name cuando se porte bien! \n\n✅ ¡También le ayudará a saber lo que esperas de él o ella!"
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
@@ -262,12 +282,11 @@
       "section_3_text": "✅ En vez de decir lo que NO quieres, dile a @fields.child_name lo que SÍ quieres que haga. \n\nPor ejemplo: \n\n✨ En vez de decirle “No grites”, dile \"Por favor, habla más bajito.\" \n\n✨ En vez de decirle “No corras”, dile \"Acuérdate de caminar despacio adentro de la casa.\" \n\n✨ En vez de decirle “No juegues con la pelota dentro de la casa”, dile “Puedes jugar afuera con la pelota” o le propones otra actividad de juego. \n\n¡Así será más fácil que puedan seguir tu ejemplo! ⭐",
       "section_4_title": "SÉ POSITIVO",
       "section_4_text": "✅ ¡Elogia y elogia a @fields.child_name cuando se porte bien! \n\n✅ ¡También le ayudará a saber lo que esperas de él o ella!",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "**Actividad para casa**⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con @fields.child_name. \n\nComparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos➡️"
@@ -294,6 +313,8 @@
           "eng": "¡De acuerdo! A veces toma tiempo empezar a usar una habilidad nueva. 📝 Puedes empezar por practicar el tomar una pausa incluso cuando te sientas bien. Esto te ayudará a estar más preparado para cuando sientas estrés. ⭐"
         }
       },
+      "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "¡Increíble! ✨ Durante los próximos días, intenta mantener la calma cuando hay estrés y redirigir el comportamiento negativo de @fields.child_name hacia uno positivo antes de que empeore.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -312,7 +333,8 @@
       "quiz_1_option_2_text": "Lo intentaré",
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nRecuerda usar estos cuatro pasos si empiezas a sentir estrés o enojo durante el tiempo juntos y conectados con @fields.child_name. \n\nComparte estas estrategias con otros miembros de la familia, ya que será de beneficio para todas y todos➡️",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     }
   ],
   "_metadata": {

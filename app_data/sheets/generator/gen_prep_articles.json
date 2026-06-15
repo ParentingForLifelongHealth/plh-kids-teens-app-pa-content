@@ -62,6 +62,13 @@
         "completed: FALSE"
       ],
       "output_target": "{@gen.id}_article_tasks"
+    },
+    {
+      "operation": "append_columns",
+      "args_list": [
+        "version: @global.module_version"
+      ],
+      "output_target": "{@gen.id}_article_tasks"
     }
   ],
   "_source": {

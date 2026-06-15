@@ -4,36 +4,33 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_5",
-      "title_eng": "In and out",
-      "title": "Inhala y exhala",
-      "lottie_asset": "lottie/relax/blue_dots.json",
-      "media_asset": "audio/relax/relax_5.m4a",
+      "id": "relax_1",
+      "in_library": "yes",
+      "title_oringinal_eng": "Quick pause",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset_m": "audio/relax/male/relax_1.m4a",
+      "media_asset_f": "audio/relax/female/relax_16.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
-      "transcript": "Cierra los ojos.\n\nEscucha tu respiración mientras entra y sale cinco veces.\n\nNota cómo te sientes.\n\nCuando estés listo(a), abre los ojos otra vez. ¡Tú tienes el control!",
+      "transcript_m_original_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_f_original_eng": "Close your eyes.\n\nTake a moment to feel the ground under your feet.\nThink of something you feel grateful for.\nFocus on your breath.\nBreathe in and out.\n\nIn and out.",
+      "transcript_m": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript_f": "Practiquemos un truco para calmarte que llamamos “Poder de la Pausa”.\n\nPon tus pies en el suelo y respira lentamente tres veces. Imagina que hueles una flor o que soplas una vela.\n\n¡Ta-da! ¡Poder de la Pausa!\n\nEste es un excelente truco cuando te sientes frustrado(a), porque te ayudará a tranquilizarte.",
+      "title": "Pausa rápida",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Pausa rápida"
+        }
+      },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "check_in_65",
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Toma un momento para conectar contigo.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "_translatedFields": {
         "text_1": {
           "eng": "Toma un momento para conectar contigo."
@@ -54,25 +51,40 @@
           "eng": "Feliz"
         },
         "quiz_1_option_2_text": {
-          "eng": "Bien"
+          "eng": "Regular"
         },
         "quiz_1_option_3_text": {
           "eng": "Triste"
         }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Toma un momento para conectar contigo.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
       },
       "quiz_1_feedback_1": "¡Maravilloso! Me da mucho gusto saber que las cosas van bien.",
       "quiz_1_feedback_2": "Habrá días retadores, y está bien. Vas por buen camino.",
       "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles ahora. Es completamente normal tener momentos complicados. Recuerda que no estás sola/o.",
       "quiz_1_question": "¿Cómo te sientes el día de hoy?",
       "quiz_1_option_1_text": "Feliz",
-      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "La sesión de hoy trata sobre cómo favorecer el desarrollo saludable de @fields.child_name a medida que crece y va cambiando. ✨"
@@ -117,6 +129,8 @@
           "eng": "👀 ¡Ups! ¡Buen intento!\n\n💚 Al preguntarle de manera cálida a @fields.child_name sobre sus intereses, sentirá seguridad y comodidad para compartir de las influencias que le rodean.\n\n🌷 Puedes darle tus opiniones sobre sus intereses pero hazlo con gentileza."
         }
       },
+      "category_id": "intro",
+      "nested": false,
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n✨ Cada niña y cada niño son únicos y se desarrollarán a su propio ritmo.\nAlgunas niñas y niños pueden desarrollarse más rápido que otros en ciertas áreas, mientras que a otros les puede tomar más tiempo.\n\n💚 Es importante que las madres, los padres y las personas cuidadoras sean pacientes y actuén con comprensión, reconociendo que cada niña y cada niño tiene su propio camino individual de desarrollo.\n\nRecuerda que cada persona crece a su propio ritmo. Es importante que las niñas y los niños no comparen su crecimiento con el de otras niñas y niños, aunque tengan la misma edad.\n\n🚩 Si tienes alguna preocupación sobre el desarrollo de @fields.child_name, debes consultar a un profesional para obtener apoyo y asesoramiento.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -147,12 +161,11 @@
       "quiz_2_feedback_2": "🎉 ¡Es correcto!\n\n💚 Al preguntarle de manera cálida a @fields.child_name sobre sus intereses, sentirá seguridad y comodidad para compartir de las influencias que le rodean.\n\n🌷 Puedes darle tus opiniones sobre sus intereses pero hazlo con gentileza.",
       "quiz_2_option_3_text": "Ignóralos y espera que no hayan querido decir eso.",
       "quiz_2_feedback_3": "👀 ¡Ups! ¡Buen intento!\n\n💚 Al preguntarle de manera cálida a @fields.child_name sobre sus intereses, sentirá seguridad y comodidad para compartir de las influencias que le rodean.\n\n🌷 Puedes darle tus opiniones sobre sus intereses pero hazlo con gentileza.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Patea la pelota suavemente con la parte de adentro de tu pie... Así."
@@ -164,6 +177,8 @@
           "eng": "¡No, yo lo quiero hacer primero!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/understand/child_change_yc_1.svg",
       "character_1_id": "f3_padre",
       "character_2_id": "f3_hijo_4",
@@ -176,12 +191,11 @@
       },
       "character_2_text": "¡Yo lo quiero hacer ahora!",
       "character_3_text": "¡No, yo lo quiero hacer primero!",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Puede que nos cueste trabajo esperar, pero no todos podemos ir primero. @data.characters.f3_hija_7.name, ¿qué tal si nos propones una manera en la que nos podamos patear la pelota por turnos?"
@@ -193,6 +207,8 @@
           "eng": "Sí, ¡eso suena bien!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/understand/child_change_yc_2.svg",
       "character_1_id": "f3_padre",
       "character_2_id": "f3_hija_7",
@@ -205,64 +221,66 @@
       },
       "character_2_text": "Está bien. Qué tal si hacemos un círculo y yo le doy la pelota a @data.characters.f3_hijo_4.name, luego él te la da a ti y, ¡tú me la devuelves a mí!",
       "character_3_text": "Sí, ¡eso suena bien!",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "¡Es una idea maravillosa, @data.characters.f3_hija_7.name! ¡Vamos a intentarlo!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/understand/child_change_yc_3.svg",
       "character_1_id": "f3_padre",
       "character_1_text": "¡Es una idea maravillosa, @data.characters.f3_hija_7.name! ¡Vamos a intentarlo!",
       "_translations": {
         "character_1_text": {}
       },
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "¡Buen trabajo, @data.characters.f3_hija_7.name! Tú nos guiaste, ¡y todos nos divertimos mucho tomando turnos! @data.characters.f3_hijo_4.name, tú estuviste excelente esperando pacientemente tu turno."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/understand/child_change_yc_4.svg",
       "character_1_id": "f3_padre",
       "character_1_text": "¡Buen trabajo, @data.characters.f3_hija_7.name! Tú nos guiaste, ¡y todos nos divertimos mucho tomando turnos! @data.characters.f3_hijo_4.name, tú estuviste excelente esperando pacientemente tu turno.",
       "_translations": {
         "character_1_text": {}
       },
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "practical_tips_1",
       "media_type": "youtube",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Selecciona reproducir ▶️ para aprender algunos pasos que puedes seguir para favorecer el desarrollo saludable de @fields.child_name a medida que crece y va cambiando:\n\n1️⃣ BUSCAR AMISTADES\n2️⃣ APOYAR LA CURIOSIDAD\n3️⃣ CONFIAR EN TU NIÑA O NIÑO"
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "text_1_facilitator": "Selecciona reproducir ▶️ para aprender algunos pasos que puedes seguir para favorecer el desarrollo saludable de @fields.child_name a medida que crece y va cambiando:\n\n1️⃣ BUSCAR AMISTADES\n2️⃣ APOYAR LA CURIOSIDAD\n3️⃣ CONFIAR EN TU NIÑA O NIÑO",
       "_translations": {
         "text_1_facilitator": {}
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=xWFqPewfHhU",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=7Dcw5snzGNE",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "practical_tips_2",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
@@ -286,6 +304,8 @@
           "eng": "📝 Puede que @fields.child_name empiece a tomar decisiones por su cuenta y querrá que le des tu confianza. Escucha lo que @fields.child_name quiere y luego establece normas que sean funcionales para la familia.\n\n🏆 ¡Reconoce a @fields.child_name cuando siga las reglas!"
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
@@ -305,12 +325,11 @@
       "section_2_text": "📖@fields.child_name empezará a interesarse por aprender en la escuela y puede que tenga sus materias favoritas.\n\nAnima a @fields.child_name a preguntarte a ti o a la maestra o el maestro sobre cualquier contenido complicado.\n\n🌱 Puede que @fields.child_name empiece a expresar su interés por los asuntos religiosos o la espiritualidad. Puedes darle respuestas breves pero sinceras o también puedes buscar las respuestas junto con @fields.child_name.",
       "section_3_title": "CONFIAR",
       "section_3_text": "📝 Puede que @fields.child_name empiece a tomar decisiones por su cuenta y querrá que le des tu confianza. Escucha lo que @fields.child_name quiere y luego establece normas que sean funcionales para la familia.\n\n🏆 ¡Reconoce a @fields.child_name cuando siga las reglas!",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "**Actividad para casa**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de @fields.child_name. Para empezar, escribe {CRECER}."
@@ -337,6 +356,8 @@
           "eng": "💙 Entendemos. Intenta completar esta actividad durante la semana o en otro día de la semana."
         }
       },
+      "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de @fields.child_name.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -355,7 +376,8 @@
       "quiz_1_option_2_text": "Lo intentaré",
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nTu Actividad para Casa será completar la evaluación de desarrollo de @fields.child_name. Para empezar, escribe {CRECER}.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     }
   ],
   "_metadata": {

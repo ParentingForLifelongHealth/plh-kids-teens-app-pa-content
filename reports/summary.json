@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 4362
+        "count": 4346
       },
       {
         "type": "simple_checkbox",
@@ -139,7 +139,7 @@
       },
       {
         "type": "template",
-        "count": 1364
+        "count": 1356
       },
       {
         "type": "text",
@@ -231,7 +231,7 @@
       },
       {
         "type": "nav_stack",
-        "count": 501
+        "count": 493
       },
       {
         "type": "plh_certificate",
@@ -291,13 +291,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "82173 KB",
-        "MB": "82.2 MB"
+        "KB": "75362 KB",
+        "MB": "75.4 MB"
       },
       {
         "assets": "unused",
-        "KB": "28741 KB",
-        "MB": "28.7 MB"
+        "KB": "35560 KB",
+        "MB": "35.6 MB"
       }
     ]
   },
@@ -322,6 +322,70 @@
       {
         "path": "android/splash.png",
         "size_kb": 239
+      },
+      {
+        "path": "audio/relax/unused relax audios/relax _22.m4a",
+        "size_kb": 172
+      },
+      {
+        "path": "audio/relax/unused relax audios/relax_10.m4a",
+        "size_kb": 390
+      },
+      {
+        "path": "audio/relax/unused relax audios/relax_11.m4a",
+        "size_kb": 284
+      },
+      {
+        "path": "audio/relax/unused relax audios/relax_12.m4a",
+        "size_kb": 447
+      },
+      {
+        "path": "audio/relax/unused relax audios/relax_13.m4a",
+        "size_kb": 267.1
+      },
+      {
+        "path": "audio/relax/unused relax audios/relax_18.m4a",
+        "size_kb": 729.8
+      },
+      {
+        "path": "audio/relax/unused relax audios/relax_19.m4a",
+        "size_kb": 1089.5
+      },
+      {
+        "path": "audio/relax/unused relax audios/relax_20.m4a",
+        "size_kb": 1010.5
+      },
+      {
+        "path": "audio/relax/unused relax audios/relax_21.m4a",
+        "size_kb": 374.2
+      },
+      {
+        "path": "audio/relax/unused relax audios/relax_23.m4a",
+        "size_kb": 223
+      },
+      {
+        "path": "audio/relax/unused relax audios/relax_24.m4a",
+        "size_kb": 222.9
+      },
+      {
+        "path": "audio/relax/unused relax audios/relax_4.m4a",
+        "size_kb": 528.3
+      },
+      {
+        "path": "audio/relax/unused relax audios/relax_5.m4a",
+        "size_kb": 278.5
+      },
+      {
+        "path": "audio/relax/unused relax audios/relax_6.m4a",
+        "size_kb": 214.9
+      },
+      {
+        "path": "audio/relax/unused relax audios/relax_7.m4a",
+        "size_kb": 303
+      },
+      {
+        "path": "audio/relax/unused relax audios/relax_8.m4a",
+        "size_kb": 284.2
       },
       {
         "path": "images/activities/personajes_t.svg",
@@ -720,8 +784,103 @@
   "assets_missing": {
     "data": [
       {
-        "path": "images/icons/heart_filles_blue.png",
-        "count": 2,
+        "path": "audio/relax/relax _22.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_10.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_11.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_12.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_13.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_14.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_15.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_16.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_17.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_18.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_19.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_20.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_21.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_23.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_24.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_4.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_5.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_6.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_7.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_8.m4a",
+        "count": 1,
         "missing": true
       },
       {
@@ -739,123 +898,43 @@
   "asset_summary": {
     "data": [
       {
-        "path": "audio/relax/relax _22.m4a",
-        "count": 1,
-        "size_kb": 172
-      },
-      {
-        "path": "audio/relax/relax_1.m4a",
-        "count": 15,
-        "size_kb": 213.2
-      },
-      {
-        "path": "audio/relax/relax_10.m4a",
-        "count": 1,
-        "size_kb": 390
-      },
-      {
-        "path": "audio/relax/relax_11.m4a",
-        "count": 1,
-        "size_kb": 284
-      },
-      {
-        "path": "audio/relax/relax_12.m4a",
-        "count": 1,
-        "size_kb": 447
-      },
-      {
-        "path": "audio/relax/relax_13.m4a",
-        "count": 1,
-        "size_kb": 267.1
-      },
-      {
-        "path": "audio/relax/relax_14.m4a",
-        "count": 2,
+        "path": "audio/relax/female/relax_14.m4a",
+        "count": 21,
         "size_kb": 290.6
       },
       {
-        "path": "audio/relax/relax_15.m4a",
-        "count": 2,
+        "path": "audio/relax/female/relax_15.m4a",
+        "count": 21,
         "size_kb": 360.2
       },
       {
-        "path": "audio/relax/relax_16.m4a",
-        "count": 2,
+        "path": "audio/relax/female/relax_16.m4a",
+        "count": 21,
         "size_kb": 301.4
       },
       {
-        "path": "audio/relax/relax_17.m4a",
-        "count": 2,
+        "path": "audio/relax/female/relax_17.m4a",
+        "count": 20,
         "size_kb": 335.8
       },
       {
-        "path": "audio/relax/relax_18.m4a",
-        "count": 1,
-        "size_kb": 729.8
+        "path": "audio/relax/male/relax_1.m4a",
+        "count": 21,
+        "size_kb": 213.2
       },
       {
-        "path": "audio/relax/relax_19.m4a",
-        "count": 1,
-        "size_kb": 1089.5
-      },
-      {
-        "path": "audio/relax/relax_2.m4a",
-        "count": 15,
+        "path": "audio/relax/male/relax_2.m4a",
+        "count": 21,
         "size_kb": 451.3
       },
       {
-        "path": "audio/relax/relax_20.m4a",
-        "count": 1,
-        "size_kb": 1010.5
-      },
-      {
-        "path": "audio/relax/relax_21.m4a",
-        "count": 1,
-        "size_kb": 374.2
-      },
-      {
-        "path": "audio/relax/relax_23.m4a",
-        "count": 1,
-        "size_kb": 223
-      },
-      {
-        "path": "audio/relax/relax_24.m4a",
-        "count": 1,
-        "size_kb": 222.9
-      },
-      {
-        "path": "audio/relax/relax_3.m4a",
-        "count": 15,
+        "path": "audio/relax/male/relax_3.m4a",
+        "count": 21,
         "size_kb": 244.5
       },
       {
-        "path": "audio/relax/relax_4.m4a",
-        "count": 13,
-        "size_kb": 528.3
-      },
-      {
-        "path": "audio/relax/relax_5.m4a",
-        "count": 13,
-        "size_kb": 278.5
-      },
-      {
-        "path": "audio/relax/relax_6.m4a",
-        "count": 1,
-        "size_kb": 214.9
-      },
-      {
-        "path": "audio/relax/relax_7.m4a",
-        "count": 1,
-        "size_kb": 303
-      },
-      {
-        "path": "audio/relax/relax_8.m4a",
-        "count": 1,
-        "size_kb": 284.2
-      },
-      {
-        "path": "audio/relax/relax_9.m4a",
-        "count": 14,
+        "path": "audio/relax/male/relax_9.m4a",
+        "count": 20,
         "size_kb": 530.4
       },
       {
@@ -890,7 +969,7 @@
       },
       {
         "path": "images/activities/animales_c.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 32.8
       },
       {
@@ -955,7 +1034,7 @@
       },
       {
         "path": "images/activities/colores.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 29
       },
       {
@@ -1100,7 +1179,7 @@
       },
       {
         "path": "images/activities/lider.svg",
-        "count": 4,
+        "count": 6,
         "size_kb": 44.6
       },
       {
@@ -1135,12 +1214,12 @@
       },
       {
         "path": "images/activities/opuestos_t.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 24.8
       },
       {
         "path": "images/activities/patrones.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 29.4
       },
       {
@@ -2931,7 +3010,7 @@
       {
         "path": "images/icons/expand_circle_right.png",
         "count": 1,
-        "size_kb": 0.9
+        "size_kb": 8.7
       },
       {
         "path": "images/icons/expand_circle_right_blue.svg",
@@ -3020,7 +3099,7 @@
       },
       {
         "path": "images/icons/heart_filled_blue.png",
-        "count": 24,
+        "count": 26,
         "size_kb": 4.9
       },
       {
@@ -3325,27 +3404,27 @@
       },
       {
         "path": "lottie/relax/blue_dots.json",
-        "count": 17,
+        "count": 4,
         "size_kb": 14.7
       },
       {
         "path": "lottie/relax/heart.json",
-        "count": 16,
+        "count": 4,
         "size_kb": 46.7
       },
       {
         "path": "lottie/relax/looping_rings.json",
-        "count": 19,
+        "count": 24,
         "size_kb": 10.4
       },
       {
         "path": "lottie/relax/soothing_waves.json",
-        "count": 19,
+        "count": 24,
         "size_kb": 7.6
       },
       {
         "path": "lottie/relax/square_flow.json",
-        "count": 36,
+        "count": 47,
         "size_kb": 5.9
       }
     ]
@@ -3830,7 +3909,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 1097
+        "total": 1093
       },
       {
         "type": "template",

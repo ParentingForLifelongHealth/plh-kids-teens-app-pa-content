@@ -4,37 +4,33 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_3",
+      "id": "relax_1",
       "in_library": "yes",
-      "title_eng": "One thing today",
-      "title": "Nombra una cosa",
-      "lottie_asset": "lottie/relax/looping_rings.json",
-      "media_asset": "audio/relax/relax_3.m4a",
+      "title_oringinal_eng": "Quick pause",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset_m": "audio/relax/male/relax_1.m4a",
+      "media_asset_f": "audio/relax/female/relax_16.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
-      "transcript": "Cierra los ojos y piensa en tu día.\n\nNombra una cosa por la que te sientes agradecido.\nNombra una cosa que hiciste bien.\nNombra una cosa que amas.\n\nMuy bien. Gracias por acompañarnos hoy en Crianza Responsable y Amorosa.",
+      "transcript_m_original_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_f_original_eng": "Close your eyes.\n\nTake a moment to feel the ground under your feet.\nThink of something you feel grateful for.\nFocus on your breath.\nBreathe in and out.\n\nIn and out.",
+      "transcript_m": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript_f": "Practiquemos un truco para calmarte que llamamos “Poder de la Pausa”.\n\nPon tus pies en el suelo y respira lentamente tres veces. Imagina que hueles una flor o que soplas una vela.\n\n¡Ta-da! ¡Poder de la Pausa!\n\nEste es un excelente truco cuando te sientes frustrado(a), porque te ayudará a tranquilizarte.",
+      "title": "Pausa rápida",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Pausa rápida"
+        }
+      },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "check_in_33",
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Toma un momento para conectar contigo.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "_translatedFields": {
         "text_1": {
           "eng": "Toma un momento para conectar contigo."
@@ -55,25 +51,40 @@
           "eng": "Feliz"
         },
         "quiz_1_option_2_text": {
-          "eng": "Bien"
+          "eng": "Regular"
         },
         "quiz_1_option_3_text": {
           "eng": "Triste"
         }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Toma un momento para conectar contigo.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
       },
       "quiz_1_feedback_1": "¡Maravilloso! Me da mucho gusto saber que las cosas van bien.",
       "quiz_1_feedback_2": "Habrá días retadores, y está bien. Vas por buen camino.",
       "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles ahora. Es completamente normal tener momentos complicados. Recuerda que no estás sola/o.",
       "quiz_1_question": "¿Cómo te sientes el día de hoy?",
       "quiz_1_option_1_text": "Feliz",
-      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Esta sesión trata sobre acordar reglas en familia.⏰⭐"
@@ -112,6 +123,8 @@
           "eng": "🎉 ¡Tienes razón!\n\n💚 *_Establecer límites razonables con tu niña o niño, es una buena forma de disciplina efectiva._*\n\n🧸 No estás controlando a tu niña o niño demasiado.  \n\n🌷 Le estás dando a tu niña o niño una estructura para mantener una relación sana y llena de amor entre ustedes para poder explorar el mundo con seguridad."
         }
       },
+      "category_id": "intro",
+      "nested": false,
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n📝Incluir a las niñas y los niños en la conversación  sobre las reglas en el hogar  les ayuda a sentir que se les aprecia y escucha.\n\n⏰ Es más probable que sigan las reglas si han participado en su elaboración.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -138,12 +151,11 @@
       "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n💚 *_Establecer límites razonables con tu niña o niño, es una buena forma de disciplina efectiva._* \n\n🧸 No estás controlando a tu niña o niño demasiado.  \n\n🌷 Le estás dando a tu niña o niño una estructura para mantener una relación sana y llena de amor entre ustedes para poder explorar el mundo con seguridad.",
       "quiz_2_option_2_text": "Falso",
       "quiz_2_feedback_2": "🎉 ¡Tienes razón!\n\n💚 *_Establecer límites razonables con tu niña o niño, es una buena forma de disciplina efectiva._*\n\n🧸 No estás controlando a tu niña o niño demasiado.  \n\n🌷 Le estás dando a tu niña o niño una estructura para mantener una relación sana y llena de amor entre ustedes para poder explorar el mundo con seguridad.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "@data.characters.f3_hija_7.name pasa demasiado tiempo viendo la tele antes de terminar su tarea. Veamos cómo su padre, @data.characters.f3_padre.name, le ayuda a crear una regla familiar al respecto:"
@@ -155,6 +167,8 @@
           "eng": "De acuerdo, papá."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "@data.characters.f3_hija_7.name pasa demasiado tiempo viendo la tele antes de terminar su tarea. Veamos cómo su padre, @data.characters.f3_padre.name, le ayuda a crear una regla familiar al respecto:",
       "_translations": {
         "text_1_facilitator": {},
@@ -166,12 +180,11 @@
       "character_2_id": "f3_hija_7",
       "character_1_text": "Es importante que hagas la tarea para que te vaya bien en la escuela. Vamos a establecer una regla sobre ver la televisión.",
       "character_2_text": "De acuerdo, papá.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "¿Cuál crees que sería una regla justa?"
@@ -180,6 +193,8 @@
           "eng": "Mmm… bueno, tal vez pueda ver la tele todo lo que quiera, pero solo después de hacer la tarea."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/behave/create_family_rules_yc_2.svg",
       "character_1_id": "f3_padre",
       "character_2_id": "f3_hija_7",
@@ -189,12 +204,11 @@
         "character_2_text": {}
       },
       "character_2_text": "Mmm… bueno, tal vez pueda ver la tele todo lo que quiera, pero solo después de hacer la tarea.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Me gusta esa idea, pero vamos a limitarlo a una hora al día. ¿Qué te parece?"
@@ -203,6 +217,8 @@
           "eng": "Está bien."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/behave/create_family_rules_yc_3.svg",
       "character_1_id": "f3_padre",
       "character_2_id": "f3_hija_7",
@@ -212,12 +228,11 @@
         "character_2_text": {}
       },
       "character_2_text": "Está bien.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Gracias por hacer la tarea antes de ver la tele, @data.characters.f3_hija_7.name. ¡Te están dando estrellas en la escuela! ¡Tus calificaciones también han mejorado! ¡Estoy orgulloso de todos tus esfuerzos! Podemos aumentar tu tiempo a una hora y media cada día… ¡Siempre y cuando sigas haciendo la tarea primero!"
@@ -226,6 +241,8 @@
           "eng": "¡Gracias, papá!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/behave/create_family_rules_yc_4.svg",
       "character_1_id": "f3_padre",
       "character_2_id": "f3_hija_7",
@@ -235,12 +252,11 @@
         "character_2_text": {}
       },
       "character_2_text": "¡Gracias, papá!",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "practical_tips_1",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Veamos las 4️⃣ estrategias que te ayudarán a establecer reglas familiares con @fields.child_name:"
@@ -270,6 +286,8 @@
           "eng": "⭐ Reconoce y elogia a @fields.child_name por su participación en la elaboración de la regla.\n\n😃 ¡Elogia, Elogia y elogia a @fields.child_name cuando siga la regla, ¡igual que cuando se porta bien!"
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "text_1_facilitator": "Veamos las 4️⃣ estrategias que te ayudarán a establecer reglas familiares con @fields.child_name:",
       "_translations": {
         "text_1_facilitator": {},
@@ -294,12 +312,11 @@
       "section_3_text": "🔄 Una vez que establezcan una regla, procura que se cumpla.  \n\n⬆️ Esto aumentará la probabilidad de que sigan la regla. \n\n▶️ Si la regla te incluye, es importante que tú también la cumplas.",
       "section_4_title": "ELOGIA, ELOGIA, ELOGIA",
       "section_4_text": "⭐ Reconoce y elogia a @fields.child_name por su participación en la elaboración de la regla.\n\n😃 ¡Elogia, Elogia y elogia a @fields.child_name cuando siga la regla, ¡igual que cuando se porta bien!",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "**Actividad para casa** ⭐  \n\nCrea una regla familiar con @fields.child_name hoy. 🏆"
@@ -326,6 +343,8 @@
           "eng": "¡Está bien! Establecer reglas requiere tiempo y práctica. ⏰ Piensa en las reglas que te gustaría establecer y, cuando sientas más confianza, elige la más fácil y habla de esta regla con @fields.child_name.\n\n👂 ¡Recuerda que siempre puedes repasar esta estrategia en el Menú Principal!"
         }
       },
+      "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "¡Es muy bueno escucharlo! Crea una regla familiar con @fields.child_name hoy. Recuerda, cuando implicas a @fields.child_name en la creación de reglas, es más probable que las siga. ¡Es una receta para el éxito! 🏆",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -344,7 +363,8 @@
       "quiz_1_option_2_text": "Lo intentaré",
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa** ⭐  \n\nCrea una regla familiar con @fields.child_name hoy. 🏆",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     }
   ],
   "_metadata": {
