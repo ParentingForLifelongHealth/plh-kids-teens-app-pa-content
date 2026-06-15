@@ -4,36 +4,33 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_5",
-      "title_eng": "In and out",
-      "title": "Inhala y exhala",
-      "lottie_asset": "lottie/relax/blue_dots.json",
-      "media_asset": "audio/relax/relax_5.m4a",
+      "id": "relax_1",
+      "in_library": "yes",
+      "title_oringinal_eng": "Quick pause",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset_m": "audio/relax/male/relax_1.m4a",
+      "media_asset_f": "audio/relax/female/relax_16.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
-      "transcript": "Cierra los ojos.\n\nEscucha tu respiración mientras entra y sale cinco veces.\n\nNota cómo te sientes.\n\nCuando estés listo(a), abre los ojos otra vez. ¡Tú tienes el control!",
+      "transcript_m_original_eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_f_original_eng": "Close your eyes.\n\nTake a moment to feel the ground under your feet.\nThink of something you feel grateful for.\nFocus on your breath.\nBreathe in and out.\n\nIn and out.",
+      "transcript_m": "Siéntate, cierra los ojos y escucha tu respiración mientras entra y sale.\nNota cómo te sientes. Cuando estés listo(a), abre los ojos.\nPrueba esto cada vez que te sientas estresado(a) y necesites un descanso para reconectarte.",
+      "transcript_f": "Practiquemos un truco para calmarte que llamamos “Poder de la Pausa”.\n\nPon tus pies en el suelo y respira lentamente tres veces. Imagina que hueles una flor o que soplas una vela.\n\n¡Ta-da! ¡Poder de la Pausa!\n\nEste es un excelente truco cuando te sientes frustrado(a), porque te ayudará a tranquilizarte.",
+      "title": "Pausa rápida",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Pausa rápida"
+        }
+      },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "check_in_53",
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Cuidarte es importante. ¡Y cómo te sientes, también lo es!",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "_translatedFields": {
         "text_1": {
           "eng": "Cuidarte es importante. ¡Y cómo te sientes, también lo es!"
@@ -54,25 +51,40 @@
           "eng": "Feliz"
         },
         "quiz_1_option_2_text": {
-          "eng": "Bien"
+          "eng": "Regular"
         },
         "quiz_1_option_3_text": {
           "eng": "Triste"
         }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Cuidarte es importante. ¡Y cómo te sientes, también lo es!",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
       },
       "quiz_1_feedback_1": "¡Genial! Es bueno saber que hoy te sientes bien.",
       "quiz_1_feedback_2": "A veces las cosas van muy bien, a veces no tanto, y otras veces, simplemente no sabemos qué pensar… y eso está bien. Recuerda que no estás sola/o.",
       "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles en este momento. Mereces cosas buenas, y @global.app_name está aquí para acompañarte en cada paso.",
       "quiz_1_question": "¿Cómo te sientes el día de hoy?",
       "quiz_1_option_1_text": "Feliz",
-      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Tú desempeñas un papel importante en el aprendizaje de @fields.child_name y en cómo le da sentido a la vida."
@@ -81,18 +93,19 @@
           "eng": "Esta sesión trata sobre cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos. 😃"
         }
       },
+      "category_id": "intro",
+      "nested": false,
       "text_1_facilitator": "Tú desempeñas un papel importante en el aprendizaje de @fields.child_name y en cómo le da sentido a la vida.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {}
       },
       "text_2": "Esta sesión trata sobre cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos. 😃",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Aquí tienes una historieta que trata sobre el establecimiento de metas y objetivos:"
@@ -104,6 +117,8 @@
           "eng": "¡Quiero ser el mejor leyendo y contando historias!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta que trata sobre el establecimiento de metas y objetivos:",
       "_translations": {
         "text_1_facilitator": {},
@@ -115,12 +130,11 @@
       "character_2_id": "f2_hijo_8",
       "character_1_text": "@data.characters.f2_hijo_8.name, ya vas a empezar un nuevo año en la escuela y estoy muy emocionado por ti. ¿Cuáles son tus metas para este año?",
       "character_2_text": "¡Quiero ser el mejor leyendo y contando historias!",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Tu meta es buenísima, @data.characters.f2_hijo_8.name. ¿Qué crees que tendrás que hacer para llegar a ella?"
@@ -129,6 +143,8 @@
           "eng": "Mmm... ¡Quizá tenga que leer mínimo 15 minutos todos los días de este año!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/learn/help_child_learn_7to9_yc_2.svg",
       "character_1_id": "f2_abuelo",
       "character_2_id": "f2_hijo_8",
@@ -138,12 +154,11 @@
         "character_2_text": {}
       },
       "character_2_text": "Mmm... ¡Quizá tenga que leer mínimo 15 minutos todos los días de este año!",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "¡Muy buena idea! ¡Podríamos hacerlo a la hora de dormir! ¿Y qué otra cosa puedes hacer para mejorar tus habilidades para contar historias?"
@@ -152,6 +167,8 @@
           "eng": "Bueno, tal vez podríamos inventar historias juntos, y tú podrías ayudarme con las palabras que no conozca, ¿sí?"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/learn/help_child_learn_7to9_yc_3.svg",
       "character_1_id": "f2_abuelo",
       "character_2_id": "f2_hijo_8",
@@ -161,47 +178,48 @@
         "character_2_text": {}
       },
       "character_2_text": "Bueno, tal vez podríamos inventar historias juntos, y tú podrías ayudarme con las palabras que no conozca, ¿sí?",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "¡Haré lo mejor que pueda! Si trabajas duro y mantienes tu rutina de lectura todos los días, ¡Estoy seguro de que podrás lograr tu objetivo!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/learn/help_child_learn_7to9_yc_4.svg",
       "character_1_id": "f2_abuelo",
       "character_1_text": "¡Haré lo mejor que pueda! Si trabajas duro y mantienes tu rutina de lectura todos los días, ¡Estoy seguro de que podrás lograr tu objetivo!",
       "_translations": {
         "character_1_text": {}
       },
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "practical_tips_1",
       "media_type": "youtube",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Selecciona reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos:\n\n1️⃣ ESTABLECER METAS\n2️⃣ HACER PREGUNTAS\n3️⃣ CONECTAR\n4️⃣ ELOGIAR, ELOGIAR, ELOGIAR"
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "text_1_facilitator": "Selecciona reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender a través del establecimiento de metas y objetivos:\n\n1️⃣ ESTABLECER METAS\n2️⃣ HACER PREGUNTAS\n3️⃣ CONECTAR\n4️⃣ ELOGIAR, ELOGIAR, ELOGIAR",
       "_translations": {
         "text_1_facilitator": {}
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=eoPiTrGyiZE",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=FjVjbikFO7M",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "practical_tips_2",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
@@ -225,6 +243,8 @@
           "eng": "📖 Pídele a @fields.child_name que relacione la información nueva con cosas que ya conozca, como algunos de sus intereses o un tema que haya visto anteriormente en la escuela.\n\n🔑 Esto desarrolla y fomenta el pensamiento crítico y una mejor comprensión de conceptos."
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
@@ -244,12 +264,11 @@
       "section_2_text": "❓ Anima a @fields.child_name a que haga preguntas.\n\n😃 Hazle preguntas a @fields.child_name.\n\n💡 No te preocupes si no sabes la respuesta. Intenten encontrarla buscando en internet o preguntándole a las personas docentes de la escuela.\n \n🎓 ¡La curiosidad ayuda a aumentar la capacidad cerebral de @fields.child_name!",
       "section_3_title": "CONECTA",
       "section_3_text": "📖 Pídele a @fields.child_name que relacione la información nueva con cosas que ya conozca, como algunos de sus intereses o un tema que haya visto anteriormente en la escuela.\n\n🔑 Esto desarrolla y fomenta el pensamiento crítico y una mejor comprensión de conceptos.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "**Actividad para casa** ⭐ \n\nDedícale 15 minutos a @fields.child_name para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana."
@@ -276,6 +295,8 @@
           "eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana y ayudarle a estudiar o completar su trabajo escolar. ☀️"
         }
       },
+      "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "¡Excelente! Usa las estrategias que has aprendido hoy y ¡diviértete! Sentir alegría y felicidad durante el aprendizaje con @fields.child_name es una forma estupenda de motivarle para seguir aprendiendo. 💙",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -294,7 +315,8 @@
       "quiz_1_option_2_text": "Lo intentaré",
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa** ⭐ \n\nDedícale 15 minutos a @fields.child_name para ayudarle a fijar un objetivo de estudio o para completar su tarea de la semana.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     }
   ],
   "_metadata": {

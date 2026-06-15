@@ -6,35 +6,31 @@
     {
       "id": "relax_2",
       "in_library": "yes",
-      "title_eng": "Power of three",
-      "title": "El poder del 3",
+      "title_oringinal_eng": "Power of three",
       "lottie_asset": "lottie/relax/soothing_waves.json",
-      "media_asset": "audio/relax/relax_2.m4a",
+      "media_asset_m": "audio/relax/male/relax_2.m4a",
+      "media_asset_f": "audio/relax/female/relax_14.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be gratefful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
-      "transcript": "Cierra los ojos.\nVamos a usar el poder mágico del 3 para mantenernos presentes y relajarnos.\n\nNombra 3 sonidos que puedas escuchar ahora mismo.\nNombra 3 olores que puedas sentir ahora mismo.\nNombra tus 3 comidas favoritas.\n¿Cuáles son 3 cosas por las que puedes sentir gratitud ahora mismo?\n\nAl final de un día difícil, pensar en 3 cosas por las que estás agradecido(a) puede ayudarte a encontrar el valor para intentarlo de nuevo mañana.",
+      "transcript_m_original_eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be grateful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
+      "transcript_f_original_eng": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!",
+      "transcript_m": "Cierra los ojos.\nVamos a usar el poder mágico del 3 para mantenernos presentes y relajarnos.\n\nNombra 3 sonidos que puedas escuchar ahora mismo.\nNombra 3 olores que puedas sentir ahora mismo.\nNombra tus 3 comidas favoritas.\n¿Cuáles son 3 cosas por las que puedes sentir gratitud ahora mismo?\n\nAl final de un día difícil, pensar en 3 cosas por las que estás agradecido(a) puede ayudarte a encontrar el valor para intentarlo de nuevo mañana.",
+      "transcript_f": "Cierra los ojos.\n\nTómate un momento para sentir el suelo bajo tus pies.\nPiensa en algo por lo que te sientas agradecido(a).\nConcéntrate en tu respiración.\nInhala y exhala.\n\nAdentro y afuera.",
+      "title": "El poder del 3",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "El poder del 3"
+        }
+      },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "check_in_74",
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Ser una gran madre, padre o persona cuidadora también implica dedicar tiempo para ti. Comienza por reconocer cómo te sientes.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "_translatedFields": {
         "text_1": {
           "eng": "Ser una gran madre, padre o persona cuidadora también implica dedicar tiempo para ti. Comienza por reconocer cómo te sientes."
@@ -55,25 +51,40 @@
           "eng": "Feliz"
         },
         "quiz_1_option_2_text": {
-          "eng": "Bien"
+          "eng": "Regular"
         },
         "quiz_1_option_3_text": {
           "eng": "Triste"
         }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Ser una gran madre, padre o persona cuidadora también implica dedicar tiempo para ti. Comienza por reconocer cómo te sientes.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
       },
       "quiz_1_feedback_1": "Que gusto saber que hoy te sientes bien. ¡Eres increíble!",
       "quiz_1_feedback_2": "Hay días en los que simplemente no sabemos qué hacer, y eso está bien. Estás aquí, y eso es lo que importa.",
       "quiz_1_feedback_3": "La crianza puede ser desafiante. Pero estar aquí muestra que quieres seguir mejorando, y eso ya es un gran logro.",
       "quiz_1_question": "¿Cómo te sientes el día de hoy?",
       "quiz_1_option_1_text": "Feliz",
-      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "⚽ En la sesión de hoy, conversaremos sobre cómo detectar en qué momento la ansiedad empieza a causar molestias con la vida cotidiana."
@@ -112,6 +123,8 @@
           "eng": "🎉 ¡Es correcto!\n\n⏸ La ansiedad puede desaparecer por sí sola, pero a veces se puede requerir del apoyo de familiares, amistades o profesionales capacitados. En esta sesión, encontrarás estrategias para regular los sentimientos de ansiedad.  \n\n❗Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con  @fields.child_name, puedes ir a la biblioteca de la aplicación, en donde encontrarás una lista de recursos telefónicos y vía chat donde puedes pedir apoyo."
         }
       },
+      "category_id": "intro",
+      "nested": false,
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\nEs normal que @fields.child_name sienta ansiedad de vez en cuando. Puede ayudarle a estar alerta y a prepararse para las cosas que puedan salir mal.  \n\n🔴 La ansiedad se convierte en algo perjudicial cuando le afecta en su día a día.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -138,12 +151,11 @@
       "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n⏸ La ansiedad puede desaparecer por sí sola, pero a veces se puede requerir del apoyo de familiares, amistades o profesionales capacitados. En esta sesión, encontrarás estrategias para regular los sentimientos de ansiedad.  \n\n❗Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con  @fields.child_name, puedes ir a la biblioteca de la aplicación, en donde encontrarás una lista de recursos telefónicos y vía chat donde puedes pedir apoyo.",
       "quiz_2_option_2_text": "Falso",
       "quiz_2_feedback_2": "🎉 ¡Es correcto!\n\n⏸ La ansiedad puede desaparecer por sí sola, pero a veces se puede requerir del apoyo de familiares, amistades o profesionales capacitados. En esta sesión, encontrarás estrategias para regular los sentimientos de ansiedad.  \n\n❗Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con  @fields.child_name, puedes ir a la biblioteca de la aplicación, en donde encontrarás una lista de recursos telefónicos y vía chat donde puedes pedir apoyo.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Veamos cómo @data.characters.f1_madre.name ayuda a su hijo, @data.characters.f1_hijo_17.name a regular sus sentimientos de ansiedad:"
@@ -155,6 +167,8 @@
           "eng": "No, mamá. Mañana tengo que exponer y estoy muy preocupado. ¡Mira! Me están sudando las manos y me tiemblan."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Veamos cómo @data.characters.f1_madre.name ayuda a su hijo, @data.characters.f1_hijo_17.name a regular sus sentimientos de ansiedad:",
       "_translations": {
         "text_1_facilitator": {},
@@ -166,12 +180,11 @@
       "character_2_id": "f1_hijo_17",
       "character_1_text": "@data.characters.f1_hijo_17.name, te ves muy preocupado. ¿Está todo bien?",
       "character_2_text": "No, mamá. Mañana tengo que exponer y estoy muy preocupado. ¡Mira! Me están sudando las manos y me tiemblan.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Siento mucho que te sientas así, es completamente normal que estés preocupado. ¿Qué es lo que te preocupa específicamente?"
@@ -186,6 +199,8 @@
           "eng": "A ver... Veo mi escritorio, el librero, la ventana, mi cuaderno y el reloj."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/understand/anxiety_teen_2.svg",
       "character_1_id": "f1_madre",
       "character_2_id": "f1_hijo_17",
@@ -201,12 +216,11 @@
       "character_4_id": "f1_hijo_17",
       "character_3_text": "Exponer puede ser aterrador. Hagamos algo juntos para ayudarte a que te tranquilices un poco. ¿Puedes nombrar 5 cosas que veas a tu alrededor?",
       "character_4_text": "A ver... Veo mi escritorio, el librero, la ventana, mi cuaderno y el reloj.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Nombra 4 cosas que estés tocando."
@@ -221,6 +235,8 @@
           "eng": "Puedo escuchar a los pájaros de afuera, mi propia respiración y el viento que sopla."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/understand/anxiety_teen_3.svg",
       "character_1_id": "f1_madre",
       "character_2_id": "f1_hijo_17",
@@ -236,12 +252,11 @@
       "character_4_id": "f1_hijo_17",
       "character_3_text": "Nombra 3 cosas que estés escuchando.",
       "character_4_text": "Puedo escuchar a los pájaros de afuera, mi propia respiración y el viento que sopla.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Dime 2 cosas que puedas oler."
@@ -256,6 +271,8 @@
           "eng": "Mm… la menta de mi chicle."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/understand/anxiety_teen_4.svg",
       "character_1_id": "f1_madre",
       "character_2_id": "f1_hijo_17",
@@ -271,12 +288,11 @@
       "character_4_id": "f1_hijo_17",
       "character_3_text": "Por último, nombra 1 sabor que sientas ahorita.",
       "character_4_text": "Mm… la menta de mi chicle.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_5",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "¡Buen trabajo! ¿Cómo te sientes ahora?"
@@ -288,6 +304,8 @@
           "eng": "Me alegra que te haya servido. Ahora vamos a practicar tu presentación juntos."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/understand/anxiety_teen_5.svg",
       "character_1_id": "f1_madre",
       "character_2_id": "f1_hijo_17",
@@ -300,30 +318,30 @@
       "character_2_text": "Gracias, mamá. Mis manos ya dejaron de temblar.",
       "character_3_id": "f1_madre",
       "character_3_text": "Me alegra que te haya servido. Ahora vamos a practicar tu presentación juntos.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "practical_tips_1",
       "media_type": "youtube",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Selecciona reproducir ▶️ para aprender 5️⃣ estrategias que puedes usar para regular la ansiedad:\n\n1️⃣ RECONOCER LAS SEÑALES\n2️⃣ CONECTAR CON TUS SENTIDOS\n3️⃣ EXPLORAR TUS PENSAMIENTOS\n4️⃣ RESOLVER PROBLEMAS\n5️⃣ PEDIR AYUDA"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Selecciona reproducir ▶️ para aprender 5️⃣ estrategias que puedes usar para regular la ansiedad:\n\n1️⃣ RECONOCER LAS SEÑALES\n2️⃣ CONECTAR CON TUS SENTIDOS\n3️⃣ EXPLORAR TUS PENSAMIENTOS\n4️⃣ RESOLVER PROBLEMAS\n5️⃣ PEDIR AYUDA",
       "_translations": {
         "text_1_facilitator": {}
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=Kvhl49c3O1w",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=cyqdCNaSjUU",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "practical_tips_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
@@ -359,6 +377,8 @@
           "eng": "🔶 Si @fields.child_name o tú experimentan algunas o muchas de estas cosas, pueden buscar la ayuda de un profesional.\n\n🔷 Es necesario un diagnóstico profesional para determinar si @fields.child_name sufre de ansiedad.\n\n😃 Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con tu niña, niño o adolescente, puedes ir a la biblioteca de la aplicación para acceder a una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
@@ -388,12 +408,11 @@
       "section_4_text": "▶️ Piensa en tantas ideas como sea posible para resolver el problema que te hace sentir ansiedad. Recuerda, ¡ninguna idea es demasiado grande ni demasiado pequeña!\n\n✅ Escoge la idea que consideres mejor para resolver el problema.\n\n🔵 Prueba la idea que has elegido y mira cómo te va. ¿Te ha ayudado a sentirte mejor? ¿Encontraste alguna dificultad?\n\n⏰ Si no funcionó, no pasa nada. Puedes probar con otra idea o darle un poco más de tiempo a tu solución.\n\nRecuerda que puedes aprender más sobre la habilidad de solución de problemas en el curso de \"Guiar el Buen Comportamiento de Mi Adolescente\".",
       "section_5_title": "PEDIR AYUDA",
       "section_5_text": "🔶 Si @fields.child_name o tú experimentan algunas o muchas de estas cosas, pueden buscar la ayuda de un profesional.\n\n🔷 Es necesario un diagnóstico profesional para determinar si @fields.child_name sufre de ansiedad.\n\n😃 Recuerda que, si necesitas algún tipo de orientación sobre un tema de crianza o situación con tu niña, niño o adolescente, puedes ir a la biblioteca de la aplicación para acceder a una lista de recursos telefónicos y vía chat donde puedes encontrar apoyo.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "**Actividad para casa**⭐   \n\n💡 Prueba la actividad de 5-4-3-2-1 cuando te encuentres en una situación que te genere estrés esta semana. ¡Enséñasela a @fields.child_name también!"
@@ -420,6 +439,8 @@
           "eng": "¡Está bien!⭐ Puedes practicar en otro momento cuando tengas más tranquilidad y mayor comodidad. Utilizar las estrategias que has aprendido para afrontar los sentimientos de preocupación puede hacer una gran diferencia. ¡Sigue así!\n\nRecuerda que puedes ir a la biblioteca de la aplicación, en donde encontrarás recursos de apoyo al terminar la sesión, ya sean para ti o para @fields.child_name, por ejemplo:\n\n1️⃣ Es difícil controlar los sentimientos de preocupación.\n2️⃣ Si los sentimientos de preocupación no te dejan enfocarte en tus actividades cotidianas.\n3️⃣ Ya no disfrutas de las cosas que solías hacer antes porque sientes mucha preocupación."
         }
       },
+      "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "¡Estupendo! ⭐ Usar estas estrategias que has aprendido para afrontar la preocupación excesiva realmente hace la diferencia. ¡Sigue así! \n\nRecuerda que puedes ir a la biblioteca de la aplicación, en donde encontrarás recursos de apoyo al terminar la sesión, ya sean para ti o para @fields.child_name, por ejemplo:\n\n1️⃣ Es difícil controlar los sentimientos de preocupación.\n2️⃣ Si los sentimientos de preocupación no te dejan enfocarte en tus actividades cotidianas.\n3️⃣ Ya no disfrutas de las cosas que solías hacer antes porque sientes mucha preocupación.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -438,7 +459,8 @@
       "quiz_1_option_2_text": "Lo intentaré",
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐   \n\n💡 Prueba la actividad de 5-4-3-2-1 cuando te encuentres en una situación que te genere estrés esta semana. ¡Enséñasela a @fields.child_name también!",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     }
   ],
   "_metadata": {

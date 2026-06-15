@@ -4,36 +4,33 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_5",
-      "title_eng": "In and out",
-      "title": "Inhala y exhala",
-      "lottie_asset": "lottie/relax/blue_dots.json",
-      "media_asset": "audio/relax/relax_5.m4a",
+      "id": "relax_3",
+      "in_library": "yes",
+      "title_oringinal_eng": "Mindful moment",
+      "lottie_asset": "lottie/relax/looping_rings.json",
+      "media_asset_m": "audio/relax/male/relax_3.m4a",
+      "media_asset_f": "audio/relax/female/relax_15.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
-      "transcript": "Cierra los ojos.\n\nEscucha tu respiración mientras entra y sale cinco veces.\n\nNota cómo te sientes.\n\nCuando estés listo(a), abre los ojos otra vez. ¡Tú tienes el control!",
+      "transcript_m_original_eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
+      "transcript_f_original_eng": "Let’s practice a calming trick that we call ‘Pause Power’.\n\nPlant your feet on the ground and breathe in and out three times as slowly as you can. Imagine you are smelling a flower or blowing out a candle.\n\nTa-da! Pause Power!\n\nThis is a great trick to use when you are feeling frustrated because it will help to calm you down.",
+      "transcript_m": "Cierra los ojos y piensa en tu día.\n\nNombra una cosa por la que te sientes agradecido.\nNombra una cosa que hiciste bien.\nNombra una cosa que amas.\n\nMuy bien. Gracias por acompañarnos hoy en Crianza Responsable y Amorosa.",
+      "transcript_f": "¡Hola! ¿Cómo te sientes ahora? ¿Feliz, triste, enojado(a), emocionado(a), preocupado(a)?\n\nNota dónde sientes eso en tu cuerpo. Nota qué pensamientos están conectados con esa emoción. Toma una respiración profunda.\n\nAgradece por tomarte este momento para revisar tus sentimientos y pensamientos.",
+      "title": "Momento de atención plena",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Momento de atención plena"
+        }
+      },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "check_in_59",
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "¡Tomarte un momento para ti hace una gran diferencia para todas y todos!",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "_translatedFields": {
         "text_1": {
           "eng": "¡Tomarte un momento para ti hace una gran diferencia para todas y todos!"
@@ -54,25 +51,40 @@
           "eng": "Feliz"
         },
         "quiz_1_option_2_text": {
-          "eng": "Bien"
+          "eng": "Regular"
         },
         "quiz_1_option_3_text": {
           "eng": "Triste"
         }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "¡Tomarte un momento para ti hace una gran diferencia para todas y todos!",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
       },
       "quiz_1_feedback_1": "¡Que bien que hoy esté siendo un buen día! ¿Puedes pensar en algo que ha salido bien hoy? Recuerda reconocerte por ello.",
       "quiz_1_feedback_2": "Cada día tiene cosas buenas y malas. Reconócete por todo lo que has hecho hasta ahora: eres increíble.",
       "quiz_1_feedback_3": "Lamento que hoy estés sintiendo emociones difíciles. Buen trabajo por reconocerlas y por intentar ser amable contigo. Estás dando un gran ejemplo a tu familia.",
       "quiz_1_question": "¿Cómo te sientes el día de hoy?",
       "quiz_1_option_1_text": "Feliz",
-      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "La sesión de estrategias de crianza para el día de hoy trata sobre cómo ayudar a @fields.child_name a aprender de sus errores."
@@ -81,18 +93,19 @@
           "eng": "Aprender de nuestros errores puede ayudar a evitarlos en el futuro. También puede ayudar a tratarnos con más empatía y con menos dureza cuando las cosas no van bien. 😃"
         }
       },
+      "category_id": "intro",
+      "nested": false,
       "text_1_facilitator": "La sesión de estrategias de crianza para el día de hoy trata sobre cómo ayudar a @fields.child_name a aprender de sus errores.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {}
       },
       "text_2": "Aprender de nuestros errores puede ayudar a evitarlos en el futuro. También puede ayudar a tratarnos con más empatía y con menos dureza cuando las cosas no van bien. 😃",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Aquí tienes una historieta sobre cómo aprender de los errores:"
@@ -104,6 +117,8 @@
           "eng": "Fracasé el examen de matemáticas."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Aquí tienes una historieta sobre cómo aprender de los errores:",
       "_translations": {
         "text_1_facilitator": {},
@@ -115,12 +130,11 @@
       "character_2_id": "f2_hijo_15",
       "character_1_text": "¿Qué pasó, @data.characters.f2_hijo_15.name?",
       "character_2_text": "Fracasé el examen de matemáticas.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Siento escuchar que te haya ido mal. Seguramente estás muy frustrado."
@@ -129,6 +143,8 @@
           "eng": "Sí, sobre todo porque pensaba que ya lo había entendido todo."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/learn/learning_mistakes_teen_2.svg",
       "character_1_id": "f2_abuela",
       "character_2_id": "f2_hijo_15",
@@ -138,12 +154,11 @@
         "character_2_text": {}
       },
       "character_2_text": "Sí, sobre todo porque pensaba que ya lo había entendido todo.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Sé que eres increíble e inteligente. ¿Sabes qué pasó? ¿Por qué te fue mal?"
@@ -152,6 +167,8 @@
           "eng": "Supongo me sentía muy seguro y, pues, no estudié."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/learn/learning_mistakes_teen_3.svg",
       "character_1_id": "f2_abuela",
       "character_2_id": "f2_hijo_15",
@@ -161,12 +178,11 @@
         "character_2_text": {}
       },
       "character_2_text": "Supongo me sentía muy seguro y, pues, no estudié.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Ah bueno, al menos ahora sabes que es importante estudiar para cada examen, por muy seguro que te sientas. ¿Quieres que te ayude a recordarlo para la próxima vez?"
@@ -175,6 +191,8 @@
           "eng": "Así está bien, abuela. Lo recordaré. Gracias por entender."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/learn/learning_mistakes_teen_4.svg",
       "character_1_id": "f2_abuela",
       "character_2_id": "f2_hijo_15",
@@ -184,30 +202,30 @@
         "character_2_text": {}
       },
       "character_2_text": "Así está bien, abuela. Lo recordaré. Gracias por entender.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "practical_tips_1",
       "media_type": "youtube",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Selecciona reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender de sus errores:\n\n1️⃣ HABLAR\n2️⃣ ELOGIAR EL ESFUERZO\n3️⃣ PERMITIR QUE LOS ERRORES SUCEDAN\n4️⃣ COMPARTIR"
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "text_1_facilitator": "Selecciona reproducir ▶️ para ver cómo ayudar a @fields.child_name a aprender de sus errores:\n\n1️⃣ HABLAR\n2️⃣ ELOGIAR EL ESFUERZO\n3️⃣ PERMITIR QUE LOS ERRORES SUCEDAN\n4️⃣ COMPARTIR",
       "_translations": {
         "text_1_facilitator": {}
       },
       "youtube_gb_en_f": "youtube link",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=16A33t17YNo",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "practical_tips_2",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
@@ -237,6 +255,8 @@
           "eng": "📖 Intenta compartir tus propios errores con tu adolescente y habla de cómo estos te ayudaron a desarrollarte y crecer.\n\n✅Esto le ayuda a tu adolescente a aprender que no tenemos que ser perfectas o perfectos en la vida."
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
@@ -261,12 +281,11 @@
       "section_3_text": "🌱 Permite que tu adolescente cometa errores. Deja que aprenda de sus propios errores para que pueda seguir aprendiendo y creciendo.\n\n❓ Es tentador querer resolverle todos los problemas a tu adolescente, sobre todo cuando sabes cuáles podrían ser las soluciones. Pero esto no le enseñará a tu adolescente a resolver sus propios problemas.\n\n😃 Habla con tu adolescente sobre sus errores, permite que encuentre una forma de resolver sus problemas y cómo puede hacerlo mejor la próxima vez.",
       "section_4_title": "COMPARTE",
       "section_4_text": "📖 Intenta compartir tus propios errores con tu adolescente y habla de cómo estos te ayudaron a desarrollarte y crecer.\n\n✅Esto le ayuda a tu adolescente a aprender que no tenemos que ser perfectas o perfectos en la vida.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "**Actividad para casa** ⭐ \n\nComparte con tu adolescente alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra sesión de vida que tuviste."
@@ -293,6 +312,8 @@
           "eng": "¡Entendemos! Si hoy no tienes tiempo, puedes apartar un poco para mañana. ⏰"
         }
       },
+      "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "¡Excelente! 💡 Usa estas estrategias que aprendiste hoy para ayudar a tu adolescente a fortalecer su agilidad mental.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -311,7 +332,8 @@
       "quiz_1_option_2_text": "Lo intentaré",
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa** ⭐ \n\nComparte con tu adolescente alguna ocasión en la que aprendiste de un error. Puede ser de la escuela o de otra sesión de vida que tuviste.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     }
   ],
   "_metadata": {

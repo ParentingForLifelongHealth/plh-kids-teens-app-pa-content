@@ -58,7 +58,7 @@
       "title::eng": "Identificar emociones",
       "home_activity::eng": "¡Excelente trabajo!\n\nAhora es momento de practicar pasar al menos 15 minutos al día conectando y compartiendo tiempo especial juntos con @fields.child_name.",
       "image_asset": "images/homescreen/understand_t.svg",
-      "relax_id": "relax_4",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_4"
     },
     {
@@ -72,7 +72,7 @@
       "title::eng": "Mantener la calma cuando hay estrés",
       "home_activity::eng": "¡Excelente trabajo!\n\nAhora es momento de practicar pasar al menos 15 minutos al día conectando y compartiendo tiempo especial juntos con @fields.child_name.",
       "image_asset": "images/homescreen/behave_c.svg",
-      "relax_id": "relax_5",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_5"
     },
     {
@@ -86,7 +86,7 @@
       "title::eng": "Pasar tiempo juntos y conectados",
       "home_activity::eng": "¡Muy bien!  \n\nEs momento de dedicar al menos 15 minutos del día para compartir, jugar o conversar con @fields.child_name y disfrutar un momento especial juntos.",
       "image_asset": "images/homescreen/behave_t.svg",
-      "relax_id": "relax_9",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_6"
     },
     {
@@ -100,7 +100,7 @@
       "title::eng": "Dar reconocimiento",
       "home_activity::eng": "Continúa practicando el reconocer y valorar las cosas positivas que hace @fields.child_name, incluso en los pequeños esfuerzos del día a día.",
       "image_asset": "images/homescreen/safety_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_7"
     },
     {
@@ -113,7 +113,7 @@
       "number": 8,
       "title::eng": "Crear rutinas",
       "image_asset": "images/homescreen/safety_t.svg",
-      "relax_id": "relax_2",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_8"
     },
     {
@@ -126,7 +126,7 @@
       "number": 9,
       "title::eng": "Identificar emociones",
       "image_asset": "images/homescreen/learn_c.svg",
-      "relax_id": "relax_3",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_9"
     },
     {
@@ -139,7 +139,7 @@
       "number": 10,
       "title::eng": "Mantener la calma cuando hay estrés",
       "image_asset": "images/homescreen/learn_t.svg",
-      "relax_id": "relax_4",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_10"
     },
     {
@@ -153,7 +153,7 @@
       "title::eng": "Escuchar y conversar efectivamente",
       "home_activity::eng": "¡Excelente trabajo!\n\nAhora dedica un momento para conversar con tu pareja o familiar sobre cómo apoyarse mutuamente en la crianza, el cuidado y las responsabilidades del hogar.",
       "image_asset": "images/homescreen/ipv.svg",
-      "relax_id": "relax_5",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_11"
     },
     {
@@ -223,7 +223,7 @@
       "title::eng": "Enseñar sobre autocuidado y prevención del abuso a mi niño",
       "home_activity::eng": "¡Muy bien!\n\nContinúa acompañando a @fields.child_name a crear o revisar su mapa de seguridad y conversar sobre las personas y lugares seguros a los que puede acudir.\n",
       "image_asset": "images/homescreen/behave_c.svg",
-      "relax_id": "relax_4",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_16"
     },
     {
@@ -237,7 +237,7 @@
       "title::eng": "Enseñar sobre autocuidado y prevención del abuso a mi niña",
       "home_activity::eng": "¡Muy bien!\n\nContinúa acompañando a @fields.child_name a crear o revisar su mapa de seguridad y conversar sobre las personas y lugares seguros a los que puede acudir.\n",
       "image_asset": "images/homescreen/behave_t.svg",
-      "relax_id": "relax_5",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_17"
     },
     {
@@ -251,7 +251,7 @@
       "title::eng": "Enseñar sobre autocuidado y prevención del abuso a mi niña o niño",
       "home_activity::eng": "¡Muy bien!\n\nContinúa acompañando a @fields.child_name a crear o revisar su mapa de seguridad y conversar sobre las personas y lugares seguros a los que puede acudir.\n",
       "image_asset": "images/homescreen/safety_c.svg",
-      "relax_id": "relax_9",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_18"
     },
     {
@@ -265,7 +265,7 @@
       "title::eng": "Crear un plan de seguridad con mi niña o niño",
       "home_activity::eng": "¡Muy bien!\n\nContinúa acompañando a @fields.child_name a crear o revisar su mapa de seguridad y conversar sobre las personas y lugares seguros a los que puede acudir.\n",
       "image_asset": "images/homescreen/safety_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_19"
     },
     {
@@ -279,7 +279,7 @@
       "title::eng": "Crear un plan de seguridad con mi niña o niño",
       "home_activity::eng": "¡Muy bien!\n\nContinúa acompañando a @fields.child_name a crear o revisar su mapa de seguridad y conversar sobre las personas y lugares seguros a los que puede acudir.\n",
       "image_asset": "images/homescreen/learn_c.svg",
-      "relax_id": "relax_2",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_20"
     },
     {
@@ -293,7 +293,7 @@
       "title::eng": "Saber responder ante alguna crisis",
       "home_activity::eng": "¡Muy bien!\n\nContinúa acompañando a @fields.child_name a crear o revisar su mapa de seguridad y conversar sobre las personas y lugares seguros a los que puede acudir.\n",
       "image_asset": "images/homescreen/learn_t.svg",
-      "relax_id": "relax_3",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_21"
     },
     {
@@ -307,7 +307,7 @@
       "title::eng": "Saber responder ante alguna crisis",
       "home_activity::eng": "¡Muy bien!\n\nContinúa acompañando a @fields.child_name a crear o revisar su mapa de seguridad y conversar sobre las personas y lugares seguros a los que puede acudir.\n",
       "image_asset": "images/homescreen/ipv.svg",
-      "relax_id": "relax_4",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_22"
     },
     {
@@ -321,7 +321,7 @@
       "title::eng": "Usar con responsabilidad y seguridad los dispositivos y espacios virtuales",
       "home_activity::eng": "¡Muy bien!\n\nContinúa acompañando a @fields.child_name a crear o revisar su mapa de seguridad y conversar sobre las personas y lugares seguros a los que puede acudir.\n",
       "image_asset": "images/homescreen/relation_c.svg",
-      "relax_id": "relax_5",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_23"
     },
     {
@@ -391,7 +391,7 @@
       "title::eng": "Saber responder ante alguna crisis",
       "home_activity::eng": "¡Muy bien!\n\nEs tiempo de aplicar esta nueva habilidad. Conversa con @fields.child_name sobre personas, lugares y acciones que pueden ayudarle a mantenerse seguro/a ante situaciones de riesgo.",
       "image_asset": "images/homescreen/behave_t.svg",
-      "relax_id": "relax_4",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_28"
     },
     {
@@ -405,7 +405,7 @@
       "title::eng": "Usar con responsabilidad y seguridad los dispositivos y espacios virtuales",
       "home_activity::eng": "¡Muy bien!\n\nEs tiempo de aplicar esta nueva habilidad. Conversa con @fields.child_name sobre personas, lugares y acciones que pueden ayudarle a mantenerse seguro/a ante situaciones de riesgo.",
       "image_asset": "images/homescreen/safety_c.svg",
-      "relax_id": "relax_5",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_29"
     },
     {
@@ -419,7 +419,7 @@
       "title::eng": "Desarrollar confianza y hábitos seguros para el uso de internet y redes sociales",
       "home_activity::eng": "¡Excelente trabajo!\n\nHoy puedes intentar aplicar esta estrategia. Conversa con @fields.child_name sobre hábitos seguros y responsables para usar internet, las redes sociales y los dispositivos digitales.",
       "image_asset": "images/homescreen/safety_t.svg",
-      "relax_id": "relax_9",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_30"
     },
     {
@@ -433,7 +433,7 @@
       "title::eng": "Estrategias para regular la ira",
       "home_activity::eng": "¡Muy bien!\n\nUn pequeño momento de práctica puede hacer una gran diferencia. Conversa con @fields.child_name sobre el enojo y practiquen juntos una estrategia que ayude a calmarse y sentirse mejor en momentos difíciles.",
       "image_asset": "images/homescreen/learn_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_31"
     },
     {
@@ -447,7 +447,7 @@
       "title::eng": "Enseñar colaboración: enfocarse en lo positivo",
       "home_activity::eng": "¡Muy bien!\n\nUn pequeño momento de práctica puede hacer una gran diferencia. Conversa con @fields.child_name sobre el enojo y practiquen juntos una estrategia que ayude a calmarse y sentirse mejor en momentos difíciles.",
       "image_asset": "images/homescreen/learn_t.svg",
-      "relax_id": "relax_2",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_32"
     },
     {
@@ -461,7 +461,7 @@
       "title::eng": "Acordar reglas en familia",
       "home_activity::eng": "¡Muy bien!\n\nUn pequeño momento de práctica puede hacer una gran diferencia. Conversa con @fields.child_name sobre el enojo y practiquen juntos una estrategia que ayude a calmarse y sentirse mejor en momentos difíciles.",
       "image_asset": "images/homescreen/ipv.svg",
-      "relax_id": "relax_3",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_33"
     },
     {
@@ -475,7 +475,7 @@
       "title::eng": "Estrategias para reducir problemas de comportamiento.",
       "home_activity::eng": "¡Muy bien!\n\nUn pequeño momento de práctica puede hacer una gran diferencia. Conversa con @fields.child_name sobre el enojo y practiquen juntos una estrategia que ayude a calmarse y sentirse mejor en momentos difíciles.",
       "image_asset": "images/homescreen/relation_c.svg",
-      "relax_id": "relax_4",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_34"
     },
     {
@@ -489,7 +489,7 @@
       "title::eng": "Estrategias para reducir problemas de comportamiento: consecuencias justas.",
       "home_activity::eng": "¡Muy bien!\n\nUn pequeño momento de práctica puede hacer una gran diferencia. Conversa con @fields.child_name sobre el enojo y practiquen juntos una estrategia que ayude a calmarse y sentirse mejor en momentos difíciles.",
       "image_asset": "images/homescreen/relation_t.svg",
-      "relax_id": "relax_5",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_35"
     },
     {
@@ -559,7 +559,7 @@
       "title::eng": "Acordar reglas en familia",
       "home_activity::eng": "¡Excelente trabajo!\n\nAhora puedes practicar lo que aprendiste. Conversa con tu adolescente sobre lo que siente cuando se enoja y practiquen juntos una estrategia que le ayude a manejar sus emociones de forma positiva.",
       "image_asset": "images/homescreen/safety_c.svg",
-      "relax_id": "relax_4",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_40"
     },
     {
@@ -573,7 +573,7 @@
       "title::eng": "Estrategias para reducir problemas de comportamiento: consecuencias justas.",
       "home_activity::eng": "¡Excelente trabajo!\n\nAhora puedes practicar lo que aprendiste. Conversa con tu adolescente sobre lo que siente cuando se enoja y practiquen juntos una estrategia que le ayude a manejar sus emociones de forma positiva.",
       "image_asset": "images/homescreen/safety_t.svg",
-      "relax_id": "relax_5",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_41"
     },
     {
@@ -587,7 +587,7 @@
       "title::eng": "Resolver problemas con mi adolescente",
       "home_activity::eng": "¡Excelente trabajo!\n\nAhora puedes practicar lo que aprendiste. Conversa con tu adolescente sobre lo que siente cuando se enoja y practiquen juntos una estrategia que le ayude a manejar sus emociones de forma positiva.",
       "image_asset": "images/homescreen/learn_c.svg",
-      "relax_id": "relax_9",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_42"
     },
     {
@@ -601,7 +601,7 @@
       "title::eng": "Conocer el papel de las personas en la familia: todas y todos importamos",
       "home_activity::eng": "¡Excelente trabajo!\n\nAhora puedes practicar lo que aprendiste. Conversa con tu adolescente sobre lo que siente cuando se enoja y practiquen juntos una estrategia que le ayude a manejar sus emociones de forma positiva.",
       "image_asset": "images/homescreen/learn_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_43"
     },
     {
@@ -615,7 +615,7 @@
       "title::eng": "Estimular el lenguaje de mi niña o niño",
       "home_activity::eng": "¡Muy bien!\n\nPongamos en práctica lo aprendido. Dedica 15 minutos para acompañar a @fields.child_name en una actividad de aprendizaje, como leer, jugar, conversar o apoyarle con una tarea.",
       "image_asset": "images/homescreen/ipv.svg",
-      "relax_id": "relax_2",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_44"
     },
     {
@@ -629,7 +629,7 @@
       "title::eng": "Disfrutar y favorecer la lectura",
       "home_activity::eng": "¡Muy bien!\n\nPongamos en práctica lo aprendido. Dedica 15 minutos para acompañar a @fields.child_name en una actividad de aprendizaje, como leer, jugar, conversar o apoyarle con una tarea.",
       "image_asset": "images/homescreen/relation_c.svg",
-      "relax_id": "relax_3",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_45"
     },
     {
@@ -643,7 +643,7 @@
       "title::eng": "Disfrutar y favorecer la lectura: parte 1",
       "home_activity::eng": "¡Muy bien!\n\nPongamos en práctica lo aprendido. Dedica 15 minutos para acompañar a @fields.child_name en una actividad de aprendizaje, como leer, jugar, conversar o apoyarle con una tarea.",
       "image_asset": "images/homescreen/relation_t.svg",
-      "relax_id": "relax_4",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_46"
     },
     {
@@ -657,7 +657,7 @@
       "title::eng": "Disfrutar y favorecer la lectura: parte 2",
       "home_activity::eng": "¡Muy bien!\n\nPongamos en práctica lo aprendido. Dedica 15 minutos para acompañar a @fields.child_name en una actividad de aprendizaje, como leer, jugar, conversar o apoyarle con una tarea.",
       "image_asset": "images/homescreen/understand_c.svg",
-      "relax_id": "relax_5",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_47"
     },
     {
@@ -727,7 +727,7 @@
       "title::eng": "Hacer divertido el aprendizaje",
       "home_activity::eng": "¡Muy bien!\n\nPongamos en práctica lo aprendido. Dedica 15 minutos para acompañar a @fields.child_name en una actividad de aprendizaje, como leer, jugar, conversar o apoyarle con una tarea.",
       "image_asset": "images/homescreen/safety_t.svg",
-      "relax_id": "relax_4",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_52"
     },
     {
@@ -741,7 +741,7 @@
       "title::eng": "Apoyar el aprendizaje de mi niña o niño",
       "home_activity::eng": "¡Muy bien!\n\nPongamos en práctica lo aprendido. Dedica 15 minutos para acompañar a @fields.child_name en una actividad de aprendizaje, como leer, jugar, conversar o apoyarle con una tarea.",
       "image_asset": "images/homescreen/learn_c.svg",
-      "relax_id": "relax_5",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_53"
     },
     {
@@ -755,7 +755,7 @@
       "title::eng": "Crear un ambiente positivo para el aprendizaje de mi niña o niño",
       "home_activity::eng": "¡Muy bien!\n\nPongamos en práctica lo aprendido. Dedica 15 minutos para acompañar a @fields.child_name en una actividad de aprendizaje, como leer, jugar, conversar o apoyarle con una tarea.",
       "image_asset": "images/homescreen/learn_t.svg",
-      "relax_id": "relax_9",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_54"
     },
     {
@@ -769,7 +769,7 @@
       "title::eng": "Aprender de la experiencia",
       "home_activity::eng": "¡Muy bien!\n\nPongamos en práctica lo aprendido. Dedica 15 minutos para acompañar a @fields.child_name en una actividad de aprendizaje, como leer, jugar, conversar o apoyarle con una tarea.",
       "image_asset": "images/homescreen/ipv.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_55"
     },
     {
@@ -783,7 +783,7 @@
       "title::eng": "Hacer divertido el aprendizaje",
       "home_activity::eng": "¡Lleva este aprendizaje a tu día a día! \n\nApoya a @fields.child_name a fijar un objetivo de estudio o para completar su tarea de la semana.",
       "image_asset": "images/homescreen/relation_c.svg",
-      "relax_id": "relax_2",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_56"
     },
     {
@@ -797,7 +797,7 @@
       "title::eng": "Apoyar el aprendizaje de mi adolescente",
       "home_activity::eng": "¡Lleva este aprendizaje a tu día a día! \n\nApoya a @fields.child_name a fijar un objetivo de estudio o para completar su tarea de la semana.",
       "image_asset": "images/homescreen/relation_t.svg",
-      "relax_id": "relax_3",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_57"
     },
     {
@@ -811,7 +811,7 @@
       "title::eng": "Crear un ambiente positivo y de aprendizaje para mi adolescente",
       "home_activity::eng": "¡Lleva este aprendizaje a tu día a día! \n\nApoya a @fields.child_name a fijar un objetivo de estudio o para completar su tarea de la semana.",
       "image_asset": "images/homescreen/understand_c.svg",
-      "relax_id": "relax_4",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_58"
     },
     {
@@ -825,7 +825,7 @@
       "title::eng": "Aprender de la experiencia",
       "home_activity::eng": "¡Lleva este aprendizaje a tu día a día! \n\nApoya a @fields.child_name a fijar un objetivo de estudio o para completar su tarea de la semana.",
       "image_asset": "images/homescreen/understand_t.svg",
-      "relax_id": "relax_5",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_59"
     },
     {
@@ -895,7 +895,7 @@
       "title::eng": "Conocer los cambios de mi niña o niño",
       "home_activity::eng": "¡Excelente trabajo!\n\nRecuerda que aprender toma tiempo y práctica. Puedes comenzar hoy dedicando un momento para apoyar a tu adolescente con una meta, una actividad escolar o una tarea, acompañándole con interés y motivación.",
       "image_asset": "images/homescreen/learn_c.svg",
-      "relax_id": "relax_4",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_64"
     },
     {
@@ -909,7 +909,7 @@
       "title::eng": "Conocer los cambios de mi niña o niño",
       "home_activity::eng": "¡Excelente trabajo!\n\nRecuerda que aprender toma tiempo y práctica. Puedes comenzar hoy dedicando un momento para apoyar a tu adolescente con una meta, una actividad escolar o una tarea, acompañándole con interés y motivación.",
       "image_asset": "images/homescreen/learn_t.svg",
-      "relax_id": "relax_5",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_65"
     },
     {
@@ -923,7 +923,7 @@
       "title::eng": "Regular tu estrés como madre, padre o persona cuidadora - parte 1",
       "home_activity::eng": "¡Excelente trabajo!\n\nRecuerda que aprender toma tiempo y práctica. Puedes comenzar hoy dedicando un momento para apoyar a tu adolescente con una meta, una actividad escolar o una tarea, acompañándole con interés y motivación.",
       "image_asset": "images/homescreen/ipv.svg",
-      "relax_id": "relax_9",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_66"
     },
     {
@@ -937,7 +937,7 @@
       "title::eng": "Regular tu estrés como madre, padre o persona cuidadora - parte 2",
       "home_activity::eng": "¡Excelente trabajo!\n\nRecuerda que aprender toma tiempo y práctica. Puedes comenzar hoy dedicando un momento para apoyar a tu adolescente con una meta, una actividad escolar o una tarea, acompañándole con interés y motivación.",
       "image_asset": "images/homescreen/relation_c.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_67"
     },
     {
@@ -951,7 +951,7 @@
       "title::eng": "Regular tu estrés como madre, padre o persona cuidadora - parte 1",
       "home_activity::eng": "¡Muy bien!\n\nHoy puedes intentar aplicar esta estrategia. Dedica un momento para conversar con tu adolescente sobre las situaciones que le generan estrés y escúchale con atención y calma.",
       "image_asset": "images/homescreen/relation_t.svg",
-      "relax_id": "relax_2",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_68"
     },
     {
@@ -965,7 +965,7 @@
       "title::eng": "Regular tu estrés como madre, padre o persona cuidadora - parte 2",
       "home_activity::eng": "¡Muy bien!\n\nHoy puedes intentar aplicar esta estrategia. Dedica un momento para conversar con tu adolescente sobre las situaciones que le generan estrés y escúchale con atención y calma.",
       "image_asset": "images/homescreen/understand_c.svg",
-      "relax_id": "relax_3",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_69"
     },
     {
@@ -979,7 +979,7 @@
       "title::eng": "Fomentar la confianza de mi adolescente",
       "home_activity::eng": "¡Muy bien!\n\nHoy puedes intentar aplicar esta estrategia. Dedica un momento para conversar con tu adolescente sobre las situaciones que le generan estrés y escúchale con atención y calma.",
       "image_asset": "images/homescreen/understand_t.svg",
-      "relax_id": "relax_4",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_70"
     },
     {
@@ -993,7 +993,7 @@
       "title::eng": "Cultivar la motivación de construir un futuro en mi adolescente",
       "home_activity::eng": "¡Muy bien!\n\nHoy puedes intentar aplicar esta estrategia. Dedica un momento para conversar con tu adolescente sobre las situaciones que le generan estrés y escúchale con atención y calma.",
       "image_asset": "images/homescreen/behave_c.svg",
-      "relax_id": "relax_5",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_71"
     },
     {

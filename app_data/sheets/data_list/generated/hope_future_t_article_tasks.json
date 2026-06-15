@@ -4,36 +4,33 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_5",
-      "title_eng": "In and out",
-      "title": "Inhala y exhala",
-      "lottie_asset": "lottie/relax/blue_dots.json",
-      "media_asset": "audio/relax/relax_5.m4a",
+      "id": "relax_3",
+      "in_library": "yes",
+      "title_oringinal_eng": "Mindful moment",
+      "lottie_asset": "lottie/relax/looping_rings.json",
+      "media_asset_m": "audio/relax/male/relax_3.m4a",
+      "media_asset_f": "audio/relax/female/relax_15.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
-      "transcript": "Cierra los ojos.\n\nEscucha tu respiración mientras entra y sale cinco veces.\n\nNota cómo te sientes.\n\nCuando estés listo(a), abre los ojos otra vez. ¡Tú tienes el control!",
+      "transcript_m_original_eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
+      "transcript_f_original_eng": "Let’s practice a calming trick that we call ‘Pause Power’.\n\nPlant your feet on the ground and breathe in and out three times as slowly as you can. Imagine you are smelling a flower or blowing out a candle.\n\nTa-da! Pause Power!\n\nThis is a great trick to use when you are feeling frustrated because it will help to calm you down.",
+      "transcript_m": "Cierra los ojos y piensa en tu día.\n\nNombra una cosa por la que te sientes agradecido.\nNombra una cosa que hiciste bien.\nNombra una cosa que amas.\n\nMuy bien. Gracias por acompañarnos hoy en Crianza Responsable y Amorosa.",
+      "transcript_f": "¡Hola! ¿Cómo te sientes ahora? ¿Feliz, triste, enojado(a), emocionado(a), preocupado(a)?\n\nNota dónde sientes eso en tu cuerpo. Nota qué pensamientos están conectados con esa emoción. Toma una respiración profunda.\n\nAgradece por tomarte este momento para revisar tus sentimientos y pensamientos.",
+      "title": "Momento de atención plena",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Momento de atención plena"
+        }
+      },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "check_in_71",
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Recuerda que TÚ importas. Empecemos por conectar con nuestras emociones.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "_translatedFields": {
         "text_1": {
           "eng": "Recuerda que TÚ importas. Empecemos por conectar con nuestras emociones."
@@ -54,25 +51,40 @@
           "eng": "Feliz"
         },
         "quiz_1_option_2_text": {
-          "eng": "Bien"
+          "eng": "Regular"
         },
         "quiz_1_option_3_text": {
           "eng": "Triste"
         }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Recuerda que TÚ importas. Empecemos por conectar con nuestras emociones.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
       },
       "quiz_1_feedback_1": "Muy bien por reconocer una emoción positiva. Me alegra saber que hoy te sientes bien.",
       "quiz_1_feedback_2": "Muy bien por reconocer que hoy no te sientes del todo bien. Sé amable contigo, te lo mereces.",
       "quiz_1_feedback_3": "Muy bien por reconocer una emoción difícil. Está bien no estar bien de vez en cuando. Recuerda que @global.app_name está aquí para apoyarte.",
       "quiz_1_question": "¿Cómo te sientes el día de hoy?",
       "quiz_1_option_1_text": "Feliz",
-      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "La sesión de hoy trata sobre cómo cultivar la motivación de tu adolescente para construir su futuro."
@@ -144,6 +156,8 @@
           "eng": "👀 ¡Ups! ¡Buen intento!\n\n🏆Las personas con mucha esperanza a menudo pueden seguir siendo resilientes cuando se enfrentan a retos, porque creen que pueden encontrar soluciones, incluso cuando las cosas son muy retadoras.\n\n🏅Cuando @fields.child_name no tiene esperanzas en el futuro, es probable que se rinda o evite las cosas difíciles en el futuro. Esto les dificulta crecer y tener éxito a largo plazo."
         }
       },
+      "category_id": "intro",
+      "nested": false,
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n💙 Tener ideas y motivación sobre el futuro puede hacer que @fields.child_name se sienta mejor con su proceso. Puede ayudarle a sentir confianza al momento de establecer sus metas y trabajar para conseguirlas. También puede hacer que tenga menos miedo de pensar en lo que ocurrirá.  \n\n💛 Si @fields.child_name no siente motivación sobre su futuro, puede ser que sienta inseguridad y preocupación sobre lo que ocurrirá después, o que se sienta un poco perdido.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -192,30 +206,30 @@
       "quiz_3_feedback_2": "🎉 ¡Buen trabajo!\n\n🏆Las personas con mucha esperanza a menudo pueden seguir siendo resilientes cuando se enfrentan a retos, porque creen que pueden encontrar soluciones, incluso cuando las cosas son muy retadoras.\n\n🏅Cuando @fields.child_name no tiene esperanzas en el futuro, es probable que se rinda o evite las cosas difíciles en el futuro. Esto les dificulta crecer y tener éxito a largo plazo.",
       "quiz_3_option_3_text": "3. Evitar hacer cosas difíciles en el futuro.",
       "quiz_3_feedback_3": "👀 ¡Ups! ¡Buen intento!\n\n🏆Las personas con mucha esperanza a menudo pueden seguir siendo resilientes cuando se enfrentan a retos, porque creen que pueden encontrar soluciones, incluso cuando las cosas son muy retadoras.\n\n🏅Cuando @fields.child_name no tiene esperanzas en el futuro, es probable que se rinda o evite las cosas difíciles en el futuro. Esto les dificulta crecer y tener éxito a largo plazo.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "practical_tips_1",
       "media_type": "youtube",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Selecciona reproducir ▶️ para aprender 4️⃣ estrategias para ayudar a @fields.child_name a generar ideas y mantener la motivación de construir su futuro y enfrentarse a las dificultades:\n\n1️⃣ ACEPTAR LOS RETOS\n2️⃣ APRENDER DE LOS ERRORES\n3️⃣ PRACTICAR, PRACTICAR, PRACTICAR\n4️⃣ MANTENTER EL APOYO"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Selecciona reproducir ▶️ para aprender 4️⃣ estrategias para ayudar a @fields.child_name a generar ideas y mantener la motivación de construir su futuro y enfrentarse a las dificultades:\n\n1️⃣ ACEPTAR LOS RETOS\n2️⃣ APRENDER DE LOS ERRORES\n3️⃣ PRACTICAR, PRACTICAR, PRACTICAR\n4️⃣ MANTENTER EL APOYO",
       "_translations": {
         "text_1_facilitator": {}
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=Vjv8LtJMdEg",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=Ak548cMqf1g",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "practical_tips_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
@@ -245,6 +259,8 @@
           "eng": "☀️ Como madre, padre o persona cuidadora, busca ser una fuente de amabilidad y comprensión para @fields.child_name, sobre todo cuando tenga dificultades. \n\n⭐ Acuérdate de tener en cuenta los límites de @fields.child_name al enfrentarse a un reto. Un empujoncito está bien pero es importante asegurarte de que @fields.child_name tiene la motivación adecuada para seguir adelante. \n\n🌈 ¡Cuando @fields.child_name se sienta a gusto compartiendo sus victorias y sus luchas contigo, tendrá mayor confianza para establecer metas más grandes y será más persistente a la hora de buscar lograrlas!\n\n🎈Muéstrale a @fields.child_name que estás ahí para apoyarle y que tienes la confianza en que puede superar cualquier reto que se le presente."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
@@ -269,12 +285,11 @@
       "section_3_text": "👋 Cada vez que @fields.child_name se enfrenta a un reto es como un ejercicio para su cerebro y le ayuda a crecer. Es como cuando mejoramos al practicar un deporte o un instrumento nuevo.\n\n🌱 Anima a @fields.child_name a enfrentarse a los retos que se le vayan presentando y ayúdale en el camino. \n\n🌷 ¡Tú también puedes practicar el tener una mentalidad de crecimiento en tu vida cotidiana para hacerte cada vez más capaz!",
       "section_4_title": "MANTENER EL APOYO",
       "section_4_text": "☀️ Como madre, padre o persona cuidadora, busca ser una fuente de amabilidad y comprensión para @fields.child_name, sobre todo cuando tenga dificultades. \n\n⭐ Acuérdate de tener en cuenta los límites de @fields.child_name al enfrentarse a un reto. Un empujoncito está bien pero es importante asegurarte de que @fields.child_name tiene la motivación adecuada para seguir adelante. \n\n🌈 ¡Cuando @fields.child_name se sienta a gusto compartiendo sus victorias y sus luchas contigo, tendrá mayor confianza para establecer metas más grandes y será más persistente a la hora de buscar lograrlas!\n\n🎈Muéstrale a @fields.child_name que estás ahí para apoyarle y que tienes la confianza en que puede superar cualquier reto que se le presente.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "**Actividad para casa**⭐ \n\n🌷 Conversa con @fields.child_name sobre alguna meta que le entusiasme. Puede ser aprender una habilidad nueva o prepararse para su futuro .  \n\n➡️ Colabora con @fields.child_name para idear tres pasos cortos que podría ir dando para empezar a avanzar hacia su meta.  \n\n👂Anímale a compartir sus pensamientos e ideas, y apóyale mientras elabora su plan.  \n\n🏁Usa las estrategias que aprendiste hoy para saber cómo manejar los retos a los que tu adolescente se podría enfrentar en el futuro."
@@ -301,6 +316,8 @@
           "eng": "▶️ ¡No pasa nada! Puedes intentarlo mañana o en otro momento de la semana.\n\n¡Dedicar tiempo a conectar con @fields.child_name y apoyarle para que tenga ideas y motivación sobre su futuro es algo muy valioso!\n\n⏰ Recuerda ser paciente, mantener una mente abierta y un discurso honesto con @fields.child_name.\n\nSi @fields.child_name se encuentra con algún reto en el camino, puedes aplicar las estrategias que aprendiste hoy para ayudarle a sobrellevar esos obstáculos contigo."
         }
       },
+      "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "⭐ ¡Eso es estupendo! Dedicar tiempo a conectar con @fields.child_name es muy valioso para ayudarles a tener ideas y motivación sobre su futuro.\n\n⏰ Recuerda ser paciente, mantener una mente abierta y un discurso honesto con @fields.child_name.\n\nSi @fields.child_name se encuentra con algún reto en el camino, puedes aplicar las estrategias que aprendiste hoy para ayudarle a sobrellevar esos obstáculos contigo.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -319,7 +336,8 @@
       "quiz_1_option_2_text": "Lo intentaré",
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\n🌷 Conversa con @fields.child_name sobre alguna meta que le entusiasme. Puede ser aprender una habilidad nueva o prepararse para su futuro .  \n\n➡️ Colabora con @fields.child_name para idear tres pasos cortos que podría ir dando para empezar a avanzar hacia su meta.  \n\n👂Anímale a compartir sus pensamientos e ideas, y apóyale mientras elabora su plan.  \n\n🏁Usa las estrategias que aprendiste hoy para saber cómo manejar los retos a los que tu adolescente se podría enfrentar en el futuro.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     }
   ],
   "_metadata": {

@@ -4,37 +4,33 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_9",
+      "id": "relax_2",
       "in_library": "yes",
-      "title_eng": "Body scan",
-      "title": "Escaneo corporal",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_9.m4a",
+      "title_oringinal_eng": "Power of three",
+      "lottie_asset": "lottie/relax/soothing_waves.json",
+      "media_asset_m": "audio/relax/male/relax_2.m4a",
+      "media_asset_f": "audio/relax/female/relax_14.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!",
-      "transcript": "Aquí tienes una actividad para relajar tu cuerpo:\n\nSiéntate cómodamente y cierra los ojos si puedes.\nImagina un aro dorado que escanea tu cuerpo desde los pies hasta la cabeza.\nPon atención mientras sube y baja por tu cuerpo. ¿Hay áreas que se sienten tensas? ¿Adormecidas? ¿Con dolor?\nConcéntrate en esas áreas por un momento. Respira hacia esa zona y, al exhalar, intenta soltar cualquier tensión o malestar.\nHazlo por algunas respiraciones.\n\nAbre los ojos. ¿Cómo se siente tu cuerpo ahora?\n\n¡También puedes probar esto la próxima vez que estés en la cama y no puedas dormir!",
+      "transcript_m_original_eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be grateful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
+      "transcript_f_original_eng": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!",
+      "transcript_m": "Cierra los ojos.\nVamos a usar el poder mágico del 3 para mantenernos presentes y relajarnos.\n\nNombra 3 sonidos que puedas escuchar ahora mismo.\nNombra 3 olores que puedas sentir ahora mismo.\nNombra tus 3 comidas favoritas.\n¿Cuáles son 3 cosas por las que puedes sentir gratitud ahora mismo?\n\nAl final de un día difícil, pensar en 3 cosas por las que estás agradecido(a) puede ayudarte a encontrar el valor para intentarlo de nuevo mañana.",
+      "transcript_f": "Cierra los ojos.\n\nTómate un momento para sentir el suelo bajo tus pies.\nPiensa en algo por lo que te sientas agradecido(a).\nConcéntrate en tu respiración.\nInhala y exhala.\n\nAdentro y afuera.",
+      "title": "El poder del 3",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "El poder del 3"
+        }
+      },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "check_in_6",
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Cuidarte es fundamental. Cuando reconoces cómo te sientes, puedes identificar lo que necesitas.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "_translatedFields": {
         "text_1": {
           "eng": "Cuidarte es fundamental. Cuando reconoces cómo te sientes, puedes identificar lo que necesitas."
@@ -55,25 +51,40 @@
           "eng": "Feliz"
         },
         "quiz_1_option_2_text": {
-          "eng": "Bien"
+          "eng": "Regular"
         },
         "quiz_1_option_3_text": {
           "eng": "Triste"
         }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Cuidarte es fundamental. Cuando reconoces cómo te sientes, puedes identificar lo que necesitas.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
       },
       "quiz_1_feedback_1": "¡Que alegría! Me da mucho gusto saber que las cosas van bien. Sigue así.",
       "quiz_1_feedback_2": "Todas las personas tenemos días buenos y días malos. El hecho de que estés aquí muestra tu compromiso y valentía.",
       "quiz_1_feedback_3": "Lamento que las cosas estén siendo difíciles. Es completamente normal pasar por momentos así. Recuerda que no estás sola/o.",
       "quiz_1_question": "¿Cómo te sientes el día de hoy?",
       "quiz_1_option_1_text": "Feliz",
-      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "¡Pasar tiempo juntos y conectados con @fields.child_name es una forma increíble de construir una buena relación entre ustedes! Esto mostrará que te interesas por lo que hace. 💙 \n\nTambién fomentará la confianza y el respeto, y les ayudará a aprender cosas nuevas. ✨"
@@ -94,6 +105,8 @@
           "eng": "🎉 ¡Tienes razón!\n\n🚲Tu adolescente puede escoger la actividad siempre y cuando sea segura. Esto aumentará su confianza y hará más probable que disfrute pasar tiempo contigo."
         }
       },
+      "category_id": "intro",
+      "nested": false,
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🚲 No tienes que planear una actividad. ¡Tu adolescente puede guiarte! Deja que escoja, siempre y cuando sea seguro. Esto aumentará su confianza y hará más probable que disfrute pasar tiempo contigo.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -108,12 +121,11 @@
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
       "text_1_facilitator": "¡Pasar tiempo juntos y conectados con @fields.child_name es una forma increíble de construir una buena relación entre ustedes! Esto mostrará que te interesas por lo que hace. 💙 \n\nTambién fomentará la confianza y el respeto, y les ayudará a aprender cosas nuevas. ✨",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Veamos como @data.characters.f1_padre.name y su hija @data.characters.f1_hija_13.name pasan tiempo juntos y conectados."
@@ -125,6 +137,8 @@
           "eng": "Bien, papá. Voy llegando de la escuela."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Veamos como @data.characters.f1_padre.name y su hija @data.characters.f1_hija_13.name pasan tiempo juntos y conectados.",
       "_translations": {
         "text_1_facilitator": {},
@@ -136,12 +150,11 @@
       "character_2_id": "f1_hija_13",
       "character_1_text": "@data.characters.f1_hija_13.name, ¿cómo estuvo tu día?",
       "character_2_text": "Bien, papá. Voy llegando de la escuela.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Quiero pasar tiempo contigo, antes de que tenga que volver al trabajo. ¿Qué quieres que hagamos juntos?"
@@ -153,6 +166,8 @@
           "eng": "¡Me encantaría!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/relation/one_on_one_teen_2.svg",
       "character_1_id": "f1_padre",
       "character_2_id": "f1_hija_13",
@@ -165,12 +180,11 @@
       "character_2_text": "Iba a hacer mi tarea de Biología. El tema de la tarea es crear algo usando materiales reciclados. ¿Me quieres ayudar?",
       "character_3_id": "f1_padre",
       "character_3_text": "¡Me encantaría!",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Yo estaba pensando en construir una casa reciclada usando botellas viejas, cartón y otros materiales reciclados. Mira, estos los recogí de camino a la casa. Estaban tirados junto a la parada del bus y enfrente de la tienda de la esquina."
@@ -179,6 +193,8 @@
           "eng": "¡Qué buena idea, @data.characters.f1_hija_13.name! Se nota que lo has pensado bien y que te interesa esta tarea. ¿Cómo quieres que te ayude?"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/relation/one_on_one_teen_3.svg",
       "character_1_id": "f1_hija_13",
       "character_2_id": "f1_padre",
@@ -188,12 +204,11 @@
         "character_2_text": {}
       },
       "character_2_text": "¡Qué buena idea, @data.characters.f1_hija_13.name! Se nota que lo has pensado bien y que te interesa esta tarea. ¿Cómo quieres que te ayude?",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "¿Me ayudas a limpiar estas botellas? Van a ser los pilares de la casa. Con los cartones haré las paredes y el techo. Después, estoy pensando que podríamos pintar los cartones y las botellas para que queden bonitos."
@@ -202,6 +217,8 @@
           "eng": "Creo que en algún lugar, tengo un poco de pintura que me sobró. Puedo buscarla más tarde."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/relation/one_on_one_teen_4.svg",
       "character_1_id": "f1_hija_13",
       "character_2_id": "f1_padre",
@@ -211,12 +228,11 @@
         "character_2_text": {}
       },
       "character_2_text": "Creo que en algún lugar, tengo un poco de pintura que me sobró. Puedo buscarla más tarde.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "explore_5",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "text_2": {
           "eng": "Más tarde, el mismo día"
@@ -231,6 +247,8 @@
           "eng": "A ver, cuéntame."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/comic/relation/one_on_one_teen_5.svg",
       "character_1_id": "f1_padre",
       "character_2_id": "f1_hija_13",
@@ -245,30 +263,30 @@
       "character_3_id": "f1_padre",
       "character_3_text": "A ver, cuéntame.",
       "text_2": "Más tarde, el mismo día",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "practical_tips_1",
       "media_type": "youtube",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Aquí tienes un video para aprender 3️⃣ estrategias de crianza para pasar tiempo juntos y conectados con @fields.child_name:\n\n1️⃣ PRACTICAR\n2️⃣ JUGAR\n3️⃣ PERMANECER"
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "text_1_facilitator": "Aquí tienes un video para aprender 3️⃣ estrategias de crianza para pasar tiempo juntos y conectados con @fields.child_name:\n\n1️⃣ PRACTICAR\n2️⃣ JUGAR\n3️⃣ PERMANECER",
       "_translations": {
         "text_1_facilitator": {}
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=SI5tIWR-Gzc",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=w6izPKu3ygE",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "practical_tips_2",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
@@ -292,6 +310,8 @@
           "eng": "📺 Elimina las distracciones como el televisor o el teléfono.\n\n👀 Presta atención a @fields.child_name. Afirma con la cabeza o usa frases como \"entiendo\" para demostrar que realmente le estás poniendo atención.\n\n💛 Acéptale como es y evita juzgarle.\n\n💡 Recuerda que @fields.child_name también puede comunicarse con gestos, movimientos o sonidos, no solo con palabras, por eso es importante mirarle."
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
@@ -311,12 +331,11 @@
       "section_2_text": "⚽ Deja que @fields.child_name escoja qué hacer o de qué conversar.\n\n🎈Prueben hacer diferentes actividades juntos.\n\n😃 ¡Diviértanse!",
       "section_3_title": "PERMANECE",
       "section_3_text": "📺 Elimina las distracciones como el televisor o el teléfono.\n\n👀 Presta atención a @fields.child_name. Afirma con la cabeza o usa frases como \"entiendo\" para demostrar que realmente le estás poniendo atención.\n\n💛 Acéptale como es y evita juzgarle.\n\n💡 Recuerda que @fields.child_name también puede comunicarse con gestos, movimientos o sonidos, no solo con palabras, por eso es importante mirarle.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "**Actividad para casa**⭐ \n\nEsta semana, intenta pasar por lo menos 15 minutos de tiempo juntos y conectados con @fields.child_name todos los días. ¡Hará una gran diferencia!"
@@ -343,6 +362,8 @@
           "eng": "¡De acuerdo! Si hoy no tienes tiempo, puedes apartar un poco para mañana."
         }
       },
+      "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "¡Muy bien! Usa las estrategias que aprendiste hoy y diviértete, ya que es una forma estupenda de establecer una relación positiva💙",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -361,7 +382,8 @@
       "quiz_1_option_2_text": "Lo intentaré",
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nEsta semana, intenta pasar por lo menos 15 minutos de tiempo juntos y conectados con @fields.child_name todos los días. ¡Hará una gran diferencia!",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     }
   ],
   "_metadata": {

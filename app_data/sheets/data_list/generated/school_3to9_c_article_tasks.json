@@ -6,35 +6,31 @@
     {
       "id": "relax_3",
       "in_library": "yes",
-      "title_eng": "One thing today",
-      "title": "Nombra una cosa",
+      "title_oringinal_eng": "Mindful moment",
       "lottie_asset": "lottie/relax/looping_rings.json",
-      "media_asset": "audio/relax/relax_3.m4a",
+      "media_asset_m": "audio/relax/male/relax_3.m4a",
+      "media_asset_f": "audio/relax/female/relax_15.m4a",
       "media_type": "audio",
-      "transcript_1_eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
-      "transcript": "Cierra los ojos y piensa en tu día.\n\nNombra una cosa por la que te sientes agradecido.\nNombra una cosa que hiciste bien.\nNombra una cosa que amas.\n\nMuy bien. Gracias por acompañarnos hoy en Crianza Responsable y Amorosa.",
+      "transcript_m_original_eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
+      "transcript_f_original_eng": "Let’s practice a calming trick that we call ‘Pause Power’.\n\nPlant your feet on the ground and breathe in and out three times as slowly as you can. Imagine you are smelling a flower or blowing out a candle.\n\nTa-da! Pause Power!\n\nThis is a great trick to use when you are feeling frustrated because it will help to calm you down.",
+      "transcript_m": "Cierra los ojos y piensa en tu día.\n\nNombra una cosa por la que te sientes agradecido.\nNombra una cosa que hiciste bien.\nNombra una cosa que amas.\n\nMuy bien. Gracias por acompañarnos hoy en Crianza Responsable y Amorosa.",
+      "transcript_f": "¡Hola! ¿Cómo te sientes ahora? ¿Feliz, triste, enojado(a), emocionado(a), preocupado(a)?\n\nNota dónde sientes eso en tu cuerpo. Nota qué pensamientos están conectados con esa emoción. Toma una respiración profunda.\n\nAgradece por tomarte este momento para revisar tus sentimientos y pensamientos.",
+      "title": "Momento de atención plena",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Momento de atención plena"
+        }
+      },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "check_in_51",
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "¡Tú importas! Tómate un momento para conectar contigo.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "_translatedFields": {
         "text_1": {
           "eng": "¡Tú importas! Tómate un momento para conectar contigo."
@@ -55,25 +51,40 @@
           "eng": "Feliz"
         },
         "quiz_1_option_2_text": {
-          "eng": "Bien"
+          "eng": "Regular"
         },
         "quiz_1_option_3_text": {
           "eng": "Triste"
         }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "¡Tú importas! Tómate un momento para conectar contigo.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
       },
       "quiz_1_feedback_1": "Qué gusto saber que te sientes bien. ¡Eres una gran persona cuidadora!",
       "quiz_1_feedback_2": "Lamento que no esté siendo un buen día. Estás haciendo un gran trabajo intentando solucionarlo. Recuerda que nadie tiene todas las respuestas, y que estás haciendo lo mejor que puedes.",
       "quiz_1_feedback_3": "Siento que hoy no esté siendo un buen día. Estás haciendo un gran trabajo al seguir intentándolo, incluso cuando estás cansada/o. Eso es verdadera valentía y compromiso.",
       "quiz_1_question": "¿Cómo te sientes el día de hoy?",
       "quiz_1_option_1_text": "Feliz",
-      "quiz_1_option_2_text": "Bien",
+      "quiz_1_option_2_text": "Regular",
       "quiz_1_option_3_text": "Triste",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Esta sesión trata sobre construir una relación con la escuela de @fields.child_name y con sus maestras y maestros. 📖✨"
@@ -97,6 +108,8 @@
           "eng": "🎉 Estás en lo correcto.\n\n💡 Si tienes una idea de lo que @fields.child_name está aprendiendo en la escuela, ¡podrás apoyarle a repasarlo y practicarlo en casa!"
         }
       },
+      "category_id": "intro",
+      "nested": false,
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n💡 Si tienes una idea de lo que @fields.child_name está aprendiendo en la escuela, ¡podrás apoyarle a repasarlo y practicarlo en casa!",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -113,30 +126,30 @@
       "quiz_1_option_2_text": "Falso",
       "text_1_facilitator": "Esta sesión trata sobre construir una relación con la escuela de @fields.child_name y con sus maestras y maestros. 📖✨",
       "text_2": "Conversar con las maestras y los maestros de @fields.child_name te ayudará a saber lo que @fields.child_name hace en la escuela. ⭐\n\n¡También sabrás qué tipo de cosas puedes hacer en casa con @fields.child_name para facilitar su aprendizaje y qué cosas puedes hacer tú para apoyar a @fields.child_name! 🎓",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "practical_tips_1",
       "media_type": "youtube",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Selecciona reproducir ▶️ para aprender cuatro estrategias para involucrarte con la escuela de @fields.child_name y con lo que está aprendiendo:\n\n1️⃣ CONECTAR\n2️⃣ HACER PREGUNTAS\n3️⃣ PRACTICAR\n4️⃣ PROMOVER EL INVOLUCRAMIENTO"
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "text_1_facilitator": "Selecciona reproducir ▶️ para aprender cuatro estrategias para involucrarte con la escuela de @fields.child_name y con lo que está aprendiendo:\n\n1️⃣ CONECTAR\n2️⃣ HACER PREGUNTAS\n3️⃣ PRACTICAR\n4️⃣ PROMOVER EL INVOLUCRAMIENTO",
       "_translations": {
         "text_1_facilitator": {}
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=lX5S_l2c5zk",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=7nY8lx2zubs",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "practical_tips_2",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Recuerda:"
@@ -166,6 +179,8 @@
           "eng": "🚗 Si tienes tiempo, asiste a los eventos o reuniones en la escuela de @fields.child_name. Infórmate todo lo que puedas cuando asistas.\n\n⏰ ¡Si tienes tiempo, ofrécete como persona voluntaria para apoyar en las actividades de la escuela de @fields.child_name! Esto te ayudará a conocer la escuela, a su personal docente y a las demás madres, padres y personas cuidadoras. 😃"
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "text_1_facilitator": "Recuerda:",
       "_translations": {
         "text_1_facilitator": {},
@@ -190,12 +205,11 @@
       "section_3_text": "🎨 Si @fields.child_name ha estado haciendo algo en la escuela que puede hacer en casa, ¡ayúdale a practicarlo! Por ejemplo, si le gustó aprender de los colores en la escuela, pídele que encuentre todos los colores que pueda en la casa.\n\n📖 Si la escuela permite traer libros a casa, ¡léanlos juntos!\n\n💡¡Si algún tema se le está dificultando a @fields.child_name, intenta ayudarle a entender!",
       "section_4_title": "PROMOVER EL INVOLUCRAMIENTO",
       "section_4_text": "🚗 Si tienes tiempo, asiste a los eventos o reuniones en la escuela de @fields.child_name. Infórmate todo lo que puedas cuando asistas.\n\n⏰ ¡Si tienes tiempo, ofrécete como persona voluntaria para apoyar en las actividades de la escuela de @fields.child_name! Esto te ayudará a conocer la escuela, a su personal docente y a las demás madres, padres y personas cuidadoras. 😃",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "**Actividad para casa**⭐ \n\nHabla con @fields.child_name sobre lo que están aprendiendo en la escuela en este momento."
@@ -222,6 +236,8 @@
           "eng": "Entendemos. No siempre disponemos del tiempo adecuado para conversar de la escuela. La próxima vez, pregúntale sobre su día en la escuela, ¡aunque solo platiquen un par de minutos durante el día o durante la comida! 😃"
         }
       },
+      "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "¡Excelente! ¡Intenten practicar en casa lo que ya ha aprendido en la escuela! 😃",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -240,7 +256,8 @@
       "quiz_1_option_2_text": "Lo intentaré",
       "quiz_1_option_3_text": "No",
       "text_1_facilitator": "**Actividad para casa**⭐ \n\nHabla con @fields.child_name sobre lo que están aprendiendo en la escuela en este momento.",
-      "completed": false
+      "completed": false,
+      "version": "@global.module_version"
     }
   ],
   "_metadata": {

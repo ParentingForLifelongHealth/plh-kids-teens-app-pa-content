@@ -6,7 +6,7 @@
     {
       "operation": "filter",
       "args_list": [
-        "id == \"relax_4\""
+        "id == \"relax_2\""
       ],
       "input_source": "relax"
     },
@@ -54,6 +54,13 @@
       "operation": "append_columns",
       "args_list": [
         "completed: FALSE"
+      ],
+      "output_target": "ignore_c_article_tasks"
+    },
+    {
+      "operation": "append_columns",
+      "args_list": [
+        "version: @global.module_version"
       ],
       "output_target": "ignore_c_article_tasks"
     }
