@@ -149,7 +149,7 @@
     },
     {
       "name": "answer_list_mood",
-      "value": "name: happy | image: @local.row_data.happy_image_asset;\nname: ok | image: @local.row_data.ok_image_asset;\nname: sad | image: @local.row_data.sad_image_asset;"
+      "value": "name: happy | image: @local.row_data.happy_image_asset | text: @local.row_data.happy_text;\nname: ok | image: @local.row_data.ok_image_asset | text: @local.row_data.ok_text;\nname: sad | image: @local.row_data.sad_image_asset | text: @local.row_data.sad_text;"
     },
     {
       "type": "text",
