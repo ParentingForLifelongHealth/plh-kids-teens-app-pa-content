@@ -1,29 +1,25 @@
 {
   "flow_type": "global",
   "flow_subtype": "onboarding",
-  "flow_name": "onboarding_page_7_user_relation",
+  "flow_name": "onboarding_page_7_user_referral",
   "status": "released",
   "rows": [
     {
       "type": "declare_global_constant",
-      "name": "facilitator_message_user_relation",
-      "value": "Cuéntanos un poco sobre tu familia. Así podremos compartirte consejos que se adapten a ti.",
+      "name": "facilitator_message_user_referral"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_user_referral",
+      "value": "Cuéntanos, ¿cómo te enteraste del programa?",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "question_user_relationship",
-      "value": "¿Cuál es tu estado civil?",
-      "_translations": {
-        "value": {}
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "placeholder_user_relationship",
-      "value": "Selecciona un estado civil",
+      "name": "placeholder_user_referral",
+      "value": "Selecciona una opción",
       "_translations": {
         "value": {}
       }

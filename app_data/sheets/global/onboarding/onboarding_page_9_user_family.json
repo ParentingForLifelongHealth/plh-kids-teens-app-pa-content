@@ -1,37 +1,37 @@
 {
   "flow_type": "global",
   "flow_subtype": "onboarding",
-  "flow_name": "onboarding_page_12_child_relat",
+  "flow_name": "onboarding_page_9_user_family",
   "status": "released",
   "rows": [
     {
       "type": "declare_global_constant",
-      "name": "testing_test",
-      "value": "This needs to be deleted",
+      "name": "facilitator_message_user_family",
+      "value": "Gracias por compartir. Ahora cuéntame sobre tu familia.",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "facilitator_message_child_relation",
-      "value": "¡Casi listo!",
+      "name": "question_household_children",
+      "value": "¿Cuántas niñas, niños o adolescentes están a tu cuidado?",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "question_family_relation",
-      "value": "¿Cuál es tu relación con @fields.child_name?",
+      "name": "placeholder_household_children",
+      "value": "Ingresa un número",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "placeholder_family_relation",
-      "value": "Selecciona una opción",
+      "name": "household_children_input_restriction",
+      "value": "Por favor ingresa un número entre 1 y 20.",
       "_translations": {
         "value": {}
       }
