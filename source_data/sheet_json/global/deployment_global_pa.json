@@ -115,6 +115,12 @@
     },
     {
       "type": "declare_field_default",
+      "name": "user_type",
+      "value": "parent",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_field_default",
       "name": "display_modules_as_list",
       "value": true,
       "exclude_from_translation": true

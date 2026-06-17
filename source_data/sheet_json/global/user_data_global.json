@@ -20,6 +20,11 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "user_type_setting",
+      "value": "My account type is"
+    },
+    {
+      "type": "declare_global_constant",
       "name": "user_gender_setting",
       "value": "El género con el que me identifico es"
     },
