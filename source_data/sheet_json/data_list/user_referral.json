@@ -1,0 +1,32 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "user_referral",
+  "status": "released",
+  "data_list_name": "user_referral",
+  "rows": [
+    {
+      "id": "referral_share",
+      "name": "share",
+      "text::eng": "Recomendación de familiar o amigo",
+      "experience": "digital "
+    },
+    {
+      "id": "referral_staff_event",
+      "name": "staff_event",
+      "text::eng": "En un evento de MIDES o por su personal",
+      "experience": "hybrid"
+    },
+    {
+      "id": "referral_parenttext",
+      "name": "parenttext",
+      "text::eng": "Desde el chat automatizado de Crianza Responsable y Amorosa",
+      "experience": "digital "
+    },
+    {
+      "id": "referral_other",
+      "name": "other",
+      "text::eng": "Otro",
+      "experience": "other"
+    }
+  ]
+}

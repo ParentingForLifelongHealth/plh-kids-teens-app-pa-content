@@ -1,0 +1,69 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "user_referral",
+  "status": "released",
+  "data_list_name": "user_referral",
+  "rows": [
+    {
+      "id": "referral_share",
+      "name": "share",
+      "experience": "digital",
+      "text": "Recomendación de familiar o amigo",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Recomendación de familiar o amigo"
+        }
+      }
+    },
+    {
+      "id": "referral_staff_event",
+      "name": "staff_event",
+      "experience": "hybrid",
+      "text": "En un evento de MIDES o por su personal",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "En un evento de MIDES o por su personal"
+        }
+      }
+    },
+    {
+      "id": "referral_parenttext",
+      "name": "parenttext",
+      "experience": "digital",
+      "text": "Desde el chat automatizado de Crianza Responsable y Amorosa",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Desde el chat automatizado de Crianza Responsable y Amorosa"
+        }
+      }
+    },
+    {
+      "id": "referral_other",
+      "name": "other",
+      "experience": "other",
+      "text": "Otro",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Otro"
+        }
+      }
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/deployment_data_pa.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1a_PDtnQiKKzNSBNJcVh_TFk0kB7YbtWE22mh87mqMdI"
+  }
+}

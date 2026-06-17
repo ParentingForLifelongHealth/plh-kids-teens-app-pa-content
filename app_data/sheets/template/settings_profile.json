@@ -41,6 +41,12 @@
               "value"
             ]
           }
+        },
+        {
+          "name": "confirm_exit",
+          "value": true,
+          "type": "set_variable",
+          "_nested_name": "settings_header.confirm_exit"
         }
       ],
       "_nested_name": "settings_header"
