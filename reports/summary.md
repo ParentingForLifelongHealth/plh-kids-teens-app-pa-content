@@ -9,12 +9,12 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 110 |
+| button | 112 |
 | combo_box | 25 |
-| data_items | 236 |
+| data_items | 237 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 104 |
+| display_group | 105 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 22 |
@@ -33,16 +33,16 @@
 | round_button | 18 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 4342 |
+| set_variable | 4346 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 1357 |
-| text | 285 |
+| text | 286 |
 | text_area | 3 |
 | text_box | 21 |
 | text_bubble | 16 |
-| title | 57 |
+| title | 58 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
 | video | 3 |
@@ -58,15 +58,16 @@
 | app_update | 1 |
 | asset_pack | 2 |
 | auth | 3 |
-| emit: completed | 971 |
+| emit: completed | 972 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 987 |
+| emit: uncompleted | 988 |
 | feedback | 13 |
 | go_to | 18 |
+| nav | 1 |
 | nav_stack | 493 |
 | plh_certificate | 12 |
 | pop_up | 103 |
@@ -74,9 +75,9 @@
 | reset_data | 3 |
 | save_to_device | 1 |
 | set_data | 127 |
-| set_field | 156 |
+| set_field | 157 |
 | set_item | 30 |
-| set_local | 139 |
+| set_local | 140 |
 | share | 3 |
 | task | 2 |
 | toast | 12 |
@@ -771,7 +772,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 17 |
+| data_list |  | 18 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
 | data_list | campaign_rows | 1 |
@@ -865,7 +866,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 87 |
 | global |  | 12 |
 | global | onboarding | 15 |
-| template |  | 176 |
+| template |  | 177 |
 | template | generated | 1093 |
 | template | legal_terms | 4 |
 </details>

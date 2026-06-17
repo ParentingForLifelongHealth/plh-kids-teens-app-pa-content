@@ -6,7 +6,11 @@
   "rows": [
     {
       "type": "declare_global_constant",
-      "name": "facilitator_message_user_referral"
+      "name": "facilitator_message_user_referral",
+      "value": "Saber cómo te enteraste de @global.app_name nos ayuda a llegar a más familias.",
+      "_translations": {
+        "value": {}
+      }
     },
     {
       "type": "declare_global_constant",

@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 110
+        "count": 112
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 236
+        "count": 237
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 104
+        "count": 105
       },
       {
         "type": "drawer",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 4342
+        "count": 4346
       },
       {
         "type": "simple_checkbox",
@@ -143,7 +143,7 @@
       },
       {
         "type": "text",
-        "count": 285
+        "count": 286
       },
       {
         "type": "text_area",
@@ -159,7 +159,7 @@
       },
       {
         "type": "title",
-        "count": 57
+        "count": 58
       },
       {
         "type": "toggle_bar",
@@ -199,7 +199,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 971
+        "count": 972
       },
       {
         "type": "emit: force_reload",
@@ -223,7 +223,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 987
+        "count": 988
       },
       {
         "type": "feedback",
@@ -232,6 +232,10 @@
       {
         "type": "go_to",
         "count": 18
+      },
+      {
+        "type": "nav",
+        "count": 1
       },
       {
         "type": "nav_stack",
@@ -263,7 +267,7 @@
       },
       {
         "type": "set_field",
-        "count": 156
+        "count": 157
       },
       {
         "type": "set_item",
@@ -271,7 +275,7 @@
       },
       {
         "type": "set_local",
-        "count": 139
+        "count": 140
       },
       {
         "type": "share",
@@ -3438,7 +3442,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 17
+        "total": 18
       },
       {
         "type": "data_list",
@@ -3908,7 +3912,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 176
+        "total": 177
       },
       {
         "type": "template",
