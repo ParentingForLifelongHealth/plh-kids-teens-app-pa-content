@@ -277,12 +277,12 @@
       "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Para mantener a @fields.child_name a salvo, háblale sobre qué lugares son seguros y cuáles no lo son, y enséñale a tener cuidado cuando se encuentre con gente que no conoce.\n\nSelecciona reproducir ▶️ para aprender las 4️⃣ estrategias para garantizar la seguridad de @fields.child_name en su comunidad:\n\n1️⃣ DIBUJAR\n2️⃣IDENTIFICAR\n3️⃣CONVERSAR\n4️⃣ PRACTICAR"
+          "eng": "Para mantener a @fields.child_name a salvo, háblale sobre qué lugares son seguros y cuáles no lo son, y enséñale a tener cuidado cuando se encuentre con gente que no conoce.\n\nSelecciona reproducir ▶️ para aprender las 4️⃣ estrategias para garantizar la seguridad de @fields.child_name en su comunidad:\n\n1️⃣ DIBUJAR\n2️⃣ HABLAR\n3️⃣ COMENTAR\n4️⃣ PRACTICAR"
         }
       },
       "category_id": "practical_tips",
       "nested": false,
-      "text_1_facilitator": "Para mantener a @fields.child_name a salvo, háblale sobre qué lugares son seguros y cuáles no lo son, y enséñale a tener cuidado cuando se encuentre con gente que no conoce.\n\nSelecciona reproducir ▶️ para aprender las 4️⃣ estrategias para garantizar la seguridad de @fields.child_name en su comunidad:\n\n1️⃣ DIBUJAR\n2️⃣IDENTIFICAR\n3️⃣CONVERSAR\n4️⃣ PRACTICAR",
+      "text_1_facilitator": "Para mantener a @fields.child_name a salvo, háblale sobre qué lugares son seguros y cuáles no lo son, y enséñale a tener cuidado cuando se encuentre con gente que no conoce.\n\nSelecciona reproducir ▶️ para aprender las 4️⃣ estrategias para garantizar la seguridad de @fields.child_name en su comunidad:\n\n1️⃣ DIBUJAR\n2️⃣ HABLAR\n3️⃣ COMENTAR\n4️⃣ PRACTICAR",
       "_translations": {
         "text_1_facilitator": {}
       },
@@ -304,16 +304,16 @@
           "eng": "📝 Dibujen un mapa de su comunidad. \n\n🚩 Incluyan los lugares principales de su comunidad: calles, la casa, la escuela, tiendas y lugares frecuentados por @fields.child_name. \n\n👋 Dibujen e identifiquen imágenes de personas de confianza a las que @fields.child_name pueda acudir cuando se sienta en peligro. Pueden ser tú y tu pareja, otros miembros de la familia o sus maestras y maestros."
         },
         "section_2_title": {
-          "eng": "IDENTIFICA"
+          "eng": "HABLA"
         },
         "section_2_text": {
-          "eng": "🔑 Platiquen sobre los lugares seguros e inseguros que se encuentran en el mapa. Por ejemplo, hazle saber a @fields.child_name que al jugar en la calle debe tener cuidado cuando su juguete o su pelota se vaya debajo de la banqueta.\n\n🔵 ENCIERRA los lugares que son seguros para las niñas y los niños.\n\n❌ TACHA los lugares que no son seguros para @fields.child_name. Por ejemplo, zonas en construcción, estacionamientos o edificios desconocidos."
+          "eng": "❗ Coméntale a @fields.child_name por qué es importante que SIEMPRE que salga sea en compañía de una persona adulta.\n\n🧸 Asegúrate de que @fields.child_name sepa que está bien que camine rápido o corra para meterse a algún lugar seguro si una persona desconocida intenta Conversarle o le pide que vayan a algún lugar.\n\n👀 Coméntale a @fields.child_name cuáles son los lugares seguros a los que puede ir si se le acerca una persona desconocida, como tu casa o la de un vecino.\n\n🚩 Marca con claridad, estas zonas en tu mapa."
         },
         "section_3_title": {
-          "eng": "CONVERSA"
+          "eng": "COMENTA"
         },
         "section_3_text": {
-          "eng": "❗ Coméntale a @fields.child_name por qué es importante que SIEMPRE que salga sea en compañía de una persona adulta.\n\n🧸 Asegúrate de que @fields.child_name sepa que está bien que camine rápido o corra para meterse a algún lugar seguro si una persona desconocida intenta Conversarle o le pide que vayan a algún lugar.\n\n👀 Coméntale a @fields.child_name cuáles son los lugares seguros a los que puede ir si se le acerca una persona desconocida, como tu casa o la de un vecino.\n\n🚩 Marca con claridad, estas zonas en tu mapa."
+          "eng": "🔑 Platiquen sobre los lugares seguros e inseguros que se encuentran en el mapa. Por ejemplo, hazle saber a @fields.child_name que al jugar en la calle debe tener cuidado cuando su juguete o su pelota se vaya debajo de la banqueta.\n\n🔵 ENCIERRA los lugares que son seguros para las niñas y los niños.\n\n❌ TACHA los lugares que no son seguros para @fields.child_name. Por ejemplo, zonas en construcción, estacionamientos o edificios desconocidos."
         },
         "section_4_title": {
           "eng": "PRACTICA"
@@ -337,15 +337,15 @@
         "section_4_text": {}
       },
       "section_1_icon_asset": "images/icons/pencil.svg",
-      "section_2_icon_asset": "images/icons/magnifying_glass.svg",
-      "section_3_icon_asset": "images/icons/speech_bubble_blue.png",
+      "section_2_icon_asset": "images/icons/speech_bubble_blue.png",
+      "section_3_icon_asset": "images/icons/magnifying_glass.svg",
       "section_4_icon_asset": "images/icons/target.png",
       "section_1_title": "DIBUJA",
       "section_1_text": "📝 Dibujen un mapa de su comunidad. \n\n🚩 Incluyan los lugares principales de su comunidad: calles, la casa, la escuela, tiendas y lugares frecuentados por @fields.child_name. \n\n👋 Dibujen e identifiquen imágenes de personas de confianza a las que @fields.child_name pueda acudir cuando se sienta en peligro. Pueden ser tú y tu pareja, otros miembros de la familia o sus maestras y maestros.",
-      "section_2_title": "IDENTIFICA",
-      "section_2_text": "🔑 Platiquen sobre los lugares seguros e inseguros que se encuentran en el mapa. Por ejemplo, hazle saber a @fields.child_name que al jugar en la calle debe tener cuidado cuando su juguete o su pelota se vaya debajo de la banqueta.\n\n🔵 ENCIERRA los lugares que son seguros para las niñas y los niños.\n\n❌ TACHA los lugares que no son seguros para @fields.child_name. Por ejemplo, zonas en construcción, estacionamientos o edificios desconocidos.",
-      "section_3_title": "CONVERSA",
-      "section_3_text": "❗ Coméntale a @fields.child_name por qué es importante que SIEMPRE que salga sea en compañía de una persona adulta.\n\n🧸 Asegúrate de que @fields.child_name sepa que está bien que camine rápido o corra para meterse a algún lugar seguro si una persona desconocida intenta Conversarle o le pide que vayan a algún lugar.\n\n👀 Coméntale a @fields.child_name cuáles son los lugares seguros a los que puede ir si se le acerca una persona desconocida, como tu casa o la de un vecino.\n\n🚩 Marca con claridad, estas zonas en tu mapa.",
+      "section_2_title": "HABLA",
+      "section_2_text": "❗ Coméntale a @fields.child_name por qué es importante que SIEMPRE que salga sea en compañía de una persona adulta.\n\n🧸 Asegúrate de que @fields.child_name sepa que está bien que camine rápido o corra para meterse a algún lugar seguro si una persona desconocida intenta Conversarle o le pide que vayan a algún lugar.\n\n👀 Coméntale a @fields.child_name cuáles son los lugares seguros a los que puede ir si se le acerca una persona desconocida, como tu casa o la de un vecino.\n\n🚩 Marca con claridad, estas zonas en tu mapa.",
+      "section_3_title": "COMENTA",
+      "section_3_text": "🔑 Platiquen sobre los lugares seguros e inseguros que se encuentran en el mapa. Por ejemplo, hazle saber a @fields.child_name que al jugar en la calle debe tener cuidado cuando su juguete o su pelota se vaya debajo de la banqueta.\n\n🔵 ENCIERRA los lugares que son seguros para las niñas y los niños.\n\n❌ TACHA los lugares que no son seguros para @fields.child_name. Por ejemplo, zonas en construcción, estacionamientos o edificios desconocidos.",
       "section_4_title": "PRACTICA",
       "section_4_text": "🔔 ¡Practiquen! ¡Practiquen! ¡Practiquen!\n\n👑 Usa juguetes o títeres para representar situaciones en las que se acerca una persona desconocida. Pregúntale a @fields.child_name qué debería hacer el juguete. A las niñas y a los niños les da menos miedo cuando imaginan que otra persona es la que está en peligro.\n\n⭐ Elogia a @fields.child_name cuando elija la respuesta correcta, como huir, gritar para pedir ayuda o buscar a una persona adulta de confianza.",
       "completed": false,
@@ -370,7 +370,7 @@
           "eng": "Lo intentaré"
         },
         "quiz_1_feedback_2": {
-          "eng": "💙 ¡Estupendo! Estás ayudando a @fields.child_name a ser consciente de su entorno para poder mantenerse a salvo."
+          "eng": "¡Perfecto! 💙 Cuando estés listo o lista, intenta poner en práctica esta actividad. Recuerda que cada paso cuenta, por pequeño que parezca. ✨"
         },
         "quiz_1_option_3_text": {
           "eng": "No"
@@ -392,7 +392,7 @@
         "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "💙 ¡Estupendo! Estás ayudando a @fields.child_name a ser consciente de su entorno para poder mantenerse a salvo.",
+      "quiz_1_feedback_2": "¡Perfecto! 💙 Cuando estés listo o lista, intenta poner en práctica esta actividad. Recuerda que cada paso cuenta, por pequeño que parezca. ✨",
       "quiz_1_feedback_3": "¡Está bien! Si hoy no tienes tiempo, aparta un rato mañana para conversar con @fields.child_name sobre lugares seguros e inseguros o peligrosos. ¡Tú puedes! 🌷",
       "quiz_1_question": "¿Tienes tiempo para hacerlo hoy? ⏰",
       "quiz_1_option_1_text": "Sí",

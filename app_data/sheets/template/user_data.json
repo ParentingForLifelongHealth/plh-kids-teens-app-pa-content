@@ -251,6 +251,72 @@
     },
     {
       "type": "text",
+      "name": "user_type_select_question",
+      "value": "@global.user_type_setting",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "user_type_select_question",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.user_type_setting",
+            "matchedExpression": "@global.user_type_setting",
+            "type": "global",
+            "fieldName": "user_type_setting"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.user_type_setting": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "combo_box",
+      "name": "user_type_select",
+      "value": "@fields.user_type",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "answer_list": "@data.user_type"
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "user_type_select",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields.user_type",
+            "matchedExpression": "@fields.user_type",
+            "type": "fields",
+            "fieldName": "user_type"
+          }
+        ],
+        "parameter_list": {
+          "answer_list": [
+            {
+              "fullExpression": "@data.user_type",
+              "matchedExpression": "@data.user_type",
+              "type": "data",
+              "fieldName": "user_type"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@fields.user_type": [
+          "value"
+        ],
+        "@data.user_type": [
+          "parameter_list.answer_list"
+        ]
+      }
+    },
+    {
+      "type": "text",
       "name": "user_gender_select_question",
       "value": "@global.user_gender_setting",
       "_translations": {
@@ -971,6 +1037,15 @@
           "trigger": "click",
           "action_id": "set_field",
           "args": [
+            "user_type",
+            "@local.user_type_select"
+          ],
+          "_raw": "click | set_field: user_type: @local.user_type_select"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
             "user_location",
             "@local.user_location_select"
           ],
@@ -1098,6 +1173,26 @@
             "args": {
               "1": [
                 {
+                  "fullExpression": "@local.user_type_select",
+                  "matchedExpression": "@local.user_type_select",
+                  "type": "local",
+                  "fieldName": "user_type_select"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: user_type: @local.user_type_select",
+                "matchedExpression": "@local.user_type_select",
+                "type": "local",
+                "fieldName": "user_type_select"
+              }
+            ]
+          },
+          "3": {
+            "args": {
+              "1": [
+                {
                   "fullExpression": "@local.user_location_select",
                   "matchedExpression": "@local.user_location_select",
                   "type": "local",
@@ -1114,7 +1209,7 @@
               }
             ]
           },
-          "3": {
+          "4": {
             "args": {
               "1": [
                 {
@@ -1134,7 +1229,7 @@
               }
             ]
           },
-          "4": {
+          "5": {
             "args": {
               "1": [
                 {
@@ -1154,7 +1249,7 @@
               }
             ]
           },
-          "5": {
+          "6": {
             "args": {
               "1": [
                 {
@@ -1174,7 +1269,7 @@
               }
             ]
           },
-          "6": {
+          "7": {
             "args": {
               "1": [
                 {
@@ -1218,25 +1313,29 @@
           "action_list.1.args.1",
           "action_list.1._raw"
         ],
-        "@local.user_location_select": [
+        "@local.user_type_select": [
           "action_list.2.args.1",
           "action_list.2._raw"
         ],
-        "@local.user_district_select": [
+        "@local.user_location_select": [
           "action_list.3.args.1",
           "action_list.3._raw"
         ],
-        "@local.household_children_input": [
+        "@local.user_district_select": [
           "action_list.4.args.1",
           "action_list.4._raw"
         ],
-        "@local.child_name_input": [
+        "@local.household_children_input": [
           "action_list.5.args.1",
           "action_list.5._raw"
         ],
-        "@local.family_relation_select": [
+        "@local.child_name_input": [
           "action_list.6.args.1",
           "action_list.6._raw"
+        ],
+        "@local.family_relation_select": [
+          "action_list.7.args.1",
+          "action_list.7._raw"
         ],
         "!@local.completed_enabled": [
           "parameter_list.disabled"

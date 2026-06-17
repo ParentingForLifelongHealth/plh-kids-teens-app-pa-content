@@ -17,7 +17,37 @@
     {
       "type": "declare_global_constant",
       "name": "asset_pack_id",
-      "value": "assets_@fields._app_language"
+      "value": "assets_@fields._app_language",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_loading_lottie_asset"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_loading_title",
+      "value": "Tailoring your experience"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_loading_text",
+      "value": "Just a moment while we prepare your content."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_error_title",
+      "value": "Oops"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_error_text",
+      "value": "Something went wrong. Please check your connection and try again."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_error_button_text",
+      "value": "Try again"
     },
     {
       "type": "declare_global_constant",

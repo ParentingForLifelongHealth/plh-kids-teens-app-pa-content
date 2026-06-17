@@ -9,17 +9,17 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 108 |
-| combo_box | 24 |
+| button | 110 |
+| combo_box | 25 |
 | data_items | 236 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 102 |
+| display_group | 104 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 22 |
 | items | 16 |
-| lottie_animation | 4 |
+| lottie_animation | 6 |
 | nested_properties | 386 |
 | number_selector | 1 |
 | plh_bottom_nav | 1 |
@@ -37,12 +37,12 @@
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 1356 |
-| text | 281 |
+| template | 1357 |
+| text | 285 |
 | text_area | 3 |
 | text_box | 21 |
 | text_bubble | 16 |
-| title | 54 |
+| title | 57 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
 | video | 3 |
@@ -56,8 +56,9 @@
 | --- | --- |
 | add_data | 1 |
 | app_update | 1 |
+| asset_pack | 2 |
 | auth | 3 |
-| emit: completed | 970 |
+| emit: completed | 971 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
@@ -72,10 +73,10 @@
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 1 |
-| set_data | 125 |
-| set_field | 154 |
+| set_data | 127 |
+| set_field | 156 |
 | set_item | 30 |
-| set_local | 141 |
+| set_local | 139 |
 | share | 3 |
 | task | 2 |
 | toast | 12 |
