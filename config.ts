@@ -21,6 +21,16 @@ config.google_drive.assets_folders = [
   {id: "1Bd5jF92SY4ehEf-IdLA7cWBYK-nQgO_w", name: "kids_teens_pa"},
 ];
 
+config.canto = {
+  url: "https://parentingforlifelonghealth.canto.com",
+  // TODO: Change to the actual deployment source folders
+  sourceFolders: [{ id: "V0DQB", name: "Debug Canto Assets" }],
+  languageMappings: {
+    Spanish: "gb_en",
+  },
+  ...loadEncryptedConfig("canto.json"),
+}
+
 config.android = {
   app_id:'international.idems.plh_kids_teens_pa',
   app_name:'Crianza Reponsable y Amorosa',
