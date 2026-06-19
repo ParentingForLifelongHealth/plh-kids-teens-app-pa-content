@@ -114,13 +114,13 @@
           "eng": "Verdadero"
         },
         "quiz_2_feedback_1": {
-          "eng": "✨ ¡Estás en lo correcto!\n\n🚲 @fields.child_name quiere aprender y debemos darle nuestro apoyo para que lo siga intentando aún cuando se equivoque.\n\n⭐ *_¡Felicítalo por persistir! @fields.child_name sentirá el apoyo. El esfuerzo es más importante que dominar una habilidad._*"
+          "eng": "✨ ¡Estás en lo correcto!\n\n🚲 @fields.child_name quiere aprender y debemos darle nuestro apoyo para que lo siga intentando aún cuando se equivoque.\n\n⭐ _¡Felicítalo por persistir! @fields.child_name sentirá el apoyo. El esfuerzo es más importante que dominar una habilidad._"
         },
         "quiz_2_option_2_text": {
           "eng": "Falso"
         },
         "quiz_2_feedback_2": {
-          "eng": "👀 ¡Ups! ¡Buen intento!\n\n🚲 @fields.child_name quiere aprender y debemos darle nuestro apoyo para que lo siga intentando aún cuando se equivoque.\n\n⭐ *_¡Felicítalo por persistir! @fields.child_name sentirá el apoyo. El esfuerzo es más importante que dominar una habilidad._*"
+          "eng": "👀 ¡Ups! ¡Buen intento!\n\n🚲 @fields.child_name quiere aprender y debemos darle nuestro apoyo para que lo siga intentando aún cuando se equivoque.\n\n⭐ _¡Felicítalo por persistir! @fields.child_name sentirá el apoyo. El esfuerzo es más importante que dominar una habilidad._"
         }
       },
       "category_id": "intro",
@@ -148,9 +148,9 @@
       "text_2": "Las niñas y los niños tienen capacidades diferentes en las distintas etapas de su desarrollo. 🌱\n\nEs importante conocer las habilidades de @fields.child_name en esta etapa de su desarrollo. ⚽\n\nEsto te ayudará a planificar sus actividades para que se ajusten a lo que puede hacer y también te ayuda a tener objetivos realistas. ✨",
       "quiz_2_question": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\nEstá bien dejar que @fields.child_name siga intentando hacer algo unas cuantas veces aunque no lo haga correctamente.",
       "quiz_2_option_1_text": "Verdadero",
-      "quiz_2_feedback_1": "✨ ¡Estás en lo correcto!\n\n🚲 @fields.child_name quiere aprender y debemos darle nuestro apoyo para que lo siga intentando aún cuando se equivoque.\n\n⭐ *_¡Felicítalo por persistir! @fields.child_name sentirá el apoyo. El esfuerzo es más importante que dominar una habilidad._*",
+      "quiz_2_feedback_1": "✨ ¡Estás en lo correcto!\n\n🚲 @fields.child_name quiere aprender y debemos darle nuestro apoyo para que lo siga intentando aún cuando se equivoque.\n\n⭐ _¡Felicítalo por persistir! @fields.child_name sentirá el apoyo. El esfuerzo es más importante que dominar una habilidad._",
       "quiz_2_option_2_text": "Falso",
-      "quiz_2_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\n🚲 @fields.child_name quiere aprender y debemos darle nuestro apoyo para que lo siga intentando aún cuando se equivoque.\n\n⭐ *_¡Felicítalo por persistir! @fields.child_name sentirá el apoyo. El esfuerzo es más importante que dominar una habilidad._*",
+      "quiz_2_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\n🚲 @fields.child_name quiere aprender y debemos darle nuestro apoyo para que lo siga intentando aún cuando se equivoque.\n\n⭐ _¡Felicítalo por persistir! @fields.child_name sentirá el apoyo. El esfuerzo es más importante que dominar una habilidad._",
       "completed": false,
       "version": 1
     },
@@ -321,7 +321,7 @@
       "id": "home_activity_1",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa**⭐ \n\nTu Actividad para Casa será invitar a @fields.child_name a jugar contigo. Deja que @fields.child_name elija qué jugar y te guíe durante el juego."
+          "eng": "**Actividad para casa** ⭐ \n\nInvita a @fields.child_name a jugar contigo. Deja que elija qué jugar y que te guíe durante el juego."
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy? ⭐"
@@ -364,7 +364,7 @@
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "Lo intentaré",
       "quiz_1_option_3_text": "No",
-      "text_1_facilitator": "**Actividad para casa**⭐ \n\nTu Actividad para Casa será invitar a @fields.child_name a jugar contigo. Deja que @fields.child_name elija qué jugar y te guíe durante el juego.",
+      "text_1_facilitator": "**Actividad para casa** ⭐ \n\nInvita a @fields.child_name a jugar contigo. Deja que elija qué jugar y que te guíe durante el juego.",
       "completed": false,
       "version": 1
     }

@@ -69,8 +69,8 @@
       "priority": 1,
       "activation_condition_list": "@fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
       "campaign_list": "nf_inactive_2_days_evening; \nnf_inactive_week;",
-      "title::eng": "Apoya a tu familia con @global.parent_app",
-      "text::eng": "¿Tienes 5 minutos para dedicarle a tu familia? @global.app_name está aquí para acompañarte. Toca aquí para continuar."
+      "title::eng": "¡Tu próxima estrategia te espera!",
+      "text::eng": "Descubre una nueva forma de apoyar a tu familia hoy."
     },
     {
       "id": "win_back_b",
@@ -79,8 +79,8 @@
       "priority": 1,
       "activation_condition_list": "@fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
       "campaign_list": "nf_inactive_2_days_evening; \nnf_inactive_week;",
-      "title::eng": "Un pequeño paso para una mejor vida familiar",
-      "text::eng": "Dedicar solo 1 minuto a aprender sobre crianza puede hacer una gran diferencia. Toca aquí para continuar."
+      "title::eng": "¡Lo estás haciendo muy bien!",
+      "text::eng": "Cada pequeño paso fortalece a tu familia. Toca para continuar."
     }
   ]
 }

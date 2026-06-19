@@ -83,11 +83,11 @@
             },
             {
               "trigger": "click",
-              "action_id": "nav",
+              "action_id": "nav_stack",
               "args": [
-                "back"
+                "close_all"
               ],
-              "_raw": "click | nav: back"
+              "_raw": "click | nav_stack: close_all"
             }
           ],
           "exclude_from_translation": false,

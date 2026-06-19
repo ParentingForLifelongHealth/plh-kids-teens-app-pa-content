@@ -53,15 +53,15 @@
     {
       "id": "understand_c",
       "notification_text::eng": "¿Cómo vas con las actividades para apoyar al desarrollo de @fields.child_name?",
-      "text_goal::eng": "La práctica en los últimos días se enfocaba en completar la evaluación de desarrollo de @fields.child_name.",
-      "question_done::eng": "En las últimas 24 horas, ¿completaste la evaluación de desarrollo de @fields.child_name?",
-      "reply_no::eng": "Está bien, no pasa nada. Aún puedes completar la evaluación de desarrollo de @fields.child_name.",
+      "text_goal::eng": "La práctica en los últimos días se enfocaba en invitar a @fields.child_name a jugar contigo, dejándole elegir y guiarte en la actividad.",
+      "question_done::eng": "En las últimas 24 horas, ¿pudiste jugar con @fields.child_name?",
+      "reply_no::eng": "Está bien, no pasa nada. Cada día es una oportunidad para jugar con @fields.child_name.",
       "happy_image_asset": "images/icons/faces/happy.svg",
       "reply_happy::eng": "¡Excelente! Sigue así, apoyando el desarrollo de @fields.child_name.",
       "ok_image_asset": "images/icons/faces/neutral.svg",
-      "reply_ok::eng": "Puede tomar tiempo completar actividades sobre el desarrollo de @fields.child_name. Vas avanzando paso a paso.",
+      "reply_ok::eng": "A veces las cosas no salen exactamente como esperábamos y eso también es parte del proceso. Vas avanzando paso a paso.",
       "sad_image_asset": "images/icons/faces/sad.svg",
-      "reply_sad::eng": "Lamento escuchar que las actividades para apoyar el desarrollo de @fields.child_name no van bien."
+      "reply_sad::eng": "Lamentamos escuchar que la actividad no salió como esperabas."
     },
     {
       "id": "understand_t",
