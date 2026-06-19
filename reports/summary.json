@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 114
+        "count": 115
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 240
+        "count": 238
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 106
+        "count": 107
       },
       {
         "type": "drawer",
@@ -63,7 +63,7 @@
       },
       {
         "type": "items",
-        "count": 17
+        "count": 16
       },
       {
         "type": "lottie_animation",
@@ -103,7 +103,7 @@
       },
       {
         "type": "plh_progress_bar",
-        "count": 5
+        "count": 4
       },
       {
         "type": "qr_code",
@@ -127,7 +127,7 @@
       },
       {
         "type": "set_variable",
-        "count": 4365
+        "count": 4358
       },
       {
         "type": "simple_checkbox",
@@ -147,7 +147,7 @@
       },
       {
         "type": "text",
-        "count": 290
+        "count": 288
       },
       {
         "type": "text_area",
@@ -203,7 +203,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 974
+        "count": 975
       },
       {
         "type": "emit: force_reload",
@@ -299,8 +299,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "75362 KB",
-        "MB": "75.4 MB"
+        "KB": "75502 KB",
+        "MB": "75.5 MB"
       },
       {
         "assets": "unused",
@@ -1016,7 +1016,7 @@
       {
         "path": "images/activities/baile.svg",
         "count": 2,
-        "size_kb": 59.9
+        "size_kb": 60
       },
       {
         "path": "images/activities/boliche.svg",
@@ -1031,7 +1031,7 @@
       {
         "path": "images/activities/carrera.svg",
         "count": 2,
-        "size_kb": 43.8
+        "size_kb": 183.5
       },
       {
         "path": "images/activities/categorizar.svg",
@@ -1191,7 +1191,7 @@
       {
         "path": "images/activities/letras.svg",
         "count": 2,
-        "size_kb": 36.3
+        "size_kb": 36.4
       },
       {
         "path": "images/activities/lider.svg",
@@ -1256,7 +1256,7 @@
       {
         "path": "images/activities/rompecabezas_t.svg",
         "count": 2,
-        "size_kb": 25
+        "size_kb": 25.1
       },
       {
         "path": "images/activities/ropa.svg",
@@ -1286,7 +1286,7 @@
       {
         "path": "images/activities/veo.svg",
         "count": 2,
-        "size_kb": 119.6
+        "size_kb": 119.7
       },
       {
         "path": "images/activities/verduras.svg",

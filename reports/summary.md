@@ -9,16 +9,16 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 114 |
+| button | 115 |
 | combo_box | 27 |
-| data_items | 240 |
+| data_items | 238 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 106 |
+| display_group | 107 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 22 |
-| items | 17 |
+| items | 16 |
 | lottie_animation | 6 |
 | nested_properties | 386 |
 | number_selector | 1 |
@@ -28,18 +28,18 @@
 | plh_lesson_cta | 2 |
 | plh_module_details_header | 1 |
 | plh_module_list_item | 2 |
-| plh_progress_bar | 5 |
+| plh_progress_bar | 4 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
 | round_button | 20 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 4365 |
+| set_variable | 4358 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 1357 |
-| text | 290 |
+| text | 288 |
 | text_area | 3 |
 | text_box | 21 |
 | text_bubble | 17 |
@@ -59,7 +59,7 @@
 | app_update | 1 |
 | asset_pack | 4 |
 | auth | 3 |
-| emit: completed | 974 |
+| emit: completed | 975 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
@@ -89,7 +89,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 75362 KB | 75.4 MB |
+| total | 75502 KB | 75.5 MB |
 | unused | 35572 KB | 35.6 MB |
 </details>
 
@@ -281,10 +281,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/activities/aprender_t.svg | 16.2 | 2 |
 | images/activities/artista_c.svg | 55.4 | 2 |
 | images/activities/artista_t.svg | 41 | 2 |
-| images/activities/baile.svg | 59.9 | 2 |
+| images/activities/baile.svg | 60 | 2 |
 | images/activities/boliche.svg | 32.7 | 4 |
 | images/activities/canciones.svg | 38.7 | 2 |
-| images/activities/carrera.svg | 43.8 | 2 |
+| images/activities/carrera.svg | 183.5 | 2 |
 | images/activities/categorizar.svg | 39.3 | 2 |
 | images/activities/cobija.svg | 25.9 | 4 |
 | images/activities/cocinar.svg | 100.1 | 2 |
@@ -316,7 +316,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/activities/juntos_t.svg | 54.3 | 2 |
 | images/activities/lectura_c.svg | 38 | 2 |
 | images/activities/lectura_t.svg | 23.4 | 2 |
-| images/activities/letras.svg | 36.3 | 2 |
+| images/activities/letras.svg | 36.4 | 2 |
 | images/activities/lider.svg | 44.6 | 6 |
 | images/activities/logica.svg | 28 | 2 |
 | images/activities/narrador_c.svg | 98.4 | 2 |
@@ -329,13 +329,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/activities/pelota.svg | 32.6 | 4 |
 | images/activities/personajes_c.svg | 28.1 | 2 |
 | images/activities/rompecabezas_c.svg | 41.8 | 2 |
-| images/activities/rompecabezas_t.svg | 25 | 2 |
+| images/activities/rompecabezas_t.svg | 25.1 | 2 |
 | images/activities/ropa.svg | 48.7 | 2 |
 | images/activities/saludo_c.svg | 26.6 | 2 |
 | images/activities/saludo_t.svg | 54.7 | 2 |
 | images/activities/sombras.svg | 25.7 | 4 |
 | images/activities/tenis.svg | 48.3 | 4 |
-| images/activities/veo.svg | 119.6 | 2 |
+| images/activities/veo.svg | 119.7 | 2 |
 | images/activities/verduras.svg | 97.8 | 2 |
 | images/backgrounds/bottom_banner.svg | 3.6 | 1 |
 | images/backgrounds/complete_module.svg | 4.5 | 1 |

@@ -4,58 +4,17 @@
   "status": "released",
   "rows": [
     {
-      "name": "facilitator_id",
-      "value": "@fields.facilitator_id"
+      "name": "completed_count ",
+      "value": 0
     },
     {
-      "name": "facilitator_data",
-      "value": "characters.@local.facilitator_id"
-    },
-    {
-      "name": "facilitator_row",
-      "value": "@data.@local.facilitator_data"
-    },
-    {
-      "name": "speaker_name",
-      "value": "@local.facilitator_row.name"
-    },
-    {
-      "name": "speaker_image_asset",
-      "value": "@local.facilitator_row.image_asset"
-    },
-    {
-      "name": "speaker_position",
-      "value": "left"
-    },
-    {
-      "name": "variant",
-      "value": "gray"
+      "name": "total_count",
+      "value": 0
     },
     {
       "type": "text",
       "value": "Starting your setup...",
       "parameter_list": "style: emphasised;"
-    },
-    {
-      "type": "begin_items",
-      "name": "loading_bars",
-      "value": "onboarding_progress_bars",
-      "condition": false,
-      "comments": "It would be nice to get this working from a datalist"
-    },
-    {
-      "type": "text",
-      "value": "@item.text"
-    },
-    {
-      "type": "plh_progress_bar",
-      "parameter_list": "title: @item.text;\nduration: @item.timespan;\nauto_play: true;\ncolor: @item.colour"
-    },
-    {
-      "type": "end_items"
-    },
-    {
-      "parameter_list": "@data.characters.f3_hija_7.name"
     },
     {
       "type": "plh_progress_bar",
@@ -69,41 +28,47 @@
     },
     {
       "type": "plh_progress_bar",
-      "name": "bar_3",
-      "value": "@calc((@local.completed_count / @local.total_count) * 100)",
-      "parameter_list": "title: @data.onboarding_progress_bars.id_3.text;\nauto_play: @local.bar_2 == 100;\ncolor: @data.onboarding_progress_bars.id_3.colour;"
-    },
-    {
-      "name": "completed_count "
-    },
-    {
-      "name": "total_count"
+      "name": "bar_3_fake",
+      "parameter_list": "title: @data.onboarding_progress_bars.id_3.text;\nduration: @data.onboarding_progress_bars.id_3.timespan;\nauto_play: @local.bar_2 == 100;\ncolor: @data.onboarding_progress_bars.id_3.colour;",
+      "condition": "@local.total_count == 0"
     },
     {
       "type": "plh_progress_bar",
-      "name": "assets_bar",
-      "parameter_list": "auto_play: @local.bar_3 == 100;"
+      "name": "bar_3_real",
+      "value": "@calc((@local.completed_count / @local.total_count) * 100)",
+      "parameter_list": "title: @data.onboarding_progress_bars.id_3.text;\ncolor: @data.onboarding_progress_bars.id_3.colour;",
+      "condition": "@local.total_count !== 0"
+    },
+    {
+      "name": "completed_enabled",
+      "value": "@calc((@local.bar_3_real == 100) || (@local.bar_3_fake == 100))"
     },
     {
       "type": "data_items",
       "value": "_asset_packs",
-      "action_list": "data_changed | set_local : total_count: @items.length;"
+      "action_list": "data_changed | set_local : total_count: @items[0].assets_total_count;\ndata_changed | set_local : completed_count: @items[0].assets_downloaded_count;",
+      "parameter_list": "filter: @item.download_status !== completed;",
+      "condition": "@local.bar_2 == 100",
+      "comments": "only check status after last bar as finished. "
     },
     {
-      "type": "data_items",
-      "value": "_asset_packs",
-      "action_list": "data_changed | set_local : completed_count: @items.length;",
-      "parameter_list": "filter: (@item.status == \"completed\");"
+      "type": "begin_display_group",
+      "name": "dg_footer",
+      "parameter_list": "sticky: bottom;",
+      "style_list": "padding: 12px 24px;",
+      "exclude_from_translation": true
     },
     {
-      "type": "begin_data_items"
+      "type": "button",
+      "name": "button_completed",
+      "value": "@global.continue",
+      "action_list": "click | emit: completed;",
+      "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
+      "style_list": "flex: 1",
+      "exclude_from_translation": true
     },
     {
-      "type": "text",
-      "value": "id: @item.id,\nname: @item.name,\ndownload_status: @item.download_status"
-    },
-    {
-      "type": "end_data_items"
+      "type": "end_display_group"
     }
   ]
 }
