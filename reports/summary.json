@@ -27,15 +27,15 @@
       },
       {
         "type": "button",
-        "count": 112
+        "count": 114
       },
       {
         "type": "combo_box",
-        "count": 25
+        "count": 27
       },
       {
         "type": "data_items",
-        "count": 237
+        "count": 240
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 105
+        "count": 106
       },
       {
         "type": "drawer",
@@ -63,7 +63,7 @@
       },
       {
         "type": "items",
-        "count": 16
+        "count": 17
       },
       {
         "type": "lottie_animation",
@@ -102,6 +102,10 @@
         "count": 2
       },
       {
+        "type": "plh_progress_bar",
+        "count": 5
+      },
+      {
         "type": "qr_code",
         "count": 1
       },
@@ -111,7 +115,7 @@
       },
       {
         "type": "round_button",
-        "count": 18
+        "count": 20
       },
       {
         "type": "select_text",
@@ -123,7 +127,7 @@
       },
       {
         "type": "set_variable",
-        "count": 4346
+        "count": 4365
       },
       {
         "type": "simple_checkbox",
@@ -143,7 +147,7 @@
       },
       {
         "type": "text",
-        "count": 286
+        "count": 290
       },
       {
         "type": "text_area",
@@ -155,7 +159,7 @@
       },
       {
         "type": "text_bubble",
-        "count": 16
+        "count": 17
       },
       {
         "type": "title",
@@ -191,7 +195,7 @@
       },
       {
         "type": "asset_pack",
-        "count": 2
+        "count": 4
       },
       {
         "type": "auth",
@@ -199,7 +203,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 972
+        "count": 974
       },
       {
         "type": "emit: force_reload",
@@ -223,7 +227,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 988
+        "count": 989
       },
       {
         "type": "feedback",
@@ -234,12 +238,8 @@
         "count": 18
       },
       {
-        "type": "nav",
-        "count": 1
-      },
-      {
         "type": "nav_stack",
-        "count": 493
+        "count": 494
       },
       {
         "type": "plh_certificate",
@@ -247,7 +247,7 @@
       },
       {
         "type": "pop_up",
-        "count": 103
+        "count": 104
       },
       {
         "type": "reset_app",
@@ -267,7 +267,7 @@
       },
       {
         "type": "set_field",
-        "count": 157
+        "count": 159
       },
       {
         "type": "set_item",
@@ -275,7 +275,7 @@
       },
       {
         "type": "set_local",
-        "count": 140
+        "count": 142
       },
       {
         "type": "share",
@@ -304,7 +304,7 @@
       },
       {
         "assets": "unused",
-        "KB": "35560 KB",
+        "KB": "35572 KB",
         "MB": "35.6 MB"
       }
     ]
@@ -784,7 +784,15 @@
         "size_kb": 12.8
       },
       {
+        "path": "lottie/bulging_circles.json",
+        "size_kb": 11.8
+      },
+      {
         "path": "lottie/bulging_circles.txt",
+        "size_kb": 0.2
+      },
+      {
+        "path": "lottie/ux/bulging_circles.txt",
         "size_kb": 0.2
       }
     ]
@@ -3396,21 +3404,6 @@
         "size_kb": 360.4
       },
       {
-        "path": "lottie/bulging_circles.json",
-        "count": 2,
-        "size_kb": 11.8
-      },
-      {
-        "path": "lottie/checkmark.json",
-        "count": 1,
-        "size_kb": 24.6
-      },
-      {
-        "path": "lottie/gift_box.json",
-        "count": 1,
-        "size_kb": 674.5
-      },
-      {
         "path": "lottie/relax/blue_dots.json",
         "count": 4,
         "size_kb": 14.7
@@ -3434,6 +3427,21 @@
         "path": "lottie/relax/square_flow.json",
         "count": 47,
         "size_kb": 5.9
+      },
+      {
+        "path": "lottie/ux/bulging_circles.json",
+        "count": 2,
+        "size_kb": 11.8
+      },
+      {
+        "path": "lottie/ux/checkmark.json",
+        "count": 1,
+        "size_kb": 24.6
+      },
+      {
+        "path": "lottie/ux/gift_box.json",
+        "count": 1,
+        "size_kb": 674.5
       }
     ]
   },
@@ -3877,7 +3885,7 @@
       {
         "type": "data_list",
         "subtype": "onboarding",
-        "total": 1
+        "total": 2
       },
       {
         "type": "data_list",
@@ -3912,7 +3920,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 177
+        "total": 179
       },
       {
         "type": "template",

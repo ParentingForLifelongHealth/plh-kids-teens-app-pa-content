@@ -29,7 +29,7 @@
       "type": "button",
       "name": "button_no",
       "value": "Cancel",
-      "action_list": "click | emit: uncompleted",
+      "action_list": "click | emit: uncompleted;",
       "exclude_from_translation": false,
       "parameter_list": "style: card",
       "style_list": "flex:1"
@@ -38,7 +38,7 @@
       "type": "button",
       "name": "button_delete",
       "value": "Leave without saving",
-      "action_list": "click | emit: completed;\nclick | nav: back;",
+      "action_list": "click | emit: completed;\nclick | nav_stack: close_all;",
       "exclude_from_translation": false,
       "parameter_list": "style: card",
       "style_list": "flex:1"

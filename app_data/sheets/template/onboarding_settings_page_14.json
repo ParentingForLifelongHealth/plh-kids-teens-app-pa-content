@@ -1,0 +1,648 @@
+{
+  "flow_type": "template",
+  "flow_name": "onboarding_settings_page_14",
+  "status": "released",
+  "rows": [
+    {
+      "name": "facilitator_id",
+      "value": "@fields.facilitator_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "facilitator_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields.facilitator_id",
+            "matchedExpression": "@fields.facilitator_id",
+            "type": "fields",
+            "fieldName": "facilitator_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.facilitator_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "facilitator_data",
+      "value": "characters.@local.facilitator_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "facilitator_data",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "characters.@local.facilitator_id",
+            "matchedExpression": "@local.facilitator_id",
+            "type": "local",
+            "fieldName": "facilitator_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.facilitator_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "facilitator_row",
+      "value": "@data.@local.facilitator_data",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "facilitator_row",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.@local.facilitator_data",
+            "matchedExpression": "@local.facilitator_data",
+            "type": "local",
+            "fieldName": "facilitator_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.facilitator_data": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "speaker_name",
+      "value": "@local.facilitator_row.name",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "speaker_name",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.facilitator_row.name",
+            "matchedExpression": "@local.facilitator_row.name",
+            "type": "local",
+            "fieldName": "facilitator_row"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.facilitator_row.name": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "speaker_image_asset",
+      "value": "@local.facilitator_row.image_asset",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "speaker_image_asset",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.facilitator_row.image_asset",
+            "matchedExpression": "@local.facilitator_row.image_asset",
+            "type": "local",
+            "fieldName": "facilitator_row"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.facilitator_row.image_asset": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "speaker_position",
+      "value": "left",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "speaker_position"
+    },
+    {
+      "name": "variant",
+      "value": "gray",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "variant"
+    },
+    {
+      "type": "text",
+      "value": "Starting your setup...",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "name": "text_9",
+      "_nested_name": "text_9"
+    },
+    {
+      "type": "items",
+      "name": "loading_bars",
+      "value": "onboarding_progress_bars",
+      "condition": false,
+      "rows": [
+        {
+          "type": "text",
+          "value": "@item.text",
+          "_translations": {
+            "value": {}
+          },
+          "name": "text_1_@item.id",
+          "_nested_name": "loading_bars.text_1_@item.id",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@item.text",
+                "matchedExpression": "@item.text",
+                "type": "item",
+                "fieldName": "text"
+              }
+            ],
+            "name": [
+              {
+                "fullExpression": "text_1_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "loading_bars.text_1_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.text": [
+              "value"
+            ],
+            "@item.id": [
+              "name",
+              "_nested_name"
+            ]
+          }
+        },
+        {
+          "type": "plh_progress_bar",
+          "parameter_list": {
+            "title": "@item.text",
+            "duration": "@item.timespan",
+            "auto_play": "true",
+            "color": "@item.colour"
+          },
+          "name": "plh_progress_bar_2_@item.id",
+          "_nested_name": "loading_bars.plh_progress_bar_2_@item.id",
+          "_dynamicFields": {
+            "parameter_list": {
+              "title": [
+                {
+                  "fullExpression": "@item.text",
+                  "matchedExpression": "@item.text",
+                  "type": "item",
+                  "fieldName": "text"
+                }
+              ],
+              "duration": [
+                {
+                  "fullExpression": "@item.timespan",
+                  "matchedExpression": "@item.timespan",
+                  "type": "item",
+                  "fieldName": "timespan"
+                }
+              ],
+              "color": [
+                {
+                  "fullExpression": "@item.colour",
+                  "matchedExpression": "@item.colour",
+                  "type": "item",
+                  "fieldName": "colour"
+                }
+              ]
+            },
+            "name": [
+              {
+                "fullExpression": "plh_progress_bar_2_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "loading_bars.plh_progress_bar_2_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.text": [
+              "parameter_list.title"
+            ],
+            "@item.timespan": [
+              "parameter_list.duration"
+            ],
+            "@item.colour": [
+              "parameter_list.color"
+            ],
+            "@item.id": [
+              "name",
+              "_nested_name"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "loading_bars"
+    },
+    {
+      "parameter_list": {
+        "@data.characters.f3_hija_7.name": "true"
+      },
+      "type": "set_variable",
+      "name": "set_variable_12",
+      "_nested_name": "set_variable_12"
+    },
+    {
+      "type": "plh_progress_bar",
+      "name": "bar_1",
+      "parameter_list": {
+        "title": "@data.onboarding_progress_bars.id_1.text",
+        "duration": "@data.onboarding_progress_bars.id_1.timespan",
+        "auto_play": "true",
+        "color": "@data.onboarding_progress_bars.id_1.colour"
+      },
+      "_nested_name": "bar_1",
+      "_dynamicFields": {
+        "parameter_list": {
+          "title": [
+            {
+              "fullExpression": "@data.onboarding_progress_bars.id_1.text",
+              "matchedExpression": "@data.onboarding_progress_bars.id_1.text",
+              "type": "data",
+              "fieldName": "onboarding_progress_bars"
+            }
+          ],
+          "duration": [
+            {
+              "fullExpression": "@data.onboarding_progress_bars.id_1.timespan",
+              "matchedExpression": "@data.onboarding_progress_bars.id_1.timespan",
+              "type": "data",
+              "fieldName": "onboarding_progress_bars"
+            }
+          ],
+          "color": [
+            {
+              "fullExpression": "@data.onboarding_progress_bars.id_1.colour",
+              "matchedExpression": "@data.onboarding_progress_bars.id_1.colour",
+              "type": "data",
+              "fieldName": "onboarding_progress_bars"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@data.onboarding_progress_bars.id_1.text": [
+          "parameter_list.title"
+        ],
+        "@data.onboarding_progress_bars.id_1.timespan": [
+          "parameter_list.duration"
+        ],
+        "@data.onboarding_progress_bars.id_1.colour": [
+          "parameter_list.color"
+        ]
+      }
+    },
+    {
+      "type": "plh_progress_bar",
+      "name": "bar_2",
+      "parameter_list": {
+        "title": "@data.onboarding_progress_bars.id_2.text",
+        "duration": "@data.onboarding_progress_bars.id_2.timespan",
+        "auto_play": "@local.bar_1 == 100",
+        "color": "@data.onboarding_progress_bars.id_2.colour"
+      },
+      "_nested_name": "bar_2",
+      "_dynamicFields": {
+        "parameter_list": {
+          "title": [
+            {
+              "fullExpression": "@data.onboarding_progress_bars.id_2.text",
+              "matchedExpression": "@data.onboarding_progress_bars.id_2.text",
+              "type": "data",
+              "fieldName": "onboarding_progress_bars"
+            }
+          ],
+          "duration": [
+            {
+              "fullExpression": "@data.onboarding_progress_bars.id_2.timespan",
+              "matchedExpression": "@data.onboarding_progress_bars.id_2.timespan",
+              "type": "data",
+              "fieldName": "onboarding_progress_bars"
+            }
+          ],
+          "auto_play": [
+            {
+              "fullExpression": "@local.bar_1 == 100",
+              "matchedExpression": "@local.bar_1",
+              "type": "local",
+              "fieldName": "bar_1"
+            }
+          ],
+          "color": [
+            {
+              "fullExpression": "@data.onboarding_progress_bars.id_2.colour",
+              "matchedExpression": "@data.onboarding_progress_bars.id_2.colour",
+              "type": "data",
+              "fieldName": "onboarding_progress_bars"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@data.onboarding_progress_bars.id_2.text": [
+          "parameter_list.title"
+        ],
+        "@data.onboarding_progress_bars.id_2.timespan": [
+          "parameter_list.duration"
+        ],
+        "@local.bar_1": [
+          "parameter_list.auto_play"
+        ],
+        "@data.onboarding_progress_bars.id_2.colour": [
+          "parameter_list.color"
+        ]
+      }
+    },
+    {
+      "type": "plh_progress_bar",
+      "name": "bar_3",
+      "value": "@calc((@local.completed_count / @local.total_count) * 100)",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "title": "@data.onboarding_progress_bars.id_3.text",
+        "auto_play": "@local.bar_2 == 100",
+        "color": "@data.onboarding_progress_bars.id_3.colour"
+      },
+      "_nested_name": "bar_3",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc((@local.completed_count / @local.total_count) * 100)",
+            "matchedExpression": "@local.completed_count",
+            "type": "local",
+            "fieldName": "completed_count"
+          },
+          {
+            "fullExpression": "@calc((@local.completed_count / @local.total_count) * 100)",
+            "matchedExpression": "@local.total_count",
+            "type": "local",
+            "fieldName": "total_count"
+          },
+          {
+            "fullExpression": "@calc((@local.completed_count / @local.total_count) * 100)",
+            "matchedExpression": "@calc((@local.completed_count / @local.total_count) * 100)",
+            "type": "calc",
+            "fieldName": "(@local.completed_count / @local.total_count) * 100"
+          }
+        ],
+        "parameter_list": {
+          "title": [
+            {
+              "fullExpression": "@data.onboarding_progress_bars.id_3.text",
+              "matchedExpression": "@data.onboarding_progress_bars.id_3.text",
+              "type": "data",
+              "fieldName": "onboarding_progress_bars"
+            }
+          ],
+          "auto_play": [
+            {
+              "fullExpression": "@local.bar_2 == 100",
+              "matchedExpression": "@local.bar_2",
+              "type": "local",
+              "fieldName": "bar_2"
+            }
+          ],
+          "color": [
+            {
+              "fullExpression": "@data.onboarding_progress_bars.id_3.colour",
+              "matchedExpression": "@data.onboarding_progress_bars.id_3.colour",
+              "type": "data",
+              "fieldName": "onboarding_progress_bars"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.completed_count": [
+          "value"
+        ],
+        "@local.total_count": [
+          "value"
+        ],
+        "@calc((@local.completed_count / @local.total_count) * 100)": [
+          "value"
+        ],
+        "@data.onboarding_progress_bars.id_3.text": [
+          "parameter_list.title"
+        ],
+        "@local.bar_2": [
+          "parameter_list.auto_play"
+        ],
+        "@data.onboarding_progress_bars.id_3.colour": [
+          "parameter_list.color"
+        ]
+      }
+    },
+    {
+      "name": "completed_count",
+      "type": "set_variable",
+      "_nested_name": "completed_count"
+    },
+    {
+      "name": "total_count",
+      "type": "set_variable",
+      "_nested_name": "total_count"
+    },
+    {
+      "type": "plh_progress_bar",
+      "name": "assets_bar",
+      "parameter_list": {
+        "auto_play": "@local.bar_3 == 100"
+      },
+      "_nested_name": "assets_bar",
+      "_dynamicFields": {
+        "parameter_list": {
+          "auto_play": [
+            {
+              "fullExpression": "@local.bar_3 == 100",
+              "matchedExpression": "@local.bar_3",
+              "type": "local",
+              "fieldName": "bar_3"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.bar_3": [
+          "parameter_list.auto_play"
+        ]
+      }
+    },
+    {
+      "type": "data_items",
+      "value": "_asset_packs",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "data_changed",
+          "action_id": "set_local",
+          "args": [
+            "total_count",
+            "@items.length"
+          ],
+          "_raw": "data_changed | set_local : total_count: @items.length"
+        }
+      ],
+      "name": "data_items_19",
+      "_nested_name": "data_items_19"
+    },
+    {
+      "type": "data_items",
+      "value": "_asset_packs",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "data_changed",
+          "action_id": "set_local",
+          "args": [
+            "completed_count",
+            "@items.length"
+          ],
+          "_raw": "data_changed | set_local : completed_count: @items.length"
+        }
+      ],
+      "parameter_list": {
+        "filter": "(@item.status == \"completed\")"
+      },
+      "name": "data_items_20",
+      "_nested_name": "data_items_20",
+      "_dynamicFields": {
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "(@item.status == \"completed\")",
+              "matchedExpression": "@item.status",
+              "type": "item",
+              "fieldName": "status"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@item.status": [
+          "parameter_list.filter"
+        ]
+      }
+    },
+    {
+      "type": "data_items",
+      "rows": [
+        {
+          "type": "text",
+          "value": "id: @item.id,\nname: @item.name,\ndownload_status: @item.download_status",
+          "_translations": {
+            "value": {}
+          },
+          "name": "text_1_@item.id",
+          "_nested_name": "data_items_21.text_1_@item.id",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "id: @item.id,\nname: @item.name,\ndownload_status: @item.download_status",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              },
+              {
+                "fullExpression": "id: @item.id,\nname: @item.name,\ndownload_status: @item.download_status",
+                "matchedExpression": "@item.name",
+                "type": "item",
+                "fieldName": "name"
+              },
+              {
+                "fullExpression": "id: @item.id,\nname: @item.name,\ndownload_status: @item.download_status",
+                "matchedExpression": "@item.download_status",
+                "type": "item",
+                "fieldName": "download_status"
+              }
+            ],
+            "name": [
+              {
+                "fullExpression": "text_1_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "data_items_21.text_1_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "value",
+              "name",
+              "_nested_name"
+            ],
+            "@item.name": [
+              "value"
+            ],
+            "@item.download_status": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "name": "data_items_21",
+      "_nested_name": "data_items_21"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "templates/PA onboarding templates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1Efq1duWdtaioK0tVhxuFSfdeFO_wMQzs5aDyl6hQ7_0"
+  }
+}

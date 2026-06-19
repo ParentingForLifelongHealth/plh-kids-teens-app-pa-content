@@ -3179,6 +3179,21 @@
         }
       }
     },
+    "onboarding_progress_bars": {
+      "flow_type": "data_list",
+      "flow_subtype": "onboarding",
+      "flow_name": "onboarding_progress_bars",
+      "_source": {
+        "name": "kids_teens_pa",
+        "path": "data/PA onboarding.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1r5zNT0MXsfMYSXrhYSLw1xGesza4qjQB-EJ2PMmTBlc"
+      },
+      "_metadata": {
+        "timespan": {
+          "type": "number"
+        }
+      }
+    },
     "onboarding_splash_slides": {
       "flow_type": "data_list",
       "flow_subtype": "onboarding",
@@ -6747,7 +6762,7 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "activity_Boliche_con_botellas_t",
+          "flow_name": "activity_Bolos_con_botellas_t",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -13534,8 +13549,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "activity_Boliche_con_botellas_t": {
-      "flow_name": "activity_Boliche_con_botellas_t",
+    "activity_Bolos_con_botellas_t": {
+      "flow_name": "activity_Bolos_con_botellas_t",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -20735,6 +20750,24 @@
     "onboarding_settings_page_12": {
       "flow_type": "template",
       "flow_name": "onboarding_settings_page_12",
+      "_source": {
+        "name": "kids_teens_pa",
+        "path": "templates/PA onboarding templates.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1Efq1duWdtaioK0tVhxuFSfdeFO_wMQzs5aDyl6hQ7_0"
+      }
+    },
+    "onboarding_settings_page_13": {
+      "flow_type": "template",
+      "flow_name": "onboarding_settings_page_13",
+      "_source": {
+        "name": "kids_teens_pa",
+        "path": "templates/PA onboarding templates.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1Efq1duWdtaioK0tVhxuFSfdeFO_wMQzs5aDyl6hQ7_0"
+      }
+    },
+    "onboarding_settings_page_14": {
+      "flow_type": "template",
+      "flow_name": "onboarding_settings_page_14",
       "_source": {
         "name": "kids_teens_pa",
         "path": "templates/PA onboarding templates.xlsx",

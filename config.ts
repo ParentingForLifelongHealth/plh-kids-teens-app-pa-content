@@ -4,7 +4,7 @@ const config = generateDeploymentConfig("plh_kids_teens_pa");
 
 config.git = {
   content_repo: "https://github.com/ParentingForLifelongHealth/plh-kids-teens-app-pa-content.git",
-  content_tag_latest: "1.1.43",
+  content_tag_latest: "1.1.44",
 };
 
 config.google_drive.sheets_folders = [
@@ -19,6 +19,8 @@ config.google_drive.assets_folders = [
   {id: "1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", name: "kids_global_assets"},
   {id: "11FFBdMbwQ8aiUkprH-qXYC-uONXmJLHs", name: "kids_teens_global V2 assets"},
   {id: "1Bd5jF92SY4ehEf-IdLA7cWBYK-nQgO_w", name: "kids_teens_pa"},
+  {id: "1jpUVektiLhj_UZItuXuJiDs8dQv94Z3l", name: "child_assets_pa", remote: true },
+  {id: "1a3SYnU9Ov9tTuuTu5dVne1GJXGwVsPsh", name: "teens_assets_pa", remote: true },
 ];
 
 config.android = {

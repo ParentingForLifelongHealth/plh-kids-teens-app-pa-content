@@ -306,14 +306,14 @@
         "nf_inactive_2_days_evening",
         "nf_inactive_week"
       ],
-      "title": "Apoya a tu familia con @global.parent_app",
+      "title": "Apoya a tu familia con @global.app_name",
       "_translations": {
         "title": {},
         "text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Apoya a tu familia con @global.parent_app"
+          "eng": "Apoya a tu familia con @global.app_name"
         },
         "text": {
           "eng": "¿Tienes 5 minutos para dedicarle a tu familia? @global.app_name está aquí para acompañarte. Toca aquí para continuar."

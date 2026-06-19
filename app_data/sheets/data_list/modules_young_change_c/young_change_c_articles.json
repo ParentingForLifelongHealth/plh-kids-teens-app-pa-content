@@ -231,7 +231,7 @@
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
-      "text_1_facilitator": "**Actividad para casa**⭐ \n\nTu Actividad para Casa será invitar a @fields.child_name a jugar contigo. Deja que @fields.child_name elija qué jugar y te guíe durante el juego.",
+      "text_1_facilitator": "**Actividad para casa**⭐ \n\nInvita a @fields.child_name a jugar contigo. Deja que elija qué jugar y que te guíe durante el juego.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -244,7 +244,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa**⭐ \n\nTu Actividad para Casa será invitar a @fields.child_name a jugar contigo. Deja que @fields.child_name elija qué jugar y te guíe durante el juego."
+          "eng": "**Actividad para casa**⭐ \n\nInvita a @fields.child_name a jugar contigo. Deja que elija qué jugar y que te guíe durante el juego."
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy? ⭐"

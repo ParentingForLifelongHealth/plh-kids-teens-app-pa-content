@@ -69,7 +69,7 @@
       "priority": 1,
       "activation_condition_list": "@fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
       "campaign_list": "nf_inactive_2_days_evening; \nnf_inactive_week;",
-      "title::eng": "Apoya a tu familia con @global.parent_app",
+      "title::eng": "Apoya a tu familia con @global.app_name",
       "text::eng": "¿Tienes 5 minutos para dedicarle a tu familia? @global.app_name está aquí para acompañarte. Toca aquí para continuar."
     },
     {

@@ -184,22 +184,22 @@
           "eng": "¿Cómo vas con las actividades para apoyar al desarrollo de @fields.child_name?"
         },
         "text_goal": {
-          "eng": "La práctica en los últimos días se enfocaba en completar la evaluación de desarrollo de @fields.child_name."
+          "eng": "La práctica en los últimos días se enfocaba en invitar a @fields.child_name a jugar contigo, dejándole elegir y guiarte en la actividad."
         },
         "question_done": {
-          "eng": "En las últimas 24 horas, ¿completaste la evaluación de desarrollo de @fields.child_name?"
+          "eng": "En las últimas 24 horas, ¿pudiste jugar con @fields.child_name?"
         },
         "reply_no": {
-          "eng": "Está bien, no pasa nada. Aún puedes completar la evaluación de desarrollo de @fields.child_name."
+          "eng": "Está bien, no pasa nada. Cada día es una oportunidad para jugar con @fields.child_name."
         },
         "reply_happy": {
           "eng": "¡Excelente! Sigue así, apoyando el desarrollo de @fields.child_name."
         },
         "reply_ok": {
-          "eng": "Puede tomar tiempo completar actividades sobre el desarrollo de @fields.child_name. Vas avanzando paso a paso."
+          "eng": "A veces las cosas no salen exactamente como esperábamos y eso también es parte del proceso. Vas avanzando paso a paso."
         },
         "reply_sad": {
-          "eng": "Lamento escuchar que las actividades para apoyar el desarrollo de @fields.child_name no van bien."
+          "eng": "Lamentamos escuchar que la actividad no salió como esperabas."
         },
         "activity_title": {
           "eng": "¡Veamos cómo te fue con la actividad para casa!"
@@ -220,12 +220,12 @@
           "eng": "¡Qué bien que buscaste soluciones a tus retos! Te animamos a probarlas. Tu relación con @fields.child_name se irá fortaleciendo cada día."
         }
       },
-      "text_goal": "La práctica en los últimos días se enfocaba en completar la evaluación de desarrollo de @fields.child_name.",
-      "question_done": "En las últimas 24 horas, ¿completaste la evaluación de desarrollo de @fields.child_name?",
-      "reply_no": "Está bien, no pasa nada. Aún puedes completar la evaluación de desarrollo de @fields.child_name.",
+      "text_goal": "La práctica en los últimos días se enfocaba en invitar a @fields.child_name a jugar contigo, dejándole elegir y guiarte en la actividad.",
+      "question_done": "En las últimas 24 horas, ¿pudiste jugar con @fields.child_name?",
+      "reply_no": "Está bien, no pasa nada. Cada día es una oportunidad para jugar con @fields.child_name.",
       "reply_happy": "¡Excelente! Sigue así, apoyando el desarrollo de @fields.child_name.",
-      "reply_ok": "Puede tomar tiempo completar actividades sobre el desarrollo de @fields.child_name. Vas avanzando paso a paso.",
-      "reply_sad": "Lamento escuchar que las actividades para apoyar el desarrollo de @fields.child_name no van bien.",
+      "reply_ok": "A veces las cosas no salen exactamente como esperábamos y eso también es parte del proceso. Vas avanzando paso a paso.",
+      "reply_sad": "Lamentamos escuchar que la actividad no salió como esperabas.",
       "activity_title": "¡Veamos cómo te fue con la actividad para casa!",
       "question_how": "¿Cómo te fue?",
       "happy_text": "Bien",
