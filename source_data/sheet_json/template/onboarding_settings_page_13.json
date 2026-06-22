@@ -87,20 +87,20 @@
       "type": "button",
       "name": "button_completed_child",
       "value": "@global.continue",
-      "action_list": "click | set_field: family_relation: @local.family_relation_select;\nclick | emit: completed;\nclick | asset_pack: download: child_assets_pa;",
+      "action_list": "click | set_field: family_relation: @local.family_relation_select;\nclick | emit: completed;\nclick | asset_pack: download: assets_facilitor_gender_m;",
       "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
       "style_list": "flex: 1",
-      "condition": "@fields.child_age_tag == \"child\"",
+      "condition": "@fields.facilitator_id== \"facilitator_male\"",
       "exclude_from_translation": true
     },
     {
       "type": "button",
       "name": "button_completed_teens",
       "value": "@global.continue",
-      "action_list": "click | set_field: family_relation: @local.family_relation_select;\nclick | emit: completed;\nclick | asset_pack: download: teens_assets_pa;",
+      "action_list": "click | set_field: family_relation: @local.family_relation_select;\nclick | emit: completed;\nclick | asset_pack: download: assets_facilitor_gender_f;",
       "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
       "style_list": "flex: 1",
-      "condition": "@fields.child_age_tag !== \"child\"",
+      "condition": "@fields.facilitator_id !== \"facilitator_male\"",
       "exclude_from_translation": true
     },
     {

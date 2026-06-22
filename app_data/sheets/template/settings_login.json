@@ -2,6 +2,13 @@
   "flow_type": "template",
   "flow_name": "settings_login",
   "status": "released",
+  "parameter_list": {
+    "app_config": {
+      "APP_FOOTER_DEFAULTS": {
+        "templateName": false
+      }
+    }
+  },
   "rows": [
     {
       "name": "is_user_signed_in",

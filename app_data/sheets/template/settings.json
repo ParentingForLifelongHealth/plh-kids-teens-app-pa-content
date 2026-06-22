@@ -174,15 +174,11 @@
           "action_list": [
             {
               "trigger": "click",
-              "action_id": "pop_up",
+              "action_id": "go_to",
               "args": [
                 "settings_login"
               ],
-              "_raw": "click | pop_up: settings_login | fullscreen: true, showCloseButton: false",
-              "params": {
-                "fullscreen": true,
-                "showCloseButton": false
-              }
+              "_raw": "click | go_to: settings_login"
             }
           ],
           "exclude_from_translation": true,
@@ -244,15 +240,11 @@
           "action_list": [
             {
               "trigger": "click",
-              "action_id": "pop_up",
+              "action_id": "go_to",
               "args": [
                 "settings_profile"
               ],
-              "_raw": "click | pop_up: settings_profile | fullscreen: true, showCloseButton: false",
-              "params": {
-                "fullscreen": true,
-                "showCloseButton": false
-              }
+              "_raw": "click | go_to: settings_profile"
             }
           ],
           "exclude_from_translation": true,
@@ -314,15 +306,11 @@
           "action_list": [
             {
               "trigger": "click",
-              "action_id": "pop_up",
+              "action_id": "go_to",
               "args": [
                 "settings_language_select"
               ],
-              "_raw": "click | pop_up: settings_language_select | fullscreen: true, showCloseButton: false",
-              "params": {
-                "fullscreen": true,
-                "showCloseButton": false
-              }
+              "_raw": "click | go_to: settings_language_select"
             }
           ],
           "condition": "@global.has_onboarding_language_select",
@@ -396,15 +384,11 @@
           "action_list": [
             {
               "trigger": "click",
-              "action_id": "pop_up",
+              "action_id": "go_to",
               "args": [
                 "settings_user_id"
               ],
-              "_raw": "click | pop_up: settings_user_id | fullscreen: true, showCloseButton: false",
-              "params": {
-                "fullscreen": true,
-                "showCloseButton": false
-              }
+              "_raw": "click | go_to: settings_user_id"
             }
           ],
           "condition": false,
@@ -507,15 +491,11 @@
           "action_list": [
             {
               "trigger": "click",
-              "action_id": "pop_up",
+              "action_id": "go_to",
               "args": [
                 "settings_about"
               ],
-              "_raw": "click | pop_up: settings_about | fullscreen: true, showCloseButton: false",
-              "params": {
-                "fullscreen": true,
-                "showCloseButton": false
-              }
+              "_raw": "click | go_to: settings_about"
             }
           ],
           "exclude_from_translation": true,
@@ -577,15 +557,11 @@
           "action_list": [
             {
               "trigger": "click",
-              "action_id": "pop_up",
+              "action_id": "go_to",
               "args": [
                 "settings_terms"
               ],
-              "_raw": "click | pop_up: settings_terms | fullscreen: true, showCloseButton: false",
-              "params": {
-                "fullscreen": true,
-                "showCloseButton": false
-              }
+              "_raw": "click | go_to: settings_terms"
             }
           ],
           "exclude_from_translation": true,
@@ -647,15 +623,11 @@
           "action_list": [
             {
               "trigger": "click",
-              "action_id": "pop_up",
+              "action_id": "go_to",
               "args": [
                 "settings_privacy_policy"
               ],
-              "_raw": "click | pop_up: settings_privacy_policy | fullscreen: true, showCloseButton: false",
-              "params": {
-                "fullscreen": true,
-                "showCloseButton": false
-              }
+              "_raw": "click | go_to: settings_privacy_policy"
             }
           ],
           "exclude_from_translation": true,
@@ -717,15 +689,11 @@
           "action_list": [
             {
               "trigger": "click",
-              "action_id": "pop_up",
+              "action_id": "go_to",
               "args": [
                 "feedback_form"
               ],
-              "_raw": "click | pop_up: feedback_form | fullscreen: true, showCloseButton: false",
-              "params": {
-                "fullscreen": true,
-                "showCloseButton": false
-              }
+              "_raw": "click | go_to: feedback_form"
             }
           ],
           "exclude_from_translation": true,
