@@ -17,7 +17,7 @@
     },
     {
       "type": "text",
-      "value": "Starting your setup...",
+      "value": "@global.setup_text",
       "_translations": {
         "value": {}
       },
@@ -25,7 +25,22 @@
         "style": "emphasised"
       },
       "name": "text_4",
-      "_nested_name": "text_4"
+      "_nested_name": "text_4",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.setup_text",
+            "matchedExpression": "@global.setup_text",
+            "type": "global",
+            "fieldName": "setup_text"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.setup_text": [
+          "value"
+        ]
+      }
     },
     {
       "type": "plh_progress_bar",
