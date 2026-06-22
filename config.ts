@@ -18,13 +18,13 @@ config.google_drive.sheets_folders = [
 config.google_drive.assets_folders = [  
   {id: "1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", name: "kids_global_assets"},
   {id: "11FFBdMbwQ8aiUkprH-qXYC-uONXmJLHs", name: "kids_teens_global V2 assets"},
-  {id: "1Bd5jF92SY4ehEf-IdLA7cWBYK-nQgO_w", name: "kids_teens_pa"},
+  //{id: "1Bd5jF92SY4ehEf-IdLA7cWBYK-nQgO_w", name: "kids_teens_pa"},
 ];
 
 config.canto = {
   url: "https://parentingforlifelonghealth.canto.com",
   // TODO: Change to the actual deployment source folders
-  sourceFolders: [{ id: "V0DQB", name: "Debug Canto Assets" }],
+  sourceFolders: [{ id: "KU9TL", name: "Panama Canto Assets" }],
   languageMappings: {
     Spanish: "gb_en",
   },
