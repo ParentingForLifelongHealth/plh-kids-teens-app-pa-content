@@ -23,7 +23,6 @@ config.google_drive.assets_folders = [
 
 config.canto = {
   url: "https://parentingforlifelonghealth.canto.com",
-  // TODO: Change to the actual deployment source folders
   sourceFolders: [{ id: "KU9TL", name: "Panama Canto Assets" }],
   languageMappings: {
     Spanish: "gb_en",
