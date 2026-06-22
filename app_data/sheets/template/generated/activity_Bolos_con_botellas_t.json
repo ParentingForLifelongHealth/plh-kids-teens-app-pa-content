@@ -1,5 +1,5 @@
 {
-  "flow_name": "activity_Boliche_con_botellas_t",
+  "flow_name": "activity_Bolos_con_botellas_t",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -28,7 +28,7 @@
       "rows": [
         {
           "name": "activity_id",
-          "value": "Boliche_con_botellas_t",
+          "value": "Bolos_con_botellas_t",
           "_translations": {
             "value": {}
           },

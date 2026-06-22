@@ -9,12 +9,12 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 112 |
-| combo_box | 25 |
-| data_items | 237 |
+| button | 115 |
+| combo_box | 27 |
+| data_items | 238 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 105 |
+| display_group | 107 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 22 |
@@ -28,20 +28,21 @@
 | plh_lesson_cta | 2 |
 | plh_module_details_header | 1 |
 | plh_module_list_item | 2 |
+| plh_progress_bar | 4 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
-| round_button | 18 |
+| round_button | 20 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 4346 |
+| set_variable | 4358 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 1357 |
-| text | 286 |
+| text | 288 |
 | text_area | 3 |
 | text_box | 21 |
-| text_bubble | 16 |
+| text_bubble | 17 |
 | title | 58 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
@@ -56,28 +57,27 @@
 | --- | --- |
 | add_data | 1 |
 | app_update | 1 |
-| asset_pack | 2 |
+| asset_pack | 4 |
 | auth | 3 |
-| emit: completed | 972 |
+| emit: completed | 975 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 988 |
+| emit: uncompleted | 989 |
 | feedback | 13 |
 | go_to | 18 |
-| nav | 1 |
-| nav_stack | 493 |
+| nav_stack | 494 |
 | plh_certificate | 12 |
-| pop_up | 103 |
+| pop_up | 104 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 1 |
 | set_data | 127 |
-| set_field | 157 |
+| set_field | 159 |
 | set_item | 30 |
-| set_local | 140 |
+| set_local | 142 |
 | share | 3 |
 | task | 2 |
 | toast | 12 |
@@ -89,8 +89,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 75362 KB | 75.4 MB |
-| unused | 35560 KB | 35.6 MB |
+| total | 75502 KB | 75.5 MB |
+| unused | 35572 KB | 35.6 MB |
 </details>
 
 <details open>
@@ -218,7 +218,9 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/donors/safe_online.png | 65.8 |
 | images/logos/favicon.png | 17.9 |
 | images/logos/plh_white.png | 12.8 |
+| lottie/bulging_circles.json | 11.8 |
 | lottie/bulging_circles.txt | 0.2 |
+| lottie/ux/bulging_circles.txt | 0.2 |
 </details>
 
 <details open>
@@ -279,10 +281,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/activities/aprender_t.svg | 16.2 | 2 |
 | images/activities/artista_c.svg | 55.4 | 2 |
 | images/activities/artista_t.svg | 41 | 2 |
-| images/activities/baile.svg | 59.9 | 2 |
+| images/activities/baile.svg | 60 | 2 |
 | images/activities/boliche.svg | 32.7 | 4 |
 | images/activities/canciones.svg | 38.7 | 2 |
-| images/activities/carrera.svg | 43.8 | 2 |
+| images/activities/carrera.svg | 183.5 | 2 |
 | images/activities/categorizar.svg | 39.3 | 2 |
 | images/activities/cobija.svg | 25.9 | 4 |
 | images/activities/cocinar.svg | 100.1 | 2 |
@@ -314,7 +316,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/activities/juntos_t.svg | 54.3 | 2 |
 | images/activities/lectura_c.svg | 38 | 2 |
 | images/activities/lectura_t.svg | 23.4 | 2 |
-| images/activities/letras.svg | 36.3 | 2 |
+| images/activities/letras.svg | 36.4 | 2 |
 | images/activities/lider.svg | 44.6 | 6 |
 | images/activities/logica.svg | 28 | 2 |
 | images/activities/narrador_c.svg | 98.4 | 2 |
@@ -327,13 +329,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/activities/pelota.svg | 32.6 | 4 |
 | images/activities/personajes_c.svg | 28.1 | 2 |
 | images/activities/rompecabezas_c.svg | 41.8 | 2 |
-| images/activities/rompecabezas_t.svg | 25 | 2 |
+| images/activities/rompecabezas_t.svg | 25.1 | 2 |
 | images/activities/ropa.svg | 48.7 | 2 |
 | images/activities/saludo_c.svg | 26.6 | 2 |
 | images/activities/saludo_t.svg | 54.7 | 2 |
 | images/activities/sombras.svg | 25.7 | 4 |
 | images/activities/tenis.svg | 48.3 | 4 |
-| images/activities/veo.svg | 119.6 | 2 |
+| images/activities/veo.svg | 119.7 | 2 |
 | images/activities/verduras.svg | 97.8 | 2 |
 | images/backgrounds/bottom_banner.svg | 3.6 | 1 |
 | images/backgrounds/complete_module.svg | 4.5 | 1 |
@@ -757,14 +759,14 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/onboarding/welcome_screen_1.svg | 239.7 | 1 |
 | images/onboarding/welcome_screen_2.svg | 347.1 | 1 |
 | images/onboarding/welcome_screen_3.svg | 360.4 | 1 |
-| lottie/bulging_circles.json | 11.8 | 2 |
-| lottie/checkmark.json | 24.6 | 1 |
-| lottie/gift_box.json | 674.5 | 1 |
 | lottie/relax/blue_dots.json | 14.7 | 4 |
 | lottie/relax/heart.json | 46.7 | 4 |
 | lottie/relax/looping_rings.json | 10.4 | 24 |
 | lottie/relax/soothing_waves.json | 7.6 | 24 |
 | lottie/relax/square_flow.json | 5.9 | 47 |
+| lottie/ux/bulging_circles.json | 11.8 | 2 |
+| lottie/ux/checkmark.json | 24.6 | 1 |
+| lottie/ux/gift_box.json | 674.5 | 1 |
 </details>
 
 <details >
@@ -859,14 +861,14 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | modules_stress_t | 1 |
 | data_list | modules_toddler_change_c | 1 |
 | data_list | modules_young_change_c | 1 |
-| data_list | onboarding | 1 |
+| data_list | onboarding | 2 |
 | data_list | relax | 1 |
 | data_pipe |  | 4 |
 | data_pipe | generated | 150 |
 | generator |  | 87 |
 | global |  | 12 |
 | global | onboarding | 15 |
-| template |  | 177 |
+| template |  | 179 |
 | template | generated | 1093 |
 | template | legal_terms | 4 |
 </details>

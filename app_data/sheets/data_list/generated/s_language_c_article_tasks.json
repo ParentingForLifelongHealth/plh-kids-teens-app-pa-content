@@ -89,9 +89,6 @@
         "text_1_facilitator": {
           "eng": "🔑 Este curso trata sobre cómo preparar a @fields.child_name para el aprovechamiento escolar. Las estrategias que te compartiremos son una guía: úsalas en la medida que @fields.child_name vaya mostrando disposición.\n\n👂 Esta primera sesión consiste en ayudar a @fields.child_name a aprender palabras nuevas y mejorar sus habilidades del habla!\n\n🎓 ¡Aprender a conversar y a mantener una conversación es importante para aprender a leer y lograr un buen desempeño escolar!"
         },
-        "text_2": {
-          "eng": "Empecemos con un ejercicio 📝"
-        },
         "quiz_1_question": {
           "eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\nCualquier niña o niño, independientemente de su crecimiento, puede aprender y desarrollar habilidades."
         },
@@ -133,7 +130,6 @@
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "text_1_facilitator": {},
-        "text_2": {},
         "quiz_2_question": {},
         "quiz_2_option_1_text": {},
         "quiz_2_feedback_1": {},
@@ -145,7 +141,6 @@
       "quiz_1_option_1_text": "Verdadero",
       "quiz_1_option_2_text": "Falso",
       "text_1_facilitator": "🔑 Este curso trata sobre cómo preparar a @fields.child_name para el aprovechamiento escolar. Las estrategias que te compartiremos son una guía: úsalas en la medida que @fields.child_name vaya mostrando disposición.\n\n👂 Esta primera sesión consiste en ayudar a @fields.child_name a aprender palabras nuevas y mejorar sus habilidades del habla!\n\n🎓 ¡Aprender a conversar y a mantener una conversación es importante para aprender a leer y lograr un buen desempeño escolar!",
-      "text_2": "Empecemos con un ejercicio 📝",
       "quiz_2_question": "📝 **¡Hagamos uno más!**\n\n_Ejercicio no.2_\n\nHablarle a tu niña o niño es lo mismo que mantener una conversación.",
       "quiz_2_option_1_text": "Verdadero",
       "quiz_2_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🎈 Las niñas y los niños aprenden palabras nuevas y adquieren confianza en sus capacidades lingüísticas cuando intentamos mantener una conversación con ellas y ellos. \n\n🌷 Puede que las niñas y los niños no sepan pronunciar muchas palabras, ¡pero es importante seguir animándolos!",
@@ -175,9 +170,9 @@
         "text_2": {},
         "character_1_text": {}
       },
-      "text_2": "@data.characters.f2_abuelo.name es una persona comprometida con la crianza positiva. Veamos cómo aborda el pasar tiempo con su nieta, @data.characters.f2_hija_3.name",
       "image_asset": "images/comic/learn/language_yc_1.svg",
       "character_1_id": "f2_abuelo",
+      "text_2": "@data.characters.f2_abuelo.name es una persona comprometida con la crianza positiva. Veamos cómo aborda el pasar tiempo con su nieta, @data.characters.f2_hija_3.name",
       "character_1_text": "Veo que estás concentrada jugando con los bloques en silencio, @data.characters.f2_hija_3.name.",
       "completed": false,
       "version": 1
@@ -294,7 +289,7 @@
           "eng": "CONSTRUIR"
         },
         "section_4_text": {
-          "eng": "👂Escucha atentamente a @fields.child_name y siempre respóndele.\n\n🔄 Confirma lo que te dice y agrégale algo más para ayudarle a conectar su comprensión de la situación con el lenguaje. Por ejemplo, si @fields.child_name dice: \"Hay un gato\", podrías responder: \"Sí, hay un gato haciendo un agujero grande en el suelo\".\n\nEvita corregir en exceso. En vez de decir: \"No, no se dice japón, se debe decir jabón con B\", prueba con \"¡Ah, claro! La niña está usando el **jabón** para lavarse las manos\"."
+          "eng": "👂Escucha atentamente a @fields.child_name y siempre respóndele.\n\n🔄 Confirma lo que te dice y agrégale algo más para ayudarle a conectar su comprensión de la situación con el lenguaje. Por ejemplo, si @fields.child_name dice: \"Hay un gato\", podrías responder: \"Sí, hay un gato haciendo un agujero grande en el suelo\".\n\nEvita corregir en exceso. En vez de decir: \"No, no se dice japón, se debe decir jabón con B\", prueba con \"¡Ah, claro! La niña está usando el jabón para lavarse las manos\"."
         },
         "section_5_title": {
           "eng": "CONTAR HISTORIAS"
@@ -331,7 +326,7 @@
       "section_3_title": "ESCUCHAR",
       "section_3_text": "👂 Deja que @fields.child_name hable también. \n\n⏰ Dale tiempo para responder. Es posible que necesite tiempo para pensar y poderse expresar, ¡sobre todo si va a dar una respuesta más larga! \n\n😃 Después de darle un poco de tiempo, si todavía le resulta difícil expresar lo que quiere decir, ¡ayúdale a iniciar la oración o con alguna indicación corta!",
       "section_4_title": "CONSTRUIR",
-      "section_4_text": "👂Escucha atentamente a @fields.child_name y siempre respóndele.\n\n🔄 Confirma lo que te dice y agrégale algo más para ayudarle a conectar su comprensión de la situación con el lenguaje. Por ejemplo, si @fields.child_name dice: \"Hay un gato\", podrías responder: \"Sí, hay un gato haciendo un agujero grande en el suelo\".\n\nEvita corregir en exceso. En vez de decir: \"No, no se dice japón, se debe decir jabón con B\", prueba con \"¡Ah, claro! La niña está usando el **jabón** para lavarse las manos\".",
+      "section_4_text": "👂Escucha atentamente a @fields.child_name y siempre respóndele.\n\n🔄 Confirma lo que te dice y agrégale algo más para ayudarle a conectar su comprensión de la situación con el lenguaje. Por ejemplo, si @fields.child_name dice: \"Hay un gato\", podrías responder: \"Sí, hay un gato haciendo un agujero grande en el suelo\".\n\nEvita corregir en exceso. En vez de decir: \"No, no se dice japón, se debe decir jabón con B\", prueba con \"¡Ah, claro! La niña está usando el jabón para lavarse las manos\".",
       "section_5_title": "CONTAR HISTORIAS",
       "section_5_text": "🎈 ¡Cuéntale historias a @fields.child_name! Pueden ser reales, inventadas, basadas en sus vidas o tomadas de un libro.\n\n😃 Anima a @fields.child_name a que también cuente sus propias historias. ¡Podrías mostrarle fotos para crear una historia juntos!\n\n📖 Usa los cuentos y las historias para aprender palabras nuevas e incorpóralas a varias frases a lo largo del día.\n\n🔄 ¡Ten paciencia! Se necesita mucha práctica para escuchar historias y aún más para desarrollar la habilidad de contarlas. 💙",
       "completed": false,
@@ -341,7 +336,7 @@
       "id": "home_activity_1",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Actividad para casa**⭐\n\nDurante su tiempo juntos y conectados, intenta usar palabras y gestos para describir sus actividades. \n\nAsegúrate de que te comunicas de forma que @fields.child_name pueda entenderte."
+          "eng": "**Actividad para casa** ⭐\n\nDurante su tiempo juntos y conectados, intenta usar palabras y gestos para describir sus actividades. \n\nAsegúrate de que te comunicas de forma que @fields.child_name pueda entenderte."
         },
         "quiz_1_question": {
           "eng": "¿Puedes hacerlo hoy?"
@@ -384,7 +379,7 @@
       "quiz_1_option_1_text": "Sí",
       "quiz_1_option_2_text": "Lo intentaré",
       "quiz_1_option_3_text": "No",
-      "text_1_facilitator": "**Actividad para casa**⭐\n\nDurante su tiempo juntos y conectados, intenta usar palabras y gestos para describir sus actividades. \n\nAsegúrate de que te comunicas de forma que @fields.child_name pueda entenderte.",
+      "text_1_facilitator": "**Actividad para casa** ⭐\n\nDurante su tiempo juntos y conectados, intenta usar palabras y gestos para describir sus actividades. \n\nAsegúrate de que te comunicas de forma que @fields.child_name pueda entenderte.",
       "completed": false,
       "version": 1
     }

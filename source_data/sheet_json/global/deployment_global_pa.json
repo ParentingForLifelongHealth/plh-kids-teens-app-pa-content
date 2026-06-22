@@ -158,8 +158,7 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "lock_course_text",
-      "value": "Podrás acceder a cursos adicionales una vez que completes las sesiones disponibles."
+      "name": "lock_course_text"
     },
     {
       "type": "declare_global_constant",
