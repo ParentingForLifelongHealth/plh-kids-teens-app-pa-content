@@ -6,24 +6,44 @@
   "rows": [
     {
       "id": "id_1",
-      "text": "Getting everything ready for you",
+      "text": "Estamos preparando todo para darte la mejor experiencia",
       "colour": "red",
       "timespan": 1000
     },
     {
       "id": "id_2",
-      "text": "Looking at what your child needs",
+      "text": "Conociendo mejor las necesidades de tu familia",
       "colour": "blue",
       "timespan": 1000
     },
     {
       "id": "id_3",
-      "text": "Getting ideas from experts",
+      "text": "Explorando recomendaciones de especialistas",
       "colour": "green",
       "timespan": 1000
     },
     {
-      "text": "Making this just right for your family"
+      "id": "id_4",
+      "text": "Adaptando estas ideas a tu familia",
+      "timespan": 1000
+    },
+    {
+      "colour": "#0278A2"
+    },
+    {
+      "colour": "$color-primary-variant",
+      "timespan": "hsl(196, 83%, 55%)",
+      "__EMPTY": "#2EBBEB"
+    },
+    {
+      "colour": "$color-secondary",
+      "timespan": "hsl(78, 53%, 55%)",
+      "__EMPTY": "#A7C94F"
+    },
+    {
+      "colour": "$color-red",
+      "timespan": "hsl(9, 85%, 48%)",
+      "__EMPTY": "#E23712"
     }
   ]
 }
