@@ -49,7 +49,7 @@ config.canto = {
     }
   ],
   languageMappings: {
-    Spanish: "gb_en",
+    Spanish: "pa_es",
   },
   ...loadEncryptedConfig("canto.json"),
 }
@@ -92,7 +92,7 @@ config.web.favicon_asset = "images/logos/favicon.png";
 config.api.db_name = "plh_kids_teens_pa";
 config.app_data.output_path = "./app_data";
 
-config.app_config.APP_LANGUAGES.default = "gb_en";
+config.app_config.APP_LANGUAGES.default ="pa_es";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "PanamaApp";
 config.app_config.APP_HEADER_DEFAULTS.title = "PanamaApp";
 config.app_config.APP_HEADER_DEFAULTS.hidden = true;
