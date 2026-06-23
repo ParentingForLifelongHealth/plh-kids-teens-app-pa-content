@@ -1,4 +1,4 @@
-import { generateDeploymentConfig,loadEncryptedConfig } from "scripts";
+import { generateDeploymentConfig, loadEncryptedConfig } from "scripts";
 
 const config = generateDeploymentConfig("plh_kids_teens_pa");
 
@@ -18,7 +18,9 @@ config.google_drive.sheets_folders = [
 config.google_drive.assets_folders = [
   { id: "1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", name: "kids_global_assets" },
   { id: "11FFBdMbwQ8aiUkprH-qXYC-uONXmJLHs", name: "kids_teens_global V2 assets" },
-  //{id: "1Bd5jF92SY4ehEf-IdLA7cWBYK-nQgO_w", name: "kids_teens_pa"}
+  //{id: "1Bd5jF92SY4ehEf-IdLA7cWBYK-nQgO_w", name: "kids_teens_pa"},
+  // {id: "1jpUVektiLhj_UZItuXuJiDs8dQv94Z3l", name: "child_assets_pa", remote: true },
+  // {id: "1a3SYnU9Ov9tTuuTu5dVne1GJXGwVsPsh", name: "teens_assets_pa", remote: true },
 ];
 
 config.canto = {
@@ -28,7 +30,7 @@ config.canto = {
       id: "KU9TL", name: "Panama Canto Assets",
       remote_assets: [
         {
-          name: "assets_facilitor_gender_f",
+          name: "assets_facilitator_female",
           condition: {
             type: "custom_field",
             field: "Facilitator Gender",
@@ -36,7 +38,7 @@ config.canto = {
           },
         },
         {
-          name: "assets_facilitor_gender_m",
+          name: "assets_facilitator_male",
           condition: {
             type: "custom_field",
             field: "Facilitator Gender",
@@ -47,7 +49,7 @@ config.canto = {
     }
   ],
   languageMappings: {
-    Spanish: "gb_en",
+    Spanish: "pa_es",
   },
   ...loadEncryptedConfig("canto.json"),
 }
@@ -55,20 +57,20 @@ config.canto = {
 config.remote_assets = {
   provider: "firebase",
   bucketName: "plh-kids-teens-pa",
-  folderName: "asset_packs",
+  folderName: "remote_assets",
 }
 
 config.android = {
-  app_id:'international.idems.plh_kids_teens_pa',
-  app_name:'Crianza Reponsable y Amorosa',  
+  app_id: 'international.idems.plh_kids_teens_pa',
+  app_name: 'Crianza Reponsable y Amorosa',
   logo_asset_path: "./app_data/assets/android/icon-foreground.png",
   logo_background_color: "#FFFFFF",
   zoom_enabled: true
 };
 
 config.ios = {
-  app_id:"international.idems.plh-kids-teens-pa",
-  app_name:"Crianza Reponsable y Amorosa",
+  app_id: "international.idems.plh-kids-teens-pa",
+  app_name: "Crianza Reponsable y Amorosa",
   logo_asset_path: "./app_data/assets/android/icon-foreground.png",
   logo_background_color: "#FFFFFF",
   zoom_enabled: true
@@ -90,7 +92,7 @@ config.web.favicon_asset = "images/logos/favicon.png";
 config.api.db_name = "plh_kids_teens_pa";
 config.app_data.output_path = "./app_data";
 
-config.app_config.APP_LANGUAGES.default = "gb_en";
+config.app_config.APP_LANGUAGES.default ="pa_es";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "PanamaApp";
 config.app_config.APP_HEADER_DEFAULTS.title = "PanamaApp";
 config.app_config.APP_HEADER_DEFAULTS.hidden = true;
