@@ -36,6 +36,7 @@
     },
     {
       "type": "begin_display_group",
+      "parameter_list": "wrap: true;",
       "style_list": "justify-content: center;"
     },
     {
@@ -47,11 +48,18 @@
       "exclude_from_translation": true
     },
     {
+      "type": "text",
+      "name": "spacer",
+      "value": "   ",
+      "exclude_from_translation": true
+    },
+    {
       "type": "button",
       "name": "share_button",
       "value": "@global.share",
       "action_list": "click | share: file: @local.image_url",
       "parameter_list": "icon: images/icons/share.svg;\nstyle: navigation;",
+      "style_list": "margin-inline-start: -1em;",
       "exclude_from_translation": true
     },
     {
