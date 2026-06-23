@@ -188,9 +188,6 @@
     },
     {
       "type": "display_group",
-      "parameter_list": {
-        "wrap": "true"
-      },
       "style_list": [
         "justify-content: center"
       ],
@@ -265,16 +262,6 @@
           }
         },
         {
-          "type": "text",
-          "name": "spacer",
-          "value": "",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "_nested_name": "display_group_8.spacer"
-        },
-        {
           "type": "button",
           "name": "share_button",
           "value": "@global.share",
@@ -296,9 +283,6 @@
             "icon": "images/icons/share.svg",
             "style": "navigation"
           },
-          "style_list": [
-            "margin-inline-start: -1em"
-          ],
           "exclude_from_translation": true,
           "_nested_name": "display_group_8.share_button",
           "_dynamicFields": {

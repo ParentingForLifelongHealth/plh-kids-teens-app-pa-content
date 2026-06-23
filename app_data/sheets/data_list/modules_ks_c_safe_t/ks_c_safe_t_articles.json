@@ -13,6 +13,7 @@
       "text_1_facilitator": "Madres, padres y personas cuidadoras de todo el mundo se preocupan por la seguridad de sus niñas, niños y adolescentes. ¡No eres la única persona pasando por esto!",
       "_translations": {
         "text_1_facilitator": {},
+        "text_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
@@ -35,8 +36,11 @@
         "text_1_facilitator": {
           "eng": "Madres, padres y personas cuidadoras de todo el mundo se preocupan por la seguridad de sus niñas, niños y adolescentes. ¡No eres la única persona pasando por esto!"
         },
+        "text_2": {
+          "eng": "¡Hagamos un ejercicio! Vamos a poner a prueba tus conocimientos sobre la seguridad en la adolescencia."
+        },
         "quiz_1_question": {
-          "eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\n¿Cuál de estos espacios sería un lugar en donde las niñas, los niños o adolescentes podrían estar cien por ciento seguros?"
+          "eng": "📝 ¡Hagamos un ejercicio!\n\n_Ejercicio no.1_\n\n¿Cuál de estos espacios sería un lugar en donde las niñas, los niños o adolescentes podrían estar cien por ciento seguros?"
         },
         "quiz_1_option_1_text": {
           "eng": "La casa"
@@ -87,7 +91,8 @@
           "eng": "🎉  Tienes razón.\n\n🔴 Tu adolescente podría sufrir daños en cualquiera de estos lugares, incluso en la casa o en algún espacio público. Es nuestra responsabilidad, como sus figuras protectoras, ayudarles a aprender a evitar situaciones difíciles o a saber qué hacer para alejarse y salvar sus propias vidas dondequiera que estén."
         }
       },
-      "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\n¿Cuál de estos espacios sería un lugar en donde las niñas, los niños o adolescentes podrían estar cien por ciento seguros?",
+      "text_2": "¡Hagamos un ejercicio! Vamos a poner a prueba tus conocimientos sobre la seguridad en la adolescencia.",
+      "quiz_1_question": "📝 ¡Hagamos un ejercicio!\n\n_Ejercicio no.1_\n\n¿Cuál de estos espacios sería un lugar en donde las niñas, los niños o adolescentes podrían estar cien por ciento seguros?",
       "quiz_1_option_1_text": "La casa",
       "quiz_1_feedback_1": "👀 ¡Ups! ¡Buen intento!\n\n🔴 Tu adolescente podría sufrir daños en cualquiera de estos lugares, incluso en la casa. Es nuestra responsabilidad, como sus figuras protectoras, ayudarles a aprender a evitar situaciones difíciles o a saber qué hacer para alejarse y salvar sus propias vidas dondequiera que estén.",
       "quiz_1_option_2_text": "La casa de una amiga o amigo",
