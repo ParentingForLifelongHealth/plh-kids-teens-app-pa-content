@@ -30,7 +30,7 @@ config.canto = {
       id: "KU9TL", name: "Panama Canto Assets",
       remote_assets: [
         {
-          name: "assets_facilitator_gender_f",
+          name: "assets_facilitator_female",
           condition: {
             type: "custom_field",
             field: "Facilitator Gender",
