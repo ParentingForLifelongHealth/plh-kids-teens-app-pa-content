@@ -86,30 +86,6 @@
           "value": false,
           "type": "set_variable",
           "_nested_name": "user_data.show_title"
-        },
-        {
-          "name": "button_completed",
-          "value": "@global.save",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "user_data.button_completed",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@global.save",
-                "matchedExpression": "@global.save",
-                "type": "global",
-                "fieldName": "save"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@global.save": [
-              "value"
-            ]
-          }
         }
       ],
       "_nested_name": "user_data"

@@ -12,13 +12,13 @@
     {
       "type": "title",
       "name": "title",
-      "value": "Before you go",
+      "value": "@global.confirm_exit_title",
       "exclude_from_translation": false
     },
     {
       "type": "text",
       "name": "text_warning",
-      "value": "If you leave now, your changes will not be saved.",
+      "value": "@global.confirm_exit_text",
       "exclude_from_translation": false
     },
     {
@@ -28,7 +28,7 @@
     {
       "type": "button",
       "name": "button_no",
-      "value": "Cancel",
+      "value": "@global.confirm_exit_button_cancel",
       "action_list": "click | emit: uncompleted;",
       "exclude_from_translation": false,
       "parameter_list": "style: card",
@@ -37,11 +37,12 @@
     {
       "type": "button",
       "name": "button_delete",
-      "value": "Leave without saving",
-      "action_list": "click | emit: completed;\nclick | nav_stack: close_all;",
+      "value": "@global.confirm_exit_button_leave",
+      "action_list": "click | emit: completed;\nclick | nav: back;",
       "exclude_from_translation": false,
       "parameter_list": "style: card",
-      "style_list": "flex:1"
+      "style_list": "flex:1",
+      "comment": "This used to include the action below but I don't know why this would be needed.\n\nclick | nav_stack: close_all;"
     },
     {
       "type": "end_display_group"
