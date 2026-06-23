@@ -28,7 +28,7 @@
 | plh_lesson_cta | 2 |
 | plh_module_details_header | 1 |
 | plh_module_list_item | 2 |
-| plh_progress_bar | 4 |
+| plh_progress_bar | 5 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
 | round_button | 20 |
@@ -39,7 +39,7 @@
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 1357 |
-| text | 288 |
+| text | 289 |
 | text_area | 3 |
 | text_box | 21 |
 | text_bubble | 17 |
@@ -67,10 +67,10 @@
 | emit: set_language | 2 |
 | emit: uncompleted | 989 |
 | feedback | 13 |
-| go_to | 18 |
+| go_to | 26 |
 | nav_stack | 494 |
 | plh_certificate | 12 |
-| pop_up | 104 |
+| pop_up | 96 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 1 |
@@ -89,8 +89,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 75502 KB | 75.5 MB |
-| unused | 35572 KB | 35.6 MB |
+| total | 72634 KB | 72.6 MB |
+| unused | 12787 KB | 12.8 MB |
 </details>
 
 <details open>
@@ -103,24 +103,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-background.png | 21.4 |
 | android/icon-foreground.png | 44 |
 | android/icon.png | 70.3 |
-| android/logo-with-text.png | 17.9 |
 | android/splash.png | 239 |
-| audio/relax/unused relax audios/relax _22.m4a | 172 |
-| audio/relax/unused relax audios/relax_10.m4a | 390 |
-| audio/relax/unused relax audios/relax_11.m4a | 284 |
-| audio/relax/unused relax audios/relax_12.m4a | 447 |
-| audio/relax/unused relax audios/relax_13.m4a | 267.1 |
-| audio/relax/unused relax audios/relax_18.m4a | 729.8 |
-| audio/relax/unused relax audios/relax_19.m4a | 1089.5 |
-| audio/relax/unused relax audios/relax_20.m4a | 1010.5 |
-| audio/relax/unused relax audios/relax_21.m4a | 374.2 |
-| audio/relax/unused relax audios/relax_23.m4a | 223 |
-| audio/relax/unused relax audios/relax_24.m4a | 222.9 |
-| audio/relax/unused relax audios/relax_4.m4a | 528.3 |
-| audio/relax/unused relax audios/relax_5.m4a | 278.5 |
-| audio/relax/unused relax audios/relax_6.m4a | 214.9 |
-| audio/relax/unused relax audios/relax_7.m4a | 303 |
-| audio/relax/unused relax audios/relax_8.m4a | 284.2 |
 | images/activities/personajes_t.svg | 54 |
 | images/backgrounds/homescreen_pattern.svg | 156.3 |
 | images/certificates/PA_certificate_Apoyar a mi adolescente en su aprendizaje.pptx.png | 135.3 |
@@ -136,19 +119,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/certificates/PA_certificate_Seguridad de mi niña o niño.png | 134.2 |
 | images/character_icons/ANGELA_facilitator.svg | 9477.2 |
 | images/character_icons/ANGEL_facilitator.svg | 921.4 |
-| images/facilitators/Angel_male.jpeg | 60.5 |
-| images/facilitators/Angela_female.jpg | 7857.1 |
-| images/facilitators/Presenters illustrations.pdf | 473 |
 | images/flags/gb.svg | 0.5 |
-| images/homescreen/OLD homescreen images/OLD behave_c.svg | 1039 |
-| images/homescreen/OLD homescreen images/OLD learn_c.svg | 450.4 |
-| images/homescreen/OLD homescreen images/OLD learn_t.svg | 618.7 |
-| images/homescreen/OLD homescreen images/OLD relation_c.svg | 760 |
-| images/homescreen/OLD homescreen images/OLD relation_t.svg | 622.7 |
-| images/homescreen/OLD homescreen images/OLD safety_c.svg | 595.9 |
-| images/homescreen/OLD homescreen images/OLD safety_t.svg | 699.7 |
-| images/homescreen/OLD homescreen images/OLD understand_t.svg | 549.4 |
-| images/homescreen/OLD homescreen images/OLDunderstand_c.svg | 598.3 |
 | images/icons/123.svg | 18.9 |
 | images/icons/abc.svg | 10.6 |
 | images/icons/book_outline_blue.svg | 0.7 |
@@ -200,23 +171,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/trust.svg | 18.9 |
 | images/icons/verified.svg | 0.5 |
 | images/icons/world.svg | 6.2 |
-| images/logos/Crianza-01.jpg | 221.9 |
-| images/logos/Crianza-01.png | 17 |
-| images/logos/Crianza-03.jpg | 227.6 |
-| images/logos/MIDES.png | 39.9 |
-| images/logos/donors/Agency_fund.png | 43.7 |
-| images/logos/donors/ERC-EU.png | 209.7 |
-| images/logos/donors/ERC.png | 321.9 |
-| images/logos/donors/GCRF.png | 38.7 |
-| images/logos/donors/Human_safety_net.png | 36.1 |
-| images/logos/donors/LEGO.png | 32 |
-| images/logos/donors/Nuffield_college.png | 63.5 |
-| images/logos/donors/OAK.png | 66.6 |
-| images/logos/donors/UKRI.png | 30.1 |
-| images/logos/donors/WCF.jpg | 90.5 |
-| images/logos/donors/Wellspring.jpeg | 106.5 |
-| images/logos/donors/safe_online.png | 65.8 |
-| images/logos/favicon.png | 17.9 |
+| images/logos/favicon.png | 6.3 |
 | images/logos/plh_white.png | 12.8 |
 | lottie/bulging_circles.json | 11.8 |
 | lottie/bulging_circles.txt | 0.2 |
@@ -230,26 +185,6 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| audio/relax/relax _22.m4a | 1 |
-| audio/relax/relax_10.m4a | 1 |
-| audio/relax/relax_11.m4a | 1 |
-| audio/relax/relax_12.m4a | 1 |
-| audio/relax/relax_13.m4a | 1 |
-| audio/relax/relax_14.m4a | 1 |
-| audio/relax/relax_15.m4a | 1 |
-| audio/relax/relax_16.m4a | 1 |
-| audio/relax/relax_17.m4a | 1 |
-| audio/relax/relax_18.m4a | 1 |
-| audio/relax/relax_19.m4a | 1 |
-| audio/relax/relax_20.m4a | 1 |
-| audio/relax/relax_21.m4a | 1 |
-| audio/relax/relax_23.m4a | 1 |
-| audio/relax/relax_24.m4a | 1 |
-| audio/relax/relax_4.m4a | 1 |
-| audio/relax/relax_5.m4a | 1 |
-| audio/relax/relax_6.m4a | 1 |
-| audio/relax/relax_7.m4a | 1 |
-| audio/relax/relax_8.m4a | 1 |
 | images/logos/app_logo.png | 1 |
 | images/logos/plh_logomark.png | 1 |
 </details>
@@ -261,14 +196,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | path | size_kb | count |
 | --- | --- | --- |
-| audio/relax/female/relax_14.m4a | 290.6 | 21 |
-| audio/relax/female/relax_15.m4a | 360.2 | 21 |
-| audio/relax/female/relax_16.m4a | 301.4 | 21 |
-| audio/relax/female/relax_17.m4a | 335.8 | 20 |
-| audio/relax/male/relax_1.m4a | 213.2 | 21 |
-| audio/relax/male/relax_2.m4a | 451.3 | 21 |
-| audio/relax/male/relax_3.m4a | 244.5 | 21 |
-| audio/relax/male/relax_9.m4a | 530.4 | 20 |
 | images/activities/aciegas_c.svg | 32.8 | 2 |
 | images/activities/aciegas_t.svg | 27.2 | 2 |
 | images/activities/activate_c.svg | 34.1 | 2 |
@@ -281,10 +208,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/activities/aprender_t.svg | 16.2 | 2 |
 | images/activities/artista_c.svg | 55.4 | 2 |
 | images/activities/artista_t.svg | 41 | 2 |
-| images/activities/baile.svg | 60 | 2 |
+| images/activities/baile.svg | 59.9 | 2 |
 | images/activities/boliche.svg | 32.7 | 4 |
 | images/activities/canciones.svg | 38.7 | 2 |
-| images/activities/carrera.svg | 183.5 | 2 |
+| images/activities/carrera.svg | 43.8 | 2 |
 | images/activities/categorizar.svg | 39.3 | 2 |
 | images/activities/cobija.svg | 25.9 | 4 |
 | images/activities/cocinar.svg | 100.1 | 2 |
@@ -316,7 +243,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/activities/juntos_t.svg | 54.3 | 2 |
 | images/activities/lectura_c.svg | 38 | 2 |
 | images/activities/lectura_t.svg | 23.4 | 2 |
-| images/activities/letras.svg | 36.4 | 2 |
+| images/activities/letras.svg | 36.3 | 2 |
 | images/activities/lider.svg | 44.6 | 6 |
 | images/activities/logica.svg | 28 | 2 |
 | images/activities/narrador_c.svg | 98.4 | 2 |
@@ -329,13 +256,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/activities/pelota.svg | 32.6 | 4 |
 | images/activities/personajes_c.svg | 28.1 | 2 |
 | images/activities/rompecabezas_c.svg | 41.8 | 2 |
-| images/activities/rompecabezas_t.svg | 25.1 | 2 |
+| images/activities/rompecabezas_t.svg | 25 | 2 |
 | images/activities/ropa.svg | 48.7 | 2 |
 | images/activities/saludo_c.svg | 26.6 | 2 |
 | images/activities/saludo_t.svg | 54.7 | 2 |
 | images/activities/sombras.svg | 25.7 | 4 |
 | images/activities/tenis.svg | 48.3 | 4 |
-| images/activities/veo.svg | 119.7 | 2 |
+| images/activities/veo.svg | 119.6 | 2 |
 | images/activities/verduras.svg | 97.8 | 2 |
 | images/backgrounds/bottom_banner.svg | 3.6 | 1 |
 | images/backgrounds/complete_module.svg | 4.5 | 1 |
@@ -677,7 +604,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/diamond-outline.svg | 0.6 | 2 |
 | images/icons/diamond.png | 1.8 | 1 |
 | images/icons/diamond_active.png | 1.7 | 1 |
-| images/icons/diamond_blue.png | 4.7 | 8 |
+| images/icons/diamond_blue.png | 4.7 | 10 |
 | images/icons/distance.png | 41.4 | 6 |
 | images/icons/document-lock-outline.svg | 0.7 | 1 |
 | images/icons/document-text-outline-thin.svg | 0.5 | 1 |
@@ -720,7 +647,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/log-in-outline.svg | 0.5 | 1 |
 | images/icons/magnifying_glass.svg | 0.9 | 98 |
 | images/icons/maths.png | 29.4 | 4 |
-| images/icons/no.png | 44.6 | 6 |
+| images/icons/no.png | 44.6 | 4 |
 | images/icons/parent_child.svg | 2 | 24 |
 | images/icons/parent_child_heart.svg | 3 | 88 |
 | images/icons/pause.svg | 0.7 | 78 |
@@ -867,7 +794,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_pipe | generated | 150 |
 | generator |  | 87 |
 | global |  | 12 |
-| global | onboarding | 15 |
+| global | onboarding | 16 |
 | template |  | 179 |
 | template | generated | 1093 |
 | template | legal_terms | 4 |

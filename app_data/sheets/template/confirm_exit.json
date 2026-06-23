@@ -18,22 +18,52 @@
     {
       "type": "title",
       "name": "title",
-      "value": "Before you go",
+      "value": "@global.confirm_exit_title",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": false,
-      "_nested_name": "title"
+      "_nested_name": "title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.confirm_exit_title",
+            "matchedExpression": "@global.confirm_exit_title",
+            "type": "global",
+            "fieldName": "confirm_exit_title"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.confirm_exit_title": [
+          "value"
+        ]
+      }
     },
     {
       "type": "text",
       "name": "text_warning",
-      "value": "If you leave now, your changes will not be saved.",
+      "value": "@global.confirm_exit_text",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": false,
-      "_nested_name": "text_warning"
+      "_nested_name": "text_warning",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.confirm_exit_text",
+            "matchedExpression": "@global.confirm_exit_text",
+            "type": "global",
+            "fieldName": "confirm_exit_text"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.confirm_exit_text": [
+          "value"
+        ]
+      }
     },
     {
       "type": "display_group",
@@ -42,7 +72,7 @@
         {
           "type": "button",
           "name": "button_no",
-          "value": "Cancel",
+          "value": "@global.confirm_exit_button_cancel",
           "_translations": {
             "value": {}
           },
@@ -63,12 +93,27 @@
           "style_list": [
             "flex:1"
           ],
-          "_nested_name": "buttons.button_no"
+          "_nested_name": "buttons.button_no",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.confirm_exit_button_cancel",
+                "matchedExpression": "@global.confirm_exit_button_cancel",
+                "type": "global",
+                "fieldName": "confirm_exit_button_cancel"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.confirm_exit_button_cancel": [
+              "value"
+            ]
+          }
         },
         {
           "type": "button",
           "name": "button_delete",
-          "value": "Leave without saving",
+          "value": "@global.confirm_exit_button_leave",
           "_translations": {
             "value": {}
           },
@@ -83,11 +128,11 @@
             },
             {
               "trigger": "click",
-              "action_id": "nav_stack",
+              "action_id": "nav",
               "args": [
-                "close_all"
+                "back"
               ],
-              "_raw": "click | nav_stack: close_all"
+              "_raw": "click | nav: back"
             }
           ],
           "exclude_from_translation": false,
@@ -97,7 +142,22 @@
           "style_list": [
             "flex:1"
           ],
-          "_nested_name": "buttons.button_delete"
+          "_nested_name": "buttons.button_delete",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.confirm_exit_button_leave",
+                "matchedExpression": "@global.confirm_exit_button_leave",
+                "type": "global",
+                "fieldName": "confirm_exit_button_leave"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.confirm_exit_button_leave": [
+              "value"
+            ]
+          }
         }
       ],
       "_nested_name": "buttons"

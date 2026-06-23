@@ -13,42 +13,71 @@
     },
     {
       "type": "text",
-      "value": "Starting your setup...",
+      "value": "@global.setup_text",
       "parameter_list": "style: emphasised;"
+    },
+    {
+      "type": "text",
+      "name": "bar_1_title",
+      "value": "@data.onboarding_progress_bars.id_1.text;",
+      "parameter_list": "color: @data.onboarding_progress_bars.id_1.colour"
     },
     {
       "type": "plh_progress_bar",
       "name": "bar_1",
-      "parameter_list": "title: @data.onboarding_progress_bars.id_1.text;\nduration: @data.onboarding_progress_bars.id_1.timespan;\nauto_play: true;\ncolor: @data.onboarding_progress_bars.id_1.colour"
+      "parameter_list": "duration: @data.onboarding_progress_bars.id_1.timespan;\nauto_play: true;\ncolor: @data.onboarding_progress_bars.id_1.colour"
+    },
+    {
+      "type": "text",
+      "name": "bar_2_title",
+      "value": "@data.onboarding_progress_bars.id_2.text;",
+      "parameter_list": "color: @data.onboarding_progress_bars.id_1.colour"
     },
     {
       "type": "plh_progress_bar",
       "name": "bar_2",
-      "parameter_list": "title: @data.onboarding_progress_bars.id_2.text;\nduration: @data.onboarding_progress_bars.id_2.timespan;\nauto_play: @local.bar_1 == 100;\ncolor: @data.onboarding_progress_bars.id_2.colour;"
+      "parameter_list": "duration: @data.onboarding_progress_bars.id_2.timespan;\nauto_play: @local.bar_1 == 100;\ncolor: @data.onboarding_progress_bars.id_2.colour;"
+    },
+    {
+      "type": "text",
+      "name": "bar_3_title",
+      "value": "@data.onboarding_progress_bars.id_3.text;",
+      "parameter_list": "color: @data.onboarding_progress_bars.id_1.colour"
     },
     {
       "type": "plh_progress_bar",
-      "name": "bar_3_fake",
-      "parameter_list": "title: @data.onboarding_progress_bars.id_3.text;\nduration: @data.onboarding_progress_bars.id_3.timespan;\nauto_play: @local.bar_2 == 100;\ncolor: @data.onboarding_progress_bars.id_3.colour;",
+      "name": "bar_3",
+      "parameter_list": "duration: @data.onboarding_progress_bars.id_3.timespan;\nauto_play: @local.bar_2 == 100;\ncolor: @data.onboarding_progress_bars.id_3.colour;"
+    },
+    {
+      "type": "text",
+      "name": "bar_4_title",
+      "value": "@data.onboarding_progress_bars.id_4.text;",
+      "parameter_list": "color: @data.onboarding_progress_bars.id_1.colour"
+    },
+    {
+      "type": "plh_progress_bar",
+      "name": "bar_4_fake",
+      "parameter_list": "duration: @data.onboarding_progress_bars.id_4.timespan;\nauto_play: @local.bar_3 == 100;\ncolor: @data.onboarding_progress_bars.id_4.colour;",
       "condition": "@local.total_count == 0"
     },
     {
       "type": "plh_progress_bar",
-      "name": "bar_3_real",
+      "name": "bar_4_real",
       "value": "@calc((@local.completed_count / @local.total_count) * 100)",
-      "parameter_list": "title: @data.onboarding_progress_bars.id_3.text;\ncolor: @data.onboarding_progress_bars.id_3.colour;",
+      "parameter_list": "color: @data.onboarding_progress_bars.id_4.colour;",
       "condition": "@local.total_count !== 0"
     },
     {
       "name": "completed_enabled",
-      "value": "@calc((@local.bar_3_real == 100) || (@local.bar_3_fake == 100))"
+      "value": "@calc((@local.bar_4_real == 100) || (@local.bar_4_fake == 100))"
     },
     {
       "type": "data_items",
       "value": "_asset_packs",
       "action_list": "data_changed | set_local : total_count: @items[0].assets_total_count;\ndata_changed | set_local : completed_count: @items[0].assets_downloaded_count;",
       "parameter_list": "filter: @item.download_status !== completed;",
-      "condition": "@local.bar_2 == 100",
+      "condition": "@local.bar_3 == 100",
       "comments": "only check status after last bar as finished. "
     },
     {

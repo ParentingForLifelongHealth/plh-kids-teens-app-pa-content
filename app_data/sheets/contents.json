@@ -13130,6 +13130,16 @@
         "url": "https://docs.google.com/spreadsheets/d/1r5zNT0MXsfMYSXrhYSLw1xGesza4qjQB-EJ2PMmTBlc"
       }
     },
+    "onboarding_page_14_setup": {
+      "flow_type": "global",
+      "flow_subtype": "onboarding",
+      "flow_name": "onboarding_page_14_setup",
+      "_source": {
+        "name": "kids_teens_pa",
+        "path": "data/PA onboarding.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1r5zNT0MXsfMYSXrhYSLw1xGesza4qjQB-EJ2PMmTBlc"
+      }
+    },
     "onboarding_page_1_avatars": {
       "flow_type": "global",
       "flow_subtype": "onboarding",
@@ -20991,6 +21001,13 @@
     "settings_about": {
       "flow_type": "template",
       "flow_name": "settings_about",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": false
+          }
+        }
+      },
       "_source": {
         "name": "kids_teens_global V2",
         "path": "templates/PLH settings.xlsx",
@@ -21009,6 +21026,13 @@
     "settings_language_select": {
       "flow_type": "template",
       "flow_name": "settings_language_select",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": false
+          }
+        }
+      },
       "_source": {
         "name": "kids_teens_global V2",
         "path": "templates/PLH settings.xlsx",
@@ -21018,6 +21042,13 @@
     "settings_login": {
       "flow_type": "template",
       "flow_name": "settings_login",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": false
+          }
+        }
+      },
       "_source": {
         "name": "kids_teens_global V2",
         "path": "templates/PLH settings.xlsx",
@@ -21027,6 +21058,13 @@
     "settings_privacy_policy": {
       "flow_type": "template",
       "flow_name": "settings_privacy_policy",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": false
+          }
+        }
+      },
       "_source": {
         "name": "kids_teens_global V2",
         "path": "templates/PLH settings.xlsx",
@@ -21036,6 +21074,13 @@
     "settings_profile": {
       "flow_type": "template",
       "flow_name": "settings_profile",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": false
+          }
+        }
+      },
       "_source": {
         "name": "kids_teens_global V2",
         "path": "templates/PLH settings.xlsx",
@@ -21045,6 +21090,13 @@
     "settings_terms": {
       "flow_type": "template",
       "flow_name": "settings_terms",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": false
+          }
+        }
+      },
       "_source": {
         "name": "kids_teens_global V2",
         "path": "templates/PLH settings.xlsx",
@@ -21054,6 +21106,13 @@
     "settings_user_id": {
       "flow_type": "template",
       "flow_name": "settings_user_id",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": false
+          }
+        }
+      },
       "_source": {
         "name": "kids_teens_global V2",
         "path": "templates/PLH settings.xlsx",

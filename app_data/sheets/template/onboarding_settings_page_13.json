@@ -453,9 +453,9 @@
               "action_id": "asset_pack",
               "args": [
                 "download",
-                "child_assets_pa"
+                "assets_facilitor_gender_m"
               ],
-              "_raw": "click | asset_pack: download: child_assets_pa"
+              "_raw": "click | asset_pack: download: assets_facilitor_gender_m"
             }
           ],
           "parameter_list": {
@@ -465,7 +465,7 @@
           "style_list": [
             "flex: 1"
           ],
-          "condition": "@fields.child_age_tag == \"child\"",
+          "condition": "@fields.facilitator_id== \"facilitator_male\"",
           "exclude_from_translation": true,
           "_nested_name": "dg_footer.button_completed_child",
           "_dynamicFields": {
@@ -511,10 +511,10 @@
             },
             "condition": [
               {
-                "fullExpression": "@fields.child_age_tag == \"child\"",
-                "matchedExpression": "@fields.child_age_tag",
+                "fullExpression": "@fields.facilitator_id== \"facilitator_male\"",
+                "matchedExpression": "@fields.facilitator_id",
                 "type": "fields",
-                "fieldName": "child_age_tag"
+                "fieldName": "facilitator_id"
               }
             ]
           },
@@ -529,7 +529,7 @@
             "!@local.completed_enabled": [
               "parameter_list.disabled"
             ],
-            "@fields.child_age_tag": [
+            "@fields.facilitator_id": [
               "condition"
             ]
           }
@@ -564,9 +564,9 @@
               "action_id": "asset_pack",
               "args": [
                 "download",
-                "teens_assets_pa"
+                "assets_facilitor_gender_f"
               ],
-              "_raw": "click | asset_pack: download: teens_assets_pa"
+              "_raw": "click | asset_pack: download: assets_facilitor_gender_f"
             }
           ],
           "parameter_list": {
@@ -576,7 +576,7 @@
           "style_list": [
             "flex: 1"
           ],
-          "condition": "@fields.child_age_tag !== \"child\"",
+          "condition": "@fields.facilitator_id !== \"facilitator_male\"",
           "exclude_from_translation": true,
           "_nested_name": "dg_footer.button_completed_teens",
           "_dynamicFields": {
@@ -622,10 +622,10 @@
             },
             "condition": [
               {
-                "fullExpression": "@fields.child_age_tag !== \"child\"",
-                "matchedExpression": "@fields.child_age_tag",
+                "fullExpression": "@fields.facilitator_id !== \"facilitator_male\"",
+                "matchedExpression": "@fields.facilitator_id",
                 "type": "fields",
-                "fieldName": "child_age_tag"
+                "fieldName": "facilitator_id"
               }
             ]
           },
@@ -640,7 +640,7 @@
             "!@local.completed_enabled": [
               "parameter_list.disabled"
             ],
-            "@fields.child_age_tag": [
+            "@fields.facilitator_id": [
               "condition"
             ]
           }

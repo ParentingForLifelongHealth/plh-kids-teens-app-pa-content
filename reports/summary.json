@@ -103,7 +103,7 @@
       },
       {
         "type": "plh_progress_bar",
-        "count": 4
+        "count": 5
       },
       {
         "type": "qr_code",
@@ -147,7 +147,7 @@
       },
       {
         "type": "text",
-        "count": 288
+        "count": 289
       },
       {
         "type": "text_area",
@@ -235,7 +235,7 @@
       },
       {
         "type": "go_to",
-        "count": 18
+        "count": 26
       },
       {
         "type": "nav_stack",
@@ -247,7 +247,7 @@
       },
       {
         "type": "pop_up",
-        "count": 104
+        "count": 96
       },
       {
         "type": "reset_app",
@@ -299,13 +299,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "75502 KB",
-        "MB": "75.5 MB"
+        "KB": "72634 KB",
+        "MB": "72.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "35572 KB",
-        "MB": "35.6 MB"
+        "KB": "12787 KB",
+        "MB": "12.8 MB"
       }
     ]
   },
@@ -324,76 +324,8 @@
         "size_kb": 70.3
       },
       {
-        "path": "android/logo-with-text.png",
-        "size_kb": 17.9
-      },
-      {
         "path": "android/splash.png",
         "size_kb": 239
-      },
-      {
-        "path": "audio/relax/unused relax audios/relax _22.m4a",
-        "size_kb": 172
-      },
-      {
-        "path": "audio/relax/unused relax audios/relax_10.m4a",
-        "size_kb": 390
-      },
-      {
-        "path": "audio/relax/unused relax audios/relax_11.m4a",
-        "size_kb": 284
-      },
-      {
-        "path": "audio/relax/unused relax audios/relax_12.m4a",
-        "size_kb": 447
-      },
-      {
-        "path": "audio/relax/unused relax audios/relax_13.m4a",
-        "size_kb": 267.1
-      },
-      {
-        "path": "audio/relax/unused relax audios/relax_18.m4a",
-        "size_kb": 729.8
-      },
-      {
-        "path": "audio/relax/unused relax audios/relax_19.m4a",
-        "size_kb": 1089.5
-      },
-      {
-        "path": "audio/relax/unused relax audios/relax_20.m4a",
-        "size_kb": 1010.5
-      },
-      {
-        "path": "audio/relax/unused relax audios/relax_21.m4a",
-        "size_kb": 374.2
-      },
-      {
-        "path": "audio/relax/unused relax audios/relax_23.m4a",
-        "size_kb": 223
-      },
-      {
-        "path": "audio/relax/unused relax audios/relax_24.m4a",
-        "size_kb": 222.9
-      },
-      {
-        "path": "audio/relax/unused relax audios/relax_4.m4a",
-        "size_kb": 528.3
-      },
-      {
-        "path": "audio/relax/unused relax audios/relax_5.m4a",
-        "size_kb": 278.5
-      },
-      {
-        "path": "audio/relax/unused relax audios/relax_6.m4a",
-        "size_kb": 214.9
-      },
-      {
-        "path": "audio/relax/unused relax audios/relax_7.m4a",
-        "size_kb": 303
-      },
-      {
-        "path": "audio/relax/unused relax audios/relax_8.m4a",
-        "size_kb": 284.2
       },
       {
         "path": "images/activities/personajes_t.svg",
@@ -456,56 +388,8 @@
         "size_kb": 921.4
       },
       {
-        "path": "images/facilitators/Angel_male.jpeg",
-        "size_kb": 60.5
-      },
-      {
-        "path": "images/facilitators/Angela_female.jpg",
-        "size_kb": 7857.1
-      },
-      {
-        "path": "images/facilitators/Presenters illustrations.pdf",
-        "size_kb": 473
-      },
-      {
         "path": "images/flags/gb.svg",
         "size_kb": 0.5
-      },
-      {
-        "path": "images/homescreen/OLD homescreen images/OLD behave_c.svg",
-        "size_kb": 1039
-      },
-      {
-        "path": "images/homescreen/OLD homescreen images/OLD learn_c.svg",
-        "size_kb": 450.4
-      },
-      {
-        "path": "images/homescreen/OLD homescreen images/OLD learn_t.svg",
-        "size_kb": 618.7
-      },
-      {
-        "path": "images/homescreen/OLD homescreen images/OLD relation_c.svg",
-        "size_kb": 760
-      },
-      {
-        "path": "images/homescreen/OLD homescreen images/OLD relation_t.svg",
-        "size_kb": 622.7
-      },
-      {
-        "path": "images/homescreen/OLD homescreen images/OLD safety_c.svg",
-        "size_kb": 595.9
-      },
-      {
-        "path": "images/homescreen/OLD homescreen images/OLD safety_t.svg",
-        "size_kb": 699.7
-      },
-      {
-        "path": "images/homescreen/OLD homescreen images/OLD understand_t.svg",
-        "size_kb": 549.4
-      },
-      {
-        "path": "images/homescreen/OLD homescreen images/OLDunderstand_c.svg",
-        "size_kb": 598.3
       },
       {
         "path": "images/icons/123.svg",
@@ -712,72 +596,8 @@
         "size_kb": 6.2
       },
       {
-        "path": "images/logos/Crianza-01.jpg",
-        "size_kb": 221.9
-      },
-      {
-        "path": "images/logos/Crianza-01.png",
-        "size_kb": 17
-      },
-      {
-        "path": "images/logos/Crianza-03.jpg",
-        "size_kb": 227.6
-      },
-      {
-        "path": "images/logos/MIDES.png",
-        "size_kb": 39.9
-      },
-      {
-        "path": "images/logos/donors/Agency_fund.png",
-        "size_kb": 43.7
-      },
-      {
-        "path": "images/logos/donors/ERC-EU.png",
-        "size_kb": 209.7
-      },
-      {
-        "path": "images/logos/donors/ERC.png",
-        "size_kb": 321.9
-      },
-      {
-        "path": "images/logos/donors/GCRF.png",
-        "size_kb": 38.7
-      },
-      {
-        "path": "images/logos/donors/Human_safety_net.png",
-        "size_kb": 36.1
-      },
-      {
-        "path": "images/logos/donors/LEGO.png",
-        "size_kb": 32
-      },
-      {
-        "path": "images/logos/donors/Nuffield_college.png",
-        "size_kb": 63.5
-      },
-      {
-        "path": "images/logos/donors/OAK.png",
-        "size_kb": 66.6
-      },
-      {
-        "path": "images/logos/donors/UKRI.png",
-        "size_kb": 30.1
-      },
-      {
-        "path": "images/logos/donors/WCF.jpg",
-        "size_kb": 90.5
-      },
-      {
-        "path": "images/logos/donors/Wellspring.jpeg",
-        "size_kb": 106.5
-      },
-      {
-        "path": "images/logos/donors/safe_online.png",
-        "size_kb": 65.8
-      },
-      {
         "path": "images/logos/favicon.png",
-        "size_kb": 17.9
+        "size_kb": 6.3
       },
       {
         "path": "images/logos/plh_white.png",
@@ -800,106 +620,6 @@
   "assets_missing": {
     "data": [
       {
-        "path": "audio/relax/relax _22.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_10.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_11.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_12.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_13.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_14.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_15.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_16.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_17.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_18.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_19.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_20.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_21.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_23.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_24.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_4.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_5.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_6.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_7.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_8.m4a",
-        "count": 1,
-        "missing": true
-      },
-      {
         "path": "images/logos/app_logo.png",
         "count": 1,
         "missing": true
@@ -913,46 +633,6 @@
   },
   "asset_summary": {
     "data": [
-      {
-        "path": "audio/relax/female/relax_14.m4a",
-        "count": 21,
-        "size_kb": 290.6
-      },
-      {
-        "path": "audio/relax/female/relax_15.m4a",
-        "count": 21,
-        "size_kb": 360.2
-      },
-      {
-        "path": "audio/relax/female/relax_16.m4a",
-        "count": 21,
-        "size_kb": 301.4
-      },
-      {
-        "path": "audio/relax/female/relax_17.m4a",
-        "count": 20,
-        "size_kb": 335.8
-      },
-      {
-        "path": "audio/relax/male/relax_1.m4a",
-        "count": 21,
-        "size_kb": 213.2
-      },
-      {
-        "path": "audio/relax/male/relax_2.m4a",
-        "count": 21,
-        "size_kb": 451.3
-      },
-      {
-        "path": "audio/relax/male/relax_3.m4a",
-        "count": 21,
-        "size_kb": 244.5
-      },
-      {
-        "path": "audio/relax/male/relax_9.m4a",
-        "count": 20,
-        "size_kb": 530.4
-      },
       {
         "path": "images/activities/aciegas_c.svg",
         "count": 2,
@@ -1016,7 +696,7 @@
       {
         "path": "images/activities/baile.svg",
         "count": 2,
-        "size_kb": 60
+        "size_kb": 59.9
       },
       {
         "path": "images/activities/boliche.svg",
@@ -1031,7 +711,7 @@
       {
         "path": "images/activities/carrera.svg",
         "count": 2,
-        "size_kb": 183.5
+        "size_kb": 43.8
       },
       {
         "path": "images/activities/categorizar.svg",
@@ -1191,7 +871,7 @@
       {
         "path": "images/activities/letras.svg",
         "count": 2,
-        "size_kb": 36.4
+        "size_kb": 36.3
       },
       {
         "path": "images/activities/lider.svg",
@@ -1256,7 +936,7 @@
       {
         "path": "images/activities/rompecabezas_t.svg",
         "count": 2,
-        "size_kb": 25.1
+        "size_kb": 25
       },
       {
         "path": "images/activities/ropa.svg",
@@ -1286,7 +966,7 @@
       {
         "path": "images/activities/veo.svg",
         "count": 2,
-        "size_kb": 119.7
+        "size_kb": 119.6
       },
       {
         "path": "images/activities/verduras.svg",
@@ -2995,7 +2675,7 @@
       },
       {
         "path": "images/icons/diamond_blue.png",
-        "count": 8,
+        "count": 10,
         "size_kb": 4.7
       },
       {
@@ -3210,7 +2890,7 @@
       },
       {
         "path": "images/icons/no.png",
-        "count": 6,
+        "count": 4,
         "size_kb": 44.6
       },
       {
@@ -3915,7 +3595,7 @@
       {
         "type": "global",
         "subtype": "onboarding",
-        "total": 15
+        "total": 16
       },
       {
         "type": "template",

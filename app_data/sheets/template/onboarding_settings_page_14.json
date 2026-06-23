@@ -17,7 +17,7 @@
     },
     {
       "type": "text",
-      "value": "Starting your setup...",
+      "value": "@global.setup_text",
       "_translations": {
         "value": {}
       },
@@ -25,13 +25,67 @@
         "style": "emphasised"
       },
       "name": "text_4",
-      "_nested_name": "text_4"
+      "_nested_name": "text_4",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.setup_text",
+            "matchedExpression": "@global.setup_text",
+            "type": "global",
+            "fieldName": "setup_text"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.setup_text": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "bar_1_title",
+      "value": "@data.onboarding_progress_bars.id_1.text;",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "color": "@data.onboarding_progress_bars.id_1.colour"
+      },
+      "_nested_name": "bar_1_title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.onboarding_progress_bars.id_1.text;",
+            "matchedExpression": "@data.onboarding_progress_bars.id_1.text",
+            "type": "data",
+            "fieldName": "onboarding_progress_bars"
+          }
+        ],
+        "parameter_list": {
+          "color": [
+            {
+              "fullExpression": "@data.onboarding_progress_bars.id_1.colour",
+              "matchedExpression": "@data.onboarding_progress_bars.id_1.colour",
+              "type": "data",
+              "fieldName": "onboarding_progress_bars"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@data.onboarding_progress_bars.id_1.text": [
+          "value"
+        ],
+        "@data.onboarding_progress_bars.id_1.colour": [
+          "parameter_list.color"
+        ]
+      }
     },
     {
       "type": "plh_progress_bar",
       "name": "bar_1",
       "parameter_list": {
-        "title": "@data.onboarding_progress_bars.id_1.text",
         "duration": "@data.onboarding_progress_bars.id_1.timespan",
         "auto_play": "true",
         "color": "@data.onboarding_progress_bars.id_1.colour"
@@ -39,14 +93,6 @@
       "_nested_name": "bar_1",
       "_dynamicFields": {
         "parameter_list": {
-          "title": [
-            {
-              "fullExpression": "@data.onboarding_progress_bars.id_1.text",
-              "matchedExpression": "@data.onboarding_progress_bars.id_1.text",
-              "type": "data",
-              "fieldName": "onboarding_progress_bars"
-            }
-          ],
           "duration": [
             {
               "fullExpression": "@data.onboarding_progress_bars.id_1.timespan",
@@ -66,11 +112,48 @@
         }
       },
       "_dynamicDependencies": {
-        "@data.onboarding_progress_bars.id_1.text": [
-          "parameter_list.title"
-        ],
         "@data.onboarding_progress_bars.id_1.timespan": [
           "parameter_list.duration"
+        ],
+        "@data.onboarding_progress_bars.id_1.colour": [
+          "parameter_list.color"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "bar_2_title",
+      "value": "@data.onboarding_progress_bars.id_2.text;",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "color": "@data.onboarding_progress_bars.id_1.colour"
+      },
+      "_nested_name": "bar_2_title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.onboarding_progress_bars.id_2.text;",
+            "matchedExpression": "@data.onboarding_progress_bars.id_2.text",
+            "type": "data",
+            "fieldName": "onboarding_progress_bars"
+          }
+        ],
+        "parameter_list": {
+          "color": [
+            {
+              "fullExpression": "@data.onboarding_progress_bars.id_1.colour",
+              "matchedExpression": "@data.onboarding_progress_bars.id_1.colour",
+              "type": "data",
+              "fieldName": "onboarding_progress_bars"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@data.onboarding_progress_bars.id_2.text": [
+          "value"
         ],
         "@data.onboarding_progress_bars.id_1.colour": [
           "parameter_list.color"
@@ -81,7 +164,6 @@
       "type": "plh_progress_bar",
       "name": "bar_2",
       "parameter_list": {
-        "title": "@data.onboarding_progress_bars.id_2.text",
         "duration": "@data.onboarding_progress_bars.id_2.timespan",
         "auto_play": "@local.bar_1 == 100",
         "color": "@data.onboarding_progress_bars.id_2.colour"
@@ -89,14 +171,6 @@
       "_nested_name": "bar_2",
       "_dynamicFields": {
         "parameter_list": {
-          "title": [
-            {
-              "fullExpression": "@data.onboarding_progress_bars.id_2.text",
-              "matchedExpression": "@data.onboarding_progress_bars.id_2.text",
-              "type": "data",
-              "fieldName": "onboarding_progress_bars"
-            }
-          ],
           "duration": [
             {
               "fullExpression": "@data.onboarding_progress_bars.id_2.timespan",
@@ -124,9 +198,6 @@
         }
       },
       "_dynamicDependencies": {
-        "@data.onboarding_progress_bars.id_2.text": [
-          "parameter_list.title"
-        ],
         "@data.onboarding_progress_bars.id_2.timespan": [
           "parameter_list.duration"
         ],
@@ -139,26 +210,56 @@
       }
     },
     {
-      "type": "plh_progress_bar",
-      "name": "bar_3_fake",
+      "type": "text",
+      "name": "bar_3_title",
+      "value": "@data.onboarding_progress_bars.id_3.text;",
+      "_translations": {
+        "value": {}
+      },
       "parameter_list": {
-        "title": "@data.onboarding_progress_bars.id_3.text",
+        "color": "@data.onboarding_progress_bars.id_1.colour"
+      },
+      "_nested_name": "bar_3_title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.onboarding_progress_bars.id_3.text;",
+            "matchedExpression": "@data.onboarding_progress_bars.id_3.text",
+            "type": "data",
+            "fieldName": "onboarding_progress_bars"
+          }
+        ],
+        "parameter_list": {
+          "color": [
+            {
+              "fullExpression": "@data.onboarding_progress_bars.id_1.colour",
+              "matchedExpression": "@data.onboarding_progress_bars.id_1.colour",
+              "type": "data",
+              "fieldName": "onboarding_progress_bars"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@data.onboarding_progress_bars.id_3.text": [
+          "value"
+        ],
+        "@data.onboarding_progress_bars.id_1.colour": [
+          "parameter_list.color"
+        ]
+      }
+    },
+    {
+      "type": "plh_progress_bar",
+      "name": "bar_3",
+      "parameter_list": {
         "duration": "@data.onboarding_progress_bars.id_3.timespan",
         "auto_play": "@local.bar_2 == 100",
         "color": "@data.onboarding_progress_bars.id_3.colour"
       },
-      "condition": "@local.total_count == 0",
-      "_nested_name": "bar_3_fake",
+      "_nested_name": "bar_3",
       "_dynamicFields": {
         "parameter_list": {
-          "title": [
-            {
-              "fullExpression": "@data.onboarding_progress_bars.id_3.text",
-              "matchedExpression": "@data.onboarding_progress_bars.id_3.text",
-              "type": "data",
-              "fieldName": "onboarding_progress_bars"
-            }
-          ],
           "duration": [
             {
               "fullExpression": "@data.onboarding_progress_bars.id_3.timespan",
@@ -183,6 +284,96 @@
               "fieldName": "onboarding_progress_bars"
             }
           ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@data.onboarding_progress_bars.id_3.timespan": [
+          "parameter_list.duration"
+        ],
+        "@local.bar_2": [
+          "parameter_list.auto_play"
+        ],
+        "@data.onboarding_progress_bars.id_3.colour": [
+          "parameter_list.color"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "bar_4_title",
+      "value": "@data.onboarding_progress_bars.id_4.text;",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "color": "@data.onboarding_progress_bars.id_1.colour"
+      },
+      "_nested_name": "bar_4_title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.onboarding_progress_bars.id_4.text;",
+            "matchedExpression": "@data.onboarding_progress_bars.id_4.text",
+            "type": "data",
+            "fieldName": "onboarding_progress_bars"
+          }
+        ],
+        "parameter_list": {
+          "color": [
+            {
+              "fullExpression": "@data.onboarding_progress_bars.id_1.colour",
+              "matchedExpression": "@data.onboarding_progress_bars.id_1.colour",
+              "type": "data",
+              "fieldName": "onboarding_progress_bars"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@data.onboarding_progress_bars.id_4.text": [
+          "value"
+        ],
+        "@data.onboarding_progress_bars.id_1.colour": [
+          "parameter_list.color"
+        ]
+      }
+    },
+    {
+      "type": "plh_progress_bar",
+      "name": "bar_4_fake",
+      "parameter_list": {
+        "duration": "@data.onboarding_progress_bars.id_4.timespan",
+        "auto_play": "@local.bar_3 == 100",
+        "color": "@data.onboarding_progress_bars.id_4.colour"
+      },
+      "condition": "@local.total_count == 0",
+      "_nested_name": "bar_4_fake",
+      "_dynamicFields": {
+        "parameter_list": {
+          "duration": [
+            {
+              "fullExpression": "@data.onboarding_progress_bars.id_4.timespan",
+              "matchedExpression": "@data.onboarding_progress_bars.id_4.timespan",
+              "type": "data",
+              "fieldName": "onboarding_progress_bars"
+            }
+          ],
+          "auto_play": [
+            {
+              "fullExpression": "@local.bar_3 == 100",
+              "matchedExpression": "@local.bar_3",
+              "type": "local",
+              "fieldName": "bar_3"
+            }
+          ],
+          "color": [
+            {
+              "fullExpression": "@data.onboarding_progress_bars.id_4.colour",
+              "matchedExpression": "@data.onboarding_progress_bars.id_4.colour",
+              "type": "data",
+              "fieldName": "onboarding_progress_bars"
+            }
+          ]
         },
         "condition": [
           {
@@ -194,16 +385,13 @@
         ]
       },
       "_dynamicDependencies": {
-        "@data.onboarding_progress_bars.id_3.text": [
-          "parameter_list.title"
-        ],
-        "@data.onboarding_progress_bars.id_3.timespan": [
+        "@data.onboarding_progress_bars.id_4.timespan": [
           "parameter_list.duration"
         ],
-        "@local.bar_2": [
+        "@local.bar_3": [
           "parameter_list.auto_play"
         ],
-        "@data.onboarding_progress_bars.id_3.colour": [
+        "@data.onboarding_progress_bars.id_4.colour": [
           "parameter_list.color"
         ],
         "@local.total_count": [
@@ -213,17 +401,16 @@
     },
     {
       "type": "plh_progress_bar",
-      "name": "bar_3_real",
+      "name": "bar_4_real",
       "value": "@calc((@local.completed_count / @local.total_count) * 100)",
       "_translations": {
         "value": {}
       },
       "parameter_list": {
-        "title": "@data.onboarding_progress_bars.id_3.text",
-        "color": "@data.onboarding_progress_bars.id_3.colour"
+        "color": "@data.onboarding_progress_bars.id_4.colour"
       },
       "condition": "@local.total_count !== 0",
-      "_nested_name": "bar_3_real",
+      "_nested_name": "bar_4_real",
       "_dynamicFields": {
         "value": [
           {
@@ -246,18 +433,10 @@
           }
         ],
         "parameter_list": {
-          "title": [
-            {
-              "fullExpression": "@data.onboarding_progress_bars.id_3.text",
-              "matchedExpression": "@data.onboarding_progress_bars.id_3.text",
-              "type": "data",
-              "fieldName": "onboarding_progress_bars"
-            }
-          ],
           "color": [
             {
-              "fullExpression": "@data.onboarding_progress_bars.id_3.colour",
-              "matchedExpression": "@data.onboarding_progress_bars.id_3.colour",
+              "fullExpression": "@data.onboarding_progress_bars.id_4.colour",
+              "matchedExpression": "@data.onboarding_progress_bars.id_4.colour",
               "type": "data",
               "fieldName": "onboarding_progress_bars"
             }
@@ -283,17 +462,14 @@
         "@calc((@local.completed_count / @local.total_count) * 100)": [
           "value"
         ],
-        "@data.onboarding_progress_bars.id_3.text": [
-          "parameter_list.title"
-        ],
-        "@data.onboarding_progress_bars.id_3.colour": [
+        "@data.onboarding_progress_bars.id_4.colour": [
           "parameter_list.color"
         ]
       }
     },
     {
       "name": "completed_enabled",
-      "value": "@calc((@local.bar_3_real == 100) || (@local.bar_3_fake == 100))",
+      "value": "@calc((@local.bar_4_real == 100) || (@local.bar_4_fake == 100))",
       "_translations": {
         "value": {}
       },
@@ -302,33 +478,33 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@calc((@local.bar_3_real == 100) || (@local.bar_3_fake == 100))",
-            "matchedExpression": "@local.bar_3_real",
+            "fullExpression": "@calc((@local.bar_4_real == 100) || (@local.bar_4_fake == 100))",
+            "matchedExpression": "@local.bar_4_real",
             "type": "local",
-            "fieldName": "bar_3_real"
+            "fieldName": "bar_4_real"
           },
           {
-            "fullExpression": "@calc((@local.bar_3_real == 100) || (@local.bar_3_fake == 100))",
-            "matchedExpression": "@local.bar_3_fake",
+            "fullExpression": "@calc((@local.bar_4_real == 100) || (@local.bar_4_fake == 100))",
+            "matchedExpression": "@local.bar_4_fake",
             "type": "local",
-            "fieldName": "bar_3_fake"
+            "fieldName": "bar_4_fake"
           },
           {
-            "fullExpression": "@calc((@local.bar_3_real == 100) || (@local.bar_3_fake == 100))",
-            "matchedExpression": "@calc((@local.bar_3_real == 100) || (@local.bar_3_fake == 100))",
+            "fullExpression": "@calc((@local.bar_4_real == 100) || (@local.bar_4_fake == 100))",
+            "matchedExpression": "@calc((@local.bar_4_real == 100) || (@local.bar_4_fake == 100))",
             "type": "calc",
-            "fieldName": "(@local.bar_3_real == 100) || (@local.bar_3_fake == 100)"
+            "fieldName": "(@local.bar_4_real == 100) || (@local.bar_4_fake == 100)"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.bar_3_real": [
+        "@local.bar_4_real": [
           "value"
         ],
-        "@local.bar_3_fake": [
+        "@local.bar_4_fake": [
           "value"
         ],
-        "@calc((@local.bar_3_real == 100) || (@local.bar_3_fake == 100))": [
+        "@calc((@local.bar_4_real == 100) || (@local.bar_4_fake == 100))": [
           "value"
         ]
       }
@@ -362,9 +538,9 @@
       "parameter_list": {
         "filter": "@item.download_status !== completed"
       },
-      "condition": "@local.bar_2 == 100",
-      "name": "data_items_10",
-      "_nested_name": "data_items_10",
+      "condition": "@local.bar_3 == 100",
+      "name": "data_items_15",
+      "_nested_name": "data_items_15",
       "_dynamicFields": {
         "parameter_list": {
           "filter": [
@@ -378,10 +554,10 @@
         },
         "condition": [
           {
-            "fullExpression": "@local.bar_2 == 100",
-            "matchedExpression": "@local.bar_2",
+            "fullExpression": "@local.bar_3 == 100",
+            "matchedExpression": "@local.bar_3",
             "type": "local",
-            "fieldName": "bar_2"
+            "fieldName": "bar_3"
           }
         ]
       },
@@ -389,7 +565,7 @@
         "@item.download_status": [
           "parameter_list.filter"
         ],
-        "@local.bar_2": [
+        "@local.bar_3": [
           "condition"
         ]
       }

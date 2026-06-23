@@ -1,0 +1,21 @@
+{
+  "flow_type": "global",
+  "flow_subtype": "onboarding",
+  "flow_name": "onboarding_page_14_setup",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "setup_text",
+      "value": "Estamos configurando todo para ti...",
+      "_translations": {
+        "value": {}
+      }
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_pa",
+    "path": "data/PA onboarding.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1r5zNT0MXsfMYSXrhYSLw1xGesza4qjQB-EJ2PMmTBlc"
+  }
+}

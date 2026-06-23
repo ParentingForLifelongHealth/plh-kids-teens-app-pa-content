@@ -93,7 +93,7 @@
           "eng": "¡No eres la única persona pasando por esto! Madres, padres y personas cuidadoras de todo el mundo se preocupan por la seguridad de sus niñas y niños. 🔔"
         },
         "quiz_1_question": {
-          "eng": "📝 ¡Hagamos un ejercicio!\n\n_Ejercicio no.1_\n\n¿Cuál de estos espacios sería un lugar en donde las niñas y los niños podrían estar cien por ciento seguros?"
+          "eng": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\n¿Cuál de estos espacios sería un lugar en donde las niñas y los niños podrían estar cien por ciento seguros?"
         },
         "quiz_1_option_1_text": {
           "eng": "La casa"
@@ -170,7 +170,7 @@
       },
       "quiz_1_feedback_2": "👀 ¡Ups! ¡Buen intento!\n\n😔 @fields.child_name podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
       "quiz_1_feedback_3": "👀 ¡Ups! ¡Buen intento!\n\n😔 @fields.child_name podría sufrir daños en cualquiera de estos lugares, incluso en casa o en algún espacio público.\n\n🌱 Como personas cuidadoras, nuestro trabajo es enseñarles a estar a salvo, estén en donde estén.",
-      "quiz_1_question": "📝 ¡Hagamos un ejercicio!\n\n_Ejercicio no.1_\n\n¿Cuál de estos espacios sería un lugar en donde las niñas y los niños podrían estar cien por ciento seguros?",
+      "quiz_1_question": "📝 **¡Hagamos un ejercicio!**\n\n_Ejercicio no.1_\n\n¿Cuál de estos espacios sería un lugar en donde las niñas y los niños podrían estar cien por ciento seguros?",
       "quiz_1_option_1_text": "La casa",
       "quiz_1_option_2_text": "La casa de una amiga o amigo",
       "quiz_1_option_3_text": "La escuela",
@@ -338,8 +338,8 @@
       },
       "section_1_icon_asset": "images/icons/pencil.svg",
       "section_2_icon_asset": "images/icons/speech_bubble_blue.png",
-      "section_3_icon_asset": "images/icons/magnifying_glass.svg",
-      "section_4_icon_asset": "images/icons/target.png",
+      "section_3_icon_asset": "images/icons/smile_eyes_up.svg",
+      "section_4_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_title": "DIBUJA",
       "section_1_text": "📝 Dibujen un mapa de su comunidad. \n\n🚩 Incluyan los lugares principales de su comunidad: calles, la casa, la escuela, tiendas y lugares frecuentados por @fields.child_name. \n\n👋 Dibujen e identifiquen imágenes de personas de confianza a las que @fields.child_name pueda acudir cuando se sienta en peligro. Pueden ser tú y tu pareja, otros miembros de la familia o sus maestras y maestros.",
       "section_2_title": "HABLA",

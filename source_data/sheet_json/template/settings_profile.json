@@ -2,6 +2,13 @@
   "flow_type": "template",
   "flow_name": "settings_profile",
   "status": "released",
+  "parameter_list": {
+    "app_config": {
+      "APP_FOOTER_DEFAULTS": {
+        "templateName": false
+      }
+    }
+  },
   "rows": [
     {
       "type": "begin_template",
@@ -29,10 +36,6 @@
     {
       "name": "show_title",
       "value": false
-    },
-    {
-      "name": "button_completed",
-      "value": "@global.save"
     },
     {
       "type": "end_template"
