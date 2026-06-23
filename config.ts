@@ -38,7 +38,7 @@ config.canto = {
           },
         },
         {
-          name: "assets_facilitator_gender_m",
+          name: "assets_facilitator_male",
           condition: {
             type: "custom_field",
             field: "Facilitator Gender",
