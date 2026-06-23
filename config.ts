@@ -57,7 +57,7 @@ config.canto = {
 config.remote_assets = {
   provider: "firebase",
   bucketName: "plh-kids-teens-pa",
-  folderName: "asset_packs",
+  folderName: "remote_assets",
 }
 
 config.android = {
