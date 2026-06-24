@@ -447,15 +447,6 @@
                 "completed"
               ],
               "_raw": "click | emit: completed"
-            },
-            {
-              "trigger": "click",
-              "action_id": "asset_pack",
-              "args": [
-                "download",
-                "assets_facilitor_gender_m"
-              ],
-              "_raw": "click | asset_pack: download: assets_facilitor_gender_m"
             }
           ],
           "parameter_list": {
@@ -558,15 +549,6 @@
                 "completed"
               ],
               "_raw": "click | emit: completed"
-            },
-            {
-              "trigger": "click",
-              "action_id": "asset_pack",
-              "args": [
-                "download",
-                "assets_facilitor_gender_f"
-              ],
-              "_raw": "click | asset_pack: download: assets_facilitor_gender_f"
             }
           ],
           "parameter_list": {

@@ -137,6 +137,22 @@
       "type": "declare_global_constant",
       "name": "onboarding_completed_text",
       "value": "Tu perfil está completo, ¡comencemos!"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_loading_title",
+      "value": "Estamos configurando todo para ti..."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_remote_assets",
+      "value": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "asset_pack_id",
+      "value": "assets_@fields.facilitator_id",
+      "exclude_from_translation": true
     }
   ]
 }

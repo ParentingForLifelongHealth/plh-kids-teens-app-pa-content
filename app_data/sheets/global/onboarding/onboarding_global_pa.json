@@ -197,6 +197,28 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_loading_title",
+      "value": "Estamos configurando todo para ti...",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_remote_assets",
+      "value": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "asset_pack_id",
+      "value": "assets_@fields.facilitator_id",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
     }
   ],
   "_source": {

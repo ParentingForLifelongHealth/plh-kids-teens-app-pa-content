@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 238
+        "count": 237
       },
       {
         "type": "debug_toggle",
@@ -127,7 +127,7 @@
       },
       {
         "type": "set_variable",
-        "count": 4358
+        "count": 4357
       },
       {
         "type": "simple_checkbox",
@@ -147,7 +147,7 @@
       },
       {
         "type": "text",
-        "count": 289
+        "count": 293
       },
       {
         "type": "text_area",
@@ -238,8 +238,12 @@
         "count": 26
       },
       {
+        "type": "nav",
+        "count": 1
+      },
+      {
         "type": "nav_stack",
-        "count": 494
+        "count": 493
       },
       {
         "type": "plh_certificate",
@@ -299,13 +303,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "72634 KB",
-        "MB": "72.6 MB"
+        "KB": "72276 KB",
+        "MB": "72.3 MB"
       },
       {
         "assets": "unused",
-        "KB": "12787 KB",
-        "MB": "12.8 MB"
+        "KB": "13145 KB",
+        "MB": "13.1 MB"
       }
     ]
   },
@@ -396,6 +400,10 @@
         "size_kb": 18.9
       },
       {
+        "path": "images/icons/abc.png",
+        "size_kb": 85.4
+      },
+      {
         "path": "images/icons/abc.svg",
         "size_kb": 10.6
       },
@@ -416,6 +424,10 @@
         "size_kb": 1.7
       },
       {
+        "path": "images/icons/caution.png",
+        "size_kb": 44.8
+      },
+      {
         "path": "images/icons/caution.svg",
         "size_kb": 2.1
       },
@@ -426,6 +438,10 @@
       {
         "path": "images/icons/climb.svg",
         "size_kb": 9.8
+      },
+      {
+        "path": "images/icons/distance.png",
+        "size_kb": 41.4
       },
       {
         "path": "images/icons/distance.svg",
@@ -476,6 +492,10 @@
         "size_kb": 3.5
       },
       {
+        "path": "images/icons/figures.png",
+        "size_kb": 40.1
+      },
+      {
         "path": "images/icons/figures.svg",
         "size_kb": 2.8
       },
@@ -504,6 +524,10 @@
         "size_kb": 5.5
       },
       {
+        "path": "images/icons/listen.png",
+        "size_kb": 72.3
+      },
+      {
         "path": "images/icons/listen.svg",
         "size_kb": 6.1
       },
@@ -520,8 +544,16 @@
         "size_kb": 1.9
       },
       {
+        "path": "images/icons/maths.png",
+        "size_kb": 29.4
+      },
+      {
         "path": "images/icons/maths.svg",
         "size_kb": 7.1
+      },
+      {
+        "path": "images/icons/no.png",
+        "size_kb": 44.6
       },
       {
         "path": "images/icons/no.svg",
@@ -2605,33 +2637,23 @@
       },
       {
         "path": "images/icons/123.png",
-        "count": 10,
+        "count": 4,
         "size_kb": 45.5
       },
       {
-        "path": "images/icons/abc.png",
-        "count": 2,
-        "size_kb": 85.4
-      },
-      {
         "path": "images/icons/balance_blue.png",
-        "count": 14,
+        "count": 16,
         "size_kb": 4.7
       },
       {
         "path": "images/icons/brain_blue.png",
-        "count": 6,
+        "count": 14,
         "size_kb": 5.2
       },
       {
         "path": "images/icons/breathe.png",
-        "count": 22,
+        "count": 8,
         "size_kb": 67.9
-      },
-      {
-        "path": "images/icons/caution.png",
-        "count": 2,
-        "size_kb": 44.8
       },
       {
         "path": "images/icons/celebration.svg",
@@ -2640,7 +2662,7 @@
       },
       {
         "path": "images/icons/change.png",
-        "count": 4,
+        "count": 2,
         "size_kb": 35.3
       },
       {
@@ -2650,12 +2672,12 @@
       },
       {
         "path": "images/icons/climb.png",
-        "count": 12,
+        "count": 6,
         "size_kb": 70.5
       },
       {
         "path": "images/icons/clock_blue.png",
-        "count": 26,
+        "count": 32,
         "size_kb": 4.5
       },
       {
@@ -2675,13 +2697,8 @@
       },
       {
         "path": "images/icons/diamond_blue.png",
-        "count": 10,
+        "count": 26,
         "size_kb": 4.7
-      },
-      {
-        "path": "images/icons/distance.png",
-        "count": 6,
-        "size_kb": 41.4
       },
       {
         "path": "images/icons/document-lock-outline.svg",
@@ -2715,7 +2732,7 @@
       },
       {
         "path": "images/icons/eye_blue.png",
-        "count": 28,
+        "count": 40,
         "size_kb": 4.2
       },
       {
@@ -2749,11 +2766,6 @@
         "size_kb": 1.5
       },
       {
-        "path": "images/icons/figures.png",
-        "count": 6,
-        "size_kb": 40.1
-      },
-      {
         "path": "images/icons/football_blue.png",
         "count": 14,
         "size_kb": 5.1
@@ -2765,7 +2777,7 @@
       },
       {
         "path": "images/icons/hands_heart.png",
-        "count": 22,
+        "count": 12,
         "size_kb": 70.6
       },
       {
@@ -2795,7 +2807,7 @@
       },
       {
         "path": "images/icons/heart_filled_blue.png",
-        "count": 26,
+        "count": 58,
         "size_kb": 4.9
       },
       {
@@ -2835,13 +2847,8 @@
       },
       {
         "path": "images/icons/lightbulb_blue.png",
-        "count": 28,
+        "count": 34,
         "size_kb": 3.6
-      },
-      {
-        "path": "images/icons/listen.png",
-        "count": 10,
-        "size_kb": 72.3
       },
       {
         "path": "images/icons/local_library.svg",
@@ -2880,22 +2887,12 @@
       },
       {
         "path": "images/icons/magnifying_glass.svg",
-        "count": 98,
+        "count": 82,
         "size_kb": 0.9
       },
       {
-        "path": "images/icons/maths.png",
-        "count": 4,
-        "size_kb": 29.4
-      },
-      {
-        "path": "images/icons/no.png",
-        "count": 4,
-        "size_kb": 44.6
-      },
-      {
         "path": "images/icons/parent_child.svg",
-        "count": 24,
+        "count": 26,
         "size_kb": 2
       },
       {
@@ -2905,7 +2902,7 @@
       },
       {
         "path": "images/icons/pause.svg",
-        "count": 78,
+        "count": 82,
         "size_kb": 0.7
       },
       {
@@ -2960,7 +2957,7 @@
       },
       {
         "path": "images/icons/silence.png",
-        "count": 4,
+        "count": 2,
         "size_kb": 42.1
       },
       {
@@ -2970,12 +2967,12 @@
       },
       {
         "path": "images/icons/smile_eyes_down.svg",
-        "count": 80,
+        "count": 82,
         "size_kb": 0.9
       },
       {
         "path": "images/icons/smile_eyes_up.svg",
-        "count": 158,
+        "count": 160,
         "size_kb": 1
       },
       {
@@ -2985,12 +2982,12 @@
       },
       {
         "path": "images/icons/speech_bubble_blue.png",
-        "count": 44,
+        "count": 52,
         "size_kb": 4.2
       },
       {
         "path": "images/icons/star_filled_blue.png",
-        "count": 36,
+        "count": 40,
         "size_kb": 5.1
       },
       {
@@ -3000,7 +2997,7 @@
       },
       {
         "path": "images/icons/target.png",
-        "count": 24,
+        "count": 6,
         "size_kb": 76.5
       },
       {
@@ -3010,7 +3007,7 @@
       },
       {
         "path": "images/icons/tick.svg",
-        "count": 23,
+        "count": 33,
         "size_kb": 0.3
       },
       {
@@ -3025,7 +3022,7 @@
       },
       {
         "path": "images/icons/trophy_blue.png",
-        "count": 10,
+        "count": 20,
         "size_kb": 5.1
       },
       {
@@ -3035,7 +3032,7 @@
       },
       {
         "path": "images/icons/trust.png",
-        "count": 24,
+        "count": 8,
         "size_kb": 70.8
       },
       {
