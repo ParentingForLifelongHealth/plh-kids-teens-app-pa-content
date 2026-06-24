@@ -275,9 +275,9 @@
               "action_id": "asset_pack",
               "args": [
                 "download",
-                "@local.asset_pack_id"
+                "@global.asset_pack_id"
               ],
-              "_raw": "completed | asset_pack: download: @local.asset_pack_id"
+              "_raw": "completed | asset_pack: download: @global.asset_pack_id"
             },
             {
               "trigger": "uncompleted",
@@ -336,18 +336,18 @@
                 "args": {
                   "1": [
                     {
-                      "fullExpression": "@local.asset_pack_id",
-                      "matchedExpression": "@local.asset_pack_id",
-                      "type": "local",
+                      "fullExpression": "@global.asset_pack_id",
+                      "matchedExpression": "@global.asset_pack_id",
+                      "type": "global",
                       "fieldName": "asset_pack_id"
                     }
                   ]
                 },
                 "_raw": [
                   {
-                    "fullExpression": "completed | asset_pack: download: @local.asset_pack_id",
-                    "matchedExpression": "@local.asset_pack_id",
-                    "type": "local",
+                    "fullExpression": "completed | asset_pack: download: @global.asset_pack_id",
+                    "matchedExpression": "@global.asset_pack_id",
+                    "type": "global",
                     "fieldName": "asset_pack_id"
                   }
                 ]
@@ -415,7 +415,7 @@
             "@item.id": [
               "value"
             ],
-            "@local.asset_pack_id": [
+            "@global.asset_pack_id": [
               "action_list.1.args.1",
               "action_list.1._raw"
             ],
