@@ -143,38 +143,8 @@
     },
     {
       "lifecycle_event": "app_start",
-      "id": "server_sync",
-      "priority": 7,
-      "condition_list": [
-        "@fields.user_mode && !@fields.onboarding_completed"
-      ],
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "emit",
-          "args": [
-            "server_sync"
-          ],
-          "_raw": "emit: server_sync"
-        },
-        {
-          "trigger": "click",
-          "action_id": "set_field",
-          "args": [
-            "onboarding_completed",
-            true
-          ],
-          "_raw": "set_field: onboarding_completed: true"
-        }
-      ]
-    },
-    {
-      "lifecycle_event": "app_start",
       "id": "asset_pack_download",
       "priority": 8,
-      "condition_list": [
-        "@fields.onboarding_settings_completed"
-      ],
       "action_list": [
         {
           "trigger": "click",
@@ -203,9 +173,9 @@
           "action_id": "set_field",
           "args": [
             "onboarding_settings_completed",
-            true
+            false
           ],
-          "_raw": "set_field: onboarding_settings_completed: true"
+          "_raw": "set_field: onboarding_settings_completed: false"
         },
         {
           "trigger": "click",
@@ -218,6 +188,33 @@
             "fullscreen": true,
             "showCloseButton": false
           }
+        }
+      ]
+    },
+    {
+      "lifecycle_event": "app_start",
+      "id": "server_sync",
+      "priority": 7,
+      "condition_list": [
+        "@fields.user_mode && !@fields.onboarding_completed"
+      ],
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "server_sync"
+          ],
+          "_raw": "emit: server_sync"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "onboarding_completed",
+            true
+          ],
+          "_raw": "set_field: onboarding_completed: true"
         }
       ]
     },
