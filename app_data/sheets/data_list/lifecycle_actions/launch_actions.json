@@ -172,6 +172,9 @@
       "lifecycle_event": "app_start",
       "id": "asset_pack_download",
       "priority": 8,
+      "condition_list": [
+        "@fields.onboarding_settings_completed"
+      ],
       "action_list": [
         {
           "trigger": "click",
@@ -197,11 +200,24 @@
       "action_list": [
         {
           "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "onboarding_settings_completed",
+            true
+          ],
+          "_raw": "set_field: onboarding_settings_completed: true"
+        },
+        {
+          "trigger": "click",
           "action_id": "pop_up",
           "args": [
-            "loading_screen"
+            "onboarding_settings"
           ],
-          "_raw": "pop_up: loading_screen"
+          "_raw": "pop_up: onboarding_settings | fullscreen: true, showCloseButton: false",
+          "params": {
+            "fullscreen": true,
+            "showCloseButton": false
+          }
         }
       ]
     },
