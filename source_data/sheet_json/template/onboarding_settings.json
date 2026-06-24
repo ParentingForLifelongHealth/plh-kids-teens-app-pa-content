@@ -110,118 +110,13 @@
       "exclude_from_translation": true
     },
     {
-      "type": "text",
-      "name": "debug_download_status",
-      "value": "id: @item.id,\nname: @item.name,\ndownload_status: @item.download_status",
-      "condition": false,
-      "exclude_from_translation": true
+      "type": "begin_template",
+      "name": "onboarding_remote_assets",
+      "value": "onboarding_remote_assets",
+      "action_list": "completed | emit: completed;\ncompleted | set_field: onboarding_settings_completed: true;"
     },
     {
-      "type": "begin_display_group",
-      "name": "page_downloading",
-      "parameter_list": "style: column",
-      "condition": "@item.download_status == \"in_progress\""
-    },
-    {
-      "type": "lottie_animation",
-      "name": "loading_lottie",
-      "value": "@global.onboarding_loading_lottie_asset",
-      "condition": "!!@global.onboarding_loading_lottie_asset"
-    },
-    {
-      "type": "title",
-      "name": "loading_profile_title",
-      "value": "@global.onboarding_loading_title",
-      "parameter_list": "variant: header"
-    },
-    {
-      "type": "text",
-      "name": "loading_profile_text",
-      "value": "@global.onboarding_loading_text",
-      "parameter_list": "text_align: center"
-    },
-    {
-      "type": "end_display_group"
-    },
-    {
-      "type": "begin_display_group",
-      "name": "page_error",
-      "parameter_list": "style: column",
-      "condition": "@item.download_status == \"error\""
-    },
-    {
-      "type": "title",
-      "name": "error_profile_title",
-      "value": "@global.onboarding_error_title",
-      "parameter_list": "variant: header"
-    },
-    {
-      "type": "text",
-      "name": "error_profile_text",
-      "value": "@global.onboarding_error_text",
-      "parameter_list": "text_align: center"
-    },
-    {
-      "type": "begin_display_group",
-      "name": "dg_footer",
-      "parameter_list": "sticky: bottom;",
-      "style_list": "padding: 12px 24px;"
-    },
-    {
-      "type": "button",
-      "name": "button_retry",
-      "value": "@global.onboarding_error_button_text",
-      "action_list": "click | asset_pack: download: @local.asset_pack_id;",
-      "parameter_list": "style: navigation;"
-    },
-    {
-      "type": "end_display_group"
-    },
-    {
-      "type": "end_display_group"
-    },
-    {
-      "type": "begin_display_group",
-      "name": "page_success",
-      "parameter_list": "style: column",
-      "condition": "@item.download_status == \"completed\""
-    },
-    {
-      "type": "lottie_animation",
-      "name": "lottie",
-      "value": "@global.onboarding_completed_lottie_asset",
-      "condition": "!!@global.onboarding_completed_lottie_asset"
-    },
-    {
-      "type": "title",
-      "name": "finish_profile_title",
-      "value": "@global.onboarding_completed_title",
-      "parameter_list": "variant: header"
-    },
-    {
-      "type": "text",
-      "name": "finish_profile_text",
-      "value": "@global.onboarding_completed_text",
-      "parameter_list": "text_align: center"
-    },
-    {
-      "type": "begin_display_group",
-      "name": "dg_footer",
-      "parameter_list": "sticky: bottom;",
-      "style_list": "padding: 12px 24px;"
-    },
-    {
-      "type": "button",
-      "name": "button_completed_3",
-      "value": "@global.continue",
-      "action_list": "click | emit: completed;\nclick | set_field: onboarding_settings_completed: true;",
-      "parameter_list": "style: navigation;"
-    },
-    {
-      "type": "end_display_group"
-    },
-    {
-      "type": "end_display_group"
+      "type": "end_template"
     },
     {
       "type": "end_data_items"

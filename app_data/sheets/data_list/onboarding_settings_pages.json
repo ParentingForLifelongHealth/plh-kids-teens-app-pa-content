@@ -6,73 +6,55 @@
   "rows": [
     {
       "id": "page_1",
-      "completed": false,
-      "completed_count": 0
+      "completed": false
     },
     {
       "id": "page_2",
-      "completed": false,
-      "completed_count": 1
+      "completed": false
     },
     {
       "id": "page_3",
-      "completed": false,
-      "completed_count": 2
+      "completed": false
     },
     {
       "id": "page_4",
-      "completed": false,
-      "completed_count": 3
+      "completed": false
     },
     {
       "id": "page_5",
-      "completed": false,
-      "completed_count": 4
+      "completed": false
     },
     {
       "id": "page_6",
-      "completed": false,
-      "completed_count": 5
+      "completed": false
     },
     {
       "id": "page_7",
-      "completed": false,
-      "completed_count": 6
+      "completed": false
     },
     {
       "id": "page_8",
-      "completed": false,
-      "completed_count": 7
+      "completed": false
     },
     {
       "id": "page_9",
-      "completed": false,
-      "completed_count": 8
+      "completed": false
     },
     {
       "id": "page_10",
-      "completed": false,
-      "completed_count": 9
+      "completed": false
     },
     {
       "id": "page_11",
-      "completed": false,
-      "completed_count": 10
+      "completed": false
     },
     {
       "id": "page_12",
-      "completed": false,
-      "completed_count": 11
+      "completed": false
     },
     {
       "id": "page_13",
-      "completed": false,
-      "completed_count": 12
-    },
-    {
-      "id": "page_14",
-      "completed": false,
-      "completed_count": 13
+      "completed": false
     }
   ],
   "_source": {
@@ -83,9 +65,6 @@
   "_metadata": {
     "completed": {
       "type": "boolean"
-    },
-    "completed_count": {
-      "type": "number"
     }
   }
 }

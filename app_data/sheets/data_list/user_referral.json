@@ -8,13 +8,13 @@
       "id": "referral_share",
       "name": "share",
       "experience": "digital",
-      "text": "Recomendación de familiar o amigo",
+      "text": "Familia o amigos",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Recomendación de familiar o amigo"
+          "eng": "Familia o amigos"
         }
       }
     },
@@ -22,13 +22,13 @@
       "id": "referral_staff_event",
       "name": "staff_event",
       "experience": "hybrid",
-      "text": "En un evento de MIDES o por su personal",
+      "text": "Por evento o personal de MIDES",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "En un evento de MIDES o por su personal"
+          "eng": "Por evento o personal de MIDES"
         }
       }
     },
@@ -36,13 +36,13 @@
       "id": "referral_parenttext",
       "name": "parenttext",
       "experience": "digital",
-      "text": "Desde el chat automatizado de Crianza Responsable y Amorosa",
+      "text": "Curso Crianza Responsable y Amororsa en WhatsApp",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Desde el chat automatizado de Crianza Responsable y Amorosa"
+          "eng": "Curso Crianza Responsable y Amororsa en WhatsApp"
         }
       }
     },

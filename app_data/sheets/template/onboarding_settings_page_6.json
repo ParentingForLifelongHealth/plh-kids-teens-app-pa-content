@@ -618,7 +618,8 @@
       "name": "user_district_select",
       "parameter_list": {
         "placeholder": "@global.placeholder_user_district",
-        "variant": "dropdown"
+        "variant": "dropdown",
+        "disabled": "!@local.user_location_select"
       },
       "condition": "!@fields.user_location_district",
       "exclude_from_translation": true,
@@ -629,7 +630,7 @@
           "parameter_list": {
             "filter": "@item.province == @local.user_location_select"
           },
-          "condition": "!@fields.user_location_district && !!@local.user_location_select",
+          "condition": "!@fields.user_location_district",
           "exclude_from_translation": true,
           "rows": [],
           "name": "data_items_1",
@@ -653,16 +654,10 @@
             },
             "condition": [
               {
-                "fullExpression": "!@fields.user_location_district && !!@local.user_location_select",
+                "fullExpression": "!@fields.user_location_district",
                 "matchedExpression": "!@fields.user_location_district",
                 "type": "fields",
                 "fieldName": "user_location_district"
-              },
-              {
-                "fullExpression": "!@fields.user_location_district && !!@local.user_location_select",
-                "matchedExpression": "!@local.user_location_select",
-                "type": "local",
-                "fieldName": "user_location_select"
               }
             ]
           },
@@ -674,42 +669,6 @@
               "parameter_list.filter"
             ],
             "!@fields.user_location_district": [
-              "condition"
-            ],
-            "!@local.user_location_select": [
-              "condition"
-            ]
-          }
-        },
-        {
-          "type": "data_items",
-          "value": "user_location_district",
-          "condition": "!@fields.user_location_district && !@local.user_location_select",
-          "exclude_from_translation": true,
-          "rows": [],
-          "name": "data_items_2",
-          "_nested_name": "user_district_select.data_items_2",
-          "_dynamicFields": {
-            "condition": [
-              {
-                "fullExpression": "!@fields.user_location_district && !@local.user_location_select",
-                "matchedExpression": "!@fields.user_location_district",
-                "type": "fields",
-                "fieldName": "user_location_district"
-              },
-              {
-                "fullExpression": "!@fields.user_location_district && !@local.user_location_select",
-                "matchedExpression": "!@local.user_location_select",
-                "type": "local",
-                "fieldName": "user_location_select"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "!@fields.user_location_district": [
-              "condition"
-            ],
-            "!@local.user_location_select": [
               "condition"
             ]
           }
@@ -725,6 +684,14 @@
               "type": "global",
               "fieldName": "placeholder_user_district"
             }
+          ],
+          "disabled": [
+            {
+              "fullExpression": "!@local.user_location_select",
+              "matchedExpression": "!@local.user_location_select",
+              "type": "local",
+              "fieldName": "user_location_select"
+            }
           ]
         },
         "condition": [
@@ -739,6 +706,9 @@
       "_dynamicDependencies": {
         "@global.placeholder_user_district": [
           "parameter_list.placeholder"
+        ],
+        "!@local.user_location_select": [
+          "parameter_list.disabled"
         ],
         "!@fields.user_location_district": [
           "condition"
