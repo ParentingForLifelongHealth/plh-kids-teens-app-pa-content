@@ -1,4 +1,4 @@
-# plh-kids-teens-app-za-content
+# plh-kids-teens-app-pa-content
 This repo contains data used in the Panama version of the PLH Kids and Teens app.
 
 ## App Preview
