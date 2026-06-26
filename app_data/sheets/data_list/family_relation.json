@@ -7,6 +7,10 @@
     {
       "id": "mother",
       "name": "mother",
+      "user_gender_list": [
+        "woman",
+        "opt_out"
+      ],
       "text": "Mamá",
       "_translations": {
         "text": {}
@@ -20,6 +24,10 @@
     {
       "id": "father",
       "name": "father",
+      "user_gender_list": [
+        "man",
+        "opt_out"
+      ],
       "text": "Papá",
       "_translations": {
         "text": {}
@@ -33,6 +41,10 @@
     {
       "id": "grandfather",
       "name": "grandfather",
+      "user_gender_list": [
+        "man",
+        "opt_out"
+      ],
       "text": "Abuelo",
       "_translations": {
         "text": {}
@@ -46,6 +58,10 @@
     {
       "id": "grandmother",
       "name": "grandmother",
+      "user_gender_list": [
+        "woman",
+        "opt_out"
+      ],
       "text": "Abuela",
       "_translations": {
         "text": {}
@@ -59,6 +75,10 @@
     {
       "id": "uncle",
       "name": "uncle",
+      "user_gender_list": [
+        "man",
+        "opt_out"
+      ],
       "text": "Tío",
       "_translations": {
         "text": {}
@@ -72,6 +92,10 @@
     {
       "id": "aunt",
       "name": "aunt",
+      "user_gender_list": [
+        "woman",
+        "opt_out"
+      ],
       "text": "Tía",
       "_translations": {
         "text": {}
@@ -85,6 +109,11 @@
     {
       "id": "other",
       "name": "other",
+      "user_gender_list": [
+        "man",
+        "woman",
+        "opt_out"
+      ],
       "text": "Otro",
       "_translations": {
         "text": {}
@@ -98,6 +127,11 @@
     {
       "id": "opt_out",
       "name": "opt_out",
+      "user_gender_list": [
+        "man",
+        "woman",
+        "opt_out"
+      ],
       "text": "Prefiero no decir",
       "_translations": {
         "text": {}
