@@ -47,7 +47,7 @@
       "type": "begin_template",
       "name": "remote_assets_page_@item.row_index",
       "value": "onboarding_settings_@item.id",
-      "action_list": "completed | set_data |\n_list_id: onboarding_settings_pages,\n_index: @item.row_index,\ncompleted: true;\n\ncompleted | asset_pack: download: @global.asset_pack_id;\n\nuncompleted | set_data | \n_list_id: onboarding_settings_pages,\n_index: -1+@item.row_index,\ncompleted: false;",
+      "action_list": "completed | set_data |\n_list_id: onboarding_settings_pages,\n_index: @item.row_index,\ncompleted: true;\n\ncompleted | asset_pack: ensure_downloaded | asset_pack_list: @global.asset_pack_id;\n\nuncompleted | set_data | \n_list_id: onboarding_settings_pages,\n_index: -1+@item.row_index,\ncompleted: false;",
       "condition": "@item.row_index == @local.last_page_index && @global.has_remote_assets"
     },
     {

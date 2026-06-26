@@ -274,10 +274,12 @@
               "trigger": "completed",
               "action_id": "asset_pack",
               "args": [
-                "download",
-                "@global.asset_pack_id"
+                "ensure_downloaded"
               ],
-              "_raw": "completed | asset_pack: download: @global.asset_pack_id"
+              "_raw": "completed | asset_pack: ensure_downloaded | asset_pack_list: @global.asset_pack_id",
+              "params": {
+                "asset_pack_list": "@global.asset_pack_id"
+              }
             },
             {
               "trigger": "uncompleted",
@@ -333,8 +335,16 @@
                 }
               },
               "1": {
-                "args": {
-                  "1": [
+                "_raw": [
+                  {
+                    "fullExpression": "completed | asset_pack: ensure_downloaded | asset_pack_list: @global.asset_pack_id",
+                    "matchedExpression": "@global.asset_pack_id",
+                    "type": "global",
+                    "fieldName": "asset_pack_id"
+                  }
+                ],
+                "params": {
+                  "asset_pack_list": [
                     {
                       "fullExpression": "@global.asset_pack_id",
                       "matchedExpression": "@global.asset_pack_id",
@@ -342,15 +352,7 @@
                       "fieldName": "asset_pack_id"
                     }
                   ]
-                },
-                "_raw": [
-                  {
-                    "fullExpression": "completed | asset_pack: download: @global.asset_pack_id",
-                    "matchedExpression": "@global.asset_pack_id",
-                    "type": "global",
-                    "fieldName": "asset_pack_id"
-                  }
-                ]
+                }
               },
               "2": {
                 "_raw": [
@@ -416,8 +418,8 @@
               "value"
             ],
             "@global.asset_pack_id": [
-              "action_list.1.args.1",
-              "action_list.1._raw"
+              "action_list.1._raw",
+              "action_list.1.params.asset_pack_list"
             ],
             "@local.last_page_index": [
               "condition"
