@@ -59,13 +59,19 @@
     {
       "name": "completed_enabled",
       "value": true,
-      "condition": "@local.bar_4 == 100",
+      "condition": "@local.bar_4 && @local.bar_4 == 100",
       "type": "set_variable",
       "_nested_name": "completed_enabled",
       "_dynamicFields": {
         "condition": [
           {
-            "fullExpression": "@local.bar_4 == 100",
+            "fullExpression": "@local.bar_4 && @local.bar_4 == 100",
+            "matchedExpression": "@local.bar_4",
+            "type": "local",
+            "fieldName": "bar_4"
+          },
+          {
+            "fullExpression": "@local.bar_4 && @local.bar_4 == 100",
             "matchedExpression": "@local.bar_4",
             "type": "local",
             "fieldName": "bar_4"
@@ -74,6 +80,7 @@
       },
       "_dynamicDependencies": {
         "@local.bar_4": [
+          "condition",
           "condition"
         ]
       }
@@ -980,6 +987,15 @@
                     "completed"
                   ],
                   "_raw": "click | emit: completed"
+                },
+                {
+                  "trigger": "completed",
+                  "action_id": "set_field",
+                  "args": [
+                    "onboarding_settings_completed",
+                    true
+                  ],
+                  "_raw": "completed | set_field: onboarding_settings_completed: true"
                 }
               ],
               "parameter_list": {

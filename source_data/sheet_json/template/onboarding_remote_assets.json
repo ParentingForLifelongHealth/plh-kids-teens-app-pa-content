@@ -93,7 +93,7 @@
     {
       "name": "completed_enabled",
       "value": true,
-      "condition": "@local.bar_4 == 100"
+      "condition": "@local.bar_4 && @local.bar_4 == 100"
     },
     {
       "type": "data_items",
@@ -192,7 +192,7 @@
       "type": "button",
       "name": "button_completed_3",
       "value": "@global.continue",
-      "action_list": "click | emit: completed;",
+      "action_list": "click | emit: completed;\ncompleted | set_field: onboarding_settings_completed: true;",
       "parameter_list": "style: navigation;"
     },
     {
