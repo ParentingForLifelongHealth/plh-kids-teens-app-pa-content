@@ -62,6 +62,31 @@
       "exclude_from_translation": true
     },
     {
+      "type": "begin_combo_box",
+      "name": "user_relationship_select",
+      "value": "@fields.user_relationship",
+      "parameter_list": "placeholder: @global.placeholder_user_relationship;\nvariant: dropdown;",
+      "condition": "!!@fields.user_location_district",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_data_items",
+      "value": "user_relationship",
+      "parameter_list": "filter: @item.gender_lisu== @local.user_location_select",
+      "condition": "!!@fields.user_location_district",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_data_items",
+      "condition": "!!@fields.user_location_district",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_combo_box",
+      "condition": "!!@fields.user_location_district",
+      "exclude_from_translation": true
+    },
+    {
       "name": "completed_enabled",
       "value": "!!@local.user_relationship_select",
       "exclude_from_translation": true

@@ -365,6 +365,108 @@
       }
     },
     {
+      "type": "combo_box",
+      "name": "user_relationship_select",
+      "value": "@fields.user_relationship",
+      "parameter_list": {
+        "placeholder": "@global.placeholder_user_relationship",
+        "variant": "dropdown"
+      },
+      "condition": "!!@fields.user_location_district",
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "type": "data_items",
+          "value": "user_relationship",
+          "parameter_list": {
+            "filter": "@item.gender_lisu== @local.user_location_select"
+          },
+          "condition": "!!@fields.user_location_district",
+          "exclude_from_translation": true,
+          "rows": [],
+          "name": "data_items_1",
+          "_nested_name": "user_relationship_select.data_items_1",
+          "_dynamicFields": {
+            "parameter_list": {
+              "filter": [
+                {
+                  "fullExpression": "@item.gender_lisu== @local.user_location_select",
+                  "matchedExpression": "@item.gender_lisu",
+                  "type": "item",
+                  "fieldName": "gender_lisu"
+                },
+                {
+                  "fullExpression": "@item.gender_lisu== @local.user_location_select",
+                  "matchedExpression": "@local.user_location_select",
+                  "type": "local",
+                  "fieldName": "user_location_select"
+                }
+              ]
+            },
+            "condition": [
+              {
+                "fullExpression": "!!@fields.user_location_district",
+                "matchedExpression": "!@fields.user_location_district",
+                "type": "fields",
+                "fieldName": "user_location_district"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.gender_lisu": [
+              "parameter_list.filter"
+            ],
+            "@local.user_location_select": [
+              "parameter_list.filter"
+            ],
+            "!@fields.user_location_district": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "user_relationship_select",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields.user_relationship",
+            "matchedExpression": "@fields.user_relationship",
+            "type": "fields",
+            "fieldName": "user_relationship"
+          }
+        ],
+        "parameter_list": {
+          "placeholder": [
+            {
+              "fullExpression": "@global.placeholder_user_relationship",
+              "matchedExpression": "@global.placeholder_user_relationship",
+              "type": "global",
+              "fieldName": "placeholder_user_relationship"
+            }
+          ]
+        },
+        "condition": [
+          {
+            "fullExpression": "!!@fields.user_location_district",
+            "matchedExpression": "!@fields.user_location_district",
+            "type": "fields",
+            "fieldName": "user_location_district"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.user_relationship": [
+          "value"
+        ],
+        "@global.placeholder_user_relationship": [
+          "parameter_list.placeholder"
+        ],
+        "!@fields.user_location_district": [
+          "condition"
+        ]
+      }
+    },
+    {
       "name": "completed_enabled",
       "value": "!!@local.user_relationship_select",
       "_translations": {

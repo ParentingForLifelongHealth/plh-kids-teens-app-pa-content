@@ -87,15 +87,6 @@
       "condition": "@local.total_count !== 0"
     },
     {
-      "name": "completed_enabled",
-      "value": false
-    },
-    {
-      "name": "completed_enabled",
-      "value": true,
-      "condition": "@local.bar_4 == 100"
-    },
-    {
       "type": "data_items",
       "value": "_asset_packs",
       "action_list": "data_changed | set_local: total_count: @items[0].assets_total_count;\ndata_changed | set_local: completed_count: @items[0].assets_downloaded_count;\ndata_changed | set_local: download_status: @items[0].download_status;",
@@ -110,10 +101,19 @@
     },
     {
       "type": "button",
+      "name": "button_show_success_page_disabled",
+      "value": "@global.continue",
+      "action_list": "click | set_local: show_success_page: true",
+      "parameter_list": "style: navigation;\ndisabled: true",
+      "condition": "!@local.bar_4 || !@local.bar_4 == 100"
+    },
+    {
+      "type": "button",
       "name": "button_show_success_page",
       "value": "@global.continue",
       "action_list": "click | set_local: show_success_page: true",
-      "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled"
+      "parameter_list": "style: navigation;",
+      "condition": "@local.bar_4 && @local.bar_4 == 100"
     },
     {
       "type": "end_display_group"
@@ -192,7 +192,7 @@
       "type": "button",
       "name": "button_completed_3",
       "value": "@global.continue",
-      "action_list": "click | emit: completed;",
+      "action_list": "click | emit: completed;\ncompleted | set_field: onboarding_settings_completed: true;",
       "parameter_list": "style: navigation;"
     },
     {

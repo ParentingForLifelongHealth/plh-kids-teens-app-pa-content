@@ -4,7 +4,7 @@ const config = generateDeploymentConfig("plh_kids_teens_pa");
 
 config.git = {
   content_repo: "https://github.com/ParentingForLifelongHealth/plh-kids-teens-app-pa-content.git",
-  content_tag_latest: "1.1.52",
+  content_tag_latest: "1.2.1",
 };
 
 config.google_drive.sheets_folders = [
@@ -49,7 +49,7 @@ config.canto = {
     }
   ],
   languageMappings: {
-    Spanish: "pa_es",
+    Spanish: "gb_en",
   },
   ...loadEncryptedConfig("canto.json"),
 }
@@ -92,7 +92,7 @@ config.web.favicon_asset = "images/logos/favicon.png";
 config.api.db_name = "plh_kids_teens_pa";
 config.app_data.output_path = "./app_data";
 
-config.app_config.APP_LANGUAGES.default ="pa_es";
+config.app_config.APP_LANGUAGES.default ="gb_en";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "PanamaApp";
 config.app_config.APP_HEADER_DEFAULTS.title = "PanamaApp";
 config.app_config.APP_HEADER_DEFAULTS.hidden = true;

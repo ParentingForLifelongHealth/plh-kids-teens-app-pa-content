@@ -484,7 +484,7 @@
       "type": "youtube",
       "name": "youtube_lang_missing_other_gender",
       "value": "@local.@local.youtube_concat_missing_other_gender",
-      "condition": "!(@local.@local.youtube_concat) && !(@local.@local.youtube_concat_other_gender) && !!(@local.@local.youtube_concat_missing_other_gender)",
+      "condition": "!(@local.@local.youtube_concat) && !(@local.@local.youtube_concat_other_gender) && !(@local.@local.youtube_concat_missing) && !!(@local.@local.youtube_concat_missing_other_gender)",
       "exclude_from_translation": true,
       "comments": "Show English video when other language youtube link is not defined"
     },
