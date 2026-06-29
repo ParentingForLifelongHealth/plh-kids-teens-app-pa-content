@@ -11,10 +11,10 @@
 | audio | 3 |
 | button | 116 |
 | combo_box | 27 |
-| data_items | 237 |
+| data_items | 239 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 107 |
+| display_group | 108 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 22 |

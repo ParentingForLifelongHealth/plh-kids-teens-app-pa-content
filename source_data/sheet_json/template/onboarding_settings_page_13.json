@@ -50,17 +50,51 @@
       "exclude_from_translation": true
     },
     {
-      "type": "combo_box",
+      "type": "begin_combo_box",
       "name": "family_relation_select",
       "value": "@fields.family_relation",
-      "parameter_list": "answer_list: @data.family_relation;\nplaceholder: @global.placeholder_family_relation;\nvariant: dropdown;",
+      "parameter_list": "placeholder: @global.placeholder_family_relation;\nvariant: dropdown;",
       "condition": "!!@fields.family_relation",
       "exclude_from_translation": true
     },
     {
-      "type": "combo_box",
+      "type": "begin_data_items",
+      "value": "family_relation",
+      "parameter_list": "filter: @item.user_gender_list.includes(@fields.user_gender)",
+      "condition": "!!@fields.family_relation",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_data_items",
+      "condition": "!!@fields.family_relation",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_combo_box",
+      "condition": "!!@fields.family_relation",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_combo_box",
       "name": "family_relation_select",
-      "parameter_list": "answer_list: @data.family_relation;\nplaceholder: @global.placeholder_family_relation;\nvariant: dropdown;",
+      "parameter_list": "placeholder: @global.placeholder_family_relation;\nvariant: dropdown;",
+      "condition": "!@fields.family_relation",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_data_items",
+      "value": "family_relation",
+      "parameter_list": "filter: @item.user_gender_list.includes(@fields.user_gender)",
+      "condition": "!@fields.family_relation",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_data_items",
+      "condition": "!@fields.family_relation",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_combo_box",
       "condition": "!@fields.family_relation",
       "exclude_from_translation": true
     },

@@ -254,16 +254,63 @@
       "type": "combo_box",
       "name": "family_relation_select",
       "value": "@fields.family_relation",
-      "_translations": {
-        "value": {}
-      },
       "parameter_list": {
-        "answer_list": "@data.family_relation",
         "placeholder": "@global.placeholder_family_relation",
         "variant": "dropdown"
       },
       "condition": "!!@fields.family_relation",
       "exclude_from_translation": true,
+      "rows": [
+        {
+          "type": "data_items",
+          "value": "family_relation",
+          "parameter_list": {
+            "filter": "@item.user_gender_list.includes(@fields.user_gender)"
+          },
+          "condition": "!!@fields.family_relation",
+          "exclude_from_translation": true,
+          "rows": [],
+          "name": "data_items_1",
+          "_nested_name": "family_relation_select.data_items_1",
+          "_dynamicFields": {
+            "parameter_list": {
+              "filter": [
+                {
+                  "fullExpression": "@item.user_gender_list.includes(@fields.user_gender)",
+                  "matchedExpression": "@item.user_gender_list.includes",
+                  "type": "item",
+                  "fieldName": "user_gender_list"
+                },
+                {
+                  "fullExpression": "@item.user_gender_list.includes(@fields.user_gender)",
+                  "matchedExpression": "@fields.user_gender",
+                  "type": "fields",
+                  "fieldName": "user_gender"
+                }
+              ]
+            },
+            "condition": [
+              {
+                "fullExpression": "!!@fields.family_relation",
+                "matchedExpression": "!@fields.family_relation",
+                "type": "fields",
+                "fieldName": "family_relation"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.user_gender_list.includes": [
+              "parameter_list.filter"
+            ],
+            "@fields.user_gender": [
+              "parameter_list.filter"
+            ],
+            "!@fields.family_relation": [
+              "condition"
+            ]
+          }
+        }
+      ],
       "_nested_name": "family_relation_select",
       "_dynamicFields": {
         "value": [
@@ -275,14 +322,6 @@
           }
         ],
         "parameter_list": {
-          "answer_list": [
-            {
-              "fullExpression": "@data.family_relation",
-              "matchedExpression": "@data.family_relation",
-              "type": "data",
-              "fieldName": "family_relation"
-            }
-          ],
           "placeholder": [
             {
               "fullExpression": "@global.placeholder_family_relation",
@@ -305,9 +344,6 @@
         "@fields.family_relation": [
           "value"
         ],
-        "@data.family_relation": [
-          "parameter_list.answer_list"
-        ],
         "@global.placeholder_family_relation": [
           "parameter_list.placeholder"
         ],
@@ -320,23 +356,65 @@
       "type": "combo_box",
       "name": "family_relation_select",
       "parameter_list": {
-        "answer_list": "@data.family_relation",
         "placeholder": "@global.placeholder_family_relation",
         "variant": "dropdown"
       },
       "condition": "!@fields.family_relation",
       "exclude_from_translation": true,
+      "rows": [
+        {
+          "type": "data_items",
+          "value": "family_relation",
+          "parameter_list": {
+            "filter": "@item.user_gender_list.includes(@fields.user_gender)"
+          },
+          "condition": "!@fields.family_relation",
+          "exclude_from_translation": true,
+          "rows": [],
+          "name": "data_items_1",
+          "_nested_name": "family_relation_select.data_items_1",
+          "_dynamicFields": {
+            "parameter_list": {
+              "filter": [
+                {
+                  "fullExpression": "@item.user_gender_list.includes(@fields.user_gender)",
+                  "matchedExpression": "@item.user_gender_list.includes",
+                  "type": "item",
+                  "fieldName": "user_gender_list"
+                },
+                {
+                  "fullExpression": "@item.user_gender_list.includes(@fields.user_gender)",
+                  "matchedExpression": "@fields.user_gender",
+                  "type": "fields",
+                  "fieldName": "user_gender"
+                }
+              ]
+            },
+            "condition": [
+              {
+                "fullExpression": "!@fields.family_relation",
+                "matchedExpression": "!@fields.family_relation",
+                "type": "fields",
+                "fieldName": "family_relation"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.user_gender_list.includes": [
+              "parameter_list.filter"
+            ],
+            "@fields.user_gender": [
+              "parameter_list.filter"
+            ],
+            "!@fields.family_relation": [
+              "condition"
+            ]
+          }
+        }
+      ],
       "_nested_name": "family_relation_select",
       "_dynamicFields": {
         "parameter_list": {
-          "answer_list": [
-            {
-              "fullExpression": "@data.family_relation",
-              "matchedExpression": "@data.family_relation",
-              "type": "data",
-              "fieldName": "family_relation"
-            }
-          ],
           "placeholder": [
             {
               "fullExpression": "@global.placeholder_family_relation",
@@ -356,9 +434,6 @@
         ]
       },
       "_dynamicDependencies": {
-        "@data.family_relation": [
-          "parameter_list.answer_list"
-        ],
         "@global.placeholder_family_relation": [
           "parameter_list.placeholder"
         ],
