@@ -1017,13 +1017,13 @@
                   "_raw": "click | emit: completed"
                 },
                 {
-                  "trigger": "completed",
+                  "trigger": "click",
                   "action_id": "set_field",
                   "args": [
                     "onboarding_settings_completed",
                     true
                   ],
-                  "_raw": "completed | set_field: onboarding_settings_completed: true"
+                  "_raw": "click | set_field: onboarding_settings_completed: true"
                 }
               ],
               "parameter_list": {

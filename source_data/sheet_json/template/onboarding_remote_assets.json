@@ -192,7 +192,7 @@
       "type": "button",
       "name": "button_completed_3",
       "value": "@global.continue",
-      "action_list": "click | emit: completed;\ncompleted | set_field: onboarding_settings_completed: true;",
+      "action_list": "click | emit: completed;\nclick | set_field: onboarding_settings_completed: true;",
       "parameter_list": "style: navigation;"
     },
     {
