@@ -97,7 +97,6 @@ config.app_config.APP_SIDEMENU_DEFAULTS.title = "PanamaApp";
 config.app_config.APP_HEADER_DEFAULTS.title = "PanamaApp";
 config.app_config.APP_HEADER_DEFAULTS.hidden = true;
 config.app_config.APP_FOOTER_DEFAULTS.template = "footer";
-config.app_config.APP_FOOTER_DEFAULTS.background = "none";
 config.app_config.NOTIFICATION_DEFAULTS.title = "New message from PanamaApp";
 config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from PanamaApp";
 config.app_config.APP_THEMES.available = ["plh_kids_teens_pa"];
