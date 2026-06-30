@@ -50,14 +50,14 @@
       "type": "combo_box",
       "name": "user_relationship_select",
       "value": "@fields.user_relationship",
-      "parameter_list": "answer_list: @data.user_relationship;\nplaceholder: @global.placeholder_user_relationship;\nvariant: dropdown;",
+      "parameter_list": "answer_list: @data.user_relationship;\nplaceholder: @global.placeholder_user_relationship;\nvariant: dropdown;\nwrap: true;",
       "condition": "!!@fields.user_relationship",
       "exclude_from_translation": true
     },
     {
       "type": "combo_box",
       "name": "user_relationship_select",
-      "parameter_list": "answer_list: @data.user_relationship;\nplaceholder: @global.placeholder_user_relationship;\nvariant: dropdown;",
+      "parameter_list": "answer_list: @data.user_relationship;\nplaceholder: @global.placeholder_user_relationship;\nvariant: dropdown;\nwrap: true;",
       "condition": "!@fields.user_relationship",
       "exclude_from_translation": true
     },

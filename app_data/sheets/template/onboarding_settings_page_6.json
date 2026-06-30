@@ -257,7 +257,8 @@
       "parameter_list": {
         "answer_list": "@data.user_location",
         "placeholder": "@global.placeholder_user_location",
-        "variant": "dropdown"
+        "variant": "dropdown",
+        "wrap": "true"
       },
       "condition": "!!@fields.user_location",
       "exclude_from_translation": true,
@@ -319,7 +320,8 @@
       "parameter_list": {
         "answer_list": "@data.user_location",
         "placeholder": "@global.placeholder_user_location",
-        "variant": "dropdown"
+        "variant": "dropdown",
+        "wrap": "true"
       },
       "condition": "!@fields.user_location",
       "exclude_from_translation": true,
@@ -517,7 +519,8 @@
       "value": "@fields.user_location_district",
       "parameter_list": {
         "placeholder": "@global.placeholder_user_district",
-        "variant": "dropdown"
+        "variant": "dropdown",
+        "wrap": "true"
       },
       "condition": "!!@fields.user_location_district",
       "exclude_from_translation": true,
@@ -619,6 +622,7 @@
       "parameter_list": {
         "placeholder": "@global.placeholder_user_district",
         "variant": "dropdown",
+        "wrap": "true",
         "disabled": "!@local.user_location_select"
       },
       "condition": "!@fields.user_location_district",

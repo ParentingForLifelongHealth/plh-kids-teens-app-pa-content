@@ -257,7 +257,8 @@
       "parameter_list": {
         "answer_list": "@data.user_referral",
         "placeholder": "@global.placeholder_user_referral",
-        "variant": "dropdown"
+        "variant": "dropdown",
+        "wrap": "true"
       },
       "condition": "!!@fields.user_referral",
       "exclude_from_translation": true,
@@ -319,7 +320,8 @@
       "parameter_list": {
         "answer_list": "@data.user_referral",
         "placeholder": "@global.placeholder_user_referral",
-        "variant": "dropdown"
+        "variant": "dropdown",
+        "wrap": "true"
       },
       "condition": "!@fields.user_referral",
       "exclude_from_translation": true,

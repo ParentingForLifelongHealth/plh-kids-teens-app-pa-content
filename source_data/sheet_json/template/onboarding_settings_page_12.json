@@ -53,14 +53,14 @@
       "type": "combo_box",
       "name": "child_age_select",
       "value": "@fields.child_age",
-      "parameter_list": "answer_list: @data.child_age;\nplaceholder: @global.placeholder_child_age;\nvariant: dropdown;",
+      "parameter_list": "answer_list: @data.child_age;\nplaceholder: @global.placeholder_child_age;\nvariant: dropdown;\nwrap: true;",
       "condition": "!!@fields.child_age",
       "exclude_from_translation": true
     },
     {
       "type": "combo_box",
       "name": "child_age_select",
-      "parameter_list": "answer_list: @data.child_age;\nplaceholder: @global.placeholder_child_age;\nvariant: dropdown;",
+      "parameter_list": "answer_list: @data.child_age;\nplaceholder: @global.placeholder_child_age;\nvariant: dropdown;\nwrap: true;",
       "condition": "!@fields.child_age",
       "exclude_from_translation": true
     },
