@@ -256,7 +256,8 @@
       "value": "@fields.family_relation",
       "parameter_list": {
         "placeholder": "@global.placeholder_family_relation",
-        "variant": "dropdown"
+        "variant": "dropdown",
+        "wrap": "true"
       },
       "condition": "!!@fields.family_relation",
       "exclude_from_translation": true,
@@ -357,7 +358,8 @@
       "name": "family_relation_select",
       "parameter_list": {
         "placeholder": "@global.placeholder_family_relation",
-        "variant": "dropdown"
+        "variant": "dropdown",
+        "wrap": "true"
       },
       "condition": "!@fields.family_relation",
       "exclude_from_translation": true,

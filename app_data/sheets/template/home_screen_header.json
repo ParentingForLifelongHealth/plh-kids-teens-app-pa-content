@@ -1803,6 +1803,11 @@
           }
         },
         {
+          "type": "data_items_johnny",
+          "name": "data_items_johnny_25",
+          "_nested_name": "display_group_19.data_items_johnny_25"
+        },
+        {
           "type": "template",
           "value": "header_button",
           "condition": "!!@local.module_id",

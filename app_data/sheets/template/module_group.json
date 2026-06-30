@@ -804,6 +804,105 @@
           "parameter_list.open"
         ]
       }
+    },
+    {
+      "type": "plh_course_lesson_accordion",
+      "name": "TESTING",
+      "value": "@local.course_title",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "locked": "@local.all_locked",
+        "image_asset": "@local.course_image",
+        "image_alignment": "centre",
+        "sub_items_name": "@global.sub_items_name",
+        "completed": "@local.completed_course",
+        "open": "(@fields.last_opened == @local.course)"
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "TESTING",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.course_title",
+            "matchedExpression": "@local.course_title",
+            "type": "local",
+            "fieldName": "course_title"
+          }
+        ],
+        "parameter_list": {
+          "locked": [
+            {
+              "fullExpression": "@local.all_locked",
+              "matchedExpression": "@local.all_locked",
+              "type": "local",
+              "fieldName": "all_locked"
+            }
+          ],
+          "image_asset": [
+            {
+              "fullExpression": "@local.course_image",
+              "matchedExpression": "@local.course_image",
+              "type": "local",
+              "fieldName": "course_image"
+            }
+          ],
+          "sub_items_name": [
+            {
+              "fullExpression": "@global.sub_items_name",
+              "matchedExpression": "@global.sub_items_name",
+              "type": "global",
+              "fieldName": "sub_items_name"
+            }
+          ],
+          "completed": [
+            {
+              "fullExpression": "@local.completed_course",
+              "matchedExpression": "@local.completed_course",
+              "type": "local",
+              "fieldName": "completed_course"
+            }
+          ],
+          "open": [
+            {
+              "fullExpression": "(@fields.last_opened == @local.course)",
+              "matchedExpression": "@fields.last_opened",
+              "type": "fields",
+              "fieldName": "last_opened"
+            },
+            {
+              "fullExpression": "(@fields.last_opened == @local.course)",
+              "matchedExpression": "@local.course",
+              "type": "local",
+              "fieldName": "course"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.course_title": [
+          "value"
+        ],
+        "@local.all_locked": [
+          "parameter_list.locked"
+        ],
+        "@local.course_image": [
+          "parameter_list.image_asset"
+        ],
+        "@global.sub_items_name": [
+          "parameter_list.sub_items_name"
+        ],
+        "@local.completed_course": [
+          "parameter_list.completed"
+        ],
+        "@fields.last_opened": [
+          "parameter_list.open"
+        ],
+        "@local.course": [
+          "parameter_list.open"
+        ]
+      }
     }
   ],
   "_source": {

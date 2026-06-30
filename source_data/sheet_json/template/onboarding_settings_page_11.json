@@ -52,14 +52,14 @@
       "type": "combo_box",
       "name": "child_gender_select",
       "value": "@fields.child_gender",
-      "parameter_list": "answer_list: @data.child_gender;\nplaceholder: @global.placeholder_child_gender;\nvariant: dropdown;",
+      "parameter_list": "answer_list: @data.child_gender;\nplaceholder: @global.placeholder_child_gender;\nvariant: dropdown;\nwrap: true;",
       "condition": "!!@fields.child_gender",
       "exclude_from_translation": true
     },
     {
       "type": "combo_box",
       "name": "child_gender_select",
-      "parameter_list": "answer_list: @data.child_gender;\nplaceholder: @global.placeholder_child_gender;\nvariant: dropdown;",
+      "parameter_list": "answer_list: @data.child_gender;\nplaceholder: @global.placeholder_child_gender;\nvariant: dropdown;\nwrap: true;",
       "condition": "!@fields.child_gender",
       "exclude_from_translation": true
     },

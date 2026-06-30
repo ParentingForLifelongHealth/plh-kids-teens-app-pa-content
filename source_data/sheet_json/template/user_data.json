@@ -84,7 +84,7 @@
       "type": "combo_box",
       "name": "user_location_select",
       "value": "@fields.user_location",
-      "parameter_list": "answer_list: @data.user_location;\nvariant: dropdown;",
+      "parameter_list": "answer_list: @data.user_location;\nvariant: dropdown;\nwrap: true;",
       "exclude_from_translation": true
     },
     {
@@ -96,7 +96,7 @@
       "type": "combo_box",
       "name": "user_district_select",
       "value": "@fields.user_location_district",
-      "parameter_list": "answer_list: @data.user_location_district;\nvariant: dropdown;",
+      "parameter_list": "answer_list: @data.user_location_district;\nvariant: dropdown;\nwrap: true;",
       "exclude_from_translation": true
     },
     {
@@ -183,7 +183,7 @@
       "type": "combo_box",
       "name": "family_relation_select",
       "value": "@fields.family_relation",
-      "parameter_list": "answer_list: @data.family_relation;\nvariant: dropdown;",
+      "parameter_list": "answer_list: @data.family_relation;\nvariant: dropdown;\nwrap: true;",
       "exclude_from_translation": true
     },
     {

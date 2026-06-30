@@ -53,7 +53,7 @@
       "type": "begin_combo_box",
       "name": "family_relation_select",
       "value": "@fields.family_relation",
-      "parameter_list": "placeholder: @global.placeholder_family_relation;\nvariant: dropdown;",
+      "parameter_list": "placeholder: @global.placeholder_family_relation;\nvariant: dropdown;\nwrap: true;",
       "condition": "!!@fields.family_relation",
       "exclude_from_translation": true
     },
@@ -77,7 +77,7 @@
     {
       "type": "begin_combo_box",
       "name": "family_relation_select",
-      "parameter_list": "placeholder: @global.placeholder_family_relation;\nvariant: dropdown;",
+      "parameter_list": "placeholder: @global.placeholder_family_relation;\nvariant: dropdown;\nwrap: true;",
       "condition": "!@fields.family_relation",
       "exclude_from_translation": true
     },

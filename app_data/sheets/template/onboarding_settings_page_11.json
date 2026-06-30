@@ -259,7 +259,8 @@
       "parameter_list": {
         "answer_list": "@data.child_gender",
         "placeholder": "@global.placeholder_child_gender",
-        "variant": "dropdown"
+        "variant": "dropdown",
+        "wrap": "true"
       },
       "condition": "!!@fields.child_gender",
       "exclude_from_translation": true,
@@ -321,7 +322,8 @@
       "parameter_list": {
         "answer_list": "@data.child_gender",
         "placeholder": "@global.placeholder_child_gender",
-        "variant": "dropdown"
+        "variant": "dropdown",
+        "wrap": "true"
       },
       "condition": "!@fields.child_gender",
       "exclude_from_translation": true,

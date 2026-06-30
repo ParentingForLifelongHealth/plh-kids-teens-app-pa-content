@@ -12,6 +12,7 @@
 | button | 116 |
 | combo_box | 27 |
 | data_items | 239 |
+| data_items_johnny | 1 |
 | debug_toggle | 1 |
 | display_grid | 4 |
 | display_group | 108 |
@@ -24,6 +25,7 @@
 | number_selector | 1 |
 | plh_bottom_nav | 1 |
 | plh_course_accordion | 1 |
+| plh_course_lesson_accordion | 1 |
 | plh_course_sub_item | 2 |
 | plh_lesson_cta | 2 |
 | plh_module_details_header | 1 |

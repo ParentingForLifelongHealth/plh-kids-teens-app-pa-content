@@ -102,6 +102,13 @@
     },
     {
       "type": "end_plh_course_accordion"
+    },
+    {
+      "type": "plh_course_lesson_accordion",
+      "name": "TESTING",
+      "value": "@local.course_title",
+      "parameter_list": "locked: @local.all_locked;\nimage_asset: @local.course_image;\nimage_alignment: centre;\nsub_items_name: @global.sub_items_name;\ncompleted: @local.completed_course;\nopen: (@fields.last_opened == @local.course);",
+      "exclude_from_translation": true
     }
   ]
 }
