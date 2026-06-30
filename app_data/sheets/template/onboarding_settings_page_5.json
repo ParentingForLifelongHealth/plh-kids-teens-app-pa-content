@@ -256,7 +256,8 @@
       },
       "parameter_list": {
         "answer_list": "@data.user_gender",
-        "variant": "dropdown"
+        "variant": "dropdown",
+        "wrap": "true"
       },
       "condition": "!!@fields.user_gender",
       "exclude_from_translation": true,
@@ -306,8 +307,8 @@
       "name": "user_gender_select",
       "parameter_list": {
         "answer_list": "@data.user_gender",
-        "placeholder": "@global.placeholder_user_gender",
-        "variant": "dropdown"
+        "variant": "dropdown",
+        "wrap": "true"
       },
       "condition": "!@fields.user_gender",
       "exclude_from_translation": true,
@@ -320,14 +321,6 @@
               "matchedExpression": "@data.user_gender",
               "type": "data",
               "fieldName": "user_gender"
-            }
-          ],
-          "placeholder": [
-            {
-              "fullExpression": "@global.placeholder_user_gender",
-              "matchedExpression": "@global.placeholder_user_gender",
-              "type": "global",
-              "fieldName": "placeholder_user_gender"
             }
           ]
         },
@@ -343,9 +336,6 @@
       "_dynamicDependencies": {
         "@data.user_gender": [
           "parameter_list.answer_list"
-        ],
-        "@global.placeholder_user_gender": [
-          "parameter_list.placeholder"
         ],
         "!@fields.user_gender": [
           "condition"

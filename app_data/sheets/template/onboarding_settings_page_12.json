@@ -260,7 +260,8 @@
       "parameter_list": {
         "answer_list": "@data.child_age",
         "placeholder": "@global.placeholder_child_age",
-        "variant": "dropdown"
+        "variant": "dropdown",
+        "wrap": "true"
       },
       "condition": "!!@fields.child_age",
       "exclude_from_translation": true,
@@ -322,7 +323,8 @@
       "parameter_list": {
         "answer_list": "@data.child_age",
         "placeholder": "@global.placeholder_child_age",
-        "variant": "dropdown"
+        "variant": "dropdown",
+        "wrap": "true"
       },
       "condition": "!@fields.child_age",
       "exclude_from_translation": true,

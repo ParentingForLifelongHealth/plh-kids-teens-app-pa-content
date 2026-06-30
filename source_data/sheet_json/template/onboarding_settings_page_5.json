@@ -50,14 +50,14 @@
       "type": "combo_box",
       "name": "user_gender_select",
       "value": "@fields.user_gender",
-      "parameter_list": "answer_list: @data.user_gender;\nvariant: dropdown;",
+      "parameter_list": "answer_list: @data.user_gender;\nvariant: dropdown;\nwrap: true;",
       "condition": "!!@fields.user_gender",
       "exclude_from_translation": true
     },
     {
       "type": "combo_box",
       "name": "user_gender_select",
-      "parameter_list": "answer_list: @data.user_gender;\nplaceholder: @global.placeholder_user_gender;\nvariant: dropdown;",
+      "parameter_list": "answer_list: @data.user_gender;\nvariant: dropdown;\nwrap: true;",
       "condition": "!@fields.user_gender",
       "exclude_from_translation": true
     },

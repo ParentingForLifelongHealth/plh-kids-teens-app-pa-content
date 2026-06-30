@@ -415,7 +415,8 @@
       },
       "parameter_list": {
         "answer_list": "@data.user_location",
-        "variant": "dropdown"
+        "variant": "dropdown",
+        "wrap": "true"
       },
       "exclude_from_translation": true,
       "_nested_name": "user_location_select",
@@ -481,7 +482,8 @@
       },
       "parameter_list": {
         "answer_list": "@data.user_location_district",
-        "variant": "dropdown"
+        "variant": "dropdown",
+        "wrap": "true"
       },
       "exclude_from_translation": true,
       "_nested_name": "user_district_select",
@@ -940,7 +942,8 @@
       },
       "parameter_list": {
         "answer_list": "@data.family_relation",
-        "variant": "dropdown"
+        "variant": "dropdown",
+        "wrap": "true"
       },
       "exclude_from_translation": true,
       "_nested_name": "family_relation_select",

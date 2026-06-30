@@ -193,7 +193,8 @@
     {
       "name": "has_next_module",
       "value": -1,
-      "exclude_from_translation": true
+      "exclude_from_translation": true,
+      "comment": "&& (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)) \n&& (!@item.age_list || @item.age_list.includes(@fields.child_age)) \n&& (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) \n&& (!@item.user_gender_list || @item.user_gender_list.includes(@fields.user_gender)) \n&& (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship)) ;"
     },
     {
       "type": "data_items",
@@ -248,6 +249,9 @@
       "parameter_list": "filter:  @item.id == @local.course_id;\nlimit: 1;",
       "condition": "!!@local.course_id",
       "exclude_from_translation": true
+    },
+    {
+      "type": "data_items_johnny"
     },
     {
       "name": "start_at_id",
