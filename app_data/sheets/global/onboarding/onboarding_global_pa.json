@@ -145,7 +145,7 @@
     {
       "type": "declare_global_constant",
       "name": "logged_in_existing_user",
-      "value": "¡Que gusto verte de nuevo @fields._auth_user_given_name!",
+      "value": "¡Qué gusto verte de nuevo @fields._auth_user_given_name!",
       "_translations": {
         "value": {}
       }
@@ -153,7 +153,7 @@
     {
       "type": "declare_global_constant",
       "name": "logged_in_existing",
-      "value": "¡Que gusto verte otra vez!",
+      "value": "¡Qué gusto verte otra vez!",
       "_translations": {
         "value": {}
       }
@@ -161,7 +161,7 @@
     {
       "type": "declare_global_constant",
       "name": "logged_in_new_user",
-      "value": "¡Nos alegra que estés de regreso, @fields._auth_user_given_name!",
+      "value": "¡Nos alegra que estés aquí, @fields._auth_user_given_name!",
       "_translations": {
         "value": {}
       }

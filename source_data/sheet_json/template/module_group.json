@@ -107,7 +107,8 @@
       "type": "plh_course_lesson_accordion",
       "name": "TESTING",
       "value": "@local.course_title",
-      "parameter_list": "locked: @local.all_locked;\nimage_asset: @local.course_image;\nimage_alignment: centre;\nsub_items_name: @global.sub_items_name;\ncompleted: @local.completed_course;\nopen: (@fields.last_opened == @local.course);\ncourse_id: @local.course;\ncompleted_text: @global.completed_text;\nlocked_text: @global.locked_text;",
+      "parameter_list": "locked: @local.all_locked;\nimage_asset: @local.course_image;\nimage_alignment: centre;\nsub_items_name: @global.sub_items_name;\ncompleted: @local.completed_course;\ncompleted_text: @global.completed_text;\nlocked_text: @global.locked_text;\nopen: (@fields.last_opened == @local.course);\ncourse_id: @local.course;",
+      "condition": false,
       "exclude_from_translation": true
     }
   ]

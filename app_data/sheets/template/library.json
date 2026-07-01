@@ -42,6 +42,17 @@
                 "library_section_@item.id"
               ],
               "_raw": "click | go_to: library_section_@item.id"
+            },
+            {
+              "trigger": "click",
+              "action_id": "add_data",
+              "args": [],
+              "_raw": "click | add_data | \n_list_id: navigation_data,\npage: library_section_@item.id,\ntime_stamp: @calc(now())",
+              "params": {
+                "_list_id": "navigation_data",
+                "page": "library_section_@item.id",
+                "time_stamp": "@calc(now())"
+              }
             }
           ],
           "condition": "@item.id != \"tips\"",
@@ -192,6 +203,40 @@
                     "fieldName": "id"
                   }
                 ]
+              },
+              "1": {
+                "_raw": [
+                  {
+                    "fullExpression": "click | add_data | \n_list_id: navigation_data,\npage: library_section_@item.id,\ntime_stamp: @calc(now())",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  },
+                  {
+                    "fullExpression": "click | add_data | \n_list_id: navigation_data,\npage: library_section_@item.id,\ntime_stamp: @calc(now())",
+                    "matchedExpression": "@calc(now())",
+                    "type": "calc",
+                    "fieldName": "now()"
+                  }
+                ],
+                "params": {
+                  "page": [
+                    {
+                      "fullExpression": "library_section_@item.id",
+                      "matchedExpression": "@item.id",
+                      "type": "item",
+                      "fieldName": "id"
+                    }
+                  ],
+                  "time_stamp": [
+                    {
+                      "fullExpression": "@calc(now())",
+                      "matchedExpression": "@calc(now())",
+                      "type": "calc",
+                      "fieldName": "now()"
+                    }
+                  ]
+                }
               }
             },
             "condition": [
@@ -216,8 +261,14 @@
               "name",
               "action_list.0.args.0",
               "action_list.0._raw",
+              "action_list.1._raw",
+              "action_list.1.params.page",
               "condition",
               "_nested_name"
+            ],
+            "@calc(now())": [
+              "action_list.1._raw",
+              "action_list.1.params.time_stamp"
             ]
           }
         },
@@ -232,6 +283,17 @@
                 "library_article_@item.id"
               ],
               "_raw": "click | go_to: library_article_@item.id"
+            },
+            {
+              "trigger": "click",
+              "action_id": "add_data",
+              "args": [],
+              "_raw": "click | add_data | \n_list_id: navigation_data,\npage: library_article_@item.id,\ntime_stamp: @calc(now())",
+              "params": {
+                "_list_id": "navigation_data",
+                "page": "library_article_@item.id",
+                "time_stamp": "@calc(now())"
+              }
             }
           ],
           "condition": "@item.id == \"tips\"",
@@ -382,6 +444,40 @@
                     "fieldName": "id"
                   }
                 ]
+              },
+              "1": {
+                "_raw": [
+                  {
+                    "fullExpression": "click | add_data | \n_list_id: navigation_data,\npage: library_article_@item.id,\ntime_stamp: @calc(now())",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  },
+                  {
+                    "fullExpression": "click | add_data | \n_list_id: navigation_data,\npage: library_article_@item.id,\ntime_stamp: @calc(now())",
+                    "matchedExpression": "@calc(now())",
+                    "type": "calc",
+                    "fieldName": "now()"
+                  }
+                ],
+                "params": {
+                  "page": [
+                    {
+                      "fullExpression": "library_article_@item.id",
+                      "matchedExpression": "@item.id",
+                      "type": "item",
+                      "fieldName": "id"
+                    }
+                  ],
+                  "time_stamp": [
+                    {
+                      "fullExpression": "@calc(now())",
+                      "matchedExpression": "@calc(now())",
+                      "type": "calc",
+                      "fieldName": "now()"
+                    }
+                  ]
+                }
               }
             },
             "condition": [
@@ -406,8 +502,14 @@
               "name",
               "action_list.0.args.0",
               "action_list.0._raw",
+              "action_list.1._raw",
+              "action_list.1.params.page",
               "condition",
               "_nested_name"
+            ],
+            "@calc(now())": [
+              "action_list.1._raw",
+              "action_list.1.params.time_stamp"
             ]
           }
         }
@@ -441,6 +543,17 @@
             "activity_library"
           ],
           "_raw": "click | go_to: activity_library"
+        },
+        {
+          "trigger": "click",
+          "action_id": "add_data",
+          "args": [],
+          "_raw": "click | add_data | \n_list_id: navigation_data,\npage: activity_library,\ntime_stamp: @calc(now())",
+          "params": {
+            "_list_id": "navigation_data",
+            "page": "activity_library",
+            "time_stamp": "@calc(now())"
+          }
         }
       ],
       "style_list": [
@@ -562,6 +675,28 @@
             "fieldName": "id"
           }
         ],
+        "action_list": {
+          "1": {
+            "_raw": [
+              {
+                "fullExpression": "click | add_data | \n_list_id: navigation_data,\npage: activity_library,\ntime_stamp: @calc(now())",
+                "matchedExpression": "@calc(now())",
+                "type": "calc",
+                "fieldName": "now()"
+              }
+            ],
+            "params": {
+              "time_stamp": [
+                {
+                  "fullExpression": "@calc(now())",
+                  "matchedExpression": "@calc(now())",
+                  "type": "calc",
+                  "fieldName": "now()"
+                }
+              ]
+            }
+          }
+        },
         "_nested_name": [
           {
             "fullExpression": "card_@item.id",
@@ -575,6 +710,10 @@
         "@item.id": [
           "name",
           "_nested_name"
+        ],
+        "@calc(now())": [
+          "action_list.1._raw",
+          "action_list.1.params.time_stamp"
         ]
       }
     }

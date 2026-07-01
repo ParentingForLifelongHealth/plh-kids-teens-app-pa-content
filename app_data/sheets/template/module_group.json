@@ -818,11 +818,12 @@
         "image_alignment": "centre",
         "sub_items_name": "@global.sub_items_name",
         "completed": "@local.completed_course",
-        "open": "(@fields.last_opened == @local.course)",
-        "course_id": "@local.course",
         "completed_text": "@global.completed_text",
-        "locked_text": "@global.locked_text"
+        "locked_text": "@global.locked_text",
+        "open": "(@fields.last_opened == @local.course)",
+        "course_id": "@local.course"
       },
+      "condition": false,
       "exclude_from_translation": true,
       "_nested_name": "TESTING",
       "_dynamicFields": {
@@ -867,6 +868,22 @@
               "fieldName": "completed_course"
             }
           ],
+          "completed_text": [
+            {
+              "fullExpression": "@global.completed_text",
+              "matchedExpression": "@global.completed_text",
+              "type": "global",
+              "fieldName": "completed_text"
+            }
+          ],
+          "locked_text": [
+            {
+              "fullExpression": "@global.locked_text",
+              "matchedExpression": "@global.locked_text",
+              "type": "global",
+              "fieldName": "locked_text"
+            }
+          ],
           "open": [
             {
               "fullExpression": "(@fields.last_opened == @local.course)",
@@ -888,22 +905,6 @@
               "type": "local",
               "fieldName": "course"
             }
-          ],
-          "completed_text": [
-            {
-              "fullExpression": "@global.completed_text",
-              "matchedExpression": "@global.completed_text",
-              "type": "global",
-              "fieldName": "completed_text"
-            }
-          ],
-          "locked_text": [
-            {
-              "fullExpression": "@global.locked_text",
-              "matchedExpression": "@global.locked_text",
-              "type": "global",
-              "fieldName": "locked_text"
-            }
           ]
         }
       },
@@ -923,18 +924,18 @@
         "@local.completed_course": [
           "parameter_list.completed"
         ],
+        "@global.completed_text": [
+          "parameter_list.completed_text"
+        ],
+        "@global.locked_text": [
+          "parameter_list.locked_text"
+        ],
         "@fields.last_opened": [
           "parameter_list.open"
         ],
         "@local.course": [
           "parameter_list.open",
           "parameter_list.course_id"
-        ],
-        "@global.completed_text": [
-          "parameter_list.completed_text"
-        ],
-        "@global.locked_text": [
-          "parameter_list.locked_text"
         ]
       }
     }

@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 239
+        "count": 240
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 108
+        "count": 115
       },
       {
         "type": "drawer",
@@ -59,7 +59,7 @@
       },
       {
         "type": "image",
-        "count": 22
+        "count": 23
       },
       {
         "type": "items",
@@ -86,7 +86,15 @@
         "count": 1
       },
       {
+        "type": "plh_course_lesson_accordion",
+        "count": 4
+      },
+      {
         "type": "plh_course_sub_item",
+        "count": 2
+      },
+      {
+        "type": "plh_get_up_next",
         "count": 2
       },
       {
@@ -127,7 +135,7 @@
       },
       {
         "type": "set_variable",
-        "count": 4359
+        "count": 4375
       },
       {
         "type": "simple_checkbox",
@@ -143,11 +151,11 @@
       },
       {
         "type": "template",
-        "count": 1358
+        "count": 1361
       },
       {
         "type": "text",
-        "count": 289
+        "count": 296
       },
       {
         "type": "text_area",
@@ -163,7 +171,7 @@
       },
       {
         "type": "title",
-        "count": 58
+        "count": 63
       },
       {
         "type": "toggle_bar",
@@ -187,7 +195,7 @@
     "data": [
       {
         "type": "add_data",
-        "count": 1
+        "count": 4
       },
       {
         "type": "app_update",
@@ -279,7 +287,7 @@
       },
       {
         "type": "set_local",
-        "count": 145
+        "count": 134
       },
       {
         "type": "share",
@@ -303,8 +311,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "71746 KB",
-        "MB": "71.7 MB"
+        "KB": "71767 KB",
+        "MB": "71.8 MB"
       },
       {
         "assets": "unused",
@@ -3055,7 +3063,7 @@
       {
         "path": "images/logos/UNICEF.png",
         "count": 1,
-        "size_kb": 68.8
+        "size_kb": 89.7
       },
       {
         "path": "images/onboarding/welcome_screen_1.svg",
@@ -3119,7 +3127,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 18
+        "total": 19
       },
       {
         "type": "data_list",
@@ -3589,7 +3597,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 179
+        "total": 181
       },
       {
         "type": "template",
