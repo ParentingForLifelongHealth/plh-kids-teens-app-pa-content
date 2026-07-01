@@ -11,20 +11,22 @@
 | audio | 3 |
 | button | 116 |
 | combo_box | 27 |
-| data_items | 239 |
+| data_items | 240 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 108 |
+| display_group | 115 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
-| image | 22 |
+| image | 23 |
 | items | 16 |
 | lottie_animation | 5 |
 | nested_properties | 386 |
 | number_selector | 1 |
 | plh_bottom_nav | 1 |
 | plh_course_accordion | 1 |
+| plh_course_lesson_accordion | 4 |
 | plh_course_sub_item | 2 |
+| plh_get_up_next | 2 |
 | plh_lesson_cta | 2 |
 | plh_module_details_header | 1 |
 | plh_module_list_item | 2 |
@@ -34,16 +36,16 @@
 | round_button | 20 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 4359 |
+| set_variable | 4375 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 1358 |
-| text | 289 |
+| template | 1361 |
+| text | 296 |
 | text_area | 3 |
 | text_box | 21 |
 | text_bubble | 17 |
-| title | 58 |
+| title | 63 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
 | video | 3 |
@@ -55,7 +57,7 @@
 
 | type | count |
 | --- | --- |
-| add_data | 1 |
+| add_data | 4 |
 | app_update | 1 |
 | asset_pack | 2 |
 | auth | 3 |
@@ -78,7 +80,7 @@
 | set_data | 127 |
 | set_field | 160 |
 | set_item | 30 |
-| set_local | 145 |
+| set_local | 134 |
 | share | 3 |
 | task | 2 |
 | toast | 12 |
@@ -90,7 +92,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 71746 KB | 71.7 MB |
+| total | 71767 KB | 71.8 MB |
 | unused | 13675 KB | 13.7 MB |
 </details>
 
@@ -683,7 +685,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/IDEMS.png | 42.7 | 1 |
 | images/logos/MIDES_vertical.png | 14.4 | 1 |
 | images/logos/PLH.png | 33.9 | 1 |
-| images/logos/UNICEF.png | 68.8 | 1 |
+| images/logos/UNICEF.png | 89.7 | 1 |
 | images/onboarding/welcome_screen_1.svg | 239.7 | 1 |
 | images/onboarding/welcome_screen_2.svg | 347.1 | 1 |
 | images/onboarding/welcome_screen_3.svg | 360.4 | 1 |
@@ -702,7 +704,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 18 |
+| data_list |  | 19 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
 | data_list | campaign_rows | 1 |
@@ -796,7 +798,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 87 |
 | global |  | 12 |
 | global | onboarding | 15 |
-| template |  | 179 |
+| template |  | 181 |
 | template | generated | 1093 |
 | template | legal_terms | 4 |
 </details>

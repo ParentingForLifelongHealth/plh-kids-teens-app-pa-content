@@ -50,14 +50,14 @@
       "type": "combo_box",
       "name": "user_location_select",
       "value": "@fields.user_location",
-      "parameter_list": "answer_list: @data.user_location;\nplaceholder: @global.placeholder_user_location;\nvariant: dropdown;",
+      "parameter_list": "answer_list: @data.user_location;\nplaceholder: @global.placeholder_user_location;\nvariant: dropdown;\nwrap: true;",
       "condition": "!!@fields.user_location",
       "exclude_from_translation": true
     },
     {
       "type": "combo_box",
       "name": "user_location_select",
-      "parameter_list": "answer_list: @data.user_location;\nplaceholder: @global.placeholder_user_location;\nvariant: dropdown;",
+      "parameter_list": "answer_list: @data.user_location;\nplaceholder: @global.placeholder_user_location;\nvariant: dropdown;\nwrap: true;",
       "condition": "!@fields.user_location",
       "exclude_from_translation": true
     },
@@ -90,7 +90,7 @@
       "type": "begin_combo_box",
       "name": "user_district_select",
       "value": "@fields.user_location_district",
-      "parameter_list": "placeholder: @global.placeholder_user_district;\nvariant: dropdown;",
+      "parameter_list": "placeholder: @global.placeholder_user_district;\nvariant: dropdown;\nwrap: true;",
       "condition": "!!@fields.user_location_district",
       "exclude_from_translation": true
     },
@@ -114,7 +114,7 @@
     {
       "type": "begin_combo_box",
       "name": "user_district_select",
-      "parameter_list": "placeholder: @global.placeholder_user_district;\nvariant: dropdown;\ndisabled: !@local.user_location_select",
+      "parameter_list": "placeholder: @global.placeholder_user_district;\nvariant: dropdown;\nwrap: true;\ndisabled: !@local.user_location_select",
       "condition": "!@fields.user_location_district",
       "exclude_from_translation": true
     },

@@ -15,7 +15,7 @@
     {
       "type": "begin_task_card",
       "name": "card_@item.id",
-      "action_list": "click | go_to: library_section_@item.id",
+      "action_list": "click | go_to: library_section_@item.id;\nclick | add_data | \n_list_id: navigation_data,\npage: library_section_@item.id,\ntime_stamp: @calc(now());",
       "condition": "@item.id != \"tips\""
     },
     {
@@ -37,7 +37,7 @@
     {
       "type": "begin_task_card",
       "name": "card_@item.id",
-      "action_list": "click | go_to: library_article_@item.id",
+      "action_list": "click | go_to: library_article_@item.id;\nclick | add_data | \n_list_id: navigation_data,\npage: library_article_@item.id,\ntime_stamp: @calc(now());",
       "condition": "@item.id == \"tips\""
     },
     {
@@ -62,7 +62,7 @@
     {
       "type": "begin_task_card",
       "name": "card_@item.id",
-      "action_list": "click | go_to: activity_library",
+      "action_list": "click | go_to: activity_library;\nclick | add_data | \n_list_id: navigation_data,\npage: activity_library,\ntime_stamp: @calc(now());",
       "style_list": "margin-top: -15px;"
     },
     {

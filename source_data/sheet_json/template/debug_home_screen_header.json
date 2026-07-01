@@ -1,6 +1,6 @@
 {
   "flow_type": "template",
-  "flow_name": "home_screen_header",
+  "flow_name": "debug_home_screen_header",
   "status": "released",
   "rows": [
     {
@@ -112,23 +112,21 @@
       "type": "end_template"
     },
     {
-      "type": "begin_display_group",
-      "parameter_list": "style: column",
-      "condition": "!@local.hp_id"
-    },
-    {
       "type": "plh_get_up_next",
       "name": "up_next"
     },
     {
       "type": "text",
-      "value": "up_next value:",
-      "condition": false
+      "value": "up_next value:"
     },
     {
       "type": "text",
-      "value": "@calc(JSON.stringify(@local.up_next || {}))",
-      "condition": false
+      "value": "@calc(JSON.stringify(@local.up_next || {}))"
+    },
+    {
+      "type": "begin_display_group",
+      "parameter_list": "style: column",
+      "condition": "!@local.hp_id"
     },
     {
       "name": "start_at_id",
@@ -239,6 +237,13 @@
     },
     {
       "type": "end_display_group"
+    },
+    {
+      "type": "begin_template",
+      "value": "debug_complete_course"
+    },
+    {
+      "type": "end_template"
     }
   ]
 }

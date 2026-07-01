@@ -3179,6 +3179,15 @@
         }
       }
     },
+    "navigation_data": {
+      "flow_type": "data_list",
+      "flow_name": "navigation_data",
+      "_source": {
+        "name": "kids_teens_global V2",
+        "path": "templates/app_navigation.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/12uVS4kd0g9A1cNLzpBt8avZ2biX4YGXgSciLMvBnsgs"
+      }
+    },
     "onboarding_progress_bars": {
       "flow_type": "data_list",
       "flow_subtype": "onboarding",
@@ -6734,12 +6743,12 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "activity_Diseña_y _crea_c",
+          "flow_name": "activity_Diseña_y_crea_c",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "activity_Diseña_y _crea_t",
+          "flow_name": "activity_Diseña_y_crea_t",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -13391,6 +13400,15 @@
         "url": "https://docs.google.com/spreadsheets/d/1KKfrEtHpXm0sMNY21dYKMmZBOny_Vnum-zr1zgdPcmM"
       }
     },
+    "debug_home_screen_header": {
+      "flow_type": "template",
+      "flow_name": "debug_home_screen_header",
+      "_source": {
+        "name": "kids_teens_global V2",
+        "path": "templates/module_list.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1SkxfFFUzSjkUaxGKvYxiec-mx0szbeR6TaqBwfbBJyQ"
+      }
+    },
     "delete_account_warning": {
       "flow_type": "template",
       "flow_name": "delete_account_warning",
@@ -13646,13 +13664,13 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "activity_Diseña_y _crea_c": {
-      "flow_name": "activity_Diseña_y _crea_c",
+    "activity_Diseña_y_crea_c": {
+      "flow_name": "activity_Diseña_y_crea_c",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "activity_Diseña_y _crea_t": {
-      "flow_name": "activity_Diseña_y _crea_t",
+    "activity_Diseña_y_crea_t": {
+      "flow_name": "activity_Diseña_y_crea_t",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -20630,6 +20648,15 @@
     "module_list": {
       "flow_type": "template",
       "flow_name": "module_list",
+      "_source": {
+        "name": "kids_teens_global V2",
+        "path": "templates/module_list.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1SkxfFFUzSjkUaxGKvYxiec-mx0szbeR6TaqBwfbBJyQ"
+      }
+    },
+    "module_list_test": {
+      "flow_type": "template",
+      "flow_name": "module_list_test",
       "_source": {
         "name": "kids_teens_global V2",
         "path": "templates/module_list.xlsx",
