@@ -92,8 +92,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 71767 KB | 71.8 MB |
-| unused | 13675 KB | 13.7 MB |
+| total | 76285 KB | 76.3 MB |
+| unused | 13825 KB | 13.8 MB |
 </details>
 
 <details open>
@@ -107,7 +107,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 44 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
-| images/activities/personajes_t.svg | 54 |
+| images/activities/personajes_t.svg | 204 |
 | images/backgrounds/homescreen_pattern.svg | 156.3 |
 | images/certificates/PA_certificate_Apoyar a mi adolescente en su aprendizaje.pptx.png | 135.3 |
 | images/certificates/PA_certificate_Apoyar a mi niña o niño en su aprendizaje.pptx.png | 135 |
@@ -216,72 +216,72 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | --- | --- | --- |
 | images/activities/aciegas_c.svg | 32.8 | 2 |
 | images/activities/aciegas_t.svg | 27.2 | 2 |
-| images/activities/activate_c.svg | 34.1 | 2 |
-| images/activities/activate_t.svg | 58.8 | 2 |
-| images/activities/adivinanzas_c.svg | 23.2 | 2 |
+| images/activities/activate_c.svg | 146.8 | 2 |
+| images/activities/activate_t.svg | 233.6 | 2 |
+| images/activities/adivinanzas_c.svg | 110.4 | 2 |
 | images/activities/adivinanzas_t.svg | 18.4 | 2 |
 | images/activities/animales_c.svg | 32.8 | 4 |
 | images/activities/animales_t.svg | 16.9 | 2 |
-| images/activities/aprender_c.svg | 49.1 | 2 |
-| images/activities/aprender_t.svg | 16.2 | 2 |
-| images/activities/artista_c.svg | 55.4 | 2 |
-| images/activities/artista_t.svg | 41 | 2 |
-| images/activities/baile.svg | 59.9 | 2 |
+| images/activities/aprender_c.svg | 170.2 | 2 |
+| images/activities/aprender_t.svg | 83.2 | 2 |
+| images/activities/artista_c.svg | 233 | 2 |
+| images/activities/artista_t.svg | 164.2 | 2 |
+| images/activities/baile.svg | 268 | 2 |
 | images/activities/boliche.svg | 32.7 | 4 |
-| images/activities/canciones.svg | 38.7 | 2 |
-| images/activities/carrera.svg | 43.8 | 2 |
+| images/activities/canciones.svg | 164.7 | 2 |
+| images/activities/carrera.svg | 179 | 2 |
 | images/activities/categorizar.svg | 39.3 | 2 |
-| images/activities/cobija.svg | 25.9 | 4 |
+| images/activities/cobija.svg | 98.7 | 4 |
 | images/activities/cocinar.svg | 100.1 | 2 |
 | images/activities/colores.svg | 29 | 4 |
-| images/activities/conversacion_c.svg | 28.4 | 2 |
+| images/activities/conversacion_c.svg | 126.4 | 2 |
 | images/activities/conversacion_t.svg | 30.7 | 2 |
-| images/activities/crea_c.svg | 19.7 | 2 |
-| images/activities/crea_t.svg | 32.3 | 2 |
-| images/activities/desafio_c.svg | 38.7 | 2 |
-| images/activities/desafio_t.svg | 62.1 | 2 |
+| images/activities/crea_c.svg | 84.7 | 2 |
+| images/activities/crea_t.svg | 132.2 | 2 |
+| images/activities/desafio_c.svg | 164.4 | 2 |
+| images/activities/desafio_t.svg | 267 | 2 |
 | images/activities/disfraces.svg | 33.3 | 2 |
 | images/activities/emociones_c.svg | 36 | 2 |
 | images/activities/emociones_t.svg | 13.9 | 4 |
 | images/activities/equilibrio_c.svg | 37.8 | 2 |
 | images/activities/equilibrio_t.svg | 37.3 | 2 |
-| images/activities/escritor_c.svg | 27.2 | 2 |
-| images/activities/escritor_t.svg | 21.3 | 2 |
-| images/activities/feliz_c.svg | 27.9 | 2 |
-| images/activities/feliz_t.svg | 11.9 | 2 |
+| images/activities/escritor_c.svg | 139.5 | 2 |
+| images/activities/escritor_t.svg | 78.3 | 2 |
+| images/activities/feliz_c.svg | 81.1 | 2 |
+| images/activities/feliz_t.svg | 45 | 2 |
 | images/activities/formas.svg | 31.8 | 2 |
-| images/activities/historia_c.svg | 36.5 | 2 |
-| images/activities/historia_t.svg | 42 | 2 |
-| images/activities/hornear_c.svg | 59.9 | 2 |
-| images/activities/hornear_t.svg | 20.3 | 2 |
+| images/activities/historia_c.svg | 103.2 | 2 |
+| images/activities/historia_t.svg | 200.4 | 2 |
+| images/activities/hornear_c.svg | 310.9 | 2 |
+| images/activities/hornear_t.svg | 50 | 2 |
 | images/activities/imagenes_c.svg | 127.9 | 2 |
-| images/activities/imagenes_t.svg | 26.4 | 2 |
+| images/activities/imagenes_t.svg | 77.5 | 2 |
 | images/activities/instrucciones.svg | 45.4 | 2 |
-| images/activities/juntos_c.svg | 38 | 2 |
+| images/activities/juntos_c.svg | 94 | 2 |
 | images/activities/juntos_t.svg | 54.3 | 2 |
 | images/activities/lectura_c.svg | 38 | 2 |
-| images/activities/lectura_t.svg | 23.4 | 2 |
-| images/activities/letras.svg | 36.3 | 2 |
+| images/activities/lectura_t.svg | 75 | 2 |
+| images/activities/letras.svg | 122.8 | 2 |
 | images/activities/lider.svg | 44.6 | 6 |
 | images/activities/logica.svg | 28 | 2 |
 | images/activities/narrador_c.svg | 98.4 | 2 |
 | images/activities/narrador_t.svg | 60.2 | 2 |
-| images/activities/naturaleza_c.svg | 43.1 | 2 |
-| images/activities/naturaleza_t.svg | 55.7 | 2 |
-| images/activities/opuestos_c.svg | 32.8 | 2 |
+| images/activities/naturaleza_c.svg | 302 | 2 |
+| images/activities/naturaleza_t.svg | 195.5 | 2 |
+| images/activities/opuestos_c.svg | 82.3 | 2 |
 | images/activities/opuestos_t.svg | 24.8 | 4 |
 | images/activities/patrones.svg | 29.4 | 4 |
 | images/activities/pelota.svg | 32.6 | 4 |
-| images/activities/personajes_c.svg | 28.1 | 2 |
-| images/activities/rompecabezas_c.svg | 41.8 | 2 |
-| images/activities/rompecabezas_t.svg | 25 | 2 |
+| images/activities/personajes_c.svg | 166.4 | 2 |
+| images/activities/rompecabezas_c.svg | 184.2 | 2 |
+| images/activities/rompecabezas_t.svg | 73.2 | 2 |
 | images/activities/ropa.svg | 48.7 | 2 |
-| images/activities/saludo_c.svg | 26.6 | 2 |
-| images/activities/saludo_t.svg | 54.7 | 2 |
-| images/activities/sombras.svg | 25.7 | 4 |
+| images/activities/saludo_c.svg | 92.3 | 2 |
+| images/activities/saludo_t.svg | 191.7 | 2 |
+| images/activities/sombras.svg | 90.6 | 4 |
 | images/activities/tenis.svg | 48.3 | 4 |
-| images/activities/veo.svg | 119.6 | 2 |
-| images/activities/verduras.svg | 97.8 | 2 |
+| images/activities/veo.svg | 233.8 | 2 |
+| images/activities/verduras.svg | 450.8 | 2 |
 | images/backgrounds/bottom_banner.svg | 3.6 | 1 |
 | images/backgrounds/complete_module.svg | 4.5 | 1 |
 | images/backgrounds/kites.svg | 37.3 | 1 |
