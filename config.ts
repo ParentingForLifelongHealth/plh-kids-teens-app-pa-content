@@ -4,7 +4,7 @@ const config = generateDeploymentConfig("plh_kids_teens_pa");
 
 config.git = {
   content_repo: "https://github.com/ParentingForLifelongHealth/plh-kids-teens-app-pa-content.git",
-  content_tag_latest: "1.2.9",
+  content_tag_latest: "1.2.10",
 };
 
 config.google_drive.sheets_folders = [
@@ -62,7 +62,7 @@ config.remote_assets = {
 
 config.android = {
   app_id: 'international.idems.plh_kids_teens_pa',
-  app_name: 'Crianza Reponsable y Amorosa',
+  app_name: 'Crianza+',
   logo_asset_path: "./app_data/assets/android/icon-foreground.png",
   logo_background_color: "#FFFFFF",
   zoom_enabled: true
@@ -70,7 +70,7 @@ config.android = {
 
 config.ios = {
   app_id: "international.idems.plh-kids-teens-pa",
-  app_name: "Crianza Reponsable y Amorosa",
+  app_name: "Crianza+",
   logo_asset_path: "./app_data/assets/android/icon-foreground.png",
   logo_background_color: "#FFFFFF",
   zoom_enabled: true
