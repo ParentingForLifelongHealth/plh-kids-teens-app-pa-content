@@ -75,30 +75,13 @@
       "comments": "filter: @item.core && !@item.completed;"
     },
     {
-      "type": "begin_template",
-      "value": "module_group",
+      "type": "plh_course_lesson_accordion",
+      "value": "@item.title",
+      "parameter_list": "locked: false;\nimage_asset: @item.image_asset;\nimage_alignment: centre;\nsub_items_name: @global.sub_items_name;\ncompleted: false;\ncompleted_text: @global.completed_text;\nlocked_text: @global.locked_text;\nopen: (@fields.last_opened == @item.id);\ncourse_id: @item.id;",
       "exclude_from_translation": true
     },
     {
-      "name": "course",
-      "value": "@item.id",
-      "exclude_from_translation": true
-    },
-    {
-      "name": "course_title",
-      "value": "@item.title"
-    },
-    {
-      "name": "course_image",
-      "value": "@item.image_asset"
-    },
-    {
-      "type": "end_template",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "end_data_items",
-      "exclude_from_translation": true
+      "type": "end_data_items"
     },
     {
       "type": "begin_display_group",
@@ -130,35 +113,15 @@
       "comments": "filter: !@item.core && !@item.completed;"
     },
     {
-      "type": "begin_template",
-      "value": "module_group",
-      "exclude_from_translation": true,
-      "comments": "filter: !@item.core && [@local.courses_not_done].includes(@item.id)"
-    },
-    {
-      "name": "course",
-      "value": "@item.id",
       "exclude_from_translation": true
     },
     {
-      "name": "course_title",
-      "value": "@item.title"
+      "type": "plh_course_lesson_accordion",
+      "value": "@item.title",
+      "parameter_list": "locked: (@local.has_core_course > 0);\nimage_asset: @item.image_asset;\nimage_alignment: centre;\nsub_items_name: @global.sub_items_name;\ncompleted: false;\ncompleted_text: @global.completed_text;\nlocked_text: @global.locked_text;\nopen: (@fields.last_opened == @item.id);\ncourse_id: @item.id;"
     },
     {
-      "name": "course_image",
-      "value": "@item.image_asset"
-    },
-    {
-      "name": "all_locked",
-      "value": "(@local.has_core_course > 0)"
-    },
-    {
-      "type": "end_template",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "end_data_items",
-      "exclude_from_translation": true
+      "type": "end_data_items"
     },
     {
       "comments": "must have completed something"
@@ -190,30 +153,9 @@
       "comments": "filter: !([@local.courses_not_done].includes(@item.id))"
     },
     {
-      "type": "begin_template",
-      "value": "module_group",
-      "exclude_from_translation": true
-    },
-    {
-      "name": "course",
-      "value": "@item.id",
-      "exclude_from_translation": true
-    },
-    {
-      "name": "course_title",
-      "value": "@item.title"
-    },
-    {
-      "name": "course_image",
-      "value": "@item.image_asset"
-    },
-    {
-      "name": "completed_course",
-      "value": true
-    },
-    {
-      "type": "end_template",
-      "exclude_from_translation": true
+      "type": "plh_course_lesson_accordion",
+      "value": "@item.title",
+      "parameter_list": "locked: false;\nimage_asset: @item.image_asset;\nimage_alignment: centre;\nsub_items_name: @global.sub_items_name;\ncompleted: true;\ncompleted_text: @global.completed_text;\nlocked_text: @global.locked_text;\nopen: (@fields.last_opened == @item.id);\ncourse_id: @item.id;"
     },
     {
       "type": "end_data_items",
