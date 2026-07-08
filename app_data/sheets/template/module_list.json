@@ -441,123 +441,93 @@
       "exclude_from_translation": true,
       "rows": [
         {
-          "type": "template",
-          "value": "module_group",
+          "type": "plh_course_lesson_accordion",
+          "value": "@item.title",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "locked": "false",
+            "image_asset": "@item.image_asset",
+            "image_alignment": "centre",
+            "sub_items_name": "@global.sub_items_name",
+            "completed": "false",
+            "completed_text": "@global.completed_text",
+            "locked_text": "@global.locked_text",
+            "open": "(@fields.last_opened == @item.id)",
+            "course_id": "@item.id"
+          },
           "exclude_from_translation": true,
-          "rows": [
-            {
-              "name": "course",
-              "value": "@item.id",
-              "_translations": {
-                "value": {}
-              },
-              "exclude_from_translation": true,
-              "type": "set_variable",
-              "_nested_name": "core_courses.module_group_@item.id.course",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@item.id",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ],
-                "_nested_name": [
-                  {
-                    "fullExpression": "core_courses.module_group_@item.id.course",
-                    "matchedExpression": "@item.id.course",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@item.id": [
-                  "value"
-                ],
-                "@item.id.course": [
-                  "_nested_name"
-                ]
-              }
-            },
-            {
-              "name": "course_title",
-              "value": "@item.title",
-              "_translations": {
-                "value": {}
-              },
-              "type": "set_variable",
-              "_nested_name": "core_courses.module_group_@item.id.course_title",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@item.title",
-                    "matchedExpression": "@item.title",
-                    "type": "item",
-                    "fieldName": "title"
-                  }
-                ],
-                "_nested_name": [
-                  {
-                    "fullExpression": "core_courses.module_group_@item.id.course_title",
-                    "matchedExpression": "@item.id.course_title",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@item.title": [
-                  "value"
-                ],
-                "@item.id.course_title": [
-                  "_nested_name"
-                ]
-              }
-            },
-            {
-              "name": "course_image",
-              "value": "@item.image_asset",
-              "_translations": {
-                "value": {}
-              },
-              "type": "set_variable",
-              "_nested_name": "core_courses.module_group_@item.id.course_image",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@item.image_asset",
-                    "matchedExpression": "@item.image_asset",
-                    "type": "item",
-                    "fieldName": "image_asset"
-                  }
-                ],
-                "_nested_name": [
-                  {
-                    "fullExpression": "core_courses.module_group_@item.id.course_image",
-                    "matchedExpression": "@item.id.course_image",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@item.image_asset": [
-                  "value"
-                ],
-                "@item.id.course_image": [
-                  "_nested_name"
-                ]
-              }
-            }
-          ],
-          "name": "module_group_@item.id",
-          "_nested_name": "core_courses.module_group_@item.id",
+          "name": "plh_course_lesson_accordion_1_@item.id",
+          "_nested_name": "core_courses.plh_course_lesson_accordion_1_@item.id",
           "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@item.title",
+                "matchedExpression": "@item.title",
+                "type": "item",
+                "fieldName": "title"
+              }
+            ],
+            "parameter_list": {
+              "image_asset": [
+                {
+                  "fullExpression": "@item.image_asset",
+                  "matchedExpression": "@item.image_asset",
+                  "type": "item",
+                  "fieldName": "image_asset"
+                }
+              ],
+              "sub_items_name": [
+                {
+                  "fullExpression": "@global.sub_items_name",
+                  "matchedExpression": "@global.sub_items_name",
+                  "type": "global",
+                  "fieldName": "sub_items_name"
+                }
+              ],
+              "completed_text": [
+                {
+                  "fullExpression": "@global.completed_text",
+                  "matchedExpression": "@global.completed_text",
+                  "type": "global",
+                  "fieldName": "completed_text"
+                }
+              ],
+              "locked_text": [
+                {
+                  "fullExpression": "@global.locked_text",
+                  "matchedExpression": "@global.locked_text",
+                  "type": "global",
+                  "fieldName": "locked_text"
+                }
+              ],
+              "open": [
+                {
+                  "fullExpression": "(@fields.last_opened == @item.id)",
+                  "matchedExpression": "@fields.last_opened",
+                  "type": "fields",
+                  "fieldName": "last_opened"
+                },
+                {
+                  "fullExpression": "(@fields.last_opened == @item.id)",
+                  "matchedExpression": "@item.id",
+                  "type": "item",
+                  "fieldName": "id"
+                }
+              ],
+              "course_id": [
+                {
+                  "fullExpression": "@item.id",
+                  "matchedExpression": "@item.id",
+                  "type": "item",
+                  "fieldName": "id"
+                }
+              ]
+            },
             "name": [
               {
-                "fullExpression": "module_group_@item.id",
+                "fullExpression": "plh_course_lesson_accordion_1_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -565,7 +535,7 @@
             ],
             "_nested_name": [
               {
-                "fullExpression": "core_courses.module_group_@item.id",
+                "fullExpression": "core_courses.plh_course_lesson_accordion_1_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -573,7 +543,27 @@
             ]
           },
           "_dynamicDependencies": {
+            "@item.title": [
+              "value"
+            ],
+            "@item.image_asset": [
+              "parameter_list.image_asset"
+            ],
+            "@global.sub_items_name": [
+              "parameter_list.sub_items_name"
+            ],
+            "@global.completed_text": [
+              "parameter_list.completed_text"
+            ],
+            "@global.locked_text": [
+              "parameter_list.locked_text"
+            ],
+            "@fields.last_opened": [
+              "parameter_list.open"
+            ],
             "@item.id": [
+              "parameter_list.open",
+              "parameter_list.course_id",
               "name",
               "_nested_name"
             ]
@@ -1024,158 +1014,14 @@
       "exclude_from_translation": true,
       "rows": [
         {
-          "type": "template",
-          "value": "module_group",
           "exclude_from_translation": true,
-          "rows": [
-            {
-              "name": "course",
-              "value": "@item.id",
-              "_translations": {
-                "value": {}
-              },
-              "exclude_from_translation": true,
-              "type": "set_variable",
-              "_nested_name": "other_courses.module_group_@item.id.course",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@item.id",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ],
-                "_nested_name": [
-                  {
-                    "fullExpression": "other_courses.module_group_@item.id.course",
-                    "matchedExpression": "@item.id.course",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@item.id": [
-                  "value"
-                ],
-                "@item.id.course": [
-                  "_nested_name"
-                ]
-              }
-            },
-            {
-              "name": "course_title",
-              "value": "@item.title",
-              "_translations": {
-                "value": {}
-              },
-              "type": "set_variable",
-              "_nested_name": "other_courses.module_group_@item.id.course_title",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@item.title",
-                    "matchedExpression": "@item.title",
-                    "type": "item",
-                    "fieldName": "title"
-                  }
-                ],
-                "_nested_name": [
-                  {
-                    "fullExpression": "other_courses.module_group_@item.id.course_title",
-                    "matchedExpression": "@item.id.course_title",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@item.title": [
-                  "value"
-                ],
-                "@item.id.course_title": [
-                  "_nested_name"
-                ]
-              }
-            },
-            {
-              "name": "course_image",
-              "value": "@item.image_asset",
-              "_translations": {
-                "value": {}
-              },
-              "type": "set_variable",
-              "_nested_name": "other_courses.module_group_@item.id.course_image",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@item.image_asset",
-                    "matchedExpression": "@item.image_asset",
-                    "type": "item",
-                    "fieldName": "image_asset"
-                  }
-                ],
-                "_nested_name": [
-                  {
-                    "fullExpression": "other_courses.module_group_@item.id.course_image",
-                    "matchedExpression": "@item.id.course_image",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@item.image_asset": [
-                  "value"
-                ],
-                "@item.id.course_image": [
-                  "_nested_name"
-                ]
-              }
-            },
-            {
-              "name": "all_locked",
-              "value": "(@local.has_core_course > 0)",
-              "_translations": {
-                "value": {}
-              },
-              "type": "set_variable",
-              "_nested_name": "other_courses.module_group_@item.id.all_locked",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "(@local.has_core_course > 0)",
-                    "matchedExpression": "@local.has_core_course",
-                    "type": "local",
-                    "fieldName": "has_core_course"
-                  }
-                ],
-                "_nested_name": [
-                  {
-                    "fullExpression": "other_courses.module_group_@item.id.all_locked",
-                    "matchedExpression": "@item.id.all_locked",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@local.has_core_course": [
-                  "value"
-                ],
-                "@item.id.all_locked": [
-                  "_nested_name"
-                ]
-              }
-            }
-          ],
-          "name": "module_group_@item.id",
-          "_nested_name": "other_courses.module_group_@item.id",
+          "name": "undefined_1_@item.id",
+          "type": "set_variable",
+          "_nested_name": "other_courses.undefined_1_@item.id",
           "_dynamicFields": {
             "name": [
               {
-                "fullExpression": "module_group_@item.id",
+                "fullExpression": "undefined_1_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -1183,7 +1029,7 @@
             ],
             "_nested_name": [
               {
-                "fullExpression": "other_courses.module_group_@item.id",
+                "fullExpression": "other_courses.undefined_1_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -1192,6 +1038,145 @@
           },
           "_dynamicDependencies": {
             "@item.id": [
+              "name",
+              "_nested_name"
+            ]
+          }
+        },
+        {
+          "type": "plh_course_lesson_accordion",
+          "value": "@item.title",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "locked": "(@local.has_core_course > 0)",
+            "image_asset": "@item.image_asset",
+            "image_alignment": "centre",
+            "sub_items_name": "@global.sub_items_name",
+            "completed": "false",
+            "completed_text": "@global.completed_text",
+            "locked_text": "@global.locked_text",
+            "open": "(@fields.last_opened == @item.id)",
+            "course_id": "@item.id"
+          },
+          "name": "plh_course_lesson_accordion_2_@item.id",
+          "_nested_name": "other_courses.plh_course_lesson_accordion_2_@item.id",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@item.title",
+                "matchedExpression": "@item.title",
+                "type": "item",
+                "fieldName": "title"
+              }
+            ],
+            "parameter_list": {
+              "locked": [
+                {
+                  "fullExpression": "(@local.has_core_course > 0)",
+                  "matchedExpression": "@local.has_core_course",
+                  "type": "local",
+                  "fieldName": "has_core_course"
+                }
+              ],
+              "image_asset": [
+                {
+                  "fullExpression": "@item.image_asset",
+                  "matchedExpression": "@item.image_asset",
+                  "type": "item",
+                  "fieldName": "image_asset"
+                }
+              ],
+              "sub_items_name": [
+                {
+                  "fullExpression": "@global.sub_items_name",
+                  "matchedExpression": "@global.sub_items_name",
+                  "type": "global",
+                  "fieldName": "sub_items_name"
+                }
+              ],
+              "completed_text": [
+                {
+                  "fullExpression": "@global.completed_text",
+                  "matchedExpression": "@global.completed_text",
+                  "type": "global",
+                  "fieldName": "completed_text"
+                }
+              ],
+              "locked_text": [
+                {
+                  "fullExpression": "@global.locked_text",
+                  "matchedExpression": "@global.locked_text",
+                  "type": "global",
+                  "fieldName": "locked_text"
+                }
+              ],
+              "open": [
+                {
+                  "fullExpression": "(@fields.last_opened == @item.id)",
+                  "matchedExpression": "@fields.last_opened",
+                  "type": "fields",
+                  "fieldName": "last_opened"
+                },
+                {
+                  "fullExpression": "(@fields.last_opened == @item.id)",
+                  "matchedExpression": "@item.id",
+                  "type": "item",
+                  "fieldName": "id"
+                }
+              ],
+              "course_id": [
+                {
+                  "fullExpression": "@item.id",
+                  "matchedExpression": "@item.id",
+                  "type": "item",
+                  "fieldName": "id"
+                }
+              ]
+            },
+            "name": [
+              {
+                "fullExpression": "plh_course_lesson_accordion_2_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "other_courses.plh_course_lesson_accordion_2_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.title": [
+              "value"
+            ],
+            "@local.has_core_course": [
+              "parameter_list.locked"
+            ],
+            "@item.image_asset": [
+              "parameter_list.image_asset"
+            ],
+            "@global.sub_items_name": [
+              "parameter_list.sub_items_name"
+            ],
+            "@global.completed_text": [
+              "parameter_list.completed_text"
+            ],
+            "@global.locked_text": [
+              "parameter_list.locked_text"
+            ],
+            "@fields.last_opened": [
+              "parameter_list.open"
+            ],
+            "@item.id": [
+              "parameter_list.open",
+              "parameter_list.course_id",
               "name",
               "_nested_name"
             ]
@@ -1456,144 +1441,92 @@
           }
         },
         {
-          "type": "template",
-          "value": "module_group",
-          "exclude_from_translation": true,
-          "rows": [
-            {
-              "name": "course",
-              "value": "@item.id",
-              "_translations": {
-                "value": {}
-              },
-              "exclude_from_translation": true,
-              "type": "set_variable",
-              "_nested_name": "completed_courses.module_group_@item.id.course",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@item.id",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ],
-                "_nested_name": [
-                  {
-                    "fullExpression": "completed_courses.module_group_@item.id.course",
-                    "matchedExpression": "@item.id.course",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@item.id": [
-                  "value"
-                ],
-                "@item.id.course": [
-                  "_nested_name"
-                ]
-              }
-            },
-            {
-              "name": "course_title",
-              "value": "@item.title",
-              "_translations": {
-                "value": {}
-              },
-              "type": "set_variable",
-              "_nested_name": "completed_courses.module_group_@item.id.course_title",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@item.title",
-                    "matchedExpression": "@item.title",
-                    "type": "item",
-                    "fieldName": "title"
-                  }
-                ],
-                "_nested_name": [
-                  {
-                    "fullExpression": "completed_courses.module_group_@item.id.course_title",
-                    "matchedExpression": "@item.id.course_title",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@item.title": [
-                  "value"
-                ],
-                "@item.id.course_title": [
-                  "_nested_name"
-                ]
-              }
-            },
-            {
-              "name": "course_image",
-              "value": "@item.image_asset",
-              "_translations": {
-                "value": {}
-              },
-              "type": "set_variable",
-              "_nested_name": "completed_courses.module_group_@item.id.course_image",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@item.image_asset",
-                    "matchedExpression": "@item.image_asset",
-                    "type": "item",
-                    "fieldName": "image_asset"
-                  }
-                ],
-                "_nested_name": [
-                  {
-                    "fullExpression": "completed_courses.module_group_@item.id.course_image",
-                    "matchedExpression": "@item.id.course_image",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@item.image_asset": [
-                  "value"
-                ],
-                "@item.id.course_image": [
-                  "_nested_name"
-                ]
-              }
-            },
-            {
-              "name": "completed_course",
-              "value": true,
-              "type": "set_variable",
-              "_nested_name": "completed_courses.module_group_@item.id.completed_course",
-              "_dynamicFields": {
-                "_nested_name": [
-                  {
-                    "fullExpression": "completed_courses.module_group_@item.id.completed_course",
-                    "matchedExpression": "@item.id.completed_course",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@item.id.completed_course": [
-                  "_nested_name"
-                ]
-              }
-            }
-          ],
-          "name": "module_group_@item.id",
-          "_nested_name": "completed_courses.module_group_@item.id",
+          "type": "plh_course_lesson_accordion",
+          "value": "@item.title",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "locked": "false",
+            "image_asset": "@item.image_asset",
+            "image_alignment": "centre",
+            "sub_items_name": "@global.sub_items_name",
+            "completed": "true",
+            "completed_text": "@global.completed_text",
+            "locked_text": "@global.locked_text",
+            "open": "(@fields.last_opened == @item.id)",
+            "course_id": "@item.id"
+          },
+          "name": "plh_course_lesson_accordion_2_@item.id",
+          "_nested_name": "completed_courses.plh_course_lesson_accordion_2_@item.id",
           "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@item.title",
+                "matchedExpression": "@item.title",
+                "type": "item",
+                "fieldName": "title"
+              }
+            ],
+            "parameter_list": {
+              "image_asset": [
+                {
+                  "fullExpression": "@item.image_asset",
+                  "matchedExpression": "@item.image_asset",
+                  "type": "item",
+                  "fieldName": "image_asset"
+                }
+              ],
+              "sub_items_name": [
+                {
+                  "fullExpression": "@global.sub_items_name",
+                  "matchedExpression": "@global.sub_items_name",
+                  "type": "global",
+                  "fieldName": "sub_items_name"
+                }
+              ],
+              "completed_text": [
+                {
+                  "fullExpression": "@global.completed_text",
+                  "matchedExpression": "@global.completed_text",
+                  "type": "global",
+                  "fieldName": "completed_text"
+                }
+              ],
+              "locked_text": [
+                {
+                  "fullExpression": "@global.locked_text",
+                  "matchedExpression": "@global.locked_text",
+                  "type": "global",
+                  "fieldName": "locked_text"
+                }
+              ],
+              "open": [
+                {
+                  "fullExpression": "(@fields.last_opened == @item.id)",
+                  "matchedExpression": "@fields.last_opened",
+                  "type": "fields",
+                  "fieldName": "last_opened"
+                },
+                {
+                  "fullExpression": "(@fields.last_opened == @item.id)",
+                  "matchedExpression": "@item.id",
+                  "type": "item",
+                  "fieldName": "id"
+                }
+              ],
+              "course_id": [
+                {
+                  "fullExpression": "@item.id",
+                  "matchedExpression": "@item.id",
+                  "type": "item",
+                  "fieldName": "id"
+                }
+              ]
+            },
             "name": [
               {
-                "fullExpression": "module_group_@item.id",
+                "fullExpression": "plh_course_lesson_accordion_2_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -1601,7 +1534,7 @@
             ],
             "_nested_name": [
               {
-                "fullExpression": "completed_courses.module_group_@item.id",
+                "fullExpression": "completed_courses.plh_course_lesson_accordion_2_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -1609,7 +1542,27 @@
             ]
           },
           "_dynamicDependencies": {
+            "@item.title": [
+              "value"
+            ],
+            "@item.image_asset": [
+              "parameter_list.image_asset"
+            ],
+            "@global.sub_items_name": [
+              "parameter_list.sub_items_name"
+            ],
+            "@global.completed_text": [
+              "parameter_list.completed_text"
+            ],
+            "@global.locked_text": [
+              "parameter_list.locked_text"
+            ],
+            "@fields.last_opened": [
+              "parameter_list.open"
+            ],
             "@item.id": [
+              "parameter_list.open",
+              "parameter_list.course_id",
               "name",
               "_nested_name"
             ]
@@ -1648,8 +1601,8 @@
     }
   ],
   "_source": {
-    "name": "kids_teens_global V2",
-    "path": "templates/module_list.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1SkxfFFUzSjkUaxGKvYxiec-mx0szbeR6TaqBwfbBJyQ"
+    "name": "kids_teens_pa",
+    "path": "templates/PA module_list.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1wwqfdC3CjF2ZPXEAy2a2i95IC7-q-W4TCEGn-7BYhT8"
   }
 }
