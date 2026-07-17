@@ -94,7 +94,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 74465 KB | 74.5 MB |
+| total | 84864 KB | 84.9 MB |
 | unused | 3763 KB | 3.8 MB |
 </details>
 
@@ -194,8 +194,6 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| images/character_icons/ANGELA_facilitator.svg | 3 |
-| images/character_icons/ANGEL_facilitator.svg | 3 |
 | images/logos/app_logo.png | 1 |
 | images/logos/plh_logomark.png | 1 |
 </details>
@@ -283,6 +281,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/backgrounds/mountains_trees.svg | 23.2 | 1 |
 | images/character_icons/AMIGA_MUJER_1.svg | 978.5 | 1 |
 | images/character_icons/AMIGA_MUJER_2.svg | 1412.5 | 1 |
+| images/character_icons/ANGELA_facilitator.svg | 9477.2 | 3 |
+| images/character_icons/ANGEL_facilitator.svg | 921.4 | 3 |
 | images/character_icons/F1_HIJA_13.svg | 1907.1 | 1 |
 | images/character_icons/F1_HIJA_16.svg | 1876.8 | 1 |
 | images/character_icons/F1_HIJA_6.svg | 1876.9 | 1 |

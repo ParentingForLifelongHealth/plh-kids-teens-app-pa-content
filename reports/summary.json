@@ -319,8 +319,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "74465 KB",
-        "MB": "74.5 MB"
+        "KB": "84864 KB",
+        "MB": "84.9 MB"
       },
       {
         "assets": "unused",
@@ -655,16 +655,6 @@
   },
   "assets_missing": {
     "data": [
-      {
-        "path": "images/character_icons/ANGELA_facilitator.svg",
-        "count": 3,
-        "missing": true
-      },
-      {
-        "path": "images/character_icons/ANGEL_facilitator.svg",
-        "count": 3,
-        "missing": true
-      },
       {
         "path": "images/logos/app_logo.png",
         "count": 1,
@@ -1058,6 +1048,16 @@
         "path": "images/character_icons/AMIGA_MUJER_2.svg",
         "count": 1,
         "size_kb": 1412.5
+      },
+      {
+        "path": "images/character_icons/ANGELA_facilitator.svg",
+        "count": 3,
+        "size_kb": 9477.2
+      },
+      {
+        "path": "images/character_icons/ANGEL_facilitator.svg",
+        "count": 3,
+        "size_kb": 921.4
       },
       {
         "path": "images/character_icons/F1_HIJA_13.svg",
