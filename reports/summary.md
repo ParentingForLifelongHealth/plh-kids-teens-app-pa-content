@@ -9,12 +9,12 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 116 |
+| button | 118 |
 | combo_box | 27 |
-| data_items | 240 |
+| data_items | 241 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 115 |
+| display_group | 117 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 23 |
@@ -33,10 +33,11 @@
 | plh_progress_bar | 5 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
-| round_button | 20 |
+| radio_list | 2 |
+| round_button | 22 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 4365 |
+| set_variable | 4377 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
@@ -44,7 +45,7 @@
 | text | 296 |
 | text_area | 3 |
 | text_box | 21 |
-| text_bubble | 17 |
+| text_bubble | 19 |
 | title | 63 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
@@ -61,24 +62,25 @@
 | app_update | 1 |
 | asset_pack | 2 |
 | auth | 3 |
-| emit: completed | 975 |
+| emit: completed | 977 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 989 |
+| emit: uncompleted | 991 |
 | feedback | 13 |
 | go_to | 26 |
 | nav | 1 |
 | nav_stack | 493 |
+| null | 1 |
 | plh_certificate | 12 |
 | pop_up | 96 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 1 |
 | set_data | 127 |
-| set_field | 160 |
+| set_field | 162 |
 | set_item | 30 |
 | set_local | 134 |
 | share | 3 |
@@ -92,8 +94,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 76285 KB | 76.3 MB |
-| unused | 1943 KB | 1.9 MB |
+| total | 74465 KB | 74.5 MB |
+| unused | 3763 KB | 3.8 MB |
 </details>
 
 <details open>
@@ -109,6 +111,8 @@ Assets that appear in app-data but do not have references within sheets
 | android/splash.png | 239 |
 | images/activities/personajes_t.svg | 204 |
 | images/backgrounds/homescreen_pattern.svg | 156.3 |
+| images/character_icons/ANGELA_comic.svg | 909.5 |
+| images/character_icons/ANGEL_comic.svg | 910.1 |
 | images/flags/gb.svg | 0.5 |
 | images/icons/123.png | 45.5 |
 | images/icons/123.svg | 18.9 |
@@ -190,6 +194,8 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
+| images/character_icons/ANGELA_facilitator.svg | 3 |
+| images/character_icons/ANGEL_facilitator.svg | 3 |
 | images/logos/app_logo.png | 1 |
 | images/logos/plh_logomark.png | 1 |
 </details>
@@ -277,8 +283,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/backgrounds/mountains_trees.svg | 23.2 | 1 |
 | images/character_icons/AMIGA_MUJER_1.svg | 978.5 | 1 |
 | images/character_icons/AMIGA_MUJER_2.svg | 1412.5 | 1 |
-| images/character_icons/ANGELA_comic.svg | 909.5 | 3 |
-| images/character_icons/ANGEL_comic.svg | 910.1 | 3 |
 | images/character_icons/F1_HIJA_13.svg | 1907.1 | 1 |
 | images/character_icons/F1_HIJA_16.svg | 1876.8 | 1 |
 | images/character_icons/F1_HIJA_6.svg | 1876.9 | 1 |
@@ -785,7 +789,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 87 |
 | global |  | 12 |
 | global | onboarding | 15 |
+| global | proximal_outcomes | 1 |
 | template |  | 181 |
 | template | generated | 1093 |
 | template | legal_terms | 4 |
+| template | proximal_outcomes | 2 |
 </details>

@@ -2330,6 +2330,16 @@
   },
   {
     "flow_type": "global",
+    "flow_subtype": "proximal_outcomes",
+    "flow_name": "proximal_outcomes_global",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/PLH proximal outcomes.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
+    }
+  },
+  {
+    "flow_type": "global",
     "flow_name": "user_data_global",
     "_source": {
       "name": "kids_teens_global V2",
@@ -3977,6 +3987,26 @@
       "name": "kids_teens_global V2",
       "path": "templates/PLH activity library.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/15l61UKBeIn5h0uP6cw9nMuWJiB3vK7JZwswsEVmCaUE"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_subtype": "proximal_outcomes",
+    "flow_name": "set_challenge",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/PLH proximal outcomes.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_subtype": "proximal_outcomes",
+    "flow_name": "set_domain",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/PLH proximal outcomes.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
     }
   },
   {
