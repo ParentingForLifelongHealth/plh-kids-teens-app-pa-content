@@ -13,8 +13,8 @@
       "activation_condition_list": "@fields.n_modules_completed == 0 && @fields.last_module_in_progress == \"NA\"",
       "deactivation_condition_list": "@fields.install_nudge_sent",
       "campaign_list": "nf_inactive_day",
-      "title::eng": "Tu camino en la crianza comienza aquí",
-      "text::eng": "¡Te damos la bienvenida a @global.app_name! Nos da mucho gusto tenerte aquí. Una estrategia sencilla puede hacer la vida familiar más tranquila y positiva. Toca aquí para comenzar tu primera sesión."
+      "title::eng": "¡Comienza hoy tu camino en la crianza!",
+      "text::eng": "¡Qué gusto tenerte en @global.app_name! Toca para iniciar tu primera sesión."
     },
     {
       "id": "install_nudge_b",
@@ -25,8 +25,8 @@
       "activation_condition_list": "@fields.n_modules_completed == 0 && @fields.last_module_in_progress == \"NA\"",
       "deactivation_condition_list": "@fields.install_nudge_sent",
       "campaign_list": "nf_inactive_day",
-      "title::eng": "Una mejor vida familiar comienza contigo",
-      "text::eng": "Te damos la bienvenida a @global.app_name. Dedicar 10 minutos hoy para aprender puede hacer una gran diferencia. Toca aquí para descubrir más."
+      "title::eng": "Construye una mejor vida familiar",
+      "text::eng": "10 minutos hoy pueden hacer la diferencia. Toca aquí para descubrir más."
     },
     {
       "id": "positive_reinforcement",
@@ -48,7 +48,7 @@
       "priority": 1,
       "activation_condition_list": "@fields.last_module_in_progress != \"NA\"",
       "campaign_list": "nf_inactive_2_days_afternoon; \nnf_inactive_week;",
-      "title::eng": "Sigue adelante: comenzaste algo muy valioso",
+      "title::eng": "Continúa: comenzaste algo muy valioso",
       "text::eng": "@fields.user_name, comenzaste algo muy valioso. Toca aquí para continuar."
     },
     {
@@ -60,7 +60,7 @@
       "activation_condition_list": "@fields.last_module_in_progress != \"NA\"",
       "campaign_list": "nf_inactive_2_days_afternoon; \nnf_inactive_week;",
       "title::eng": "Continúa donde te quedaste",
-      "text::eng": "@fields.user_name, tu sesión está esperándote. Solo faltan unos minutos más para terminarla. Toca aquí para continuar."
+      "text::eng": "@fields.user_name, estás muy cerca de terminar. Toca para seguir."
     },
     {
       "id": "win_back_a",
