@@ -13,7 +13,7 @@
       "activation_condition_list": "@fields.n_modules_completed == 0 && @fields.last_module_in_progress == \"NA\"",
       "deactivation_condition_list": "@fields.install_nudge_sent",
       "campaign_list": "nf_inactive_day",
-      "title::eng": "¡Comienza hoy tu camino en la crianza!",
+      "title::eng": "¡Vamos a empezar!",
       "text::eng": "¡Qué gusto tenerte en @global.app_name! Toca para iniciar tu primera sesión."
     },
     {
@@ -25,7 +25,7 @@
       "activation_condition_list": "@fields.n_modules_completed == 0 && @fields.last_module_in_progress == \"NA\"",
       "deactivation_condition_list": "@fields.install_nudge_sent",
       "campaign_list": "nf_inactive_day",
-      "title::eng": "Construye una mejor vida familiar",
+      "title::eng": "Mejora tu vida familiar",
       "text::eng": "10 minutos hoy pueden hacer la diferencia. Toca aquí para descubrir más."
     },
     {
@@ -48,7 +48,7 @@
       "priority": 1,
       "activation_condition_list": "@fields.last_module_in_progress != \"NA\"",
       "campaign_list": "nf_inactive_2_days_afternoon; \nnf_inactive_week;",
-      "title::eng": "Continúa: comenzaste algo muy valioso",
+      "title::eng": "Sigue con algo valioso",
       "text::eng": "@fields.user_name, comenzaste algo muy valioso. Toca aquí para continuar."
     },
     {
@@ -59,7 +59,7 @@
       "priority": 1,
       "activation_condition_list": "@fields.last_module_in_progress != \"NA\"",
       "campaign_list": "nf_inactive_2_days_afternoon; \nnf_inactive_week;",
-      "title::eng": "Continúa donde te quedaste",
+      "title::eng": "Sigue donde te quedaste",
       "text::eng": "@fields.user_name, estás muy cerca de terminar. Toca para seguir."
     },
     {
@@ -69,7 +69,7 @@
       "priority": 1,
       "activation_condition_list": "@fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
       "campaign_list": "nf_inactive_2_days_evening; \nnf_inactive_week;",
-      "title::eng": "¡Tu próxima estrategia te espera!",
+      "title::eng": "¡Sigue aprendiendo!",
       "text::eng": "Descubre una nueva forma de apoyar a tu familia hoy."
     },
     {
@@ -79,7 +79,7 @@
       "priority": 1,
       "activation_condition_list": "@fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
       "campaign_list": "nf_inactive_2_days_evening; \nnf_inactive_week;",
-      "title::eng": "¡Lo estás haciendo muy bien!",
+      "title::eng": "¡Lo estás haciendo bien!",
       "text::eng": "Cada pequeño paso fortalece a tu familia. Toca para continuar."
     }
   ]

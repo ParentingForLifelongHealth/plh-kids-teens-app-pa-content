@@ -319,8 +319,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "84864 KB",
-        "MB": "84.9 MB"
+        "KB": "87119 KB",
+        "MB": "87.1 MB"
       },
       {
         "assets": "unused",
@@ -1051,13 +1051,23 @@
       },
       {
         "path": "images/character_icons/ANGELA_facilitator.svg",
-        "count": 3,
+        "count": 2,
         "size_kb": 9477.2
       },
       {
+        "path": "images/character_icons/ANGELA_facilitator_intro.jpg",
+        "count": 1,
+        "size_kb": 939
+      },
+      {
         "path": "images/character_icons/ANGEL_facilitator.svg",
-        "count": 3,
+        "count": 2,
         "size_kb": 921.4
+      },
+      {
+        "path": "images/character_icons/ANGEL_facilitator_intro.jpg",
+        "count": 1,
+        "size_kb": 1316.2
       },
       {
         "path": "images/character_icons/F1_HIJA_13.svg",
