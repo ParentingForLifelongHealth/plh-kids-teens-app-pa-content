@@ -94,7 +94,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 84864 KB | 84.9 MB |
+| total | 87119 KB | 87.1 MB |
 | unused | 3763 KB | 3.8 MB |
 </details>
 
@@ -281,8 +281,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/backgrounds/mountains_trees.svg | 23.2 | 1 |
 | images/character_icons/AMIGA_MUJER_1.svg | 978.5 | 1 |
 | images/character_icons/AMIGA_MUJER_2.svg | 1412.5 | 1 |
-| images/character_icons/ANGELA_facilitator.svg | 9477.2 | 3 |
-| images/character_icons/ANGEL_facilitator.svg | 921.4 | 3 |
+| images/character_icons/ANGELA_facilitator.svg | 9477.2 | 2 |
+| images/character_icons/ANGELA_facilitator_intro.jpg | 939 | 1 |
+| images/character_icons/ANGEL_facilitator.svg | 921.4 | 2 |
+| images/character_icons/ANGEL_facilitator_intro.jpg | 1316.2 | 1 |
 | images/character_icons/F1_HIJA_13.svg | 1907.1 | 1 |
 | images/character_icons/F1_HIJA_16.svg | 1876.8 | 1 |
 | images/character_icons/F1_HIJA_6.svg | 1876.9 | 1 |
