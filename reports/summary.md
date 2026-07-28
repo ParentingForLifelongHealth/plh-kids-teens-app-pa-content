@@ -11,7 +11,7 @@
 | audio | 3 |
 | button | 118 |
 | combo_box | 27 |
-| data_items | 241 |
+| data_items | 242 |
 | debug_toggle | 1 |
 | display_grid | 4 |
 | display_group | 117 |
@@ -32,12 +32,12 @@
 | plh_module_list_item | 2 |
 | plh_progress_bar | 5 |
 | qr_code | 1 |
-| radio_button_grid | 9 |
-| radio_list | 2 |
+| radio_button_grid | 10 |
+| radio_list | 1 |
 | round_button | 22 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 4377 |
+| set_variable | 4381 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
@@ -73,7 +73,6 @@
 | go_to | 26 |
 | nav | 1 |
 | nav_stack | 493 |
-| null | 1 |
 | plh_certificate | 12 |
 | pop_up | 96 |
 | reset_app | 4 |

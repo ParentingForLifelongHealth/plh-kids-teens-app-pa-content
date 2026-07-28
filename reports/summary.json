@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 241
+        "count": 242
       },
       {
         "type": "debug_toggle",
@@ -119,11 +119,11 @@
       },
       {
         "type": "radio_button_grid",
-        "count": 9
+        "count": 10
       },
       {
         "type": "radio_list",
-        "count": 2
+        "count": 1
       },
       {
         "type": "round_button",
@@ -139,7 +139,7 @@
       },
       {
         "type": "set_variable",
-        "count": 4377
+        "count": 4381
       },
       {
         "type": "simple_checkbox",
@@ -256,10 +256,6 @@
       {
         "type": "nav_stack",
         "count": 493
-      },
-      {
-        "type": "null",
-        "count": 1
       },
       {
         "type": "plh_certificate",
