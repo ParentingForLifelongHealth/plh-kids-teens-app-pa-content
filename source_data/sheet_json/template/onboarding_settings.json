@@ -13,7 +13,8 @@
     },
     {
       "name": "last_page_index",
-      "value": "@calc(Object.keys(@data.onboarding_settings_pages).length - 1)"
+      "value": "@calc(Object.keys(@data.onboarding_settings_pages).length - 1)",
+      "exclude_from_translation": true
     },
     {
       "type": "begin_data_items",

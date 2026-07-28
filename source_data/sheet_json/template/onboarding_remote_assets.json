@@ -84,7 +84,8 @@
       "name": "bar_4",
       "value": "@calc((@local.completed_count / @local.total_count) * 100)",
       "parameter_list": "color: @data.onboarding_progress_bars.id_4.colour;",
-      "condition": "@local.total_count !== 0"
+      "condition": "@local.total_count !== 0",
+      "exclude_from_translation": true
     },
     {
       "type": "data_items",

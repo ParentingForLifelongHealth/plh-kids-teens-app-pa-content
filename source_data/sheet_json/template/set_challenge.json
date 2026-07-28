@@ -30,27 +30,31 @@
       "exclude_from_translation": true
     },
     {
+      "name": "speaker_name",
+      "value": "@local.facilitator_row.name"
+    },
+    {
+      "name": "speaker_image_asset",
+      "value": "@local.facilitator_row.image_asset"
+    },
+    {
       "type": "text_bubble",
       "name": "text_bubble",
       "value": "@global.set_challenge_question",
-      "parameter_list": "speaker_position: @local.speaker_position;\nvariant: @local.variant;",
+      "parameter_list": "speaker_image_asset: @local.speaker_image_asset;\nspeaker_name: @local.speaker_name;\nspeaker_position: @local.speaker_position;\nvariant: @local.variant;",
       "exclude_from_translation": true
     },
     {
       "type": "begin_radio_list",
       "name": "challenge_select",
       "value": "@fields.selected_challenge",
-      "parameter_list": "options_key: id;\noptions_value: title;\nvariant: boxed;",
+      "parameter_list": "options_key: id;\noptions_value: title;\nvariant: card;\nvalue_as_object: true;",
       "exclude_from_translation": true
     },
     {
-      "type": "begin_data_items",
+      "type": "data_items",
       "value": "challenges",
-      "parameter_list": "filter: @item.domain_list.includes(@fields.selected_domain)",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "end_data_items",
+      "parameter_list": "filter: @item.domain_list.includes(@fields.selected_domain) && @item.child_age_list.includes(@fields.child_age)",
       "exclude_from_translation": true
     },
     {
@@ -59,7 +63,7 @@
     },
     {
       "name": "completed_enabled",
-      "value": "!!@local.domain_select",
+      "value": "!!@local.challenge_select",
       "exclude_from_translation": true
     },
     {

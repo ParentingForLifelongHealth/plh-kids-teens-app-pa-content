@@ -100,6 +100,54 @@
       }
     },
     {
+      "name": "speaker_name",
+      "value": "@local.facilitator_row.name",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "speaker_name",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.facilitator_row.name",
+            "matchedExpression": "@local.facilitator_row.name",
+            "type": "local",
+            "fieldName": "facilitator_row"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.facilitator_row.name": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "speaker_image_asset",
+      "value": "@local.facilitator_row.image_asset",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "speaker_image_asset",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.facilitator_row.image_asset",
+            "matchedExpression": "@local.facilitator_row.image_asset",
+            "type": "local",
+            "fieldName": "facilitator_row"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.facilitator_row.image_asset": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "text_bubble",
       "name": "text_bubble",
       "value": "@global.set_domain_question",
@@ -107,6 +155,8 @@
         "value": {}
       },
       "parameter_list": {
+        "speaker_image_asset": "@local.speaker_image_asset",
+        "speaker_name": "@local.speaker_name",
         "speaker_position": "@local.speaker_position",
         "variant": "@local.variant"
       },
@@ -122,6 +172,22 @@
           }
         ],
         "parameter_list": {
+          "speaker_image_asset": [
+            {
+              "fullExpression": "@local.speaker_image_asset",
+              "matchedExpression": "@local.speaker_image_asset",
+              "type": "local",
+              "fieldName": "speaker_image_asset"
+            }
+          ],
+          "speaker_name": [
+            {
+              "fullExpression": "@local.speaker_name",
+              "matchedExpression": "@local.speaker_name",
+              "type": "local",
+              "fieldName": "speaker_name"
+            }
+          ],
           "speaker_position": [
             {
               "fullExpression": "@local.speaker_position",
@@ -144,6 +210,12 @@
         "@global.set_domain_question": [
           "value"
         ],
+        "@local.speaker_image_asset": [
+          "parameter_list.speaker_image_asset"
+        ],
+        "@local.speaker_name": [
+          "parameter_list.speaker_name"
+        ],
         "@local.speaker_position": [
           "parameter_list.speaker_position"
         ],
@@ -153,27 +225,57 @@
       }
     },
     {
-      "type": "radio_list",
+      "type": "radio_button_grid",
       "name": "domain_select",
       "value": "@fields.selected_domain",
-      "_translations": {
-        "value": {}
-      },
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": null,
-          "args": [],
-          "_raw": "click |"
-        }
-      ],
       "parameter_list": {
-        "answer_list": "@data.domains",
         "options_key": "id",
         "options_value": "title",
-        "variant": "boxed"
+        "variant": "card",
+        "style": "secondary",
+        "item_width": "140px",
+        "grid_gap": "12px"
       },
-      "exclude_from_translation": true,
+      "rows": [
+        {
+          "type": "data_items",
+          "value": "domains",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "filter": "@item.child_age_list.includes(@fields.child_age)"
+          },
+          "name": "data_items_1",
+          "_nested_name": "domain_select.data_items_1",
+          "_dynamicFields": {
+            "parameter_list": {
+              "filter": [
+                {
+                  "fullExpression": "@item.child_age_list.includes(@fields.child_age)",
+                  "matchedExpression": "@item.child_age_list.includes",
+                  "type": "item",
+                  "fieldName": "child_age_list"
+                },
+                {
+                  "fullExpression": "@item.child_age_list.includes(@fields.child_age)",
+                  "matchedExpression": "@fields.child_age",
+                  "type": "fields",
+                  "fieldName": "child_age"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@item.child_age_list.includes": [
+              "parameter_list.filter"
+            ],
+            "@fields.child_age": [
+              "parameter_list.filter"
+            ]
+          }
+        }
+      ],
       "_nested_name": "domain_select",
       "_dynamicFields": {
         "value": [
@@ -183,24 +285,11 @@
             "type": "fields",
             "fieldName": "selected_domain"
           }
-        ],
-        "parameter_list": {
-          "answer_list": [
-            {
-              "fullExpression": "@data.domains",
-              "matchedExpression": "@data.domains",
-              "type": "data",
-              "fieldName": "domains"
-            }
-          ]
-        }
+        ]
       },
       "_dynamicDependencies": {
         "@fields.selected_domain": [
           "value"
-        ],
-        "@data.domains": [
-          "parameter_list.answer_list"
         ]
       }
     },
