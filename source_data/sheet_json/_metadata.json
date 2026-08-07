@@ -123,7 +123,7 @@
     "flow_name": "certificate_data",
     "_source": {
       "name": "kids_teens_global V2",
-      "path": "templates/certificates.xlsx",
+      "path": "templates/PLH certificates.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1KKfrEtHpXm0sMNY21dYKMmZBOny_Vnum-zr1zgdPcmM"
     }
   },
@@ -232,6 +232,15 @@
       "name": "kids_teens_pa",
       "path": "data/PA modules - safety (16 - 30).xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1M8u_5MgV3LHies5Zuvj_LtaYt9KqTRb4YJuwfyxMcs8"
+    }
+  },
+  {
+    "flow_type": "data_list",
+    "flow_name": "default_vars",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "data/deployment_data.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1z0R12cS8umMm9ldaZSOhfDxT0ytTn-Usl7Mc8RjCxec"
     }
   },
   {
@@ -2500,7 +2509,7 @@
     "flow_name": "certificate_list_item",
     "_source": {
       "name": "kids_teens_global V2",
-      "path": "templates/certificates.xlsx",
+      "path": "templates/PLH certificates.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1KKfrEtHpXm0sMNY21dYKMmZBOny_Vnum-zr1zgdPcmM"
     }
   },
@@ -2554,7 +2563,7 @@
     "flow_name": "debug_complete_course",
     "_source": {
       "name": "kids_teens_global V2",
-      "path": "templates/certificates.xlsx",
+      "path": "templates/PLH certificates.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1KKfrEtHpXm0sMNY21dYKMmZBOny_Vnum-zr1zgdPcmM"
     }
   },
@@ -2563,7 +2572,7 @@
     "flow_name": "debug_complete_modules",
     "_source": {
       "name": "kids_teens_global V2",
-      "path": "templates/certificates.xlsx",
+      "path": "templates/PLH certificates.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1KKfrEtHpXm0sMNY21dYKMmZBOny_Vnum-zr1zgdPcmM"
     }
   },
@@ -2833,7 +2842,7 @@
     "flow_name": "library_section_certificate",
     "_source": {
       "name": "kids_teens_global V2",
-      "path": "templates/certificates.xlsx",
+      "path": "templates/PLH certificates.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1KKfrEtHpXm0sMNY21dYKMmZBOny_Vnum-zr1zgdPcmM"
     }
   },
@@ -3679,7 +3688,7 @@
     "flow_name": "no_more_reprints",
     "_source": {
       "name": "kids_teens_global V2",
-      "path": "templates/certificates.xlsx",
+      "path": "templates/PLH certificates.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1KKfrEtHpXm0sMNY21dYKMmZBOny_Vnum-zr1zgdPcmM"
     }
   },
@@ -3856,6 +3865,36 @@
   },
   {
     "flow_type": "template",
+    "flow_subtype": "proximal_outcomes",
+    "flow_name": "onboarding_settings_set_chall",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/PLH proximal outcomes.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_subtype": "proximal_outcomes",
+    "flow_name": "onboarding_settings_set_domain",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/PLH proximal outcomes.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_subtype": "proximal_outcomes",
+    "flow_name": "onboarding_settings_set_goal",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/PLH proximal outcomes.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
+    }
+  },
+  {
+    "flow_type": "template",
     "flow_name": "onboarding_splash_auto",
     "_source": {
       "name": "library PLH onboarding",
@@ -3897,6 +3936,46 @@
       "name": "kids_teens_global V2",
       "path": "templates/articles.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1DugrEldDOorcWLHgU5QDSlBH1hbEYdOfsjVb7ehQFCo"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_subtype": "proximal_outcomes",
+    "flow_name": "proximal_outcome_base_question",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/PLH proximal outcomes.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_subtype": "proximal_outcomes",
+    "flow_name": "proximal_outcome_qs_base_1",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/PLH proximal outcomes.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_subtype": "proximal_outcomes",
+    "flow_name": "proximal_outcome_qs_base_2",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/PLH proximal outcomes.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_subtype": "proximal_outcomes",
+    "flow_name": "proximal_outcome_qs_goal",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/PLH proximal outcomes.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
     }
   },
   {
@@ -3991,26 +4070,6 @@
   },
   {
     "flow_type": "template",
-    "flow_subtype": "proximal_outcomes",
-    "flow_name": "set_challenge",
-    "_source": {
-      "name": "kids_teens_global V2",
-      "path": "templates/PLH proximal outcomes.xlsx",
-      "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
-    }
-  },
-  {
-    "flow_type": "template",
-    "flow_subtype": "proximal_outcomes",
-    "flow_name": "set_domain",
-    "_source": {
-      "name": "kids_teens_global V2",
-      "path": "templates/PLH proximal outcomes.xlsx",
-      "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
-    }
-  },
-  {
-    "flow_type": "template",
     "flow_name": "settings",
     "_source": {
       "name": "kids_teens_global V2",
@@ -4095,7 +4154,7 @@
     "flow_name": "show_certificate",
     "_source": {
       "name": "kids_teens_global V2",
-      "path": "templates/certificates.xlsx",
+      "path": "templates/PLH certificates.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1KKfrEtHpXm0sMNY21dYKMmZBOny_Vnum-zr1zgdPcmM"
     }
   },
@@ -4113,7 +4172,7 @@
     "flow_name": "update_certificate_name",
     "_source": {
       "name": "kids_teens_global V2",
-      "path": "templates/certificates.xlsx",
+      "path": "templates/PLH certificates.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1KKfrEtHpXm0sMNY21dYKMmZBOny_Vnum-zr1zgdPcmM"
     }
   },

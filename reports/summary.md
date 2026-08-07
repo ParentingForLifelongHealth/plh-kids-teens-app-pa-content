@@ -9,12 +9,12 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 118 |
+| button | 122 |
 | combo_box | 27 |
-| data_items | 242 |
+| data_items | 246 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 117 |
+| display_group | 121 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 23 |
@@ -33,20 +33,20 @@
 | plh_progress_bar | 5 |
 | qr_code | 1 |
 | radio_button_grid | 10 |
-| radio_list | 1 |
-| round_button | 22 |
+| radio_list | 3 |
+| round_button | 23 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 4381 |
+| set_variable | 4439 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 1358 |
-| text | 296 |
+| template | 1361 |
+| text | 301 |
 | text_area | 3 |
 | text_box | 21 |
-| text_bubble | 19 |
-| title | 63 |
+| text_bubble | 21 |
+| title | 64 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
 | video | 3 |
@@ -60,15 +60,15 @@
 | --- | --- |
 | add_data | 4 |
 | app_update | 1 |
-| asset_pack | 2 |
+| asset_pack | 3 |
 | auth | 3 |
-| emit: completed | 977 |
+| emit: completed | 983 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 991 |
+| emit: uncompleted | 992 |
 | feedback | 13 |
 | go_to | 26 |
 | nav | 1 |
@@ -79,9 +79,9 @@
 | reset_data | 3 |
 | save_to_device | 1 |
 | set_data | 127 |
-| set_field | 162 |
+| set_field | 169 |
 | set_item | 30 |
-| set_local | 134 |
+| set_local | 137 |
 | share | 3 |
 | task | 2 |
 | toast | 12 |
@@ -696,7 +696,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 19 |
+| data_list |  | 20 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
 | data_list | campaign_rows | 1 |
@@ -794,5 +794,5 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | template |  | 181 |
 | template | generated | 1093 |
 | template | legal_terms | 4 |
-| template | proximal_outcomes | 2 |
+| template | proximal_outcomes | 7 |
 </details>
