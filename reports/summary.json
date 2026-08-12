@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 122
+        "count": 123
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 246
+        "count": 245
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 121
+        "count": 123
       },
       {
         "type": "drawer",
@@ -59,7 +59,7 @@
       },
       {
         "type": "image",
-        "count": 23
+        "count": 26
       },
       {
         "type": "items",
@@ -139,7 +139,7 @@
       },
       {
         "type": "set_variable",
-        "count": 4439
+        "count": 4363
       },
       {
         "type": "simple_checkbox",
@@ -159,7 +159,7 @@
       },
       {
         "type": "text",
-        "count": 301
+        "count": 304
       },
       {
         "type": "text_area",
@@ -175,7 +175,7 @@
       },
       {
         "type": "title",
-        "count": 64
+        "count": 65
       },
       {
         "type": "toggle_bar",
@@ -207,7 +207,7 @@
       },
       {
         "type": "asset_pack",
-        "count": 3
+        "count": 4
       },
       {
         "type": "auth",
@@ -291,7 +291,7 @@
       },
       {
         "type": "set_local",
-        "count": 137
+        "count": 136
       },
       {
         "type": "share",
@@ -315,7 +315,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "87119 KB",
+        "KB": "87120 KB",
         "MB": "87.1 MB"
       },
       {
@@ -2654,6 +2654,11 @@
         "path": "images/icons/brain_blue.png",
         "count": 14,
         "size_kb": 5.2
+      },
+      {
+        "path": "images/icons/bug.svg",
+        "count": 2,
+        "size_kb": 1.2
       },
       {
         "path": "images/icons/celebration.svg",

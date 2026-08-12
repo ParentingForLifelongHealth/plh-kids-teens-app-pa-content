@@ -9,15 +9,15 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 122 |
+| button | 123 |
 | combo_box | 27 |
-| data_items | 246 |
+| data_items | 245 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 121 |
+| display_group | 123 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
-| image | 23 |
+| image | 26 |
 | items | 16 |
 | lottie_animation | 5 |
 | nested_properties | 386 |
@@ -37,16 +37,16 @@
 | round_button | 23 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 4439 |
+| set_variable | 4363 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 1361 |
-| text | 301 |
+| text | 304 |
 | text_area | 3 |
 | text_box | 21 |
 | text_bubble | 21 |
-| title | 64 |
+| title | 65 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
 | video | 3 |
@@ -60,7 +60,7 @@
 | --- | --- |
 | add_data | 4 |
 | app_update | 1 |
-| asset_pack | 3 |
+| asset_pack | 4 |
 | auth | 3 |
 | emit: completed | 983 |
 | emit: force_reload | 3 |
@@ -81,7 +81,7 @@
 | set_data | 127 |
 | set_field | 169 |
 | set_item | 30 |
-| set_local | 137 |
+| set_local | 136 |
 | share | 3 |
 | task | 2 |
 | toast | 12 |
@@ -93,7 +93,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 87119 KB | 87.1 MB |
+| total | 87120 KB | 87.1 MB |
 | unused | 3763 KB | 3.8 MB |
 </details>
 
@@ -602,6 +602,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/homescreen/understand_t.svg | 738.3 | 15 |
 | images/icons/balance_blue.png | 4.7 | 16 |
 | images/icons/brain_blue.png | 5.2 | 14 |
+| images/icons/bug.svg | 1.2 | 2 |
 | images/icons/celebration.svg | 70.4 | 1 |
 | images/icons/change.png | 35.3 | 2 |
 | images/icons/chatbubble-ellipses-outline.svg | 0.8 | 1 |
