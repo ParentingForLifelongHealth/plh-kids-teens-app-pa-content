@@ -178,7 +178,7 @@
     {
       "type": "declare_global_constant",
       "name": "onboarding_error_troubleshoot",
-      "value": "Algo salió mal. Asegúrate de tener conexión a internet y espacio en tu teléfono, luego intenta de nuevo."
+      "value": "Asegúrate de tener conexión a internet y espacio en tu teléfono, luego intenta de nuevo."
     },
     {
       "type": "declare_global_constant",
@@ -204,7 +204,7 @@
     {
       "type": "declare_global_constant",
       "name": "onboarding_no_connection_button_text",
-      "value": "Intenta de nuevo."
+      "value": "Intenta de nuevo"
     },
     {
       "type": "declare_global_constant",
