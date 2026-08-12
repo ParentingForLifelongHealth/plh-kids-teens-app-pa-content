@@ -240,7 +240,7 @@
     {
       "type": "declare_global_constant",
       "name": "onboarding_error_text",
-      "value": "Algo salió mal. Por favor revisa tu conexión e intenta de nuevo.",
+      "value": "Algo salió mal.",
       "_translations": {
         "value": {}
       }
@@ -248,7 +248,7 @@
     {
       "type": "declare_global_constant",
       "name": "onboarding_error_troubleshoot_title",
-      "value": "WHAT TO DO FIRST",
+      "value": "QUÉ HACER:",
       "_translations": {
         "value": {}
       }
@@ -256,7 +256,7 @@
     {
       "type": "declare_global_constant",
       "name": "onboarding_error_troubleshoot",
-      "value": "📱 Open Settings\n\n📶 Turn on Wi-Fi or Mobile Data\n\n↩️ Come back here and tap the button below",
+      "value": "Algo salió mal. Asegúrate de tener conexión a internet y espacio en tu teléfono, luego intenta de nuevo.",
       "_translations": {
         "value": {}
       }
@@ -264,7 +264,7 @@
     {
       "type": "declare_global_constant",
       "name": "onboarding_error_button_text",
-      "value": "Intenta de nuevo.",
+      "value": "Intenta de nuevo",
       "_translations": {
         "value": {}
       }
@@ -289,7 +289,7 @@
     {
       "type": "declare_global_constant",
       "name": "onboarding_no_connection_text",
-      "value": "Algo salió mal. Por favor revisa tu conexión e intenta de nuevo.",
+      "value": "Algo salió mal.",
       "_translations": {
         "value": {}
       }
@@ -305,7 +305,7 @@
     {
       "type": "declare_global_constant",
       "name": "onboarding_no_connection_troubleshoot_title",
-      "value": "WHAT TO DO FIRST",
+      "value": "QUÉ HACER:",
       "_translations": {
         "value": {}
       }
@@ -313,7 +313,7 @@
     {
       "type": "declare_global_constant",
       "name": "onboarding_no_connection_troubleshoot",
-      "value": "📱 Open Settings\n\n📶 Turn on Wi-Fi or Mobile Data\n\n↩️ Come back here and tap the button below",
+      "value": "📱 Abre Ajustes en tu teléfono\n\n📶 Activa el Wi-Fi o los datos móviles\n\n↩️ Vuelve y toca el botón de abajo",
       "_translations": {
         "value": {}
       }
