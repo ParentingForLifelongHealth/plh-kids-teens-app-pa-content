@@ -14,7 +14,7 @@
 | data_items | 245 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 123 |
+| display_group | 125 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 26 |
@@ -42,7 +42,7 @@
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 1361 |
-| text | 304 |
+| text | 308 |
 | text_area | 3 |
 | text_box | 21 |
 | text_bubble | 21 |
