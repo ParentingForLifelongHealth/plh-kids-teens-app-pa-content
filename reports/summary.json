@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 123
+        "count": 118
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 245
+        "count": 240
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 125
+        "count": 121
       },
       {
         "type": "drawer",
@@ -111,7 +111,7 @@
       },
       {
         "type": "plh_progress_bar",
-        "count": 5
+        "count": 4
       },
       {
         "type": "qr_code",
@@ -119,15 +119,11 @@
       },
       {
         "type": "radio_button_grid",
-        "count": 10
-      },
-      {
-        "type": "radio_list",
-        "count": 3
+        "count": 9
       },
       {
         "type": "round_button",
-        "count": 23
+        "count": 20
       },
       {
         "type": "select_text",
@@ -139,7 +135,7 @@
       },
       {
         "type": "set_variable",
-        "count": 4363
+        "count": 4299
       },
       {
         "type": "simple_checkbox",
@@ -155,11 +151,11 @@
       },
       {
         "type": "template",
-        "count": 1361
+        "count": 1358
       },
       {
         "type": "text",
-        "count": 308
+        "count": 305
       },
       {
         "type": "text_area",
@@ -171,7 +167,7 @@
       },
       {
         "type": "text_bubble",
-        "count": 21
+        "count": 18
       },
       {
         "type": "title",
@@ -215,7 +211,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 983
+        "count": 975
       },
       {
         "type": "emit: force_reload",
@@ -239,7 +235,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 992
+        "count": 989
       },
       {
         "type": "feedback",
@@ -283,7 +279,7 @@
       },
       {
         "type": "set_field",
-        "count": 169
+        "count": 160
       },
       {
         "type": "set_item",
@@ -291,7 +287,7 @@
       },
       {
         "type": "set_local",
-        "count": 136
+        "count": 133
       },
       {
         "type": "share",
@@ -315,33 +311,25 @@
     "data": [
       {
         "assets": "total",
-        "KB": "87120 KB",
-        "MB": "87.1 MB"
+        "KB": "89848 KB",
+        "MB": "89.8 MB"
       },
       {
         "assets": "unused",
-        "KB": "3763 KB",
-        "MB": "3.8 MB"
+        "KB": "3491 KB",
+        "MB": "3.5 MB"
       }
     ]
   },
   "assets_unused": {
     "data": [
       {
-        "path": "android/icon-background.png",
-        "size_kb": 21.4
-      },
-      {
         "path": "android/icon-foreground.png",
         "size_kb": 44
       },
       {
         "path": "android/icon.png",
-        "size_kb": 70.3
-      },
-      {
-        "path": "android/splash.png",
-        "size_kb": 239
+        "size_kb": 58.3
       },
       {
         "path": "images/activities/personajes_t.svg",
@@ -652,12 +640,112 @@
   "assets_missing": {
     "data": [
       {
+        "path": "audio/relax/relax _22.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_10.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_11.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_12.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_13.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_14.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_15.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_16.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_17.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_18.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_19.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_20.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_21.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_23.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_24.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_4.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_5.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_6.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_7.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/relax_8.m4a",
+        "count": 1,
+        "missing": true
+      },
+      {
         "path": "images/logos/app_logo.png",
         "count": 1,
         "missing": true
       },
       {
-        "path": "images/logos/plh_logomark.png",
+        "path": "images/logos/partners/plh_logomark.png",
         "count": 1,
         "missing": true
       }
@@ -665,6 +753,46 @@
   },
   "asset_summary": {
     "data": [
+      {
+        "path": "audio/relax/female/relax_14.m4a",
+        "count": 21,
+        "size_kb": 290.6
+      },
+      {
+        "path": "audio/relax/female/relax_15.m4a",
+        "count": 21,
+        "size_kb": 360.2
+      },
+      {
+        "path": "audio/relax/female/relax_16.m4a",
+        "count": 21,
+        "size_kb": 301.4
+      },
+      {
+        "path": "audio/relax/female/relax_17.m4a",
+        "count": 20,
+        "size_kb": 335.8
+      },
+      {
+        "path": "audio/relax/male/relax_1.m4a",
+        "count": 21,
+        "size_kb": 213.2
+      },
+      {
+        "path": "audio/relax/male/relax_2.m4a",
+        "count": 21,
+        "size_kb": 451.3
+      },
+      {
+        "path": "audio/relax/male/relax_3.m4a",
+        "count": 21,
+        "size_kb": 244.5
+      },
+      {
+        "path": "audio/relax/male/relax_9.m4a",
+        "count": 20,
+        "size_kb": 530.4
+      },
       {
         "path": "images/activities/aciegas_c.svg",
         "count": 2,
@@ -2657,7 +2785,7 @@
       },
       {
         "path": "images/icons/bug.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1.2
       },
       {
@@ -3570,14 +3698,9 @@
         "total": 15
       },
       {
-        "type": "global",
-        "subtype": "proximal_outcomes",
-        "total": 1
-      },
-      {
         "type": "template",
         "subtype": null,
-        "total": 181
+        "total": 182
       },
       {
         "type": "template",
@@ -3588,11 +3711,6 @@
         "type": "template",
         "subtype": "legal_terms",
         "total": 4
-      },
-      {
-        "type": "template",
-        "subtype": "proximal_outcomes",
-        "total": 7
       }
     ]
   }

@@ -146,6 +146,9 @@
       "_metadata": {
         "value": {
           "type": "number"
+        },
+        "exclude_from_translation": {
+          "type": "boolean"
         }
       }
     },
@@ -13240,16 +13243,6 @@
         "url": "https://docs.google.com/spreadsheets/d/1r5zNT0MXsfMYSXrhYSLw1xGesza4qjQB-EJ2PMmTBlc"
       }
     },
-    "proximal_outcomes_global": {
-      "flow_type": "global",
-      "flow_subtype": "proximal_outcomes",
-      "flow_name": "proximal_outcomes_global",
-      "_source": {
-        "name": "kids_teens_global V2",
-        "path": "templates/PLH proximal outcomes.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
-      }
-    },
     "user_data_global": {
       "flow_type": "global",
       "flow_name": "user_data_global",
@@ -13348,8 +13341,8 @@
       "flow_name": "article",
       "_source": {
         "name": "kids_teens_global V2",
-        "path": "templates/articles.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1DugrEldDOorcWLHgU5QDSlBH1hbEYdOfsjVb7ehQFCo"
+        "path": "templates/articles v2.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1xey5POn7HeELSQtoLb7WU3RWTyXnpoLX-pflLhgQ6S8"
       }
     },
     "certificate_list_item": {
@@ -13375,8 +13368,8 @@
       "flow_name": "comic_bubble",
       "_source": {
         "name": "kids_teens_global V2",
-        "path": "templates/articles.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1DugrEldDOorcWLHgU5QDSlBH1hbEYdOfsjVb7ehQFCo"
+        "path": "templates/articles v2.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1xey5POn7HeELSQtoLb7WU3RWTyXnpoLX-pflLhgQ6S8"
       }
     },
     "confirm_exit": {
@@ -13465,8 +13458,8 @@
       "flow_name": "extra_text",
       "_source": {
         "name": "kids_teens_global V2",
-        "path": "templates/articles.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1DugrEldDOorcWLHgU5QDSlBH1hbEYdOfsjVb7ehQFCo"
+        "path": "templates/articles v2.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1xey5POn7HeELSQtoLb7WU3RWTyXnpoLX-pflLhgQ6S8"
       }
     },
     "feedback": {
@@ -13474,8 +13467,17 @@
       "flow_name": "feedback",
       "_source": {
         "name": "kids_teens_global V2",
-        "path": "templates/articles.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1DugrEldDOorcWLHgU5QDSlBH1hbEYdOfsjVb7ehQFCo"
+        "path": "templates/articles v2.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1xey5POn7HeELSQtoLb7WU3RWTyXnpoLX-pflLhgQ6S8"
+      }
+    },
+    "feedback_article": {
+      "flow_type": "template",
+      "flow_name": "feedback_article",
+      "_source": {
+        "name": "kids_teens_global V2",
+        "path": "templates/articles v2.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1xey5POn7HeELSQtoLb7WU3RWTyXnpoLX-pflLhgQ6S8"
       }
     },
     "feedback_debug": {
@@ -19195,8 +19197,8 @@
       "flow_name": "media_transcript",
       "_source": {
         "name": "kids_teens_global V2",
-        "path": "templates/articles.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1DugrEldDOorcWLHgU5QDSlBH1hbEYdOfsjVb7ehQFCo"
+        "path": "templates/articles v2.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1xey5POn7HeELSQtoLb7WU3RWTyXnpoLX-pflLhgQ6S8"
       }
     },
     "message_element": {
@@ -20935,78 +20937,8 @@
       "flow_name": "pop_up_text",
       "_source": {
         "name": "kids_teens_global V2",
-        "path": "templates/articles.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1DugrEldDOorcWLHgU5QDSlBH1hbEYdOfsjVb7ehQFCo"
-      }
-    },
-    "onboarding_settings_set_chall": {
-      "flow_type": "template",
-      "flow_subtype": "proximal_outcomes",
-      "flow_name": "onboarding_settings_set_chall",
-      "_source": {
-        "name": "kids_teens_global V2",
-        "path": "templates/PLH proximal outcomes.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
-      }
-    },
-    "onboarding_settings_set_domain": {
-      "flow_type": "template",
-      "flow_subtype": "proximal_outcomes",
-      "flow_name": "onboarding_settings_set_domain",
-      "_source": {
-        "name": "kids_teens_global V2",
-        "path": "templates/PLH proximal outcomes.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
-      }
-    },
-    "onboarding_settings_set_goal": {
-      "flow_type": "template",
-      "flow_subtype": "proximal_outcomes",
-      "flow_name": "onboarding_settings_set_goal",
-      "_source": {
-        "name": "kids_teens_global V2",
-        "path": "templates/PLH proximal outcomes.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
-      }
-    },
-    "proximal_outcome_base_question": {
-      "flow_type": "template",
-      "flow_subtype": "proximal_outcomes",
-      "flow_name": "proximal_outcome_base_question",
-      "_source": {
-        "name": "kids_teens_global V2",
-        "path": "templates/PLH proximal outcomes.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
-      }
-    },
-    "proximal_outcome_qs_base_1": {
-      "flow_type": "template",
-      "flow_subtype": "proximal_outcomes",
-      "flow_name": "proximal_outcome_qs_base_1",
-      "_source": {
-        "name": "kids_teens_global V2",
-        "path": "templates/PLH proximal outcomes.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
-      }
-    },
-    "proximal_outcome_qs_base_2": {
-      "flow_type": "template",
-      "flow_subtype": "proximal_outcomes",
-      "flow_name": "proximal_outcome_qs_base_2",
-      "_source": {
-        "name": "kids_teens_global V2",
-        "path": "templates/PLH proximal outcomes.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
-      }
-    },
-    "proximal_outcome_qs_goal": {
-      "flow_type": "template",
-      "flow_subtype": "proximal_outcomes",
-      "flow_name": "proximal_outcome_qs_goal",
-      "_source": {
-        "name": "kids_teens_global V2",
-        "path": "templates/PLH proximal outcomes.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
+        "path": "templates/articles v2.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1xey5POn7HeELSQtoLb7WU3RWTyXnpoLX-pflLhgQ6S8"
       }
     },
     "question": {
@@ -21014,8 +20946,8 @@
       "flow_name": "question",
       "_source": {
         "name": "kids_teens_global V2",
-        "path": "templates/articles.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1DugrEldDOorcWLHgU5QDSlBH1hbEYdOfsjVb7ehQFCo"
+        "path": "templates/articles v2.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1xey5POn7HeELSQtoLb7WU3RWTyXnpoLX-pflLhgQ6S8"
       }
     },
     "related_element": {
@@ -21068,8 +21000,8 @@
       "flow_name": "section",
       "_source": {
         "name": "kids_teens_global V2",
-        "path": "templates/articles.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1DugrEldDOorcWLHgU5QDSlBH1hbEYdOfsjVb7ehQFCo"
+        "path": "templates/articles v2.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1xey5POn7HeELSQtoLb7WU3RWTyXnpoLX-pflLhgQ6S8"
       }
     },
     "section_element": {
@@ -21112,7 +21044,7 @@
       "parameter_list": {
         "app_config": {
           "APP_FOOTER_DEFAULTS": {
-            "templateName": false
+            "template": false
           }
         }
       },
@@ -21137,7 +21069,7 @@
       "parameter_list": {
         "app_config": {
           "APP_FOOTER_DEFAULTS": {
-            "templateName": false
+            "template": false
           }
         }
       },
@@ -21153,7 +21085,7 @@
       "parameter_list": {
         "app_config": {
           "APP_FOOTER_DEFAULTS": {
-            "templateName": false
+            "template": false
           }
         }
       },
@@ -21169,7 +21101,7 @@
       "parameter_list": {
         "app_config": {
           "APP_FOOTER_DEFAULTS": {
-            "templateName": false
+            "template": false
           }
         }
       },
@@ -21185,7 +21117,7 @@
       "parameter_list": {
         "app_config": {
           "APP_FOOTER_DEFAULTS": {
-            "templateName": false
+            "template": false
           }
         }
       },
@@ -21201,7 +21133,7 @@
       "parameter_list": {
         "app_config": {
           "APP_FOOTER_DEFAULTS": {
-            "templateName": false
+            "template": false
           }
         }
       },
@@ -21217,7 +21149,7 @@
       "parameter_list": {
         "app_config": {
           "APP_FOOTER_DEFAULTS": {
-            "templateName": false
+            "template": false
           }
         }
       },

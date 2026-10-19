@@ -5,7 +5,7 @@
   "rows": [
     {
       "name": "article_id",
-      "value": "explore_1",
+      "value": "tcb",
       "_translations": {
         "value": {}
       },
@@ -15,7 +15,7 @@
     },
     {
       "name": "module_id",
-      "value": "selfcare",
+      "value": "tcb",
       "_translations": {
         "value": {}
       },
@@ -631,7 +631,7 @@
   ],
   "_source": {
     "name": "kids_teens_global V2",
-    "path": "templates/articles.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1DugrEldDOorcWLHgU5QDSlBH1hbEYdOfsjVb7ehQFCo"
+    "path": "templates/articles v2.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1xey5POn7HeELSQtoLb7WU3RWTyXnpoLX-pflLhgQ6S8"
   }
 }
