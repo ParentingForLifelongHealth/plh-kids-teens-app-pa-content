@@ -75,36 +75,36 @@
     },
     {
       "name": "home_screen_logo_width",
-      "value": "@global.home_screen_logo_height",
+      "value": "@global.home_screen_logo_width",
       "_translations": {
         "value": {}
       },
-      "condition": "!!@global.home_screen_logo_height",
+      "condition": "!!@global.home_screen_logo_width",
       "type": "set_variable",
       "_nested_name": "home_screen_logo_width",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@global.home_screen_logo_height",
-            "matchedExpression": "@global.home_screen_logo_height",
+            "fullExpression": "@global.home_screen_logo_width",
+            "matchedExpression": "@global.home_screen_logo_width",
             "type": "global",
-            "fieldName": "home_screen_logo_height"
+            "fieldName": "home_screen_logo_width"
           }
         ],
         "condition": [
           {
-            "fullExpression": "!!@global.home_screen_logo_height",
-            "matchedExpression": "!@global.home_screen_logo_height",
+            "fullExpression": "!!@global.home_screen_logo_width",
+            "matchedExpression": "!@global.home_screen_logo_width",
             "type": "global",
-            "fieldName": "home_screen_logo_height"
+            "fieldName": "home_screen_logo_width"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@global.home_screen_logo_height": [
+        "@global.home_screen_logo_width": [
           "value"
         ],
-        "!@global.home_screen_logo_height": [
+        "!@global.home_screen_logo_width": [
           "condition"
         ]
       }

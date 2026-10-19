@@ -19,8 +19,8 @@
     },
     {
       "name": "home_screen_logo_width",
-      "value": "@global.home_screen_logo_height",
-      "condition": "!!@global.home_screen_logo_height"
+      "value": "@global.home_screen_logo_width",
+      "condition": "!!@global.home_screen_logo_width"
     },
     {
       "name": "home_screen_logo_height",

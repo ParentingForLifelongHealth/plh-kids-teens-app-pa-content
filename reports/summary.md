@@ -9,12 +9,12 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 123 |
+| button | 118 |
 | combo_box | 27 |
-| data_items | 245 |
+| data_items | 240 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 125 |
+| display_group | 121 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 26 |
@@ -30,22 +30,21 @@
 | plh_lesson_cta | 2 |
 | plh_module_details_header | 1 |
 | plh_module_list_item | 2 |
-| plh_progress_bar | 5 |
+| plh_progress_bar | 4 |
 | qr_code | 1 |
-| radio_button_grid | 10 |
-| radio_list | 3 |
-| round_button | 23 |
+| radio_button_grid | 9 |
+| round_button | 20 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 4363 |
+| set_variable | 4299 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 1361 |
-| text | 308 |
+| template | 1358 |
+| text | 305 |
 | text_area | 3 |
 | text_box | 21 |
-| text_bubble | 21 |
+| text_bubble | 18 |
 | title | 65 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
@@ -62,13 +61,13 @@
 | app_update | 1 |
 | asset_pack | 4 |
 | auth | 3 |
-| emit: completed | 983 |
+| emit: completed | 975 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 992 |
+| emit: uncompleted | 989 |
 | feedback | 13 |
 | go_to | 26 |
 | nav | 1 |
@@ -79,9 +78,9 @@
 | reset_data | 3 |
 | save_to_device | 1 |
 | set_data | 127 |
-| set_field | 169 |
+| set_field | 160 |
 | set_item | 30 |
-| set_local | 136 |
+| set_local | 133 |
 | share | 3 |
 | task | 2 |
 | toast | 12 |
@@ -93,8 +92,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 87120 KB | 87.1 MB |
-| unused | 3763 KB | 3.8 MB |
+| total | 89848 KB | 89.8 MB |
+| unused | 3491 KB | 3.5 MB |
 </details>
 
 <details open>
@@ -104,10 +103,8 @@ Assets that appear in app-data but do not have references within sheets
 
 | path | size_kb |
 | --- | --- |
-| android/icon-background.png | 21.4 |
 | android/icon-foreground.png | 44 |
-| android/icon.png | 70.3 |
-| android/splash.png | 239 |
+| android/icon.png | 58.3 |
 | images/activities/personajes_t.svg | 204 |
 | images/backgrounds/homescreen_pattern.svg | 156.3 |
 | images/character_icons/ANGELA_comic.svg | 909.5 |
@@ -193,8 +190,28 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
+| audio/relax/relax _22.m4a | 1 |
+| audio/relax/relax_10.m4a | 1 |
+| audio/relax/relax_11.m4a | 1 |
+| audio/relax/relax_12.m4a | 1 |
+| audio/relax/relax_13.m4a | 1 |
+| audio/relax/relax_14.m4a | 1 |
+| audio/relax/relax_15.m4a | 1 |
+| audio/relax/relax_16.m4a | 1 |
+| audio/relax/relax_17.m4a | 1 |
+| audio/relax/relax_18.m4a | 1 |
+| audio/relax/relax_19.m4a | 1 |
+| audio/relax/relax_20.m4a | 1 |
+| audio/relax/relax_21.m4a | 1 |
+| audio/relax/relax_23.m4a | 1 |
+| audio/relax/relax_24.m4a | 1 |
+| audio/relax/relax_4.m4a | 1 |
+| audio/relax/relax_5.m4a | 1 |
+| audio/relax/relax_6.m4a | 1 |
+| audio/relax/relax_7.m4a | 1 |
+| audio/relax/relax_8.m4a | 1 |
 | images/logos/app_logo.png | 1 |
-| images/logos/plh_logomark.png | 1 |
+| images/logos/partners/plh_logomark.png | 1 |
 </details>
 
 <details >
@@ -204,6 +221,14 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | path | size_kb | count |
 | --- | --- | --- |
+| audio/relax/female/relax_14.m4a | 290.6 | 21 |
+| audio/relax/female/relax_15.m4a | 360.2 | 21 |
+| audio/relax/female/relax_16.m4a | 301.4 | 21 |
+| audio/relax/female/relax_17.m4a | 335.8 | 20 |
+| audio/relax/male/relax_1.m4a | 213.2 | 21 |
+| audio/relax/male/relax_2.m4a | 451.3 | 21 |
+| audio/relax/male/relax_3.m4a | 244.5 | 21 |
+| audio/relax/male/relax_9.m4a | 530.4 | 20 |
 | images/activities/aciegas_c.svg | 32.8 | 2 |
 | images/activities/aciegas_t.svg | 27.2 | 2 |
 | images/activities/activate_c.svg | 146.8 | 2 |
@@ -602,7 +627,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/homescreen/understand_t.svg | 738.3 | 15 |
 | images/icons/balance_blue.png | 4.7 | 16 |
 | images/icons/brain_blue.png | 5.2 | 14 |
-| images/icons/bug.svg | 1.2 | 2 |
+| images/icons/bug.svg | 1.2 | 4 |
 | images/icons/celebration.svg | 70.4 | 1 |
 | images/icons/change.png | 35.3 | 2 |
 | images/icons/chatbubble-ellipses-outline.svg | 0.8 | 1 |
@@ -791,9 +816,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 87 |
 | global |  | 12 |
 | global | onboarding | 15 |
-| global | proximal_outcomes | 1 |
-| template |  | 181 |
+| template |  | 182 |
 | template | generated | 1093 |
 | template | legal_terms | 4 |
-| template | proximal_outcomes | 7 |
 </details>
